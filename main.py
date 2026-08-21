@@ -874,9 +874,8 @@ STRICT OUTPUT JSON:
             f"<p>{deep_dive}</p>\n"
             f"<h2>🔮 چشم‌انداز صنعت</h2>\n"
             f"<p>{strategic_outlook}</p>\n"
-            f"<footer>\n"
+            f"\n"
             f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
-            f"</footer>\n"
         )
 
         # 1. Send Rich Message
@@ -970,7 +969,6 @@ STRICT OUTPUT JSON:
             f"<li>🚨 <b>سطح اهمیت:</b> {summary.get('risk_level', '?')}/10 ({esc(summary.get('change_from_previous', ''))})</li>\n"
             f"<li>🤖 <b>بروز AI:</b> {ai_text}</li>\n"
             f"</ul>\n"
-            f"</br>"
             f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
         )
 
