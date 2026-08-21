@@ -62,7 +62,9 @@ CONFIG = {
     'MIN_TEXT_LEN': 100,
     'MAX_IMAGES_PER_ITEM': 4,
     'MIN_AI_URGENCY_HINT': 5,
-    'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
+    'GEMINI_KEYS': [
+        k.strip() for k in os.environ.get('GEMINI_API_KEYS', os.environ.get('GEMINI_API_KEY', '')).split(',') if k.strip()
+    ],
     'GEMINI_MODEL': 'gemini-3.6-flash',
     'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
@@ -127,6 +129,14 @@ class TechNewsRadar:
             self.recent_title_hashes = set(list(self.recent_title_hashes)[-150:])
 
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
+
+        # Round-robin index into CONFIG['GEMINI_KEYS'] so each call to
+        # _call_gemini starts with a different key than the last call.
+        self._gemini_key_cursor = 0
+        if not CONFIG.get('GEMINI_KEYS'):
+            logger.warning("No Gemini API keys configured (GEMINI_API_KEYS/GEMINI_API_KEY).")
+        else:
+            logger.info(f"Loaded {len(CONFIG['GEMINI_KEYS'])} Gemini API key(s) for rotation.")
 
     # ───────────────────────── helpers ─────────────────────────
 
@@ -740,12 +750,25 @@ class TechNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
+    def _next_gemini_key(self):
+        """
+        Returns the next API key to try, round-robin style, so consecutive
+        calls to _call_gemini (and consecutive retries within one call)
+        spread load across all configured keys instead of hammering one.
+        """
+        keys = CONFIG.get('GEMINI_KEYS') or []
+        if not keys:
+            return None
+        key = keys[self._gemini_key_cursor % len(keys)]
+        self._gemini_key_cursor += 1
+        return key
+
     def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
-        if not CONFIG.get('GEMINI_KEY'):
-            logger.error("GEMINI_API_KEY is not set.")
+        keys = CONFIG.get('GEMINI_KEYS') or []
+        if not keys:
+            logger.error("No Gemini API key configured (GEMINI_API_KEYS/GEMINI_API_KEY).")
             return None
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
         payload = {
             "system_instruction": {
                 "parts": [{"text": system_prompt}]
@@ -758,8 +781,18 @@ class TechNewsRadar:
                 "temperature": temperature
             }
         }
-        
-        for attempt in range(CONFIG['AI_RETRIES']):
+
+        num_keys = len(keys)
+        # Each "attempt" tries the next key in rotation. If a key is
+        # quota-limited (429) or otherwise fails, we move straight to the
+        # next key rather than re-hitting the same exhausted one.
+        total_attempts = max(CONFIG['AI_RETRIES'], num_keys)
+
+        for attempt in range(total_attempts):
+            key = self._next_gemini_key()
+            key_label = f"key#{(self._gemini_key_cursor - 1) % num_keys + 1}/{num_keys}"
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={key}"
+
             try:
                 resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
                 if resp.status_code == 200:
@@ -767,11 +800,33 @@ class TechNewsRadar:
                     raw_text = result['candidates'][0]['content']['parts'][0]['text']
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
                     return json.loads(clean)
+
+                logger.error(f"Gemini API error ({key_label}) {resp.status_code}: {resp.text[:200]}")
+
+                if resp.status_code == 429:
+                    # Quota/rate-limit hit on this key. If we have other keys
+                    # left to try in this round, move to the next one right
+                    # away instead of waiting. Only sleep if we've cycled
+                    # through every key and are about to retry one again.
+                    if (attempt + 1) % num_keys == 0:
+                        retry_after = resp.headers.get('Retry-After')
+                        try:
+                            wait = float(retry_after) if retry_after else (2 ** ((attempt + 1) // num_keys))
+                        except ValueError:
+                            wait = 2 ** ((attempt + 1) // num_keys)
+                        wait = min(wait, 60)
+                        logger.warning(f"All Gemini keys rate/quota limited, waiting {wait:.0f}s before retrying...")
+                        time.sleep(wait)
+                elif resp.status_code >= 500:
+                    time.sleep(2 ** ((attempt // num_keys) + 1))
                 else:
-                    logger.error(f"Gemini API error {resp.status_code}: {resp.text[:200]}")
-                time.sleep(1)
+                    # Non-retryable client error (e.g. bad request) on this
+                    # key - still worth trying a different key once, but
+                    # don't loop forever on the same bad request.
+                    if num_keys == 1:
+                        break
             except Exception as e:
-                logger.error(f"Gemini Attempt {attempt + 1} failed: {e}")
+                logger.error(f"Gemini Attempt {attempt + 1} ({key_label}) failed: {e}")
                 time.sleep(2)
         return None
 
@@ -780,7 +835,7 @@ class TechNewsRadar:
         Analyzes multiple candidate news articles in a SINGLE Gemini API request.
         candidates_data format: list of dicts with {'index', 'source', 'headline', 'text'}
         """
-        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
+        if not candidates_data or not CONFIG.get('GEMINI_KEYS'):
             return {}
 
         system_prompt = (
@@ -1593,7 +1648,19 @@ STRICT OUTPUT JSON:
                 for item in scraped_items:
                     ai = ai_batch_results.get(item['index'])
                     if not ai:
-                        continue
+                        # Gemini didn't return an entry for this item (quota/error/etc).
+                        # Don't throw away a successfully scraped article — save it with
+                        # safe defaults so it isn't silently lost, just unenriched.
+                        # Low default urgency keeps it out of the Telegram digest.
+                        ai = {
+                            'title_fa': item['headline'],
+                            'summary': [item['snippet']],
+                            'impact': '...',
+                            'tag': 'General',
+                            'urgency': 1,
+                            'sentiment': 0,
+                            'full_text_fa': '',
+                        }
                     try:
                         urgency_val = int(ai.get('urgency', 3))
                     except Exception:
