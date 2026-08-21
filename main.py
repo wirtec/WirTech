@@ -1165,7 +1165,15 @@ STRICT OUTPUT JSON:
             return False
 
     def send_digest_to_telegram(self, items):
-        """Send digest via Telegram Rich Messages with real photo blocks."""
+        """Send each news item as its OWN separate Telegram message (one item per message).
+
+        NOTE: The old implementation POSTed to '<bot_token>/sendRichMessage', which is not a
+        real Telegram Bot API method (Telegram has no such endpoint) and also used HTML tags
+        (<h1>, <ul>, <li>, <details>, <figure>, <tg-slideshow>, <mark>, <aside>, <hr>) that
+        Telegram's HTML parse_mode does not support. That call was guaranteed to fail on every
+        single run (400/404) before silently falling back. This version talks to the real,
+        documented endpoints (sendPhoto / sendMessage) with only tags Telegram actually renders.
+        """
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not items:
@@ -1173,171 +1181,107 @@ STRICT OUTPUT JSON:
 
         items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
 
-        def to_farsi_num(num):
-            return str(num).translate(str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹'))
-
         def esc(s):
             return html.escape(str(s or ''), quote=False)
 
-        now_ir = self._get_tehran_time()
-        ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
-        ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
+        photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
+        message_api = f"https://api.telegram.org/bot{token}/sendMessage"
 
-        # ── Collect valid images ──
-        photo_urls = []
-        for item in items:
-            img = item.get('image')
-            if self._is_valid_image_url(img) and img not in photo_urls:
-                photo_urls.append(img)
-            if len(photo_urls) >= 8:
-                break
-        if not photo_urls:
-            photo_urls = [self._get_fallback_image(items[0].get('title_en', 'tech'))]
+        sent_count = 0
+        total = len(items)
 
-        # ── Media block(s) ──
-        media_html = ""
-        if len(photo_urls) == 1:
-            media_html = (
-                f"<figure>"
-                f"<img src=\"{esc(photo_urls[0])}\"/>"
-                f"<figcaption>WirTech — {ir_time_str}</figcaption>"
-                f"</figure>\n"
-            )
-        else:
-            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
-            media_html = (
-                f"<tg-slideshow>{imgs}"
-                f"<figcaption>گالری اخبار تکنولوژی</figcaption>"
-                f"</tg-slideshow>\n"
-            )
-
-        # ── Headlines list ──
-        headlines_li = []
-        for item in items[:10]:
-            title = esc(item.get('title_fa') or item.get('title_en'))
-            source = esc(item.get('source', ''))
-            urgency = item.get('urgency', 3)
-            icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
-            src_url = item.get('url') or '#'
-            headlines_li.append(
-                f"<li>{icon} <a href=\"{esc(src_url)}\">{title}</a> <i>({source})</i></li>"
-            )
-        headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
-
-        # ── Per-item analysis ──
-        details_parts = []
-        all_tags = set()
-        for i, item in enumerate(items[:6], 1):
-            title = esc(item.get('title_fa') or item.get('title_en'))
+        for idx, item in enumerate(items):
+            title = esc(item.get('title_fa') or item.get('title_en') or 'بدون عنوان')
             source = esc(item.get('source', 'Unknown'))
             impact = esc(item.get('impact', ''))
-            src_url = item.get('url') or '#'
+            src_url = item.get('url') or ''
+            urgency = item.get('urgency', 3)
+            icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
 
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str):
                 summary_raw = [summary_raw]
-            safe_summary = "".join(f"<li><mark>{esc(s)}</mark></li>" for s in summary_raw if s)
+            summary_lines = "\n".join(f"• {esc(s)}" for s in summary_raw if s)
 
-            tag = str(item.get('tag', 'General')).replace(' ', '_')
-            all_tags.add(f"#{esc(tag)}")
-
-            # Use ALL images gathered for this item (not just one), skipping the
-            # hero image already shown in the top collage to avoid repeats.
-            item_images = item.get('images') or [item.get('image')]
-            item_images = [
-                u for u in item_images
-                if self._is_valid_image_url(u) and u not in photo_urls[:1]
-            ]
-            item_images = self._dedupe_images(item_images)
-            if not item_images:
-                item_media = ""
-            elif len(item_images) == 1:
-                item_media = f"<img src=\"{esc(item_images[0])}\"/>\n"
-            else:
-                imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in item_images)
-                item_media = f"<tg-slideshow>{imgs}</tg-slideshow>\n"
+            tag = str(item.get('tag', 'General')).strip().replace(' ', '_')
+            tag_line = f"#{esc(tag)}" if tag else ""
 
             full_text = esc(item.get('full_text_fa') or item.get('full_text') or '')
-            full_text_html = (
-                f"<p>📰 <b>متن کامل خبر:</b></p>\n<blockquote>{full_text}</blockquote>\n"
-                if full_text else ""
-            )
 
-            details_parts.append(
-                f"<details>\n"
-                f"<summary><b>{to_farsi_num(i)}. {title}</b> (برای مشاهده کلیک کن)</summary>\n"
-                f"{item_media}"
-                f"<p>📝 <b>چکیده خبر:</b></p>\n"
-                f"<ul>{safe_summary}</ul>\n"
-                f"{full_text_html}"
-                f"<p>🎯 <b>نتیجه:</b> {impact}</p>\n"
-                f"<p>🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a></p>\n"
-                f"</details>\n"
-                f"<hr/>\n"
-            )
-        details_html = "".join(details_parts)
+            photo_url = item.get('image')
+            has_photo = self._is_valid_image_url(photo_url)
 
-        tags_html = f"<p>{' '.join(sorted(all_tags))}</p>\n" if all_tags else ""
+            body_parts = [f"{icon} <b>{title}</b>"]
+            if summary_lines:
+                body_parts.append(f"📝 <b>چکیده:</b>\n{summary_lines}")
+            if impact:
+                body_parts.append(f"🎯 <b>نتیجه:</b> {impact}")
+            if src_url:
+                body_parts.append(f"🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a>")
+            if tag_line:
+                body_parts.append(tag_line)
 
-        full_html = (
-            f"<h1>🚀 WirTech — اخبار تکنولوژی و هوش مصنوعی</h1>\n"
-            f"<p>⏱ <b>زمان بروزرسانی:</b> {ir_time_str} — {ir_date_str} (تهران)</p>\n"
-            f"<hr/>\n"
-            f"{media_html}"
-            f"<h2>📌 سرخط مهم‌ترین اخبار</h2>\n"
-            f"{headlines_html}"
-            f"<hr/>\n"
-            f"<h2>📋 جزئیات خبر</h2>\n"
-            f"{details_html}"
-            f"{tags_html}"
-            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
-        )
+            caption_limit = 1024 if has_photo else 4096
 
-        if len(full_html) > 30000:
-            full_html = full_html[:30000]
+            # Text-only messages have more room, so append the full article when it fits.
+            if not has_photo and full_text:
+                with_full = "\n\n".join(body_parts + [
+                    f"📰 <b>متن کامل:</b>\n<blockquote expandable>{full_text}</blockquote>"
+                ])
+                if len(with_full) <= caption_limit:
+                    body_parts.append(f"📰 <b>متن کامل:</b>\n<blockquote expandable>{full_text}</blockquote>")
 
-        api_url = f"https://api.telegram.org/bot{token}/sendRichMessage"
-        payload = {
-            "chat_id": chat_id,
-            "rich_message": {
-                "html": full_html,
-                "is_rtl": True,
-            },
-        }
+            body = "\n\n".join(body_parts).strip()
+            if len(body) > caption_limit:
+                body = body[:caption_limit - 1].rstrip() + "…"
 
-        try:
-            resp = self.scraper.post(api_url, json=payload, timeout=30)
-            if resp.status_code == 200:
-                logger.info(">>> Rich Message with media blocks sent to Telegram.")
-                return
+            sent_ok = False
+            try:
+                if has_photo:
+                    resp = self.scraper.post(photo_api, json={
+                        "chat_id": chat_id,
+                        "photo": photo_url,
+                        "caption": body,
+                        "parse_mode": "HTML",
+                    }, timeout=20)
+                    if resp.status_code == 200:
+                        sent_ok = True
+                    else:
+                        logger.error(f"sendPhoto failed for '{title[:40]}': {resp.status_code} | {resp.text[:300]}")
+                        # Photo may be broken/expired — retry as a plain text message.
+                        text_body = body if len(body) <= 4096 else (body[:4095].rstrip() + "…")
+                        resp2 = self.scraper.post(message_api, json={
+                            "chat_id": chat_id,
+                            "text": text_body,
+                            "parse_mode": "HTML",
+                            "disable_web_page_preview": False,
+                        }, timeout=20)
+                        if resp2.status_code == 200:
+                            sent_ok = True
+                        else:
+                            logger.error(f"sendMessage fallback failed for '{title[:40]}': {resp2.status_code} | {resp2.text[:300]}")
+                else:
+                    resp = self.scraper.post(message_api, json={
+                        "chat_id": chat_id,
+                        "text": body,
+                        "parse_mode": "HTML",
+                        "disable_web_page_preview": False,
+                    }, timeout=20)
+                    if resp.status_code == 200:
+                        sent_ok = True
+                    else:
+                        logger.error(f"sendMessage failed for '{title[:40]}': {resp.status_code} | {resp.text[:300]}")
+            except Exception as e:
+                logger.error(f"Telegram send error for '{title[:40]}': {e}")
 
-            logger.error(f"sendRichMessage failed: {resp.status_code} | {resp.text[:500]}")
+            if sent_ok:
+                sent_count += 1
 
-            photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
-            caption_lines = [
-                "🚀 <b>WirTech — اخبار تکنولوژی و هوش مصنوعی</b>",
-                f"⏱ {ir_time_str} (تهران)",
-                "",
-            ]
-            for item in items[:5]:
-                t = esc(item.get('title_fa') or item.get('title_en'))
-                u = item.get('urgency', 3)
-                icon = "🔥" if u >= 9 else ("🚨" if u >= 7 else "🔹")
-                caption_lines.append(f"{icon} {t}")
-            caption = "\n".join(caption_lines)[:1024]
+            # Stay well under Telegram's per-chat rate limit (~1 msg/sec) between posts.
+            if idx < total - 1:
+                time.sleep(1.5)
 
-            resp2 = self.scraper.post(photo_api, json={
-                "chat_id": chat_id,
-                "photo": photo_urls[0],
-                "caption": caption,
-                "parse_mode": "HTML",
-            }, timeout=20)
-            if resp2.status_code == 200:
-                logger.info(">>> Fallback sendPhoto succeeded.")
-            else:
-                logger.error(f"sendPhoto fallback failed: {resp2.status_code} | {resp2.text[:300]}")
-        except Exception as e:
-            logger.error(f"TG Rich Message send error: {e}")
+        logger.info(f">>> Sent {sent_count}/{total} individual news messages to Telegram.")
 
     # ───────────────────────── save ─────────────────────────
 
