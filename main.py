@@ -62,9 +62,7 @@ CONFIG = {
     'MIN_TEXT_LEN': 100,
     'MAX_IMAGES_PER_ITEM': 4,
     'MIN_AI_URGENCY_HINT': 5,
-    'GEMINI_KEYS': [
-        k.strip() for k in os.environ.get('GEMINI_API_KEYS', os.environ.get('GEMINI_API_KEY', '')).split(',') if k.strip()
-    ],
+    'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
     'GEMINI_MODEL': 'gemini-3.6-flash',
     'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
@@ -85,16 +83,6 @@ BAD_IMAGE_HOSTS = (
     'news.google.com',
     'www.google.com',
     'google.com',
-)
-
-# Keywords that identify author/byline/avatar photos so they can be filtered out
-# of the article image gallery (class name, id, alt text, title, or filename).
-AUTHOR_IMAGE_HINTS = (
-    'author', 'avatar', 'byline', 'writer', 'profile-pic', 'profile_pic',
-    'profile-photo', 'profile_photo', 'gravatar', 'staff-photo', 'staff_photo',
-    'contributor', 'headshot', 'bio-photo', 'bio_photo', 'reporter',
-    'wp-author', 'team-member', 'user-avatar',
-    'نویسنده', 'خبرنگار', 'نگارنده',
 )
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -129,14 +117,6 @@ class TechNewsRadar:
             self.recent_title_hashes = set(list(self.recent_title_hashes)[-150:])
 
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
-
-        # Round-robin index into CONFIG['GEMINI_KEYS'] so each call to
-        # _call_gemini starts with a different key than the last call.
-        self._gemini_key_cursor = 0
-        if not CONFIG.get('GEMINI_KEYS'):
-            logger.warning("No Gemini API keys configured (GEMINI_API_KEYS/GEMINI_API_KEY).")
-        else:
-            logger.info(f"Loaded {len(CONFIG['GEMINI_KEYS'])} Gemini API key(s) for rotation.")
 
     # ───────────────────────── helpers ─────────────────────────
 
@@ -331,50 +311,6 @@ class TechNewsRadar:
             return False
         return True
 
-    def _is_author_image(self, img_tag, src=''):
-        """Detect avatar/author/byline photos so they never get included in the gallery."""
-        try:
-            parts = []
-            for attr in ('class', 'id', 'alt', 'title'):
-                val = img_tag.get(attr)
-                if val:
-                    parts.append(' '.join(val) if isinstance(val, list) else str(val))
-            parts.append(src or img_tag.get('src') or '')
-
-            # Check a few ancestor wrappers too (e.g. <div class="author-box"><img></div>)
-            parent = img_tag.parent
-            depth = 0
-            while parent is not None and depth < 4:
-                for attr in ('class', 'id'):
-                    val = parent.get(attr) if hasattr(parent, 'get') else None
-                    if val:
-                        parts.append(' '.join(val) if isinstance(val, list) else str(val))
-                parent = getattr(parent, 'parent', None)
-                depth += 1
-
-            blob = ' '.join(parts).lower()
-            return any(hint in blob for hint in AUTHOR_IMAGE_HINTS)
-        except Exception:
-            return False
-
-    def _get_article_container(self, soup):
-        """Return the DOM node that holds the actual article body, if identifiable."""
-        selectors = [
-            'article',
-            '[itemprop="articleBody"]',
-            '.article-content', '.article-body', '.article__body',
-            '.post-content', '.entry-content', '.story-body',
-            '.content-body', '.c-entry-content', 'main',
-        ]
-        for sel in selectors:
-            try:
-                node = soup.select_one(sel)
-            except Exception:
-                node = None
-            if node and len(node.get_text(strip=True)) > CONFIG.get('MIN_TEXT_LEN', 100):
-                return node
-        return None
-
     def _get_fallback_image(self, text_or_tag):
         t = str(text_or_tag).lower()
         if any(w in t for w in ['ai', 'artificial intelligence', 'model', 'chatgpt', 'gemini', 'claude', 'هوش مصنوعی', 'مدل']):
@@ -404,13 +340,7 @@ class TechNewsRadar:
         return result
 
     def _extract_gallery_images(self, soup, limit=None):
-        """Collect usable images from the article page.
-
-        The lead og:image/twitter:image meta tags are kept (they represent the
-        article's main/cover image). Beyond that, only <img> tags found INSIDE the
-        actual article body are considered — and any that look like an
-        author/avatar/byline photo are skipped.
-        """
+        """Collect ALL usable images from an article page (not just the first one)."""
         limit = limit or CONFIG.get('MAX_IMAGES_PER_ITEM', 4)
         found = []
 
@@ -426,19 +356,13 @@ class TechNewsRadar:
                 if content:
                     found.append(content.strip())
 
-        # Only look inside the article body — skip sidebars, related-posts widgets,
-        # and author/bio boxes that sit outside the actual news text.
-        container = self._get_article_container(soup) or soup
-
-        for img in container.find_all('img', src=True):
+        for img in soup.find_all('img', src=True):
             if len(found) >= limit * 3:
                 break
             src = img.get('src') or ''
             if src.startswith('//'):
                 src = 'https:' + src
             if not src.startswith('http'):
-                continue
-            if self._is_author_image(img, src):
                 continue
             w = img.get('width') or img.get('data-width') or ''
             h = img.get('height') or img.get('data-height') or ''
@@ -705,16 +629,13 @@ class TechNewsRadar:
                             break
 
                     if not extracted_image:
-                        img_container = self._get_article_container(soup) or soup
-                        for img in img_container.find_all('img', src=True):
+                        for img in soup.find_all('img', src=True):
                             src = img.get('src') or ''
                             if src.startswith('//'):
                                 src = 'https:' + src
                             if not src.startswith('http'):
                                 continue
                             if not self._is_valid_image_url(src):
-                                continue
-                            if self._is_author_image(img, src):
                                 continue
                             w = img.get('width') or img.get('data-width') or ''
                             h = img.get('height') or img.get('data-height') or ''
@@ -750,25 +671,12 @@ class TechNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
-    def _next_gemini_key(self):
-        """
-        Returns the next API key to try, round-robin style, so consecutive
-        calls to _call_gemini (and consecutive retries within one call)
-        spread load across all configured keys instead of hammering one.
-        """
-        keys = CONFIG.get('GEMINI_KEYS') or []
-        if not keys:
-            return None
-        key = keys[self._gemini_key_cursor % len(keys)]
-        self._gemini_key_cursor += 1
-        return key
-
     def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
-        keys = CONFIG.get('GEMINI_KEYS') or []
-        if not keys:
-            logger.error("No Gemini API key configured (GEMINI_API_KEYS/GEMINI_API_KEY).")
+        if not CONFIG.get('GEMINI_KEY'):
+            logger.error("GEMINI_API_KEY is not set.")
             return None
 
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
         payload = {
             "system_instruction": {
                 "parts": [{"text": system_prompt}]
@@ -781,18 +689,8 @@ class TechNewsRadar:
                 "temperature": temperature
             }
         }
-
-        num_keys = len(keys)
-        # Each "attempt" tries the next key in rotation. If a key is
-        # quota-limited (429) or otherwise fails, we move straight to the
-        # next key rather than re-hitting the same exhausted one.
-        total_attempts = max(CONFIG['AI_RETRIES'], num_keys)
-
-        for attempt in range(total_attempts):
-            key = self._next_gemini_key()
-            key_label = f"key#{(self._gemini_key_cursor - 1) % num_keys + 1}/{num_keys}"
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={key}"
-
+        
+        for attempt in range(CONFIG['AI_RETRIES']):
             try:
                 resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
                 if resp.status_code == 200:
@@ -800,33 +698,11 @@ class TechNewsRadar:
                     raw_text = result['candidates'][0]['content']['parts'][0]['text']
                     clean = re.sub(r'```json\s*|```', '', raw_text).strip()
                     return json.loads(clean)
-
-                logger.error(f"Gemini API error ({key_label}) {resp.status_code}: {resp.text[:200]}")
-
-                if resp.status_code == 429:
-                    # Quota/rate-limit hit on this key. If we have other keys
-                    # left to try in this round, move to the next one right
-                    # away instead of waiting. Only sleep if we've cycled
-                    # through every key and are about to retry one again.
-                    if (attempt + 1) % num_keys == 0:
-                        retry_after = resp.headers.get('Retry-After')
-                        try:
-                            wait = float(retry_after) if retry_after else (2 ** ((attempt + 1) // num_keys))
-                        except ValueError:
-                            wait = 2 ** ((attempt + 1) // num_keys)
-                        wait = min(wait, 60)
-                        logger.warning(f"All Gemini keys rate/quota limited, waiting {wait:.0f}s before retrying...")
-                        time.sleep(wait)
-                elif resp.status_code >= 500:
-                    time.sleep(2 ** ((attempt // num_keys) + 1))
                 else:
-                    # Non-retryable client error (e.g. bad request) on this
-                    # key - still worth trying a different key once, but
-                    # don't loop forever on the same bad request.
-                    if num_keys == 1:
-                        break
+                    logger.error(f"Gemini API error {resp.status_code}: {resp.text[:200]}")
+                time.sleep(1)
             except Exception as e:
-                logger.error(f"Gemini Attempt {attempt + 1} ({key_label}) failed: {e}")
+                logger.error(f"Gemini Attempt {attempt + 1} failed: {e}")
                 time.sleep(2)
         return None
 
@@ -835,7 +711,7 @@ class TechNewsRadar:
         Analyzes multiple candidate news articles in a SINGLE Gemini API request.
         candidates_data format: list of dicts with {'index', 'source', 'headline', 'text'}
         """
-        if not candidates_data or not CONFIG.get('GEMINI_KEYS'):
+        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
             return {}
 
         system_prompt = (
@@ -876,8 +752,7 @@ class TechNewsRadar:
             '    "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
             '    "tag": "کلمه کلیدی اصلی (مثلاً: هوش‌مصنوعی، استارتاپ، گجت، سخت‌افزار)",\n'
             '    "urgency": عدد بین 1 تا 10,\n'
-            '    "sentiment": عدد بین -1.0 تا 1.0,\n'
-            '    "full_text_fa": "ترجمه روان، کامل و پاراگراف‌بندی‌شده متن کامل خبر (TEXT) به فارسی، بدون ترجمه تحت‌اللفظی"\n'
+            '    "sentiment": عدد بین -1.0 تا 1.0\n'
             "  }\n"
             "]"
         )
@@ -1289,15 +1164,7 @@ STRICT OUTPUT JSON:
             return False
 
     def send_digest_to_telegram(self, items):
-        """Send each news item as its OWN separate Telegram message (one item per message).
-
-        NOTE: The old implementation POSTed to '<bot_token>/sendRichMessage', which is not a
-        real Telegram Bot API method (Telegram has no such endpoint) and also used HTML tags
-        (<h1>, <ul>, <li>, <details>, <figure>, <tg-slideshow>, <mark>, <aside>, <hr>) that
-        Telegram's HTML parse_mode does not support. That call was guaranteed to fail on every
-        single run (400/404) before silently falling back. This version talks to the real,
-        documented endpoints (sendPhoto / sendMessage) with only tags Telegram actually renders.
-        """
+        """Send digest via Telegram Rich Messages with real photo blocks."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id or not items:
@@ -1305,107 +1172,179 @@ STRICT OUTPUT JSON:
 
         items.sort(key=lambda x: x.get('urgency', 3), reverse=True)
 
+        def to_farsi_num(num):
+            return str(num).translate(str.maketrans('0123456789', '۰۱۲۳۴۵۶۷۸۹'))
+
         def esc(s):
             return html.escape(str(s or ''), quote=False)
 
-        photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
-        message_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        now_ir = self._get_tehran_time()
+        ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
+        ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
 
-        sent_count = 0
-        total = len(items)
+        # ── Collect valid images ──
+        photo_urls = []
+        for item in items:
+            img = item.get('image')
+            if self._is_valid_image_url(img) and img not in photo_urls:
+                photo_urls.append(img)
+            if len(photo_urls) >= 8:
+                break
+        if not photo_urls:
+            photo_urls = [self._get_fallback_image(items[0].get('title_en', 'tech'))]
 
-        for idx, item in enumerate(items):
-            title = esc(item.get('title_fa') or item.get('title_en') or 'بدون عنوان')
-            source = esc(item.get('source', 'Unknown'))
-            impact = esc(item.get('impact', ''))
-            src_url = item.get('url') or ''
+        # ── Media block(s) ──
+        media_html = ""
+        if len(photo_urls) == 1:
+            media_html = (
+                f"<figure>"
+                f"<img src=\"{esc(photo_urls[0])}\"/>"
+                f"<figcaption>WirTech — {ir_time_str}</figcaption>"
+                f"</figure>\n"
+            )
+        elif len(photo_urls) <= 4:
+            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
+            media_html = (
+                f"<tg-collage>{imgs}"
+                f"<figcaption>تصاویر مرتبط با اخبار مهم</figcaption>"
+                f"</tg-collage>\n"
+            )
+        else:
+            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
+            media_html = (
+                f"<tg-slideshow>{imgs}"
+                f"<figcaption>گالری اخبار تکنولوژی</figcaption>"
+                f"</tg-slideshow>\n"
+            )
+
+        # ── Headlines list ──
+        headlines_li = []
+        for item in items[:10]:
+            title = esc(item.get('title_fa') or item.get('title_en'))
+            source = esc(item.get('source', ''))
             urgency = item.get('urgency', 3)
             icon = "🔥" if urgency >= 9 else ("🚨" if urgency >= 7 else "🔹")
+            src_url = item.get('url') or '#'
+            headlines_li.append(
+                f"<li>{icon} <a href=\"{esc(src_url)}\">{title}</a> <i>({source})</i></li>"
+            )
+        headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
+
+        # ── Per-item analysis ──
+        details_parts = []
+        all_tags = set()
+        for i, item in enumerate(items[:6], 1):
+            title = esc(item.get('title_fa') or item.get('title_en'))
+            source = esc(item.get('source', 'Unknown'))
+            impact = esc(item.get('impact', ''))
+            src_url = item.get('url') or '#'
 
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str):
                 summary_raw = [summary_raw]
-            summary_lines = "\n".join(f"• {esc(s)}" for s in summary_raw if s)
+            safe_summary = "".join(f"<li>{esc(s)}</li>" for s in summary_raw if s)
 
-            tag = str(item.get('tag', 'General')).strip().replace(' ', '_')
-            tag_line = f"#{esc(tag)}" if tag else ""
+            tag = str(item.get('tag', 'General')).replace(' ', '_')
+            all_tags.add(f"#{esc(tag)}")
 
-            full_text = esc(item.get('full_text_fa') or item.get('full_text') or '')
+            # Use ALL images gathered for this item (not just one), skipping the
+            # hero image already shown in the top collage to avoid repeats.
+            item_images = item.get('images') or [item.get('image')]
+            item_images = [
+                u for u in item_images
+                if self._is_valid_image_url(u) and u not in photo_urls[:1]
+            ]
+            item_images = self._dedupe_images(item_images)
+            if not item_images:
+                item_media = ""
+            elif len(item_images) == 1:
+                item_media = f"<img src=\"{esc(item_images[0])}\"/>\n"
+            else:
+                imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in item_images)
+                item_media = f"<tg-collage>{imgs}</tg-collage>\n"
 
-            photo_url = item.get('image')
-            has_photo = self._is_valid_image_url(photo_url)
+            full_text = esc(item.get('full_text') or '')
+            full_text_html = (
+                f"<p>📰 <b>متن کامل خبر:</b></p>\n<p>{full_text}</p>\n"
+                if full_text else ""
+            )
 
-            body_parts = [f"{icon} <b>{title}</b>"]
-            if summary_lines:
-                body_parts.append(f"📝 <b>چکیده:</b>\n{summary_lines}")
-            if impact:
-                body_parts.append(f"🎯 <b>نتیجه:</b> {impact}")
-            if src_url:
-                body_parts.append(f"🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a>")
-            if tag_line:
-                body_parts.append(tag_line)
+            open_attr = " open" if i == 1 else ""
+            details_parts.append(
+                f"<details{open_attr}>\n"
+                f"<summary><b>{to_farsi_num(i)}. {title}</b></summary>\n"
+                f"{item_media}"
+                f"<p>📝 <b>تحلیل خبر:</b></p>\n"
+                f"<ul>{safe_summary}</ul>\n"
+                f"{full_text_html}"
+                f"<p>🎯 <b>اثرگذاری:</b> {impact}</p>\n"
+                f"<p>🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a></p>\n"
+                f"</details>\n"
+                f"<hr/>\n"
+            )
+        details_html = "".join(details_parts)
 
-            caption_limit = 1024 if has_photo else 4096
+        tags_html = f"<p>{' '.join(sorted(all_tags))}</p>\n" if all_tags else ""
 
-            # Text-only messages have more room, so append the full article when it fits.
-            if not has_photo and full_text:
-                with_full = "\n\n".join(body_parts + [
-                    f"📰 <b>متن کامل:</b>\n<blockquote expandable>{full_text}</blockquote>"
-                ])
-                if len(with_full) <= caption_limit:
-                    body_parts.append(f"📰 <b>متن کامل:</b>\n<blockquote expandable>{full_text}</blockquote>")
+        full_html = (
+            f"<h1>🚀 WirTech — اخبار تکنولوژی و هوش مصنوعی</h1>\n"
+            f"<p>⏱ <b>زمان بروزرسانی:</b> {ir_time_str} — {ir_date_str} (تهران)</p>\n"
+            f"<hr/>\n"
+            f"{media_html}"
+            f"<h2>📌 سرخط مهم‌ترین اخبار</h2>\n"
+            f"{headlines_html}"
+            f"<hr/>\n"
+            f"<h2>📋 تحلیل و جزئیات</h2>\n"
+            f"{details_html}"
+            f"{tags_html}"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
+        )
 
-            body = "\n\n".join(body_parts).strip()
-            if len(body) > caption_limit:
-                body = body[:caption_limit - 1].rstrip() + "…"
+        if len(full_html) > 30000:
+            full_html = full_html[:30000]
 
-            sent_ok = False
-            try:
-                if has_photo:
-                    resp = self.scraper.post(photo_api, json={
-                        "chat_id": chat_id,
-                        "photo": photo_url,
-                        "caption": body,
-                        "parse_mode": "HTML",
-                    }, timeout=20)
-                    if resp.status_code == 200:
-                        sent_ok = True
-                    else:
-                        logger.error(f"sendPhoto failed for '{title[:40]}': {resp.status_code} | {resp.text[:300]}")
-                        # Photo may be broken/expired — retry as a plain text message.
-                        text_body = body if len(body) <= 4096 else (body[:4095].rstrip() + "…")
-                        resp2 = self.scraper.post(message_api, json={
-                            "chat_id": chat_id,
-                            "text": text_body,
-                            "parse_mode": "HTML",
-                            "disable_web_page_preview": False,
-                        }, timeout=20)
-                        if resp2.status_code == 200:
-                            sent_ok = True
-                        else:
-                            logger.error(f"sendMessage fallback failed for '{title[:40]}': {resp2.status_code} | {resp2.text[:300]}")
-                else:
-                    resp = self.scraper.post(message_api, json={
-                        "chat_id": chat_id,
-                        "text": body,
-                        "parse_mode": "HTML",
-                        "disable_web_page_preview": False,
-                    }, timeout=20)
-                    if resp.status_code == 200:
-                        sent_ok = True
-                    else:
-                        logger.error(f"sendMessage failed for '{title[:40]}': {resp.status_code} | {resp.text[:300]}")
-            except Exception as e:
-                logger.error(f"Telegram send error for '{title[:40]}': {e}")
+        api_url = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        payload = {
+            "chat_id": chat_id,
+            "rich_message": {
+                "html": full_html,
+                "is_rtl": True,
+            },
+        }
 
-            if sent_ok:
-                sent_count += 1
+        try:
+            resp = self.scraper.post(api_url, json=payload, timeout=30)
+            if resp.status_code == 200:
+                logger.info(">>> Rich Message with media blocks sent to Telegram.")
+                return
 
-            # Stay well under Telegram's per-chat rate limit (~1 msg/sec) between posts.
-            if idx < total - 1:
-                time.sleep(1.5)
+            logger.error(f"sendRichMessage failed: {resp.status_code} | {resp.text[:500]}")
 
-        logger.info(f">>> Sent {sent_count}/{total} individual news messages to Telegram.")
+            photo_api = f"https://api.telegram.org/bot{token}/sendPhoto"
+            caption_lines = [
+                "🚀 <b>WirTech — اخبار تکنولوژی و هوش مصنوعی</b>",
+                f"⏱ {ir_time_str} (تهران)",
+                "",
+            ]
+            for item in items[:5]:
+                t = esc(item.get('title_fa') or item.get('title_en'))
+                u = item.get('urgency', 3)
+                icon = "🔥" if u >= 9 else ("🚨" if u >= 7 else "🔹")
+                caption_lines.append(f"{icon} {t}")
+            caption = "\n".join(caption_lines)[:1024]
+
+            resp2 = self.scraper.post(photo_api, json={
+                "chat_id": chat_id,
+                "photo": photo_urls[0],
+                "caption": caption,
+                "parse_mode": "HTML",
+            }, timeout=20)
+            if resp2.status_code == 200:
+                logger.info(">>> Fallback sendPhoto succeeded.")
+            else:
+                logger.error(f"sendPhoto fallback failed: {resp2.status_code} | {resp2.text[:300]}")
+        except Exception as e:
+            logger.error(f"TG Rich Message send error: {e}")
 
     # ───────────────────────── save ─────────────────────────
 
@@ -1648,19 +1587,7 @@ STRICT OUTPUT JSON:
                 for item in scraped_items:
                     ai = ai_batch_results.get(item['index'])
                     if not ai:
-                        # Gemini didn't return an entry for this item (quota/error/etc).
-                        # Don't throw away a successfully scraped article — save it with
-                        # safe defaults so it isn't silently lost, just unenriched.
-                        # Low default urgency keeps it out of the Telegram digest.
-                        ai = {
-                            'title_fa': item['headline'],
-                            'summary': [item['snippet']],
-                            'impact': '...',
-                            'tag': 'General',
-                            'urgency': 1,
-                            'sentiment': 0,
-                            'full_text_fa': '',
-                        }
+                        continue
                     try:
                         urgency_val = int(ai.get('urgency', 3))
                     except Exception:
@@ -1682,7 +1609,6 @@ STRICT OUTPUT JSON:
                         "title_en": item['headline'],
                         "summary": ai.get('summary', [item['snippet']]),
                         "full_text": item['text'],
-                        "full_text_fa": ai.get('full_text_fa', ''),
                         "impact": ai.get('impact', '...'),
                         "tag": ai.get('tag', 'General'),
                         "urgency": urgency_val,
