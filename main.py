@@ -85,6 +85,16 @@ BAD_IMAGE_HOSTS = (
     'google.com',
 )
 
+# Keywords that identify author/byline/avatar photos so they can be filtered out
+# of the article image gallery (class name, id, alt text, title, or filename).
+AUTHOR_IMAGE_HINTS = (
+    'author', 'avatar', 'byline', 'writer', 'profile-pic', 'profile_pic',
+    'profile-photo', 'profile_photo', 'gravatar', 'staff-photo', 'staff_photo',
+    'contributor', 'headshot', 'bio-photo', 'bio_photo', 'reporter',
+    'wp-author', 'team-member', 'user-avatar',
+    'نویسنده', 'خبرنگار', 'نگارنده',
+)
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 
@@ -311,6 +321,50 @@ class TechNewsRadar:
             return False
         return True
 
+    def _is_author_image(self, img_tag, src=''):
+        """Detect avatar/author/byline photos so they never get included in the gallery."""
+        try:
+            parts = []
+            for attr in ('class', 'id', 'alt', 'title'):
+                val = img_tag.get(attr)
+                if val:
+                    parts.append(' '.join(val) if isinstance(val, list) else str(val))
+            parts.append(src or img_tag.get('src') or '')
+
+            # Check a few ancestor wrappers too (e.g. <div class="author-box"><img></div>)
+            parent = img_tag.parent
+            depth = 0
+            while parent is not None and depth < 4:
+                for attr in ('class', 'id'):
+                    val = parent.get(attr) if hasattr(parent, 'get') else None
+                    if val:
+                        parts.append(' '.join(val) if isinstance(val, list) else str(val))
+                parent = getattr(parent, 'parent', None)
+                depth += 1
+
+            blob = ' '.join(parts).lower()
+            return any(hint in blob for hint in AUTHOR_IMAGE_HINTS)
+        except Exception:
+            return False
+
+    def _get_article_container(self, soup):
+        """Return the DOM node that holds the actual article body, if identifiable."""
+        selectors = [
+            'article',
+            '[itemprop="articleBody"]',
+            '.article-content', '.article-body', '.article__body',
+            '.post-content', '.entry-content', '.story-body',
+            '.content-body', '.c-entry-content', 'main',
+        ]
+        for sel in selectors:
+            try:
+                node = soup.select_one(sel)
+            except Exception:
+                node = None
+            if node and len(node.get_text(strip=True)) > CONFIG.get('MIN_TEXT_LEN', 100):
+                return node
+        return None
+
     def _get_fallback_image(self, text_or_tag):
         t = str(text_or_tag).lower()
         if any(w in t for w in ['ai', 'artificial intelligence', 'model', 'chatgpt', 'gemini', 'claude', 'هوش مصنوعی', 'مدل']):
@@ -340,7 +394,13 @@ class TechNewsRadar:
         return result
 
     def _extract_gallery_images(self, soup, limit=None):
-        """Collect ALL usable images from an article page (not just the first one)."""
+        """Collect usable images from the article page.
+
+        The lead og:image/twitter:image meta tags are kept (they represent the
+        article's main/cover image). Beyond that, only <img> tags found INSIDE the
+        actual article body are considered — and any that look like an
+        author/avatar/byline photo are skipped.
+        """
         limit = limit or CONFIG.get('MAX_IMAGES_PER_ITEM', 4)
         found = []
 
@@ -356,13 +416,19 @@ class TechNewsRadar:
                 if content:
                     found.append(content.strip())
 
-        for img in soup.find_all('img', src=True):
+        # Only look inside the article body — skip sidebars, related-posts widgets,
+        # and author/bio boxes that sit outside the actual news text.
+        container = self._get_article_container(soup) or soup
+
+        for img in container.find_all('img', src=True):
             if len(found) >= limit * 3:
                 break
             src = img.get('src') or ''
             if src.startswith('//'):
                 src = 'https:' + src
             if not src.startswith('http'):
+                continue
+            if self._is_author_image(img, src):
                 continue
             w = img.get('width') or img.get('data-width') or ''
             h = img.get('height') or img.get('data-height') or ''
@@ -629,13 +695,16 @@ class TechNewsRadar:
                             break
 
                     if not extracted_image:
-                        for img in soup.find_all('img', src=True):
+                        img_container = self._get_article_container(soup) or soup
+                        for img in img_container.find_all('img', src=True):
                             src = img.get('src') or ''
                             if src.startswith('//'):
                                 src = 'https:' + src
                             if not src.startswith('http'):
                                 continue
                             if not self._is_valid_image_url(src):
+                                continue
+                            if self._is_author_image(img, src):
                                 continue
                             w = img.get('width') or img.get('data-width') or ''
                             h = img.get('height') or img.get('data-height') or ''
