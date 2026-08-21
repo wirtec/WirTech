@@ -875,7 +875,7 @@ STRICT OUTPUT JSON:
             f"<h2>🔮 چشم‌انداز صنعت</h2>\n"
             f"<p>{strategic_outlook}</p>\n"
             f"<footer>\n"
-            f"<p>🆔 @WirTech</p>\n"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
             f"</footer>\n"
         )
 
@@ -907,7 +907,7 @@ STRICT OUTPUT JSON:
             f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
             f"🔬 <b>نگاه عمیق‌تر:</b>\n{deep_dive}\n\n"
             f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
-            f"🆔 @WirTech"
+            f"🆔 <aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -971,7 +971,7 @@ STRICT OUTPUT JSON:
             f"<li>🤖 <b>بروز AI:</b> {ai_text}</li>\n"
             f"</ul>\n"
             f"<footer>\n"
-            f"<p>🆔 @WirTech</p>\n"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
             f"</footer>\n"
         )
 
