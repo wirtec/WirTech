@@ -19,6 +19,25 @@
         "timestamp": 1787313603.0
     },
     {
+        "id": "30f606fa97",
+        "title_fa": "نتایج یک نظرسنجی: ثروتمندان و افراد مسن علاقه بیشتری به هوش مصنوعی دارند",
+        "title_en": "Poll: The older and richer you are, the more you like AI",
+        "summary": [
+            "طبق نتایج یک نظرسنجی جدید، میزان پذیرش و تمایل به استفاده از هوش مصنوعی با افزایش سن و درآمد رابطه مستقیم دارد.",
+            "این یافته‌ها برخلاف باور عمومی است که معمولاً نسل جوان را پیشگام پذیرش فناوری‌های نوظهور می‌داند."
+        ],
+        "tag": "هوش مصنوعی",
+        "urgency": 7,
+        "source": "politico.eu",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdG8yMWtBNUZWYXZwTE9XSU1fR1pGQ0J1RUxnalBTSUVVcVdQRG5MQ3loY3djNklmZnVObl9OMFJUcTlFNm84WklFeWZtOUtRZEVZRHUtWldDeHZfeElDenJoeUVBcmhOZklTbDVVa01IMkZsanpoeHlmRy04NDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdG8yMWtBNUZWYXZwTE9XSU1fR1pGQ0J1RUxnalBTSUVVcVdQRG5MQ3loY3djNklmZnVObl9OMFJUcTlFNm84WklFeWZtOUtRZEVZRHUtWldDeHZfeElDenJoeUVBcmhOZklTbDVVa01IMkZsanpoeHlmRy04NDg",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787313437.0
+    },
+    {
         "id": "81f0fe6bc2",
         "title_fa": "آیا هوش مصنوعی به آگاهی رسیده است؟ بررسی ادعاها از نگاه یک جامعه‌شناس",
         "title_en": "Can AI Be Conscious? Some Claim It Already Is. An AI Sociologist Cuts Through The Hype",
@@ -75,6 +94,25 @@
             "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787310252.0
+    },
+    {
+        "id": "de9ae21f26",
+        "title_fa": "راهکار عجیب فرام‌سافتور برای حل مشکلات اتصال در بازی Duskbloods",
+        "title_en": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable",
+        "summary": [
+            "فرام‌سافتور به بازیکنانی که با مشکل سرور در بازی Duskbloods مواجه‌اند پیشنهاد داده به مودم نزدیک‌تر شوند یا از کابل شبکه (Ethernet) استفاده کنند.",
+            "این پیشنهاد عجیب برای یک بازی چندنفره آنلاین با واکنش‌های طنزآمیز کاربران همراه بوده است."
+        ],
+        "tag": "بازی",
+        "urgency": 6,
+        "source": "Eurogamer",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTAxa0NjZjhtRWhCT21pa1EyUVFCTDk4S20xQ0M5eGZFR1g3RnhYbHRBTTRtZm8zYUFSTmlKRElNZ2tNWllOUW1ibEg5WFo5RlBucmQtRFhLbFB0NFN5RVBFb21rX2VOazFVeFQxZjVsVnM1b2w4YnBVVHJRVE9NbFBDV0VHZWVJZDdYaW00NA?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTAxa0NjZjhtRWhCT21pa1EyUVFCTDk4S20xQ0M5eGZFR1g3RnhYbHRBTTRtZm8zYUFSTmlKRElNZ2tNWllOUW1ibEg5WFo5RlBucmQtRFhLbFB0NFN5RVBFb21rX2VOazFVeFQxZjVsVnM1b2w4YnBVVHJRVE9NbFBDV0VHZWVJZDdYaW00NA",
+        "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787310221.0
     },
     {
         "id": "09e4f85922",
@@ -874,6 +912,25 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787238084.0
+    },
+    {
+        "id": "f438750d22",
+        "title_fa": "آخرین شایعات آیفون ۱۸ پرو؛ زمان عرضه، تغییرات قیمت و رنگ‌بندی جدید",
+        "title_en": "iPhone 18 Pro: Pre-Orders and Release Date",
+        "summary": [
+            "گزارش‌ها و افشاگری‌های جدید جزئیاتی از زمان پیش‌فروش و عرضه آیفون ۱۸ پرو را فاش کرده‌اند.",
+            "احتمال افزایش قیمت در نسل بعدی آیفون به دلیل ارتقای سخت‌افزاری مطرح شده است."
+        ],
+        "tag": "گجت",
+        "urgency": 8,
+        "source": "MacRumors",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm1INUNmLUE1RzRyaHc2YXp0Tkx6QmVyNmkteE5sd0lvZVYwd0VvV3dfUUtwQkQzNDVJWE53dkFueDg1NDNYMlhEMlBmU0JWTzNFNm5iUkVxX1prd0tsV2dpa3hGLV9ndTluOVhGR2Y4OXFXWFZudC1wVVpzVHhzcnprak1vdw?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm1INUNmLUE1RzRyaHc2YXp0Tkx6QmVyNmkteE5sd0lvZVYwd0VvV3dfUUtwQkQzNDVJWE53dkFueDg1NDNYMlhEMlBmU0JWTzNFNm5iUkVxX1prd0tsV2dpa3hGLV9ndTluOVhGR2Y4OXFXWFZudC1wVVpzVHhzcnprak1vdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787238042.0
     },
     {
         "id": "dc96e6accf",
