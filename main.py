@@ -58,8 +58,9 @@ CONFIG = {
     'AI_TIMEOUT': 45,
     'MAX_WORKERS': 3,
     'MAX_CANDIDATES': 15,
-    'MAX_TEXT_CHARS': 1800,
+    'MAX_TEXT_CHARS': 6000,
     'MIN_TEXT_LEN': 100,
+    'MAX_IMAGES_PER_ITEM': 4,
     'MIN_AI_URGENCY_HINT': 5,
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
     'GEMINI_MODEL': 'gemini-3.6-flash',
@@ -328,6 +329,54 @@ class TechNewsRadar:
                 return c
         return self._get_fallback_image(fallback_text)
 
+    def _dedupe_images(self, urls, limit=None):
+        limit = limit or CONFIG.get('MAX_IMAGES_PER_ITEM', 4)
+        result = []
+        for u in urls:
+            if u and self._is_valid_image_url(u) and u not in result:
+                result.append(u)
+            if len(result) >= limit:
+                break
+        return result
+
+    def _extract_gallery_images(self, soup, limit=None):
+        """Collect ALL usable images from an article page (not just the first one)."""
+        limit = limit or CONFIG.get('MAX_IMAGES_PER_ITEM', 4)
+        found = []
+
+        for prop in (
+            ('property', 'og:image'),
+            ('property', 'og:image:secure_url'),
+            ('name', 'twitter:image'),
+            ('name', 'twitter:image:src'),
+            ('itemprop', 'image'),
+        ):
+            for tag in soup.find_all('meta', attrs={prop[0]: prop[1]}):
+                content = tag.get('content')
+                if content:
+                    found.append(content.strip())
+
+        for img in soup.find_all('img', src=True):
+            if len(found) >= limit * 3:
+                break
+            src = img.get('src') or ''
+            if src.startswith('//'):
+                src = 'https:' + src
+            if not src.startswith('http'):
+                continue
+            w = img.get('width') or img.get('data-width') or ''
+            h = img.get('height') or img.get('data-height') or ''
+            try:
+                if w and int(str(w).replace('px', '')) < 120:
+                    continue
+                if h and int(str(h).replace('px', '')) < 80:
+                    continue
+            except Exception:
+                pass
+            found.append(src)
+
+        return self._dedupe_images(found, limit=limit)
+
     # ───────────────────────── news search ─────────────────────────
 
     def fetch_gnews(self):
@@ -502,15 +551,18 @@ class TechNewsRadar:
 
     def scrape_article_data(self, final_url, fallback_snippet, raw_image=None):
         if not final_url or final_url.lower().endswith('.pdf'):
-            return fallback_snippet, self._get_fallback_image(fallback_snippet)
+            img = self._get_fallback_image(fallback_snippet)
+            return fallback_snippet, img, [img]
 
         host = urlparse(final_url).netloc.lower()
         if host in self.failed_hosts:
-            return fallback_snippet, self._pick_image(raw_image, fallback_text=fallback_snippet)
+            img = self._pick_image(raw_image, fallback_text=fallback_snippet)
+            return fallback_snippet, img, self._dedupe_images([raw_image, img])
 
         extracted_text = fallback_snippet
         extracted_image = raw_image if self._is_valid_image_url(raw_image) else None
-        max_chars = CONFIG.get('MAX_TEXT_CHARS', 1800)
+        gallery_images = []
+        max_chars = CONFIG.get('MAX_TEXT_CHARS', 6000)
 
         try:
             downloaded = trafilatura.fetch_url(final_url)
@@ -529,12 +581,20 @@ class TechNewsRadar:
                         extracted_image = extracted_image or meta.image
                 except Exception:
                     pass
+                # Reuse the already-downloaded HTML to build a full image gallery
+                # (no extra HTTP request needed).
+                try:
+                    gallery_soup = BeautifulSoup(downloaded, 'lxml')
+                    gallery_images = self._extract_gallery_images(gallery_soup)
+                except Exception:
+                    pass
         except Exception as e:
             logger.warning(f"trafilatura failed {final_url}: {e}")
             self.failed_hosts.add(host)
 
         need_soup = (
             not extracted_image
+            or not gallery_images
             or extracted_text == fallback_snippet
             or len(extracted_text) < CONFIG.get('MIN_TEXT_LEN', 100)
         )
@@ -588,6 +648,9 @@ class TechNewsRadar:
                                 pass
                             extracted_image = src
                             break
+
+                if not gallery_images:
+                    gallery_images = self._extract_gallery_images(soup)
             except Exception as e:
                 logger.warning(f"Soup fallback failed {final_url}: {e}")
                 self.failed_hosts.add(host)
@@ -597,7 +660,14 @@ class TechNewsRadar:
             raw_image,
             fallback_text=extracted_text or fallback_snippet
         )
-        return extracted_text, extracted_image
+
+        # Merge: main picked image first, then the rest of the gallery, then the
+        # raw source image as a fallback — deduplicated and capped.
+        all_images = self._dedupe_images([extracted_image, *gallery_images, raw_image])
+        if not all_images:
+            all_images = [extracted_image]
+
+        return extracted_text, extracted_image, all_images
 
     # ───────────────────────── AI analysis ─────────────────────────
 
@@ -693,7 +763,7 @@ class TechNewsRadar:
                 f"--- ITEM INDEX: {item['index']} ---\n"
                 f"SOURCE: {item['source']}\n"
                 f"HEADLINE: {item['headline']}\n"
-                f"TEXT: {item['text'][:1000]}\n"
+                f"TEXT: {item['text'][:2500]}\n"
             )
 
         user_prompt = "لطفاً تمامی آیتم‌های زیر را تحلیل و در قالب JSON مشخص‌شده برگردان:\n\n" + "\n".join(items_input)
@@ -797,7 +867,7 @@ STRICT OUTPUT JSON:
         )
 
         snippet = entry.get('description', raw_title)
-        text, photo_url = self.scrape_article_data(
+        text, photo_url, gallery_images = self.scrape_article_data(
             final_url, snippet, raw_image=entry.get('image')
         )
 
@@ -819,6 +889,7 @@ STRICT OUTPUT JSON:
             ts = time.time()
 
         photo_url = self._pick_image(photo_url, entry.get('image'), fallback_text=raw_title)
+        images = self._dedupe_images([photo_url, *gallery_images, entry.get('image')])
         news_id = self._generate_news_id(clean_final_url)
 
         return {
@@ -826,6 +897,7 @@ STRICT OUTPUT JSON:
             "title_fa": ai.get('title_fa', raw_title),
             "title_en": raw_title,
             "summary": ai.get('summary', [snippet]),
+            "full_text": text,
             "impact": ai.get('impact', '...'),
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
@@ -834,6 +906,7 @@ STRICT OUTPUT JSON:
             "url": final_url,
             "clean_url": clean_final_url,
             "image": photo_url,
+            "images": images,
             "timestamp": ts
         }
 
@@ -875,7 +948,7 @@ STRICT OUTPUT JSON:
             f"<h2>🔮 چشم‌انداز صنعت</h2>\n"
             f"<p>{strategic_outlook}</p>\n"
             f"\n"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>\n"
         )
 
         # 1. Send Rich Message
@@ -906,7 +979,7 @@ STRICT OUTPUT JSON:
             f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
             f"🔬 <b>نگاه عمیق‌تر:</b>\n{deep_dive}\n\n"
             f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
-            f" <aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f" <aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -969,7 +1042,7 @@ STRICT OUTPUT JSON:
             f"<li>🚨 <b>سطح اهمیت:</b> {summary.get('risk_level', '?')}/10 ({esc(summary.get('change_from_previous', ''))})</li>\n"
             f"<li>🤖 <b>بروز AI:</b> {ai_text}</li>\n"
             f"</ul>\n"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>\n"
         )
 
         # 1. Primary Attempt: Send Rich Message
@@ -999,7 +1072,7 @@ STRICT OUTPUT JSON:
             f"🧠 <b>تحلیل:</b>\n{esc(summary.get('strategic_assessment'))}\n\n"
             f"🔮 <b>پیش‌بینی:</b>\n{most_likely}\n\n"
             f"📈 <b>سطح اهمیت:</b> <b>{summary.get('risk_level', '?')}/10</b>\n\n"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -1044,7 +1117,7 @@ STRICT OUTPUT JSON:
             f"<summary>💡 <b>جمع‌بندی نهایی</b></summary>\n"
             f"<p>{bottom_line}</p>\n"
             f"</details>\n"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
         )
 
         # 1. Primary Attempt: Send Rich Message
@@ -1074,7 +1147,7 @@ STRICT OUTPUT JSON:
             f"───────────────────\n\n"
             f"{bullets_text}"
             f"💡 <b>جمع‌بندی نهایی:</b>\n{bottom_line}\n\n"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -1174,10 +1247,27 @@ STRICT OUTPUT JSON:
             tag = str(item.get('tag', 'General')).replace(' ', '_')
             all_tags.add(f"#{esc(tag)}")
 
-            item_img = item.get('image')
-            item_media = ""
-            if self._is_valid_image_url(item_img) and item_img not in photo_urls[:1]:
-                item_media = f"<img src=\"{esc(item_img)}\"/>\n"
+            # Use ALL images gathered for this item (not just one), skipping the
+            # hero image already shown in the top collage to avoid repeats.
+            item_images = item.get('images') or [item.get('image')]
+            item_images = [
+                u for u in item_images
+                if self._is_valid_image_url(u) and u not in photo_urls[:1]
+            ]
+            item_images = self._dedupe_images(item_images)
+            if not item_images:
+                item_media = ""
+            elif len(item_images) == 1:
+                item_media = f"<img src=\"{esc(item_images[0])}\"/>\n"
+            else:
+                imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in item_images)
+                item_media = f"<tg-collage>{imgs}</tg-collage>\n"
+
+            full_text = esc(item.get('full_text') or '')
+            full_text_html = (
+                f"<p>📰 <b>متن کامل خبر:</b></p>\n<p>{full_text}</p>\n"
+                if full_text else ""
+            )
 
             open_attr = " open" if i == 1 else ""
             details_parts.append(
@@ -1186,6 +1276,7 @@ STRICT OUTPUT JSON:
                 f"{item_media}"
                 f"<p>📝 <b>تحلیل خبر:</b></p>\n"
                 f"<ul>{safe_summary}</ul>\n"
+                f"{full_text_html}"
                 f"<p>🎯 <b>اثرگذاری:</b> {impact}</p>\n"
                 f"<p>🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a></p>\n"
                 f"</details>\n"
@@ -1206,7 +1297,7 @@ STRICT OUTPUT JSON:
             f"<h2>📋 تحلیل و جزئیات</h2>\n"
             f"{details_html}"
             f"{tags_html}"
-            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
         )
 
         if len(full_html) > 30000:
@@ -1283,6 +1374,9 @@ STRICT OUTPUT JSON:
                         item.get('image'),
                         fallback_text=item.get('title_en') or item.get('title_fa') or ''
                     )
+                    item['images'] = self._dedupe_images(
+                        [item['image'], *item.get('images', [])]
+                    ) or [item['image']]
                     unique_news.append(item)
             unique_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
             final_list = unique_news[:CONFIG['HISTORY_SIZE']]
@@ -1470,7 +1564,7 @@ STRICT OUTPUT JSON:
                 for fut in concurrent.futures.as_completed(future_to_cand):
                     idx, cand, raw_title, publisher, final_url, clean_u, snippet = future_to_cand[fut]
                     try:
-                        text, photo = fut.result()
+                        text, photo, gallery_images = fut.result()
                         scraped_items.append({
                             'index': idx,
                             'cand': cand,
@@ -1480,7 +1574,8 @@ STRICT OUTPUT JSON:
                             'clean_url': clean_u,
                             'snippet': snippet,
                             'text': text,
-                            'photo': photo
+                            'photo': photo,
+                            'gallery_images': gallery_images
                         })
                     except Exception as e:
                         logger.error(f"Scrape worker error: {e}")
@@ -1503,6 +1598,9 @@ STRICT OUTPUT JSON:
                         ts = time.time()
 
                     photo_url = self._pick_image(item['photo'], item['cand'].get('image'), fallback_text=item['headline'])
+                    images = self._dedupe_images([
+                        photo_url, *item.get('gallery_images', []), item['cand'].get('image')
+                    ])
                     news_id = self._generate_news_id(item['clean_url'])
 
                     res = {
@@ -1510,6 +1608,7 @@ STRICT OUTPUT JSON:
                         "title_fa": ai.get('title_fa', item['headline']),
                         "title_en": item['headline'],
                         "summary": ai.get('summary', [item['snippet']]),
+                        "full_text": item['text'],
                         "impact": ai.get('impact', '...'),
                         "tag": ai.get('tag', 'General'),
                         "urgency": urgency_val,
@@ -1518,6 +1617,7 @@ STRICT OUTPUT JSON:
                         "url": item['url'],
                         "clean_url": item['clean_url'],
                         "image": photo_url,
+                        "images": images,
                         "timestamp": ts
                     }
                     new_processed_items.append(res)
@@ -1532,11 +1632,13 @@ STRICT OUTPUT JSON:
             for item in new_processed_items:
                 urgency = item.get('urgency', 0)
                 tag = str(item.get('tag', '')).lower()
-                is_conflict = any(w in tag for w in [
-                    'war', 'conflict', 'military', 'strike', 'attack', 'nuclear',
-                    'نظامی', 'حمله', 'هسته‌ای', 'نیابتی'
+                is_breaking_tech = any(w in tag for w in [
+                    'security', 'hack', 'breach', 'vulnerability', 'exploit', 'ransomware',
+                    'outage', 'ban', 'lawsuit', 'acquisition', 'chip', 'launch', 'ai',
+                    'امنیت', 'هک', 'نقض', 'آسیب‌پذیری', 'قطعی', 'ممنوعیت', 'ادغام',
+                    'تراشه', 'عرضه', 'هوش‌مصنوعی', 'هوش مصنوعی'
                 ])
-                if urgency >= min_urgency or (urgency >= 6 and is_conflict):
+                if urgency >= min_urgency or (urgency >= 6 and is_breaking_tech):
                     telegram_items.append(item)
 
             if telegram_items:
