@@ -1,5 +1,24 @@
 [
     {
+        "id": "26c8bd7f0d",
+        "title_fa": "تبدیل گوشی‌های پیکسل گوگل به آزمایشگاه پزشکی با دستاورد جدید AI",
+        "title_en": "Google's latest AI breakthrough may turn your Pixel phone into a medical lab",
+        "summary": [
+            "گوگل با مدل‌های هوش مصنوعی جدید امکان پایش علائم حیاتی و تحلیل داده‌های پزشکی را به گوشی‌های پیکسل می‌آورد.",
+            "این فناوری با پردازش تصویر و حسگرها، گوشی هوشمند را به ابزاری برای تشخیص اولیه بیماری‌ها تبدیل می‌کند.",
+            "تمرکز اصلی گوگل بر عمومی‌سازی ابزارهای سلامت و کاهش نیاز به تجهیزات گران‌قیمت بیمارستانی است."
+        ],
+        "impact": "دسترسی همگانی به ابزارهای پایش سلامت، هزینه‌های مراقبت‌های اولیه پزشکی را به شکل چشمگیری کاهش می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "PhoneArena",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1Z6dkk0cVlMNU5vaDhzQVBWMkFXSzVEdlNyUndQd1hIMVJoUVFscmJyVWJVamFIb0dha19nV0EyUHpqWXh1NHlVMUl5TjZoRTZxVU9vYnZRb2psTlFzZ3dzeWR5N0lIUzdqalpEVzJQTlIyME1sdWNpY0tFNnpJbnV0YnU0NWVKeWtndC1ja0xyekVVcm1ldThCYVd5ZnFVMzhobzZkMFpwMTdoTTRFSGx4aHUzakk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1Z6dkk0cVlMNU5vaDhzQVBWMkFXSzVEdlNyUndQd1hIMVJoUVFscmJyVWJVamFIb0dha19nV0EyUHpqWXh1NHlVMUl5TjZoRTZxVU9vYnZRb2psTlFzZ3dzeWR5N0lIUzdqalpEVzJQTlIyME1sdWNpY0tFNnpJbnV0YnU0NWVKeWtndC1ja0xyekVVcm1ldThCYVd5ZnFVMzhobzZkMFpwMTdoTTRFSGx4aHUzakk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787316626.0
+    },
+    {
         "id": "70209e1d7e",
         "title_fa": "جذب سرمایه ۲۵ میلیون دلاری Queen One برای تجارت هوشمند",
         "title_en": "Queen One Raises $25 Million To Scale AI Commerce Platform, Launch Advertising Business And Fund Acquisitions",
