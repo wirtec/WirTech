@@ -752,7 +752,8 @@ class TechNewsRadar:
             '    "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
             '    "tag": "کلمه کلیدی اصلی (مثلاً: هوش‌مصنوعی، استارتاپ، گجت، سخت‌افزار)",\n'
             '    "urgency": عدد بین 1 تا 10,\n'
-            '    "sentiment": عدد بین -1.0 تا 1.0\n'
+            '    "sentiment": عدد بین -1.0 تا 1.0,\n'
+            '    "full_text_fa": "ترجمه روان، کامل و پاراگراف‌بندی‌شده متن کامل خبر (TEXT) به فارسی، بدون ترجمه تحت‌اللفظی"\n'
             "  }\n"
             "]"
         )
@@ -1202,13 +1203,6 @@ STRICT OUTPUT JSON:
                 f"<figcaption>WirTech — {ir_time_str}</figcaption>"
                 f"</figure>\n"
             )
-        elif len(photo_urls) <= 4:
-            imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
-            media_html = (
-                f"<tg-collage>{imgs}"
-                f"<figcaption>تصاویر مرتبط با اخبار مهم</figcaption>"
-                f"</tg-collage>\n"
-            )
         else:
             imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in photo_urls)
             media_html = (
@@ -1242,7 +1236,7 @@ STRICT OUTPUT JSON:
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str):
                 summary_raw = [summary_raw]
-            safe_summary = "".join(f"<li>{esc(s)}</li>" for s in summary_raw if s)
+            safe_summary = "".join(f"<li><mark>{esc(s)}</mark></li>" for s in summary_raw if s)
 
             tag = str(item.get('tag', 'General')).replace(' ', '_')
             all_tags.add(f"#{esc(tag)}")
@@ -1261,23 +1255,22 @@ STRICT OUTPUT JSON:
                 item_media = f"<img src=\"{esc(item_images[0])}\"/>\n"
             else:
                 imgs = "".join(f"<img src=\"{esc(u)}\"/>" for u in item_images)
-                item_media = f"<tg-collage>{imgs}</tg-collage>\n"
+                item_media = f"<tg-slideshow>{imgs}</tg-slideshow>\n"
 
-            full_text = esc(item.get('full_text') or '')
+            full_text = esc(item.get('full_text_fa') or item.get('full_text') or '')
             full_text_html = (
-                f"<p>📰 <b>متن کامل خبر:</b></p>\n<p>{full_text}</p>\n"
+                f"<p>📰 <b>متن کامل خبر:</b></p>\n<blockquote>{full_text}</blockquote>\n"
                 if full_text else ""
             )
 
-            open_attr = " open" if i == 1 else ""
             details_parts.append(
-                f"<details{open_attr}>\n"
-                f"<summary><b>{to_farsi_num(i)}. {title}</b></summary>\n"
+                f"<details>\n"
+                f"<summary><b>{to_farsi_num(i)}. {title}</b> (برای مشاهده کلیک کن)</summary>\n"
                 f"{item_media}"
-                f"<p>📝 <b>تحلیل خبر:</b></p>\n"
+                f"<p>📝 <b>چکیده خبر:</b></p>\n"
                 f"<ul>{safe_summary}</ul>\n"
                 f"{full_text_html}"
-                f"<p>🎯 <b>اثرگذاری:</b> {impact}</p>\n"
+                f"<p>🎯 <b>نتیجه:</b> {impact}</p>\n"
                 f"<p>🔗 <a href=\"{esc(src_url)}\">منبع اصلی ({source})</a></p>\n"
                 f"</details>\n"
                 f"<hr/>\n"
@@ -1294,7 +1287,7 @@ STRICT OUTPUT JSON:
             f"<h2>📌 سرخط مهم‌ترین اخبار</h2>\n"
             f"{headlines_html}"
             f"<hr/>\n"
-            f"<h2>📋 تحلیل و جزئیات</h2>\n"
+            f"<h2>📋 جزئیات خبر</h2>\n"
             f"{details_html}"
             f"{tags_html}"
             f"<aside><a href='https://t.me/wirtech'>WirTech</a><cite>Technology News</cite></aside>"
@@ -1609,6 +1602,7 @@ STRICT OUTPUT JSON:
                         "title_en": item['headline'],
                         "summary": ai.get('summary', [item['snippet']]),
                         "full_text": item['text'],
+                        "full_text_fa": ai.get('full_text_fa', ''),
                         "impact": ai.get('impact', '...'),
                         "tag": ai.get('tag', 'General'),
                         "urgency": urgency_val,
