@@ -907,7 +907,7 @@ STRICT OUTPUT JSON:
             f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
             f"🔬 <b>نگاه عمیق‌تر:</b>\n{deep_dive}\n\n"
             f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
-            f"🆔 <aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
+            f" <aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -970,9 +970,8 @@ STRICT OUTPUT JSON:
             f"<li>🚨 <b>سطح اهمیت:</b> {summary.get('risk_level', '?')}/10 ({esc(summary.get('change_from_previous', ''))})</li>\n"
             f"<li>🤖 <b>بروز AI:</b> {ai_text}</li>\n"
             f"</ul>\n"
-            f"<footer>\n"
+            f"</br>"
             f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>\n"
-            f"</footer>\n"
         )
 
         # 1. Primary Attempt: Send Rich Message
@@ -1002,7 +1001,7 @@ STRICT OUTPUT JSON:
             f"🧠 <b>تحلیل:</b>\n{esc(summary.get('strategic_assessment'))}\n\n"
             f"🔮 <b>پیش‌بینی:</b>\n{most_likely}\n\n"
             f"📈 <b>سطح اهمیت:</b> <b>{summary.get('risk_level', '?')}/10</b>\n\n"
-            f"🆔 @WirTech"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -1047,9 +1046,7 @@ STRICT OUTPUT JSON:
             f"<summary>💡 <b>جمع‌بندی نهایی</b></summary>\n"
             f"<p>{bottom_line}</p>\n"
             f"</details>\n"
-            f"<footer>\n"
-            f"<p>🆔 @WirTech</p>\n"
-            f"</footer>\n"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         # 1. Primary Attempt: Send Rich Message
@@ -1079,7 +1076,7 @@ STRICT OUTPUT JSON:
             f"───────────────────\n\n"
             f"{bullets_text}"
             f"💡 <b>جمع‌بندی نهایی:</b>\n{bottom_line}\n\n"
-            f"🆔 @WirTech"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -1211,9 +1208,7 @@ STRICT OUTPUT JSON:
             f"<h2>📋 تحلیل و جزئیات</h2>\n"
             f"{details_html}"
             f"{tags_html}"
-            f"<footer>\n"
-            f"<p>🆔 @WirTech</p>\n"
-            f"</footer>\n"
+            f"<aside><a href="https://t.me/wirtech">WirTech</a><cite>Technology News</cite></aside>"
         )
 
         if len(full_html) > 30000:
