@@ -33,7 +33,7 @@ jobs:
 
       - name: Run News Script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           MANUAL_URL: ${{ inputs.manual_url }}
@@ -47,4 +47,3 @@ jobs:
           git add news.json
 
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)
-        
