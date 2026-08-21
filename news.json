@@ -1,5 +1,51 @@
 [
     {
+        "id": "c301db88c2",
+        "title_fa": "برنامه جدید شرکت سرتون برای ارائه فناوری‌های شنوایی به سالمندان هیوستون",
+        "title_en": "Ceretone and Houston Nonprofits Launch Hearing Technology Program for Seniors",
+        "summary": [
+            "شرکت سرتون با همکاری سازمان‌های غیرانتفاعی هیوستون طرح جدیدی برای تجهیز سالمندان به فناوری‌های پیشرفته شنوایی آغاز کرد.",
+            "هدف اصلی این پروژه، افزایش دسترسی‌پذیری و کاهش هزینه‌های ابزارهای کمکی شنوایی برای افراد مسن است."
+        ],
+        "full_text": "Ceretone and Houston Nonprofits Launch Hearing Technology Program for Seniors  geneonline.com",
+        "full_text_fa": "شرکت «سرتون» (Ceretone) با مشارکت چند سازمان غیرانتفاعی در شهر هیوستون، برنامه‌ای جدید با هدف ارائه فناوری‌های پیشرفته شنوایی به سالمندان راه‌اندازی کرده است. این طرح می‌کوشد با توزیع تجهیزات مدرن و مقرون‌به‌صرفه، چالش‌های شنوایی در سنین بالا را کاهش دهد و ارتباطات اجتماعی سالمندان را بهبود ببخشد.",
+        "impact": "تسهیل دسترسی سالمندان به فناوری‌های مدرن مراقبت از سلامتی و ارتقای کیفیت زندگی آن‌ها.",
+        "tag": "گجت",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "geneonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUVUZ2xydDM3V21EY1lkQnNWWGhCM0d1X2ZhN1RDSnBSd18tWFYzX29CUkRKTXBkdkhDaDVvem5FcHI0SnVxaUNDMEZFbTR3WG9QMjNWbkF2bVB5LVhBS0hNY2k2dldheVp0UkEwaW4wSDlMdjd6QlBJYWRIQXhnVjA5M1NITlpUWXlZcFVUUEJCa0gxWFNuNGNlWHZpZ2M4c2V2ekx2azM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUVUZ2xydDM3V21EY1lkQnNWWGhCM0d1X2ZhN1RDSnBSd18tWFYzX29CUkRKTXBkdkhDaDVvem5FcHI0SnVxaUNDMEZFbTR3WG9QMjNWbkF2bVB5LVhBS0hNY2k2dldheVp0UkEwaW4wSDlMdjd6QlBJYWRIQXhnVjA5M1NITlpUWXlZcFVUUEJCa0gxWFNuNGNlWHZpZ2M4c2V2ekx2azM",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787324973.0
+    },
+    {
+        "id": "a96c50ddf3",
+        "title_fa": "جذب سرمایه ۲۵۰ میلیون دلاری استارکلاود برای راه‌اندازی دیتاسنترهای مداری",
+        "title_en": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "summary": [
+            "استارتاپ استارکلاود موفق به جذب ۲۵۰ میلیون دلار سرمایه جدید برای ساخت و توسعه دیتاسنترها در مدار زمین شد.",
+            "این جذب سرمایه سنگین در شرایطی رخ می‌دهد که ظرفیت پرتاب‌های فضایی در جهان با محدودیت جدی مواجه شده است."
+        ],
+        "full_text": "Starcloud raises $250 million for orbital data centers as launch options dry up  TechCrunch",
+        "full_text_fa": "استارتاپ «استارکلاود» (Starcloud) در جدیدترین دور از جذب سرمایه خود موفق شد ۲۵۰ میلیون دلار منابع مالی جدید برای ساخت و توسعه دیتاسنترهای مداری دریافت کند. این اقدام در شرایطی صورت می‌گیرد که گزینه‌ها و ظرفیت‌های پرتاب به فضا به دلیل تقاضای بالا با محدودیت روبه‌رو شده است، اما استارکلاود قصد دارد با انتقال بخشی از پردازش‌های سنگین به مدار زمین، راه‌حلی نوآورانه برای چالش‌های انرژی دیتاسنترهای زمینی ارائه دهد.",
+        "impact": "ایجاد زیرساخت‌های پردازشی جدید در فضا جهت کاهش فشار شدید بر شبکه‌های برق زمین.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXVPM3dmSzFKVFBVX012dWE4cmNSQ0xvamRkYUJBYUttT1U3ZkVnc2Z6YXVKSmFMMk9TWEZOTGV6eFgyLWx3LVIyTmw5cWdQZ0NSTWNmMTVkSFZ2WU8tRXp4MjlKc1ZHUy04MjNhVFM2OFAyN0RzR0ZlUGxpZjV6SGx2ZmplWXFzdzNJVEhlbDJHRXc5R3Jja1dXaW85Yjl2cVVrMTRfVmxmMUdod2RhY0g0WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXVPM3dmSzFKVFBVX012dWE4cmNSQ0xvamRkYUJBYUttT1U3ZkVnc2Z6YXVKSmFMMk9TWEZOTGV6eFgyLWx3LVIyTmw5cWdQZ0NSTWNmMTVkSFZ2WU8tRXp4MjlKc1ZHUy04MjNhVFM2OFAyN0RzR0ZlUGxpZjV6SGx2ZmplWXFzdzNJVEhlbDJHRXc5R3Jja1dXaW85Yjl2cVVrMTRfVmxmMUdod2RhY0g0WQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787320800.0
+    },
+    {
         "id": "a5d48fea85",
         "title_fa": "جهش چین در ساخت راکت‌های بازگشتی و پیامدهای نظامی آن",
         "title_en": "Why China’s reusable rocket breakthrough matters for the PLA’s ‘kill chain’",
