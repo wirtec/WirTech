@@ -22,6 +22,32 @@
         "timestamp": 1787317944.0
     },
     {
+        "id": "5040fef38f",
+        "title_fa": "چراغ سبز FDA به تراشه مغزی هوش مصنوعی برای درمان اختلال حافظه",
+        "title_en": "Researchers are closer than ever to an AI-guided device to treat memory loss",
+        "summary": [
+            "شرکت Nia Therapeutics ایمپلنتی مغزی ساخته که با پردازش هوشمند سیگنال‌های عصبی، زمان فراموشی را پیش‌بینی می‌کند.",
+            "این دستگاه در لحظه ضعف حافظه، سیگنال‌های الکتریکی خفیف و شخصی‌سازی‌شده به مغز فرستاده و قدرت یادآوری را بازمی‌گرداند.",
+            "سازمان FDA با اعطای وضعیت ویژه، مسیر بررسی و شروع آزمایش‌های انسانی این فناوری را برای سال ۲۰۲۷ هموار کرده است."
+        ],
+        "full_text": "Researchers are closer than ever to an AI-guided device to treat memory loss In the late 1990s, a young Michael Kahana—then developing computer models of human memory—was invited to Harvard Medical School by a neurosurgeon friend to give grand rounds to the neurosurgery and neurology faculty. Afterward, he toured the ninth floor of Boston Children's Hospital. \"It was the most important professional moment of my life,\" says Kahana, Edmund J. and Louise W. Kahn Term Professor of Psychology in the School of Arts & Sciences. On the ninth floor, patients with drug-resistant epilepsy were undergoing week-long monitoring with implanted electrodes to help plan a potentially curative surgery. Kahana observed a teen patient playing a video game as a recording system captured reams of never-analyzed data. Except for a small snippet used for seizure mapping, the data were deleted each night; there was nowhere to store such a massive amount of information. These were the roots of a decades-long adventure, as Kahana calls it, leading to the realization that it's possible to predict when somebody will remember and when somebody will forget. That journey took another step this past March when the Food and Drug Administration (FDA) bestowed a \"breakthrough device designation\" on the Smart Neurostimulation System (SNS), an implantable therapy created by Kahana and colleagues through their Penn spinout, Nia Therapeutics. The designation, which the FDA reserves for technologies that address unmet needs in serious conditions, qualifies the device for priority review, meaning it will likely be reviewed faster. Nia's SNS is the first device to receive the designation for TBI-related memory loss. The company, Kahana says, is preparing to begin clinical trials in 2027. The differentiator, he adds, is how the SNS employs artificial intelligence to guide a closed-loop technology, which analyzes distributed patterns of brain activity and uses personalized models to deliver bursts of stimulation during predicted memory lapses. \"Sometimes I talk to people about this technology and they think that it's science fiction,\" says Daniel Rizzuto, who studied under Kahana and co-founded Nia Therapeutics with him. \"It sounds like science fiction. But Mike and I have moved this technology from science fiction into science fact. And we've published multiple peer-reviewed papers showing our ability to improve human verbal memory using this personalized approach.\" A path to major advances Computational approaches to neural data, by Kahana and others, expanded with the rise of machine-learning methods that can understand how complex patterns of neural features predict behavioral measurements. Kahana has been publishing about those patterns for years. \"Our Eureka! moment was when we realized that this huge amount of variation in the effects of stimulation could be explained,\" Kahana says. \"A lot of it could be explained by the state of the brain when you stimulate.\" He and Rizzuto, for instance, teamed up at Penn in 2014 to launch the Restoring Active Memory project. The large-scale research allowed Kahana to explore how brain stimulation can modulate memory. Scaling the science to that level required Kahana and Rizzuto's team to set up testing sites at nine hospitals across the United States. One key insight from those studies: Once machine-learning pattern matching determines when someone is in a good or poor memory state, stimulation to the lateral temporal cortex—just over the person's left ear—can change the equation. The networks supporting memory are distributed across many brain regions and require technology that can listen to signals in multiple deep brain structures. That's where they place the 64 contacts in the Smart Neurostimulation System. When it senses the brain in a state that requires intervention, it delivers a burst of stimulation optimized to each patient's memory network. The results have been promising. Through a peer-reviewed study published in January 2023, for example, Kahana and Rizzuto reported that their device could boost memory by approximately 19% in patients with a history of moderate to severe traumatic brain injuries. In a subsequent 2024 publication, they showed they could boost memory by 28% in patients with epilepsy who had electrodes implanted near white matter tracts. This degree of improvement exceeds the usual benchmark physicians use for judging a clinically significant improvement. \"For some of our patients, the closed-loop stimulation protocol improved their memory by the same amount that we would have expected their memory to have declined due to their brain injury,\" Rizzuto says. Kahana has trouble hiding his excitement. \"The brain,\" he says, \"is the last frontier, really. Right?\" He is ambitious. Years of studies have helped, yet the pool of patients with implanted electrodes who can be observed is small. \"If there are 27 million Americans who suffer from significant disability due to memory loss,\" Kahana says, \"and if, of those 27 million Americans, 1% had a device that recorded brain data all the time....\" It could open many doors. He doesn't say it, but it's implied in his pause. \"This device not only includes a therapy, but it's also a data collection system for the human brain that will store vastly more neural data than I was able to collect in decades of research in neurosurgical patients,\" he adds. \"These data could lead to unimaginable scientific and therapeutic advances.\"",
+        "impact": "تحولی بزرگ در بازگرداندن حافظه بیماران دچار ضایعه مغزی با کمک مدل‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.85,
+        "source": "Medical Xpress",
+        "url": "https://medicalxpress.com/news/2026-08-closer-ai-device-memory-loss.html",
+        "clean_url": "https://medicalxpress.com/news/2026-08-closer-ai-device-memory-loss.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-breakthrough-to-rest.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/hires/2026/a-breakthrough-to-rest.jpg",
+            "https://scx2.b-cdn.net/gfx/news/2026/a-breakthrough-to-rest.jpg",
+            "https://medx.b-cdn.net/tmpl/v6/img/logo.png",
+            "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg"
+        ],
+        "timestamp": 1787317200.0
+    },
+    {
         "id": "26c8bd7f0d",
         "title_fa": "تبدیل گوشی‌های پیکسل گوگل به آزمایشگاه پزشکی با دستاورد جدید AI",
         "title_en": "Google's latest AI breakthrough may turn your Pixel phone into a medical lab",
@@ -321,6 +347,28 @@
         "images": [
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ]
+    },
+    {
+        "id": "9fc31097b4",
+        "title_fa": "سرمایه‌گذاری استلانتیس در کارخانه قدیمی برای راه‌اندازی فناوری کلیدی جدید",
+        "title_en": "Stellantis bets on long-idled Belvidere to launch this key technology",
+        "summary": [
+            "غول خودروسازی استلانتیس کارخانه تعطیل‌شده بلویدیر را برای راه‌اندازی و تولید فناوری جدید خود انتخاب کرد.",
+            "این اقدام بخشی از برنامه شرکت برای بازگرداندن خطوط تولید قدیمی به چرخه نوآوری‌های مدرن خودرویی است."
+        ],
+        "full_text": "Stellantis bets on long-idled Belvidere to launch this key technology  Detroit Free Press",
+        "impact": "احیای خطوط تولید راکد و ایجاد زیرساخت تازه برای نسل جدید محصولات استلانتیس.",
+        "tag": "خودرو",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTZLTVI2SkVrUUFka3NzSnVicVB5TXVFcEhjUXVBcTg5LUxkR1VVZ0FNWVN1MmpoaHJ2dGtzVHpFV0t1WDQ1VHIzSXBTUVVFc252N1pDWFJVNE1tbUtCT1V5a2UtNXcxOU1xM09sV2NlRkNWV2hoWGc2SVJoNXB5QUJiQTVXTVZ6YlVoX19EMmZrU3hMaWc5QklxVWF3WUtPOXVIazM3dGl4LURpVFlCUTBn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTZLTVI2SkVrUUFka3NzSnVicVB5TXVFcEhjUXVBcTg5LUxkR1VVZ0FNWVN1MmpoaHJ2dGtzVHpFV0t1WDQ1VHIzSXBTUVVFc252N1pDWFJVNE1tbUtCT1V5a2UtNXcxOU1xM09sV2NlRkNWV2hoWGc2SVJoNXB5QUJiQTVXTVZ6YlVoX19EMmZrU3hMaWc5QklxVWF3WUtPOXVIazM3dGl4LURpVFlCUTBn",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787306580.0
     },
     {
         "id": "271b48ffe7",
