@@ -1,5 +1,43 @@
 [
     {
+        "id": "4d36434baa",
+        "title_fa": "تمرکز شرکت رنوا بر ارائه راهکارهای پایدار در صنعت بازی‌های ویدیویی",
+        "title_en": "Focus on Renova Technology: The sustainable play behind the game",
+        "summary": [
+            "شرکت Renova Technology از راهکارهای جدید خود برای کاهش اثرات زیست‌محیطی سخت‌افزارهای گیمینگ رونمایی کرد.",
+            "این اقدام بخشی از جنبش جدید به سمت بازی‌سازی پایدار و دوستدار محیط‌زیست است."
+        ],
+        "tag": "بازی",
+        "urgency": 3,
+        "source": "CDC Gaming",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLTMxODY3TVp2QWUwX1djX2dDdEw0eUxENDBtS0JWY0oxc2t5MTcwNGhiSXpUUFhqRThnQzh1SFprd19ZRGVJblNXU2diWDJmYWpvUUZuZEhwdmptU1NZMTJqUDNoeE91NUhWMjlycFhoN2tKeVhVRWdZcjhKOVg3a1BLaldZSS1Pc2U1cDQ2Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLTMxODY3TVp2QWUwX1djX2dDdEw0eUxENDBtS0JWY0oxc2t5MTcwNGhiSXpUUFhqRThnQzh1SFprd19ZRGVJblNXU2diWDJmYWpvUUZuZEhwdmptU1NZMTJqUDNoeE91NUhWMjlycFhoN2tKeVhVRWdZcjhKOVg3a1BLaldZSS1Pc2U1cDQ2Zw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787313603.0
+    },
+    {
+        "id": "d525d9546e",
+        "title_fa": "سرمایه‌گذاری ۱۰ میلیارد دلاری مایکرون برای توسعه زیرساخت‌های هوش مصنوعی",
+        "title_en": "Inside Micron’s US$10bn Investment for the Future of US AI",
+        "summary": [
+            "مایکرون قصد دارد ۱۰ میلیارد دلار روی ساخت و توسعه تراشه‌های پیشرفته سرمایه‌گذاری کند.",
+            "این پروژه‌ با هدف تقویت زیرساخت‌های سخت‌افزاری هوش مصنوعی در آمریکا انجام می‌شود."
+        ],
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "source": "AI Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzFMcTNELTMyeWRKbk1HVnYyN2xqNy1YQUhlWkRUQzJzcklKcWd2TWo4dzlnSy1ueDBkQWhHbDQydGQxN0o1c09yN3NIb3VrNXVnMjlFZ3AyeXZ4ZWo5a2ZMOHJPQlJBMDRMckNhLV9MNWE3ZzllakVqcmZNYkg4OVdhMFdxQUtyUmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzFMcTNELTMyeWRKbk1HVnYyN2xqNy1YQUhlWkRUQzJzcklKcWd2TWo4dzlnSy1ueDBkQWhHbDQydGQxN0o1c09yN3NIb3VrNXVnMjlFZ3AyeXZ4ZWo5a2ZMOHJPQlJBMDRMckNhLV9MNWE3ZzllakVqcmZNYkg4OVdhMFdxQUtyUmc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787310629.0
+    },
+    {
         "id": "92f35dd1d5",
         "title_fa": "برنامه سونی برای کاهش و حذف تدریجی دیسک‌های فیزیکی",
         "title_en": "No More PlayStation Discs Means No More Disc Butts",
@@ -17,6 +55,25 @@
             "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787310252.0
+    },
+    {
+        "id": "09e4f85922",
+        "title_fa": "درخواست مقام‌های مذهبی از قانون‌گذاران: کنترل هوش مصنوعی را به دست بگیرید",
+        "title_en": "Leo XIV to Catholic lawmakers: Guide AI, don’t abdicate to it",
+        "summary": [
+            "تأکید بر لزوم نظارت کامل انسانی بر توسعه فناوری‌های مرتبط با هوش مصنوعی.",
+            "هشدار در مورد واگذاری تصمیم‌گیری‌های حساس به الگوریتم‌های هوش مصنوعی."
+        ],
+        "tag": "عمومی",
+        "urgency": 4,
+        "source": "aleteia.org",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVW5DeTRUVWc1RV9aUDh1aFAyREt3ZE9VRFp1dWpZb25MRmpEc0ZtY0JkcUNxdFUyclhNR2s5eFc1eUVWcUZ4bEhrZkxYcC1kZzZlRlRLQnJyVWNJZE0zVHBETFBQU21qVWlTMUpUeXgwN1ZLMy1NRnpNQ2xLQ0dzbjdBcXc2THB1QS1jeE44LWpDSUVr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVW5DeTRUVWc1RV9aUDh1aFAyREt3ZE9VRFp1dWpZb25MRmpEc0ZtY0JkcUNxdFUyclhNR2s5eFc1eUVWcUZ4bEhrZkxYcC1kZzZlRlRLQnJyVWNJZE0zVHBETFBQU21qVWlTMUpUeXgwN1ZLMy1NRnpNQ2xLQ0dzbjdBcXc2THB1QS1jeE44LWpDSUVr",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787309306.0
     },
     {
         "id": "1639be2711",
@@ -38,6 +95,25 @@
         "timestamp": 1787308194.0
     },
     {
+        "id": "271b48ffe7",
+        "title_fa": "رونمایی از شتاب‌دهنده جدید دانشگاه لینگنان برای تجاری‌سازی پروژه‌های هوش مصنوعی",
+        "title_en": "Lingnan University unveils LU Xcelerator to drive AI + X innovation, supporting technology + humanity commercialisation in tapping opportunities across the Northern Metropolis and Greater Bay Area",
+        "summary": [
+            "دانشگاه لینگنان برنامه‌ای به نام LU Xcelerator را برای حمایت از نوآوری‌های فناوری معرفی کرد.",
+            "این شتاب‌دهنده به تجاری‌سازی پروژه‌های هوش مصنوعی و اتصال آن‌ها به بازار کار کمک می‌کند."
+        ],
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "source": "Asia Research News |",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEdQQkxhcHEwLXNpMl83bkQ5QUM1UFp2X25sX1NQQndtRE5MdFBVSjdaanlWOGl0ajZTWnZud2Qtdkpza016WkYtalNYSWlVYXY0UnFsNGlQalhnV0N6MG9VV3o4dnR5Sm5PS3dzVlAycHp2dG9LWERFQno4eFF4bFpkOE9Pd1hPTDFsd2lBaVg3ck4yUEkwZW54bGVLZ3RITGZYUC1UN2ZmUnZzRV92MkVuU1V0QlBDMG5wUF9OQ2hQdzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEdQQkxhcHEwLXNpMl83bkQ5QUM1UFp2X25sX1NQQndtRE5MdFBVSjdaanlWOGl0ajZTWnZud2Qtdkpza016WkYtalNYSWlVYXY0UnFsNGlQalhnV0N6MG9VV3o4dnR5Sm5PS3dzVlAycHp2dG9LWERFQno4eFF4bFpkOE9Pd1hPTDFsd2lBaVg3ck4yUEkwZW54bGVLZ3RITGZYUC1UN2ZmUnZzRV92MkVuU1V0QlBDMG5wUF9OQ2hQdzQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787306370.0
+    },
+    {
         "id": "89b39932f4",
         "title_fa": "لو رفتن قیمت و تاریخ عرضه مدل جدید ایکس‌باکس سری ایکس",
         "title_en": "Xbox Series X25 price and release date leaked",
@@ -57,6 +133,25 @@
         "timestamp": 1787305200.0
     },
     {
+        "id": "4e8e89e9cf",
+        "title_fa": "چالش‌های حقوقی جدید: مالکیت داروهای کشف‌شده با هوش مصنوعی متعلق به کیست؟",
+        "title_en": "When AI designs a drug, who gets the credit?",
+        "summary": [
+            "استفاده از هوش مصنوعی در ساخت و طراحی داروها سوالات حقوقی تازه‌ای ایجاد کرده است.",
+            "هنوز قانون مشخصی برای تعیین مالکیت معنوی و حق اختراع داروهای تولیدشده توسط هوش مصنوعی وجود ندارد."
+        ],
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "source": "MIT Technology Review",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGhYSjZMMkpXQ3hFQTBOb2NYeDVlamdYMzk4enRGcWFBbnlvWjV6Y3lxVE8tVk5LeGhtNy1LQ3VyejQtNDhvaXpzV0puclBxUXlEWGF6QmFCM3F1b244WEpyRVJ4N3dMWDd0QXBhQWdmZHBEVm80SG5sN0pTWEZUbUluSHFKSEF5OHJ0TXRNSFpVUmdsUzZXY0k2ONIBoAFBVV95cUxNZU5tR0tjaVlQOWpxMTRqQ3RTRHlNb3lNVnJFdXVDeFpvWEpzWk1QYlA3S2lCT0Z3LUFVeldrQWRTTUtoUUhOVzE1amJQcmZJY2o1V3ZCTmpIUnJfMEJjaUZXd2YtemFkUzYteWQ1Z2t4QUl5V2hRUFVfNkxMa0FKR015RldZV01XQUFJaS1aa3NWNzRseF9ySXpkRnJPN0Fa?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGhYSjZMMkpXQ3hFQTBOb2NYeDVlamdYMzk4enRGcWFBbnlvWjV6Y3lxVE8tVk5LeGhtNy1LQ3VyejQtNDhvaXpzV0puclBxUXlEWGF6QmFCM3F1b244WEpyRVJ4N3dMWDd0QXBhQWdmZHBEVm80SG5sN0pTWEZUbUluSHFKSEF5OHJ0TXRNSFpVUmdsUzZXY0k2ONIBoAFBVV95cUxNZU5tR0tjaVlQOWpxMTRqQ3RTRHlNb3lNVnJFdXVDeFpvWEpzWk1QYlA3S2lCT0Z3LUFVeldrQWRTTUtoUUhOVzE1amJQcmZJY2o1V3ZCTmpIUnJfMEJjaUZXd2YtemFkUzYteWQ1Z2t4QUl5V2hRUFVfNkxMa0FKR015RldZV01XQUFJaS1aa3NWNzRseF9ySXpkRnJPN0Fa",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787302800.0
+    },
+    {
         "id": "a2f53b056b",
         "title_fa": "رونمایی RayNeo از عینک‌های هوشمند واقعیت افزوده جدید",
         "title_en": "RayNeo Is Going Both Minimalist And Maximalist With Its Latest AR Smart Glasses",
@@ -74,6 +169,25 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787295600.0
+    },
+    {
+        "id": "1b3c1166cf",
+        "title_fa": "آزمایش خط‌کشی‌های عابر پیاده مجهز به سیستم تشخیص چشم در لاس‌وگاس",
+        "title_en": "Pedestrians split over new AI eye-reading crosswalks in Las Vegas",
+        "summary": [
+            "لاس‌وگاس سیستم جدیدی برای خط‌کشی عابر پیاده را آزمایش می‌کند که با هوش مصنوعی حرکات چشم را می‌خواند.",
+            "هدف این طرح افزایش امنیت عابران است، اما نظرات مردم درباره کارایی آن متفاوت بوده است."
+        ],
+        "tag": "هوش مصنوعی",
+        "urgency": 5,
+        "source": "FOX5 Vegas",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQnY3NUgyT0pUYUI5MFRmazEySnRHU0c4VFV3NEtiT3NsQnFUME9QZW1iNHh6RlRMbUlFOC1pVjFLSEw1V1BFQWF3TkZZM2x4RW1mUUN2LXhDaV9tUFJKZVZaY0JPVFZSZXRQRmo5LUZVQTVWTGc2TnZrM2pOdFgySnNQSWZBU3lXVmUzZWs3aGxZVm1OOFhkU0JiTFFwanlOQmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQnY3NUgyT0pUYUI5MFRmazEySnRHU0c4VFV3NEtiT3NsQnFUME9QZW1iNHh6RlRMbUlFOC1pVjFLSEw1V1BFQWF3TkZZM2x4RW1mUUN2LXhDaV9tUFJKZVZaY0JPVFZSZXRQRmo5LUZVQTVWTGc2TnZrM2pOdFgySnNQSWZBU3lXVmUzZWs3aGxZVm1OOFhkU0JiTFFwanlOQmc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787293680.0
     },
     {
         "id": "77469b8203",
@@ -303,6 +417,25 @@
             "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787263140.0
+    },
+    {
+        "id": "c85cb10ce9",
+        "title_fa": "تغییر بزرگ در گوگل دیسکاور با اضافه شدن فید هوشمند مبتنی بر چت‌بات",
+        "title_en": "Google Discover is getting an AI chatbot-tuned feed",
+        "summary": [
+            "گوگل در حال افزودن ویژگی‌های جدید مبتنی بر هوش مصنوعی به سرویس دیسکاور است.",
+            "کاربران به‌زودی می‌توانند نحوه نمایش محتوا را در بخش‌های جستجو، دیسکاور و اخبار بهتر شخصی‌سازی کنند."
+        ],
+        "tag": "نرم‌افزار",
+        "urgency": 7,
+        "source": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SaXNzdURhR3RCTDNvejQxaV9WZmlrOHByblNLTnV0NlN1aVFIRVFLMU1QWEhVNzRrMjZtSmsyc1plUzJRYU1BMXk0ZjlvY1hhUC1JZDNNZWk0dVJtZkN4MkZick1EZkVqWndlMGxjbnY3UmdOeWg0?oc=5",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SaXNzdURhR3RCTDNvejQxaV9WZmlrOHByblNLTnV0NlN1aVFIRVFLMU1QWEhVNzRrMjZtSmsyc1plUzJRYU1BMXk0ZjlvY1hhUC1JZDNNZWk0dVJtZkN4MkZick1EZkVqWndlMGxjbnY3UmdOeWg0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787262622.0
     },
     {
         "id": "5b74bdab02",
