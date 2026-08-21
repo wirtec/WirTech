@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<title>WirTech | اخبار تکنولوژی، گجت و هوش مصنوعی</title>
+<meta name="description" content="WirTech - تازه‌ترین اخبار فناوری، هوش مصنوعی، گجت، نرم‌افزار و بازی‌های ویدیویی به زبان فارسی">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%230B0E14'/%3E%3Ctext x='50' y='68' font-size='58' text-anchor='middle' fill='%23FFB000' font-family='monospace' font-weight='bold'%3EW%3C/text%3E%3C/svg%3E">
+
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    darkMode: 'class',
+    theme: {
+      extend: {
+        fontFamily: {
+          sans: ['"Vazirmatn FD"', 'sans-serif'],
+          display: ['"Space Grotesk"', '"Vazirmatn FD"', 'sans-serif'],
+          mono: ['"JetBrains Mono"', 'monospace'],
+        },
+        colors: {
+          wt: {
+            bg: '#0B0E14',
+            surface: '#12161F',
+            surface2: '#181D29',
+            border: '#232938',
+            text: '#E7E9EE',
+            sub: '#8B93A7',
+            amber: '#FFB000',
+            teal: '#33D6B0',
+          }
+        }
+      }
+    }
+  }
+</script>
+
+<style>
+  html.dark body{ background:#0B0E14; }
+  body{ background:#F5F6F8; color:#12161F; }
+  ::-webkit-scrollbar{ width:8px; height:8px; }
+  ::-webkit-scrollbar-track{ background:transparent; }
+  ::-webkit-scrollbar-thumb{ background:#8B93A7; border-radius:4px; }
+  html.dark ::-webkit-scrollbar-thumb{ background:#232938; }
+
+  /* Circuit-trace underline used on the wordmark */
+  .trace-underline{
+    background-image: linear-gradient(90deg, #FFB000 0 8px, transparent 8px 14px);
+    background-size: 14px 3px;
+    background-repeat: repeat-x;
+    height: 3px;
+  }
+
+  /* HUD viewfinder corners — signature card motif, shown on hover/focus */
+  .hud-card{ position:relative; }
+  .hud-card::before, .hud-card::after,
+  .hud-card .hud-br, .hud-card .hud-bl{
+    content:""; position:absolute; width:16px; height:16px; opacity:0; transition:opacity .2s ease;
+    border-color:#FFB000;
+  }
+  .hud-card::before{ top:8px; right:8px; border-top:2px solid; border-right:2px solid; }
+  .hud-card::after{ top:8px; left:8px; border-top:2px solid; border-left:2px solid; }
+  .hud-card .hud-br{ bottom:8px; right:8px; border-bottom:2px solid; border-right:2px solid; }
+  .hud-card .hud-bl{ bottom:8px; left:8px; border-bottom:2px solid; border-left:2px solid; }
+  .hud-card:hover::before, .hud-card:hover::after,
+  .hud-card:hover .hud-br, .hud-card:hover .hud-bl{ opacity:1; }
+
+  .card-surface{ background:#ffffff; border:1px solid #E4E6EB; }
+  html.dark .card-surface{ background:#12161F; border-color:#232938; }
+
+  .chip{ border:1px solid #E4E6EB; color:#4B5568; }
+  html.dark .chip{ border-color:#232938; color:#8B93A7; }
+  .chip.active{ background:#FFB000; border-color:#FFB000; color:#0B0E14; font-weight:700; }
+
+  details > summary{ list-style:none; cursor:pointer; }
+  details > summary::-webkit-details-marker{ display:none; }
+  details[open] .chev{ transform: rotate(180deg); }
+
+  .gallery-dot{ width:6px; height:6px; border-radius:50%; background:rgba(255,255,255,.5); }
+  .gallery-dot.active{ background:#FFB000; width:16px; border-radius:4px; }
+
+  .fade-line{ background: linear-gradient(90deg, transparent, #232938, transparent); height:1px; }
+
+  .skeleton{ background: linear-gradient(90deg,#e4e6eb 25%,#eef0f3 37%,#e4e6eb 63%); background-size:400% 100%; animation:sk 1.4s ease infinite; }
+  html.dark .skeleton{ background: linear-gradient(90deg,#181D29 25%,#1f2531 37%,#181D29 63%); background-size:400% 100%; }
+  @keyframes sk{ 0%{background-position:100% 50%} 100%{background-position:0 50%} }
+</style>
+</head>
+<body class="font-sans antialiased">
+
+<!-- ===================== HEADER ===================== -->
+<header class="sticky top-0 z-40 backdrop-blur border-b border-wt-border/60" style="background:rgba(245,246,248,.85)">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-16">
+      <a href="#" onclick="resetHome()" class="flex items-center gap-2 shrink-0">
+        <span class="font-display font-bold text-xl tracking-tight">Wir<span class="text-wt-amber">Tech</span></span>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 font-mono text-xs uppercase tracking-wider text-wt-sub">
+        <a href="#news" class="hover:text-wt-amber transition-colors">اخبار</a>
+        <a href="https://t.me/wirtech" target="_blank" class="hover:text-wt-amber transition-colors"><i class="fab fa-telegram"></i> تلگرام</a>
+      </nav>
+      <button onclick="toggleDark()" id="dark-toggle" class="w-9 h-9 grid place-items-center rounded-full chip">
+        <i class="fas fa-moon text-sm"></i>
+      </button>
+    </div>
+  </div>
+  <div class="trace-underline"></div>
+</header>
+
+<!-- ===================== HERO ===================== -->
+<section class="max-w-6xl mx-auto px-4 sm:px-6 pt-10 pb-6">
+  <p class="font-mono text-xs uppercase tracking-[0.2em] text-wt-amber mb-3">// خبرنامه فناوری</p>
+  <h1 class="font-display font-bold text-3xl sm:text-4xl leading-tight max-w-2xl">
+    تازه‌ترین اخبار هوش مصنوعی، گجت و بازی، در یک نگاه
+  </h1>
+  <p class="mt-3 text-wt-sub max-w-xl leading-relaxed">
+    هر خبر رو با یک تیتر، یک خلاصه کوتاه و دسترسی سریع به منبع اصلی می‌بینی؛ برای مطالعه کامل‌تر روی «بیشتر بخوانید» بزن.
+  </p>
+
+  <!-- Search + filters -->
+  <div class="mt-6 flex flex-col sm:flex-row sm:items-center gap-3">
+    <div class="relative flex-1 max-w-sm">
+      <i class="fas fa-search absolute top-1/2 -translate-y-1/2 right-3 text-wt-sub text-sm"></i>
+      <input id="search-input" oninput="onSearch(this.value)" type="text" placeholder="جستجو در اخبار..."
+        class="w-full pr-9 pl-3 py-2.5 rounded-lg text-sm chip bg-transparent focus:outline-none focus:ring-2 focus:ring-wt-amber/50">
+    </div>
+    <div id="tag-filters" class="flex flex-wrap gap-2 font-mono text-xs"></div>
+  </div>
+</section>
+
+<div class="max-w-6xl mx-auto px-4 sm:px-6"><div class="fade-line"></div></div>
+
+<!-- ===================== NEWS GRID ===================== -->
+<main id="news" class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+  <div id="loading-state" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+    <div class="rounded-xl overflow-hidden card-surface"><div class="h-40 skeleton"></div><div class="p-4 space-y-2"><div class="h-4 w-3/4 skeleton rounded"></div><div class="h-3 w-full skeleton rounded"></div><div class="h-3 w-2/3 skeleton rounded"></div></div></div>
+    <div class="rounded-xl overflow-hidden card-surface"><div class="h-40 skeleton"></div><div class="p-4 space-y-2"><div class="h-4 w-3/4 skeleton rounded"></div><div class="h-3 w-full skeleton rounded"></div><div class="h-3 w-2/3 skeleton rounded"></div></div></div>
+    <div class="rounded-xl overflow-hidden card-surface"><div class="h-40 skeleton"></div><div class="p-4 space-y-2"><div class="h-4 w-3/4 skeleton rounded"></div><div class="h-3 w-full skeleton rounded"></div><div class="h-3 w-2/3 skeleton rounded"></div></div></div>
+  </div>
+
+  <div id="empty-state" class="hidden text-center py-20 text-wt-sub">
+    <i class="fas fa-satellite-dish text-3xl mb-3 opacity-60"></i>
+    <p class="font-mono text-sm">خبری با این مشخصات پیدا نشد.</p>
+  </div>
+
+  <div id="news-grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
+
+  <div class="mt-8 text-center">
+    <button id="load-more-btn" onclick="loadMore()" class="hidden px-6 py-2.5 rounded-lg chip font-mono text-xs uppercase tracking-wider hover:border-wt-amber hover:text-wt-amber transition-colors">
+      نمایش بیشتر
+    </button>
+  </div>
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="border-t border-wt-border/60 mt-8">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10 flex flex-col sm:flex-row items-center justify-between gap-4">
+    <div class="flex items-center gap-2">
+      <span class="font-display font-bold">Wir<span class="text-wt-amber">Tech</span></span>
+      <span class="text-wt-sub text-xs font-mono">— Technology News</span>
+    </div>
+    <div class="flex items-center gap-4 font-mono text-xs text-wt-sub">
+      <a href="https://t.me/wirtech" target="_blank" class="hover:text-wt-amber transition-colors flex items-center gap-1.5">
+        <i class="fab fa-telegram text-base"></i> t.me/wirtech
+      </a>
+      <a href="https://wirtec.github.io/WirTech" target="_blank" class="hover:text-wt-amber transition-colors">
+        wirtec.github.io/WirTech
+      </a>
+    </div>
+  </div>
+</footer>
+
+<script>
+const GITHUB_USER = 'wirtec';
+const GITHUB_REPO = 'WirTech';
+const GITHUB_RAW_BASE = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`;
+const GITHUB_CDN_BASE = `https://cdn.jsdelivr.net/gh/${GITHUB_USER}/${GITHUB_REPO}@main/`;
+
+let newsData = [];
+let currentTag = 'all';
+let currentSearch = '';
+let itemsToShow = 12;
+const galleryIndex = {};
+
+async function smartFetch(filename) {
+  const cacheBuster = `t=${Date.now()}`;
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 10000);
+  try {
+    const response = await fetch(`${GITHUB_RAW_BASE}${filename}?${cacheBuster}`, { signal: controller.signal });
+    clearTimeout(timeoutId);
+    if (response.ok) return response;
+  } catch (e) {}
+  clearTimeout(timeoutId);
+  try {
+    const response = await fetch(`${GITHUB_CDN_BASE}${filename}?${cacheBuster}`);
+    if (response.ok) return response;
+  } catch (e) {
+    console.error(`Error loading ${filename}:`, e);
+  }
+  try {
+    const response = await fetch(`./${filename}?${cacheBuster}`);
+    if (response.ok) return response;
+  } catch (e) {}
+  return null;
+}
+
+function toggleDark() {
+  document.documentElement.classList.toggle('dark');
+  const isDark = document.documentElement.classList.contains('dark');
+  document.body.style.background = isDark ? '#0B0E14' : '#F5F6F8';
+  document.getElementById('dark-toggle').innerHTML = isDark ? '<i class="fas fa-sun text-sm"></i>' : '<i class="fas fa-moon text-sm"></i>';
+  localStorage.setItem('wt-dark', isDark ? '1' : '0');
+}
+if (localStorage.getItem('wt-dark') === '1') { document.documentElement.classList.add('dark'); document.body.style.background = '#0B0E14'; }
+
+function resetHome() {
+  currentTag = 'all'; currentSearch = '';
+  document.getElementById('search-input').value = '';
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function onSearch(v) {
+  currentSearch = v.trim().toLowerCase();
+  itemsToShow = 12;
+  render();
+}
+
+function timeAgo(ts) {
+  const diff = Math.max(0, (Date.now() / 1000) - ts);
+  const mins = Math.floor(diff / 60);
+  if (mins < 60) return `${mins} دقیقه پیش`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs} ساعت پیش`;
+  const days = Math.floor(hrs / 24);
+  return `${days} روز پیش`;
+}
+
+function tagIcon(tag) {
+  const t = (tag || '').trim();
+  const map = {
+    'هوش مصنوعی': 'fa-brain', 'گجت': 'fa-mobile-screen', 'بازی': 'fa-gamepad',
+    'گیمینگ': 'fa-gamepad', 'نرم‌افزار': 'fa-code', 'سخت‌افزار': 'fa-microchip',
+    'استارتاپ': 'fa-rocket', 'عمومی': 'fa-newspaper'
+  };
+  return map[t] || 'fa-newspaper';
+}
+
+function buildTagFilters() {
+  const tags = ['all', ...new Set(newsData.map(n => (n.tag || 'عمومی').trim()))];
+  const box = document.getElementById('tag-filters');
+  box.innerHTML = tags.map(t => {
+    const label = t === 'all' ? 'همه' : t;
+    const active = currentTag === t ? 'active' : '';
+    return `<button onclick="setTag('${t.replace(/'/g, "\\'")}')" class="chip ${active} px-3 py-1.5 rounded-full transition-colors">${label}</button>`;
+  }).join('');
+}
+
+function setTag(t) {
+  currentTag = t;
+  itemsToShow = 12;
+  buildTagFilters();
+  render();
+}
+
+function getFiltered() {
+  return newsData.filter(item => {
+    const tagOk = currentTag === 'all' || (item.tag || 'عمومی').trim() === currentTag;
+    if (!tagOk) return false;
+    if (!currentSearch) return true;
+    const hay = `${item.title_fa || ''} ${item.title_en || ''} ${(item.summary || []).join(' ')}`.toLowerCase();
+    return hay.includes(currentSearch);
+  });
+}
+
+function galleryHtml(item) {
+  const imgs = (item.images && item.images.length ? item.images : [item.image]).filter(Boolean);
+  const idx = galleryIndex[item.id] || 0;
+  const dots = imgs.length > 1
+    ? `<div class="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-1.5 z-10">${imgs.map((_, i) => `<span class="gallery-dot ${i === idx ? 'active' : ''}"></span>`).join('')}</div>`
+    : '';
+  const nav = imgs.length > 1
+    ? `<button onclick="event.stopPropagation(); shiftGallery('${item.id}', -1)" class="absolute top-1/2 -translate-y-1/2 right-2 w-7 h-7 rounded-full bg-black/40 text-white grid place-items-center z-10 hover:bg-black/60"><i class="fas fa-chevron-right text-xs"></i></button>
+       <button onclick="event.stopPropagation(); shiftGallery('${item.id}', 1)" class="absolute top-1/2 -translate-y-1/2 left-2 w-7 h-7 rounded-full bg-black/40 text-white grid place-items-center z-10 hover:bg-black/60"><i class="fas fa-chevron-left text-xs"></i></button>`
+    : '';
+  return `<div class="relative h-44 overflow-hidden">
+      <img src="${imgs[idx]}" loading="lazy" class="w-full h-full object-cover transition-opacity duration-200" onerror="this.src='${item.image || ''}'">
+      ${nav}${dots}
+    </div>`;
+}
+
+function shiftGallery(id, dir) {
+  const item = newsData.find(n => n.id === id);
+  if (!item) return;
+  const imgs = (item.images && item.images.length ? item.images : [item.image]).filter(Boolean);
+  const cur = galleryIndex[id] || 0;
+  galleryIndex[id] = (cur + dir + imgs.length) % imgs.length;
+  render();
+}
+
+function cardHtml(item) {
+  const summaryArr = Array.isArray(item.summary) ? item.summary : [item.summary].filter(Boolean);
+  const preview = summaryArr[0] || '';
+  const rest = summaryArr.slice(1);
+  const tag = (item.tag || 'عمومی').trim();
+
+  return `
+  <article class="hud-card rounded-xl overflow-hidden card-surface flex flex-col">
+    <span class="hud-br"></span><span class="hud-bl"></span>
+    ${galleryHtml(item)}
+    <div class="p-4 flex flex-col flex-1">
+      <div class="flex items-center gap-2 mb-2 font-mono text-[11px] text-wt-sub">
+        <span class="chip px-2 py-0.5 rounded-full"><i class="fas ${tagIcon(tag)} ml-1"></i>${tag}</span>
+        <span>·</span>
+        <span>${timeAgo(item.timestamp)}</span>
+      </div>
+      <h3 class="font-display font-bold leading-snug mb-2">${item.title_fa || item.title_en}</h3>
+      <p class="text-sm text-wt-sub leading-relaxed">${preview}</p>
+
+      <details class="mt-3 group">
+        <summary class="flex items-center gap-1.5 font-mono text-xs text-wt-amber select-none">
+          بیشتر بخوانید <i class="fas fa-chevron-down chev text-[10px] transition-transform"></i>
+        </summary>
+        <div class="mt-3 space-y-2">
+          ${rest.length ? `<ul class="space-y-1.5 text-sm text-wt-sub leading-relaxed list-disc pr-4">${rest.map(s => `<li>${s}</li>`).join('')}</ul>` : ''}
+          <a href="${item.url}" target="_blank" rel="noopener"
+             class="inline-flex items-center gap-1.5 mt-2 text-sm font-bold text-wt-amber hover:underline">
+            مشاهده خبر کامل در ${item.source || 'منبع'} <i class="fas fa-arrow-up-left text-xs"></i>
+          </a>
+        </div>
+      </details>
+    </div>
+  </article>`;
+}
+
+function render() {
+  buildTagFilters();
+  const filtered = getFiltered().sort((a, b) => (b.timestamp || 0) - (a.timestamp || 0));
+  const grid = document.getElementById('news-grid');
+  const empty = document.getElementById('empty-state');
+  const loadMoreBtn = document.getElementById('load-more-btn');
+
+  document.getElementById('loading-state').classList.add('hidden');
+
+  if (!filtered.length) {
+    grid.innerHTML = '';
+    empty.classList.remove('hidden');
+    loadMoreBtn.classList.add('hidden');
+    return;
+  }
+  empty.classList.add('hidden');
+
+  const visible = filtered.slice(0, itemsToShow);
+  grid.innerHTML = visible.map(cardHtml).join('');
+
+  if (filtered.length > itemsToShow) {
+    loadMoreBtn.classList.remove('hidden');
+  } else {
+    loadMoreBtn.classList.add('hidden');
+  }
+}
+
+function loadMore() {
+  itemsToShow += 12;
+  render();
+}
+
+async function loadNews() {
+  try {
+    const res = await smartFetch('news.json');
+    const data = res ? await res.json() : [];
+    newsData = Array.isArray(data) ? data : [];
+  } catch (e) {
+    console.error('Failed to load news.json', e);
+    newsData = [];
+  }
+  render();
+}
+
+loadNews();
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  });
+}
+</script>
+</body>
+</html>

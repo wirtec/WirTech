@@ -1,0 +1,42 @@
+[
+    {
+        "id": "a1b2c3d4e5",
+        "title_fa": "گوگل جمینای ۳ را با توانایی درک ویدیوی زنده معرفی کرد",
+        "title_en": "Google unveils Gemini 3 with live video understanding",
+        "summary": [
+            "مدل جدید گوگل می‌تواند تصویر دوربین گوشی را در لحظه تحلیل و توصیف کند.",
+            "این قابلیت ابتدا در اپلیکیشن Gemini برای اندروید و iOS فعال می‌شود.",
+            "گوگل می‌گوید نسخه دسکتاپ هم تا چند هفته دیگر منتشر می‌شود."
+        ],
+        "tag": "هوش مصنوعی",
+        "urgency": 8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com",
+        "clean_url": "https://www.theverge.com",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+            "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1755781234.0
+    },
+    {
+        "id": "f6g7h8i9j0",
+        "title_fa": "سونی از پلی‌استیشن ۵ پرو نسخه جدید با قیمت پایین‌تر رونمایی کرد",
+        "title_en": "Sony unveils new lower-cost PlayStation 5 Pro revision",
+        "summary": [
+            "نسخه جدید کنسول با چیپ بهینه‌شده و مصرف برق کمتر عرضه می‌شود.",
+            "قیمت این نسخه نسبت به مدل قبلی حدود ۵۰ دلار کاهش یافته است."
+        ],
+        "tag": "گیمینگ",
+        "urgency": 7,
+        "source": "IGN",
+        "url": "https://www.ign.com",
+        "clean_url": "https://www.ign.com",
+        "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1755775000.0
+    }
+]
