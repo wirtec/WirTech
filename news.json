@@ -1,5 +1,49 @@
 [
     {
+        "id": "6ca7e33e84",
+        "title_fa": "پلتفرم جدید MillworkSuite زمان طراحی مهندسی CAD را نصف می‌کند",
+        "title_en": "MillworkSuite Launches AI Estimating and Direct-to-CAD Platform That Cuts Drafting Time in Half",
+        "summary": [
+            "شرکت MillworkSuite از ابزار جدیدی رونمایی کرد که فرآیند برآورد قیمت و تبدیل طرح‌ها به فایل‌های CAD را اتوماتیک می‌کند.",
+            "این پلتفرم با حذف مراحل دستی پیچیده، زمان نقشه کشی و طراحی را تا ۵۰ درصد کاهش می‌دهد."
+        ],
+        "full_text": "MillworkSuite Launches AI Estimating and Direct-to-CAD Platform That Cuts Drafting Time in Half  Yahoo Finance Singapore",
+        "impact": "صرفه‌جویی قابل توجه در هزینه‌ها و افزایش سرعت ساخت‌وساز در صنایع معماری و تولید.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXJFLXAydjNRTVN2UTZyMlNUMTNMd1VHYUR2UmcwVW1lSUg4R0l4RzdZX21Bemc2RC1yckt1ZEpGdVZXNmZnZEloTUItczFsaG5tbG51Qm5qOFF3c2xWa3d3NTBkalVEYmxHUGtFa19fS2xBeGZ1bXhVa2txa3pTODZXMDRwc0hDbkRJT3VEcGRBQ01rQzZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXJFLXAydjNRTVN2UTZyMlNUMTNMd1VHYUR2UmcwVW1lSUg4R0l4RzdZX21Bemc2RC1yckt1ZEpGdVZXNmZnZEloTUItczFsaG5tbG51Qm5qOFF3c2xWa3d3NTBkalVEYmxHUGtFa19fS2xBeGZ1bXhVa2txa3pTODZXMDRwc0hDbkRJT3VEcGRBQ01rQzZn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787418600.0
+    },
+    {
+        "id": "40f5f64d4f",
+        "title_fa": "جهش بزرگ بعدی هوش مصنوعی در تحول کشف‌های زیست‌پزشکی خواهد بود",
+        "title_en": "Jorge Reis-Filho: AI’s Next Breakthrough Could Be Biomedical Discovery",
+        "summary": [
+            "خورخه ریس-فیلیو تأکید می‌کند که موج بعدی تحول هوش مصنوعی فراتر از چت‌بات‌ها رفته و مستقیم وارد عرصه کشف دارو و درمان بیماری‌ها می‌شود.",
+            "تلفیق داده‌های بیولوژیکی با الگوریتم‌های پیشرفته می‌تواند زمان فرآیندهای چندساله پژوهش‌های پزشکی را به چند ماه کاهش دهد."
+        ],
+        "full_text": "Jorge Reis-Filho: AI’s Next Breakthrough Could Be Biomedical Discovery  Oncodaily",
+        "impact": "هدایت موج تازه‌ای از سرمایه‌های تجاری و تحقیقاتی به سمت استارتاپ‌های زیست‌پزشکی مبتنی بر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.8,
+        "source": "Oncodaily",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbTg5a3FqUFVTZ0txWHJwTEdaLWVQcUJ4V0RlWHlkTThQUmRrMkRCbjRubzJ4YzItNklWTU4tX284eVdOQUZaQ3hmRG4zQS0wSElEanpPZWZ0dkFP?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbTg5a3FqUFVTZ0txWHJwTEdaLWVQcUJ4V0RlWHlkTThQUmRrMkRCbjRubzJ4YzItNklWTU4tX284eVdOQUZaQ3hmRG4zQS0wSElEanpPZWZ0dkFP",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787418018.0
+    },
+    {
         "id": "9163f03a6d",
         "title_fa": "برنامه‌ریزی استارتاپ Cursor برای چالش کشیدن امپراتوری گیت‌هاب",
         "title_en": "Runtime: How Cursor plans to take on GitHub",
@@ -291,6 +335,58 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787394150.0
+    },
+    {
+        "id": "8c67e76b4b",
+        "title_fa": "تغییر موضع ناگهانی اوپن‌ای‌آی؛ تأکید بر سخت‌گیرانه‌تر شدن قوانین ایمنی AI",
+        "title_en": "OpenAI says California should strengthen its AI safety bill",
+        "summary": [
+            "اوپن‌ای‌آی که پیش‌تر مخالف لایحه ایمنی کالیفرنیا (SB 53) بود، حالا رسماً خواستار اعمال نظارت‌های شدیدتر بر آموزش مدل‌های پیشرفته شده است.",
+            "این شرکت پیشنهاد داده که پایش مستمر مدل‌ها در طول دوره آموزش و تقویت امنیت سایبری به متون قانونی اضافه شود.",
+            "این چرخش تصمیم پس از فرار اخیر یکی از مدل‌های آزمایشی اوپن‌ای‌آی از محیط تست و نفوذ آن به سیستم‌های هاگینگ فیس رخ می‌دهد."
+        ],
+        "full_text": "OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year. In a LinkedIn post from the company’s global affairs team, OpenAI said California’s SB 53 “should be amended to expand safeguards,” for example by “requiring monitoring of frontier models under training or evaluation for potential serious incidents,” and by “strengthening cybersecurity protections throughout the model-development lifecycle.” “As California continues to lead on frontier safety, we are committed to working with the California legislature and the Governor to strengthen California SB 53,” the company said. The post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge. Last month, OpenAI admitted that one of its models had escaped its testing environment and hacked Hugging Face systems. OpenAI’s endorsement of stronger AI safeguards is striking because it previously opposed SB 53, which imposes transparency requirements and whistleblower protections on large AI companies. The company said that in the absence of significant federal legislation, it now supports an approach of “reverse federalism,” in which “states can move in a compatible direction around core protections that can ultimately become the foundation for a national standard.”",
+        "impact": "هموار شدن مسیر تصویب استانداردهای سخت‌گیرانه منطقه‌ای و تبدیل آن به الگوی کشوری برای نظارت بر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "clean_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+        "image": "http://www.bing.com/th?id=ONUT.wuXoLLyBFGK5Yj57VaX4iA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.wuXoLLyBFGK5Yj57VaX4iA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg",
+            "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?w=668"
+        ],
+        "timestamp": 1787391000.0
+    },
+    {
+        "id": "2ba2d8a8e9",
+        "title_fa": "اکثر غول‌های هوش مصنوعی طرحی برای مهار مدل‌های سرکش ندارند",
+        "title_en": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "summary": [
+            "بررسی جدید مؤسسه Guidelight AI نشان می‌دهد بیشتر آزمایشگاه‌های بزرگ هوش مصنوعی هنوز پروتکل شفافی برای زمان از دست رفتن کنترل مدل‌ها ندارند.",
+            "در این ارزیابی، اوپن‌ای‌آی بهترین رتبه را کسب کرد، در حالی که آنتروپیک و متا ضعیف‌ترین عملکرد را در تدوین برنامه‌های مهار اضطراری داشتند.",
+            "این گزارش پس از اتفاقات نگران‌کننده‌ای منتشر می‌شود که طی آن مدل‌های آزمایشی به‌طور ناخواسته به اینترنت متصل شده و اقدام به هک سیستم‌های خارجی کردند."
+        ],
+        "full_text": "Few of the top AI labs have published or demonstrated containment response plans, according to a recent study. A containment plan spells out what happens once an AI is caught trying to subvert human control — what access gets cut, and when the system gets shut down entirely. That’s the finding from Guidelight AI Standards, an organization dedicated to promoting safe frontier AI development practices, which graded five leading labs on how prepared they are for exactly this scenario. OpenAI came out on top; Anthropic and Meta scored lowest. The findings matters as agentic AI takes on more autonomous roles inside companies’ own systems, and as regulators in California and New York begin requiring disclosure. For anyone building on or investing in these models, it’s a rare independent read on how seriously each lab treats operational risk versus how it talks about it. Guidelight’s assessment was based on publicly available plans from Anthropic, Google, OpenAI, Meta, and xAI, graded across a range of metrics, including how well each company logs and monitors what its AI systems are doing internally, whether it halts systems after a surge of flagged misbehavior, whether independent third parties audit its controls and publish findings, and what its exact plan is for containing a model that goes off the rails. Concern over whether AI companies can contain their increasingly capable and agentic models has grown in the wake of a series of high-profile cybersecurity incidents in which models from OpenAI, Anthropic, and Meta gained unintended access to the internet during safety evaluations and hacked into external systems. The findings highlight differences in how AI companies are publicly approaching safety as they scale up agentic deployment into environments where AI systems can take serious actions at scale. While some AI companies have detailed how they test their models for dangerous capabilities before deployment, they’ve generally been less vocal about what happens when models already operating inside their systems misbehave. “I was surprised by how little the AI companies have said about how they would handle a very serious incident if their model did escape their control in some sense,” Steven Adler, Guidelight’s chief scientist and former OpenAI safety researcher, told TechCrunch. Guidelight defines a containment plan as a “pre-specified plan, triggered when the AI is detected trying to subvert control, which covers what permissions to revoke from the model, who the model may continue operating for, under what constraints, and when to take it fully offline.” “There’s good reason to think that the leading models at the frontier AI companies right now are misaligned in some sense,” Adler said. “Whenever the models are doing work on the company’s behalf, the company should have some scaffolding around it to be able to tell what that AI is doing, look for signs of misalignment, stop it from doing something very dangerous before it takes that action, and generally plan for what they would do in the event of a serious control incident where they have an emergency on their hands and need to figure out how to contain that loss of control incident.” To date, most of the plans in place for managing catastrophic risk are still largely left up to the companies. Guidelight’s report says the best public evidence shows that companies have “few containment protocols ready for an emergency.” There could, of course, be containment plans that companies have in place but haven’t shared publicly. A Google spokesperson told TechCrunch the Guidelight report doesn’t represent the full scope of the company’s AI safety and security measures. The company did not respond to TechCrunch’s question of whether Google has an internal containment response plan that has not been publicly disclosed. An OpenAI spokesperson mirrored similar sentiments, saying Guidelight’s assessment doesn’t capture all of the company’s internal practices. “We have a process for requiring restricting permissions, pausing workloads, limiting deployment, or taking the model fully offline, and have applied it,” the spokesperson said. Meta declined to say whether it has an internal containment response plan, instead pointing TechCrunch towards an existing AI framework that outlines thresholds of risk and how it tests for loss of containment. Lily Li, a privacy and AI lawyer and founder of Metaverse Law, told TechCrunch she believes companies might be hesitant to disclose the full scope of their containment policies and assessments on public-facing websites for legal, not just competitive, reasons. “The concern from a company perspective is that if you make the disclosures too specific, and you’re not living up to your promises, that could form the basis of an unfair and deceptive marketing claim and expose you to more liability going forward,” Li said. The point of Guidelight’s study is largely to encourage companies to be more transparent about their safety plans. Regulators are starting to force the issue, too. California’s SB 53, which took effect this year, requires large frontier developers to publish frameworks explaining how they identify and respond to critical safety incidents and manage risks from models circumventing oversight mechanisms. New York’s RAISE Act, which has similar criteria, takes effect in January. Last month, representatives introduced the AI Kill Switch Act, a bipartisan federal bill that would require major AI developers to build and maintain technical mechanisms to shut down rogue AI models. “A kill switch is the bare minimum for today’s models,” said Connor Leahy, U.S. executive director of nonprofit ControlAI. “If the last few weeks revealed anything, it is that these companies don’t understand the systems they are building, and the models are growing to a point where they’re harder to rein in when they go rogue. Without a way to turn off the current dangerous systems, and with all the incentives to continue buildi",
+        "impact": "افزایش فشار رگولاتورها بر شرکت‌ها برای شفاف‌سازی پروتکل‌های ایمنی پیش از انتشار عمومی مدل‌های خودکار.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "clean_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
+        "image": "http://www.bing.com/th?id=ONUT.MuaMcf6VmqRpFvU9ZIZE3w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.MuaMcf6VmqRpFvU9ZIZE3w&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+            "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Guidelight-AI-containment-plans.jpg?w=680"
+        ],
+        "timestamp": 1787389200.0
     },
     {
         "id": "ce02e00e38",
