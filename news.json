@@ -1,5 +1,89 @@
 [
     {
+        "id": "a03721b154",
+        "title_fa": "هوش مصنوعی در آستانه جایگزینی نخستین مشاغل پژوهشی و دانشگاهی",
+        "title_en": "This may be the first academic profession to see its work taken over by AI",
+        "summary": [
+            "گزارش‌های جدید نشان می‌دهد برخی حوزه‌های دانشگاهی و تحلیل داده از نخستین بخش‌هایی هستند که کارکردهای اصلی آن‌ها توسط هوش مصنوعی انجام می‌شود."
+        ],
+        "full_text": "This may be the first academic profession to see its work taken over by AI  Texarkana Gazette",
+        "impact": "تغییر ساختار کارهای پژوهشی، نیاز به بازتعریف نقش اساتید و پژوهشگران را ضروری می‌سازد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Texarkana Gazette",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEVBdnVrMW5UUDBydEx1Z3NyN2hYVUFCN0xlZzhLWjBfN1VMM2hlZUtPdzFiOW1xMmpGS1prOThhZENNTlA4aHNJUHAwVFNwRkxQQnMxS3l6Zk5NdzhKRlhNZWxldVcxNnZzeFZ0X1h5M3NXSmI3cTNpemFfMEtkS2VTREFnQkdsaDVFRG5idkVoZzdLZXl2WFo2RDdUSHU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEVBdnVrMW5UUDBydEx1Z3NyN2hYVUFCN0xlZzhLWjBfN1VMM2hlZUtPdzFiOW1xMmpGS1prOThhZENNTlA4aHNJUHAwVFNwRkxQQnMxS3l6Zk5NdzhKRlhNZWxldVcxNnZzeFZ0X1h5M3NXSmI3cTNpemFfMEtkS2VTREFnQkdsaDVFRG5idkVoZzdLZXl2WFo2RDdUSHU0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787436000.0
+    },
+    {
+        "id": "a0b835911e",
+        "title_fa": "ائتلاف ۱۵۰ شرکت فناوری در یوتا برای تسریع تحویل تجهیزات دفاعی",
+        "title_en": "150 companies form coalition in Utah to get defense technology to troops faster",
+        "summary": [
+            "۱۵۰ شرکت فعال در حوزه فناوری ائتلافی را تشکیل داده‌اند تا فرایند انتقال تجهیزات و فناوری‌های جدید دفاعی به نیروهای نظامی را سرعت ببخشند."
+        ],
+        "full_text": "150 companies form coalition in Utah to get defense technology to troops faster  KSL.com",
+        "impact": "همکاری مستقیم شرکتهای تکنولوژی با بخش دفاعی، روند نوسازی ابزارهای نظامی را سریع‌تر می‌کند.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "KSL.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0ZNTzlkTFFxNVdGdHpFaF83UlJnNWF3TjhwSVViOUZJdC1WOWRfczQtNnFxT0xkMUZ3aVd2bl8xdTBUU2JJVUpTMGM2OFVsUlVZeUZoalJWNkgzODlPZG9CX2hwZUlfRVRIWDZ2eFBzZnQ0b3NVOWF6eEZEbHZkRER5WG44QXJmczQ3RzgweFR1WTFlTlVISjVCNXRiS1JyWC1UNGZNWkZWYVNIcWtBeFBVSDZTc00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0ZNTzlkTFFxNVdGdHpFaF83UlJnNWF3TjhwSVViOUZJdC1WOWRfczQtNnFxT0xkMUZ3aVd2bl8xdTBUU2JJVUpTMGM2OFVsUlVZeUZoalJWNkgzODlPZG9CX2hwZUlfRVRIWDZ2eFBzZnQ0b3NVOWF6eEZEbHZkRER5WG44QXJmczQ3RzgweFR1WTFlTlVISjVCNXRiS1JyWC1UNGZNWkZWYVNIcWtBeFBVSDZTc00",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787433335.0
+    },
+    {
+        "id": "58fc072bd0",
+        "title_fa": "رونمایی از ایجنت‌های هوش مصنوعی MemeToro برای معاملات خودکار کریپتو",
+        "title_en": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
+        "summary": [
+            "پلتفرم MemeToro از ایجنت‌های هوشمند جدیدی برای خودکارسازی معاملات و عرضه میم‌کوین‌ها در بازار ارزهای دیجیتال پرده برداشت."
+        ],
+        "full_text": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches  StreetInsider",
+        "impact": "ورود ایجنت‌های خودکار به معاملات کریپتو نوسانات و سرعت معاملات را در این بازار افزایش می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787432259.0
+    },
+    {
+        "id": "6ba024cd6f",
+        "title_fa": "معرفی Slack Code؛ ابزار کدنویسی مبتنی بر ایجنت‌های هوش مصنوعی",
+        "title_en": "Introducing Slack Code: Agentic Coding for Teams",
+        "summary": [
+            "سیلزفورس ابزار جدید Slack Code را برای کدنویسی تعاملی و گروهی با کمک ایجنت‌های هوشمند در محیط اسلک عرضه کرد."
+        ],
+        "full_text": "Introducing Slack Code: Agentic Coding for Teams  Salesforce",
+        "impact": "ادغام ابزارهای برنامه‌نویسی هوشمند در پلتفرم‌های ارتباطی، سرعت و همکاری تیم‌های نرم‌افزاری را ارتقا می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Salesforce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSHpTTGdnZ2JUYS01X3Y0Vm1MSkw2eUFvVXRDZGI0U2Flc3pNUHBzSjRkZFZ2ODBybUljd3FHUWxLTE8xa2d4U0MwdENyd2l3MU1MVmRKeTJYSlJCajQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSHpTTGdnZ2JUYS01X3Y0Vm1MSkw2eUFvVXRDZGI0U2Flc3pNUHBzSjRkZFZ2ODBybUljd3FHUWxLTE8xa2d4U0MwdENyd2l3MU1MVmRKeTJYSlJCajQ0",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787431549.0
+    },
+    {
         "id": "2bcf5a4408",
         "title_fa": "استراتژی زمان‌بندی عرضه آیفون ۱۸ پرو برای فشار بر رقبا",
         "title_en": "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
@@ -130,6 +214,31 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787415869.0
+    },
+    {
+        "id": "7703ea4e09",
+        "title_fa": "تحلیل درآمد گوگل؛ آیا هوش مصنوعی موتور جستجو را تهدید می‌کند؟",
+        "title_en": "Is Alphabet's Search Risk Really Priced In? Stress-Testing Rosenblatt's $410 Thesis",
+        "summary": [
+            "درآمد بخش جستجوی گوگل با رشد ۱۷ درصدی به ۶۳.۳ میلیارد دلار رسید، اما کند شدن روند رشد آن نسبت به فصل قبل، نگرانی‌هایی را ایجاد کرده است.",
+            "جهش ۸۲ درصدی درآمد بخش ابری و گذشتن کاربران ماهانه جمینای از مرز ۱ میلیارد نفر، راهبرد اصلی گوگل برای مهار تهدید چت‌بات‌ها محسوب می‌شود."
+        ],
+        "full_text": "Has Wall Street stopped panicking about AI chatbots destroying Alphabet Inc.’s (NASDAQ:GOOGL)’s traditional search business? On August 19, Analyst Scott Devitt initiated coverage on the stock with a Buy rating, noting how concerns around Search have largely played out. However, declaring a multi-year risk narrative to be effectively over is a bold assertion worth stress testing. What the Data Shows The data shows Google controls 90% of the search market. However, the risk still looms as people often turn to chatbots to search for information. Against this backdrop, the company has redesigned the search box for the first time in 25 years, placing the “AI Mode” button directly in the box. To discuss things deeper, Alphabet’s (NASDAQ: GOOGL) second-quarter report earlier buried the search figure under two louder storylines. These include a $99 billion paper gain on its equity stakes, and an increase in capital spending plans. However, the numbers are there to decipher. In the second quarter, Google Search & other revenue grew 17% year over year to $63.3 billion, down from 19% growth in the prior quarter and slightly behind expectations. Search was on a growth streak previously, accelerating from 10% in the first quarter of 2025 to 12% in the second quarter, 15% in the third, 17% in the fourth, and 19% in the first quarter of 2026. However, second quarter of 2026 snapped it. “Considering Google’s search revenue for the second quarter came in at $63.3 billion, slightly behind Wall Street’s expectations of $63.4 billion, and investors will likely be scrutinizing the business in the third quarter.” 17% is still a great number though, which doesn’t really prove that Search is slowing down. The argument is more about the coming years. Google isn’t letting its customers migrate anyway. Its AI overviews, AI Mode, and Gemini have been expanding the type of queries its ecosystem handles. Google’s Gemini traffic has surged, surpassing 1 billion monthly active users by August 2026 and becoming the fastest growing product in its history. Cloud: The Stronger Part of the Thesis Google’s Cloud revenue surged 82% year-over-year to $24.8 billion, while segment operating income more than tripled from $2.8 billion to $8.8 billion. No wonder Rosenblatt believes Cloud will sustain momentum and that it will support the next leg of multiple expansion. The firm sees capacity expansion and greater TPU monetization beyond 2027 helping to scale operating profit dollars ahead of expectations. In effect, it sees Cloud deceleration as a key risk rather than any new Search risk that may arise. Verdict As per Insider Monkey’s database, 265 hedge fund holders held stake in the stock at the end of the first quarter, down from 288 in the previous quarter. According to more recent Q2 fillings, institutional interest continues in Alphabet, with Berkshire Hathaway holding roughly 78.8 million shares worth about $28.2 billion. Fisher Asset Management and Arrowstreet Capital also reported multi-billion dollar positions. Overall, Alphabet is rightly being considered as a leading hyperscaler in the AI cycle. However, the assumption that search risk has largely played out seems oversimplified. The stronger version of the bull case is that Alphabet has built real optionality in the risk that threatened it. Meanwhile, its infrastructure business is accelerating at a meaningful pace. While we acknowledge the risk and potential of GOOGL as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than GOOGL and that has 10,000% upside potential, check out our report about this cheapest AI stock. READ NEXT: NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom and Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In? Disclosure: None. Follow Insider Monkey on Google News.",
+        "impact": "تغییر رفتار کاربران در جستجوی اطلاعات، گوگل را مجبور به تغییر بازطراحی ۲۵ ساله صفحه اصلی خود و تکیه بیشتر روی سرویس‌های ابری کرده است.",
+        "tag": "تحلیل بازار",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/is-alphabets-search-risk-really-priced-in-stress-testing-rosenblatts-410-thesis-1821383/",
+        "clean_url": "https://www.insidermonkey.com/blog/is-alphabets-search-risk-really-priced-in-stress-testing-rosenblatts-410-thesis-1821383",
+        "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
+        "images": [
+            "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
+            "https://d2w7kw43nye0pi.cloudfront.net/KZ5we5LgcScIj96BG144awV9mfWRU58QGo4clb4u17U/resize:fit:480:320:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
+            "https://d2w7kw43nye0pi.cloudfront.net/epJ49EcbyXVJ62qBAiSSTT3OuzcN1MXoSUqRRipmOhg/resize:fill:480:270:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/14050848/VIOG-insidermonkey-1702548525512.jpg",
+            "https://d2w7kw43nye0pi.cloudfront.net/ytLwiUYDYEfLC7jzBBFSqZpvjRDECkiER5uUWqq0GS8/resize:fill:480:270:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/04/26103404/Jensen-Huang-Nvidia-NVDA-Stock-Buy.jpg"
+        ],
+        "timestamp": 1787414160.0
     },
     {
         "id": "340f6f136f",
@@ -296,6 +405,81 @@
         "timestamp": 1787407200.0
     },
     {
+        "id": "bd0a1e2bec",
+        "title_fa": "تفاوت استراتژی اپل و متا در رقابت زیرساختی هوش مصنوعی",
+        "title_en": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+        "summary": [
+            "اپل با پرهیز از هزینه‌های سنگین ساخت دیتاسنتر، به همکاری با گوگل و ادغام جمینای روی آورده تا ریسک‌های مالی را کنترل کند.",
+            "متا میلیاردها دلار صرف زیرساخت‌های پردازشی کرده اما بازگشت سرمایه آن فعلاً محدود به بهینه‌سازی سیستم تبلیغاتی‌اش شده است."
+        ],
+        "full_text": "In the artificial intelligence (AI) arms race among the big tech firms, there have been two major laggards: Apple (AAPL -0.63%) and Meta Platforms (META +0.75%). Apple is on this list for a lack of AI investments, while Meta Platforms is on this list for spending heavily on AI computing but having little to show for it. The question is, can either of these two tech titans turn their AI aspirations into a cash-generating business? Let's take a look. Apple hasn't made the investment that its peers have When you hear about the AI hyperscalers, Apple is notably absent. Instead of spending hundreds of billions of dollars building out data centers to develop its own AI, it was perfectly happy to sit on the sidelines, letting others do the hard work. Now that the initial phases of the AI build-out are complete, the results of this decision remain unknown. Apple has partnered with Alphabet to integrate Gemini into its devices, but that collaboration is still being rolled out. Meanwhile, its Android competitors have already integrated AI into several aspects and have established a pretty large lead in AI capabilities, but that's nothing new with Apple. The company has seldom been the first to launch a new product type or feature, as it often takes its time to ensure that what it launches is the best. Time will tell whether this proves possible, but with Apple waiting this long, it may not be going as well as investors hope. Key Data Points As a bull case, Apple launches its AI products and includes an AI subscription that ends up being a hit among its users. That could lead to billions more in revenue and profits, making it a smart investment. On the bear side, Apple falls behind in AI and is stuck paying massive cloud infrastructure fees to run AI workloads because its plans for on-device AI processing don't pan out. Time will tell how these two sides fare, but Apple is currently behind in AI, and that's nothing it hasn't dealt with before. Meta has spent big, with minimal returns Meta Platforms has spent hundreds of billions of dollars on its AI computing capacity and is offering a free-to-use AI model. Most of the financial benefit of its investments is being felt through its advertising business, as it has integrated AI to improve functionality and ad-generation services. However, the ad-tech gains haven't offset the massive costs because Meta is still working on its personal superintelligence model, which it believes will be the future, rather than the closed models offered by firms like OpenAI and Anthropic. Investors are still clamoring for a real payback, which may not materialize unless Meta can offer a subscription-based service for a product like the AI glasses it's developing. Right now, all of Meta's AI investments may be yielding interesting and useful results, but they're not monetizable, which is frustrating the investing community. This has shown up in Meta's valuation, which is far cheaper than Apple's. Meta is trading at half the P/E multiple Apple is, and that's because the market has seen weak returns from its AI investments. Apple is still trading at a huge premium because it hasn't dumped hundreds of billions of dollars into AI without anything to show for it. Instead, it hasn't spent a ton of money. The company is trailing its peers by choice, not accident. If Meta can turn its AI fortunes around, it could be a generational buy at these levels; if it can't, the stock could easily move lower. Apple is priced far higher than its big tech peers, and there is some execution risk associated with that stock price. If it can develop a subscription AI model that has a large customer base, then this price tag could be worth paying. But with how expensive it is, I'd say its upside is capped. There are many better AI investments than these two right now, but I would probably choose Meta if I were forced to pick one. It doesn't have anywhere to go but up, and Meta could be close to a breakthrough that vaults its AI platform to the top.",
+        "impact": "تفاوت رویکرد اپل و متا در توسعه زیرساخت، سودآوری و سرعت عرضه محصولات هوش مصنوعی آن‌ها را کاملاً متفاوت خواهد کرد.",
+        "tag": "تحلیل بازار",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
+        "clean_url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine",
+        "image": "http://www.bing.com/th?id=ONUT.PWNTRIu_ZY_qrpiaNgmpeQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.PWNTRIu_ZY_qrpiaNgmpeQ&pid=News",
+            "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883941%2Ftwo-people-in-suits-looking-at-data.jpg&w=1200&op=resize",
+            "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883941%2Ftwo-people-in-suits-looking-at-data.jpg&w=3840&op=resize",
+            "https://media.ycharts.com/charts/34cf8562e943470f24198ad2f058e363.png"
+        ],
+        "timestamp": 1787405940.0
+    },
+    {
+        "id": "93ab925077",
+        "title_fa": "نقش جدید انویدیا به‌عنوان تامین‌کننده مالی پروژه‌های کلان هوش مصنوعی",
+        "title_en": "Nvidia As The New Banker For AI Gold Rush",
+        "summary": [
+            "انویدیا با همکاری مؤسسات مالی بزرگ مانند بلک‌راک و گلدمن ساکس قصد دارد بیش از ۵۰۰ میلیارد دلار سرمایه برای زیرساخت‌های AI تجهیز کند.",
+            "این غول فناوری از یک سازنده تراشه به معمار مالی دیتاسنترهای نسل جدید موسوم به «کارخانه‌های هوش مصنوعی» تغییر نقش داده است."
+        ],
+        "full_text": "I remember a speaker who declared at a Silicon Valley conference, “Every company will eventually become a financial company.” It made me wonder how that will happen. But witnessing Nvidia’s artificial intelligence journey, I can see how a major technology company adds financing effectively as part of its product strategy. For the past three years, Nvidia has been the undisputed winner of the AI boom. The company transformed from being a graphics chip maker into the world's most valuable company by supplying the GPUs and software that power nearly every major AI model. Investors have described Nvidia as the company selling the picks and shovels of the AI gold rush. But now, Nvidia is pushing the boundaries further. Rather than simply selling chips and software, the company is positioning itself to become the financial backbone of the AI economy. Its recently announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize more than $500 billion for AI infrastructure signal a strategic shift. Nvidia no longer wants to be just the supplier of AI. It wants to shape the buildout of the infrastructure that powers it and create a new asset class. From Selling Chips To Financing AI Nvidia CEO Jensen Huang defined this as an important milestone and said, “We began by building chips; today, we are helping create a new class of productive, investable infrastructure: AI factories.” While Nvidia has used the term “AI factories” in the past as well to reflect the growth of GPU-based datacenters, this time Nvidia is driving the financing platform needed to build the AI factories. Jensen expanded, “That is why we are bringing the world’s leading long-term capital providers together to independently underwrite AI infrastructure. These financing platforms will help customers access scarce compute at scale and build the DSX AI factories that will power every industry and country in the age of AI.” Traditionally, semiconductor companies design products, sell them to customers and recognize revenue once the transaction closes. Customers are responsible for raising capital, building data centers and generating returns on those investments. But Nvidia is extending its role far beyond that model. Instead of waiting for hyperscalers and enterprises to find financing, Nvidia is helping create the financing ecosystem itself. By partnering with some of the world's largest asset managers and private equity firms, the company is lowering the capital barrier to AI adoption. Nvidia Has The Cash To Do It The obvious question is whether Nvidia can afford such an ambitious strategy. Nvidia has become one of the strongest cash-generating companies in the world. It holds more than $150 billion in current assets at the end of April 2026, while generating roughly $50 billion in free cash flow last quarter. It is deploying a relatively small portion of its excess cash to stimulate demand for the very products that generate that cash in the first place. The $500 billion headline has led many observers to assume Nvidia plans to finance AI infrastructure directly. Instead, Nvidia is using its balance sheet to unlock much larger pools of third-party capital. Asset managers and private equity firms provide the majority of the funding, while Nvidia contributes strategic capital, credit support or financing partnerships where appropriate. The result is powerful financial leverage and is an extraordinarily efficient use of capital. Ecosystem Partners Under these strategic partnerships, Nvidia has teamed up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to fund the AI factories’ buildout. All the partners have expressed full support for Nvidia’s financing strategy. Larry Fink, Chairman and CEO of BlackRock, said, “This partnership deepens our relationship with Nvidia, including through the AI Infrastructure Partnership, and brings together Nvidia’s leadership in accelerated computing with BlackRock’s ability to connect long-term capital to essential infrastructure. Together, we can help deliver the compute capacity that companies need to grow and create more jobs, supporting the continued growth of the U.S. and global economies, while creating attractive, long-term investment opportunities for our clients.” Jon Gray, President and COO of Blackstone. “We continue to be enormous investors globally across the Nvidia ecosystem, and this announcement further underscores our confidence in their platform and the future of AI infrastructure.” Similarly, David Solomon, Chairman and CEO of Goldman Sachs, said, “Our investment and distribution roles reflect our confidence in Nvidia’s leadership, and we’re excited for the new opportunity to create a market for credit backed by Nvidia compute.\" A New Business Model For Tech Companies Modern AI data centers require billions of dollars in GPUs, networking equipment, cooling systems, electricity and real estate. Many companies recognize the need for AI infrastructure but lack the balance sheet to finance projects of that scale. Nvidia's financing partnerships seek to bridge that gap, accelerating deployment while simultaneously expanding demand for its own technology. In effect, Nvidia is becoming more than a technology company. It is becoming a capital allocator for the AI era, expanding its competitive moat.",
+        "impact": "تسهیل تامین مالی ساخت دیتاسنترها توسط انویدیا، تضمینی برای تداوم تقاضا و فروش پردازنده‌های این شرکت خواهد بود.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.9,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/sanjitsinghdang/2026/08/22/nvidia-as-the-new-banker-for-ai-gold-rush/",
+        "clean_url": "https://www.forbes.com/sites/sanjitsinghdang/2026/08/22/nvidia-as-the-new-banker-for-ai-gold-rush",
+        "image": "http://www.bing.com/th?id=ONUT.KsUkWiBGJFMIrn2dFevafA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.KsUkWiBGJFMIrn2dFevafA&pid=News",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/My-selfie-with-Nvidia-CEO-Jensen-Huang/0x0.jpg?width=960"
+        ],
+        "timestamp": 1787405280.0
+    },
+    {
+        "id": "acf237c89c",
+        "title_fa": "تحقیقات وزارت دادگستری آمریکا از a16z به دلیل کرسی‌های همزمان هیئت‌مدیره",
+        "title_en": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "summary": [
+            "وزارت دادگستری آمریکا در حال بررسی احتمال تضاد منافع شرکت سرمایه‌گذاری a16z به دلیل داشتن کرسی هیئت‌مدیره در استارتاپ‌های رقیب هوش مصنوعی است.",
+            "این اقدام موجی از تعجب را در میان سرمایه‌گذاران خطرپذیر ایجاد کرده، چرا که تغییر مسیر ناگهانی استارتاپ‌ها به سمت AI معمولاً باعث هم‌پوشانی‌های ناخواسته می‌شود."
+        ],
+        "full_text": "Following a Bloomberg report that the Department of Justice is investigating venture firm Andreessen Horowitz for holding board seats with rival AI companies, VCs told TechCrunch that they were baffled. On the latest episode of the Equity podcast, Kirsten Korosec, Sean O’Kane, and I were similarly puzzled by the news. Yes, VC conflicts-of-interest are worth taking seriously, but as Kirsten wondered, “Of all the things that the DOJ would focus on in terms of level of importance, why does this one rise to the top?” The news was also surprising because of a16z’s ties with the Trump administration, and because the firm has been so quiet about the investigation. It’s a real contrast with the firm’s activity during the Biden years, when — as Sean put it — “every little policy change, especially related to crypto, generated a day’s worth of posting.” But Sean also speculated that by targeting a16z, the DOJ might also be setting an “example” that “smaller firms would follow.” Keep reading for a preview of our conversation, edited for length and clarity. Kirsten Korosec: I think that you bring some interesting perspective to this, Anthony, because you actually worked at a VC firm, whereas Sean and I have never been inside the confines of the VC world. We’ve only reported on it. Anthony Ha: Long-time equity listeners will know that I did spend a couple years working at an early stage VC firm — a much smaller firm than Andreessen Horowitz, as different as you can be while still technically being in the same industry. It did color my response when I was reading this article, which is essentially about these board seats that Andreessen Horowitz holds, and the idea that they have board seats in some companies that have become competitors. It was really surprising to me, as apparently it was to a number of other VCs. And again, I’m not a lawyer, I was not on the legal team of this VC firm. There is, obviously, an understanding, and apparently laws, around the idea that you should not be on boards of competing startups. But this is not something that is, generally, enforced very closely. Founders don’t feel great if you are on the board of their biggest competitor. But also, startups evolve. And I think that was true in this case — you invest in a startup doing one thing, and then, say, the AI boom happens, and suddenly they’re doing something completely different. So the idea that you would have a year-long DOJ investigation into this — we don’t really know what the results are, there’s a lot of questions about this, but it just seems very strange. Kirsten: In this case, Ben Horowitz sits on the Databricks board. Partner Martin Casado sits on Fivetran board. And to your point, especially in this AI-driven boom cycle, a lot of companies are changing what they’re doing, and either to jump into the AI space or to take advantage of specific subcategories within it. And a company the size of Andreessen, which makes so many investments and is on a lot of board seats, you can see how this would happen. To me, what was interesting — and Sean, I wonder if you have an opinion on this — is of all the things that the DOJ would focus on in terms of level of importance, why does this one rise to the top? Sean O’Kane: I’m just excited we’ve got another chance for disruption here. I mean, we could create a startup that is just going to put an AI on your board, and there are no conflicts of interest. Let’s do it. No, you’re right. It’s weird for a number of reasons, and when I first saw the headline, it certainly piqued my interest because I wanted to know what it was that they were looking at. We should back up just a real quick second. Bloomberg reported that this [investigation] has been going on for nearly a year, so this started under the Trump administration. The people who run Andreessen Horowitz are very friendly with the Trump administration, involved in the Trump administration in some ways, sitting on some councils and things like that. And so, for as much rhetoric as the [second] Trump administration was putting out there when it was still incoming, about being antitrust forward and fighting against the big forces of consolidation or whatever, that really hasn’t borne out. I mean, they settled with Live Nation. They didn’t break up Ticketmaster. We could spend all day talking about how that was a pretty hollow promise. The Justice Department should not be a tool for the president to just direct at enemies or friends or whoever. But it’s just interesting that this is a bridge they were willing to cross, knowing how close they are with this administration. And I’ve reported on some things that Andreessen Horowitz have done that made me wonder if that was going to be part of this. Two years ago, we published a story about how Ben Horowitz was personally making connections between the startups that Andreessen Horowitz backs and [the] local police department in Las Vegas, and things that have maybe more of an anti-competitive flavor to it than this — which, like you’ve said, is maybe a bit more by chance because of the way that these companies evolved and wound up competing against each other. [It] certainly doesn’t seem like it’s something that Andreessen Horowitz feels [is] such an overreach that we have seen them complaining about it on Twitter, like they were during the Biden era — where every little policy change, especially related to crypto, generated a day’s worth of posting. We haven’t really seen that here. So maybe it’s all going to be copacetic in the end. Anthony: To Sean’s point about the DOJ, without getting too deeply into the politics of it, I think anyone who’s been reading the news knows there’s a lot of turmoil there. There’s a lot of questions about sort of how politicized the office has or hasn’t become. Which, again, just makes it very surprising and strange that there has been this long investigation into an ostensible ally of the Trump administration. The last thing I wanted to say for n",
+        "impact": "افزایش نظارت‌های دولتی بر نحوه سرمایه‌گذاری در استارتاپ‌های هوش مصنوعی می‌تواند چارچوب فعالیت سرمایه‌گذاران خطرپذیر را محدودتر کند.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "clean_url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs",
+        "image": "http://www.bing.com/th?id=ONUT.dDgd3lt1kOG6Vatv139JlQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.dDgd3lt1kOG6Vatv139JlQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg?w=150"
+        ],
+        "timestamp": 1787405100.0
+    },
+    {
         "id": "fd5504fe27",
         "title_fa": "پلتفرم یکپارچه F5 برای مدیریت هزینه و امنیت هوش مصنوعی",
         "title_en": "How Investors May Respond To F5 (FFIV) Unifying AI Security And Cost Controls In One Gateway Platform",
@@ -338,6 +522,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787401307.0
+    },
+    {
+        "id": "80bacec0bf",
+        "title_fa": "مدل Faraday شرکت Inherent در بازتولید مقالات علمی از OpenAI پیشی گرفت",
+        "title_en": "Inherent, founded by DeepMind alumni, says its AI teammate just outperformed Anthropic and OpenAI at replicating research",
+        "summary": [
+            "استارتاپ بریتانیایی Inherent که توسط محققان سابق دیپ‌مایند تاسیس شده، از ایجنت هوش مصنوعی Faraday رونمایی کرد.",
+            "این عامل هوشمند توانایی فوق‌العاده‌ای در بازسازی و اجرای مجدد پژوهش‌های علمی دارد و عملکردی بهتر از مدل‌های مطرح Anthropic و OpenAI ثبت کرده است."
+        ],
+        "full_text": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "impact": "خودکارسازی فرایند ارزیابی و تکرار مقالات علمی، سرعت کشف‌های پژوهشی و توسعه فناوری را چند برابر می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch on MSN",
+        "url": "https://www.msn.com/en-us/news/technology/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/ar-AA2aIIBk",
+        "clean_url": "https://www.msn.com/en-us/news/technology/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/ar-AA2aIIBk",
+        "image": "http://www.bing.com/th?id=ONUT.5e_vf1LqSJmvAwK06pfv7g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.5e_vf1LqSJmvAwK06pfv7g&pid=News"
+        ],
+        "timestamp": 1787400000.0
     },
     {
         "id": "f9476fc5e8",
@@ -454,6 +660,31 @@
         "timestamp": 1787391000.0
     },
     {
+        "id": "75e0623bfb",
+        "title_fa": "سرمایه‌گذاری ۴.۱ تریلیون دلاری غول‌های ابری روی زیرساخت‌های هوش مصنوعی",
+        "title_en": "AI’s Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex",
+        "summary": [
+            "مؤسسه UBS پیش‌بینی کرده مجموع هزینه‌های سرمایه‌ای غول‌های فناوری بین سال‌های ۲۰۲۶ تا ۲۰۲۸ به بیش از ۴ تریلیون دلار برسد.",
+            "مایکروسافت، گوگل و آمازون در سال ۲۰۲۶ حدود ۱۰۲ درصد از کل درآمد ابری خود را صرف ساخت دیتاسنتر و خرید پردازنده‌ها خواهند کرد."
+        ],
+        "full_text": "The artificial intelligence boom is turning corporate capital spending into a different kind of arms race. The biggest cloud companies aren’t merely adding data centers as demand grows; they’re building infrastructure years ahead of expected usage. UBS now estimates hyperscaler capital expenditures could reach about $4.1 trillion from 2026 through 2028. That’s more than three times the $1.292 trillion spent across the previous six years, based on UBS’s hyperscaler spending estimates. For investors, the message is clear: AI is pushing the industry’s long-term spending base into territory that would have looked absurd just a few years ago. Cloud Revenue Tells The Story UBS estimates Amazon (NASDAQ:AMZN | AMZN Price Prediction), Alphabet (NASDAQ:GOOG), and Microsoft (NASDAQ:MSFT) will collectively spend about 102% of their cloud revenue on capital expenditures in 2026. That doesn’t mean these companies are burning through more cash than they generate. Their businesses are much larger and more diversified than cloud infrastructure alone. Instead, the ratio shows how aggressively cloud revenue is being recycled into AI infrastructure. UBS expects that ratio to ease to roughly 99% of cloud revenue in 2027 and 94% in 2028. Yet spending keeps rising. UBS projects total hyperscaler capex at $492 billion in 2025, $1.009 trillion in 2026, $1.447 trillion in 2027, and $1.619 trillion in 2028 — three times more in three years than in the previous six years combined. It shows how the growth rate can slow while the dollar amount continues climbing. And the composition matters, too. Amazon, Alphabet, Microsoft, and Meta Platforms (NASDAQ:META) account for the largest portions of the buildout, but SpaceX (NASDAQ:SPCX) is making up for lost time, and Oracle (NYSE:ORCL), neocloud providers, and newer entrants are expanding the spending pool. That means the AI infrastructure opportunity is spreading beyond the handful of companies investors typically associate with the boom. $4.1 Trillion Is A Bigger Bet Than It Looks The cumulative UBS estimates for 2026 through 2028 are staggering: Together, those figures illustrate why this isn’t simply another upgrade cycle for servers. New demand is coming from traditional hyperscalers, neocloud providers, and SpaceX, creating additional pools of infrastructure spending. For chipmakers, networking companies, data-center power suppliers, and infrastructure operators, the spending becomes revenue somewhere in the supply chain. More importantly, the UBS forecast suggests the spending isn’t peaking when the growth rate peaks. Total hyperscaler capex rises from $1.009 trillion in 2026 to $1.619 trillion in 2028. In other words, the industry could be spending more than $1.6 trillion annually even after the initial acceleration begins to moderate. That’s what makes this different from a normal technology upgrade. AI could reset the industry’s capital requirements at a permanently higher level. The Risk Is Spending Without Returns Granted, $1.619 trillion of annual hyperscaler capex by 2028 creates a formidable hurdle. Companies eventually need AI revenue and cash flow to justify those investments. That’s where investors should remain selective. A data center doesn’t generate attractive returns merely because it contains expensive GPUs. Capacity has to stay utilized, customers have to pay for it, and AI services have to produce enough revenue to cover depreciation, electricity, financing, and operating costs. There is also a timing risk. Companies can spend billions today on infrastructure that may take years to reach full utilization. If AI demand grows more slowly than expected, depreciation expenses could rise faster than revenue, pressuring margins and free cash flow. That said, the scale of the commitment from multiple customers reduces the risk that this is simply one company’s speculative bet. Amazon, Alphabet, Microsoft, Meta, SpaceX, Oracle, and the neoclouds are collectively building an ecosystem around AI compute. In short, the spending itself isn’t the investment thesis. The investment thesis is that AI demand becomes large enough to keep this infrastructure productive for years. UBS’s numbers suggest the major cloud platforms are betting heavily that it will. Smart investors don’t have to match their conviction blindly. They should follow the money — and favor companies positioned to monetize the buildout rather than simply finance it. Key Takeaway The 102% figure is less a warning about reckless spending than a measure of how radically AI is changing the cloud economy. With UBS projecting roughly $4.1 trillion of hyperscaler capex from 2026 through 2028, investors should expect AI infrastructure spending to remain a dominant market theme well beyond the current boom. The opportunity is strongest where spending translates into recurring revenue, high utilization, and durable free cash flow. In the end, the winners won’t necessarily be the companies spending the most. They’ll be the ones turning that unprecedented spending into the highest returns on capital. Contact [email protected] for any questions or corrections.",
+        "impact": "تزریق سنگین سرمایه به زیرساخت‌های AI، زنجیره تامین سخت‌افزار و سازندگان تراشه را وارد یک دوره رونق کم‌نظیر می‌کند.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex/",
+        "clean_url": "https://247wallst.com/investing/2026/08/22/ais-absurd-spending-boom-hyperscalers-are-spending-102-of-cloud-revenue-on-capex",
+        "image": "http://www.bing.com/th?id=ONUT.RqmLBSDEY1e0_Rg9BLQyyw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.RqmLBSDEY1e0_Rg9BLQyyw&pid=News",
+            "https://247wallst.com/wp-content/uploads/2024/11/shutterstock-1683349984-huge-licensed-scaled.jpg",
+            "https://247wallst.com/wp-content/uploads/2022/01/imageForEntry10-tge.jpg",
+            "https://247wallst.com/wp-content/uploads/2024/10/shutterstock-2379829035-huge-licensed-scaled-150x79.jpg"
+        ],
+        "timestamp": 1787390760.0
+    },
+    {
         "id": "2ba2d8a8e9",
         "title_fa": "اکثر غول‌های هوش مصنوعی طرحی برای مهار مدل‌های سرکش ندارند",
         "title_en": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -504,6 +735,56 @@
             "https://media.mehrnews.com/d/2016/12/28/0/2320578.gif?ts=1486462047399"
         ],
         "timestamp": 1787387340.0
+    },
+    {
+        "id": "2983d911c5",
+        "title_fa": "افزایش تقاضای واقعی هوش مصنوعی همزمان با افت سهام نیمه‌هادی‌ها",
+        "title_en": "A Contrarian Dividend Play On Overdone AI Bubble Fears",
+        "summary": [
+            "کاهش ۱۱ درصدی ارزش سهام تراشه‌سازان ناشی از هیجانات کوتاه‌مدت بازار است، در حالی که رشد درآمد ۱۴۰۰ درصدی آنتروپیک نشان از تقاضای واقعی دارد.",
+            "صندوق‌های سرمایه‌گذاری با استفاده از فرصت افت قیمت‌ها، در حال جذب دارایی‌های ارزشمند عمومی و خصوصی حوزه AI هستند."
+        ],
+        "full_text": "Recent fears of an \"AI bubble\" bursting, fueled by an 11% drop in semiconductor stocks, are being viewed as a buying opportunity by some investors. Despite market jitters, fundamental AI growth remains robust, with OpenAI's Codex user base rapidly expanding and Anthropic reporting a staggering 1,400% revenue increase. This growth is largely driven by accelerating enterprise adoption, not just consumer use. The BlackRock Technology and Private Equity Term Trust (BTX), a closed-end fund holding both public and private AI firms, is highlighted as an ideal investment. BTX offers a 6.9% monthly dividend and trades at an attractive 9.3% discount to its net asset value, a discount that is actively shrinking as the market recognizes AI's enduring potential. Its broad exposure to the AI ecosystem positions it for continued strong performance, already up 48% this year. The media has been abuzz with fresh fears that theAI bubble isfinallypopping. These worries, of course, have been around for almost as long as AI itself! At the heart of the latest panic: semiconductor stocks, which have fallen hard, with the benchmark ETF for the sector, theVanEck Semiconductor ETF (SMH), plunging from an all-time high in late June to a level11% lowertoday. But here’s what we need to keep in mind: AtCEF Insider, we’re mainly interested in collecting dividends in the long run. When these short-term panics arrive, we take advantage of them, and set ourselves up for extra upside as we do. With that in mind, just where does this latest AI hand-wringing leave our AI-focusedclosed-end funds (CEFs), and the high yields they generate? It’s a good time to break this down and talk about one of our holdings in particular, theBlackRock Technology and Private Equity Term Trust (BTX), a 6.9% payer that holds both large-cap AI poster children, likeNVIDIA (NVDA)andMicron Technology (MU),and gets us into privately held AI firms, like Anthropic, too. As such, BTX is about as close to the heart of AI business as we can get. It’s also giving us an interesting setup, with adiscount to net asset value(NAV, or the value of its underlying portfolio) that’s attractive, at around 9.3%. Interestingly, that discount is shrinking. When we last discussed BTX,about a week ago, it was around 10.7%. What’s happening here? I think investors are starting to pick up on the same data I’m seeing on the future of AI demand. That’s giving us a nice “discount-with-momentum” setup with BTX that’s worth buying now. Let me break down why I see things that way. To answer that, we need to focus on the fundamentals, starting with this chart: Here we see the growth of the OpenAI application Codex, which people use to make software with ChatGPT. It’s a decent indicator of AI use, and it’s taking off: The jump from 5 million users to 8 million in just a month and a half was startling, and the rise from 8 to 15 million in less than a month is even more so. Elsewhere, Anthropic recently told investors that its second-quarter revenue grew1,400%from a year ago, from $787 million to $11.5 billion.",
+        "impact": "پذیرش گسترده هوش مصنوعی توسط سازمان‌ها، شایعات مربوط به حباب بودن این فناوری را کم‌اثر می‌کند.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/michaelfoster/2026/08/22/a-contrarian-dividend-play-on-overdone-ai-bubble-fears/",
+        "clean_url": "https://www.forbes.com/sites/michaelfoster/2026/08/22/a-contrarian-dividend-play-on-overdone-ai-bubble-fears",
+        "image": "http://www.bing.com/th?id=ONUT.ErX6ncHZXYQWA9oH2fXXew&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ErX6ncHZXYQWA9oH2fXXew&pid=News",
+            "https://imageio.forbes.com/specials-images/imageserve/68e6940a5f33027fc103a9b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/68e6940a5f33027fc103a9b0/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/68e6940a5f33027fc103a9b0/Hand-Bursting-AI-Tech-Bubble-Vector-Concept-Illustration/0x0.jpg?width=960"
+        ],
+        "timestamp": 1787385240.0
+    },
+    {
+        "id": "8cfd7535ba",
+        "title_fa": "جدایی جف دین از گوگل و سرمایه‌گذاری مستقیم غول فناوری در استارتاپ او",
+        "title_en": "‘$200 Billion in Lost Market Cap’: Alphabet Stock Rocked by Brutal AI Brain Drain and DeepMind Rumours",
+        "summary": [
+            "جف دین و سه محقق برجسته هوش مصنوعی، گوگل را برای تاسیس استارتاپ پژوهشی Discovery Loop ترک کردند.",
+            "گوگل به جای قطع کامل ارتباط، به‌عنوان سرمایه‌گذار اولیه و شریک ابری این استارتاپ وارد عمل شده تا دسترسی خود به فناوری‌های بعدی آن‌ها را حفظ کند."
+        ],
+        "full_text": "Alphabet shares fell 4.03 per cent on 5 August as Jeff Dean left Google after 27 years alongside three senior AI researchers to launch Discovery Loop, a new artificial intelligence venture. The decline wiped roughly $186 billion (£138 billion) from Alphabet's market value, although the sell-off coincided with a wider reshuffle of Google's AI leadership and should not be attributed solely to the departures. What made the announcement unusual was Google's response. Rather than severing ties with Dean, Sanjay Ghemawat, Oriol Vinyals and Quoc Le, Alphabet agreed to become a founding investor in Discovery Loop and a Google Cloud partner. That complicates the usual story of a Silicon Valley brain drain. Google is losing four influential researchers while keeping a financial and commercial connection to what they build next. Google Funds Its Own Talent Exit Dean and Ghemawat have worked together for decades and helped develop some of Google's most important computing systems. Vinyals was a vice president at Google DeepMind and technical co-lead on Gemini, while Le was a founding member of Google Brain. Together, they have launched Discovery Loop, a public benefit corporation focused on using AI to accelerate scientific and engineering research. The company says it aims to automate experimental loops, allowing AI systems to propose, run and analyse thousands of experiments in parallel before iterating on the results. Sundar Pichai framed the arrangement as an ongoing relationship rather than a clean break. Google will remain a founding investor and Cloud partner while supporting the company's work on machine learning, science and engineering. Alphabet has therefore lost direct control over four prominent researchers without entirely losing its connection to their next venture. Discovery Loop could become a valuable investment, a major cloud customer or a research partner even as its founders operate independently. Why the Departures Rattled Investors The departures nevertheless came at a sensitive moment for Google's AI business. Alphabet announced a broader leadership reshuffle at the same time. Demis Hassabis moved from chief executive of Google DeepMind to chairman of DeepMind and Alphabet's chief scientist, while Koray Kavukcuoglu became Alphabet's chief AI architect and assumed operational leadership of DeepMind. The changes also came amid concerns about delays to Google's flagship Gemini model and intensifying competition from rivals including OpenAI and Anthropic. The simultaneous departure of four prominent researchers therefore added another layer of uncertainty around Google's AI operation. Those developments should not be treated as proof that Dean and his colleagues left because of internal dissatisfaction. Dean has instead described Discovery Loop as an opportunity to pursue an ambitious scientific mission with a smaller, more focused team. Still, four high-profile researchers leaving together inevitably raises questions about whether some of the industry's most ambitious scientists now see greater freedom outside Big Tech. The Expensive Race for AI The reshuffle comes as Alphabet spends heavily on the infrastructure needed to compete in AI. The company has significantly increased capital spending on data centres, chips and computing infrastructure, intensifying pressure to show that those investments can translate into stronger models, competitive products and future revenue. Frontier AI requires both exceptional researchers and enormous computing power. That can create difficult choices over where companies direct capital and how quickly experimental ideas become commercial products. The context may help explain why the departures unsettled investors, even if they were not the only reason Alphabet shares fell. The leadership restructuring and questions surrounding Google's ability to maintain its position in the increasingly competitive AI market also weighed on sentiment. One trading session is therefore too narrow a basis for assigning nearly $186 billion (£138 billion) in lost value to Dean's departure alone. Jason Calacanis captured the temptation on the All-In podcast when he noted that Alphabet shares had fallen roughly 4 per cent following the announcement and suggested investors could correlate the decline with Dean's exit. The key word is 'correlate.' The timing is clear. Causation is not. A Brain Drain Google Chose to Fund Alphabet's decision to invest in Discovery Loop ultimately makes this more complicated than a straightforward talent exodus. Google may have lost four accomplished AI researchers, but it has also positioned itself close to their next company through capital and cloud infrastructure. The arrangement blurs the line between former employer, investor, supplier and potential research partner. For Alphabet investors, the more important question is what happens next. If Discovery Loop becomes a major AI research company, Google's investment and infrastructure relationship could prove strategically valuable. If it develops breakthroughs that might otherwise have happened inside Google, however, the departures could become a symbol of a deeper problem. One day's market sell-off cannot answer that question. What matters now is whether Discovery Loop demonstrates that four of Google's most influential AI minds can move faster outside the company and whether Google's remaining researchers still believe the most ambitious work is happening inside it. Originally published on IBTimes UK",
+        "impact": "تغییر مدل حفظ استعدادها در غول‌های تکنولوژی نشان می‌دهد آن‌ها حتی پس از خروج محققان ارشد، به دنبال سهم‌گیری از نوآوری‌های آن‌ها هستند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "International Business Times",
+        "url": "https://www.ibtimes.com/200-billion-lost-market-cap-alphabet-stock-rocked-brutal-ai-brain-drain-deepmind-rumours-3806680",
+        "clean_url": "https://www.ibtimes.com/200-billion-lost-market-cap-alphabet-stock-rocked-brutal-ai-brain-drain-deepmind-rumours-3806680",
+        "image": "http://www.bing.com/th?id=ONUT.2DVX3En2NlFjPR5jkmgF6A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.2DVX3En2NlFjPR5jkmgF6A&pid=News",
+            "https://d.ibtimes.com/en/full/4652284/google-headquarters-california.jpg",
+            "https://g.ibtimes.com/img/home/men2.png",
+            "https://g.ibtimes.com/img/home/men.png"
+        ],
+        "timestamp": 1787382060.0
     },
     {
         "id": "ce02e00e38",
