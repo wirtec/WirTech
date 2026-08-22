@@ -1,5 +1,115 @@
 [
     {
+        "id": "68c4c708dc",
+        "title_fa": "تعویق عرضه مدل GLM 5.3 به دلیل نگرانی‌های سایبری",
+        "title_en": "Z.ai delays GLM 5.3 release over cybersecurity risks",
+        "summary": [
+            "شرکت Z.ai انتشار مدل جدید خود یعنی GLM 5.3 را به علت ریسک‌های امنیت سایبری به عقب انداخت.",
+            "این تصمیم حساسیت روزافزون توسعه‌دهندگان را نسبت به خطرات امنیتی و سوءاستفاده از مدل‌های بزرگ زبان پررنگ می‌کند."
+        ],
+        "full_text": "Z.ai delays GLM 5.3 release over cybersecurity risks  BetaNews",
+        "impact": "کند شدن روند عرضه عمومی مدل‌های جدید به دلیل سخت‌گیری‌های امنیتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "BetaNews",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787401307.0
+    },
+    {
+        "id": "f9476fc5e8",
+        "title_fa": "آغاز پیش‌فروش توکن VOIDE توسط پروژه Voidtrace AI",
+        "title_en": "Voidtrace AI Announces September 4 Launch of $VOIDE Presale With Multi-Chain Access and Community Rewards",
+        "summary": [
+            "استارتاپ Voidtrace AI از شروع پیش‌فروش توکن اختصاصی VOIDE با پشتیبانی چند بلاک‌چینی خبر داد.",
+            "این پروژه تلاش می‌کند ابزارهای هوش مصنوعی را با زیرساخت‌های غیرمتمرکز مالی ترکیب کند."
+        ],
+        "full_text": "Voidtrace AI Announces September 4 Launch of $VOIDE Presale With Multi-Chain Access and Community Rewards  The AI Journal",
+        "impact": "جذب سرمایه جدید برای پروژه‌های تلفیقی هوش مصنوعی و بلاک‌چین.",
+        "tag": "کریپتو",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "The AI Journal",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVhyYlNRbzVWeUNUdGd0T2lyb1ZrbGk4MzIwZzRndThJTWNCNm9YUm1oenhHRE5OZFBSbXBRRkttYnV5MXJJVmFjZ3FTbU5DRkl0My1SX2F1OWR1c19KdGoxeUg0d3kyb3Nrenp6QjZ6LW5DYy04cmlsWERYM3Ezc1E4ZXpJUmFreS0tajdKWXZFb0lLaHBOWFVOdF9YVVJYN2JzQ2QxLURMY0xoakZ6M3B2dVktY2p4STh1ck51QXBCOUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVhyYlNRbzVWeUNUdGd0T2lyb1ZrbGk4MzIwZzRndThJTWNCNm9YUm1oenhHRE5OZFBSbXBRRkttYnV5MXJJVmFjZ3FTbU5DRkl0My1SX2F1OWR1c19KdGoxeUg0d3kyb3Nrenp6QjZ6LW5DYy04cmlsWERYM3Ezc1E4ZXpJUmFreS0tajdKWXZFb0lLaHBOWFVOdF9YVVJYN2JzQ2QxLURMY0xoakZ6M3B2dVktY2p4STh1ck51QXBCOUk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787399994.0
+    },
+    {
+        "id": "c29ff27542",
+        "title_fa": "معرفی MemeToro؛ ترکیب ایجنت‌های هوشمند با شبکه BNB",
+        "title_en": "Best AI Meme Coin Presale 2026: MemeToro Combines AI Agents With BNB Chain Infrastructure",
+        "summary": [
+            "پروژه MemeToro پیش‌فروش توکن خود را با تلفیق ایجنت‌های هوش مصنوعی و زیرساخت شبکه BNB آغاز کرد.",
+            "این طرح به دنبال کاربردی کردن میم‌کوین‌ها از طریق اتوماسیون و ابزارهای هوشمند است."
+        ],
+        "full_text": "Best AI Meme Coin Presale 2026: MemeToro Combines AI Agents With BNB Chain Infrastructure  StreetInsider",
+        "impact": "افزایش تمایل بازار کریپتو به استفاده عملیاتی از ایجنت‌های AI.",
+        "tag": "کریپتو",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0N2ZlRnS2xvT1lZMkdqeXJ2c2wybElEaUdVVlVnbUoxNlBaenlvOU1wQllnTGtjSFRWVno1SGpzUmtCLTNuRUJLSklhbXJpOU9GTTNLNnN5MDdiN0hGTFFLMGxWcUVCYl9LRTJ3R1RGQ3d6U1FBS0xwMXZvSV9oVEZhS3JjQmlnQlNIQVVsc0FiQTdBU0d0SUQ4d3F4VlFzMXZJYVFfZFlHeEdDampWd2ZoVy14MjNET2l0Z3AxSkdHSHlwX0s4eldVR25vX19FSnJSSmtULTVzbEFZSXNLMUVEdWZEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0N2ZlRnS2xvT1lZMkdqeXJ2c2wybElEaUdVVlVnbUoxNlBaenlvOU1wQllnTGtjSFRWVno1SGpzUmtCLTNuRUJLSklhbXJpOU9GTTNLNnN5MDdiN0hGTFFLMGxWcUVCYl9LRTJ3R1RGQ3d6U1FBS0xwMXZvSV9oVEZhS3JjQmlnQlNIQVVsc0FiQTdBU0d0SUQ4d3F4VlFzMXZJYVFfZFlHeEdDampWd2ZoVy14MjNET2l0Z3AxSkdHSHlwX0s4eldVR25vX19FSnJSSmtULTVzbEFZSXNLMUVEdWZEZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787395612.0
+    },
+    {
+        "id": "467c2c60e8",
+        "title_fa": "راه‌اندازی شبکه AI World TV برای پوشش تخصصی اخبار هوش مصنوعی",
+        "title_en": "AI World TV Launches, Delivering Trusted AI Journalism, Exclusive Interviews, and Expert Insights",
+        "summary": [
+            "شبکه جدید AI World TV با هدف ارائه گزارش‌های موثق، مصاحبه‌های اختصاصی و تحلیل‌های تخصصی در حوزه هوش مصنوعی آغاز به کار کرد.",
+            "این رسانه قصد دارد فاصله بین جامعه فنی و مخاطبان عام را با محتوای تحلیلی دقیق پر کند."
+        ],
+        "full_text": "AI World TV Launches, Delivering Trusted AI Journalism, Exclusive Interviews, and Expert Insights  Montgomery Advertiser",
+        "impact": "تسهیل دسترسی عموم کاربران به تحلیل‌های موثق و اخبار دست‌اول صنعت AI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Montgomery Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ2NOY3dYMmZrSEtMOFl6TUVaaFY3X2RSaU04VS1zMVhNXy1pYVhDZmFoaEJaSjNFU25YZG5pUm5EbnlUNFZjTm9zN05QSUgxSGdJZHhaVVVjdzJCT29USHE3cVNwbnVoOXAzeFg3WUltVnlXZnFhSy12QTNEanJMVTJwdkUwSkQ2YldiLTJUUEs2d29Zd01Qa3hXVlNGYk9Ea05pcUtEOE8zdXRMeTVwWDQyd3FibEVWTHhqZ2FKc29Kb2JwekpoSi1zS1JVaXhzamJOZ2lpV2drY281ZTYwclllUC1HR0RfdTJQYk5TT1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ2NOY3dYMmZrSEtMOFl6TUVaaFY3X2RSaU04VS1zMVhNXy1pYVhDZmFoaEJaSjNFU25YZG5pUm5EbnlUNFZjTm9zN05QSUgxSGdJZHhaVVVjdzJCT29USHE3cVNwbnVoOXAzeFg3WUltVnlXZnFhSy12QTNEanJMVTJwdkUwSkQ2YldiLTJUUEs2d29Zd01Qa3hXVlNGYk9Ea05pcUtEOE8zdXRMeTVwWDQyd3FibEVWTHhqZ2FKc29Kb2JwekpoSi1zS1JVaXhzamJOZ2lpV2drY281ZTYwclllUC1HR0RfdTJQYk5TT1E",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787394394.0
+    },
+    {
+        "id": "6331b32fdb",
+        "title_fa": "نگاهی به قابلیت‌ها و زمان عرضه سیستم‌عامل macOS 27",
+        "title_en": "macOS 27 Golden Gate Guide: All the new features coming to compatible Macs, 2026 release date and more",
+        "summary": [
+            "مک‌ورلد راهنمای جامع ویژگی‌های احتمالی و سیستم‌های سازگار با سیستم‌عامل آینده اپل یعنی macOS 27 را منتشر کرد.",
+            "این نسخه بر یکپارچگی بیشتر قابلیت‌های هوشمند و بهبود عملکرد در مک‌های جدید تمرکز دارد."
+        ],
+        "full_text": "macOS 27 Golden Gate Guide: All the new features coming to compatible Macs, 2026 release date and more  Macworld",
+        "impact": "روشن‌شدن مسیر احتمالی توسعه نرم‌افزاری اکوسیستم مک در سال‌های آینده.",
+        "tag": "نرم‌افزار",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Macworld",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787394150.0
+    },
+    {
         "id": "db1bd12f7f",
         "title_fa": "همکاری Kureha و دانشگاه توکیو برای ساخت کامپوزیت موتور هواپیما",
         "title_en": "Kureha, Tokyo University of Technology Launch SiC/SiC Composite Research for Aircraft Engines",
