@@ -1,5 +1,49 @@
 [
     {
+        "id": "9163f03a6d",
+        "title_fa": "برنامه‌ریزی استارتاپ Cursor برای چالش کشیدن امپراتوری گیت‌هاب",
+        "title_en": "Runtime: How Cursor plans to take on GitHub",
+        "summary": [
+            "ویرایشگر هوشمند کد Cursor قصد دارد با ارائه امکانات عمیق‌تر هوش مصنوعی، سهم بازار گیت‌هاب را هدف بگیرد.",
+            "این استارتاپ روی تجربه کاربری یکپارچه و هوشمندسازی کامل فرایند کدنویسی تمرکز کرده است."
+        ],
+        "full_text": "Runtime: How Cursor plans to take on GitHub  thestack.technology",
+        "impact": "تشدید رقابت در بازار ابزارهای توسعه‌دهندگان و احتمال تغییر ابزار استاندارد برنامه‌نویسی.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "thestack.technology",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjNUMlR1Z0ZVWWhqOWEyd0NFSGdkSldONWxtVkQtdXd4R01kRVRDZ0lCY3NoenBIXzR2T2ZkUjlyV0pURW0wdklZMXl5aWx5TmtTRW9QVUdqQ0xENklyOHpaSzJGcjNyYkJtaFc2OU1lRVRmYVN2eVRIU3ZZMzBrUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjNUMlR1Z0ZVWWhqOWEyd0NFSGdkSldONWxtVkQtdXd4R01kRVRDZ0lCY3NoenBIXzR2T2ZkUjlyV0pURW0wdklZMXl5aWx5TmtTRW9QVUdqQ0xENklyOHpaSzJGcjNyYkJtaFc2OU1lRVRmYVN2eVRIU3ZZMzBrUQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787415869.0
+    },
+    {
+        "id": "340f6f136f",
+        "title_fa": "افزایش حملات هوش مصنوعی به زیرساخت‌های نرم‌افزاری بیت‌کوین",
+        "title_en": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+        "summary": [
+            "استفاده مهاجمان از هوش مصنوعی برای کشف آسیب‌پذیری کدهای بیت‌کوین با سرعت بالا خطرساز شده است.",
+            "گروه‌های امنیتی کریپتو در حال تشکیل خطوط دفاعی جدید برای مقابله با کدهای مخرب هوشمند هستند."
+        ],
+        "full_text": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back  Decrypt",
+        "impact": "افزایش ریسک‌های امنیتی شبکه بیت‌کوین و نیاز فوری به ارتقای دفاع سایبری مبتنی بر AI.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Decrypt",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9hcG1aNFp4UWJONzZtczRobmVDakljQzhxNnV3S2dsa0VILUNQbzc5RWc4dzB4TGJQSWc1WnlxNFFzdDNBY0ZFa3VyQWtXWUZnczh5aFFpV0xpRTRXQjZJTDdpUUdNSkpScU56VFFtNmVISVlsLUgtdGtQM0YyNXQ5YWfSAYQBQVVfeXFMTURfYXBtWjRaeFFiTjc2bXM0aG5lQ2pJY0M4cTZ1d0tnbGtFSC1DUG83OUVnOHcweExiUElnNVp5cTRRc3QzQWNGRWt1ckFrV1lGZ3M4eWhRaVdMaUU0V0I2SUw3aVFHTUpKUnFOelRRbTZlSElZbC1ILXRrUDNGMjV0OWFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9hcG1aNFp4UWJONzZtczRobmVDakljQzhxNnV3S2dsa0VILUNQbzc5RWc4dzB4TGJQSWc1WnlxNFFzdDNBY0ZFa3VyQWtXWUZnczh5aFFpV0xpRTRXQjZJTDdpUUdNSkpScU56VFFtNmVISVlsLUgtdGtQM0YyNXQ5YWfSAYQBQVVfeXFMTURfYXBtWjRaeFFiTjc2bXM0aG5lQ2pJY0M4cTZ1d0tnbGtFSC1DUG83OUVnOHcweExiUElnNVp5cTRRc3QzQWNGRWt1ckFrV1lGZ3M4eWhRaVdMaUU0V0I2SUw3aVFHTUpKUnFOelRRbTZlSElZbC1ILXRrUDNGMjV0OWFn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787412664.0
+    },
+    {
         "id": "f411250b40",
         "title_fa": "چرخش تسلا به سمت هوش مصنوعی فیزیکی با سایبرکب و اپتیموس",
         "title_en": "Tesla's Physical AI Pivot: From We, Robot to Cybercab and Optimus - BASENOR",
@@ -45,6 +89,32 @@
             "https://hips.hearstapps.com/hmg-prod/images/riemann-zeta-function-1569526951.png?crop=1xw:1xh;center,top"
         ],
         "timestamp": 1787410800.0
+    },
+    {
+        "id": "24eeb30aca",
+        "title_fa": "جهش هوش مصنوعی در حل پیچیده‌ترین مسائل ریاضی تاریخ",
+        "title_en": "10 Hard Math Problems That Even the Smartest People in the World Can’t Crack",
+        "summary": [
+            "مدل‌های جدید OpenAI و Anthropic گام‌های مهمی در حل مسائل ریاضی چندساله مانند حدس ریمان برداشته‌اند.",
+            "با وجود پیشرفت چشمگیر، ریاضیدانان همچنان نسبت به نتایج محتاط هستند و بر لزوم تدوین چارچوب‌های اخلاقی تأکید می‌کنند.",
+            "این اتفاق نشان می‌دهد هوش مصنوعی از یک ابزار چت ساده به یک دستیار واقعی برای پژوهش‌های محض علمی تبدیل شده است."
+        ],
+        "full_text": "For all of the recent strides we've made in the math world, we're forever crunching calculations in pursuit of deeper numerical knowledge. Some math problems have been challenging us for centuries—but a new frontier could change that: artificial intelligence. On August 1, AI research company OpenAI announced that its next model, Astra, resolved or made progress on 10 long-standing mathematical problems. Some of the problems Astra tackled include Connes's rigidity conjecture, quantum parallel repetition, and Ehrhart's volume conjecture. Likewise, Anthropic—another AI company—also recently announced that an unreleased version of its model Claude made strides on the Riemann hypothesis through something called the Riemann zeta function. However, Anthropic notes that it doesn't \"expect that the techniques Claude used will lead to proving the Riemann hypothesis. But its work serves as the latest example of the speed of progress in AI models' mathematical capabilities.\" Mathematicians seem both excited about the possibility of accelerated advancement and skeptical, according to recent interview published by The Verge. In fact, this apprehension extends so far that mathematicians are calling for ethical guardrails to be established to uphold the integrity of research in the field. In June, a team of researchers proposed the Leiden Declaration on Artificial Intelligence and Mathematics, a list of suggested guidelines and a call to action for other researches. While brain-busters—like the ones these AI models recently challenged—may seem impossible, someone is bound to solve 'em eventually. Well, maybe. For now, you can take a crack at the hardest math problems known to human and machine. Perhaps you'll be the one to finally figure it out. 1) The Riemann Hypothesis Despite Claude's recent efforts, the Riemann hypothesis remains unsolved. Still, today's mathematicians would probably agree that it's the most significant open problem in all of math. It's one of the seven Millennium Prize Problems, with a $1 million reward for its solution. It has implications deep into various branches of math, but it's also simple enough that we can explain the basic idea right here. There is a function, called the Riemann zeta function, written in the image above. For each s, this function gives an infinite sum, which takes some basic calculus to approach for even the simplest values of s. For example, if s=2, then 𝜁(s) is the well-known series 1 + 1/4 + 1/9 + 1/16 + …, which strangely adds up to exactly 𝜋²/6. When s is a complex number—one that looks like a+b𝑖, using the imaginary number 𝑖—finding 𝜁(s) gets tricky. So tricky, in fact, that it's become the ultimate math question. Specifically, the Riemann hypothesis is about when 𝜁(s)=0; the official statement is, \"Every nontrivial zero of the Riemann zeta function has real part 1/2.\" On the plane of complex numbers, this means the function has a certain behavior along a special vertical line. The hypothesis is that the behavior continues along that line infinitely. The hypothesis and the zeta function come from German mathematician Bernhard Riemann, who described them in 1859. Riemann developed them while studying prime numbers and their distribution. Our understanding of prime numbers has flourished in the 160 years since, and Riemann would never have imagined the power of supercomputers. But lacking a solution to the Riemann hypothesis is a major setback. If the Riemann hypothesis were solved tomorrow, it would unlock an avalanche of further progress. It would be huge news throughout the subjects of number theory and analysis. Until then, the Riemann ypothesis remains one of the largest dams to the river of math research. 2) The Collatz Conjecture In September 2019, news broke regarding progress on this 82-year-old question, thanks to prolific mathematician Terence Tao. And while the story of Tao's breakthrough is promising, the problem isn't fully solved yet. A refresher on the Collatz conjecture: It's all about that function f(n), shown above, which takes even numbers and cuts them in half, while odd numbers get tripled and then added to 1. Take any natural number, apply f, then apply f again and again. You eventually land on 1, for every number we've ever checked. The conjecture is that this is true for all natural numbers (positive integers from 1 through infinity). Tao's work is a near-solution to the Collatz conjecture in some subtle ways. But he most likely can't adapt his methods to yield a complete solution to the problem, as Tao subsequently explained. So, we might be working on it for decades longer. The conjecture lives in the math discipline known as dynamical systems, or the study of situations that change over time in semi-predictable ways. It looks like a simple, innocuous question, but that's what makes it special. Why is such a basic question so hard to answer? It serves as a benchmark for our understanding; once we solve it, then we can proceed to much more complicated matters. The study of dynamical systems could become more robust than anyone today could imagine. But we'll need to solve the Collatz conjecture for the subject to flourish. 3) Goldbach's Conjecture One of the greatest unsolved mysteries in math is also very easy to write. Goldbach's conjecture is, \"Every even number (greater than two) is the sum of two primes.\" You check this in your head for small numbers: 18 is 13+5, and 42 is 23+19. Computers have checked the conjecture for numbers up to some magnitude. But we need proof for all natural numbers. Goldbach's conjecture precipitated from letters in 1742 between German mathematician Christian Goldbach and legendary Swiss mathematician Leonhard Euler, considered one of the greatest in math history. As Euler put it, \"I regard [it] as a completely certain theorem, although I cannot prove it.\" Euler may have sensed what makes this problem counterintuitively hard to solve. When you look at larger numbers, they have more ways of being",
+        "impact": "تسریع بی‌سابقه در اکتشافات علمی و تحول در بن‌بست‌های ریاضیات محض.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Popular Mechanics",
+        "url": "https://www.yahoo.com/news/science/articles/10-hard-math-problems-even-150000549.html",
+        "clean_url": "https://www.yahoo.com/news/science/articles/10-hard-math-problems-even-150000549.html",
+        "image": "https://media.zenfs.com/en/popular_mechanics_642/994088f5f69b2f88dad5079cdeafd789.jpg",
+        "images": [
+            "https://media.zenfs.com/en/popular_mechanics_642/994088f5f69b2f88dad5079cdeafd789.jpg",
+            "https://s.yimg.com/lo/mysterio/api/89e2bb325c1b3c358cbb955fa39e53160f86b00b66c297016780f1d5489e29c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F994088f5f69b2f88dad5079cdeafd789.jpg",
+            "https://s.yimg.com/lo/mysterio/api/4f1190ec26349addce253f973e567414efa0745392d6f62f715e7bb6f225d603/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F2edbf1a0-244d-11eb-beba-ffa5d3038302",
+            "https://s.yimg.com/lo/mysterio/api/e727c25afa0180b3fcd8dca4bbe31dfcbf1ca5b789c099c043c8513620c3e7cc/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F41859f90-244d-11eb-9d3d-90a30cd0ad63"
+        ],
+        "timestamp": 1787410316.0
     },
     {
         "id": "d4b90341f1",
