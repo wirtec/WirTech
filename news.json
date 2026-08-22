@@ -1,5 +1,74 @@
 [
     {
+        "id": "f411250b40",
+        "title_fa": "چرخش تسلا به سمت هوش مصنوعی فیزیکی با سایبرکب و اپتیموس",
+        "title_en": "Tesla's Physical AI Pivot: From We, Robot to Cybercab and Optimus - BASENOR",
+        "summary": [
+            "تسلا تمرکز اصلی خود را از تولید خودروهای معمولی به توسعه هوش مصنوعی فیزیکی در قالب ربات‌تاکسی و ربات انسان‌نما معطوف کرده است.",
+            "این تغییر استراتژی، هویت جدید تسلا را بیشتر به‌عنوان یک شرکت پیشرو رباتیک تعریف می‌کند تا یک خودروساز سنتی."
+        ],
+        "full_text": "Tesla's Physical AI Pivot: From We, Robot to Cybercab and Optimus  BASENOR - Tesla Accessories",
+        "impact": "موفقیت این پروژه می‌تواند کل الگوی سرمایه‌گذاری در صنعت حمل‌ونقل و رباتیک کارخانه‌ای را دگرگون کند.",
+        "tag": "رباتیک",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "BASENOR - Tesla Accessories",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG5aa0ZIMURYT0JxN2w4MDlybUdGUGtLWHdFdW54Smo4d0lndGFjUUZBNjVDNUdNNEZMTWVfM2l6WW8xN2tMeWFEc3o4OE1nM09Mem5GMTVnZDdISXdQblQxd2cta3RNY2Y3Q3FfbC1MZ3BYYmFteHhjNGRFVklMVThHY2lKQWJ0d0VuXzVhSUI1bWtGbHZMVXRjTkhLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG5aa0ZIMURYT0JxN2w4MDlybUdGUGtLWHdFdW54Smo4d0lndGFjUUZBNjVDNUdNNEZMTWVfM2l6WW8xN2tMeWFEc3o4OE1nM09Mem5GMTVnZDdISXdQblQxd2cta3RNY2Y3Q3FfbC1MZ3BYYmFteHhjNGRFVklMVThHY2lKQWJ0d0VuXzVhSUI1bWtGbHZMVXRjTkhLdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787411318.0
+    },
+    {
+        "id": "c72333b745",
+        "title_fa": "پیشرفت هوش مصنوعی در حل پیچیده‌ترین معماهای ریاضی تاریخ",
+        "title_en": "Think You're Good at Math? See How Far You Get With These 10 Unsolved Problems",
+        "summary": [
+            "مدل‌های جدید OpenAI و انتروپیک توانسته‌اند قدم‌های مهمی در مسیر حل مسائل دیرینه ریاضی مثل حدس ریمان بردارند.",
+            "ریاضی‌دانان در عین شگفت‌زدگی از قدرت الگوریتم‌ها، درباره لزوم تدوین چارچوب‌های اخلاقی برای حفظ اعتبار تحقیقات علمی هشدار می‌دهند."
+        ],
+        "full_text": "For all of the recent strides we’ve made in the math world, we’re forever crunching calculations in pursuit of deeper numerical knowledge. Some math problems have been challenging us for centuries—but a new frontier could change that: artificial intelligence. On August 1, AI research company OpenAI announced that its next model, Astra, resolved or made progress on 10 long-standing mathematical problems. Some of the problems Astra tackled include Connes’s rigidity conjecture, quantum parallel repetition, and Ehrhart’s volume conjecture. Likewise, Anthropic—another AI company—also recently announced that an unreleased version of its model Claude made strides on the Riemann hypothesis through something called the Riemann zeta function. However, Anthropic notes that it doesn’t “expect that the techniques Claude used will lead to proving the Riemann hypothesis. But its work serves as the latest example of the speed of progress in AI models’ mathematical capabilities.” Mathematicians seem both excited about the possibility of accelerated advancement and skeptical, according to recent interview published by The Verge. In fact, this apprehension extends so far that mathematicians are calling for ethical guardrails to be established to uphold the integrity of research in the field. In June, a team of researchers proposed the Leiden Declaration on Artificial Intelligence and Mathematics, a list of suggested guidelines and a call to action for other researches. While brain-busters—like the ones these AI models recently challenged—may seem impossible, someone is bound to solve ’em eventually. Well, maybe. For now, you can take a crack at the hardest math problems known to human and machine. Perhaps you’ll be the one to finally figure it out. The Riemann Hypothesis Despite Claude’s recent efforts, the Riemann hypothesis remains unsolved. Still, today’s mathematicians would probably agree that it’s the most significant open problem in all of math. It’s one of the seven Millennium Prize Problems, with a $1 million reward for its solution. It has implications deep into various branches of math, but it’s also simple enough that we can explain the basic idea right here. There is a function, called the Riemann zeta function, written in the image above. For each s, this function gives an infinite sum, which takes some basic calculus to approach for even the simplest values of s. For example, if s=2, then 𝜁(s) is the well-known series 1 + 1/4 + 1/9 + 1/16 + …, which strangely adds up to exactly 𝜋²/6. When s is a complex number—one that looks like a+b𝑖, using the imaginary number 𝑖—finding 𝜁(s) gets tricky. So tricky, in fact, that it’s become the ultimate math question. Specifically, the Riemann hypothesis is about when 𝜁(s)=0; the official statement is, “Every nontrivial zero of the Riemann zeta function has real part 1/2.” On the plane of complex numbers, this means the function has a certain behavior along a special vertical line. The hypothesis is that the behavior continues along that line infinitely. The hypothesis and the zeta function come from German mathematician Bernhard Riemann, who described them in 1859. Riemann developed them while studying prime numbers and their distribution. Our understanding of prime numbers has flourished in the 160 years since, and Riemann would never have imagined the power of supercomputers. But lacking a solution to the Riemann hypothesis is a major setback. If the Riemann hypothesis were solved tomorrow, it would unlock an avalanche of further progress. It would be huge news throughout the subjects of number theory and analysis. Until then, the Riemann ypothesis remains one of the largest dams to the river of math research. The Collatz Conjecture In September 2019, news broke regarding progress on this 82-year-old question, thanks to prolific mathematician Terence Tao. And while the story of Tao’s breakthrough is promising, the problem isn’t fully solved yet. A refresher on the Collatz conjecture: It’s all about that function f(n), shown above, which takes even numbers and cuts them in half, while odd numbers get tripled and then added to 1. Take any natural number, apply f, then apply f again and again. You eventually land on 1, for every number we’ve ever checked. The conjecture is that this is true for all natural numbers (positive integers from 1 through infinity). Tao’s work is a near-solution to the Collatz conjecture in some subtle ways. But he most likely can’t adapt his methods to yield a complete solution to the problem, as Tao subsequently explained. So, we might be working on it for decades longer. The conjecture lives in the math discipline known as dynamical systems, or the study of situations that change over time in semi-predictable ways. It looks like a simple, innocuous question, but that’s what makes it special. Why is such a basic question so hard to answer? It serves as a benchmark for our understanding; once we solve it, then we can proceed to much more complicated matters. The study of dynamical systems could become more robust than anyone today could imagine. But we’ll need to solve the Collatz conjecture for the subject to flourish. Goldbach’s Conjecture One of the greatest unsolved mysteries in math is also very easy to write. Goldbach’s conjecture is, “Every even number (greater than two) is the sum of two primes.” You check this in your head for small numbers: 18 is 13+5, and 42 is 23+19. Computers have checked the conjecture for numbers up to some magnitude. But we need proof for all natural numbers. Goldbach’s conjecture precipitated from letters in 1742 between German mathematician Christian Goldbach and legendary Swiss mathematician Leonhard Euler, considered one of the greatest in math history. As Euler put it, “I regard [it] as a completely certain theorem, although I cannot prove it.” Euler may have sensed what makes this problem counterintuitively hard to solve. When you look at larger numbers, they have more ways of being written ",
+        "impact": "هوش مصنوعی در حال تبدیل شدن از یک ابزار چت ساده به همکار و دستیار علمی دانشمندان در کشفیات بنیادین است.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Popular Mechanics",
+        "url": "https://www.popularmechanics.com/science/math/g73439056/impossible-math-problems-solve/",
+        "clean_url": "https://www.popularmechanics.com/science/math/g73439056/impossible-math-problems-solve",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
+            "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=640:*",
+            "https://hips.hearstapps.com/hmg-prod/images/f0e8625a-babb-4180-83ba-54fdd91bd277.jpeg?crop=0.666666666667xw:1xh;center,top&resize=640:*",
+            "https://hips.hearstapps.com/hmg-prod/images/riemann-zeta-function-1569526951.png?crop=1xw:1xh;center,top"
+        ],
+        "timestamp": 1787410800.0
+    },
+    {
+        "id": "d4b90341f1",
+        "title_fa": "جدی شدن بازاریابی خودکار با عامل‌های هوشمند در کسب‌وکارها",
+        "title_en": "Optimizely’s Forrester Wave leader slot turns “agentic” marketing into an enterprise architecture decision",
+        "summary": [
+            "صدرنشینی پلتفرم Optimizely در گزارش فورستر نشان می‌دهد که بازاریابی مبتنی بر عامل‌های هوشمند (Agentic Marketing) به یک تصمیم زیرساختی تبدیل شده است.",
+            "شرکت‌های بزرگ در حال تغییر معماری نرم‌افزاری خود هستند تا سیستم‌های هوشمند بتوانند به صورت مستقل درباره کمپین‌ها تصمیم بگیرند."
+        ],
+        "full_text": "Optimizely’s Forrester Wave leader slot turns “agentic” marketing into an enterprise architecture decision  MarketScale",
+        "impact": "اتوماسیون بازاریابی از ابزارهای ساده به سمت عامل‌های خودکار تصمیم‌گیرنده تغییر مسیر داده است.",
+        "tag": "کسب‌وکار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "MarketScale",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdFNjLVBSRnpuNkdXWDVUSFUxTEo4VGx5a2xseFdHQ1dFbFR5WjZmUUtncTdiOVIxdklmWGN5U2pydUhWSjI2OVhaOHhJQTVzOHU5N2phRmUtTzc5RDdlLW1WUmNEN2VUaS15MVNFQ0ExZVNudjZ0cWZfU3RHLW5fRmRzMF9VVHRBQWtjNW9aSWcwR05aRUJpbUpzWGNHZnBwMVRZQm1yeGtxWGhORUpYQ2xwd20ydlhDUERqemtDcTh5N2cwV1k4cHI2RUZ2bHJVcFdhNnJobllQVU5OcjB3MUhBVTJ1MTMyaGg2RFF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdFNjLVBSRnpuNkdXWDVUSFUxTEo4VGx5a2xseFdHQ1dFbFR5WjZmUUtncTdiOVIxdklmWGN5U2pydUhWSjI2OVhaOHhJQTVzOHU5N2phRmUtTzc5RDdlLW1WUmNEN2VUaS15MVNFQ0ExZVNudjZ0cWZfU3RHLW5fRmRzMF9VVHRBQWtjNW9aSWcwR05aRUJpbUpzWGNHZnBwMVRZQm1yeGtxWGhORUpYQ2xwd20ydlhDUERqemtDcTh5N2cwV1k4cHI2RUZ2bHJVcFdhNnJobllQVU5OcjB3MUhBVTJ1MTMyaGg2RFF3",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787410294.0
+    },
+    {
         "id": "4f1b9cc514",
         "title_fa": "جهش بزرگ فناوری mRNA؛ واکسن سرطان مدرنا وارد مرحله تازه‌ای شد",
         "title_en": "Why Moderna’s Cancer Vaccine Is a Breakthrough for mRNA",
@@ -152,6 +221,32 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787394150.0
+    },
+    {
+        "id": "ce02e00e38",
+        "title_fa": "بررسی پیکسل ۱۱ پرو XL؛ آپدیت تکراری با هوش مصنوعی کاربردی‌تر",
+        "title_en": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+        "summary": [
+            "طراحی گوشی تغییر خاصی نکرده و جز رنگ‌های جدید و یک چراغ کوچک در پشت بدنه، تفاوت ظاهری چندانی با نسل قبل ندارد.",
+            "قابلیت جدید Rambler به لطف هوش مصنوعی، کلمات اضافی هنگام ضبط صدا را حذف کرده و متن صوتی را بسیار تمیز و مرتب تحویل می‌دهد.",
+            "دوربین‌ها سریع‌تر شده‌اند و دستیار جمینای پیشنهادات هوشمندتری ارائه می‌دهد، اما هنوز با یک جهش سخت‌افزاری بزرگ فاصله داریم."
+        ],
+        "full_text": "If you buy the new Pixel 11 Pro, you might have to proactively tell people that you bought the latest phone, unless they are following each and every launch. The main reason is that the Pixel 11 doesn’t look that different from prior models. The main updates to its aesthetics are its new colors, which are admittedly gorgeous, and the addition of a small glowing light on the back of the phone, which has limited use. The phone arrives with some new Gemini features, but I’m not sure if AI chops are attracting customers to buy new phones these days. In daily use, what you may notice is that the Pixel 11 Pro’s cameras are snappier, and there are more options for you to customize the way your photos look. Otherwise, the Pixel 11 Pro XL feels like the previous-gen phone had a big Pixel Drop update. I have used the Obsidian Pixel 11 Pro XL for nearly a week, and so far, I can say that despite the relatively iterative updates, the phone is still solid and feels good to use. Rambler Rambler is one of my favorite new features on the Pixel 11 Pro XL. This new, AI-powered dictation tool takes out filler words like “um” and “ah” and formats your speech. The feature directly takes on other dictation apps like Wispr and Willow. The dictation tool also handles switching between languages and noisy environments well. Though it might make its way to some other devices, if you have a Pixel, this is a very cool and useful feature that you could end up using daily, compared with some of the other AI features. For the last year, I have used dictation tools frequently to take quick notes, reply to emails, and messages on devices that I use. Google’s tool is on par with a few of the top tools in the industry, I found. (The tool is so good that I have pretty much rambled my way into writing this section without needing any edits!) Gemini updates I’ve just had the phone for five days, so the Proactive Suggestions feature, designed to surface context-aware suggestions from apps, didn’t yet show up everywhere. I did see it when I conversed with friends over text messages, when they were asking me about my schedule. My only gripe is that I’d want Gemini to know about all my calendars, not just Google’s, and suggest my availability based on that. Suggestions also don’t always show up. For instance, when someone asked for my address, Gemini should have picked that up from my emails, but it didn’t. In addition, Gemini offers agentic capabilities that can help you with completing some tasks, such as placing a food order for you. But this feature is available in the U.S., and as I am based in India, I couldn’t test it. The new Live Translate feature is useful for when you are watching a live stream or a video without translated captions. However, you will need to download specific languages. HiLight is not really a highlight One of Google’s marketing messages this year was about how it designed Pixel to make you look at your screen less. The company has only one feature to show for it called HiLight, an LED notification light on the back of the phone that replaced last year’s temperature sensor. The feature allows you to keep your phone face down, while delivering subtle alerts by way of the light. The light itself looks cool when active as it lights up in green, yellow, pink, purple, or white. But a big limitation is that it only works when you activate Gemini or get phone calls from your favorite contacts, not texts. The light can also indicate that Gemini is listening or thinking. This may be useful to know that Gemini is processing information after you have asked it to execute a complex task. But besides that, I can only think of a few scenarios when my phone is face down, and I’m not wearing any earbuds to listen for the activation sound, but still need to know if Gemini is active. Besides, for favorite callers, you can always set a special ringtone. There may be only a few occasions when your phone is on silent, and if you haven’t set up calls from close people to get through, and you are paying attention to a light on the back of the phone. This feature is ripe for future customization, however, so hopefully it continues to be developed. I would like to one day choose a color for when I get a text or WhatsApp message from my contacts. Plus, if I can assign different colors for different apps, I would know if I need to pick up my phone or if I can tackle that task later. Pixel’s cameras are snappy Google decided to opt for a larger sensor for both the main and the telephoto sensors compared with the Pixel 10 Pro XL. On paper, this change means cameras can let in more light and, in turn, capture more details. (I didn’t pixel-peep to confirm this). However, thanks to the new processor and software updates, the camera app and capture feel snappy, and you can take photos faster. Google also made Night Sight, its low-light photography mode, faster, which means you don’t have to hold the phone with the subject in focus for as long and can more easily avoid blurry photos. Google’s Pro Res Zoom feature, which uses AI to upscale some parts of the photo when you go above 30x digital zoom on Pro XL, has been improved. The maximum zoom level was 100x last year, and now it is 120x. It is tough to keep your hand steady and take a legible photo, even after all the AI magic, if the subject is across the street. But for a lower zoom range, you get a usable photo. One of the marquee features of this year’s camera release is called Looks, which acts like filters, but Google claims that it’s changing the way the computational photography pipeline works on the phone. There are four core default looks called original, natural, shadows, and vanilla that you can select from the settings menu. You can also switch between other Looks called editorial, classic (with more grain), digi (reminds you of old digital cameras), black tie, and minimal. On the Pixel 11, one-touch quick access controls are customizable, so I could swap out white balan",
+        "impact": "گوگل به‌جای دستکاری ترکیب برنده سخت‌افزار، روی کاربردی‌تر کردن قابلیت‌های نرم‌افزاری و هوش مصنوعی در زندگی روزمره تمرکز کرده است.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+        "clean_url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade",
+        "image": "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/08/1787295676463.jpg?w=680"
+        ],
+        "timestamp": 1787382000.0
     },
     {
         "id": "4eab5597fe",
