@@ -1,5 +1,49 @@
 [
     {
+        "id": "2bcf5a4408",
+        "title_fa": "استراتژی زمان‌بندی عرضه آیفون ۱۸ پرو برای فشار بر رقبا",
+        "title_en": "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition",
+        "summary": [
+            "اپل با تنظیم دقیق زمان رونمایی آیفون ۱۸ پرو، فرصت واکنش سریع را از رقبای اصلی بازار می‌گیرد.",
+            "تمرکز چرخه تولید و عرضه روی خفه کردن موج تبلیغاتی پرچمداران اندرویدی در بازه زمانی کلیدی تنظیم شده است."
+        ],
+        "full_text": "How Apple’s iPhone 18 Pro Launch Date Crushes The Competition  Forbes",
+        "impact": "تغییر زمان‌بندی عرضه آیفون، رقبای اندرویدی را مجبور به بازنگری در تقویم معرفی محصولاتشان می‌کند.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0lCMHRPdjV1S0Jpc0NsTS1rX2d5dHdwSl9SR0JkSFR4am1wMk4wTlpBQ2Q2Rml1czNPWHdpcExscGgzT0t0OG9tQUNQLUJkRHJHalBLZzBiZWc1STdWWFBILVNiaWlNakhnODEzR2RSSElkd3NaOFhNUy11MUp4VG90QnF5cFdLNDJwd3hZSF9LZ1Jnb1cxSlk4Ny03UnV6VEY5X2dBU095enZybkZZdEFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0lCMHRPdjV1S0Jpc0NsTS1rX2d5dHdwSl9SR0JkSFR4am1wMk4wTlpBQ2Q2Rml1czNPWHdpcExscGgzT0t0OG9tQUNQLUJkRHJHalBLZzBiZWc1STdWWFBILVNiaWlNakhnODEzR2RSSElkd3NaOFhNUy11MUp4VG90QnF5cFdLNDJwd3hZSF9LZ1Jnb1cxSlk4Ny03UnV6VEY5X2dBU095enZybkZZdEFn",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787425236.0
+    },
+    {
+        "id": "8eb70d904c",
+        "title_fa": "بیانیه رسمی جان لارسن درباره حادثه تیراندازی پلیس در نیوینگتون",
+        "title_en": "Press Release: John Larson Statement on Newington Officer-Involved Shooting",
+        "summary": [
+            "جان لارسن با صدور بیانیه‌ای خواستار شفاف‌سازی کامل ابعاد تیراندازی نیروهای پلیس شد.",
+            "این بیانیه روی انجام تحقیقات مستقل و پاسخگویی مسئولان شهری تاکید دارد."
+        ],
+        "full_text": "Press Release: John Larson Statement on Newington Officer-Involved Shooting  Quiver Quantitative",
+        "impact": "افزایش فشارهای حقوقی و عمومی برای بررسی عملکرد نیروهای مجری قانون در منطقه.",
+        "tag": "خبر",
+        "urgency": 3,
+        "sentiment": -0.5,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTRpVEdncVVmU1NqY09MMnRDVVY4a09CUUF3WmlrTkZWWkhuU1VGNDZmc3UtZGRLT0pHY0NPbVFwWUdQeVE5azFScWJBd3c2US1WMWppbEF3eDZWN3JLUDgwVmxTSEhzME41Vm1sWE56TzhHeTF5UjRiU3ZlS2pjbEFfQ0ZkUXFBRnNOLVdUNTYwUmdFT3hESldKLWFNVUpnSWFHUXFOel9HekJMT29N?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTRpVEdncVVmU1NqY09MMnRDVVY4a09CUUF3WmlrTkZWWkhuU1VGNDZmc3UtZGRLT0pHY0NPbVFwWUdQeVE5azFScWJBd3c2US1WMWppbEF3eDZWN3JLUDgwVmxTSEhzME41Vm1sWE56TzhHeTF5UjRiU3ZlS2pjbEFfQ0ZkUXFBRnNOLVdUNTYwUmdFT3hESldKLWFNVUpnSWFHUXFOel9HekJMT29N",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787422800.0
+    },
+    {
         "id": "6ca7e33e84",
         "title_fa": "پلتفرم جدید MillworkSuite زمان طراحی مهندسی CAD را نصف می‌کند",
         "title_en": "MillworkSuite Launches AI Estimating and Direct-to-CAD Platform That Cuts Drafting Time in Half",
