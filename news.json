@@ -1,5 +1,50 @@
 [
     {
+        "id": "6bcccb5313",
+        "title_fa": "توسعه پلتفرم هوشمند سبک زندگی مذهبی توسط مدیر مایکروسافت",
+        "title_en": "Microsoft Exec Launches AI-Powered Jewish Living Platform",
+        "summary": [
+            "یکی از مدیران مایکروسافت پلتفرم جدیدی مبتنی بر هوش مصنوعی برای تسهیل سبک زندگی و امور مذهبی جامعه یهودی راه‌اندازی کرد.",
+            "این اقدام نمونه‌ای از نفوذ مدل‌های هوش مصنوعی به حوزه‌های تخصصی سبک زندگی و آیین‌های مذهبی است."
+        ],
+        "full_text": "Microsoft Exec Launches AI-Powered Jewish Living Platform  Anash.org",
+        "impact": "گسترش کاربرد هوش مصنوعی در حوزه خدمات شخصی‌سازی‌شده و برنامه‌های سبک زندگی مذهبی.",
+        "tag": "هوش مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "Anash.org",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnlfTzdNUWU0YkQydVJvYmpsWEcxMm40VDFMT0paX2J4QjhBOTkxMEdSbTFUeVlSS3B2QXJMdVN4bzM2eWNqSjRzR2QyQlNpYmJzZF9lVklrSXFYSUdsMlQtQjdOVHJ0SjdsajZUYTFlTDFFemFub296d2gzOWc3MFp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnlfTzdNUWU0YkQydVJvYmpsWEcxMm40VDFMT0paX2J4QjhBOTkxMEdSbTFUeVlSS3B2QXJMdVN4bzM2eWNqSjRzR2QyQlNpYmJzZF9lVklrSXFYSUdsMlQtQjdOVHJ0SjdsajZUYTFlTDFFemFub296d2gzOWc3MFp3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787490397.0
+    },
+    {
+        "id": "9638d60457",
+        "title_fa": "آزمون کلیدی تقاضای سرمایه‌گذاری هوش مصنوعی با گزارش مالی انویدیا",
+        "title_en": "The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Test AI Investment Demand",
+        "summary": [
+            "انتشار گزارش درآمد جدید انویدیا و مارول مشخص خواهد کرد که آیا موج سنگین سرمایه‌گذاری وال‌استریت روی سخت‌افزارهای هوش مصنوعی همچنان پایدار است یا خیر.",
+            "هم‌زمان با رویداد اقتصادی جکسون هول، نتایج مالی غول‌های تراشه‌سازی ملاک اصلی سنجش سلامت مالی صنعت هوش مصنوعی خواهد بود.",
+            "هرگونه عملکرد ضعیف‌تر از حد انتظار در این گزارش‌ها می‌تواند نوسانات شدیدی در سهام فناوری ایجاد کند."
+        ],
+        "full_text": "The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Test AI Investment Demand  TradingKey",
+        "impact": "تعیین جهت‌گیری جریان‌های مالی وال‌استریت و میزان پایداری ارزش سهام غول‌های تراشه‌سازی.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxjSEhjZzlRM0p3a2FlVmlpZWRhWGZnUzRFRFJLMnVQQ0thTjIwNmpBMHltWjFCVW44WjA3OC1TclVPci1pYzMyLXgtdFRiNG1wOEF0cjF2RGlKRVgzUkZ1MTRpYjNBZ3FERDBCMlZSLWFCYTZvMDBIRGtVUmRfR3dDaEx2WXZiOHd6ejczUElpUW5wUE4yUlBqdTdCN0tQTndVMDlXUjBQNzJxUzJWUnFaYi12d1F6QXZJbnB0QVVfdEJqNXhMR0huYzYtVjN1UTBiQTJQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxjSEhjZzlRM0p3a2FlVmlpZWRhWGZnUzRFRFJLMnVQQ0thTjIwNmpBMHltWjFCVW44WjA3OC1TclVPci1pYzMyLXgtdFRiNG1wOEF0cjF2RGlKRVgzUkZ1MTRpYjNBZ3FERDBCMlZSLWFCYTZvMDBIRGtVUmRfR3dDaEx2WXZiOHd6ejczUElpUW5wUE4yUlBqdTdCN0tQTndVMDlXUjBQNzJxUzJWUnFaYi12d1F6QXZJbnB0QVVfdEJqNXhMR0huYzYtVjN1UTBiQTJQZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787486672.0
+    },
+    {
         "id": "c1971e85f1",
         "title_fa": "نفوذ چراغ‌خاموش هوش مصنوعی به زندگی روزمره مردم در چین",
         "title_en": "China’s internet army is quietly embedding AI into everyday lives",
@@ -20,6 +65,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787482806.0
+    },
+    {
+        "id": "729fb1a436",
+        "title_fa": "ورود هوش مصنوعی صنعتی به مرحله اتوماسیون مبتنی بر ایجنت‌ها",
+        "title_en": "Augury’s first appearance in Gartner’s APM Market Guide signals that plant AI is moving toward agent-led automation",
+        "summary": [
+            "حضور شرکت Augury در راهنمای بازار گارتنر، از تغییر مسیر هوش مصنوعی کارخانه‌ای از پایش ساده به اتوماسیون خودکار با ایجنت‌ها خبر می‌دهد.",
+            "ایجنت‌های هوشمند صنعتی اکنون علاوه بر پیش‌بینی خرابی‌ها، تصمیم‌گیری مستمر برای بهینه‌سازی خطوط تولید را بر عهده می‌گیرند.",
+            "این تغییر نشان‌دهنده بلوغ ابزارهای خودمختار در محیط‌های پیچیده صنعتی است."
+        ],
+        "full_text": "Augury’s first appearance in Gartner’s APM Market Guide signals that plant AI is moving toward agent-led automation  MarketScale",
+        "impact": "تسریع در هوشمندسازی کامل خطوط تولید و کاهش توقف‌های ناخواسته در کارخانه‌ها.",
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "MarketScale",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFBmSDVvcDRZVmxWLUZldEtrVUN3V29jbUdrT1ltelRjeHNyYUpYNGNuazVmY19NN2w5YjY1S05QdHVQa2hVZ2pnYVlLSmw4MXZ0WThlYUpYbUIwRHdWZGtoN0dTdWhXMnBUc1JEVnRYUzdnRlNRelhLT19wVkJFNzA2OW1vcVRwcndVblJqRHZVaTgwOF9KbXFQS1FIUWloeUpIeWhzYXpuMUNCNHRiRVh6R3h2Z2xwRkR3LU5UMjViUk0wQzRtdHM4bXlSaWFacG53Um9WR0ptZ0lHa1JEUk9mU0pwVVE1cTBrbE9KM2xfZmpKSThRcnlkcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFBmSDVvcDRZVmxWLUZldEtrVUN3V29jbUdrT1ltelRjeHNyYUpYNGNuazVmY19NN2w5YjY1S05QdHVQa2hVZ2pnYVlLSmw4MXZ0WThlYUpYbUIwRHdWZGtoN0dTdWhXMnBUc1JEVnRYUzdnRlNRelhLT19wVkJFNzA2OW1vcVRwcndVblJqRHZVaTgwOF9KbXFQS1FIUWloeUpIeWhzYXpuMUNCNHRiRVh6R3h2Z2xwRkR3LU5UMjViUk0wQzRtdHM4bXlSaWFacG53Um9WR0ptZ0lHa1JEUk9mU0pwVVE1cTBrbE9KM2xfZmpKSThRcnlkcw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787482525.0
     },
     {
         "id": "45bcdf9d5b",
