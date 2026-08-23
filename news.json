@@ -1,5 +1,27 @@
 [
     {
+        "id": "51b3c8e1b0",
+        "title_fa": "اجرای طرح مناطق ممنوعه برای مجرمان از پاییز امسال",
+        "title_en": "Restriction zone scheme for offenders to start in October",
+        "summary": [
+            "این طرح نظارتی جدید از ماه اکتبر با هدف کنترل تردد مجرمان سابقه‌دار آغاز می‌شود.",
+            "تمرکز اصلی برنامه بر استفاده از ابزارهای ردیابی برای کاهش وقوع جرایم مجدد است."
+        ],
+        "full_text": "Restriction zone scheme for offenders to start in October  BBC",
+        "impact": "افزایش نظارت‌های شهری و کاهش احتمال تکرار جرم در مناطق حساس.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oVWpFSnNPdTl1Sng1YllKclRSdjFmZFhLek5JbWN6Ym9NcWI2VFBVVXNrb0xrMk9LY1FzMXpWUm5pam9FcHFnMDhMLWFJdkdxVWcyMW45Uy1Qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oVWpFSnNPdTl1Sng1YllKclRSdjFmZFhLek5JbWN6Ym9NcWI2VFBVVXNrb0xrMk9LY1FzMXpWUm5pam9FcHFnMDhMLWFJdkdxVWcyMW45Uy1Qdw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787452623.0
+    },
+    {
         "id": "8db22f1af2",
         "title_fa": "مقایسه ColorOS 17 و One UI 9؛ نبرد هوش مصنوعی و شارژدهی",
         "title_en": "ColorOS 17 vs One UI 9: AI, Design, Battery and Features Compared",
@@ -20,6 +42,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787448798.0
+    },
+    {
+        "id": "6c73d78670",
+        "title_fa": "ارزیابی ارزش‌گذاری اسپیس‌ایکس پس از قرارداد پرتاب جدید",
+        "title_en": "Is Space Exploration Technologies (SPCX) Overvalued Following Its VinSpace Launch Deal?",
+        "summary": [
+            "امضای قرارداد جدید با VinSpace موج تازه‌ای از بحث‌ها را درباره قیمت واقعی سهام این شرکت فضایی راه انداخته است.",
+            "تحلیل‌گران بازار درباره احتمال رشد هیجانی و فراتر از انتظار ارزش بازار اسپیس‌ایکس هشدار می‌دهند."
+        ],
+        "full_text": "Is Space Exploration Technologies (SPCX) Overvalued Following Its VinSpace Launch Deal?  simplywall.st",
+        "impact": "احتیاط بیشتر سرمایه‌گذاران در ورود به معاملات سهام صنایع فضایی.",
+        "tag": "هوافضا",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFd9IB5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFd9IB5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFdw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787445082.0
     },
     {
         "id": "b3f5bf9eaf",
