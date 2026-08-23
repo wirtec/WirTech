@@ -1,5 +1,27 @@
 [
     {
+        "id": "3bf4155fb0",
+        "title_fa": "تحلیل گزارش مالی سه‌ماهه دوم شرکت داده‌محور اینوداتا",
+        "title_en": "Innodata Stock (INOD) Opinions on Q2 Earnings Release",
+        "summary": [
+            "انتشار گزارش درآمدی سه‌ماهه دوم شرکت Innodata توجه تحلیلگران بازار سرمایه را به خدمات داده AI جلب کرد.",
+            "رشد تقاضا برای برچسب‌گذاری و آماده‌سازی داده‌های آموزش هوش مصنوعی، فاکتور کلیدی در صورت‌های مالی این شرکت است."
+        ],
+        "full_text": "Innodata Stock (INOD) Opinions on Q2 Earnings Release  Quiver Quantitative",
+        "impact": "ارزیابی مثبت بازارهای مالی از سودآوری شرکت‌های زیرساختی و داده‌ای هوش مصنوعی.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODE0bTExZUNVZ1VzQnlfZnhHbHBNS0FPQ3dJZDNrZkhyQ01UVGtZTlZ4WTBfd0QzTU5MN0tQMUZyZVJXcXRsclktOHlFSXlDNE1pQUY0YmF6a0lnM2JWWm9vSHhLclJMbGpkUmladl9jY1VvZnNqcnZybUlsM2ZIaEpVcEJFaWZhYUtSdS1TZUl5dnM5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODE0bTExZUNVZ1VzQnlfZnhHbHBNS0FPQ3dJZDNrZkhyQ01UVGtZTlZ4WTBfd0QzTU5MN0tQMUZyZVJXcXRsclktOHlFSXlDNE1pQUY0YmF6a0lnM2JWWm9vSHhLclJMbGpkUmladl9jY1VvZnNqcnZybUlsM2ZIaEpVcEJFaWZhYUtSdS1TZUl5dnM5",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787506380.0
+    },
+    {
         "id": "c7fdd5ae6f",
         "title_fa": "افت قیمت سهام غول‌های حافظه با ترس از حباب هوش مصنوعی",
         "title_en": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain",
@@ -20,6 +42,51 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787506292.0
+    },
+    {
+        "id": "a65591a860",
+        "title_fa": "۶۳ درصد کتاب‌های مذهبی آمازون احتمالاً ساخت هوش مصنوعی هستند",
+        "title_en": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+        "summary": [
+            "یک پژوهش جدید نشان می‌دهد بخش بزرگی از کتاب‌های تازه منتشرشده در حوزه مذهبی آمازون توسط مدل‌های مولد نوشته شده‌اند.",
+            "تولید انبوه محتوای کم‌کیفیت (AI Slop) و الگوی کسب درآمد سریع، فروشگاه آمازون را با بحران اعتبار مواجه کرده است.",
+            "نبود ابزارهای دقیق سنجش اصالت، تشخیص کتاب‌های واقعی از نسخه‌های تولیدشده با AI را سخت کرده است."
+        ],
+        "full_text": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds  Decrypt",
+        "impact": "تخریب اعتماد خریداران در فروشگاه‌های کتاب دیجیتال و احتمال تغییر سیاست‌های انتشار آمازون.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Decrypt",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbERENlZqajJSUk14WjM5MHIyRGVERFdwTU5JUEtmalVJVGlpb24tVmp4S0kxc25zVnIyUW1FYk81T0xDZzE3OFpHdENubDlyU1BYRDZKcGdmOVA4UDRGdDIzMHF2eFVvc3BVYkRiNWdLY0XSAXtBVV95cUxPNHI1ZFZScV9pRjRTT3dUek1YcjZybERjWHdOR0VtNDFOSGNWaEJmaDd4dGdsWUNTczk3Rjhhb2JaSnhfcTZ1NkFMQTRmVjN5VjhQV0NHMGQzUmpCbWhZeWtBNzg3ZGstQzFWX0RUR2dMUnY0OGNwNzBBWnM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbERENlZqajJSUk14WjM5MHIyRGVERFdwTU5JUEtmalVJVGlpb24tVmp4S0kxc25zVnIyUW1FYk81T0xDZzE3OFpHdENubDlyU1BYRDZKcGdmOVA4UDRGdDIzMHF2eFVvc3BVYkRiNWdLY0XSAXtBVV95cUxPNHI1ZFZScV9pRjRTT3dUek1YcjZybERjWHdOR0VtNDFOSGNWaEJmaDd4dGdsWUNTczk3Rjhhb2JaSnhfcTZ1NkFMQTRmVjN5VjhQV0NHMGQzUmpCbWhZeWtBNzg3ZGstQzFWX0RUR2dMUnY0OGNwNzBBWnM",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787502664.0
+    },
+    {
+        "id": "e8cb529644",
+        "title_fa": "آیا در مسیر یک هیروشیمای ناشی از هوش مصنوعی هستیم؟",
+        "title_en": "Are we heading for an AI Hiroshima?",
+        "summary": [
+            "تیموتی گارتون اش در یادداشتی تحلیلی، سرعت بالای توسعه AI بدون چارچوب ایمنی را به ریسک‌های عصر هسته‌ای تشبیه کرده است.",
+            "هشدار اصلی بر عدم کنترل بر روی مدل‌های بسیار پیشرفته و پیامدهای غیرقابل جبران احتمالی تمرکز دارد."
+        ],
+        "full_text": "Are we heading for an AI Hiroshima?  Timothy Garton Ash | Substack",
+        "impact": "افزایش فشارهای سیاسی و رسانه‌ای برای ایجاد رگولاتوری‌های سخت‌گیرانه بین‌المللی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Timothy Garton Ash | Substack",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10TW05WGJGTXRoNzB0V3daeW1pY1A2OFh3S2tjYy1SbXVqUHFINW1RTEE2UTY0WlhmSFJOT3VtZFFtcUNRQU5KZ1lTUVNCbG5waHhZZmNWS3Z0TjlVcWtVMEx6aWhhb082Nlpza1JQMVdqYm1UcUlvQ1VFdXVMa0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10TW05WGJGTXRoNzB0V3daeW1pY1A2OFh3S2tjYy1SbXVqUHFINW1RTEE2UTY0WlhmSFJOT3VtZFFtcUNRQU5KZ1lTUVNCbG5waHhZZmNWS3Z0TjlVcWtVMEx6aWhhb082Nlpza1JQMVdqYm1UcUlvQ1VFdXVMa0k",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787502071.0
     },
     {
         "id": "41805d0ed0",
