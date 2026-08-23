@@ -1,5 +1,49 @@
 [
     {
+        "id": "41805d0ed0",
+        "title_fa": "سایبرکپ‌های تسلا با نسخه ۱۵ FSD آماده ورود به آستین می‌شوند",
+        "title_en": "Tesla Cybercabs spotted AI-learning multi-lane stop signs at Giga Texas (FSD v15) ahead of Austin launch",
+        "summary": [
+            "تاکسی‌های بدون راننده سایبرکپ تسلا در کارخانه گیگاتگزاس مشغول یادگیری و تمرین عبور از تقاطع‌های پیچیده با نسخه ۱۵ سیستم خودرانی کامل بودند.",
+            "این تست‌های میدانی نشان می‌دهد تسلا به راه‌اندازی رسمی سرویس تاکسی خودران خود در شهر آستین بسیار نزدیک شده است."
+        ],
+        "full_text": "Tesla Cybercabs spotted AI-learning multi-lane stop signs at Giga Texas (FSD v15) ahead of Austin launch  Tesla Oracle",
+        "impact": "گامی کلیدی برای تجاری‌سازی تاکسی‌های روباتیک تسلا و ورود به رقابت مستقیم با وایمو.",
+        "tag": "خودروی‌خودران",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Tesla Oracle",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZEZRa3MwejNLUXVoVE9SNzJ6V1ZfS1dKVGZrZFlvNWE0a05feW1FeUxfem90RGJIdmJyUmY4bElmUmJ0V1kyd3Q0dENfUjRnaUpKcDZObmFFVDAxb0lMaF9MTkcwM0FtY2xDSV9CX2gyM2E5ZnRTejl0dkZnMXR2dGdkaUgzZ21NVlNyb3hLekFhRDlKSDg0bFRNM2t0aDJkbHdBb3hQV1ZzTVpYLUoxNXRDTngwRjlYOE5obDdGZ25iUnBoMDhJQll3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZEZRa3MwejNLUXVoVE9SNzJ6V1ZfS1dKVGZrZFlvNWE0a05feW1FeUxfem90RGJIdmJyUmY4bElmUmJ0V1kyd3Q0dENfUjRnaUpKcDZObmFFVDAxb0lMaF9MTkcwM0FtY2xDSV9CX2gyM2E5ZnRTejl0dkZnMXR2dGdkaUgzZ21NVlNyb3hLekFhRDlKSDg0bFRNM2t0aDJkbHdBb3hQV1ZzTVpYLUoxNXRDTngwRjlYOE5obDdGZ25iUnBoMDhJQll3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787501331.0
+    },
+    {
+        "id": "14b0e0c8ec",
+        "title_fa": "ورود استارتاپ Humaans به بازار پردازش حقوق و دستمزد آمریکا",
+        "title_en": "Humaans Expands Into US Payroll As It Accelerates US Growth",
+        "summary": [
+            "استارتاپ مدیریت منابع انسانی Humaans برای تسریع رشد خود در بازار آمریکا، سیستم پرداخت حقوق را به خدماتش اضافه کرد.",
+            "این اقدام رقابت در حوزه نرم‌افزارهای ابری منابع انسانی را در بازار آمریکا داغ‌تر می‌کند."
+        ],
+        "full_text": "Humaans Expands Into US Payroll As It Accelerates US Growth  markets.businessinsider.com",
+        "impact": "افزایش فشار رقابتی بر پلتفرم‌های قدیمی مدیریت منابع انسانی و پرداخت حقوق در آمریکا.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzRrRjk2WUoyYVJTUmU3YTBrNjI3djR4d1ZjSjFSSEpWRnA3SGVTbTV6eDRycVdoNTN3YnlKeF9QTDdHcTBzMXRvRGdhY0pyS0k1ZlJPdldQRy0xMkNjZ3BKeE43WFZ0eFFDb1hXTFlEdFVaMWZzTWhRR2twaDQxa19aWEJTdVVNbllQV3U1RFI2UjVvV0VDN2NYdXJUVTRzTGxaYV9BYm5fRUlDTGQzbURZejBEOWJKb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzRrRjk2WUoyYVJTUmU3YTBrNjI3djR4d1ZjSjFSSEpWRnA3SGVTbTV6eDRycVdoNTN3YnlKeF9QTDdHcTBzMXRvRGdhY0pyS0k1ZlJPdldQRy0xMkNjZ3BKeE43WFZ0eFFDb1hXTFlEdFVaMWZzTWhRR2twaDQxa19aWEJTdVVNbllQV3U1RFI2UjVvV0VDN2NYdXJUVTRzTGxaYV9BYm5fRUlDTGQzbURZejBEOWJKb1E",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787499749.0
+    },
+    {
         "id": "f1fbb419e1",
         "title_fa": "ورود رسمی گوشی‌های ماژولار و قابل تعویض قطعه به بازار آمریکا",
         "title_en": "USA finally gets the modular smartphone owners can repair themselves",
@@ -110,6 +154,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787490397.0
+    },
+    {
+        "id": "c51a4e7e8e",
+        "title_fa": "خریدهای آنلاین مستقیماً وارد گوگل جمینای شد؛ گپ پیشگام خرید با AI",
+        "title_en": "Gap Becomes First Retailer To Launch AI Checkout In Google Gemini 03/24/2026",
+        "summary": [
+            "برند پوشاک Gap به اولین خرده‌فروشی تبدیل شد که امکان انتخاب و پرداخت مستقیم کالا را درون چت‌بات گوگل جمینای فعال کرده است.",
+            "این همکاری گام بزرگی برای تبدیل چت‌بات‌های هوش مصنوعی به پلتفرم‌های مستقیم فروش و تجارت الکترونیک محسوب می‌شود."
+        ],
+        "full_text": "Gap Becomes First Retailer To Launch AI Checkout In Google Gemini 03/24/2026  MediaPost",
+        "impact": "سرآغاز عصر جدیدی در تجارت الکترونیک که در آن فرآیند خرید مستقیماً داخل محیط چت با هوش مصنوعی انجام می‌شود.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazJCbFJUYkxmdjdfeU9WZzN0eTFhLXZadV83Z0R5QXI4cVpGOFU2aVBua3NKMkZvaEtFMDQ3cl9Wb3FQZEFqUTJ3Wk4yM1lmd0NmY0U4YXo3QjJJVE15WW1vN2NaRGtzdU5jVVpLUTI3eHlBVEIxM2F4cVBWQkVONEdNOGQtcndSVE9qNHg1NFZVeTFBRXoyYTk5YWViRnZPTm1zY25RSmkwN2tqUkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazJCbFJUYkxmdjdfeU9WZzN0eTFhLXZadV83Z0R5QXI4cVpGOFU2aVBua3NKMkZvaEtFMDQ3cl9Wb3FQZEFqUTJ3Wk4yM1lmd0NmY0U4YXo3QjJJVE15WW1vN2NaRGtzdU5jVVpLUTI3eHlBVEIxM2F4cVBWQkVONEdNOGQtcndSVE9qNHg1NFZVeTFBRXoyYTk5YWViRnZPTm1zY25RSmkwN2tqUkE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787489693.0
     },
     {
         "id": "9638d60457",
@@ -310,6 +376,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787467286.0
+    },
+    {
+        "id": "b6ccfd8ad6",
+        "title_fa": "کلود با عبور از چت‌جی‌پی‌تی و جمینای، محبوب‌ترین هوش مصنوعی شد",
+        "title_en": "نتایج نظرسنجی جدید: Claude بالاتر از ChatGPT و جمینای رضایت کاربران را جلب کرد",
+        "summary": [
+            "نظرسنجی جدید موسسه یوگاو نشان می‌دهد مدل کلود آنتروپیک بالاترین میزان رضایت کاربران را کسب کرده و چت‌جی‌پی‌تی و جمینای را کنار زده است.",
+            "دستیارهای صوتی قدیمی مثل سیری اپل و مدل گراک ایلان ماسک در پایین‌ترین سطح رضایت مخاطبان قرار گرفتند.",
+            "خروجی‌های دقیق‌تر و کاربردی‌تر کلود باعث شده حتی کاربران قدیمی که دیگر از آن استفاده نمی‌کنند، دیدگاه بسیار مثبتی به آن داشته باشند."
+        ],
+        "full_text": "نظرسنجی جدید مؤسسه YouGov دیدگاه کاربران را نسبت به ابزارها و دستیارهای هوش مصنوعی مشخص کرده است. نتایج این ارزیابی نشان میدهد که Claude با کسب بالاترین امتیاز رضایت، در صدر جدول قرار گرفته است. این ابزار که توسط شرکت آنتروپیک توسعه یافته، موفق شده است ChatGPT متعلق به OpenAI و جمینای گوگل را شکست دهد؛ اما در این میان وضعیت ابزارهایی که در انتهای جدول قرار دارند نیز جالبتوجه است. درحالیکه مدلهای کوپایلوت مایکروسافت و الکسا بخشهای میانی جدول را به خود اختصاص دادهاند، جایگاه دستیار صوتی سیری اپل و مدل Grok متعلق به «ایلان ماسک» تعجببرانگیزتر است و پاسخدهندگان اعلام کردهاند که این ابزارها نتوانستهاند رضایت آنها را جلب کنند. نکته قابلتوجه دیگر این است که Claude حتی در میان کاربرانی که دیگر از آن استفاده نمیکنند نیز از جایگاه بسیار مثبتی برخوردار است. دادههای این نظرسنجی در یک بازه زمانی ۵ ماهه و در قالب دو بخش «۱۰ دستیار هوش مصنوعی برتر براساس رضایت کاربران فعلی و سابق» و «میزان رضایت از دستیارهای هوش مصنوعی: مقایسه کاربران فعلی و سابق» جمعآوری شده است. براساس جدول ۱۰ دستیار هوش مصنوعی برتر، Claude با امتیاز ۵۶.۲ به شکل محسوسی از جمینای با امتیاز ۴۶.۵ و ChatGPT با امتیاز ۴۶.۰ پیشی گرفته است. الکسا با امتیاز ۴۲.۶ و کوپایلوت با امتیاز ۳۷.۲ در میانه جدول جای گرفتهاند که این ارقام با ابعاد بزرگ شرکتهای پشت آنها چندان همخوانی ندارد؛ درحالیکه گراک و سیری نیز در رتبههای پایینی قرار دارند. با وجود این نتایج، مشخص نیست که سهولت دسترسی به ابزارهایی مثل سیری یا الکسا در مقایسه با ابزارهایی مانند ChatGPT یا Claude که باید به طور اختصاصی سراغ آنها رفت، چه تأثیری بر این معیار رضایت گذاشته است. مقایسه رضایت کاربران فعلی و سابق از ابزارهای هوش مصنوعی دادههای YouGov همچنین تفاوت سطح رضایت میان کاربران فعلی و سابق را مورد بررسی قرار داده است. این آمار بار دیگر نشان میدهد که Claude خروجیهای کاربردیتری ارائه میدهد؛ چرا که این ابزار بالاترین امتیاز رضایت را در میان کاربران سابق و دومین امتیاز بالا را در میان کاربران فعلی به دست آورده است. طبق گزارش منتشرشده، بیشترین اختلاف میان کاربران فعلی و سابق مربوط به ChatGPT، دیپسیک و گراک است. میزان رضایت از ChatGPT در میان کاربران فعلی ۶۳.۷ امتیاز، دیپ سیک ۶۲.۵ امتیاز و گراک ۶۲.۴ امتیاز بالاتر از کاربران سابق گزارش شده است. در این میان، گراک امتیاز بسیار پایینی معادل منفی ۴.۷ در بین کاربران سابق خود به ثبت رسانده است. این دادهها از طریق سیستم ردیابی BrandIndex و با پرسش از کاربران فعال بریتانیا در بازه زمانی ۱ مارس ۲۰۲۶ تا ۳۱ ژوئیه ۲۰۲۶ به دست آمده است.",
+        "impact": "برتری کیفی آنتروپیک در پاسخ‌دهی کاربردی، چالش جدیدی برای سهم بازار OpenAI و گوگل ایجاد می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/claude-beats-chatgpt-gemini-ai-satisfaction-survey",
+        "clean_url": "https://digiato.com/artificial-intelligence/claude-beats-chatgpt-gemini-ai-satisfaction-survey",
+        "image": "http://www.bing.com/th?id=ONUT.N384BCo1Xp6UPnuQrMyV8w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.N384BCo1Xp6UPnuQrMyV8w&pid=News",
+            "https://static.digiato.com/digiato/2026/08/Claude-2.jpg",
+            "https://static.digiato.com/digiato/2026/08/Claude-2-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/AI-assistants-Satisfaction.jpg.webp"
+        ],
+        "timestamp": 1787464740.0
     },
     {
         "id": "53645d2be1",
