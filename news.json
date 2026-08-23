@@ -1,5 +1,27 @@
 [
     {
+        "id": "45bcdf9d5b",
+        "title_fa": "تحولات کریپتو در آسیا: مجوز ۴ ساله ژاپن و بازار جدید بورس کره",
+        "title_en": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News",
+        "summary": [
+            "بورس اوراق بهادار کره (KRX) در ماه نوامبر بازار جدیدی برای اوراق بهادار مبتنی بر دارایی‌های دیجیتال راه‌اندازی می‌کند.",
+            "شرکت Laser Digital نخستین مجوز ۴ ساله فعالیت رمزارزی را از نهادهای regulator ژاپن دریافت کرد که گامی مهم در پذیرش نهادی کریپتو است."
+        ],
+        "full_text": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News  Substack",
+        "impact": "افزایش ورود سرمایه نهادی به بازار رمزارز شرق آسیا با شفاف‌تر شدن قوانین.",
+        "tag": "کریپتو",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Substack",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Zc0lZSFN4X29TUC1KNWhIUEVkWnhQc0RjTVdESnVaNmdwcTU1Y1NXcnFrc0lPNmFBakpjU0JVTVZTT0JwNVNiY3ROUk9LWVR2cllLMEpRTUN4S0djQ0s1SkJnMmIwNHNCTTEzSWtQUWczZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Zc0lZSFN4X29TUC1KNWhIUEVkWnhQc0RjTVdESnVaNmdwcTU1Y1NXcnFrc0lPNmFBakpjU0JVTVZTT0JwNVNiY3ROUk9LWVR2cllLMEpRTUN4S0djQ0s1SkJnMmIwNHNCTTEzSWtQUWczZWc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787480834.0
+    },
+    {
         "id": "e6df957849",
         "title_fa": "استقبال کشورهای آسیایی از مدل‌های متن‌باز هوش مصنوعی چین",
         "title_en": "Opinion | Asia is reaching for the open road that Chinese AI offers",
@@ -20,6 +42,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787473806.0
+    },
+    {
+        "id": "047f02167a",
+        "title_fa": "هشدار HTX: ارزش‌گذاری سهام هوش مصنوعی بسیار سریع‌تر از رشد واقعی فناوری است",
+        "title_en": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
+        "summary": [
+            "فناوری هوش مصنوعی هنوز در مراحل اولیه توسعه قرار دارد، اما هزینه‌های سرمایه‌ای و ارزش بازاری شرکت‌ها وارد فاز پایانی چرخه رشد شده است.",
+            "سرمایه‌گذاری‌های سنگین روی سخت‌افزارها ممکن است با نرخ بازگشت سرمایه در کوتاه‌مدت همخوانی نداشته باشد."
+        ],
+        "full_text": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle  PR Newswire",
+        "impact": "احتمال اصلاح قیمت سهام غول‌های فناوری و بازنگری سرمایه‌گذاران در تخصیص بودجه‌های AI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaVNlancxb3lBcHB4LVJiRTh0dDhkVFRXd1laUVItSndTQkRJaVlkLWxKcDFDWXZ2N3JhUmV0b3p2YlFKUk5FcVZvb0RBUXNSeHlkU0tUZTZuSjZDYU14NXVaand2eFhwVHpNVF9RTGhhTDNleGcwY1dhVXNtaERMQWk2MUQ5enR6X0xpU3JVS1RielFnUHNybG5US3ZEV1dZNjBJTFRLQXhXYUZrT2xhSDA5VTNHRHpKY0lDQ2JSUVpwb2xpWk5tTEtYMXptRm1VY2I2R1pTczBFM2tSenN4Mnh3Q1JfMFRNWWlLamxiSm5Gdm5JR0g5bF85cXdCU1k2SjZfYTZQU2NxVFZMWHA1VktRZ0ZkWndJdFFJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaVNlancxb3lBcHB4LVJiRTh0dDhkVFRXd1laUVItSndTQkRJaVlkLWxKcDFDWXZ2N3JhUmV0b3p2YlFKUk5FcVZvb0RBUXNSeHlkU0tUZTZuSjZDYU14NXVaand2eFhwVHpNVF9RTGhhTDNleGcwY1dhVXNtaERMQWk2MUQ5enR6X0xpU3JVS1RielFnUHNybG5US3ZEV1dZNjBJTFRLQXhXYUZrT2xhSDA5VTNHRHpKY0lDQ2JSUVpwb2xpWk5tTEtYMXptRm1VY2I2R1pTczBFM2tSenN4Mnh3Q1JfMFRNWWlLamxiSm5Gdm5JR0g5bF85cXdCU1k2SjZfYTZQU2NxVFZMWHA1VktRZ0ZkWndJdFFJ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787472600.0
     },
     {
         "id": "6e6325833c",
