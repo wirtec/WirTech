@@ -1,5 +1,27 @@
 [
     {
+        "id": "d43c181a3c",
+        "title_fa": "راه‌اندازی میم‌کوین جدید MemeToro با کمک ایجنت‌های هوش مصنوعی",
+        "title_en": "Memecoin Launches Today: How MemeToro Uses AI Agents to Build Fair Launch Ecosystems",
+        "summary": [
+            "پروژه MemeToro با ادعای ایجاد سیستم عرضه عادلانه توکن فعالیت خود را آغاز کرد.",
+            "این پروژه مدعی است از ایجنت‌های هوش مصنوعی برای جلوگیری از دستکاری قیمت و ایجاد برابری شانس میان خریداران بهره می‌برد."
+        ],
+        "full_text": "Memecoin Launches Today: How MemeToro Uses AI Agents to Build Fair Launch Ecosystems  StreetInsider",
+        "impact": "این خبر نشان‌دهنده موج جدید استفاده از نام هوش مصنوعی برای جلب توجه در بازار کریپتو است.",
+        "tag": "کریپتو",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG03dHJmME80WU15b2NIcFJ5MC1rRm9kTmZXb0xUZTBlQ0w5LWJxX1MzdmdsWnA5REVPNEEtSzV4empaZ2RZb3RpZC1Rb1lWX3VDVUttdkc5U1R2emlybHVnZllaM0xIQmFtcnZkRXJvZkJTUEwzTDNQTElsenk0dE5LRkRtUkJ6N3lLLUIzUjBjbXlEQVpfSF9FNHh5eHF2MXk1bkx6UUxlQmM4TE14NG4tMzNkcWRab3labjV4MkZtTkNIdDJuTGVYVkNTRzdiNFlwTmRkb0JjSGY0QWpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG03dHJmME80WU15b2NIcFJ5MC1rRm9kTmZXb0xUZTBlQ0w5LWJxX1MzdmdsWnA5REVPNEEtSzV4empaZ2RZb3RpZC1Rb1lWX3VDVUttdkc5U1R2emlybHVnZllaM0xIQmFtcnZkRXJvZkJTUEwzTDNQTElsenk0dE5LRkRtUkJ6N3lLLUIzUjBjbXlEQVpfSF9FNHh5eHF2MXk1bkx6UUxlQmM4TE14NG4tMzNkcWRab3labjV4MkZtTkNIdDJuTGVYVkNTRzdiNFlwTmRkb0JjSGY0QWpv",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787467286.0
+    },
+    {
         "id": "53645d2be1",
         "title_fa": "ردپای توسعه‌دهندگان چینی در مدل هوش مصنوعی مرموز Ox Alpha",
         "title_en": "Anonymous AI Model Ox Alpha Sparks Global Buzz, Traced to Chinese Developer",
