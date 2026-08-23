@@ -1,5 +1,97 @@
 [
     {
+        "id": "277f2de28b",
+        "title_fa": "سرمایه‌گذاری ۷ میلیارد دلاری انویدیا روی استارتاپ پول‌ساید و گرانی سرورها",
+        "title_en": "Nvidia's Weekend Offensive: A $7 Billion Software Bet Complicates an Already Pivotal Earnings Week",
+        "summary": [
+            "انویدیا ۱ میلیارد دلار روی استارتاپ پول‌ساید سرمایه‌گذاری کرده و ۶ میلیارد دلار دیگر بابت لایسنس فناوری آن پرداخته تا مستقیم با مدل‌های متن‌باز چین مثل DeepSeek رقابت کند.",
+            "بیش از ۱۰۰ مهندس ارشد پول‌ساید به تیم انویدیا می‌پیوندند تا توسعه خانواده مدل‌های هوش مصنوعی Nemotron را سرعت ببخشند.",
+            "هم‌زمان انویدیا قیمت سرورهای پرچمدار ورا روبین و گریس بلک‌ول را به دلیل جهش هزینه حافظه‌ها بیش از ۱۵ درصد گران کرده است."
+        ],
+        "full_text": "The timing could hardly be more pointed. Four days before Nvidia reports quarterly results, the company has chosen to spend its way into a new competitive position rather than merely talk about one. Over the weekend, reports crystallized around a two-part transaction: a $1 billion investment in the AI model startup Poolside—a company now valued at $12 billion—plus an additional $6 billion for a technology license. More than 100 Poolside engineers are set to join Nvidia to work on its in-house Nemotron model family. The Wall Street Journal framed the deal as a direct response to the rise of Chinese open-weight models such as DeepSeek and Kimi K3. The logic is blunt: a chipmaker that dominates hardware but loses the software race eventually cedes the hardware business too. Whether that calculus holds is a question for the coming quarters; what matters this week is that Nvidia has chosen to answer it with a checkbook. A Pattern Emerges: Nvidia as Financier, Not Just Supplier Poolside does not stand alone. The deal follows Nvidia's roughly $20 billion acquisition of Groq, a comparison several reports have already drawn. Add to that a credit backstop of up to $105 billion for OpenAI's 8-gigawatt data center in Ohio, alongside a $1.5 billion direct investment in the facility's operator, SB Energy. Taken together, the three moves sketch a strategy that goes well beyond selling chips: Nvidia is now financing and shaping the entire AI value chain, from model development to the physical infrastructure that powers it. That reading is supported by the company's pricing behavior. Bloomberg reports that Nvidia is raising prices on its AI server platforms—Vera Rubin and Grace Blackwell—by more than 15 percent, effective from early 2026. The stated reason is rising memory chip costs, though Nvidia has not officially confirmed the increase. Customers including Microsoft, Google, and Oracle have already been informed via server manufacturers. The juxtaposition is striking. On one hand, Nvidia is deploying tens of billions across acquisitions, licenses, and infrastructure financing. On the other, it is defending its margins with price increases that its customers appear willing to absorb. That combination—aggressive expansion paired with pricing power—suggests a company operating from strength rather than defensiveness. The Market's Nervous Arithmetic The share price tells a more cautious story in the near term. Nvidia closed Friday at €183.78, down 1.1 percent on the day and 5.6 percent over the week. The distance to the 52-week high of €202.50 now stands at 9.2 percent. The stock sits just above its 50-day moving average of €180.82, a technical signal that the shares are consolidating rather than trending. Context matters here. Year-to-date, Nvidia is still up 15 percent; over twelve months, the gain is 22 percent. The tension between short-term jitters and long-term momentum is exactly what one would expect in the run-up to a quarterly report that carries outsized expectations. The options market is pricing a move of roughly 6 percent after the numbers land on August 26. Analysts expect revenue of $92.07 billion, up from $81.62 billion in the prior quarter. That bar is high enough that even a solid print could underwhelm if the market has already priced in perfection. What the Report Will Actually Reveal The earnings release will be read through a specific lens: whether rising component costs are squeezing margins, or whether demand from hyperscalers and government AI projects remains strong enough to absorb price increases without resistance. The Poolside deal and the OpenAI credit facility add another layer—investors will want to know how these commitments affect the balance sheet and whether they signal a permanent shift in how Nvidia competes. There is also the question of what the weekend's spending spree says about Nvidia's internal confidence. A company that is willing to commit double-digit billions across models, data centers, and chip development days before its own earnings call is not behaving like a management team worried about the numbers. It is behaving like a management team that believes the long-term opportunity dwarfs any single quarter's volatility. The strategic substance visible this weekend may ultimately weigh more heavily for patient investors than any short-term disappointment on August 26. But the operative risk remains real, as the implied volatility suggests. Nvidia has chosen to fight the AI war on every front simultaneously—software, hardware, and infrastructure. The earnings report will show whether the market is willing to fund that ambition at current valuations, or whether it will demand evidence that the spending translates into sustained growth before paying up further. Ad Nvidia Stock: New Analysis - 23 August Fresh Nvidia information released. What's the impact for investors? Our latest independent report examines recent figures and market trends.",
+        "impact": "تسلط هم‌زمان انویدیا بر سخت‌افزار، نرم‌افزار و زیرساخت، قدرت قیمت‌گذاری بی‌رقیبی به این شرکت داده است.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "Ad Hoc News",
+        "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-weekend-offensive-a-7-billion-software-bet-complicates-an/69990733",
+        "clean_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-weekend-offensive-a-7-billion-software-bet-complicates-an/69990733",
+        "image": "https://mdb.ad-hoc-news.de/bild/bild-2773981_1920_1080.webp",
+        "images": [
+            "https://mdb.ad-hoc-news.de/bild/bild-2773981_1920_1080.webp",
+            "https://mdb.ad-hoc-news.de/bild/bild-2773981_1200_0.webp",
+            "https://mdb.ad-hoc-news.de/img/icons/uhr_realtime.jpg",
+            "https://mdb.ad-hoc-news.de/img/icons/uhr_zeitverzoegert.jpg"
+        ],
+        "timestamp": 1787521260.0
+    },
+    {
+        "id": "363d50b552",
+        "title_fa": "رونمایی پروجرس نرم‌افزار از قابلیت‌های هوش مصنوعی و ارزیابی بازار",
+        "title_en": "Progress Software (PRGS) Launches AI Update, Is The Upside Already Priced In?",
+        "summary": [
+            "شرکت Progress Software به‌روزرسانی جدیدی مبتنی بر هوش مصنوعی برای ابزارهای توسعه خود عرضه کرد.",
+            "تحلیل‌گران در حال بررسی این موضوع هستند که آیا ارزش این آپدیت قبلاً در قیمت سهام شرکت اعمال شده یا خیر."
+        ],
+        "full_text": "Progress Software (PRGS) Launches AI Update, Is The Upside Already Priced In?  simplywall.st",
+        "impact": "سنجش میزان تأثیر واقعی ویژگی‌های جدید AI بر ارزش بازاری شرکت‌های نرم‌افزاری سنتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTQ3dlQ3ZW9xN0xXakNiYkZkd21FQ3I1cy1wS253MHUxaWIzeXA1VjZGTDJoNUZRODJJQzQ4dlVuWHN1S3ZyYWVMWVR0blZUYS1iSE5SOGt1YkZsRzl4alBLbDlJc0U2c25FYVAzSzZDaDJfZlYwMnNNVHFpVWYydnczcTA1Yk8zVHJNbTQwaV9Lc1I1cGtBd1Jpb2hUbDIxd3NnUnZuT2hzaEFwN0p2VURnOGxPVW1PNldyWXpqSkFqYnZGemhyZjdUckhyZVlVMkHSAdcBQVVfeXFMTnhkeE5rWGQyc1ZLSWRxMVl4LUNhblB1OUo5STcxQ280aEZnZzUySWFTcVpTZmloZE1NMEFtTDZWeGVJd09jd2pxZWN3ZDFLWG9UVVJXWDl3NktJVTJZbXR3S3ZDRURMOWhfS0Utd0tnRnNMRV9oTVBhQlF3X1VmT0JzVEhhVjVPNWpOMXloekc2b01TRmJHblhYRlBkNjJldXNXUnZId2EwMDhabUVQalBMZTlWaThubkxreWNhbWt5ZG56elB2Z294dGRBblVDdDhHcUIteUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTQ3dlQ3ZW9xN0xXakNiYkZkd21FQ3I1cy1wS253MHUxaWIzeXA1VjZGTDJoNUZRODJJQzQ4dlVuWHN1S3ZyYWVMWVR0blZUYS1iSE5SOGt1YkZsRzl4alBLbDlJc0U2c25FYVAzSzZDaDJfZlYwMnNNVHFpVWYydnczcTA1Yk8zVHJNbTQwaV9Lc1I1cGtBd1Jpb2hUbDIxd3NnUnZuT2hzaEFwN0p2VURnOGxPVW1PNldyWXpqSkFqYnZGemhyZjdUckhyZVlVMkHSAdcBQVVfeXFMTnhkeE5rWGQyc1ZLSWRxMVl4LUNhblB1OUo5STcxQ280aEZnZzUySWFTcVpTZmloZE1NMEFtTDZWeGVJd09jd2pxZWN3ZDFLWG9UVVJXWDl3NktJVTJZbXR3S3ZDRURMOWhfS0Utd0tnRnNMRV9oTVBhQlF3X1VmT0JzVEhhVjVPNWpOMXloekc2b01TRmJHblhYRlBkNjJldXNXUnZId2EwMDhabUVQalBMZTlWaThubkxreWNhbWt5ZG56elB2Z294dGRBblVDdDhHcUIteUk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787520165.0
+    },
+    {
+        "id": "b2058cb749",
+        "title_fa": "گسترش خدمات مراقبت درمانی اولیه نوانت در دو ایالت آمریکا",
+        "title_en": "Novant introduces new primary care offerings in two states",
+        "summary": [
+            "مجموعه درمانی Novant مراکز جدید مراقبت‌های اولیه را در دو ایالت راه‌اندازی کرد.",
+            "تمرکز اصلی این طرح بر دسترسی سریع‌تر بیماران محلی به خدمات پزشکی است."
+        ],
+        "full_text": "Novant introduces new primary care offerings in two states  Bluffton Today",
+        "impact": "توسعه زیرساخت‌های درمانی منطقه‌ای بدون تغییر مستقیم در حوزه فناوری.",
+        "tag": "عمومی",
+        "urgency": 2,
+        "sentiment": 0.4,
+        "source": "Bluffton Today",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDdFc0pVQUR0VmtqZFZtc3BWUTg4WVNVN3ZnQllHaXlyYXlXYUFMTG1rajQ0Q2FoQXF1Mk9YZkNZNE5QdUpPWHdPUG05YXc2ZzFSZnlhd1I4LTNOX1JMM01UVVpnT19kaWFNZkNnRmdyNDVMWlF6ZkJLa21rOER4X0I0MTFvYU1ZbW5YX1BRNzBaNnVWa2taRUt3ck0yeUxVZkFDaEJnWmtQeXk2NVBfNG1mb00zWEJUc1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDdFc0pVQUR0VmtqZFZtc3BWUTg4WVNVN3ZnQllHaXlyYXlXYUFMTG1rajQ0Q2FoQXF1Mk9YZkNZNE5QdUpPWHdPUG05YXc2ZzFSZnlhd1I4LTNOX1JMM01UVVpnT19kaWFNZkNnRmdyNDVMWlF6ZkJLa21rOER4X0I0MTFvYU1ZbW5YX1BRNzBaNnVWa2taRUt3ck0yeUxVZkFDaEJnWmtQeXk2NVBfNG1mb00zWEJUc1E",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787518800.0
+    },
+    {
+        "id": "8c8681a610",
+        "title_fa": "برگزاری بوت‌کمپ رایگان هوش مصنوعی بنیاد مارک کیوبن در فورت وین",
+        "title_en": "Fort Wayne campus to host Mark Cuban Foundation's AI Bootcamp",
+        "summary": [
+            "بنیاد مارک کیوبن دوره آموزشی فشرده هوش مصنوعی را برای دانش‌آموزان در پردیس فورت وین برگزار می‌کند.",
+            "هدف این برنامه آموزش کاربردی مهارت‌های هوش مصنوعی به جوانان برای ورود به بازار کار آینده است."
+        ],
+        "full_text": "Fort Wayne campus to host Mark Cuban Foundation's AI Bootcamp  The Journal Gazette",
+        "impact": "تربیت نیروی متخصص از سنین پایین و افزایش عدالت آموزشی در حوزه فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.7,
+        "source": "The Journal Gazette",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcmJLQVlMR0txdERRc2JCU19ZZi14VXdjMzNnby1hWTB0X2Z2VkdMNjZLMlJVeUNjWHcwajFJeVRHSFVPelpQSFVEUmhaRko2anpKVjJmaDdpd2psUVlBY3F1WmhBYlB3TkVrVWdCZVRUZDAwTzl5VGNoM3NjWFM0V0gweTFOZ1pLdDRsMnItMFlRTFAzWWxzQTI4VTBSN1VsWEt2TndWRXE3R0YtR1Z4bXhaZHpGYVhEUVlrdi0tZTJPSWRkeTF6T0hLUFM3UlNkZzBaRjNNS0FNV1BNLXowYmR5eVMweXJaQ2FN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcmJLQVlMR0txdERRc2JCU19ZZi14VXdjMzNnby1hWTB0X2Z2VkdMNjZLMlJVeUNjWHcwajFJeVRHSFVPelpQSFVEUmhaRko2anpKVjJmaDdpd2psUVlBY3F1WmhBYlB3TkVrVWdCZVRUZDAwTzl5VGNoM3NjWFM0V0gweTFOZ1pLdDRsMnItMFlRTFAzWWxzQTI4VTBSN1VsWEt2TndWRXE3R0YtR1Z4bXhaZHpGYVhEUVlrdi0tZTJPSWRkeTF6T0hLUFM3UlNkZzBaRjNNS0FNV1BNLXowYmR5eVMweXJaQ2FN",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787518800.0
+    },
+    {
         "id": "91ac40cf07",
         "title_fa": "شناسایی قربانیان ۱۱ سپتامبر پس از ۲۵ سال با فناوری‌های جدید ژنتیک",
         "title_en": "'Breakthrough' genealogy tests can identify 9/11 victims 25 years later",
@@ -42,6 +134,50 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787516340.0
+    },
+    {
+        "id": "a8c421a96b",
+        "title_fa": "فرهنگ واژگان انتقادی هوش مصنوعی به قلم اورن اتزیونی",
+        "title_en": "Etzioni on AI: An Opinionated Glossary of AI",
+        "summary": [
+            "اورن اتزیونی راهنمای تحلیلی و متفاوتی از مفاهیم کلیدی هوش مصنوعی منتشر کرد.",
+            "این اصطلاح‌نامه به جداسازی ادعاهای تبلیغاتی شرکت‌ها از واقعیت‌های فنی ابزارهای AI کمک می‌کند."
+        ],
+        "full_text": "Etzioni on AI: An Opinionated Glossary of AI  GeekWire",
+        "impact": "ارتقای شفافیت مفهومی برای فعالان صنعت و علاقه‌مندان به درک عمیق تکنولوژی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "GeekWire",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmcVZ2UDdPX3VCSXpiX3VIUEp5QmV2RklFbkhTNnVKaUY5VXFFUjczUEUxYjdhVWZVWG84UzFPd1FEWWU2a1FYLU5UX0FTcnF6Z1NSQlByYlRoNzdZUlMzTFc3ZG1HMjhkUHUzb2V4V3dsVXkxRzBScDhCMGtwZ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmcVZ2UDdPX3VCSXpiX3VIUEp5QmV2RklFbkhTNnVKaUY5VXFFUjczUEUxYjdhVWZVWG84UzFPd1FEWWU2a1FYLU5UX0FTcnF6Z1NSQlByYlRoNzdZUlMzTFc3ZG1HMjhkUHUzb2V4V3dsVXkxRzBScDhCMGtwZ0k",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787514251.0
+    },
+    {
+        "id": "ca0153059e",
+        "title_fa": "تغییر مسیر سرمایه‌گذاران بزرگ؛ خروج از برادکام به سمت رهبر هوش مصنوعی",
+        "title_en": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+        "summary": [
+            "استنلی دراکن‌میلر و دان لوب تمام سهام خود در برادکام را طی سه ماهه دوم فروختند.",
+            "این دو سرمایه‌گذار سرشناس نقدینگی حاصل را روی خرید سهام انحصاری حوزه هوش مصنوعی متمرکز کرده‌اند."
+        ],
+        "full_text": "Stanley Druckenmiller and Dan Loeb both completely exited their stakes in Broadcom during the second quarter.",
+        "impact": "جابه‌جایی کلان سرمایه‌ها تمرکز اصلی وال‌استریت را روی شرکت‌های انحصارگر هوش مصنوعی آشکار می‌سازد.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Motley Fool",
+        "url": "https://www.msn.com/en-us/money/other/billionaires-stanley-druckenmiller-and-dan-loeb-both-sold-broadcom-and-piled-into-this-virtual-monopoly-artificial-intelligence-ai-stock-instead/ar-AA2aM1b9",
+        "clean_url": "https://www.msn.com/en-us/money/other/billionaires-stanley-druckenmiller-and-dan-loeb-both-sold-broadcom-and-piled-into-this-virtual-monopoly-artificial-intelligence-ai-stock-instead/ar-AA2aM1b9",
+        "image": "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/884387/investing-screen-analysis-investor-growth-stocks-1.jpg&w=1200&op=resize",
+        "images": [
+            "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/884387/investing-screen-analysis-investor-growth-stocks-1.jpg&w=1200&op=resize"
+        ],
+        "timestamp": 1787512500.0
     },
     {
         "id": "d4da6d90fd",
