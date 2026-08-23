@@ -1,5 +1,27 @@
 [
     {
+        "id": "c7fdd5ae6f",
+        "title_fa": "افت قیمت سهام غول‌های حافظه با ترس از حباب هوش مصنوعی",
+        "title_en": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain",
+        "summary": [
+            "سهام سازندگان بزرگ حافظه مانند میکرون، وسترن دیجیتال و سن‌دیسک همچنان پایین‌تر از ارزش واقعی خود معامله می‌شود.",
+            "نگرانی سرمایه‌گذاران از چرخه‌ای بودن بازار تراشه و احتمال افت هیجانات هوش مصنوعی، مانع از رشد قیمت این سهام شده است."
+        ],
+        "full_text": "SanDisk, Micron, Western Digital Remain Cheap as Cyclical and AI Bubble Concerns Remain  Benzinga",
+        "impact": "احتیاط شدید سرمایه‌گذاران در ارزش‌گذاری شرکت‌های زنجیره تامین سخت‌افزار AI.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV2VMUko3NGdBZ3N1Nl9vNGh4UUJGYjlQZlBhWVdOMGN6SGJwSVg5Wkt1ZmtYTHJzczdhR3NHOEtHVFlnU1l6OTNueThyeGpFYU9jRWN1UHNrdjBRbjB3TUY4cEttdGxrNWZMOFkzUzBlREZvblV2TDJjdEJaSzdnYVNTV3gySHMwdDMyd0hpNHdMSFRtUXRLazJzRktRYWtmNUJvbVkxdU1yeHJiLVl5M2pPNHhJcXJmNjBwa0dsajdnVlM2eUJvZ2lyYjRlVVZCQ3hTSmdya1hQeGpORkxjcFN1bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV2VMUko3NGdBZ3N1Nl9vNGh4UUJGYjlQZlBhWVdOMGN6SGJwSVg5Wkt1ZmtYTHJzczdhR3NHOEtHVFlnU1l6OTNueThyeGpFYU9jRWN1UHNrdjBRbjB3TUY4cEttdGxrNWZMOFkzUzBlREZvblV2TDJjdEJaSzdnYVNTV3gySHMwdDMyd0hpNHdMSFRtUXRLazJzRktRYWtmNUJvbVkxdU1yeHJiLVl5M2pPNHhJcXJmNjBwa0dsajdnVlM2eUJvZ2lyYjRlVVZCQ3hTSmdya1hQeGpORkxjcFN1bw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787506292.0
+    },
+    {
         "id": "41805d0ed0",
         "title_fa": "سایبرکپ‌های تسلا با نسخه ۱۵ FSD آماده ورود به آستین می‌شوند",
         "title_en": "Tesla Cybercabs spotted AI-learning multi-lane stop signs at Giga Texas (FSD v15) ahead of Austin launch",
@@ -268,6 +290,32 @@
         "timestamp": 1787482525.0
     },
     {
+        "id": "1a0262c81f",
+        "title_fa": "ثبت مداوم اسکرین‌شات باعث ضعیف شدن حافظه انسان می‌شود",
+        "title_en": "محققان: ثبت عکس و اسکرین‌شات از همه‌چیز می‌تواند به حافظه ما آسیب بزند",
+        "summary": [
+            "پژوهش جدید دانشگاه بینگهمتون روی نزدیک به ۹۰۰ داوطلب نشان می‌دهد اسکرین‌شات گرفتن به حافظه دیداری جزییات آسیب می‌زند.",
+            "افرادی که از تصویر یک شیء اسکرین‌شات می‌گیرند، در مقایسه با کسانی که صرفاً به آن نگاه می‌کنند، جزئیات کمتری را به خاطر می‌آورند.",
+            "مغز با واگذاری مسئولیت نگهداری داده‌ها به گوشی، از تلاش برای ثبت و پردازش عمیق اطلاعات دست می‌کشد."
+        ],
+        "full_text": "محققان: ثبت عکس و اسکرینشات از همهچیز میتواند به حافظه ما آسیب بزند پژوهشگران در هفت آزمایش مجزا روی ۸۹۲ داوطلب دریافتند افراد جزئیات تصاویری را که از آنها اسکرینشات گرفتهاند، کمتر به یاد میآورند. احتمالاً شما هم درحالحاضر هزاران تصویر در گوشی خود دارید که شاید دیگر هرگز نگاهی به آنها نیندازید. اگرچه یکی از دلایل اصلی افراد برای عکاسی، کمک به یادآوری یک تجربه یا رویداد است، پژوهشهای جدید نشان میدهند متوقف شدن برای ثبت یک تصویر سلفی یا عکسبرداری از محیط میتواند به حافظه و روند یادآوری آسیب بزند. پژوهشی که در ژورنال Memory & Cognition منتشر شده، نشان میدهد که ثبت اسکرینشات در هفت آزمایش مجزا بهطور پیوسته حافظه شرکتکنندگان را تضعیف کرده است. «سوفیا فابریزیو»، روانشناس دانشگاه بینگهمتون، درباره نتایج این پژوهش اعلام کرده که دادهها نشان میدهند ما احتمالاً تنها با فشردن یک دکمه، به حافظه خود برای ثبت اطلاعات و تجربیات آسیب میزنیم و این اختلال حتی ممکن است فراتر از چیزی باشد که به نظر میرسد. برای ارزیابی این پدیده، تیم پژوهشی دانشگاه بینگهمتون ۸۹۲ شرکتکننده را در هفت آزمایش گوناگون بررسی کردند. در تمام آزمایشها نتایج یکسان بوده و شرکتکنندگان پس از ثبت تصاویر، عملکرد ضعیفتری در آزمونهای حافظه داشتند. در آزمایش اول، ۴۴ تصویر هنری روی گوشی شرکتکنندگان نمایش داده شد و از آنها خواسته شد از هر تصویر اسکرینشات بگیرند یا صرفاً آن را مشاهده کنند. پس از ۱۰ دقیقه انجام فعالیت متفرقه، آزمونی برگزار شد که افراد باید تصویر اصلی را از بین سه نمونه مشابه تشخیص میدادند. عملکرد شرکتکنندگان در تشخیص تصاویری که از آنها اسکرینشات گرفته بودند، نسبت به تصاویری که صرفاً تماشا کرده بودند، ضعیفتر بود. در آزمایش دوم، پژوهشگران به دنبال این بودند که ببینند آیا مزیت دیگری برای جبران این افت حافظه وجود دارد یا خیر؛ به همین دلیل این پرسش اضافه شد که آیا افراد به یاد میآورند که تصویر را صرفاً دیدهاند یا از آن اسکرینشات گرفتهاند. در این بخش نیز مشخص شد داوطلبان از تصاویری که اسکرینشات گرفته بودند، جزئیات کمتری به خاطر داشتند. در آزمایشهای بعدی، بررسی شد که آیا منابع شناختی آزادشده در بخش دیگری به کار گرفته شدهاند یا خیر؛ شرکتکنندگان مسائل ریاضی یا تسکهای حافظه نامرتبط با تصاویر را حل کردند، اما نشانهای از عملکرد بهتر افرادی که اسکرینشات گرفته بودند دیده نشد. در ادامه، محققان بررسی کردند که اگر به شرکتکنندگان اطلاع داده شود که از تصاویر آزمون حافظه گرفته خواهد شد و فرصت مرور اسکرینشاتها را خواهند داشت چه تغییری صورت خواهد گرفت. به گروهی گفته شد آزمون در ۳۰ دقیقه آینده برگزار میشود و به گروهی دیگر گفته شد یک ماه بعد باید بازگردند؛ درحالیکه از هر دو گروه عملاً ۱۰ دقیقه پس از مشاهده تصاویر آزمون گرفته شد. فرضیه پژوهشگران این بود که گروه با فاصله زمانی طولانیتر اتکای بیشتری به ابزار دیجیتال خواهد کرد، اما تفاوت ناچیزی میان دو گروه ثبت شد و هر دو برای تصاویری که از آنها اسکرینشات گرفته بودند، عملکرد ضعیفتری داشتند. فرضیههای علمی پیرامون آسیب عکاسی به حافظه ایده اینکه عکس گرفتن توانایی یادآوری را کاهش میدهد پدیده جدیدی نیست و این مسئله که دههها تحت عنوان «اثر اختلال ناشی از عکاسی» (Photo-taking Impairment Effect) در پژوهشها مطرح بوده، همچنان دلایل کاملاً روشنی ندارد. دانشمندان چند توضیح احتمالی ارائه دادهاند؛ یک فرضیه بیان میکند که استفاده از دوربین یا گوشی میتواند توجه فرد را تجزیه کند یا او را از وقایع پیرامون جدا سازد، بهطوریکه مغز منابع کمتری را برای کدگذاری و ثبت خاطره آن رویداد اختصاص میدهد. فرضیه اصلی و برجستهتر، پدیدهای تحت عنوان «تخلیه شناختی» (Cognitive Offloading) است؛ به این معنا که مغز در صورت اطمینان از ذخیره شدن یک رویداد در قالب عکس، تلاش و انرژی کمتری را برای به خاطر سپردن آن به کار میگیرد. پژوهشگران نتیجه میگیرند که ثبت اسکرینشات یا عکس با اختلال چشمگیری در عملکرد حافظه همراه است و تنها در شرایط بسیار محدود مزایای اندکی برای یادگیریهای بعدی به همراه دارد. هرچند مطالعات دیگری نشان دادهاند عکاسی در مواردی به حافظه کمک میکند و این حوزه همچنان پیچیدگیهای خود را دارد، اما تضعیف توانایی ذهن در ثبت وقایع مهم زندگی مانند جشنهای عروسی، تولدها و سفرها نگرانکننده خواهد بود.",
+        "impact": "تضعیف حافظه کوتاه‌مدت و فرآیند ثبت خاطرات در اثر اتکای بیش از حد به ابزارهای هوشمند.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/interdisciplinary/taking-photos-screenshots-hurts-memory-study",
+        "clean_url": "https://digiato.com/interdisciplinary/taking-photos-screenshots-hurts-memory-study",
+        "image": "http://www.bing.com/th?id=ONUT.V-X_gTG92tejcKoTY5FO2w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.V-X_gTG92tejcKoTY5FO2w&pid=News",
+            "https://static.digiato.com/digiato/2026/08/taking-picture.jpg",
+            "https://static.digiato.com/digiato/2026/08/taking-picture-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/photography-1024x566.jpg"
+        ],
+        "timestamp": 1787481780.0
+    },
+    {
         "id": "45bcdf9d5b",
         "title_fa": "تحولات کریپتو در آسیا: مجوز ۴ ساله ژاپن و بازار جدید بورس کره",
         "title_en": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News",
@@ -288,6 +336,58 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787480834.0
+    },
+    {
+        "id": "1fa7dc67a3",
+        "title_fa": "آسیب هوش مصنوعی به یادگیری؛ ۲۰ درصد افت نمرات امتحانات حضوری",
+        "title_en": "تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانش‌آموزان را کاهش می‌دهد",
+        "summary": [
+            "تحقیق روی ۲۷ هزار دانش‌آموز نشان می‌دهد استفاده از AI نمره تکالیف را بالا می‌برد، اما عملکرد در آزمون‌های حضوری را ۲۰ درصد کاهش می‌دهد.",
+            "بررسی‌های مغزی MIT اثبات کرده دانشجویا‌نی که برای مقاله‌نویسی از AI کمک می‌گیرند، فعالیت مغزی و تفکر انتقادی کمتری را تجربه می‌کنند.",
+            "اتکای میان‌بر زدن به چت‌بات‌ها زمان حل تمرین را کم می‌کند، اما مانع تثبیت عمیق مفاهیم در حافظه می‌شود."
+        ],
+        "full_text": "تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانشآموزان را کاهش میدهد محققان دریافتند استفاده از هوش مصنوعی اگرچه نمرات تکالیف را افزایش میدهد، اما عملکرد امتحانات حضوری را ۲۰ درصد پایین میآورد. پژوهش مشترک محققان دانشگاه استکهلم و دانشگاه هنگکنگ نشان میدهد استفاده دانشآموزان از هوش مصنوعی با وجود بهبود نمرات تکالیف، به افت عملکرد آنها در امتحانات کلاسی منجر میشود. به گزارش اکونومیست، در این پژوهش عملکرد حدود ۲۷ هزار دانشآموز ۱۲ تا ۱۸ ساله (پایههای هفتم تا دوازدهم) در چین بررسی شد. حدود ۸۰ درصد از این دانشآموزان از مدلهای هوش مصنوعی مانند دیپسیک و Doubao بایتدنس استفاده میکردند و ۲۰ درصد باقیمانده که از این ابزارها استفاده نمیکردند، گروه کنترل را تشکیل دادند. یافتههای این مطالعه پس از شش ماه نشان داد نمرات تکالیف خانگی دانشآموزانِ کاربر هوش مصنوعی در تمام دروس ۱۸ درصد افزایش یافته و میانگین زمان انجام تکالیف از ۶۴ دقیقه به ۴۵ دقیقه (حدود ۳۰ درصد کاهش) رسیده است. بااینحال، نمرات امتحانات ماهانه این دانشآموزان ۲۰ درصد کمتر از همکلاسیهایی بود که از هوش مصنوعی استفاده نکرده بودند. تأثیر منفی هوش مصنوعی بر نمرات دانشآموزان بیشترین میزان افت یادگیری در دروس علوم اجتماعی مشاهده شد و پس از آن درسیهای شاخه STEM (علوم پایه، فناوری، مهندسی و ریاضیات) و زبان قرار داشتند. همچنین دانشآموزانی که با وجود استفاده از هوش مصنوعی، زمانی مشابه با سایرین صرف انجام تکالیف میکردند، افت یادگیری کمتری داشتند؛ اگرچه افت عملکرد در آنها نیز ثبت شد. این کاهش نمرات در دانشگاه نیز دیده میشود. یکی از استادان دانشگاه براون پس از آنکه دید میانگین نمرات دانشجویان در امتحان میانترم آنلاین بالای ۹۰ درصد شد، آزمون پایانترم را حضوری برگزار کرد. میانگین نمرات پایانترم این کلاس به ۴۸ درصد کاهش یافت، درحالیکه در طول تاریخ برگزاری این آزمون هرگز میانگین نمرات این درس از ۶۵ درصد کمتر نشده بود. همچنین پژوهش دانشگاه MIT که اوایل سال جاری میلادی منتشر شد، نشان داد فعالیت مغزی دانشجویانی که برای مقالهنویسی از هوش مصنوعی کمک گرفتند، کمتر از سایرین بود. این دانشجویان هنگام یادآوری نقلقولهای مقاله خود با مشکل مواجه شدند و در نگارشهای بعدی بدون هوش مصنوعی نیز فعالیت مغزی آنها در سطح پایینتری باقی ماند. پژوهشهای دیگر نیز استفاده از هوش مصنوعی را با تضعیف تفکر انتقادی و اختلال در حافظه مرتبط دانسته و گزارش دادهاند که درصد نمرات عالی در دورههای دانشگاهی، از زمان عرضه چتجیپیتی حدود ۳۰ درصد افزایش یافته است. یافتههای پژوهش محققان دانشگاه استکهلم و هنگکنگ در ژورنال SSRN منتشر شده است.",
+        "impact": "تغییر احتمالی سیاست‌های آموزشی و بازگشت دانشگاه‌ها به برگزاری امتحانات کاملاً حضوری و بدون ابزار دیجیتال.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/ai-students-homework-exam-scores-study",
+        "clean_url": "https://digiato.com/artificial-intelligence/ai-students-homework-exam-scores-study",
+        "image": "http://www.bing.com/th?id=ONUT.h8kpNBDXyrSSZP8mRJwYuA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.h8kpNBDXyrSSZP8mRJwYuA&pid=News",
+            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۱.jpeg",
+            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۱-644x424.jpeg.webp",
+            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۲-1024x576.jpeg"
+        ],
+        "timestamp": 1787479200.0
+    },
+    {
+        "id": "d6838f6ec9",
+        "title_fa": "تراشه اختصاصی وایمو؛ سلاح گوگل برای رباتکسی‌های اقتصادی‌تر",
+        "title_en": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "summary": [
+            "وایمو از تراشه ۵ نانومتری اختصاصی خود با قدرت ۱۰۰۰ تاپ رونمایی کرد که از نظر توان پردازشی شانه به شانه سخت‌افزار DRIVE Thor انویدیا می‌زند.",
+            "این پردازنده وظیفه مدیریت داده‌های سنگین ۱۳ دوربین پیشرفته نسل ششم رباتکسی‌ها را پیش از ورود به مغز اصلی سیستم خودران بر عهده دارد.",
+            "طراحی اختصاصی سخت‌افزار و کاهش هزینه‌های تولید، کلیدی‌ترین گام وایمو برای رسیدن به سودآوری در بازار تاکسی‌های بدون راننده است."
+        ],
+        "full_text": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free — just click TechCrunch Mobility! Waymo gets a lot of attention for its fast-paced expansion. And for good reason; it seems like every week, the company’s robotaxis are arriving in a new city, or expanding within an existing service area. We’ve known for a while that Waymo’s sixth-generation self-driving system — which debuted in its next-generation Ojai robotaxi — is central to those ambitions. But now we have a better understanding about why. The company, which just opened its Ojai robotaxi to all riders in Los Angeles, Phoenix, and San Francisco, has repeatedly said that this next-gen vehicle is cheaper to build, operate, and maintain — ingredients required if the company has any hopes of someday turning a profit. What was less clear, until this week, was just how hands-on and vertically integrated Waymo has become as it chases that goal. The company shared this week that it built a custom silicon chip — specifically a 5 nm ASIC chip, which is designed to handle the massive influx of raw data before it reaches the core “brain” of the self-driving system. (To get a sense of how much data, consider that the Waymo Ojai has 13 high-fidelity cameras.) Waymo said the chip delivers more than 1,000 TOPS (trillions of operations per second) of computing performance, a statistic that puts it roughly in the same performance range as Nvidia’s latest DRIVE AGX Thor automotive processor, a powerful computer designed for automated driving applications. The end result, Waymo says, is a system that has “unmatched efficiency and performance.” The upshot: Waymo contends that this chip is a critical piece of a system that can react fast and safely in complex, high-density environments — like cities. It’s worth noting that Waymo isn’t working alone on compute. The company listed a slew of partners, some for the first time, that includes AMD, Micron, Nvidia, Samsung, Sandisk, Socionext, and TSMC. A little bird A couple of little birds spoke to Sean O’Kane (senior reporter, special projects at TechCrunch) about a rather curious investigation being conducted by the Idaho National Laboratory. According to our sources, the lab is evaluating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the United States. That is notable on its own. But what got our attention is that the research is being funded by a company — or a group of companies — in the electric and autonomous vehicle industries. O’Kane reached out to numerous companies, including Rivian, General Motors, Ford, Kodiak, Lucid Motors, Nuro, and Uber. And all of these companies said they were unaware of the review. Aurora, Nvidia, and Zoox didn’t respond to questions. Got a tip for us? Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com. Deals! Also, the startup incubated within Rivian, has raised another $150 million in a Series D round led by Prysm Capital with participation from existing backers Eclipse, Greenoaks, and MVP Ventures. Also has raised $455 million since it spun out of Rivian in March 2025. The raise is notable, and not just because Also has already reached a Series D round after launching just a little more than a year ago. The company’s mission has also evolved, which helps explain why it still needs to keep raising cash. When Also launched in spring 2025, it was described as a micromobility company focused on pedal-assist electric bikes and commercial cargo quads. Now it is a “Palo Alto-based technology company building the world’s most capable driven and autonomous small electric vehicles.” That autonomous driving component popped up earlier this year when Also closed a $200 million round and announced a multiyear commercial agreement with DoorDash to develop and deploy autonomous delivery vehicles. Sidewalk delivery robot company Serve Robotics also had a notable and very timely deal this week. You might recall that earlier this month, Serve reported during its earning call that Uber had reduced its use of its robots on the app; that partnership is set to end next year. Separately, Uber also sold all of its shares in the company. Months before these changes, Serve was working on several other deals that were recently finalized, according to insiders. Serve has partnered with Grubhub to use its sidewalk robots, starting in Chicago, Los Angeles, and Alexandria, Virginia. Serve also announced that its existing partnership with DoorDash has expanded to San Jose, California, and Washington, D.C. Uber’s retreat from Serve illustrates an important lesson for any company attempting to scale: Always diversify. And it seems Serve has managed to do that. Other deals that got my attention … Einride, the Swedish electric and autonomous trucking company, struck a deal with Tesla to buy 500 of its electric Semis and make the electric big rigs available to its customers, which include Amazon. The Tesla Semis will be added in phases to Einride’s fleet over the next 24 months, starting in September. Reminder: Tesla is trying to scale up but recently pulled back on promises to reach “volume production” in 2026. Grounded, the Detroit-based startup that customizes electric and gas-powered vans, raised a $5 million seed round, with repeat investments from existing backers Also Capital and Chicago-based early-stage firm The 81 Collection, along with Animal Capital, the Michigan Outdoor Innovation Fund, and “various SpaceX alumni,” according to founder and CEO Sam Shapiro. Uber said it is investing in, and partnering with, drone delivery company Zipline. Uber and Zipline didn’t disclose the investment amount but did share one lofty goal: to make 1 million deliveries per day using the startup’s drones by the end of 2029. Vessev, a New Zealand startup developing electric hyd",
+        "impact": "کاهش وابستگی وایمو به تراشه‌های گران‌قیمت انویدیا و تسریع در تجاری‌سازی رباتکسی‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "clean_url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions",
+        "image": "http://www.bing.com/th?id=ONUT.eE7MCg5vrtsTUjfRpR6dug&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.eE7MCg5vrtsTUjfRpR6dug&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2019/10/blinky-cat-bird-green.gif?w=680"
+        ],
+        "timestamp": 1787475720.0
     },
     {
         "id": "e6df957849",
