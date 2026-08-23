@@ -1,5 +1,27 @@
 [
     {
+        "id": "e6df957849",
+        "title_fa": "استقبال کشورهای آسیایی از مدل‌های متن‌باز هوش مصنوعی چین",
+        "title_en": "Opinion | Asia is reaching for the open road that Chinese AI offers",
+        "summary": [
+            "بسیاری از کشورهای آسیایی به دلیل هزینه کمتر و امکان شخصی‌سازی، مدل‌های متن‌باز چینی مانند کوئن و دیپ‌سیک را به گزینه‌های گران‌قیمت آمریکایی ترجیح می‌دهند.",
+            "این تغییر مسیر نشان می‌دهد که انحصار شرکت‌های آمریکایی بر زیرساخت‌های هوش مصنوعی در آسیا در حال ترک برداشتن است."
+        ],
+        "full_text": "Opinion | Asia is reaching for the open road that Chinese AI offers  South China Morning Post",
+        "impact": "افزایش سهم چین در بازار فناوری آسیا و تضعیف سلطه شرکت‌های بزرگ آمریکایی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3Q0Z21PRUZ4d2M4UjFicWgxWEp2VnBZbktsY1RPbjdqTkpDc1M3d1VqRlFibDdkZG1wTXhtRm50cUt4amtERjZpR1QwLTZDdWFDNnluTmpXNURraGY1NDFWaU9SNFVPRHdOa0FkZkRDR3p1bm11cWpaLTEzWXgtS0E3MTVZRU8zMUdsVmpyZGhVTHNvZjQzT3FkNmVYQ2Q30gGgAUFVX3lxTE5TWHdhODlyMDZ5RWN3UjNpWlVQLU00SkJwbXlmb3M1N2pHbzAwUEd5d0hVa21zUHd4dURxcklxQmw4TUJ1SG1lZnBBZDAwaVVEVU5fZ2VXVWJwU1d6UjVQSHlneTJXZUZFNTVBbFpzVjM2VEtwMVBlX0tjbmlBOFBGNkF5VHdvWkc1d0ZKOHptV3MtRFJJTlJNQjR4aVNUNzU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3Q0Z21PRUZ4d2M4UjFicWgxWEp2VnBZbktsY1RPbjdqTkpDc1M3d1VqRlFibDdkZG1wTXhtRm50cUt4amtERjZpR1QwLTZDdWFDNnluTmpXNURraGY1NDFWaU9SNFVPRHdOa0FkZkRDR3p1bm11cWpaLTEzWXgtS0E3MTVZRU8zMUdsVmpyZGhVTHNvZjQzT3FkNmVYQ2Q30gGgAUFVX3lxTE5TWHdhODlyMDZ5RWN3UjNpWlVQLU00SkJwbXlmb3M1N2pHbzAwUEd5d0hVa21zUHd4dURxcklxQmw4TUJ1SG1lZnBBZDAwaVVEVU5fZ2VXVWJwU1d6UjVQSHlneTJXZUZFNTVBbFpzVjM2VEtwMVBlX0tjbmlBOFBGNkF5VHdvWkc1d0ZKOHptV3MtRFJJTlJNQjR4aVNUNzU",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787473806.0
+    },
+    {
         "id": "6e6325833c",
         "title_fa": "آموزش سراسری هوش مصنوعی به کارمندان هنگ‌کنگ با همکاری غول‌های فناوری",
         "title_en": "Major tech firms to help upskill Hong Kong workers under ‘AI for All’: Paul Chan",
