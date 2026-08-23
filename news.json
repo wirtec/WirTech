@@ -1,5 +1,51 @@
 [
     {
+        "id": "d04d2a64d3",
+        "title_fa": "مدل کدنویسی ناشناس Ox Alpha و نگرانی از لو رفتن کدها",
+        "title_en": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
+        "summary": [
+            "مدل هوش مصنوعی جدیدی به نام Ox Alpha برای کدنویسی منتشر شده اما هیچ اطلاعاتی از سازندگان آن در دسترس نیست.",
+            "توسعه‌دهندگان نگرانند که کدهای ورودی به این سیستم در سرورهای نامشخص ذخیره شوند یا مورد سوءاستفاده قرار گیرند.",
+            "موج جدید مدل‌های بی‌نام‌ونشان چالش‌های امنیتی تازه‌ای برای پروژه‌های نرم‌افزاری ایجاد کرده است."
+        ],
+        "full_text": "Nobody knows who built AI coding model Ox Alpha or where the code goes  SiliconANGLE",
+        "impact": "استفاده از مدل‌های هوش مصنوعی با هویت نامشخص، مخاطرات سایبری و نشت اطلاعات حساس پروژه‌ها را به شدت بالا می‌برد.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZtcUlhWERpNngwakw3aFFsMlM2MzVwYVJoU1p1a0RJdWt3WG5QVDAyNVdRaFAzenVUVl9uYWlaMVlwdDAtRFU4OW11RF9YSmFlQ1ZUUFlpWmFGZk1PRjZCYkpTcnI1RlNVZjVvLXg4bXRBZGt5X1lUVXBzQ21jdUNqTmpfMVZpbGVkMVJDOE9pcTZ6ZkZzNUptSGRfTzZ3WEhVOGRTdEFBb2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWZtcUlhWERpNngwakw3aFFsMlM2MzVwYVJoU1p1a0RJdWt3WG5QVDAyNVdRaFAzenVUVl9uYWlaMVlwdDAtRFU4OW11RF9YSmFlQ1ZUUFlpWmFGZk1PRjZCYkpTcnI1RlNVZjVvLXg4bXRBZGt5X1lUVXBzQ21jdUNqTmpfMVZpbGVkMVJDOE9pcTZ6ZkZzNUptSGRfTzZ3WEhVOGRTdEFBb2M",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787524620.0
+    },
+    {
+        "id": "737261e897",
+        "title_fa": "سبقت ترجمه‌های فارسی موراکامی از نسخه انگلیسی به لطف هوش مصنوعی",
+        "title_en": "Persian Murakami editions race ahead of English release with AI help",
+        "summary": [
+            "ناشران ایرانی با به کارگیری هوش مصنوعی، رمان‌های جدید هاروکی موراکامی را با سرعتی بی‌سابقه ترجمه و به بازار عرضه می‌کنند.",
+            "این روند سبب شده نسخه‌های فارسی حتی زودتر از ترجمه‌های رسمی انگلیسی در دسترس مخاطبان قرار گیرند.",
+            "با وجود شتاب بالا، کیفیت ادبی این ترجمه‌های الگوریتمی و عدم رعایت حقوق کپی‌رایت چالش‌برانگیز شده است."
+        ],
+        "full_text": "Persian Murakami editions race ahead of English release with AI help  Iran International",
+        "impact": "هوش مصنوعی سرعت چرخه نشر را چند برابر کرده اما هم‌زمان مرزهای کیفیت ادبی و کپی‌رایت را مخدوش کرده است.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1adC1lVVVKeklEM253LW12VXhPeExCeXk5Zk5uaWNwUnRWS1Vuamd3QnhzMEhSWU01bVY2T3FSSnh2WE5hYzFESVhOTDhuaDNlVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1adC1lVVVKeklEM253LW12VXhPeExCeXk5Zk5uaWNwUnRWS1Vuamd3QnhzMEhSWU01bVY2T3FSSnh2WE5hYzFESVhOTDhuaDNlVUE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787521303.0
+    },
+    {
         "id": "277f2de28b",
         "title_fa": "سرمایه‌گذاری ۷ میلیارد دلاری انویدیا روی استارتاپ پول‌ساید و گرانی سرورها",
         "title_en": "Nvidia's Weekend Offensive: A $7 Billion Software Bet Complicates an Already Pivotal Earnings Week",
@@ -334,6 +380,30 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787501331.0
+    },
+    {
+        "id": "0138f4b340",
+        "title_fa": "گرانی سرورهای هوش مصنوعی انویدیا در پی رشد قیمت حافظه‌ها",
+        "title_en": "Nvidia Set to Raise AI Server Costs",
+        "summary": [
+            "انویدیا به مشتریان بزرگ خود خبر داده که سرورهای مبتنی بر تراشه‌های گرس بلک‌ول و ورا روبین به‌زودی گران‌تر می‌شوند.",
+            "علت اصلی این گرانی، جهش قیمت تراشه‌های حافظه در بازار جهانی است که انویدیا بار مالی آن را به خریداران منتقل می‌کند.",
+            "قیمت نهایی برای هر مشتری بر اساس نسل پردازنده و حجم حافظه متغیر خواهد بود و تعرفه ثابتی وجود ندارد."
+        ],
+        "full_text": "The Price Hike Everyone knows AI needs chips. What may come as a surprise is that the machines holding those chips are about to get pricier. Nvidia told some of its biggest customers about the change, according to a report from Bloomberg on August 22, 2026. The new pricing affects the server systems built around its Vera Rubin and Grace Blackwell chip lines. A customer's final cost will be determined by their processor generation choice and memory configuration. That means some buyers could pay more than others for what sounds like the same product. It is a reminder that in the world of AI hardware, nothing is one-size-fits-all. Why Prices Are Going Up The culprit is memory chips. The cost of the memory that goes into these servers has been climbing, and Nvidia is passing that along to customers. As AI hardware costs climb, grab the free Always Be Buying E-Book to keep building wealth steadily Nvidia has been at the center of the AI boom because its processors are the standard choice for powering chatbots, data centers, and cloud services. That demand has made its chips among the most sought-after hardware in the tech industry, and it has also left buyers with few options when prices rise. That gives those customers a little time to plan, but it also signals that the cost of building AI tools is not going down anytime soon. For the companies buying these systems, the math just got a little harder. What It Means for You So what does this mean for the rest of us? Higher prices for the biggest buyers could eventually trickle down to the cost of AI services, though most consumers will not feel it in their monthly bills right away. The bigger picture is about demand. When the most important company in AI raises prices, it is a sign that the appetite for computing power is still growing. For everyday investors, that is worth paying attention to. It suggests the companies building the tools of the future still see plenty of reason to spend, and that kind of confidence tends to be good news for the market as a whole. It also means the cost of getting into AI is going up, which could shape which companies can afford to compete. For the rest of us, the takeaway is simpler: the AI boom is alive and well, and it is getting more expensive to be a part of it. Background Context This latest price adjustment fits a broader pattern in the semiconductor industry, where memory costs have been volatile for years due to supply chain constraints and surging demand from data centers. Nvidia's dominant position gives it significant leverage to pass these costs down, as cloud providers and AI startups have few alternative suppliers capable of matching its performance levels. The company's data center revenue has become a key barometer for the health of the AI trade, so any sustained increase in pricing could influence how Wall Street values both Nvidia and the customers building their infrastructure around its products. When server prices jump, remember that steady investing wins, so download the free Always Be Buying E-Book",
+        "impact": "افزایش هزینه زیرساخت‌های انویدیا در میان‌مدت توسعه ابزارهای هوش مصنوعی را پرخرج‌تر کرده و به گران شدن خدمات ابری می‌انجامد.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/nvidia-set-to-raise-ai-server-costs/",
+        "clean_url": "https://www.briefs.co/news/nvidia-set-to-raise-ai-server-costs",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/08/nvidia-set-to-raise-ai-server-costs.png",
+        "images": [
+            "https://www.briefs.co/wp-content/uploads/2026/08/nvidia-set-to-raise-ai-server-costs.png",
+            "https://www.briefs.co/wp-content/plugins/gumlet/assets/images/pixel.png"
+        ],
+        "timestamp": 1787500920.0
     },
     {
         "id": "02820e4775",
