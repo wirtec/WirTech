@@ -1,5 +1,27 @@
 [
     {
+        "id": "1143557b9f",
+        "title_fa": "متن کامل گفتگوی سیاسی برنامه Face the Nation",
+        "title_en": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026",
+        "summary": [
+            "مصاحبه جدید مارگارت برنان با دو نماینده کنگره آمریکا پیرامون چالش‌های سیاسی روز.",
+            "مباحث این برنامه عمدتاً بر سیاست‌های داخلی و تصمیمات اخیر قانون‌گذاران تمرکز دارد."
+        ],
+        "full_text": "On this \"Face the Nation with Margaret Brennan\" broadcast, Reps. Byron Donalds and Seth Moulton join Margaret Brennan.",
+        "impact": "این خبر تأثیر مستقیمی بر حوزه فناوری و تجارت دیجیتال ندارد.",
+        "tag": "سیاست",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/news/politics/full-transcript-of-face-the-nation-with-margaret-brennan-aug-23-2026/ar-AA2aM3jb",
+        "clean_url": "https://www.msn.com/en-us/news/politics/full-transcript-of-face-the-nation-with-margaret-brennan-aug-23-2026/ar-AA2aM3jb",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/a8878c24-870b-4404-8b98-c7fce7fdebb2/thumbnail/1200x630/d4e21f3dbafabeb2f747e37130564d86/1787509473624.png",
+        "images": [
+            "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/a8878c24-870b-4404-8b98-c7fce7fdebb2/thumbnail/1200x630/d4e21f3dbafabeb2f747e37130564d86/1787509473624.png"
+        ],
+        "timestamp": 1787509512.0
+    },
+    {
         "id": "3bf4155fb0",
         "title_fa": "تحلیل گزارش مالی سه‌ماهه دوم شرکت داده‌محور اینوداتا",
         "title_en": "Innodata Stock (INOD) Opinions on Q2 Earnings Release",
@@ -109,6 +131,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787501331.0
+    },
+    {
+        "id": "02820e4775",
+        "title_fa": "چرا ایجنت‌های هوش مصنوعی به چارت سازمانی نیاز دارند؟",
+        "title_en": "Why every AI agent needs an org chart",
+        "summary": [
+            "با گسترش ایجنت‌های خودمختار در شرکت‌ها، تعریف دقیق نقش‌ها و سطوح دسترسی اهمیت حیاتی پیدا کرده است.",
+            "ایجاد ساختار هرمی و مشخص برای ایجنت‌ها، از تداخل کاری و دوباره‌کاری در سازمان‌ها جلوگیری می‌کند.",
+            "تنظیم چارت سازمانی برای سیستم‌های هوشمند، کنترل و نظارت انسانی روی رفتار آن‌ها را آسان‌تر می‌کند."
+        ],
+        "full_text": "Why every AI agent needs an org chart  SiliconANGLE",
+        "impact": "افزایش بهره‌وری عملیاتی و کاهش ریسک‌های امنیتی در پیاده‌سازی هوش مصنوعی سازمانی.",
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42bC0xY1RJbEhGRjFTWWVnYWZ1aXFZT2JxcGZCeHhhemg4cG96WmVidEc0bE5XaHZhVDY3ZjlqWlpTUHFpZ2V3VXF1Sk5aU3lMVDN3S0JRSkFCVUVvVHQxVnpld0ZweUlQa0JTeUl2SEpBSWFGTjRnLUZYVy0wQ2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42bC0xY1RJbEhGRjFTWWVnYWZ1aXFZT2JxcGZCeHhhemg4cG96WmVidEc0bE5XaHZhVDY3ZjlqWlpTUHFpZ2V3VXF1Sk5aU3lMVDN3S0JRSkFCVUVvVHQxVnpld0ZweUlQa0JTeUl2SEpBSWFGTjRnLUZYVy0wQ2s",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787500800.0
     },
     {
         "id": "14b0e0c8ec",
