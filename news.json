@@ -1,5 +1,27 @@
 [
     {
+        "id": "c1971e85f1",
+        "title_fa": "نفوذ چراغ‌خاموش هوش مصنوعی به زندگی روزمره مردم در چین",
+        "title_en": "China’s internet army is quietly embedding AI into everyday lives",
+        "summary": [
+            "غول‌های فناوری چین ابزارهای هوش مصنوعی را بدون جنجال رسانه‌ای وارد اپلیکیشن‌ها و خدمات کاربردی روزمره کرده‌اند.",
+            "این استراتژی باعث شده استفاده از AI برای شهروندان چینی به بخشی طبیعی و ناخودآگاه از زیست دیجیتال تبدیل شود."
+        ],
+        "full_text": "China’s internet army is quietly embedding AI into everyday lives  South China Morning Post",
+        "impact": "تسریع نفوذ عملیاتی هوش مصنوعی در جامعه و افزایش برتری چین در کاربردی‌سازی عمومی این فناوری.",
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVNvU1JRYUZzN1VJQmI0cTBFNkNBQlJjNUR6eXlvdzRNQjZlOEVvcXpzMWFiSHpWZS0xQ3FlckY2dk5kTmNXZnpJR2M4eWluMGxzeFFIY2IyWDdDUDZJaUwwYzJ4NldjNHVDTTZyY1pHTGtBUG81d3cweHFPcHFiSzBHbXVIalFpTWVkcVZUZkFxY0JEbC1ULWtPWFY2cXFJM3F4S0tpTU10ZGY2bUJpYTlwUUFfLW5xU1FCXzY1amnSAcABQVVfeXFMTko2OTZLNlgtaENxUVI0MnpmTi1NQ3hLMFAzRHh0VHY0WGltZWlwb0UtcDEtVXhveFpjLTlVNHB6X3lNdlY0ZFNFUE1hRmtqWTQ4ZXpzVHltWU55NnF6SExqR2E4RTQ1c3ZpRXdnWkJEbk5HTmNNVzE4OE45Y095dzZseEZac0JXbmZfa3ExdHctYjhNSmRBMDNkSzlOODVwQWM3TncxNTd1QmQ5UzFKWVBfWjIwckNGdUhPOEtZaGFr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVNvU1JRYUZzN1VJQmI0cTBFNkNBQlJjNUR6eXlvdzRNQjZlOEVvcXpzMWFiSHpWZS0xQ3FlckY2dk5kTmNXZnpJR2M4eWluMGxzeFFIY2IyWDdDUDZJaUwwYzJ4NldjNHVDTTZyY1pHTGtBUG81d3cweHFPcHFiSzBHbXVIalFpTWVkcVZUZkFxY0JEbC1ULWtPWFY2cXFJM3F4S0tpTU10ZGY2bUJpYTlwUUFfLW5xU1FCXzY1amnSAcABQVVfeXFMTko2OTZLNlgtaENxUVI0MnpmTi1NQ3hLMFAzRHh0VHY0WGltZWlwb0UtcDEtVXhveFpjLTlVNHB6X3lNdlY0ZFNFUE1hRmtqWTQ4ZXpzVHltWU55NnF6SExqR2E4RTQ1c3ZpRXdnWkJEbk5HTmNNVzE4OE45Y095dzZseEZac0JXbmZfa3ExdHctYjhNSmRBMDNkSzlOODVwQWM3TncxNTd1QmQ5UzFKWVBfWjIwckNGdUhPOEtZaGFr",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787482806.0
+    },
+    {
         "id": "45bcdf9d5b",
         "title_fa": "تحولات کریپتو در آسیا: مجوز ۴ ساله ژاپن و بازار جدید بورس کره",
         "title_en": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News",
