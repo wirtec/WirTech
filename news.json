@@ -1,5 +1,73 @@
 [
     {
+        "id": "f1fbb419e1",
+        "title_fa": "ورود رسمی گوشی‌های ماژولار و قابل تعویض قطعه به بازار آمریکا",
+        "title_en": "USA finally gets the modular smartphone owners can repair themselves",
+        "summary": [
+            "کاربران آمریکایی بالاخره به گوشی‌های هوشمند ماژولاری دسترسی پیدا کردند که صفر تا صد تعمیر آن توسط خود کاربر انجام می‌شود.",
+            "این سخت‌افزار با هدف پشتیبانی از جنبش «حق تعمیر» طراحی شده و تعویض باتری، تاچ‌اسکرین و دوربین را بدون نیاز به تعمیرکار ممکن می‌کند.",
+            "سازندگان با این اقدام، طول عمر مفید گوشی را افزایش داده و تولید زباله‌های الکترونیکی را به‌شدت کاهش می‌دهند."
+        ],
+        "full_text": "USA finally gets the modular smartphone owners can repair themselves  New Atlas",
+        "impact": "افزایش فشار بر اپل و سامسونگ برای ساده‌سازی ساختار داخلی و تعمیرپذیری پرچمداران بعدی.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "New Atlas",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95T1FFbE1zTjZRQ2dic2FqWHNHNUdRWjRhN2traHRWLXloZ01zdTV3OWlBcEFEZFB5RUxlR1h0aC1YQlRRWmhfSC1xSlhsaWg1dGloaGc5eXkxWlZ1NWFxZ1BEYWRoT1lqWWpDWUJMSjBWNWpKbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95T1FFbE1zTjZRQ2dic2FqWHNHNUdRWjRhN2traHRWLXloZ01zdTV3OWlBcEFEZFB5RUxlR1h0aC1YQlRRWmhfSC1xSlhsaWg1dGloaGc5eXkxWlZ1NWFxZ1BEYWRoT1lqWWpDWUJMSjBWNWpKbHc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787497608.0
+    },
+    {
+        "id": "1e0f7085f6",
+        "title_fa": "راه‌اندازی دایرکتوری جامع شرکت‌های هوش مصنوعی در میشیگان",
+        "title_en": "MITechNews Building Michigan AI Company Directory — AI Firms Invited To Join For September Launch",
+        "summary": [
+            "رسانه MITechNews در حال ساخت یک بانک اطلاعاتی جامع از شرکت‌ها و استارتاپ‌های فعال هوش مصنوعی در ایالت میشیگان است.",
+            "این پلتفرم با هدف ایجاد شبکه میان سرمایه‌گذاران، توسعه‌دهندگان و کسب‌وکارها در سپتامبر امسال رونمایی می‌شود."
+        ],
+        "full_text": "MITechNews Building Michigan AI Company Directory — AI Firms Invited To Join For September Launch  MITechNews",
+        "impact": "تسهیل ارتباطات تجاری و جذب سرمایه برای استارتاپ‌های منطقه‌ای هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "MITechNews",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb1JvTG13aW5EWURWcHhSdjUtOFZVWWwxUzhsM2VGSUQ5ODJaWUR3VWZNZDVmZXVWUVVQNjJqT0RUci0tWVlOUDNpb21yeUtwVmJPODUzaG1QV01iTUJDdEoyVnlKeEM0VHRpSnlrQ1pLSXcxOGRuUTF4YWFiNzBKaG9hSmRlaUpra2htNDZSVjAzRnBseHlTNUEya0ZPYzJlX0lJdEJHazdvOGg4NWVxV2lsUEVBdnd6S1EyTlFJZjhXbVhyYXU4ckt3cjhWcEYwRHZvcGw5VUhzVEYtSkRj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb1JvTG13aW5EWURWcHhSdjUtOFZVWWwxUzhsM2VGSUQ5ODJaWUR3VWZNZDVmZXVWUVVQNjJqT0RUci0tWVlOUDNpb21yeUtwVmJPODUzaG1QV01iTUJDdEoyVnlKeEM0VHRpSnlrQ1pLSXcxOGRuUTF4YWFiNzBKaG9hSmRlaUpra2htNDZSVjAzRnBseHlTNUEya0ZPYzJlX0lJdEJHazdvOGg4NWVxV2lsUEVBdnd6S1EyTlFJZjhXbVhyYXU4ckt3cjhWcEYwRHZvcGw5VUhzVEYtSkRj",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787497282.0
+    },
+    {
+        "id": "4e59a47b20",
+        "title_fa": "جهش بزرگ رباتیک؛ پیش‌بینی ظهور «چت‌جی‌پتیِ ربات‌ها» تا سال ۲۰۲۷",
+        "title_en": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+        "summary": [
+            "رئیس هیئت‌مدیره ACE Robotics مدعی شده که مغزهای رباتیک تا سال ۲۰۲۷ به نقطه عطفی مشابه ظهور چت‌جی‌پتی خواهند رسید.",
+            "ادغام مدل‌های پایه هوش مصنوعی با سیستم‌های حرکتی، توانایی درک محیط و تصمیم‌گیری لحظه‌ای ربات‌ها را دگرگون می‌کند.",
+            "این جهش نرم‌افزاری، مسیر ورود ربات‌های انسان‌نما به کارخانه‌ها و منازل را چند سال جلو می‌اندازد."
+        ],
+        "full_text": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says  Decrypt",
+        "impact": "تسریع بی‌سابقه در تجاری‌سازی و همه‌گیری ربات‌های هوشمند خانگی و صنعتی.",
+        "tag": "رباتیک",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Decrypt",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxMXlJOHZJUFcwbDBQaVNUZFN5RTlpNkVuaFllY0xPeGhQNEJnS0xKcHZEMmJtclZOWDhqa1VJbTYwMmZhdGJEMTNpcHJBMDFFRjJ2SWhIN2VoX180Ym5hajRjU2xYc0JYNUJyVGhaOEYwMjhuRGo5R3VyajLSAXxBVV95cUxQMTF5STh2SVBXMGwwUGlTVGRTeUU5aTZFbmhZZWNMT3hoUDRCZ0tMSnB2RDJibXJWTlg4amtVSW02MDJmYXRiRDEzaXByQTAxRUYydkloSDdlaF9fNGJuYWo0Y1NsWHNCWDVCclRoWjhGMDI4bkRqOUd1cmoy?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxMXlJOHZJUFcwbDBQaVNUZFN5RTlpNkVuaFllY0xPeGhQNEJnS0xKcHZEMmJtclZOWDhqa1VJbTYwMmZhdGJEMTNpcHJBMDFFRjJ2SWhIN2VoX180Ym5hajRjU2xYc0JYNUJyVGhaOEYwMjhuRGo5R3VyajLSAXxBVV95cUxQMTF5STh2SVBXMGwwUGlTVGRTeUU5aTZFbmhZZWNMT3hoUDRCZ0tMSnB2RDJibXJWTlg4amtVSW02MDJmYXRiRDEzaXByQTAxRUYydkloSDdlaF9fNGJuYWo0Y1NsWHNCWDVCclRoWjhGMDI4bkRqOUd1cmoy",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787495464.0
+    },
+    {
         "id": "3862938613",
         "title_fa": "تعویق ناگهانی مأموریت فضایی چانگ‌ای-۷ چین در قطب جنوب ماه",
         "title_en": "China abruptly postpones ambitious Chang’e-7 lunar mission launch",
