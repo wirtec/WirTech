@@ -1,5 +1,119 @@
 [
     {
+        "id": "955c375ebb",
+        "title_fa": "مذاکره انویدیا با استارتاپ کره‌ای ریبلیونز برای همکاری یا تصاحب",
+        "title_en": "Nvidia opens talks with Rebellions on potential AI chip partnership",
+        "summary": [
+            "مدیران انویدیا و استارتاپ کره‌ای Rebellions برای سرمایه‌گذاری، همکاری فنی یا حتی خرید احتمالی وارد گفتگو شده‌اند.",
+            "ریبلیونز که تراشه‌های اختصاصی برای پردازش‌های استنتاجی (Inference) می‌سازد، ۲.۳ میلیارد دلار ارزش‌گذاری شده است.",
+            "این معامله می‌تواند موقعیت انویدیا را در بازار سخت‌افزارهای پردازش هوش مصنوعی بیش از پیش تثبیت کند."
+        ],
+        "full_text": "Nvidia has entered early-stage discussions with Rebellions, a South Korean startup focused on AI chips, on several possible forms of collaboration, reported Bloomberg, citing people familiar with the matter. The collaboration options under consideration include a technical partnership, investment, or a potential acquisition. The talks follow a meeting last week at Nvidia's Santa Clara headquarters between the company's CEO Jensen Huang and Rebellions co-founder and CEO Sunghyun Park. Rebellions, established in 2020 and based in Bundang, specialises in the development of neural processing units for data centres, with a focus on AI inference workloads. Inference, a process less demanding than AI training, supports the large-scale operation of AI services. The company's ATOM architecture is designed for generative AI tasks and has been employed with Red Hat's AI software stack, reported Tech in Asia. Rebellions has attracted approximately $850m in funding from investors that include Samsung Ventures, SK Hynix, and Arm Holdings. It has also received a direct investment from the South Korean government. Nvidia has increased its focus on investments within the AI sector in recent years. Past transactions have involved high-profile companies, such as the 2025 deal with US-based Groq, where Nvidia acquired a nonexclusive licence and employed most of the former's engineering team. Nvidia described the arrangement as not constituting an acquisition, as Groq continues independent operations and maintains its cloud business. Sources caution that discussions with Rebellions remain at a preliminary stage, and there is no certainty that any transaction will occur. Should an acquisition or similar arrangement be pursued, regulatory scrutiny could be expected, particularly from authorities in South Korea, where semiconductors are regarded as critical assets. In March, Rebellions raised $400m in a pre-initial public offering (IPO) funding round led by Mirae Asset Financial Group and the Korea National Growth Fund. With this latest investment, the company's total funding reached $850m, giving it an estimated valuation of $2.34bn. \"Nvidia opens talks with Rebellions on potential AI chip partnership\" was originally created and published by Verdict, a GlobalData owned brand.",
+        "impact": "تثبیت انحصار انویدیا بر زیرساخت‌های سخت‌افزاری پردازش و استنتاج هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Verdict",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
+        "image": "https://media.zenfs.com/en/verdict_626/1ac12911d71b94d50ff1fba47278ea47.jpg",
+        "images": [
+            "https://media.zenfs.com/en/verdict_626/1ac12911d71b94d50ff1fba47278ea47.jpg",
+            "https://s.yimg.com/lo/mysterio/api/D8891ECD182DAB059E3BC1D132CBD15C06672A45DB69C1A6456340A99B9D5FC0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2F1ac12911d71b94d50ff1fba47278ea47.jpg",
+            "https://s.yimg.com/lo/mysterio/api/781DBBFAF21689D6093FEC7AFF5B27BA11CE03DE8CC58DB5322C1F6ABB244595/subgraphmysterio/resizefit_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2F1ac12911d71b94d50ff1fba47278ea47.jpg",
+            "https://s.yimg.com/cv/apiv2/finance/article/fallback_thumb/opt/GuruFocus.png"
+        ],
+        "timestamp": 1787561891.0
+    },
+    {
+        "id": "fae343deca",
+        "title_fa": "ورود بانک‌اینوسـت به بازار AI با راه‌اندازی صندوق جدید",
+        "title_en": "BankInvest joins AI trend with new fund launch: \"We don’t think that we have missed the train\"",
+        "summary": [
+            "مؤسسه مالی BankInvest با ایجاد یک صندوق اختصاصی، رسماً وارد حوزه سرمایه‌گذاری در فناوری هوش مصنوعی شد.",
+            "مدیران این بانک معتقدند موج رشد هوش مصنوعی تازه آغاز شده و فرصت‌های سودآوری زیادی پیش‌رو است."
+        ],
+        "full_text": "BankInvest joins AI trend with new fund launch: \"We don’t think that we have missed the train\"  AMWatch",
+        "impact": "ورود سرمایه‌های جدید اروپایی به سمت استارتاپ‌ها و زیرساخت‌های کلیدی هوش مصنوعی.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "AMWatch",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcXp4ZzN5U3ItcnZUTDFTWWktd21vMFQ5NmhHOEZFNDBSRTU3YVB1WEhRWTd3X1dRb3NmRlJ4NWFsbVFjZEY4MTNicC14VzdhNmRmOVFNSDhCQ0pQb0FZXzlZY0YxLVAyanRxWW5nSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcXp4ZzN5U3ItcnZUTDFTWWktd21vMFQ5NmhHOEZFNDBSRTU3YVB1WEhRWTd3X1dRb3NmRlJ4NWFsbVFjZEY4MTNicC14VzdhNmRmOVFNSDhCQ0pQb0FZXzlZY0YxLVAyanRxWW5nSQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787561400.0
+    },
+    {
+        "id": "1158f2d11a",
+        "title_fa": "بزرگ‌ترین به‌روزرسانی هوش مصنوعی کوپا برای تیم‌های تدارکات",
+        "title_en": "Coupa launches largest AI release for procurement teams",
+        "summary": [
+            "پلتفرم مدیریت زنجیره تامین Coupa از بزرگ‌ترین بسته ابزارهای مبتنی بر هوش مصنوعی خود رونمایی کرد.",
+            "این قابلیت‌های جدید، فرایندهای خرید و تصمیم‌گیری‌های مالی سازمان‌ها را هوشمندتر و سریع‌تر می‌کنند."
+        ],
+        "full_text": "Coupa launches largest AI release for procurement teams  IT Brief Asia",
+        "impact": "کاهش چشمگیر هزینه‌های عملیاتی و اتوماسیون فرایند تامین کالا در شرکت‌های بزرگ.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "IT Brief Asia",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFF1MTNVWlV1VnRJbFVJbm5JWXdTRjJ0RjRLZUszeC1FR3NrbC1aRTY1dlctbHl4U01QSFdUWnB2V2lQUUN5NTlsQUd2eGtUWVhkdmJFekl4TWNjWWRpWjA5MGhTRENsb0ZqTW1ocFJvX25Oek5paEpBVXFQMkNhZ2FvLTRyNndGdFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFF1MTNVWlV1VnRJbFVJbm5JWXdTRjJ0RjRLZUszeC1FR3NrbC1aRTY1dlctbHl4U01QSFdUWnB2V2lQUUN5NTlsQUd2eGtUWVhkdmJFekl4TWNjWWRpWjA5MGhTRENsb0ZqTW1ocFJvX25Oek5paEpBVXFQMkNhZ2FvLTRyNndGdFE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787557500.0
+    },
+    {
+        "id": "41d72c3d66",
+        "title_fa": "رونمایی آزمایشگاه LibAI از پلتفرم جدید NewFace.AI",
+        "title_en": "LibAI Lab Announced the Launch of NewFace.AI",
+        "summary": [
+            "مجموعه LibAI Lab ابزار جدید NewFace.AI را برای پردازش و تولید تصویر معرفی کرد.",
+            "این ابزار روی خلق چهره‌های واقع‌گرایانه و کاربردهای دیجیتال مارکتینگ تمرکز دارد."
+        ],
+        "full_text": "LibAI Lab Announced the Launch of NewFace.AI  MarTech Cube",
+        "impact": "تسهیل و ارزان‌تر شدن تولید محتوای بصری هوشمند برای کمپین‌های تبلیغاتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "MarTech Cube",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJbVROb1BNcFVFcVk1bWNvUlRBSkdjLVRJbE9LaGhLN2JCRldMVUtwV2pmbHp6V2VYZ19MSFFjREF5NUpxeFdhcVBHb0lsWmY2OW1MaXhRcmxqblAyZWtHTk9KRU9XeHRQcVlwY3o1a3ByRTdENU5uenVodVRWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJbVROb1BNcFVFcVk1bWNvUlRBSkdjLVRJbE9LaGhLN2JCRldMVUtwV2pmbHp6V2VYZ19MSFFjREF5NUpxeFdhcVBHb0lsWmY2OW1MaXhRcmxqblAyZWtHTk9KRU9XeHRQcVlwY3o1a3ByRTdENU5uenVodVRWZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787557036.0
+    },
+    {
+        "id": "629680d2e2",
+        "title_fa": "آزمایش همزاد دیجیتالی هوش مصنوعی توسط طراح مطرح مد",
+        "title_en": "Willy Chavarria is testing an AI version of himself",
+        "summary": [
+            "ویلی چاواریا، طراح سرشناس دنیای مد، در حال ساخت و تست یک نسخه هوش مصنوعی از شخصیت خود است.",
+            "این همزاد دیجیتالی قرار است در پروسه خلق طرح‌های جدید و ارتباط با مخاطبان به او کمک کند."
+        ],
+        "full_text": "Willy Chavarria is testing an AI version of himself  glossy.co",
+        "impact": "نفوذ عملیاتی هوش مصنوعی به فرایندهای خلاقانه در صنعت مد و پوشاک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "glossy.co",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJNdXc0OGJQel9UWkllMG9pVkdaVmpPaDE2YVBlczRobG5QLTMwa0o4YmxMRHlWVEdNeGEyOEwtV0tYdW1tTVFESk1WQmZMUkx1R3lNVTdOQmxOMWF0cU83LXU5V2kwbU8xOGFLR0luUUJIMUxNNzlNX0d1VWJiMTR3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJNdXc0OGJQel9UWkllMG9pVkdaVmpPaDE2YVBlczRobG5QLTMwa0o4YmxMRHlWVEdNeGEyOEwtV0tYdW1tTVFESk1WQmZMUkx1R3lNVTdOQmxOMWF0cU83LXU5V2kwbU8xOGFLR0luUUJIMUxNNzlNX0d1VWJiMTR3dw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787555018.0
+    },
+    {
         "id": "34a03e36a7",
         "title_fa": "دوبائو با ابزار WorkBuddy به سراغ اتوماسیون سازمانی می‌رود",
         "title_en": "Doubao to Launch WorkBuddy-Type AI Products: Feishu’s Decade of Enterprise Capabilities Goes Modular for Next-Gen Work Collaboration",
