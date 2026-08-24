@@ -1,5 +1,93 @@
 [
     {
+        "id": "f380c061fa",
+        "title_fa": "ورود لیدی گاگا به حوزه مراقبت از پوست با تحلیل‌های هوش مصنوعی",
+        "title_en": "AI, Skin Samples, and Beauty: Michael Polansky and Lady Gaga Chase the Next Breakthrough in Skincare",
+        "summary": [
+            "مایکل پولانسکی و لیدی گاگا با ترکیب نمونه‌برداری پوستی و الگوریتم‌های هوش مصنوعی به دنبال ایجاد تحول در تولید محصولات زیبایی هستند.",
+            "این پروژه تلاش دارد با تحلیل داده‌های بیولوژیکی، فرمولاسیون‌های کاملاً شخصی‌سازی‌شده برای سلامت پوست ارائه دهد."
+        ],
+        "full_text": "AI, Skin Samples, and Beauty: Michael Polansky and Lady Gaga Chase the Next Breakthrough in Skincare  inc.com",
+        "impact": "تغییر الگوی صنعت محصولات زیبایی از روش‌های سنتی به سمت فرمولاسیون‌های داده‌محور و اختصاصی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "inc.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEJqM0dwSEhqR29YZWJmVDFjSngtaTR0QkM3NTdGUmNHR0hUd3hjelBZUXB2Yy1QWlVFaEpCdWoySjBjSFVBQmEyWUJINHVGZVlwQ2pQWE9JOTBwOHVZRjc4SlVGUWIxY184a2VreFBHbVJ4eklVVGpoU3Z1UTAzVS1NZ1BqUEllVUJ0OGZuUjlYSGFhdDFpUW9HamJkWWpTUVhxWmZJY21GdWs1VlFNaVcwakp1LU5ieGFfS3BDMDZjZWNxUHV0MjJPSWJmTHZmRGRrYzZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEJqM0dwSEhqR29YZWJmVDFjSngtaTR0QkM3NTdGUmNHR0hUd3hjelBZUXB2Yy1QWlVFaEpCdWoySjBjSFVBQmEyWUJINHVGZVlwQ2pQWE9JOTBwOHVZRjc4SlVGUWIxY184a2VreFBHbVJ4eklVVGpoU3Z1UTAzVS1NZ1BqUEllVUJ0OGZuUjlYSGFhdDFpUW9HamJkWWpTUVhxWmZJY21GdWs1VlFNaVcwakp1LU5ieGFfS3BDMDZjZWNxUHV0MjJPSWJmTHZmRGRrYzZ3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787540400.0
+    },
+    {
+        "id": "e69d31df66",
+        "title_fa": "ادغام گسترده ابزارهای هوش مصنوعی در برنامه‌های درسی دانشگاهی",
+        "title_en": "University makes changes across multiple schools, integrates AI",
+        "summary": [
+            "دانشگاه تکساس با به‌روزرسانی ساختار آموزشی خود، فناوری‌های هوش مصنوعی را در دانشکده‌های مختلف ادغام می‌کند.",
+            "این طرح برنامه‌های درسی را طوری تغییر می‌دهد که دانشجویان رشته‌های گوناگون کاربرد عملی هوش مصنوعی را یاد بگیرند."
+        ],
+        "full_text": "University makes changes across multiple schools, integrates AI  The Daily Texan",
+        "impact": "ارتقای مهارت‌های دیجیتال دانشجویان و آماده‌سازی نیروی کار آینده برای بازار کار مبتنی بر هوش مصنوعی.",
+        "tag": "آموزش",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "The Daily Texan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlMRzJFQ2xCaUFpcjlkNUszSk9MSjg4ejlTN3Y2dXVXczBEbjBCNnRMUVRyaElObFVkVEszOElDQm1UYVZRNXV5TzBWSFdGdlE1Z0JkZDc2NTdsSTJxSHFNZnJGQkVzNGtPbFJsM3hKaHdVZjN0MTd2czFoaTFHdG9EZnpJbVJOODRkdFFpTjZNaVBWQmpuZ1VNeFhPeEtXeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlMRzJFQ2xCaUFpcjlkNUszSk9MSjg4ejlTN3Y2dXVXczBEbjBCNnRMUVRyaElObFVkVEszOElDQm1UYVZRNXV5TzBWSFdGdlE1Z0JkZDc2NTdsSTJxSHFNZnJGQkVzNGtPbFJsM3hKaHdVZjN0MTd2czFoaTFHdG9EZnpJbVJOODRkdFFpTjZNaVBWQmpuZ1VNeFhPeEtXeVE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787539899.0
+    },
+    {
+        "id": "e8442d07ef",
+        "title_fa": "برگزاری رویداد AIMX 2026 سنگاپور برای شتاب‌دهی به پیاده‌سازی AI",
+        "title_en": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations",
+        "summary": [
+            "رویداد AIMX 2026 سنگاپور با هدف تقویت همکاری‌های بین‌المللی و تجاری‌سازی نوآوری‌های هوش مصنوعی برگزار می‌شود.",
+            "تمرکز اصلی این نشست بر اتصال استارتاپ‌های پیشرو به سرمایه‌گذاران جهانی و به کارگیری عملی AI در صنایع است."
+        ],
+        "full_text": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations  PR Newswire",
+        "impact": "تثبیت موقعیت سنگاپور به عنوان مرکز اصلی جذب سرمایه‌گذاری و توسعه هوش مصنوعی در آسیا.",
+        "tag": "رویداد",
+        "urgency": 5,
+        "sentiment": 0.65,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRlJYeks1MVk1ZVpPVVFhMWR4aUgxcTkwZUk1d2M3ZnhGbFdJejZYNFdRS1RfZGlPLUJtbS1hMWFjb1dYQkFJSkVCM1R2QVZwYUxWdUNTTDR3TUNjQ1p2TUJ0bzc3aG9JWWVybUt3MHdoZDlzT2FJLTRxVTAxaFZyV29qM04xMEI3bXN2M2tnbkpnMFNUYkVtLTVvQWhJMXI2bEdOS2hBWEdiMmxFU0c2UDV0bFdSSy1Lb3ZhcmFLV0hjUDRvcE9HT2dhMEdyd3hpTWRVWURGRFRvb1RNc1lqWHktNE9jVWZTUFFYOTVzcWdvVTN5TzhvelhtdVNWZlRvdU9oWkxDMl9VTngzcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRlJYeks1MVk1ZVpPVVFhMWR4aUgxcTkwZUk1d2M3ZnhGbFdJejZYNFdRS1RfZGlPLUJtbS1hMWFjb1dYQkFJSkVCM1R2QVZwYUxWdUNTTDR3TUNjQ1p2TUJ0bzc3aG9JWWVybUt3MHdoZDlzT2FJLTRxVTAxaFZyV29qM04xMEI3bXN2M2tnbkpnMFNUYkVtLTVvQWhJMXI2bEdOS2hBWEdiMmxFU0c2UDV0bFdSSy1Lb3ZhcmFLV0hjUDRvcE9HT2dhMEdyd3hpTWRVWURGRFRvb1RNc1lqWHktNE9jVWZTUFFYOTVzcWdvVTN5TzhvelhtdVNWZlRvdU9oWkxDMl9VTngzcGc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787536800.0
+    },
+    {
+        "id": "b363e3c313",
+        "title_fa": "شناسایی هویت یکی از قربانیان ۱۱ سپتامبر با تبارشناسی ژنتیکی",
+        "title_en": "9/11 victim identified using first-of-its-kind genetic genealogy technique - ABC News",
+        "summary": [
+            "پزشکی قانونی با به کارگیری روش جدید تبارشناسی ژنتیکی موفق به شناسایی هویت یکی دیگر از قربانیان حادثه ۱۱ سپتامبر شد.",
+            "این فناوری پیشرفته استخراج و تحلیل داده‌های ژنتیکی از نمونه‌های قدیمی و بسیار آسیب‌دیده را ممکن ساخته است."
+        ],
+        "full_text": "9/11 victim identified using first-of-its-kind genetic genealogy technique  ABC News - Breaking News, Latest News and Videos",
+        "impact": "تحول بزرگ در پزشکی قانونی و امکان حل پرونده‌های حقوقی و جنایی قدیمی به کمک پردازش داده‌های دی‌ان‌ای.",
+        "tag": "بیوتکنولوژی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRRR3N0dVN2TGF5RHFWeDFvVnVoWUdoVXZad3ZvWEpYek1DNjZlNUZVSXg3MzlUWXZnMXkzR3hTNHlOQ0FSdUFtaXoyc3hjaXlSMjQ2RUtSbENwZU1CbEFYbEs1bDZoekowcHpFTXdGTkRBb3lGemZoR1FFUU8zVGFzMGVyQmtPUmMtQ0F3N3I5NGJBTXdRNmZFbm3SAaIBQVVfeXFMTWZhbk0xZWppLWwyb2gzV3VER1dkaThwLUJEZXdLR1ZvNkxlajVuU295SWp2WHcwUkpPYmRueG92ei1ORXhzdmh1YzVETHdObWV2UEZwa21mdy1fNlQyOUJtWDQ3MC1oeENYcUNCV3hvTGhkTTdQdmIzb3dMVWxRVUtOY05OWmo4Z2xSbkpTVzZMU0FXSUdBM19TQnVCbG9PUUpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRRR3N0dVN2TGF5RHFWeDFvVnVoWUdoVXZad3ZvWEpYek1DNjZlNUZVSXg3MzlUWXZnMXkzR3hTNHlOQ0FSdUFtaXoyc3hjaXlSMjQ2RUtSbENwZU1CbEFYbEs1bDZoekowcHpFTXdGTkRBb3lGemZoR1FFUU8zVGFzMGVyQmtPUmMtQ0F3N3I5NGJBTXdRNmZFbm3SAaIBQVVfeXFMTWZhbk0xZWppLWwyb2gzV3VER1dkaThwLUJEZXdLR1ZvNkxlajVuU295SWp2WHcwUkpPYmRueG92ei1ORXhzdmh1YzVETHdObWV2UEZwa21mdy1fNlQyOUJtWDQ3MC1oeENYcUNCV3hvTGhkTTdQdmIzb3dMVWxRVUtOY05OWmo4Z2xSbkpTVzZMU0FXSUdBM19TQnVCbG9PUUpn",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787536306.0
+    },
+    {
         "id": "aff2571990",
         "title_fa": "عرضه درگاه هوش مصنوعی A10 Networks برای مدیریت ترافیک",
         "title_en": "A10 Networks (ATEN) Launches AI Gateway As Fair Value Stays In Focus",
@@ -470,6 +558,32 @@
             "https://www.briefs.co/wp-content/plugins/gumlet/assets/images/pixel.png"
         ],
         "timestamp": 1787500920.0
+    },
+    {
+        "id": "e3f78486c8",
+        "title_fa": "کشف هوش مصنوعی جدید برای شناسایی دقیق سلول‌های سرطان‌زا",
+        "title_en": "Indian labs are innovating cancer care",
+        "summary": [
+            "محققان هندی مدل هوش مصنوعی ACSCeND را برای شناسایی سلول‌های پنهان و مقاوم به درمان توسعه دادند.",
+            "این الگوریتم با تحلیل داده‌های دنباله‌یابی RNA، سلول‌های عامل بازگشت تومور را دقیق‌تر از روش‌های قبلی ردیابی می‌کند.",
+            "آزمایش این ابزار روی بیش از ۲۵ هزار نمونه تومور، برتری آن را در شناسایی وضعیت‌های مختلف سلول‌های سرطانی به اثبات رسانده است."
+        ],
+        "full_text": "Cancer cells are like thieves. They are capable of adapting to micro-environmental pressures, evade surveillance and resist treatment. They can disguise themselves or switch between observable states. But the difficulty in detecting them is only half the problem for medical science. The other half is with treatments that harm healthy tissues too, leaving patients feeling worn out. Research institutes under the Department of Science and Technology have published two separate studies to introduce an artificial intelligence (AI) framework that helps identify cancer ‘stem-like’ cells responsible for tumour recurrence, and a small-molecule candidate that can selectively release compounds within cancer cells while leaving non-malignant tissue unharmed. Identifying stem cells The first study, led by Dr Shubhasis Haldar at SN Bose National Centre for Basic Sciences, in collaboration with Ashoka University, addresses the detection of rare cancer stem-like cells (CSCs). While standard treatments such as chemotherapy weed out the bulk of cancer cells within a tumour, small populations of stem-like cells are often left behind. These residual cells could cause a recurrence of the cancer and potentially spread to other organs, resisting treatment. Detection of CSCs has been difficult because they are rare and can change their cellular identity. “Defined by their ability to self-renew and differentiate into multiple tumour lineages, CSCs occupy the apex of cellular hierarchies in many cancers,” the researchers say in a paper published in NAR Cancer. The new AI framework they developed — AI-based Cancer Stem-like Cell Profiler and Neoplasm Deconvoluter or ACSCeND — addresses this problem by identifying three different states of cancer stem-like cells within a tumour — pluripotent-like, multipotent-like and unipotent-like. ACSCeND combines information learned from high-resolution single-cell sequencing with deep-learning techniques to analyse conventional bulk RNA sequencing data. This means that stem-like cell populations that would otherwise remain hidden can potentially be profiled in large numbers of existing patient samples. The researchers validated ACSCeND against existing methods and found that it consistently performed better across independent datasets and sequencing platforms. They subsequently used it to analyse more than 25,000 tumour samples from international cancer databases. The analysis found that tumours enriched in highly potent pluripotent-like cancer stem cells were associated with poorer patient survival, greater likelihood of recurrence and a reduced response to modern immunotherapies. The framework also identified molecular programmes that may allow these cells to survive, adapt and evade the immune system. Bulk sequencing The approach is significant as it works on bulk RNA-sequencing data. Single-cell sequencing — isolating individual cells from a tumour sample and sequencing the RNA inside one single cell at a time –— can provide much finer information about individual tumour cells but needs more infrastructure and analytics bandwidth. By extracting hidden stem-like cell states from conventional datasets, ACSCeND could help extend cancer profiling to thousands of patient samples and settings where single-cell facilities are limited. In a parallel development addressing drug toxicity, researchers led by Dr Asis Bala at IASST-Guwahati and Dr KP Bhabak at IIT-Guwahati synthesised a small-molecule unit — the RK-251 compound — which remains inactive but transforms when it enters a malignant cell. This is important because standard chemotherapies distribute cytotoxic agents broadly throughout the human circulatory system, affecting healthy tissues and resulting in debilitating side-effects. Mechanism of action The findings were published in the ACS Journal of Medicinal Chemistry. The selective mechanism of RK-251 relies on metabolic differences between healthy and malignant cells. Cancer cells frequently contain high concentrations of reactive oxygen species (ROS) — unstable, oxygen-containing metabolic by-products. After RK-251 crosses the cell membrane, high ROS concentrations within the cancer cell react with it, triggering the release of an anti-cancer compound called NBDHEX. This compound targets specific proteins that malignant cells need to proliferate and resist treatment, and thereby inhibits their potency. Because cells that are not malignant have lower ROS concentrations, the chemical activity of the drug is minimal in them, allowing healthy tissues to survive. In lab tests, RK-251 showed it was effective against cells with triple-negative breast cancer — a type that lacks oestrogen, progesterone and a certain class of receptors — while exhibiting lower toxicity towards non-cancerous cells. Tests using zebrafish embryos showed no ‘observable’ signs of needless toxicity. The compound showed fluorescent activity that increased with ROS concentrations, allowing researchers to track drug activation visually within target tissues. “The two major challenges for modern medicine are relapse or recurrence of cancer cells post treatment, and the side-effects of chemotherapy that destroys normal cells along with cancer cells. AI has the potential to overcome these two challenges. Identifying cancer stem-like cells using AI could predict early relapses. Targeted drugs that become active only in cancer cells and spare normal cells will make a difference to patients. These strategies could be major breakthroughs in modern medicine,” says Dr Sivasubramaniam K, medical oncologist, Prashanth Group of Hospitals. Published on August 24, 2026",
+        "impact": "افزایش چشمگیر دقت در پیش‌بینی بازگشت سرطان و هموار کردن مسیر درمان‌های هدفمند بدون آسیب به بافت سالم.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.85,
+        "source": "The Hindu BusinessLine",
+        "url": "https://www.thehindubusinessline.com/business-tech/indian-labs-are-innovating-cancer-care/article71382189.ece",
+        "clean_url": "https://www.thehindubusinessline.com/business-tech/indian-labs-are-innovating-cancer-care/article71382189.ece",
+        "image": "https://bl-i.thgim.com/public/incoming/9zoitj/article71382190.ece/alternates/LANDSCAPE_1200/BL2408_Quantum_Lead.jpg",
+        "images": [
+            "https://bl-i.thgim.com/public/incoming/9zoitj/article71382190.ece/alternates/LANDSCAPE_1200/BL2408_Quantum_Lead.jpg",
+            "https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1",
+            "https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg",
+            "https://assetsbl.thehindubusinessline.com/theme/images/bl-online/mobile-logo.svg"
+        ],
+        "timestamp": 1787500800.0
     },
     {
         "id": "02820e4775",
