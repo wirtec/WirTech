@@ -1,5 +1,49 @@
 [
     {
+        "id": "110760610b",
+        "title_fa": "پیشرفت جدید در فناوری ژنتیک برای شناسایی قربانیان ۱۱ سپتامبر",
+        "title_en": "9/11 Breakthrough Reopens Hope for Identifications",
+        "summary": [
+            "دستاوردی تازه در تکنولوژی استخراج و تحلیل DNA، امیدها را برای شناسایی باقی‌مانده پیکر قربانیان برج‌های دوقلو زنده کرد.",
+            "این روش پیشرفته امکان تحلیل نمونه‌های بسیار آسیب‌دیده ژنتیکی را فراهم کرده است."
+        ],
+        "full_text": "9/11 Breakthrough Reopens Hope for Identifications  Substack",
+        "impact": "تحولی مهم در ابزارهای پزشکی قانونی برای حل پرونده‌های پیچیده و قدیمی.",
+        "tag": "بیوتکنولوژی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Substack",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGJHWGM4VExVTHcycUNQalNHVDFvT3hBM2V5MS0xdEFTVi1BN1o1RDZWQUF5QmxmaDBUOEdfLW0zcWMxVVMxWFIzSU5EcnBOYWdZcW5pVVpScmJTT0tvLVNaR1pZQ28xS1REMlJDLXB4TFV0MGN1NU5ITGp5dmg5YXZMWm1qOHEtRlZVM09kaDJQTHZSejZKZnllMnhMMWlX?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGJHWGM4VExVTHcycUNQalNHVDFvT3hBM2V5MS0xdEFTVi1BN1o1RDZWQUF5QmxmaDBUOEdfLW0zcWMxVVMxWFIzSU5EcnBOYWdZcW5pVVpScmJTT0tvLVNaR1pZQ28xS1REMlJDLXB4TFV0MGN1NU5ITGp5dmg5YXZMWm1qOHEtRlZVM09kaDJQTHZSejZKZnllMnhMMWlX",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787572373.0
+    },
+    {
+        "id": "8943c1c08c",
+        "title_fa": "جایگزینی هوش تجاری سنتی با هوش مصنوعی عامل‌محور ibi",
+        "title_en": "ibi Launches Enterprise Agentic AI Engine at Annual Customer Summit Replacing Passive Business Intelligence",
+        "summary": [
+            "شرکت ibi موتور جدیدی بر پایه هوش مصنوعی عامل‌محور (Agentic AI) معرفی کرد که جایگزین سیستم‌های تحلیل داده غیرفعال می‌شود.",
+            "این ابزار برخلاف سامانه تحلیل داده قدیمی، فقط گزارش نمی‌دهد بلکه خودش داده‌ها را تحلیل کرده و دست به اقدام می‌زند."
+        ],
+        "full_text": "ibi Launches Enterprise Agentic AI Engine at Annual Customer Summit Replacing Passive Business Intelligence  Business Wire",
+        "impact": "سرعت‌بخشی بی‌سابقه‌ای به تصمیم‌گیری‌های سازمانی و حذف فرآیندهای دستی تحلیل داده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU09DU3ZCdWgwRDJzLWNqcXVGaWVaWGxnT2VIRGVDSDZQQ2FVallKdUpjbDg2OU1qUFlmTTFZSGM5d3dIYkZTRFRfd0RIdVp2amFvdHBPdVc2bnVuTzNNX0g3TFl4WTBQZEpualk4RXZkQld2VDhJbHBGTTZLb0dGZThSYXR3T2MzaEtPSndVZVZHVUlhTW9SM2ItMDE4dnBCMXRBa0RRaEZkREJUSGt5VFJDODhfMno5bTU4dDFONmUtZEdINWh1dFdXeVhSbG1Jb3UxcEUzR0VTMjhaNzVKWHNkVkstLWJiSVZCT1hOSlN5SW8xM1Zj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU09DU3ZCdWgwRDJzLWNqcXVGaWVaWGxnT2VIRGVDSDZQQ2FVallKdUpjbDg2OU1qUFlmTTFZSGM5d3dIYkZTRFRfd0RIdVp2amFvdHBPdVc2bnVuTzNNX0g3TFl4WTBQZEpualk4RXZkQld2VDhJbHBGTTZLb0dGZThSYXR3T2MzaEtPSndVZVZHVUlhTW9SM2ItMDE4dnBCMXRBa0RRaEZkREJUSGt5VFJDODhfMno5bTU4dDFONmUtZEdINWh1dFdXeVhSbG1Jb3UxcEUzR0VTMjhaNzVKWHNkVkstLWJiSVZCT1hOSlN5SW8xM1Zj",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787572260.0
+    },
+    {
         "id": "b6d4891bdd",
         "title_fa": "برنامه ۶ میلیارد دلاری انویدیا برای ساخت مدل‌های متن‌باز و رقابت با چین",
         "title_en": "Reports: Nvidia to use $6bn Poolside deal to build open-weight models",
