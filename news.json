@@ -1,5 +1,27 @@
 [
     {
+        "id": "aff2571990",
+        "title_fa": "عرضه درگاه هوش مصنوعی A10 Networks برای مدیریت ترافیک",
+        "title_en": "A10 Networks (ATEN) Launches AI Gateway As Fair Value Stays In Focus",
+        "summary": [
+            "شرکت A10 Networks ابزار جدید AI Gateway را برای بهبود امنیت و مدیریت بارهای کاری سنگین هوش مصنوعی معرفی کرد.",
+            "این اقدام بخشی از استراتژی شرکت برای تثبیت ارزش بازار و گسترش سهم خود در زیرساخت‌های ابری است."
+        ],
+        "full_text": "A10 Networks (ATEN) Launches AI Gateway As Fair Value Stays In Focus  simplywall.st",
+        "impact": "این درگاه بازدهی و امنیت زیرساخت‌های پردازشی را برای سازمان‌های توسعه‌دهنده خدمات AI تسهیل می‌کند.",
+        "tag": "شبکه و امنیت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUd5WWJqdnVTZFdFa2tGZlZtV3FDaDZrX2tCbVBnTWI4NzBpZ3JkNVdzbU1SZFdOVkE4c1ZvN19temxGdUJKN3NQdWhZTlJ1UjZBZHNlTDZiT1pXUEIyTjZFVG1nSHVpZzkxemR2VXJVZy0zcnRramFVeC1fTjhfWEJjcTBUREw3bkZIS3NGLW1FaUNVcnM3amlLNWVzeVVxT3BORGhvb2NScXB6Rm9uV09jT2hNckZBNFRCY2RTWDZYTUdaN2RPOdIBzgFBVV95cUxQVG1LYUF1eUdhWU0yZG5aX2ZIR2tzMXhFSjYweGZXc2VhU2ZzdnFzZV9vWjctZmQ5VEttYlRpamlsZF9BSC14MWJ4WGhweEFJdzAyX3RUVm9CQ2tZdk51QlY1R2tCZWE0R2JMeFl1ZXhpaE1CUUExTUd5VDdXSHR0ODRTZ2dXUU9Fc1l5V1RkRFZJeVpnNE8wenp4Y3B6VHNRU3Zpb2JHY0QzR1ByOU04SXlrVFBwZ1F5azVjOWNTS3ctMnM1eDF0OHdtcEZfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUd5WWJqdnVTZFdFa2tGZlZtV3FDaDZrX2tCbVBnTWI4NzBpZ3JkNVdzbU1SZFdOVkE4c1ZvN19temxGdUJKN3NQdWhZTlJ1UjZBZHNlTDZiT1pXUEIyTjZFVG1nSHVpZzkxemR2VXJVZy0zcnRramFVeC1fTjhfWEJjcTBUREw3bkZIS3NGLW1FaUNVcnM3amlLNWVzeVVxT3BORGhvb2NScXB6Rm9uV09jT2hNckZBNFRCY2RTWDZYTUdaN2RPOdIBzgFBVV95cUxQVG1LYUF1eUdhWU0yZG5aX2ZIR2tzMXhFSjYweGZXc2VhU2ZzdnFzZV9vWjctZmQ5VEttYlRpamlsZF9BSC14MWJ4WGhweEFJdzAyX3RUVm9CQ2tZdk51QlY1R2tCZWE0R2JMeFl1ZXhpaE1CUUExTUd5VDdXSHR0ODRTZ2dXUU9Fc1l5V1RkRFZJeVpnNE8wenp4Y3B6VHNRU3Zpb2JHY0QzR1ByOU04SXlrVFBwZ1F5azVjOWNTS3ctMnM1eDF0OHdtcEZfQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787535751.0
+    },
+    {
         "id": "b9a5dbc63e",
         "title_fa": "شناسایی قربانی ۱۱ سپتامبر پس از ۲۵ سال با تکنولوژی جدید DNA",
         "title_en": "Video Breakthrough DNA technology identifies 9|11 victim's remains nearly 25-years later - ABC News",
@@ -655,6 +677,32 @@
             "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&strip=all&crop=0%2C3.8638985005767%2C100%2C92.272202998847&w=2400"
         ],
         "timestamp": 1787490240.0
+    },
+    {
+        "id": "2f130aef8b",
+        "title_fa": "مدل مرموز Ox Alpha؛ غول جدید کدنویسی ساخت کجاست؟",
+        "title_en": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "summary": [
+            "مدل جدید و رایگان Ox Alpha روی پلتفرم OpenRouter عرضه شده و تمرکز ویژه‌ای بر کدنویسی و بنچمارک‌های مهندسی دارد.",
+            "مدیرعامل Stripe عملکرد آن را فوق‌العاده خوانده، اما سازنده اصلی مدل هویت خود را کاملاً مخفی نگه داشته است.",
+            "گمانه‌زنی‌های فعالان تک درباره منبع آن، از استارتاپ‌های چینی تا پروژه‌های محرمانه مایکروسافت متغیر است."
+        ],
+        "full_text": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it. The free model was released on OpenRouter on Thursday, where it was described as “a reasoning model designed for coding, sustained agentic work, and production workload.” On X, Stripe CEO Patrick Collison (whose company is acquiring OpenRouter) described Ox Alpha as “very impressive.” So who’s actually behind Ox Alpha? The OpenRouter listing described it as a “stealth model” and said it was “developed and operated by a third-party provider who has chosen to remain anonymous during this preview.” Unsurprisingly, much of the speculation has revolved around China. AI analyst Andrew Curran posted on Friday that the initial speculation focused on the GLM models developed by Chinese company Z.ai, but “this morning people seem less sure of anything.” Similarly, an article on Wccftech first suggested that the evidence pointed to GLM, but an update suggested that Ox Alpha could be an unreleased version of Microsoft’s MAI. And on Reddit, there’s at least one post declaring that Ox Alpha “can’t be the Chinese,” while another expressed “high confidence” that it is, in fact, Chinese.",
+        "impact": "ظهور مدل‌های ناشناس اما پرقدرت، شفافیت در امنیت داده‌ها و رقابت غول‌های فناوری را به چالش می‌کشد.",
+        "tag": "هوش مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "clean_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+        "image": "http://www.bing.com/th?id=ONUT.q93la7jCrVrcCZeme4tD7g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.q93la7jCrVrcCZeme4tD7g&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg"
+        ],
+        "timestamp": 1787490060.0
     },
     {
         "id": "c51a4e7e8e",
