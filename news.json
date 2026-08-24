@@ -1,5 +1,70 @@
 [
     {
+        "id": "5cc16dc493",
+        "title_fa": "متا به‌زودی از پلتفرم ایجنت‌های هوشمند Hatch رونمایی می‌کند",
+        "title_en": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks",
+        "summary": [
+            "متا در حال آماده‌سازی برای معرفی پلتفرم جدیدی به نام Hatch است که روی ساخت و توسعه ایجنت‌های هوش مصنوعی تمرکز دارد.",
+            "این اقدام رقابت متا را با اکوسیستم‌های ایجنت‌محور مانند OpenAI و مایکروسافت وارد فاز جدیدی می‌کند."
+        ],
+        "full_text": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks  The Information",
+        "impact": "ورود مستقیم متا به بازار ایجنت‌های هوشمند، رقابت توسعه‌دهندگان را داغ‌تر خواهد کرد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "The Information",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787611200.0
+    },
+    {
+        "id": "592209680f",
+        "title_fa": "تخصیص بودجه برای ارتقای سیستم‌های ارتباطی پلیس کنتاکی",
+        "title_en": "Press Release: Hal Rogers Announces Funding for Police Communications Upgrades in Southern and Eastern Kentucky",
+        "summary": [
+            "بودجه جدید فدرال برای نوسازی و به‌روزرسانی زیرساخت‌های ارتباطی نیروهای انتظامی در مناطق جنوبی و شرقی کنتاکی اختصاص یافت."
+        ],
+        "full_text": "Press Release: Hal Rogers Announces Funding for Police Communications Upgrades in Southern and Eastern Kentucky  Quiver Quantitative",
+        "impact": "بهبود تجهیزات ارتباطی و نوسازی زیرساخت‌های امدادی در سطح منطقه‌ای.",
+        "tag": "سخت‌افزار",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmJsZjlUQjc2R1Z0cml2Qkp4aVVONGFWLUlMVFkzRVQ2Nlp6TktQcTlZOHFWTUdtb2tXbmpiQ2NISUJUM25PYWI4UFhYWlB1QlRydUxtLVdfN1JQR041ZmJlNlR2WVFqNTZ4WUNpMHNXZXVIYTlDR1p5dVN6X1oyV3cta0FnSDJNdmtRVW1VeUdQSTRkangyaXU4Ykd6NExhWElTQXFDeEFFT2lMSDEzUGlXX3ctZlFIejIyb20tS3hSdHpnNUdyaENnZTBtYVdjUWdxekJ5c09uaUxDc1pR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWmJsZjlUQjc2R1Z0cml2Qkp4aVVONGFWLUlMVFkzRVQ2Nlp6TktQcTlZOHFWTUdtb2tXbmpiQ2NISUJUM25PYWI4UFhYWlB1QlRydUxtLVdfN1JQR041ZmJlNlR2WVFqNTZ4WUNpMHNXZXVIYTlDR1p5dVN6X1oyV3cta0FnSDJNdmtRVW1VeUdQSTRkangyaXU4Ykd6NExhWElTQXFDeEFFT2lMSDEzUGlXX3ctZlFIejIyb20tS3hSdHpnNUdyaENnZTBtYVdjUWdxekJ5c09uaUxDc1pR",
+        "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787610060.0
+    },
+    {
+        "id": "f91f473ae5",
+        "title_fa": "تصاحب Deductive AI توسط Elastic برای عیب‌یابی خودکار سیستم‌ها",
+        "title_en": "Elastic Closes Deductive AI Deal to Deliver AI-Powered Production Incident Investigation",
+        "summary": [
+            "شرکت Elastic با خرید استارتاپ Deductive AI، قابلیت تحلیل و کشف خودکار اختلالات فنی در سیستم‌های نرم‌افزاری را به خدمات خود افزود.",
+            "تیم‌های فنی با این فناوری می‌توانند قطعی‌ها و مشکلات زیرساختی را بسیار سریع‌تر ریشه‌یابی و حل کنند."
+        ],
+        "full_text": "Elastic Closes Deductive AI Deal to Deliver AI-Powered Production Incident Investigation  PYMNTS.com",
+        "impact": "اتوماسیون تحلیل حوادث فنی در زیرساخت‌های ابری یک گام جدی به جلو برداشت.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFBRS0ZUdDVZUUJubmJyVzF2bzE2MXlfMWRHZ0FwUkdxNW9uNjU4Vl9DelN0N2ZNNVpwY29YX045Tl9VZl8zNExyZXFCM2NzLU1rRzdXVV9rUU1VcXloX092VGh4Z0VSZGdxQ0RDNU1ja19KWTh3M1lQU2xiTzNLNzdqZ2JrcXE2WnB6VUJ0WnJaWFNBZW9XTlBzdDBlTnpiSHNaZHFiNFJDMnZBQXgtd2hubjZxX0dkS0luVEctMUZWOEVNOU1HWnBhTkRnZEtVeXZfM1FybGNPV28?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFBRS0ZUdDVZUUJubmJyVzF2bzE2MXlfMWRHZ0FwUkdxNW9uNjU4Vl9DelN0N2ZNNVpwY29YX045Tl9VZl8zNExyZXFCM2NzLU1rRzdXVV9rUU1VcXloX092VGh4Z0VSZGdxQ0RDNU1ja19KWTh3M1lQU2xiTzNLNzdqZ2JrcXE2WnB6VUJ0WnJaWFNBZW9XTlBzdDBlTnpiSHNaZHFiNFJDMnZBQXgtd2hubjZxX0dkS0luVEctMUZWOEVNOU1HWnBhTkRnZEtVeXZfM1FybGNPV28",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787608370.0
+    },
+    {
         "id": "5f6f9bad77",
         "title_fa": "شناسایی قربانی جدید ۱۱ سپتامبر پس از ۲۵ سال با فناوری DNA",
         "title_en": "New 9/11 Victim Identified Using ‘Breakthrough’ DNA Technology Nearly 25 Years After Attacks",
@@ -20,6 +85,28 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787603629.0
+    },
+    {
+        "id": "31eb5f8e28",
+        "title_fa": "افشای مشخصات هدفون ۴۴۹ دلاری Sonos Ace Ultra با تمرکز بر AI",
+        "title_en": "Sonos Ace Ultra leaks point to a $449 headphone and an AI-first September",
+        "summary": [
+            "گزارش‌های لو رفته نشان می‌دهد سانوس در شهریورماه از هدفون پرچمدار Sonos Ace Ultra با قیمت ۴۴۹ دلار و ویژگی‌های هوش مصنوعی رونمایی خواهد کرد.",
+            "این هدفون قصد دارد با ترکیب پردازش هوشمند صدا و طراحی پریمیوم، رقبای بزرگی مثل سونی و اپل را چالش بکشد."
+        ],
+        "full_text": "Sonos Ace Ultra leaks point to a $449 headphone and an AI-first September  Gadget Flow",
+        "impact": "رقابت در بازار هدفون‌های رده‌بالا با ورود ویژگی‌های پردازش هوشمند وارد فاز تازه‌ای می‌شود.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Gadget Flow",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdlJ6R2FWbERSbFpaYllGekJqa2ZDcmhZeGIyNXlOLXk2dzV5VGQwZFJnaHNRYVp2eXhHQ2dwYi1PSDlOT0VUX24wTElka3cxUXJ5YXdiSE4wUVB1Y2prc2JpMEJXVzQz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdlJ6R2FWbERSbFpaYllGekJqa2ZDcmhZeGIyNXlOLXk2dzV5VGQwZFJnaHNRYVp2eXhHQ2dwYi1PSDlOT0VUX24wTElka3cxUXJ5YXdiSE4wUVB1Y2prc2JpMEJXVzQz",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787602090.0
     },
     {
         "id": "e51feb020d",
@@ -453,6 +540,31 @@
         "timestamp": 1787576400.0
     },
     {
+        "id": "90ad194614",
+        "title_fa": "جهش ۶۰ درصدی قیمت گجت‌های آمازون به‌دلیل بحران رم",
+        "title_en": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+        "summary": [
+            "آمازون به‌دلیل افزایش چشمگیر هزینه قطعات حافظه در پی رونق هوش مصنوعی، قیمت اسپیکرهای اکو، کیندل و فایرتی‌وی را تا ۶۰ درصد گران کرد.",
+            "کمبود جهانی حافظه که به RAMmageddon معروف شده، حداقل تا سال ۲۰۲۷ ادامه دارد و غول‌های فناوری هزینه تولید را مستقیماً از جیب خریداران جبران می‌کنند."
+        ],
+        "full_text": "Over the weekend, Amazon significantly raised the prices of its hardware devices, jacking them up by as much as 60% in some cases. The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that’s been cited is that of the Echo Dot, one of Amazon’s cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lower. When reached for comment by TechCrunch, Amazon shared the following: “The consumer electronics industry is facing significant increases in memory and storage component costs. After absorbing these increases for as long as we could, we recently adjusted pricing across our product lines.” The company also said that it would continue to offer occasional promotions to customers over the course of the next year. Amazon’s price hikes reinforce the reality that it’s a terrible time to buy hardware. The global memory shortage fueled by the AI boom (also known as “RAMmageddon“) is driving up the cost of producing devices of all stripes. As a result, companies are increasingly passing on the costs to their customers. In a sign of the times, Apple recently hiked its prices, and has sought to offset the steep new rates by introducing a device-leasing program, thus allowing users to pay off their devices over time. The RAM shortage is expected to continue throughout 2027 before prices potentially crest and stabilize in 2028.",
+        "impact": "موج گرانی گجت‌های هوشمند در بازار جهانی رسماً کلید خورد و خرید سخت‌افزار را از همیشه گران‌تر کرد.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+        "clean_url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage",
+        "image": "http://www.bing.com/th?id=ONUT._Y2yaPpXV9dK7MToWncKpA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT._Y2yaPpXV9dK7MToWncKpA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/12/495cdfd5deaad915a1ad58ab35edcbaa84b90c4ce9b7ded356c5ad1b61884800.png?w=668"
+        ],
+        "timestamp": 1787576040.0
+    },
+    {
         "id": "f1cca87b33",
         "title_fa": "چالش جدید پاناسونیک برای ورود دانش‌آموزان به دنیای هوش مصنوعی",
         "title_en": "Panasonic Foundation and STEM Next launch AI Innovation Challenge for high school students",
@@ -539,6 +651,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787572260.0
+    },
+    {
+        "id": "ce39c6aae8",
+        "title_fa": "جنجال امنیتی دستیار هوشمند Instinct؛ جادو یا نقض حریم خصوصی؟",
+        "title_en": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "summary": [
+            "دستیار هوش مصنوعی جدید Instinct که عملکردش شگفت‌انگیز توصیف شده، برای کار کردن دسترسی کامل به نمایشگر، کیبورد، پیام‌ها و ایمیل کاربر می‌خواهد.",
+            "شرایط استفاده از این ابزار اجازه ضبط دائمی داده‌ها و حتی انجام معاملات الزام‌آور به نیابت از کاربر را به شرکت می‌دهد که موجی از نگرانی ایجاد کرده است."
+        ],
+        "full_text": "Everyone is buzzing about Instinct, an AI personal assistant still in private access, not only for its incredible capabilities, but also for its potential privacy concerns. The agent, a veritable taskmaster, has been praised as feeling “like magic” and being one of the “most exciting launches” since OpenClaw. However, some testers have also raised concerns about the AI agent’s security model and its worrisome terms of service. To be fair, Instinct is still in private testing for now, so these concerns haven’t yet scaled to the wider public at this time. Created by a small team led by former Sierra research scientist Noah Shinn, San Francisco-based Instinct is operated by Spear Street Technology, per its terms and California business filings. It’s currently operating in stealth, per PitchBook. The AI agent itself works by connecting to your applications and devices, including your email, messaging apps, calendar, and your device’s audio, location, screen, and more. You can text the agent or call it via text message or WhatsApp, asking it to perform various tasks for you, like booking your appointments and reservations, scheduling a ride to the airport, cleaning up your inbox, organizing important information, handling your shopping, finding you cheap flights, and much more. Though Instinct is described by testers as outperforming their expectations, some have also raised concerns about the company’s approach to customer privacy and security. This raises a timely question: Are the trade-offs of giving AI this level of access and autonomy actually worth it? For instance, several people are circulating screenshots from the company’s Terms of Service, which grant Instinct a broad “perpetual and irrevocable” license to “access, use, host, cache, store, reproduce, transmit, display, publish, distribute, and modify” any of the user’s materials, including for training its AI models. The terms also detail how Instinct can receive information from users’ devices, including screen captures, cursor movements, and keyboard inputs. The terms also allow Instinct to enter into “agreements, commitments, or transactions” on users’ behalf, which would be binding. One early adopter, Peter Yang, pointed out that Instinct would not delete his Gmail records when asked. (The team later fixed the problem by adding a tool for deleting external data in its settings, he said.) Another person, Claire Vo, found that Instinct was still summarizing their inbox after disconnecting its access. When she asked Instinct what happened, the bot confirmed that the emails were stored in plain text for later searches. Many others questioned the security model, too. One tester was a bit worried when they found that Instinct was able to pull a sign-up code from their email inbox to complete a particular task — in their case, booking a table at a restaurant via Resy. And Hello Patient co-founder Alex Cohen wrote that once he found out how easily Instinct could be phished, he deleted his account: In addition, Moxxie Ventures founder Katie Jacobs Stanton shared that Instinct broke her trust when it sent an email on her behalf without first checking with her. “We’re trading privacy and control for hyper-personalized AI tools (AI notetakers, personalized AI agents, etc), often without fully understanding the trade,” she remarked on X, summarizing the dilemma posed personal AI agents. “The more powerful these agents become, the more trust matters. Every successful action earns a little more trust. One unauthorized action can reset that trust to zero,” she said. Michael Mignano, the founder of Anchor, which was acquired by Spotify, and now a GP at Union Square Ventures, noted that products like Instinct are going to “change modern security norms for consumers,” adding that “people will increasingly hand over passwords to 3p [third-party] apps, unaware of how or what they are storing for them.” Interest in Instinct and personal AI has been growing since the arrival of OpenClaw, a personal AI assistant that became popular for its powerful capabilities, leading its founder to join OpenAI to help work on the next generation of personal agents. Another messaging-based assistant, Poke, also just exited to Cognition. Amid the criticism, Instinct’s team hasn’t yet responded to anyone’s concerns or complaints on X, preferring to keep a low profile. (The bot itself identifies Luca Borletti, also formerly of Sierra, as being involved with the company, but that has not been confirmed.) TechCrunch has heard from multiple investors that Kleiner Perkins and Conviction have invested in the startup and those rounds have now closed. Requests for comment sent to both the startup’s main email address and Shinn directly have not yet been returned.",
+        "impact": "خط قرمزهای حریم خصوصی در عصر ایجنت‌های هوشمند خودکار بار دیگر به چالش کشیده شد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "clean_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+        "image": "http://www.bing.com/th?id=ONUT.sdXjBjDYYRrd57YBWlovzw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.sdXjBjDYYRrd57YBWlovzw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+            "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150"
+        ],
+        "timestamp": 1787569380.0
     },
     {
         "id": "b6d4891bdd",
