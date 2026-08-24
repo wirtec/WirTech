@@ -1,5 +1,27 @@
 [
     {
+        "id": "205984c7ba",
+        "title_fa": "اپل آماده رونمایی از پنج محصول سخت‌افزاری جدید می‌شود",
+        "title_en": "Apple is about to launch five new products that I’m very excited for",
+        "summary": [
+            "گزارش‌ها نشان می‌دهند اپل پروژه‌های سخت‌افزاری جدیدی را آماده معرفی کرده است.",
+            "این به‌روزرسانی‌ها سبد محصولات اصلی و گجت‌های هوشمند این شرکت را تازه‌سازی خواهد کرد."
+        ],
+        "full_text": "Apple is about to launch five new products that I’m very excited for  9to5Mac",
+        "impact": "معرفی محصولات جدید اپل موجب شوک مثبت و رونق در بازار گجت‌های مصرفی می‌شود.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzgtN1o2WmRLbDBHVkRRclFqdExUT2kyQ3pUUGpOYnFITTBHbWNsYVExRG93TmtuTXhEa25sS3RoV291dEJUM0Q0bHNkUnpuMEhWWkVwMFFRbVhmZFRiWVpuVGlYZjk5NWdCSWpKZXpEdDlVMFcxRV94d3Vvd3VMS01UMzE2YWY2U0NHR1hSeTh4SzMwTG5ybWxBVU5WR0dk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzgtN1o2WmRLbDBHVkRRclFqdExUT2kyQ3pUUGpOYnFITTBHbWNsYVExRG93TmtuTXhEa25sS3RoV291dEJUM0Q0bHNkUnpuMEhWWkVwMFFRbVhmZFRiWVpuVGlYZjk5NWdCSWpKZXpEdDlVMFcxRV94d3Vvd3VMS01UMzE2YWY2U0NHR1hSeTh4SzMwTG5ybWxBVU5WR0dk",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787586180.0
+    },
+    {
         "id": "8687454c76",
         "title_fa": "جهش مایکروسافت در شیمی محاسباتی با مدل جدید Skala 1.1",
         "title_en": "Microsoft Research's Skala 1.1 boosts DFT accuracy with 2.5x more training data",
@@ -26,6 +48,49 @@
         "timestamp": 1787584200.0
     },
     {
+        "id": "7b08372f71",
+        "title_fa": "کسب دو جایزه معتبر R&D 100 توسط موسسه تحقیقاتی SwRI",
+        "title_en": "SwRI wins two R&D 100 awards",
+        "summary": [
+            "موسسه پژوهشی SwRI موفق به دریافت دو جایزه R&D 100 برای دستاوردهای برجسته فنی شد."
+        ],
+        "full_text": "SwRI wins two R&D 100 awards  EurekAlert!",
+        "impact": "دریافت این جوایز جایگاه SwRI را در حوزه تحقیق و توسعه صنعتی تثبیت می‌کند.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.8,
+        "source": "EurekAlert!",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2R2NKbE9Nd1BiZHR5a2pLTjlaRXB1c09EQUZMWWx4S3g5X01kbV94WTV5NUdzZGIxSl9yVC1GVkc0TjFOV0dWOGpKZDhab1YweUJGZUVIV3A3N1Vm?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2R2NKbE9Nd1BiZHR5a2pLTjlaRXB1c09EQUZMWWx4S3g5X01kbV94WTV5NUdzZGIxSl9yVC1GVkc0TjFOV0dWOGpKZDhab1YweUJGZUVIV3A3N1Vm",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787583910.0
+    },
+    {
+        "id": "7668a62b1f",
+        "title_fa": "جذب سرمایه ۵۸ میلیون دلاری Xenter برای تجهیزات پزشکی هوشمند",
+        "title_en": "With its $58.25 Million Series B Funding, Utah-based Xenter Plans a Diagnostics Business Launch and Continued Work on Advancing AI-Empowered Medical Devices",
+        "summary": [
+            "استارتاپ Xenter با دریافت ۵۸.۲۵ میلیون دلار سرمایه، بخش تشخیص پزشکی خود را رسماً راه‌اندازی می‌کند.",
+            "این بودجه صرف ساخت ابزارهای پزشکی مجهز به هوش مصنوعی برای مراقبت دقیق‌تر از بیماران خواهد شد."
+        ],
+        "full_text": "With its $58.25 Million Series B Funding, Utah-based Xenter Plans a Diagnostics Business Launch and Continued Work on Advancing AI-Empowered Medical Devices  Utah Money Watch",
+        "impact": "تزریق سرمایه به ابزارهای تشخیص هوشمند، تجاری‌سازی تجهیزات پزشکی AI را سرعت می‌بخشد.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "Utah Money Watch",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYm1GdUpKYVpObDlhbGlobmFaTGpybnBQVFBXZ1ljRnlOMngwSkRQbTY3MjRLVV9DdjZYcW1ya1hiUnlMTUJ6aGtOaWZ2VEZoNGJFMVczOFBCckxVTVJ1bnJTV2xJT1E1Q2JuVkp1WldaLTZBYk56a2Nydl9hbm5QNEJROFZyLWlFTmR5T2EwZTJfaHdwVTM2MFdGeGxDd2JoNnQ0ZlB2WUliTDFMYWhTUk1iN2h2YXJSNkd6SEhFZGJySkJjZ1hBRzN0SjZZTkxnVFkwVF8yX1RCN1lTRUdBU3BlNlBxRXpBVkdCWkpXdWdycFZaTHVscjFmTGljNjZOTnN3RTIwcHNtRlZHblFwTEJ2elc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYm1GdUpKYVpObDlhbGlobmFaTGpybnBQVFBXZ1ljRnlOMngwSkRQbTY3MjRLVV9DdjZYcW1ya1hiUnlMTUJ6aGtOaWZ2VEZoNGJFMVczOFBCckxVTVJ1bnJTV2xJT1E1Q2JuVkp1WldaLTZBYk56a2Nydl9hbm5QNEJROFZyLWlFTmR5T2EwZTJfaHdwVTM2MFdGeGxDd2JoNnQ0ZlB2WUliTDFMYWhTUk1iN2h2YXJSNkd6SEhFZGJySkJjZ1hBRzN0SjZZTkxnVFkwVF8yX1RCN1lTRUdBU3BlNlBxRXpBVkdCWkpXdWdycFZaTHVscjFmTGljNjZOTnN3RTIwcHNtRlZHblFwTEJ2elc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787583734.0
+    },
+    {
         "id": "7d52407bc1",
         "title_fa": "رمزگشایی کلید DNA توسط هوش مصنوعی برای تشخیص سرطان",
         "title_en": "AI decodes DNA switch that starts 60 percent of human genes; mutations now assessable for cancer",
@@ -47,6 +112,27 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787579633.0
+    },
+    {
+        "id": "45ff6d8b33",
+        "title_fa": "درخشش پلتفرم Tailor Brands در جوایز صنعت هوش مصنوعی",
+        "title_en": "Tailor Brands Wins Multiple 2026 Industry Awards for AI, Compliance, and Customer Service Excellence",
+        "summary": [
+            "پلتفرم Tailor Brands به دلیل نوآوری در ابزارهای هوش مصنوعی کسب‌وکارها موفق به کسب چندین جایزه شد."
+        ],
+        "full_text": "Tailor Brands Wins Multiple 2026 Industry Awards for AI, Compliance, and Customer Service Excellence  Morningstar",
+        "impact": "تقدیر از ابزارهای هوشمند کسب‌وکار، گرایش شرکت‌های کوچک به اتوماسیون را بیشتر می‌کند.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.7,
+        "source": "Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYXQxNlJBUWVUQ1J5T2hZSnpPVXUwSlRpQ2hvdGNHd1NacmhTNldOazE4Rlo3cnNzQVBubDJCWEFMSDJ0TTZoNDRqV3RadlRJYWFpQWRVSV9hYk9IdzlXb0cwM09XU1ctLTJMaDBYdzNTNmNod09fV25UWWFhaTRnZGpKTTRzdjdBaGFkVHU4TmZUQ3BoVjk4S0s1eDNnMTVRU3NjZFMyUTRUcjBqcm9hVkczcVB2Tk1VYVU2Vm9xRHJZbjgtdU1meElkNGs3U2k2N2FBeVo4NjFCbDYycmc3anF1SDVtTnpvRlRGYXVhVS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYXQxNlJBUWVUQ1J5T2hZSnpPVXUwSlRpQ2hvdGNHd1NacmhTNldOazE4Rlo3cnNzQVBubDJCWEFMSDJ0TTZoNDRqV3RadlRJYWFpQWRVSV9hYk9IdzlXb0cwM09XU1ctLTJMaDBYdzNTNmNod09fV25UWWFhaTRnZGpKTTRzdjdBaGFkVHU4TmZUQ3BoVjk4S0s1eDNnMTVRU3NjZFMyUTRUcjBqcm9hVkczcVB2Tk1VYVU2Vm9xRHJZbjgtdU1meElkNGs3U2k2N2FBeVo4NjFCbDYycmc3anF1SDVtTnpvRlRGYXVhVS0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787579134.0
     },
     {
         "id": "0ff6074ef6",
@@ -339,6 +425,57 @@
         "timestamp": 1787564028.0
     },
     {
+        "id": "de39d07be0",
+        "title_fa": "جهش سفارش‌های سیسکو؛ برنده خاموش رونق هوش مصنوعی",
+        "title_en": "Forget Nvidia. Cisco Could Be a Hidden Winner From the AI Boom",
+        "summary": [
+            "سفارش‌های تجهیزات شبکه هوش مصنوعی سیسکو با رشد چهاربرابری به ۹.۳ میلیارد دلار رسیده است.",
+            "غول‌های فناوری برای اتصال ابررایانه‌های هوش مصنوعی به تجهیزات شبکه پرسرعت سیسکو وابسته هستند.",
+            "توسعه ایجنت‌های هوشمند حجم انتقال داده را تا ۱۴ برابر افزایش داده و موج نوسازی شبکه ایجاد کرده است."
+        ],
+        "full_text": "While NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) soaks up the AI infrastructure headlines, Cisco Systems (NASDAQ:CSCO) is quietly becoming one of the more compelling picks-and-shovels plays in the AI buildout. Cisco just closed a record fiscal year, hyperscaler AI orders more than quadrupled, and management is guiding for another leg higher in fiscal 2027. Our proprietary model sees more upside from here. Our 24/7 Wall St. price target for Cisco is $131.07, implying 18.04% upside from the current $111.04 price. We rate CSCO a buy with high (90%) confidence. 24/7 Wall St. Price Target Summary A Record Year Meets a Networking Supercycle Cisco is up 69.09% over the past year and 46.24% year to date, though shares have cooled 1.04% over the last month. The stock sits just off its 52-week high of $129.88. Q4 FY2026 delivered revenue of $17.3 billion, up 17.58% year over year, with non-GAAP EPS of $1.22 topping consensus by 4.38%. CEO Chuck Robbins told investors the company believes “the accelerating adoption of agentic AI is fueling a networking super cycle”, and the numbers back him up: hyperscaler AI orders totaled $9.3 billion for FY2026, roughly 4.5 times the prior year. Why Bulls See a Breakout Ahead The bull case rests on three pillars. First, hyperscaler AI infrastructure revenue is guided to $7.5 billion in FY2027, roughly double FY2026. Second, Q4 total product orders jumped 35%, with networking orders up 40% and hyperscaler orders growing in triple digits. Third, Cisco has won three new hyperscaler design wins in Q4 alone and sees a “Scale Across” opportunity where AI traffic could be 14x traditional data center interconnect. If Cisco simply hits the high end of its FY2027 EPS guide of $5.11 and re-rates to a 28x multiple, shares clear $138.78, our bull-case target. What Could Go Wrong Non-GAAP gross margin fell to 66.3% in Q4, down 210 basis points year over year, as AI hardware mix pressured product margins. Bulls counter that hyperscaler AI is “highly profitable” at the operating line because Cisco is not adding proportional opex. Other risks include hyperscaler demand concentration, tariff exposure, and restructuring charges tied to the May 2026 plan. Our bear-case target sits at $109.24, essentially flat with today. How Cisco Compares to Arista and HPE Arista Networks (NYSE:ANET) is Cisco’s cleanest AI networking pure-play. It posted Q2 FY2026 revenue growth of 37.7% and trades at a trailing P/E near 68x, more than double Cisco’s 33x. Arista grows faster, but Cisco’s forward P/E of 21x looks conservative on the same AI narrative. Hewlett Packard Enterprise (NYSE:HPE) is the direct competitor post-Juniper. HPE guided FY2026 non-GAAP EPS to $3.35 to $3.45 with networking revenue growth of 72% to 75%. HPE’s forward P/E near 16x is cheaper, but its GAAP profitability has been weighed down by acquisition charges. Against both peers, our 24/7 Wall St. price target looks reasonable rather than aggressive. Bull Case Favors Buyers on This Dip Our 24/7 Wall St. price target of $131.07 and buy rating reflect 90% confidence in Cisco’s AI networking story. The bull thesis holds if hyperscalers keep spending and the FY2027 AI revenue guide of $7.5 billion proves conservative. The thesis weakens if gross margin compression accelerates below 65%. The setup favors the bulls. These projections assume Cisco executes on the Silicon One roadmap and the AI supercycle broadens beyond hyperscalers. Significant upside could come from enterprise on-prem AI, while a hyperscaler capex pause is the primary downside risk. Cisco is one of the clearer picks-and-shovels names benefiting from that capex, and we profiled seven more suppliers, from power to cooling to networking, in a free AI infrastructure report. Contact [email protected] for any questions or corrections.",
+        "impact": "سیسکو در کنار انویدیا به یکی از اصلی‌ترین برنده‌های مالی توسعه زیرساخت‌های AI تبدیل می‌شود.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/24/forget-nvidia-cisco-could-be-a-hidden-winner-from-the-ai-boom/",
+        "clean_url": "https://247wallst.com/investing/2026/08/24/forget-nvidia-cisco-could-be-a-hidden-winner-from-the-ai-boom",
+        "image": "http://www.bing.com/th?id=ONUT.svnHy4nVzE5HG_zmXbS3nQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.svnHy4nVzE5HG_zmXbS3nQ&pid=News",
+            "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2752789185.jpg",
+            "https://247wallst.com/wp-content/uploads/2026/01/GOOG-Ironwood-TPU-150x85.png",
+            "https://247wallst.com/wp-content/uploads/2025/05/shutterstock-2393627429-huge-licensed-scaled-150x84.jpg"
+        ],
+        "timestamp": 1787563800.0
+    },
+    {
+        "id": "173477de0d",
+        "title_fa": "تصاحب استارتاپ Personality AI در قراردادی ۶۹ میلیون دلاری",
+        "title_en": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
+        "summary": [
+            "مالک شخصیت‌های کارتونی معروف مثل تلتیپیز، استارتاپ هوش مصنوعی ایمن Personality AI را خرید.",
+            "هدف این معامله ساخت شخصیت‌های تعاملی هوشمند برای کودکان بدون ذخیره‌سازی داده‌های شخصی آن‌هاست.",
+            "این قرارداد شامل ۱۱ میلیون دلار نقد و پرداختی‌های مشروط به درآمد تا سقف ۶۹ میلیون دلار می‌شود."
+        ],
+        "full_text": "WildBrain, the Canadian children's media company with the rights to titles such as \"Yo Gabba Gabba!\" and the \"Teletubbies,\" has purchased the child-focused generative AI startup Personality AI in a cash-and-stock deal worth up to $69 million in a bid to marry the company's intellectual property with the startup's conversational products. Personality AI touts its conversational character AIs as child-safe, working with a mixture of AI engineers, child development experts and entertainment producers to develop AI models based on licensed child characters that implement safeguards as children engage with them while not retaining child data. Amazon selected Personality AI last year to develop a platform on its kids-focused subscription service Amazon Kids+, leading to a \"Peppa Pig\"-based generative product for children to engage with the fictional British icon. More from Variety The company is also part of the Federal Trade Commission-backed COPPA Safe Harbor Program, one of the leading independent oversight programs related to federal child privacy protections. WildBrain hopes the acquisition will boost the revenue opportunities for its array of IP, including \"Degrassi\" and \"Strawberry Shortcake.\" \"Personality AI enables more continuous interaction between fans and brands, strengthening our ability to deliver end-to-end franchise solutions to partners,\" WildBrain CEO and president Josh Sceherba said in a statement. \"This highly complementary acquisition positions us and Personality AI as a more integrated partner to IP owners globally through our in-house licensing agency, WildBrain CPLG, while helping support the continued growth of both our owned and partner brands.\" Wildbrain paid roughly $11 million in cash along with 1 million shares. Shareholders will also receive $2 million worth of WildBrain shares (up to 1 million shares) in additional consideration on the first anniversary of closing, with the remaining balance paid in cash. The deal also includes up to $56 million in performance-based cash consideration based on Personality AI's revenue performance between 2027 and 2029. Personality CEO John Goscha will join WildBrain as the executive vice president for Personality AI and will report to Scherba.",
+        "impact": "ورود هوش مصنوعی مولد تعاملی به برنامه‌های کودک، مدل‌های درامدزایی سرگرمی دیجیتال را تغییر می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/media-advertising/articles/wildbrain-acquires-kid-safe-generative-160824805.html",
+        "clean_url": "https://finance.yahoo.com/media-advertising/articles/wildbrain-acquires-kid-safe-generative-160824805.html",
+        "image": "http://www.bing.com/th?id=ONUT.vnz9K5A3gSZM3-3iQA5ksw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.vnz9K5A3gSZM3-3iQA5ksw&pid=News",
+            "https://s.yimg.com/lo/mysterio/api/AA38CB56485DC1002019F522DF10FC63CFCE3BB1797E5A6E1F63826B98DE46D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F843d45e80429d72eb905803670fa8582.png",
+            "https://s.yimg.com/lo/mysterio/api/1262AD4526B920CF17AA1C230B225F7FC525ADE52061DB1D465D1BB661D39381/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F843d45e80429d72eb905803670fa8582.png"
+        ],
+        "timestamp": 1787562480.0
+    },
+    {
         "id": "955c375ebb",
         "title_fa": "مذاکره انویدیا با استارتاپ کره‌ای ریبلیونز برای همکاری یا تصاحب",
         "title_en": "Nvidia opens talks with Rebellions on potential AI chip partnership",
@@ -385,6 +522,83 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787561400.0
+    },
+    {
+        "id": "724e44136e",
+        "title_fa": "استارتاپ General Intuition در راه ارزش‌گذاری ۶ میلیارد دلاری",
+        "title_en": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "summary": [
+            "این استارتاپ تنها چند هفته پس از جذب سرمایه قبلی، در حال مذاکره برای دریافت سرمایه در ارزش‌گذاری ۶ میلیارد دلاری است.",
+            "داده‌های اولیه این مدل هوش مصنوعی از صدها میلیون ساعت بازی ویدئویی و الگوی حرکتی گیمرها استخراج می‌شود.",
+            "سرمایه جدید صرف تامین زیرساخت‌های پردازشی سنگین و توسعه هوش مصنوعی برای ربات‌های فیزیکی خواهد شد."
+        ],
+        "full_text": "New York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter. Existing investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation. The news confirms earlier reporting on the deal for what is becoming one of the hottest startups tackling physical AI. CEO Pim de Witte spun out General Intuition last October from his video game clip-sharing platform Medal, using its hundreds of millions of hours of gameplay and “action labels” — records of which buttons a player pressed and when — as an initial dataset. Investor Vinod Khosla recently told TechCrunch that he believes those action labels will be a key part of the “emergence of intuition,” or the ability for a model to truly generalize across tasks that it wasn’t explicitly trained on. General Intuition is still finalizing the round, and a source close to the deal said that it is oversubscribed as the startup continues to field interest from investors. The company intends to use the funds to focus to improve its general model with a focus on robotic embodiments. That means spending more on compute infrastructure (the company has a partnership with neolab CoreWeave) and hiring more talent. Valor Equity Partners is known for backing SpaceX. TechCrunch has reached out to confirm its investment in General Intuition, which would be the first AI lab the fund has invested in since SpaceX. This story is developing. Please check back in for updates.",
+        "impact": "استفاده از داده‌های حرکتی گیمینگ جهش بزرگی در هوشمندسازی و رفتار خودکار ربات‌ها ایجاد می‌کند.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "clean_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+        "image": "http://www.bing.com/th?id=ONUT.83EM5PJ0LmNee59pFeHqzQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.83EM5PJ0LmNee59pFeHqzQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+            "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/08/bellan-rebecca-contributor-copy.jpg?w=150"
+        ],
+        "timestamp": 1787559840.0
+    },
+    {
+        "id": "fb71586ede",
+        "title_fa": "دسترسی کامل چت‌جی‌پی‌تی به برنامه‌های شخصی و اداری کاربران",
+        "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "summary": [
+            "نسخه جدید ChatGPT Work با دسترسی مستقیم به ایمیل، اسلک و فایل‌ها، پروژه‌های اداری را به خودکارترین شکل ممکن انجام می‌دهد.",
+            "این ابزار مجهز به مدل کادکس است تا کارهای چندمرحله‌ای را بدون نیاز به دخالت مداوم کاربر نهایی کند.",
+            "هدف اصلی OpenAI گسترش بازار از مهندسان نرم‌افزار به تمام مشاغل اداری و افزایش مصرف توکن است."
+        ],
+        "full_text": "How much control are you willing to give an LLM over your digital life? Getting the most value from a model means giving it the keys. For a control freak or the AI-hesitant, it seems like a lot. For Andrew Ambrosino, the lead engineer for OpenAI’s desktop app, it’s the only way to test the future, which is why that app now has access to, and control over, his inbox, his Slack account, his phone, apps like Notion and Figma, and more. “If I’m asking it to write a document, is there a possibility that it’s going to pull from a private DM on that subject and not know that it’s not supposed to share some info? Yes,” Ambrosino told TechCrunch. “I’ll do it for the job. I will take the personal hit here and there if I have to. And I haven’t had to.” Ambrosino works on OpenAI’s biggest bet, ChatGPT Work, which was released last month and is available on the company’s lowest subscription tier, for $20 a month. The product is intended to allow white-collar workers to field AI agents — hooking LLMs up to the digital workflows used by accountants, investors, doctors, and everyone else whose day-to-day is dominated by their computer. OpenAI’s marketing copy puts the goal succinctly: A world where “where [artificial] intelligence goes beyond answering questions to helping everyone turn their biggest ideas into reality.” For software developers, that shift is already happening, but it’s been slow to spread to other departments. ChatGPT Work is a modified version of the company’s Codex coding tool. It’s meant to give non-engineers a version of the same functionality that software engineers already get from agents: an AI tool that doesn’t just answer questions, but completes multistep projects on its own. “In this new factor, ChatGPT can actually do entire, very complicated tasks for you all autonomously in a way that is delightful and safe,” Thibault Sottiaux, who leads OpenAI’s core product work, including Work, told TechCrunch. “It’s the very mission of OpenAI — to bring everyone along.” Commercially, that matters a lot. Agents that work for longer stretches burn through more tokens, which makes them more lucrative for OpenAI on a per-user basis. Reaching new professions is crucial — not just for OpenAI, but for the industry at large. If coding has proven lucrative territory for AI labs, it’s still a tiny subset of the professional work AI tools need to enable if these companies are to justify their massive investment in training and computation. While labs have been focused on software engineers, vertical-specific competitors like Harvey (for law) and Clay (for sales) have been chasing those customers with a model-agnostic approach, meaning they’ll plug in whichever AI works best at the time. Industry analysts see this as one of the major challenges facing OpenAI and its competitors. “If the labs cannot rapidly get ahold of the key complementary assets needed to scale AI in the market, value will accrue elsewhere,” Christian Catalini wrote on a16z’s “It’s time to build” blog. Making the AI apps work for people who aren’t software engineers requires more hand-holding. OpenAI’s non-engineering workforce, like the communications and finance teams, started using Codex “at a time that it was actively hostile to them—asking them about code and showing them, ‘oh, you have an empty diff for this thing,’” Ambrosino said, referring to a technical readout meant for software changes. “So, we started to make it more general purpose between February and now.” An OpenAI-backed study found that in June, 98% of OpenAI employees were using Codex, but just 17% of organizational subscribers and less than 1% of individual subscribers were using the agentic coding tool. That difference between near total adoption inside the company and negligible adoption outside it is the challenge and opportunity for the company. “The more value and the more utility that we generate for users, the more they will be willing to also pay for some part of that utility, and that’s how we’ve always seen ChatGPT as well,” Sottiaux said. “You sit there and you’re like, ’of course I want to pay $20 bucks a month for this,’ because the value that you get is so much more.” How to make AI intuitive To understand that disconnect, it helps to understand what OpenAI’s engineers are building. Every LLM requires what engineers call a “harness” — the software wrapped around a model that decides what information it sees, which tools it can use, and how it presents its answers back to you. If you want that model to do stuff — to become an agent — the harness gives it tools and instructions for using them on long-term tasks. For developers, a command-line interface (CLI) that enabled LLMs to code was enough to change the way software was built and deployed. But most people aren’t using CLIs; there’s a reason Windows replaced DOS. An agentic product that goes beyond software engineering is “going to be something that plays with the messy world of your life and your tools and websites that were built in 1995 and never updated,” Ambrosino told TechCrunch, explaining that the experiences his team is building are vital to expanding access to useful AI. Consider apps like Claude Code and Codex: They unleashed “vibe coding” by abstracting away all the actual software writing, and letting users just tell the model what they want in a program. Now, OpenAI wants to make functionality found in tools like OpenClaw, which coders use to put LLMs to work, as easy as prompting. “Without these products in front of the model, experts would know how to get the same results, but you wouldn’t get to a billion people using the thing,” Ambrosino said. That trade-off between what power users need and what mainstream adoption requires plays out in internal debates at OpenAI, where some employees argue that a button is unnecessary if users can just ask the model directly. “We push back on [that] — because it’s very early,” Ambrosino said. “Discoverability matters in this phase, and a",
+        "impact": "ورود ایجنت‌های خودکار به محیط‌های کاری، ساختار کارهای اداری روزمره را به کلی دگرگون می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "clean_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "image": "http://www.bing.com/th?id=ONUT.eqXwriOTqT9Y7M9Q8n6c5w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.eqXwriOTqT9Y7M9Q8n6c5w&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.44.59-PM.png?w=680",
+            "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150"
+        ],
+        "timestamp": 1787558340.0
+    },
+    {
+        "id": "6c4af1c1e0",
+        "title_fa": "ارزش استارتاپ حسابداری هوشمند Rillet به ۱ میلیارد دلار رسید",
+        "title_en": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
+        "summary": [
+            "استارتاپ Rillet با دریافت ۱۰۰ میلیون دلار سرمایه جدید، جایگزین سیستم‌های سنتی مالی شرکت‌ها می‌شود.",
+            "نرم‌افزار این شرکت بستن حساب‌های ماهانه را اتوماتیک کرده و نیاز به ثبت‌های دستی را از بین برده است.",
+            "رشد این ابزارها روند استخدام متخصصان مالی و مشاوره را در شرکت‌های بزرگ تغییر داده است."
+        ],
+        "full_text": "AI-native accounting startup Rillet just raised $100 million in Series C funding. The funding comes on the heels of the $200 million it's raised over the past year. Rillet's AI software aims to simplify bookkeeping and reduce reliance on traditional ERP systems. For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job. \"It's no fun being a consultant implementing your third instance of Oracle Fusion and having three years of your life basically go by in a blink of an eye because you're transforming Excel spreadsheets and trying to wrangle a very old system,\" Nicolas Kopp, CEO of AI-native accounting startup Rillet, told Business Insider. Oracle Fusion is a suite of cloud software that large companies use to manage their finances and operations. Setting up systems like this can take years of consulting work. Rillet is betting AI can make that process faster by keeping a company's books up to date as transactions come in. Its \"objective function\" is simple, Kopp said: \"To reduce the time spent that humans go around clicking buttons in applications.\" Rillet's growth also offers a glimpse of how AI could reshape consulting talent. As the software takes on more routine accounting work, firms are looking for people with deeper domain knowledge and the technical skills to work with AI and large data sets. The company, which emerged from stealth two years ago, said last week that it raised a $100 million Series C at a $1 billion valuation. It's at the forefront of a growing crop of startups taking aim at the decades-old ERP market, and with more than $200 million in total funding, it is one of the most-funded companies building an AI-native alternative to legacy finance software. The company now serves more than 600 public and private customers, including Mercor, Neuralink, Temporal, and Skild AI, and says 40% of its customer base is outside tech and AI in sectors like healthcare, financial services, retail, and biotech. It has captured half of its customers from legacy ERP systems, including NetSuite, Workday, Oracle Fusion, and Sage Intacct, while the other half comes from Intuit, according to the company. The post-clicking future AI-native startups like Rillet are turning the monthly ritual of closing the books into something similar to a normal workday. In an Andreessen Horowitz analysis of 56 Rillet customers, 87% had fewer than 1% of their bookkeeping entries left to review when the end of the month rolled around. The shift is part of a broader shake-up taking place across enterprise software. Investors have dubbed the recent sell-off in traditional software companies the \"SaaSpocalypse,\" as advances in AI raise questions about whether businesses will continue paying for large numbers of software seats or whether newer AI-native products can replace them. Advertisement Kopp said he expects the way companies buy software to change. Charging customers based largely on how many employees use a product, he said, is likely to become \"a thing of the past\" as more work is performed by AI agents rather than people clicking through software themselves. More engineers, more talent If AI changes how enterprise software is used, then it also changes thekinds of workers consulting firms need to deploy and manage it. In April, Rillet announced a \"corporate development alliance\" with EY. It now also works with several consulting firms, including RSM and KPMG, Kopp said. In the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\" The longer-term opportunity is to turn their decades of accumulated accounting expertise into \"skill files, repositories, agents\" that can be layered onto AI systems like Rillet. \"I think building agents is a huge opportunity,\" Kopp said. He added that Rillet is already helping a consulting firm build analytics and reporting agents for forecasting dashboards, as well as tools for controls and risk monitoring that make it easier to review large data sets rather than relying on manual testing. That shift is changing the human talent they need, especially as the accounting profession continues to grapple with a yearslong talent shortage. \"Number one, the bar is going up,\" Kopp said. \"AI is a great leveler of information. So you need very highly skilled accountants and accounting professionals at these firms. Otherwise, the AI can kind of do your job.\" Kopp also believes that \"generalist\" entry-level work will increasingly be absorbed by AI in the coming two to three years and create more demand for domain-specific experts. At the same time, there's a new class of workers who are tech-savvy, innovative, and eager to experiment with AI — the kind Silicon Valley calls \"forward-deployed engineers.\" They are essentially tasked with working directly with customers to help put AI tools to use. Job postings for the role were up more than 5,000% year over year in April, according to data from Indeed. Kopp expects demand to keep rising for these types of workers, especially those who can handle large data sets, work with AI, and build agents as consulting firms take on more transformation projects. That's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work. He also sees the AI shift as a recruiting tool in its own right. \"There's a new wave coming. It's worth your time to go into consulting,\" he said. \"They use this a little bit as a lighthouse, I think, for the younger generation, the people that are more tech forward, to come join their firms.\" If you enjoyed this story, be sure to follow Business Insider on Yahoo.",
+        "impact": "اتوماسیون مالی هوشمند بازار نرم‌افزارهای قدیمی سازمانی مثل اوراکل را با چالش جدی مواجه کرده است.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/ceo-unicorn-ai-accounting-startup-091601000.html",
+        "clean_url": "https://www.aol.com/articles/ceo-unicorn-ai-accounting-startup-091601000.html",
+        "image": "http://www.bing.com/th?id=ONUT.jW3qbq6lcxrbFWPLVwuf4w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.jW3qbq6lcxrbFWPLVwuf4w&pid=News",
+            "https://hermes.media.static.aol.com/media/2026/08/24/030976d5-b28f-3903-aa59-39a4f231f168/01463360-86b6-4652-a298-207a642de839.jpg",
+            "https://hermes.media.static.aol.com/logos/light/aol_business_insider_articles_308.png?v=1786373467"
+        ],
+        "timestamp": 1787558100.0
     },
     {
         "id": "1158f2d11a",
@@ -451,6 +665,136 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787555018.0
+    },
+    {
+        "id": "6956fc9aa9",
+        "title_fa": "کمبود مسکن در آمریکا تحت تأثیر ساخت دیتاسنترهای هوش مصنوعی",
+        "title_en": "CEO Says AI Data Centers Are Creating a New Housing Problem",
+        "summary": [
+            "توسعه سریع زیرساخت‌های AI نیروهای متخصص ساخت‌وساز را از پروژه‌های مسکونی به سمت دیتاسنترها کشیده است.",
+            "افزایش دستمزد ۲۵ تا ۳۰ درصدی در پروژه‌های دیتاسنتر، کمبود ۳۰۰ هزار نفری نیرو در صنعت ساختمان را تشدید می‌کند.",
+            "ادامه این روند ساخت مسکن را کندتر کرده و فشار قیمتی جدیدی به خریداران وارد می‌سازد."
+        ],
+        "full_text": "The rapid expansion of AI infrastructure is creating an unexpected new challenge for the U.S. housing market: a growing battle for construction workers. According to Ed Brady, chief executive of the Home Builders Institute (HBI), the country's booming AI data center sector is drawing skilled tradespeople away from residential construction projects at a time when the homebuilding industry is already facing a severe labor shortage. As a result, experts warn that the race to build the facilities powering AI could make it even harder to address America's housing shortage. \"The market is not as strong, and so today many of those people that were in housing are going to these data centers,\" Brady told The Center Square. He added that the skilled-trades industry was already short roughly 300,000 workers and warned that competition from data center construction was worsening the problem. Why AI Data Centers Need So Many Workers The surge in demand for AI services has triggered an unprecedented wave of investment in data centers, the giant facilities that house the servers and networking equipment behind artificial intelligence platforms. CNBC previously reported that technology giants including Amazon, Microsoft, Google and Meta were expected to collectively commit more than $300 billion to AI-related infrastructure and data-center expansion in 2025. That spending has fuelled a construction boom requiring thousands of electricians, plumbers, HVAC specialists, steelworkers and other skilled tradespeople. Many of those workers are being attracted by higher wages and longer-term projects. According to another report by CNBC, which obtained data from Kelly Services, a construction staffing organization, some workers moving into data-center construction have seen pay increases of between 25 and 30 percent. The competition comes as homebuilders are already struggling to recruit and retain skilled labor. Brady said the industry had been facing workforce challenges for years, dating back to the aftermath of the 2008 financial crisis, when many workers left construction and never returned. He has also noted that five skilled-trades workers retire for every two entering the profession. The Housing Impact Housing experts say the labor squeeze is likely to have real consequences for homebuyers. In a March interview with Homes.com, Brady warned that workers who leave residential construction for commercial projects such as AI data centers may not easily return when housing demand rebounds. \"Residential construction suffers,\" Brady said, noting that many commercial projects offer steadier employment and, in some cases, better pay. Research cited by HBI estimates the skilled-labor shortage costs homebuilders about $10.8 billion annually and prevents the construction of roughly 19,000 homes each year. The problem extends beyond labor. The National Association of Home Builders (NAHB) has also warned that data-center development is increasingly competing with residential projects for land. In Northern Virginia, one of the world's largest concentrations of data centers, developers have reportedly paid millions of dollars per acre for sites that might otherwise have been used for housing. NAHB has described the trend as \"servers over shelter,\" arguing that AI infrastructure is beginning to reshape traditional development patterns. A Growing Divide Not everyone sees the boom negatively. Nvidia CEO Jensen Huang has argued that data-center construction is helping create a new generation of well-paying blue-collar jobs, saying skilled trades are likely to produce many of the next six-figure careers in America. But economists say booming wages in data-center construction can create knock-on effects elsewhere in the economy. \"The shrinking and aging construction labor force is a major issue in the homebuilding industry right now, leading to increased labor costs and longer construction timelines for new homes,\" Realtor.com senior economist Joel Berner said in a recent article for the outlet. For homebuilders, the concern is less about the existence of data centers and more about whether enough workers can be trained to meet demand in both sectors. \"This problem is going to get even more and more exaggerated and acute to the housing industry because of the data center construction,\" Brady warned, \"and we're not putting enough money into training the future generations of skilled labor.\" As AI investment accelerates across the United States, the industry's demand for workers is increasingly colliding with another national priority: building enough homes. The result, critics say, is a new housing challenge emerging from America's race to dominate AI. Newsweek has reached out to Brady and the National Association of Home Builders (NAHB) by email for comment. Contact Newsweek editors on this story: John Fitzpatrick and Cristina Diciu.",
+        "impact": "سرمایه‌گذاری سنگین در دیتاسنترها تبعات ناخواسته‌ای بر بازار مسکن و اقتصاد شهری برجا گذاشته است.",
+        "tag": "زیرساخت",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/ceo-says-ai-data-centers-are-creating-a-new-housing-problem-12359057",
+        "clean_url": "https://www.newsweek.com/ceo-says-ai-data-centers-are-creating-a-new-housing-problem-12359057",
+        "image": "http://www.bing.com/th?id=ONUT.hJTp0qdqC28zzuYgZhoLzw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.hJTp0qdqC28zzuYgZhoLzw&pid=News",
+            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T142001-155.png?w=1200&crop=1",
+            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T141821-555.png?w=1600&quality=80&webp=1",
+            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T142100-984.png?w=1600&quality=80&webp=1"
+        ],
+        "timestamp": 1787554800.0
+    },
+    {
+        "id": "8819d414b8",
+        "title_fa": "ورود هوش مصنوعی خودکار؛ انجام پروژه‌ها بدون دخالت انسان",
+        "title_en": "Autonomous AI Outgrows Agents As Blitzy, XBOW And Google Deliver",
+        "summary": [
+            "نسل جدید سیستم‌های هوش مصنوعی مستقل می‌توانند اهداف پیچیده را در چند روز و بدون تایید مداوم انسان کامل کنند.",
+            "استارتاپ‌های Blitzy و XBOW در حوزه‌های کدنویسی و امنیت سایبری جذب سرمایه‌های صدها میلیون دلاری ثبت کردند.",
+            "این ابزارها پروژه‌های بازنویسی کدهای قدیمی و تست‌های امنیت سیستم را کاملا به دست گرفته‌اند."
+        ],
+        "full_text": "Autonomous AI is moving from investor thesis to enterprise reality and the early results look less like demos and more like finished work. Sanjot Malhi, who leads the global growth fund at Northzone, spent nearly two years building an investment thesis around it before the technology caught up. “For the longest time it was a forward looking thesis, and the technology just didn’t exist,” he told me. “Then the tech showed up this year.” Since Janaury his fund has backed Blitzy, an enterprise coding company that has raised $200 million at a $1.4B valuation, and XBOW, an offensive cybersecurity company that has raised $120 million. What Autonomous AI Means Most AI assists people. Copilots fill in the blank while you type. Agents take an instruction, work for a few minutes, and hand back a result for a human to review. In fact KPMG says that nearly half of executives will pull back AI agents over cost. Autonomous AI is different. You give the system a goal, it works for days or weeks, and it returns finished work with no humans in the loop. As one technologist put it to me, all autonomous AI systems are agents, but most agents are not fully autonomous. Coding shows the progression clearly. GitHub Copilot autocompleted code and then Cursor and Claude Code ran short supervised tasks. Cognition’s Devin coded semi-autonomously and grew into a $26 billion compny that says Devin now writes 89 percent of its own code. The frontier now is systems that take on entire projects alone. Autonomous AI Rebuilds Enterprise Codebases Blitzy ingests hundreds of millions of lines of a company’s legacy code, absorbs its compliance policies, takes a goal and then builds it. Charles River Development, a State Street company, uses it to modernize decades old code that traditionally went to systems integrators on multiyear contracts, and interim CTO Jason Adams has spoken publicy about the results. Builders FirstSouce, the largest supplier of structural building products in the United States and a Global 2000 company, tripled its software development velocity in its first three months on the platform. OpenAI cited Blitzy in its GPT-5.6 materials as a tester of the model’s coding capabilities. Teams at Blitzy’s customers now kick off a project on Friday night and return Monday morning to complete work. Malhi calls that shift in human behavior the clearest sign that value is being delivered independently of people. Autonomous AI Is Now The World’s Top Hacker Cybersecurity tells the same story from the offensive side. Penetration testing, where ethical hackers attack a company’s own systems to find weaknesses, has always been periodic, partial, expensive, and dependent on scarce human talent. XBOW, founded by GitHub Copilot creator Oege de Moor, built an automous hacker that tests everything, continuously, with no one in the loop, in a market Mordor Intelligence sizes at $2.72 billion this year and $5.54 billion by 2031. In summer 2025 XBOW topped HackerOne’s US leaderboard, the first time the number one hacker was not a human being. Moderna’s deputy CISO Farzan Karimi has said publicly that XBOW caught a firewall bypass he had missed in his own review, the finding that convinced Moderna to sign on. XBOW was amongst the only private companies globally given early access to Anthropic’s Mythos model during Project Glasswing. Anthropic themselves cited that XBOW’s early-access testing revealed that Mythos is a “significant step up over all existing models” and provides “absolutely unprecedented precision”. And the category is bigger than one company. Horizon3, whose NodeZero platform also pentests autonomously, raised $250 million Series E this month at a valuation above $2 billion, triple where it stood a year ago. The giants see the same future. Google's Big Sleep, built by DeepMind and Project Zero, autonomously found twenty new vulnerabilities in widely used open source software, and OpenAI folded Aardvark, its security researcher that caught 92 percent of known flaws in benchmark tests, directly into Codex. In chatting with the co-founders of Om Lab, Krish Chelikavada and Keon Kim, told me, \"The next frontier is fully autonomous agents that run continuously toward a goal. Humans will focus on providing context and steering these systems. World models and preprocessing signals into easily accessible context layers will be helpful in making these agents truly reliable\" Continuous autonomous testing also builds a harness that captures a company’s full security context, giving enterprises a middle layer they control rather than handing their data over to any single model provider. Where Autonomous AI Goes Next Blitzy’s stated ambition is to become the AI software factory for the enterprise, holding a company’s compliance rules and businesses so new products ship ready to go. Malhi frames both investments as early versions of the enterprise brain, a system that holds an organization’s full context. Blitzy is the brain for the codebase, XBOW is the brain for security, and the models plug into that brain rather than owning it. Malhi sees these systems as the precursor to artificial general intelligence(AGI). AGI is AI that can navigate ambiguity, form hypotheses, hit dead ends, and iterate its way to a solution better than a person could. Leaders should approach this with open eyes. Gartner predicts that by 2027, 40 percent of enterprises will demote or decommission autonomous AI Agents. They predict this will be done because of governance gaps discovered only after production incidents, so demand audit trails and clear accountability before handing over goals. But waiting on the sidelines carries its own cost. Companies tripling their development speed in a single quarter are running product autonomous AI.",
+        "impact": "حذف انسان از چرخه تایید کارهای نرم‌افزاری، سرعت توسعه پروژه‌های بزرگ را چند برابر می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/sandycarter/2026/08/24/autonomous-ai-outgrows-agents-as-blitzy-xbow-and-google-deliver/",
+        "clean_url": "https://www.forbes.com/sites/sandycarter/2026/08/24/autonomous-ai-outgrows-agents-as-blitzy-xbow-and-google-deliver",
+        "image": "http://www.bing.com/th?id=ONUT.5BMchqt46LWKhz95EHVQVA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.5BMchqt46LWKhz95EHVQVA&pid=News",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8135a85ac77d6739a5c6e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8135a85ac77d6739a5c6e7/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8135a85ac77d6739a5c6e7/Illustration-of-AI-board-with-the-word-AI-in-the-center-and-abstract-bokeh-around-it-/0x0.jpg?width=960"
+        ],
+        "timestamp": 1787554800.0
+    },
+    {
+        "id": "a37de22010",
+        "title_fa": "کاهش ۷۰ درصدی هزینه کشف دارو با الگوریتم‌های هوش مصنوعی",
+        "title_en": "Why AI-Driven Drug Discovery Is Becoming Pharma’s Next Big Bet",
+        "summary": [
+            "تحقیقات تازه نشان می‌دهد هوش مصنوعی هزینه و زمان مراحل پیش‌بالینی کشف دارو را تا ۷۰ درصد کاهش می‌دهد.",
+            "شرکت‌های داروسازی کامپیوترهای پرقدرت و روش‌های محاسباتی را به ابزار اصلی آزمایشگاه‌ها تبدیل کرده‌اند.",
+            "الگوریتم‌ها جایگزین دانشمندان نمی‌شوند، اما انتخاب موثرترین ترکیب‌های دارویی را فوق‌العاده سریع می‌کنند."
+        ],
+        "full_text": "My first two years of college were in a special medical school program focused on the courses required to get into a pharmacy program, to become a pharmacist. During that time, I worked as a pharmacy technician, gaining valuable firsthand experience with medications and how they are used to treat patients. But two years into the program, I switched majors and put my medical schooling on hold. In the mid-1970's, I ended up working at a tech company that shifted my educational focus toward technology and led me to my career in tech. However, my interest in medicine and especially pharmacology has never wavered. From Pharmacy to Technology—and Back to Drug Discovery But for most of my career, I've been following emerging technologies that promise to reinvent entire industries. Often, the hype outpaces the reality by several years. Occasionally, however, a technology emerges that really does deserve all the hype it's receiving. One of those is AI-driven biopharma R&D. The research firm TD Cowen’s recent proprietary survey of 80 industry leaders and experts provides concrete figures to back up what many of us suspect: AI can reduce preclinical drug development costs and timelines by 70%. Why does this matter? The demand signal is already evident in growing investments in software, sequencing equipment, and computational methods to develop more experimental drugs over the next five years. The emphasis on using more powerful computers for drug discovery came into sharper focus for me when I was allowed to do a deep dive on IBM's vision of using its early quantum computing for drug discovery. Given my early educational focus on drugs and medicine, this particular research project excited me. The Bigger Picture AI is not replacing scientific intuition—and it is unlikely to do so anytime soon. What it can do is make the costly, time-consuming R&D work that precedes clinical trials more efficient. In drug discovery, that means the computer screen is becoming nearly as essential as the lab bench: a core tool for exploring possibilities, testing hypotheses and guiding scientists toward the most promising compounds. That shift is familiar across industries, where digital tools increasingly become part of the craft rather than merely an add-on. Brendan Smith, director of life sciences equity research at TD Cowen. \"With more data, you're able to train AI algorithms better and get a higher likelihood of success. And while some tasks in the earlier phases of the drug discovery process will be transferred to computations, wet labs will remain, and scientists in them will continue verifying the efficacy and safety of medications using the traditional approach.\" Between the Lines What makes this a different type of AI disruption from what we've been observing in the rest of white-collar work is that AI is not eliminating jobs but rather shifting workflow locations. That being said, I expect some areas of the pharmaceutical industry workforce to be impacted by the transition towards computation. There’s also a policy angle to consider. The Trump administration's push for less animal testing in biomedical research will accelerate the shift towards computational tools, 3D human tissues, and other approaches to predict compound toxicity. Based on TD Cowen survey results, the greatest increase in demand for advanced software capable of simulating biological processes—predicting drug interactions or adjusting dosage based on a patient's age or condition (e.g., newborns or pregnant patients)—is expected between now and 2028. The money flows into \"in silico” platforms that allow scientists to run thousands of experiments within seconds, simulating toxicity and stability of the compound without using any physical samples. The kind of tooling that was once a science fiction dream has now become a reality. By the Numbers According to the proprietary survey data, new drug development programs could grow by more than 10% over the next three to five years. With continued investments in lab equipment, this buying spree could mean an increase in spending of about $1 billion. I always advise people to distinguish between genuine revolution and marketing hype, and this technology deserves the same treatment. At the moment, AI hasn't found a new drug that the FDA would approve. Some investors have voiced concerns about whether the technology will make any meaningful difference for patients soon. The Promise Is Real, but So Is the Proof Burden This is a trend I’ve witnessed several times before: a breakthrough technology excels in the early, more controllable stages of a process, then encounters the unpredictability of the real world. AI-driven drug development has genuine potential to make research faster, less expensive and more targeted. But its ultimate value will not be measured by what it can simulate on a computer screen. It will be measured by whether it helps deliver safe, effective medicines to patients.",
+        "impact": "جهش هوش مصنوعی در بیوفارما، فرایند تولید داروهای حیاتی و گران‌قیمت را ارزان‌تر و سریع‌تر می‌سازد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/timbajarin/2026/08/24/why-ai-driven-drug-discovery-is-becoming-pharmas-next-big-bet/",
+        "clean_url": "https://www.forbes.com/sites/timbajarin/2026/08/24/why-ai-driven-drug-discovery-is-becoming-pharmas-next-big-bet",
+        "image": "http://www.bing.com/th?id=ONUT.e7qswByXdYnzClfYgPXg6w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.e7qswByXdYnzClfYgPXg6w&pid=News",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a108d9a14d8b14ea12ab3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a108d9a14d8b14ea12ab3/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8a108d9a14d8b14ea12ab3/AI-Medicine--Medical-Research-Technology-Concepts/0x0.jpg?width=960"
+        ],
+        "timestamp": 1787554800.0
+    },
+    {
+        "id": "fced7a9d63",
+        "title_fa": "پیشنهاد ۱۳ میلیارد دلاری برای خرید پلتفرم هاگینگ فیس",
+        "title_en": "Hugging Face reportedly in talks to be acquired for $13B",
+        "summary": [
+            "بزرگ‌ترین پلتفرم مدل‌های متن‌باز هوش مصنوعی پیشنهادهایی برای تصاحب با ارزش ۱۳ میلیارد دلار دریافت کرده است.",
+            "مدیرعامل هاگینگ فیس تأکید دارد شرکت به سودآوری نزدیک شده و قصد ندارد استقلال خود را فدای سود کوتاه‌مدت کند.",
+            "این پیشنهادها نشان‌دهنده ارزش فوق‌العاده زیرساخت‌های اصلی هوش مصنوعی در بازار فعلی است."
+        ],
+        "full_text": "Hugging Face has been approached to sell at a valuation of $13 billion or more, Business Insider reported over the weekend. The startup’s platform and open source community is where developers and researchers share, find, test, and deploy AI models. Hugging Face was recently the target of an attack from one of OpenAI’s systems, which broke out of its sandbox during a cybersecurity evaluation and breached the startup’s servers. It’s not clear who Hugging Face has been in talks with, and no deal has yet been reached, according to Business Insider. However, the startup has reportedly been talking to banks to help evaluate bids. The talks come amid increased interest in companies providing core AI infrastructure services, as evidenced by Stripe’s $7 billion acquisition of OpenRouter. Hugging Face last raised in 2023 at a $4.5 billion post-money valuation in a round led by Salesforce Ventures, with participation from Alphabet, GV, IBM Ventures, and others. On a recent episode of the TechCrunch Equity podcast, Hugging Face CEO Clem Delangue said that the company was “close to profitability” and only “recently started to touch the money that [it] raised three years ago,” adding that the startup is thinking about how to optimize for “long-term sustainability of the company rather than short-term profits or fundraising maximization.” “We’re more in a unique position where we can keep creating value for the community and for AI builders,” he said. The way Delangue has discussed the company’s responsibility to the Hugging Face community raises questions over whether the startup is truly considering selling or is simply fielding offers for what has become a central pillar in AI infrastructure. “We’re building a platform for the community, and they’re trusting us with sharing their data and their models on the platform, so we have a long-term responsibility to them,” Delangue said on Equity. More to the point, the company earlier this year turned down a $500 million investment from Nvidia that would have valued it at $7 billion, saying at the time that it didn’t want a single dominant investor to sway decisions. TechCrunch has reached out to Hugging Face for more information.",
+        "impact": "تغییر مالکیت احتمال هاگینگ فیس مسیر توسعه مدل‌های متن‌باز هوش مصنوعی را دستخوش تغییر اساسی می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "clean_url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+        "image": "http://www.bing.com/th?id=ONUT.ry_eOgTAXKChoNKoGQaBwA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ry_eOgTAXKChoNKoGQaBwA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/08/bellan-rebecca-contributor-copy.jpg?w=150"
+        ],
+        "timestamp": 1787554020.0
+    },
+    {
+        "id": "dc2fcf5b3b",
+        "title_fa": "ادغام دو استارتاپ سلامت برای هوشمندسازی لاغری با داروهای جدید",
+        "title_en": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+        "summary": [
+            "استارتاپ بری استریت آمریکا و هلثی‌فای هند برای پاسخ به تقاضای مهارنشدنی داروهای GLP-1 ادغام شدند.",
+            "مجموعه جدید خدمات خود را از طریق ترکیب هوش مصنوعی، مربیان تغذیه و پوشش بیمه‌ای ارائه می‌دهد.",
+            "تحلیلگران بازار پیش‌بینی می‌کنند بیش از ۳۰ میلیون نفر تا سال ۲۰۳۰ از این داروهای لاغری استفاده کنند."
+        ],
+        "full_text": "U.S. nutrition startup Berry Street said on Monday it has merged with Khosla Ventures-backed Indian startup Healthify to bank on the popular trend of people turning to GLP-1 drugs to lose weight. The companies didn’t disclose the financial details of the deal. A report from JP Morgan published this year suggested that over 30 million people in the U.S. will be on GLP-1 by 2030. The companies said Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity. In the U.S., the company will operate under the Berry Street banner, and in other markets like India, it will operate under the Healthify brand. Healthify, which has raised over $150 million in funding, per Crunchbase, offers both AI-powered and human fitness and nutritional coaching via an app. Last year, the company expanded its operations in the U.S., and also started offering GLP-1-aided programs in India. The startup claims it has so far served more than 45 million customers. “Healthify’s mission has been to put a dietitian in every human’s pocket. We have spent a decade proving that AI can drive life-changing outcomes at scale. Berry Street gives us the clinical backbone and the coverage infrastructure to deliver that promise to the U.S. market at a scale no one has achieved before,” Healthify’s CEO Vashisht said in a press release. Berry Street has a network of over 2,000 clinics and offers insurance-covered GLP-1 care. The company last year raised $50 million in a fundraising round from Northzone, Sofina, and FJ Labs. This startup also provides AI-powered nutrition coaching and meal tracking, and claims it has served over 200,000 people in collaboration with Amazon, Walmart, and other platforms. “By pairing AI with a nationwide network of expert clinicians, Healthify and Berry Street are building the platform that will redefine metabolic care, giving everyone access to daily nutrition guidance and expert dietitian advice,” Khosla Ventures’ founder Vinod Khosla said in a statement.",
+        "impact": "ترکیب هوش مصنوعی با پرونده‌های پزشکی، بازار مدیریت سلامت و رژیم‌های درمانی را دگرگون می‌کند.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+        "clean_url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards",
+        "image": "http://www.bing.com/th?id=ONUT.Y61P6gL4aLwxh-GV_M7hVg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Y61P6gL4aLwxh-GV_M7hVg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?resize=1200,801",
+            "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150"
+        ],
+        "timestamp": 1787553900.0
     },
     {
         "id": "34a03e36a7",
