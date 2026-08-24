@@ -1,5 +1,53 @@
 [
     {
+        "id": "5f6f9bad77",
+        "title_fa": "شناسایی قربانی جدید ۱۱ سپتامبر پس از ۲۵ سال با فناوری DNA",
+        "title_en": "New 9/11 Victim Identified Using ‘Breakthrough’ DNA Technology Nearly 25 Years After Attacks",
+        "summary": [
+            "پزشکی قانونی با به کارگیری تکنولوژی‌های نوظهور آنالیز DNA موفق شد هویت یکی دیگر از قربانیان حملات ۱۱ سپتامبر را تایید کند.",
+            "این موفقیت قدرت پیشرفت‌های اخیر در جهش‌شناسی و تحلیل نمونه‌های آسیب‌دیده قدیمی را به رخ می‌کشد."
+        ],
+        "full_text": "New 9/11 Victim Identified Using ‘Breakthrough’ DNA Technology Nearly 25 Years After Attacks  People.com",
+        "impact": "تحول در پرونده‌های قدیمی پزشکی قانونی و اثبات دقت بالای روش‌های جدید آنالیز ژنتیکی.",
+        "tag": "بیوتکنولوژی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "People.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlY4Y1pDZEZkYk1aQ2ZPbWpXbHlyVmE3RU00Nk91dDU4d3dObUFHdXBkc0N1Tl85dUhBMGxsZmpWZV9vanYxQUFRbUZET1d0am5wd0x5YS1tN3N1Q1Iyc0JpOFIzTHVlWXY5MXBOM3NvTGtQY2pwek4zQi1ReVVMbEZpazR0dUU0RkpxVGQ3aDA4NmtRdFVqanh5elVvTGN3RnVzazJEVWNGeTR0bll5bHppV1pub1BvRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlY4Y1pDZEZkYk1aQ2ZPbWpXbHlyVmE3RU00Nk91dDU4d3dObUFHdXBkc0N1Tl85dUhBMGxsZmpWZV9vanYxQUFRbUZET1d0am5wd0x5YS1tN3N1Q1Iyc0JpOFIzTHVlWXY5MXBOM3NvTGtQY2pwek4zQi1ReVVMbEZpazR0dUU0RkpxVGQ3aDA4NmtRdFVqanh5elVvTGN3RnVzazJEVWNGeTR0bll5bHppV1pub1BvRUE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787603629.0
+    },
+    {
+        "id": "e51feb020d",
+        "title_fa": "تراشه نوری به اندازه دانه برنج؛ گام بزرگ به سوی 6G",
+        "title_en": "This Grain-of-Rice-Sized \"Rainbow\" Chip Could Transform 6G Communications",
+        "summary": [
+            "محققان تراشه بسیار کوچکی ساختند که با تولید طیف نوری منظم، امواج میلی‌متری فوق‌العاده دقیق و پایداری می‌سازد.",
+            "این تراشه امکان ارسال هم‌زمان داده‌ها در چند کانال را فراهم می‌کند و پهنای باند شبکه را به‌شدت افزایش می‌دهد.",
+            "علاوه بر شبکه 6G، این فناوری در رادارهای پیشرفته و ابزارهای سنجش کوانتومی کاربرد حیاتی خواهد داشت."
+        ],
+        "full_text": "A tiny chip that produces a precisely organized “rainbow” of light could help enable faster, higher-capacity 6G communications and more precise timing for quantum technologies. A microchip about the size of a grain of rice can generate a carefully ordered spectrum of light and convert it into multiple high-frequency electromagnetic signals called millimeter waves. Physicists at Loughborough University and their international collaborators say the approach could eventually support technologies that require large amounts of bandwidth and exceptionally precise signals. Millimeter waves are especially attractive for future communications because they provide far more bandwidth, effectively creating additional capacity for transmitting data. The challenge has been producing these frequencies with the precision and stability required for advanced systems. “The world is becoming increasingly data hungry. We want to send and receive more information, faster and in higher resolution, and millimeter waves could help provide the capacity to do that,” said Dr. Luke Peters, of Loughborough University’s Emergent Photonics Research Center. “They could ultimately contribute to faster, higher capacity 6G networks, but the potential goes far beyond communications. These frequencies could also be used in radar systems as well as spectroscopy and astronomical instruments, helping scientists study materials and make extremely precise measurements of the universe. “These applications are still some way off, and there are challenges to overcome before the technology can be used in real-world systems – but our latest work has tackled a major one.” One chip generates many precise signals The researchers produced the millimeter waves using a microcomb, a precisely arranged set of light frequencies that resembles the colors of a rainbow but lies outside what the human eye can see. A specialized antenna can then convert those optical frequencies into millimeter waves. Earlier work showed that microcombs could produce one precise millimeter wave frequency. Generating many frequencies simultaneously could provide several channels for transmitting data at the same time, but achieving that requires a microcomb with unusually high stability and clarity. In a paper published in Nature Communications, the Loughborough-led researchers demonstrated a system capable of producing that type of stable, high-quality microcomb. Its optical frequencies could then be converted into several precisely spaced millimeter-wave frequencies simultaneously. The difference lies in how the microcomb is generated. Conventional systems typically direct laser light into a microresonator, a tiny structure fabricated on a chip that traps the light and allows it to circulate. The Loughborough system combines this chip-based microresonator with a much larger loop of optical fiber. Laser light repeatedly travels through both components, helping the desired optical states develop and remain stable. “We’ve essentially created an incredibly precise and stable ‘rainbow on a chip,’ where the loop keeps feeding the light back through the chip, allowing these states to build up efficiently, start on their own and remain stable even when the system is disturbed,” said Dr. Peters. “It’s remarkably robust too. We’ve even had people jumping up and down next to the system, and the microcomb remains stable.” Millimeter waves retain the original precision The researchers also showed that individual frequencies within the microcomb “rainbow” could be adjusted, allowing some to be strengthened while others were weakened. Importantly, the precision and stability of the optical microcomb remained intact after the frequencies were converted into millimeter wave signals. “Being able to make individual frequencies stronger or weaker gives us much more control over the signals we produce, because different applications will need different combinations of frequencies,” said Dr. Peters. “Just as importantly, we’ve shown that the precision of the microcomb carries through to the millimeter waves. That gives us a whole set of highly controlled signals, which is exactly what you need for applications where accuracy and stability matter. “That same level of precision is valuable for timing. Precision timing sits at the core of emerging quantum technologies, where extreme accuracy is a requirement.” The researchers are now investigating how the technology could move beyond laboratory experiments. Although the central microchip is only about the size of a grain of rice, the complete apparatus currently occupies a tabletop. Future versions could use less energy and take up considerably less space, potentially reducing the entire system to roughly the size of a shoebox. One possibility the researchers want to investigate is placing the technology on satellites, where minimizing size, weight, and power consumption is particularly important. The next challenge is shrinking the system The researchers are also testing the limits of the microcomb’s accuracy. Through collaborations with the National Physical Laboratory, they are comparing the system with precision clocks and investigating possible uses in timing, navigation, and positioning. The work also contributes to efforts involving the National Physical Laboratory and the UK Hub for Quantum Enabled Position, Navigation, and Timing (QEPNT). “We’re really excited to see how far we can take the precision and stability of these microcombs, particularly for technologies that rely on extremely accurate timing,” said Dr. Antonio Cutrona, who led the microcomb stability measurements. “We hope this study and our system open up new ways of bringing the extraordinary precision of atomic clocks into more compact technologies for timing, navigation, and position, and it is particularly exciting to explore these possibilities through our wider collaborations with the National Physical Laboratory and the UK Hub for Quantum Enabled Position, Navi",
+        "impact": "هموار شدن مسیر توسعه شبکه‌های پرسرعت 6G و زیرساخت‌های پردازش داده با حجم بالا.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "SciTechDaily",
+        "url": "https://scitechdaily.com/this-grain-of-rice-sized-rainbow-chip-could-transform-6g-communications/",
+        "clean_url": "https://scitechdaily.com/this-grain-of-rice-sized-rainbow-chip-could-transform-6g-communications",
+        "image": "https://scitechdaily.com/images/Rainbow-Chip-Electronics-777x518.jpg",
+        "images": [
+            "https://scitechdaily.com/images/Rainbow-Chip-Electronics-777x518.jpg",
+            "https://scitechdaily.com/images/Luana-Olivieri-Luke-Peters-and-Antonio-Cutrona-777x444.jpg",
+            "https://scitechdaily.com/images/Rainbow-and-Microcomb-Light-Frequencies-777x437.jpg",
+            "https://scitechdaily.com/images/Microcomb-Chip-Beside-One-Euro-Coin-777x437.jpg"
+        ],
+        "timestamp": 1787601420.0
+    },
+    {
         "id": "6e0ff8ddca",
         "title_fa": "بررسی چالش‌های حقوقی هوش مصنوعی مولد برای شرکت‌های نوپا",
         "title_en": "Dr. Ádám Miklós Sulyok",
