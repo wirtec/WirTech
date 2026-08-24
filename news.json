@@ -1,5 +1,49 @@
 [
     {
+        "id": "f27466f46f",
+        "title_fa": "انتشار گزارش مالی نیمه اول سال ۲۰۲۶ شرکت Robo.ai",
+        "title_en": "Robo.ai Inc. Reports First Half 2026 Financial Results",
+        "summary": [
+            "شرکت Robo.ai نتایج عملکرد مالی خود را در شش‌ماهه نخست سال ۲۰۲۶ اعلام کرد.",
+            "این گزارش آمار مربوط به درآمدها و هزینه‌های عملیاتی شرکت را در توسعه راهکارهای هوشمند ارائه می‌دهد."
+        ],
+        "full_text": "Robo.ai Inc. Reports First Half 2026 Financial Results  PR Newswire",
+        "impact": "ارزیابی شفاف مسیر رشد و ثبات مالی شرکت در بازار رقابتی هوش مصنوعی.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3lVd3NXSEhLWkZYLW1YVWVtcUF2MC1KUlVrd0V1c3BVOWkzRWNFZW9mcnltSTY0X0ZWV0tqb0RNVjhGbWxSY0tKTzdxMldzYWVyRGhRNTdQTEhBUnFrMVpYWUFrRVc1NDVTTmRpaDVwZld5UVRGQ3ROSWgwWFJ5S2szZXlUaVZNeDJyeDlPRmNLZGlOWDU3TW00UlhTakVZNVZteHk5ZC1RWHp1aEgzRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3lVd3NXSEhLWkZYLW1YVWVtcUF2MC1KUlVrd0V1c3BVOWkzRWNFZW9mcnltSTY0X0ZWV0tqb0RNVjhGbWxSY0tKTzdxMldzYWVyRGhRNTdQTEhBUnFrMVpYWUFrRVc1NDVTTmRpaDVwZld5UVRGQ3ROSWgwWFJ5S2szZXlUaVZNeDJyeDlPRmNLZGlOWDU3TW00UlhTakVZNVZteHk5ZC1RWHp1aEgzRg",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787565600.0
+    },
+    {
+        "id": "452aef8287",
+        "title_fa": "پرتاب محموله فضایی مجهز به هوش مصنوعی دانشجویان با راکت ناسا",
+        "title_en": "Capitol Tech Students Launch AI Enabled Payload on NASA RockSat Mission",
+        "summary": [
+            "دانشجویان دانشگاه فناوری کپیتال در قالب مأموریت RockSat ناسا، سخت‌افزاری مجهز به هوش مصنوعی را به فضا ارسال کردند.",
+            "این پروژه توانایی پردازش داده‌های فضایی در محل (Edge AI) را طی پروازهای زیرمداری ارزیابی می‌کند."
+        ],
+        "full_text": "Capitol Tech Students Launch AI Enabled Payload on NASA RockSat Mission  Homeland Security Today",
+        "impact": "تسهیل توسعه پردازش هوش مصنوعی در تجهیزات کم‌حجم فضایی و پروژه‌های تحقیقاتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "Homeland Security Today",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZIbjNjMVhPOF83SjdweFZmbjQ5TkNVc1NEdW1ReENoMlNYY2g2YnQtRXhWWkJwRm5IRm5KcGNhTG54XzFkYS1YNGNycUZjbHI2S2pTM3Rad0JRVzlTZE9oOUtHVkUxMEZMQTFMcGtIOGdVbkZSbFFObXh3Z2lCcllDT2s4dDV5TS1CdW9jZjlxX1RjODM1ZmlfdEpjcDhBd2xCQVprVndqRVFhMk5PemFTbDEtZ1dPSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZIbjNjMVhPOF83SjdweFZmbjQ5TkNVc1NEdW1ReENoMlNYY2g2YnQtRXhWWkJwRm5IRm5KcGNhTG54XzFkYS1YNGNycUZjbHI2S2pTM3Rad0JRVzlTZE9oOUtHVkUxMEZMQTFMcGtIOGdVbkZSbFFObXh3Z2lCcllDT2s4dDV5TS1CdW9jZjlxX1RjODM1ZmlfdEpjcDhBd2xCQVprVndqRVFhMk5PemFTbDEtZ1dPSXc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787564028.0
+    },
+    {
         "id": "955c375ebb",
         "title_fa": "مذاکره انویدیا با استارتاپ کره‌ای ریبلیونز برای همکاری یا تصاحب",
         "title_en": "Nvidia opens talks with Rebellions on potential AI chip partnership",
