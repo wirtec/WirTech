@@ -1,5 +1,75 @@
 [
     {
+        "id": "b6d4891bdd",
+        "title_fa": "برنامه ۶ میلیارد دلاری انویدیا برای ساخت مدل‌های متن‌باز و رقابت با چین",
+        "title_en": "Reports: Nvidia to use $6bn Poolside deal to build open-weight models",
+        "summary": [
+            "انویدیا با قرارداد ۶ میلیارد دلاری با استارتاپ Poolside و جذب ۱۰۹ کارمند آن، وارد عرصه ساخت مدل‌های هوش مصنوعی متن‌باز (Open-weight) می‌شود.",
+            "جن سن هوانگ هدف این اقدام را پاتک به پیشتازی مدل‌های چینی مانند DeepSeek و Qwen و ایجاد یک اکوسیستم باز در آمریکا اعلام کرده است.",
+            "این تصمیم، انویدیا را مستقیماً در برابر شرکای کلیدی‌اش یعنی OpenAI و Anthropic قرار می‌دهد."
+        ],
+        "full_text": "US AI leadership will be through an open ecosystem of models, not frontier dominance, Jensen Huang said. Nvidia is planning to use its $6bn deal with AI start-up Poolside to build open-weight AI models that can rival the likes made by China’s DeepSeek and Moonshot, the Wall Street Journal (WSJ) reported over the weekend. The reports come after the chipmaking giant promised a combined $7bn investment into the AI start-up, including $1bn in equity at a pre-money valuation of $12bn. This marks a four-fold jump from the company’s 2025 valuation of $3bn. Founded in 2023, Poolside is behind its Laguna series of open-weight models, small enough to run on a single Nvidia DGX GPU. Nvidia’s reported plans to make its own open-weight models also places it in direct competition with other US AI companies it backs, including OpenAI and Anthropic, as global businesses compete for dominance in the space. Open-weight models are generally far cheaper to run and allow developers to make customisations to suit their need. And China is by far the leader in this space according to data collected by Hugging Face, which found that Alibaba’s Qwen models were downloaded more than 3bn times over the past six months, placing it ahead of Google, OpenAI, Meta and other rivals by a large margin. Nvidia founder and CEO Jensen Huang, in a recently published letter, highlighted the importance of open-weights for AI leadership. “Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,” he wrote. “Open weights expand access to the AI economy. Start-ups, established businesses, universities and public institutions can build on advanced models without training one from scratch or paying frontier model prices for every task. “Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk,” he added. Alongside its multibillion-dollar commitment to Poolside, Nvidia is also nabbing the start-up’s 109 employees. The non-exclusive nature of the deal means leadership will not be joining Nvidia and will continue working on their own projects. Deals like these give Nvidia access to a company’s technical prowess, including research and staff, while minimising the chipmaker’s overall efforts to develop its own technology. In 2025, the company signed US AI company Groq in a licensing deal that saw much of its talent hired away by the chipmaking giant. The same year, it spent more than $900m to hire Enfabrica CEO Rochan Sankar and other employees at the AI start-up and license the company’s technology. Nvidia is also reportedly in talks with South Korean chipmaker Rebellions for a similar partnership that could result in an investment or an acquisition. Poolside employees joining Nvidia will reportedly work on the company’s Nemotron project, which aims to develop open-weight models, sources told WSJ. Don’t miss out on the knowledge you need to succeed. Sign up for the Daily Brief, Silicon Republic’s digest of need-to-know sci-tech news.",
+        "impact": "تغییر موازنه قدرت به نفع مدل‌های متن‌باز و کاهش هزینه توسعه هوش مصنوعی برای شرکت‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.7,
+        "source": "Silicon Republic",
+        "url": "https://www.siliconrepublic.com/business/reports-nvidia-to-use-6bn-poolside-deal-to-build-open-weight-models",
+        "clean_url": "https://www.siliconrepublic.com/business/reports-nvidia-to-use-6bn-poolside-deal-to-build-open-weight-models",
+        "image": "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only.jpeg",
+        "images": [
+            "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only.jpeg",
+            "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only-718x523.jpeg",
+            "https://www.siliconrepublic.com/wp-content/uploads/2026/08/nvidia-and-unitree-330x251.jpeg",
+            "https://www.siliconrepublic.com/wp-content/uploads/2024/08/a-4-330x251.jpeg"
+        ],
+        "timestamp": 1787567940.0
+    },
+    {
+        "id": "ec3c08c8db",
+        "title_fa": "انتروپیک در آستانه ورود به بورس؛ آماده‌سازی فرم عرضه اولیه سهام",
+        "title_en": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First",
+        "summary": [
+            "شایعات بازار حاکی از آن است که انتروپیک، سازنده مدل Claude، تا پایان این ماه فرم رسمی عرضه اولیه سهام (S-1) را ثبت می‌کند.",
+            "سرمایه‌گذاران بزرگ از جمله آمازون منتظر انتشار این فرم هستند تا ارزش‌گذاری واقعی و وضعیت مالی این غول هوش مصنوعی شفاف شود."
+        ],
+        "full_text": "Anthropic is rumored to be filing its S-1 by the end of this month.",
+        "impact": "آغاز موج ورود غول‌های هوش مصنوعی به بازار بورس و شفاف‌سازی ابعاد مالی این صنعت.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "The Motley Fool",
+        "url": "https://www.msn.com/en-us/money/general/the-one-line-in-anthropic-s-s-1-that-amazon-investors-should-read-first/ar-AA2aNYdB",
+        "clean_url": "https://www.msn.com/en-us/money/general/the-one-line-in-anthropic-s-s-1-that-amazon-investors-should-read-first/ar-AA2aNYdB",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787567400.0
+    },
+    {
+        "id": "ee3f31163f",
+        "title_fa": "ورود رسمی اپل به بازار تاشوها با «آیفون اولترا» ۲۰۰۰ دلاری",
+        "title_en": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report",
+        "summary": [
+            "طبق گزارش‌های جدید، اپل قصد دارد در اوایل سپتامبر (شهریور) از اولین آیفون تاشو خود با نام احتمالی iPhone Ultra رونمایی کند.",
+            "قیمت پایه این گوشی بیش از ۲۰۰۰ دلار برآورد شده که آن را به گران‌ترین آیفون تاریخ تبدیل می‌کند."
+        ],
+        "full_text": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report  Fortune",
+        "impact": "ایجاد شوک قیمتی در بازار پرچمداران و رقابت مستقیم با گوشی‌های تاشو سامسونگ.",
+        "tag": "گجت",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdwZjBaOENsOUIxX09QNWNfdUZ2OGlicnJiQ09HQU9aN0xNM19nczBFMDN6NmpUdHBqSkM2LUFKT0R3b1U5czlpdVl1N3hOMVBSRmlhRU16dDlhY2J2TDZ5UFlpRXdOelhBb0pXWlMyLURIcmgzaUtYV3h4M1E0Q0dqQVNnUUVs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdwZjBaOENsOUIxX09QNWNfdUZ2OGlicnJiQ09HQU9aN0xNM19nczBFMDN6NmpUdHBqSkM2LUFKT0R3b1U5czlpdVl1N3hOMVBSRmlhRU16dDlhY2J2TDZ5UFlpRXdOelhBb0pXWlMyLURIcmgzaUtYV3h4M1E0Q0dqQVNnUUVs",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787565900.0
+    },
+    {
         "id": "f27466f46f",
         "title_fa": "انتشار گزارش مالی نیمه اول سال ۲۰۲۶ شرکت Robo.ai",
         "title_en": "Robo.ai Inc. Reports First Half 2026 Financial Results",
@@ -398,6 +468,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787535751.0
+    },
+    {
+        "id": "9dc8634e98",
+        "title_fa": "ابزار جدید هوش مصنوعی برای پیش‌بینی بازار مسکن با دقت ۹۲ درصد",
+        "title_en": "The AI in Real Estate Tool That Could Make You Rich — Or Replace Your Job",
+        "summary": [
+            "استارتاپ QuantEstate پلتفرم جدیدی به نام ProphecyAI معرفی کرده که تغییرات بازار املاک را با دقت باورنکردنی ۹۲ درصد پیش‌بینی می‌کند.",
+            "این ابزار تحلیل متکی بر تجربه و شهود انسانی را کنار زده و نحوه تصمیم‌گیری سرمایه‌گذاران را کاملاً تغییر می‌دهد.",
+            "دقت بالای این پلتفرم باعث ایجاد هیجان برای سرمایه‌گذاران و نگران شدن تحلیل‌گران سنتی بازار مسکن شده است."
+        ],
+        "full_text": "The AI in Real Estate Tool That Could Make You Rich — Or Replace Your Job “`html It’s a big claim, isn’t it? An AI that can predict real estate market shifts with 92% accuracy. For anyone in the business of buying, selling, or investing in property, that number alone is enough to make you sit up and take notice. But for the human analysts who’ve spent decades honing their craft, it’s a headline that likely sends a shiver down their spine. A groundbreaking report, published just recently on August 23, 2026, details how a new platform called ‘ProphecyAI’ from QuantEstate Solutions is doing exactly that, and it’s frankly turning the world of real estate investment on its head. This isn’t just about efficiency; it’s about a fundamental shift in how decisions are made, and it’s fueling an intense, often heated, debate about the future of human expertise in a field that has historically relied so heavily on intuition, local knowledge, and good old-fashioned gut feelings. The implications of such a tool for AI in real estate are enormous, touching every corner of the industry from individual homeowners trying to time a sale to institutional investors managing multi-billion-dollar portfolios. We’re talking about a potential gold rush for those who can leverage this technology effectively, and a precarious future for those who can’t adapt. The buzz online is palpable, fueled by the staggering claims of accuracy and the sheer financial upside. It’s a topic charged with emotion, impacting not just investment strategies but potentially the very livelihoods of countless professionals. So, let’s unpack this. What exactly is ProphecyAI, how does it work, and what does its emergence mean for everyone involved in real estate? 1. ProphecyAI’s Unprecedented Accuracy: A New Benchmark Let’s start with the headline figure: 92% accuracy. In any predictive model, that’s an astonishing number, but in the notoriously complex and often irrational world of real estate, it’s nothing short of revolutionary. Traditional market analysis, while often sophisticated, has always contended with a multitude of unpredictable variables: economic shifts, interest rate fluctuations, local demographic changes, even global events. Human analysts are brilliant at synthesizing disparate data points, but they’re inherently limited by cognitive biases and the sheer volume of information they can process. ProphecyAI, developed by QuantEstate Solutions, seems to have cracked the code. Its algorithms apparently ingest and analyze vast datasets that go far beyond what any human team could manage. Think about it: not just housing prices and sales volumes, but also employment rates, migration patterns, infrastructure development plans, social media sentiment, local permit applications, even satellite imagery analysis of urban growth. By identifying subtle patterns and correlations invisible to the human eye, ProphecyAI can reportedly pinpoint optimal property acquisitions and predict market upturns or downturns with a precision that has left many industry veterans speechless. This isn’t just an incremental improvement; it’s a quantum leap. 2. The Shockwaves Across the Industry: Giants Reassess When a report like this drops, especially one with such bold claims and verifiable results (as the August 23, 2026, publication suggests), it doesn’t just make ripples; it creates tsunamis. Traditional real estate giants, the titans of investment firms, and long-established brokerage houses are all scrambling. Their internal strategy meetings, I imagine, are a flurry of urgent discussions. The old ways of doing business, while profitable for decades, now seem sluggish and potentially outdated in comparison. This isn’t just about adopting new tools; it’s about a fundamental re-evaluation of their entire operational model. For these established players, the choice is stark: adapt or risk being left behind. We’re already seeing them pour resources into understanding and integrating similar AI capabilities, whether through partnerships, acquisitions, or frantic in-house development. The competition to harness these predictive powers is fierce because the financial stakes are incredibly high. Missing out on a 92% accurate prediction means potentially leaving billions on the table or, worse, making a costly misstep that an AI could have foreseen. It’s a wake-up call that the future of AI in real estate isn’t some distant concept; it’s here, now, and demanding immediate action. 3. The Debate: Humans vs. AI Analysts This is where the emotional temperature really rises. The online debate surrounding ProphecyAI isn’t just about technology; it’s about jobs, livelihoods, and the very definition of expertise. On one side, you have the tech evangelists and early adopters, touting the undeniable efficiency and accuracy of AI. They argue that AI isn’t replacing humans, but augmenting them, freeing up analysts to focus on higher-level strategic thinking, client relationships, and the nuanced, qualitative aspects that still require a human touch. On the other side, you have the seasoned human analysts, many of whom have built impressive careers on their market insights and predictive abilities. For them, ProphecyAI isn’t an augmentation; it’s a direct threat. How do you compete with 92% accuracy? What value can you offer when a machine can identify opportunities and risks with such precision? This isn’t just an abstract concern; it’s a very real anxiety about job security and the perceived devaluation of their hard-won experience. The truth, as always, probably lies somewhere in the middle, but the intensity of this debate shows just how deeply this technology is shaking the foundations of the industry. 4. Monetization Potential: A Gold Rush for Tech and Investors It’s no surprise that a tool with this kind of predictive power has immense monetization potential. The high-CPC niches of real estate, investing, and mortgages are already incredibly competitive, but a verif",
+        "impact": "حذف تدریجی تحلیل‌گران سنتی املاک و الگوریتمی شدن سرمایه‌گذاری در مسکن.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "The Tech Edvocate",
+        "url": "https://www.thetechedvocate.org/the-ai-in-real-estate-tool-that-could-make-you-rich-or-replace-your-job/",
+        "clean_url": "https://www.thetechedvocate.org/the-ai-in-real-estate-tool-that-could-make-you-rich-or-replace-your-job",
+        "image": "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191.jpg",
+        "images": [
+            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191.jpg",
+            "https://www.thetechedvocate.org/wp-content/uploads/2018/01/TELogoWhiteWaves3.jpg",
+            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191-660x400.jpg",
+            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1785831812996-660x400.jpg"
+        ],
+        "timestamp": 1787529600.0
     },
     {
         "id": "b9a5dbc63e",
