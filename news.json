@@ -1,5 +1,27 @@
 [
     {
+        "id": "fccbb8d557",
+        "title_fa": "ارتقای تجربه هواداران مسابقات تنیس یو اس اوپن با هوش مصنوعی IBM",
+        "title_en": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
+        "summary": [
+            "آی‌بی‌ام و فدراسیون تنیس آمریکا برای مسابقات US Open 2026 از ابزارهای جدید هوش مصنوعی رونمایی کردند.",
+            "این فناوری‌ها تحلیل‌های لحظه‌ای، آمار پیشرفته و محتوای شخصی‌سازی‌شده را در اختیار تماشاگران قرار می‌دهند."
+        ],
+        "full_text": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open  Yahoo Finance Singapore",
+        "impact": "شخصی‌سازی تجربه تماشای مسابقات ورزشی و افزایش تعامل هواداران با تحلیل‌های پیشرفته داده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21FQXdJdEVPbVNfcnFsQnNkeVhVRF9mZ1NWd0JIeHQ5Xy1sYjExcDFXTEZ4YWdnRGZCZTNheVNaNWxFR3gxOTV0VWFmdHBCXzc2alFBazI0cTBSdHQtRlRUOTdUdEk5NjBKcHItOEN2NW9DUnNMX2F0TXl0VGQ5MEVtRm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21FQXdJdEVPbVNfcnFsQnNkeVhVRF9mZ1NWd0JIeHQ5Xy1sYjExcDFXTEZ4YWdnRGZCZTNheVNaNWxFR3gxOTV0VWFmdHBCXzc2alFBazI0cTBSdHQtRlRUOTdUdEk5NjBKcHItOEN2NW9DUnNMX2F0TXl0VGQ5MEVtRm8",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787544060.0
+    },
+    {
         "id": "f380c061fa",
         "title_fa": "ورود لیدی گاگا به حوزه مراقبت از پوست با تحلیل‌های هوش مصنوعی",
         "title_en": "AI, Skin Samples, and Beauty: Michael Polansky and Lady Gaga Chase the Next Breakthrough in Skincare",
