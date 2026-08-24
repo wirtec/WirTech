@@ -1,5 +1,71 @@
 [
     {
+        "id": "9088d1a330",
+        "title_fa": "برگزاری هفته «زنان در فناوری» در ایندیانا",
+        "title_en": "PRESS RELEASE: Indiana Women IN Tech Week Returns September 13–20, Celebrating Women Shaping the Future of Technology",
+        "summary": [
+            "رویداد هفته زنان در فناوری ایندیانا از ۲۳ تا ۳۰ شهریور با هدف برجسته‌سازی نقش زنان در توسعه تکنولوژی برگزار می‌شود.",
+            "تمرکز اصلی این رویداد بر ایجاد فرصت‌های جدید شغلی، شبکه‌سازی تخصصی و ارتقای مهارت‌های رهبری زنان در حوزه تک است."
+        ],
+        "full_text": "PRESS RELEASE: Indiana Women IN Tech Week Returns September 13–20, Celebrating Women Shaping the Future of Technology  Indiana Daily Student",
+        "impact": "افزایش تعاملات کاری و تقویت پایگاه متخصصان زن در اکوسیستم فناوری.",
+        "tag": "رویداد",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "Indiana Daily Student",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadlJLS1pUcUg2VF9nOXBWZUJ6U1B3b1pLTEV3VGE2UTdtV2dqZDVGMHl3dzBIT3pTXzhuMzZGYzlmYk8wQTd6Nmt2ckhnblBRU2JOS19sT3dNSE9NMHAyZVo0WEhwNEx3Z2w0UXJkbFA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadlJLS1pUcUg2VF9nOXBWZUJ6U1B3b1pLTEV3VGE2UTdtV2dqZDVGMHl3dzBIT3pTXzhuMzZGYzlmYk8wQTd6Nmt2ckhnblBRU2JOS19sT3dNSE9NMHAyZVo0WEhwNEx3Z2w0UXJkbFA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787595840.0
+    },
+    {
+        "id": "a9e7718442",
+        "title_fa": "تامسون رویترز از مدل هوش مصنوعی پیشتاز خود رونمایی کرد",
+        "title_en": "Thomson Reuters Leverages Its World-Class Data Assets to Launch Frontier Model",
+        "summary": [
+            "تامسون رویترز با اتکا به گنجینه داده‌های اختصاصی خود، یک مدل هوش مصنوعی پیشرفته (Frontier Model) برای امور حقوقی و مالی عرضه کرد.",
+            "استفاده از داده‌های باکیفیت و معتبر باعث شده این مدل تخصصی دقت فوق‌العاده بالایی در تحلیل داده‌های پیچیده داشته باشد."
+        ],
+        "full_text": "Thomson Reuters Leverages Its World-Class Data Assets to Launch Frontier Model  HPCwire",
+        "impact": "افزایش کم‌نظیر سرعت و دقت بررسی‌های حقوقی و مالی در سازمان‌های بزرگ.",
+        "tag": "مدل‌های هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "HPCwire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDRUODFKT3ZFRFA3d0IyQnFzb09jemYxZ2hTeFNseTd4VWVrSWxYM01zZzVhOUdxUmx1RURlU1NVZDBBdkNfWDlQVHJpckRhZHNJOWZKQWtxenN6emtRbWR3VUZyaEhNTmkxaTByREhpbzVOREZvWXZGc0Q4VHYyM3ZvUURzY1JCMlNjZHM0dHllazc5TjV2bXpGQzBrV2xFYm82MkhMX1FISXFhMWpNc0lTUVkxbUE4b0VVWldR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDRUODFKT3ZFRFA3d0IyQnFzb09jemYxZ2hTeFNseTd4VWVrSWxYM01zZzVhOUdxUmx1RURlU1NVZDBBdkNfWDlQVHJpckRhZHNJOWZKQWtxenN6emtRbWR3VUZyaEhNTmkxaTByREhpbzVOREZvWXZGc0Q4VHYyM3ZvUURzY1JCMlNjZHM0dHllazc5TjV2bXpGQzBrV2xFYm82MkhMX1FISXFhMWpNc0lTUVkxbUE4b0VVWldR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787594870.0
+    },
+    {
+        "id": "44e57fcd89",
+        "title_fa": "نقش هوش مصنوعی در خلق و راه‌اندازی یک برند جدید",
+        "title_en": "How AI helped Alex Shuford launch a new brand",
+        "summary": [
+            "الکس شوفورد با به‌کارگیری ابزارهای هوش مصنوعی توانست فرآیند طراحی، ایده‌پردازی و راه‌اندازی برند جدید خود را به‌شدت تسریع کند.",
+            "این تجربه عملی نشان می‌دهد که فناوری‌های نوظهور چطور ورود کسب‌وکارهای سنتی به بازار را آسان‌تر و کم‌هزینه‌تر می‌کنند."
+        ],
+        "full_text": "How AI helped Alex Shuford launch a new brand  Business of Home",
+        "impact": "کاهش چشمگیر زمان و هزینه تولید محصول برای بنیان‌گذاران کسب‌وکارهای نوپا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Business of Home",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWR0SmlCUjJ2VkxhYU1fYXdLVGNaakVLN19OTWtUVVBlNFd3ZkJ4YXcwa0ZHckpvR0RyekJCcU5IN2lJTHU2NDNmZHpRRVJLUkxVSnFCa1VzaWc0VTVyMXV1dDJzamZUTXFtZTVuT1M3QU92T2gzaFlOdEtYckZUVV9uMWw2VlhQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWR0SmlCUjJ2VkxhYU1fYXdLVGNaakVLN19OTWtUVVBlNFd3ZkJ4YXcwa0ZHckpvR0RyekJCcU5IN2lJTHU2NDNmZHpRRVJLUkxVSnFCa1VzaWc0VTVyMXV1dDJzamZUTXFtZTVuT1M3QU92T2gzaFlOdEtYckZUVV9uMWw2VlhQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787594835.0
+    },
+    {
         "id": "a4c344153e",
         "title_fa": "پرتاب سوپرکامپیوترهای هوش مصنوعی انویدیا و اسپیس‌ایکس به مدار زمین از ۲۰۲۷",
         "title_en": "SpaceX and Nvidia Will Launch AI Supercomputers to Orbit Starting in 2027",
