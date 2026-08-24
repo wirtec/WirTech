@@ -1,5 +1,115 @@
 [
     {
+        "id": "abbdf3e0b8",
+        "title_fa": "تکان در زنجیره ارزش هوش مصنوعی با انتشار مدل Ox Alpha",
+        "title_en": "Anonymous Ox Alpha release is reshaping the AI value chain (AIQ:NASDAQ)",
+        "summary": [
+            "عرضه ناگهانی و ناشناس مدل Ox Alpha نگاه تحلیل‌گران بازار سرمایه را به آینده شرکت‌های فعال در حوزه AI تغییر داده است.",
+            "این انتشار نشان می‌دهد که الگوریتم‌های جدید می‌توانند ارزش‌گذاری شرکت‌های سخت‌افزاری و نرم‌افزاری را دستخوش تغییرات جدی کنند."
+        ],
+        "full_text": "Anonymous Ox Alpha release is reshaping the AI value chain (AIQ:NASDAQ)  Seeking Alpha",
+        "impact": "احتمال تغییر در سودآوری شرکت‌های حوزه AI و جابه‌جایی سرمایه‌ها در بازار بورس.",
+        "tag": "تحلیل بازار",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWM1THdlaDVRQ2ZBX3ctZ2NZcll6WjhSN3BvNWVkN3E5YmpYV2lsbzctS3VPMlYzb3cxQUdfUVhoUlFOSEhCano0M3VSTldURkl1eTBjMldsRWdwalZUTVNKQzBKVTNLdkliSjhDa3QwX0pubnNGaUVzSHY2WDVHRjZsNjEwRTR2QWxReFNzLUlBR3FuNTRneDhDdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWM1THdlaDVRQ2ZBX3ctZ2NZcll6WjhSN3BvNWVkN3E5YmpYV2lsbzctS3VPMlYzb3cxQUdfUVhoUlFOSEhCano0M3VSTldURkl1eTBjMldsRWdwalZUTVNKQzBKVTNLdkliSjhDa3QwX0pubnNGaUVzSHY2WDVHRjZsNjEwRTR2QWxReFNzLUlBR3FuNTRneDhDdm0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787577454.0
+    },
+    {
+        "id": "ec57a83556",
+        "title_fa": "همکاری آرم و یونیسف برای گسترش عدالت در دسترسی به هوش مصنوعی",
+        "title_en": "Arm and UNICEF launch AI in Play to expand access to AI innovation",
+        "summary": [
+            "شرکت آرم با همکاری یونیسف ابتکار جدیدی به نام AI in Play را با هدف تسهیل دسترسی کودکان و مناطق کم‌برخوردار به فناوری هوش مصنوعی آغاز کرد.",
+            "تمرکز اصلی این پروژه روی کاهش شکاف دیجیتال و آموزش مهارت‌های کاربردی به نسل جدید در نقاط مختلف جهان است."
+        ],
+        "full_text": "Arm and UNICEF launch AI in Play to expand access to AI innovation  Arm Newsroom",
+        "impact": "تسهیل آموزش عمومی فناوری و سرمایه‌گذاری روی نیروهای متخصص آینده در مناطق محروم.",
+        "tag": "هوش مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.8,
+        "source": "Arm Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13ZFhiVkdiQ0U4eUNJSGMwSDlwUzdrNG1MbzAxY3h4ZkFsdmgzMXhpbUJWRDNiVkF2UnFneEVxdlRkbWxJZGJGdHlfbzd5RjdHRXZ5Z0FGRFMza01kRjc4a0ltdDlFalV1OFExV0l1SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13ZFhiVkdiQ0U4eUNJSGMwSDlwUzdrNG1MbzAxY3h4ZkFsdmgzMXhpbUJWRDNiVkF2UnFneEVxdlRkbWxJZGJGdHlfbzd5RjdHRXZ5Z0FGRFMza01kRjc4a0ltdDlFalV1OFExV0l1SQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787576774.0
+    },
+    {
+        "id": "99d2ef19a2",
+        "title_fa": "عرضه بتای موتور جستجوی هوشمند Fastbase برای کسب‌وکارها",
+        "title_en": "St. Joseph Inc. (STJO) Subsidiary Fastbase AI Prepares to Launch Beta of AI-Powered Global Business Search",
+        "summary": [
+            "شرکت Fastbase آماده می‌شود تا نسخه بتای جستجوگر اختصاصی خود را که بر پایه هوش مصنوعی برای تحلیل داده‌های تجاری طراحی شده، عرضه کند.",
+            "این ابزار به سازمان‌ها کمک می‌کند تا اطلاعات رقبای بین‌المللی و فرصت‌های جدید بازار را بسیار سریع‌تر تحلیل کنند."
+        ],
+        "full_text": "St. Joseph Inc. (STJO) Subsidiary Fastbase AI Prepares to Launch Beta of AI-Powered Global Business Search  TradingView",
+        "impact": "سرعت‌بخشی به تحلیلهای رقابتی و تسهیل تصمیم‌گیری‌های مدیریتی در شرکت‌ها.",
+        "tag": "هوش مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWhRZTNUSHpncnktWm5RUHJCVWFNNG5QVHlCb2hiUTV5MG5MR0c5VDVvTDBGeGJZaXJWV1dFMkFlcGN6UTBMV2hPNW1EcXZQc1dzRXlPVFdRZEFTX3NNLVdjMFRuclFVZzVJQUd6OTFXM0lVRmZQdWktSnU3LTI3cjlKQnVBWEZSMFV1Q2JOZFlKUWZ4dzF1TmI2M2hZMkU1dDFucFNFZC12Skp5NTlLTnlBUTJjcWZ3NzAxazVMTW5BU2tsUjIwTUZyRjdvUy16NEMyT2JibEMtTGdjOTVsdEpMV1lpaU5uUUdBZFROS2d6Y3d6N2Ftcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWhRZTNUSHpncnktWm5RUHJCVWFNNG5QVHlCb2hiUTV5MG5MR0c5VDVvTDBGeGJZaXJWV1dFMkFlcGN6UTBMV2hPNW1EcXZQc1dzRXlPVFdRZEFTX3NNLVdjMFRuclFVZzVJQUd6OTFXM0lVRmZQdWktSnU3LTI3cjlKQnVBWEZSMFV1Q2JOZFlKUWZ4dzF1TmI2M2hZMkU1dDFucFNFZC12Skp5NTlLTnlBUTJjcWZ3NzAxazVMTW5BU2tsUjIwTUZyRjdvUy16NEMyT2JibEMtTGdjOTVsdEpMV1lpaU5uUUdBZFROS2d6Y3d6N2Ftcg",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787576400.0
+    },
+    {
+        "id": "f1cca87b33",
+        "title_fa": "چالش جدید پاناسونیک برای ورود دانش‌آموزان به دنیای هوش مصنوعی",
+        "title_en": "Panasonic Foundation and STEM Next launch AI Innovation Challenge for high school students",
+        "summary": [
+            "بنیاد پاناسونیک و مجموعه STEM Next مسابقه جدیدی را برای دانش‌آموزان دبیرستانی طراحی کرده‌اند تا آن‌ها را به ساخت برنامه‌های مبتنی بر هوش مصنوعی ترغیب کنند.",
+            "هدف این چالش هدایت دانش‌آموزان به سمت حل مسائل واقعی جامعه با ابزارهای نوین پردازشی است."
+        ],
+        "full_text": "Panasonic Foundation and STEM Next launch AI Innovation Challenge for high school students  ROI-NJ",
+        "impact": "کشف استعدادهای جوان و تقویت آموزش‌های عملی فناوری در مدارس.",
+        "tag": "هوش مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.7,
+        "source": "ROI-NJ",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZzFFUUo1aHNnVWVkTEs2QnB1bnN0ZEJLZlhxbFMxMmRVaHJlLXI1MC1pRHR1bTBsMUl6eUdIa1ZtbDNfN2s2WHlwX1pQZGJxSlB0NHkyaW5wTllRWTlRNDhTekszZnM4Z19IeENDWVRZdU8weHhtcXMybmRxRmhrV3dhWksxcXRhU2FTTmlIWGVSMlZVR203WDRqcHJEX1NWLVdUclh3OE5GdWtjanJoOUJtdmtXSFdlWlBoNXR4Rnh4MUJVMDJyTzdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZzFFUUo1aHNnVWVkTEs2QnB1bnN0ZEJLZlhxbFMxMmRVaHJlLXI1MC1pRHR1bTBsMUl6eUdIa1ZtbDNfN2s2WHlwX1pQZGJxSlB0NHkyaW5wTllRWTlRNDhTekszZnM4Z19IeENDWVRZdU8weHhtcXMybmRxRmhrV3dhWksxcXRhU2FTTmlIWGVSMlZVR203WDRqcHJEX1NWLVdUclh3OE5GdWtjanJoOUJtdmtXSFdlWlBoNXR4Rnh4MUJVMDJyTzdn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787574657.0
+    },
+    {
+        "id": "d45b71fb4a",
+        "title_fa": "مدرن‌سازی خریدهای دولتی در اورنج کانتی با هوش مصنوعی OpenGov",
+        "title_en": "Orange County Modernizes Procurement with OpenGov as New AI-Powered Capabilities Launch at NIGP",
+        "summary": [
+            "مسئولان اورنج کانتی با به‌کارگیری قابلیت‌های جدید هوش مصنوعی OpenGov، سیستم تدارکات و خریدهای عمومی خود را به‌روزرسانی کردند.",
+            "این سیستم با تحلیل خودکار داده‌ها، سرعت بررسی مناقصات را بالا برده و خطای انسانی در ثبت سفارش‌ها را کاهش می‌دهد."
+        ],
+        "full_text": "Orange County Modernizes Procurement with OpenGov as New AI-Powered Capabilities Launch at NIGP  PR Newswire",
+        "impact": "افزایش شفافیت مالی و کاهش زمان و هزینه‌های اداری در بخش عمومی.",
+        "tag": "هوش مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGtYVHYwTDNNNng2WlJtWUNDb2lrTV8tNGdjVUVQaEhJcWMtaTFVOFdGd2ZLbFJIUVU4Vjdma2F4Q2U1bUptUGF5SGZLT0RrZmRZVUJvLWxUTWh1WkhJSFpiMVBOMkszY0pPVWtyR1RKczdoS0pjTW5BUTRvLW5xU0xINVZORXFGRHFaZE5jT2tHWFdCTDZ3dG1mWVNuMVQxaHZ3eWhPcDd5bFN0dU9uQ1dmUGJUTDRDNjJHR1FKNHJkT3ZvNzV0alNPQ3JuQTB2Q3FLNXNDaW5XdUw2by1LeXZucFlmdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGtYVHYwTDNNNng2WlJtWUNDb2lrTV8tNGdjVUVQaEhJcWMtaTFVOFdGd2ZLbFJIUVU4Vjdma2F4Q2U1bUptUGF5SGZLT0RrZmRZVUJvLWxUTWh1WkhJSFpiMVBOMkszY0pPVWtyR1RKczdoS0pjTW5BUTRvLW5xU0xINVZORXFGRHFaZE5jT2tHWFdCTDZ3dG1mWVNuMVQxaHZ3eWhPcDd5bFN0dU9uQ1dmUGJUTDRDNjJHR1FKNHJkT3ZvNzV0alNPQ3JuQTB2Q3FLNXNDaW5XdUw2by1LeXZucFlmdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787572800.0
+    },
+    {
         "id": "110760610b",
         "title_fa": "پیشرفت جدید در فناوری ژنتیک برای شناسایی قربانیان ۱۱ سپتامبر",
         "title_en": "9/11 Breakthrough Reopens Hope for Identifications",
