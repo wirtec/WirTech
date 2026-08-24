@@ -1,5 +1,27 @@
 [
     {
+        "id": "2303a1085f",
+        "title_fa": "پیشرفت مهم پروژه RHEADHY در فناوری سوخت‌گیری هیدروژنی خودروهای سنگین",
+        "title_en": "Hydrogen Refueling Solutions : RHEADHY PROJECT ACHIEVES NEW BREAKTHROUGH IN HYDROGEN REFUELING TECHNOLOGY FOR HEAVY-DUTY MOBILITY",
+        "summary": [
+            "پروژه RHEADHY به فناوری جدیدی دست یافته که سرعت و کارایی سوخت‌گیری هیدروژنی را برای وسایل نقلیه سنگین به‌طور چشمگیری افزایش می‌دهد.",
+            "این دستاورد حل یکی از گلوگاه‌های اصلی در تجاری‌سازی کامیون‌ها و اتوبوس‌های هیدروژنی یعنی زمان طولانی سوخت‌گیری را هدف قرار داده است."
+        ],
+        "full_text": "Hydrogen Refueling Solutions : RHEADHY PROJECT ACHIEVES NEW BREAKTHROUGH IN HYDROGEN REFUELING TECHNOLOGY FOR HEAVY-DUTY MOBILITY  marketscreener.com",
+        "impact": "تسریع زیرساختی برای هموارکردن مسیر جابه‌جایی سنگین جاده‌ای به سمت انرژی‌های پاک.",
+        "tag": "فناوری_سبز",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9fckNTZURnX2kweTE2T3QzaFlGdlFwd0xYTDRHYWlFdnFONUdoUzlaN0M3YmZqcjNpZ3NhcnRVd3A3RjU1UGlSX3doR09TUXFnbUl0WmRZbG9lRFVUcmx1OUpJdXZOc3lWU2ljTkNIYUotdXdKdW1NaVgxaWMtZnFrdUFpM29QdWpfdE40T1hsOF9tRUs5ZWVZQjBTR3FVaE1ySHRWaGJWWF9xYTFqWWNFdXhhOUxMNGROd0ppSVdhdTdwY3hNSkFCY21GY1VSUWxuSmVqaHY3UU5HN3poVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9fckNTZURnX2kweTE2T3QzaFlGdlFwd0xYTDRHYWlFdnFONUdoUzlaN0M3YmZqcjNpZ3NhcnRVd3A3RjU1UGlSX3doR09TUXFnbUl0WmRZbG9lRFVUcmx1OUpJdXZOc3lWU2ljTkNIYUotdXdKdW1NaVgxaWMtZnFrdUFpM29QdWpfdE40T1hsOF9tRUs5ZWVZQjBTR3FVaE1ySHRWaGJWWF9xYTFqWWNFdXhhOUxMNGROd0ppSVdhdTdwY3hNSkFCY21GY1VSUWxuSmVqaHY3UU5HN3poVw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787549464.0
+    },
+    {
         "id": "fccbb8d557",
         "title_fa": "ارتقای تجربه هواداران مسابقات تنیس یو اس اوپن با هوش مصنوعی IBM",
         "title_en": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
