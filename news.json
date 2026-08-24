@@ -1,5 +1,27 @@
 [
     {
+        "id": "0ff6074ef6",
+        "title_fa": "چالش سهام هوش مصنوعی؛ شوک نفتی در هفته سرنوشت‌ساز انویدیا",
+        "title_en": "Iran Sanctions Launch Into Nvidia Week: Oil Shock Tests AI Stock Multiples",
+        "summary": [
+            "هم‌زمان با ورود به هفته کلیدی گزارش‌های مالی انویدیا، تشدید تحریم‌ها و احتمال شوک قیمت نفت، بازار سهام فناوری را تحت فشار قرار داده است.",
+            "افزایش هزینه‌های انرژی و تورم حاصل از آن، ارزش‌گذاری‌های سنگین شرکت‌های حوزه AI را در برابر ریسک خروج سرمایه محک می‌زند."
+        ],
+        "full_text": "Iran Sanctions Launch Into Nvidia Week: Oil Shock Tests AI Stock Multiples  Tech Times",
+        "impact": "افزایش نوسانات شدید در بازار سهام فناوری و احتمال تعدیل ارزش شرکت‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWZlZzRPZkhVMWRVQVdocTBNeV9tRTQ3U2JRV245X2k2WTEwWFFsN2VvZ2FoM2FIRlRKa1g4Q1E3cEpaNE1QSmN1U0ZMdmhWRWxpWGQ1OTFlOUxTdVcyQ2pPUU5HOHZwVWFZcVUwa3BRRU9PU2NpYVRHVzhvUVZOLVpCaTd6QVd1ZDJyU3p4VllPbndQWkJ1Zy1DbmJuNU4wbTFuVWNIZU9NOEFzMDhiNmpwZmNIay1XTmUtYVV2clE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWZlZzRPZkhVMWRVQVdocTBNeV9tRTQ3U2JRV245X2k2WTEwWFFsN2VvZ2FoM2FIRlRKa1g4Q1E3cEpaNE1QSmN1U0ZMdmhWRWxpWGQ1OTFlOUxTdVcyQ2pPUU5HOHZwVWFZcVUwa3BRRU9PU2NpYVRHVzhvUVZOLVpCaTd6QVd1ZDJyU3p4VllPbndQWkJ1Zy1DbmJuNU4wbTFuVWNIZU9NOEFzMDhiNmpwZmNIay1XTmUtYVV2clE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787578012.0
+    },
+    {
         "id": "abbdf3e0b8",
         "title_fa": "تکان در زنجیره ارزش هوش مصنوعی با انتشار مدل Ox Alpha",
         "title_en": "Anonymous Ox Alpha release is reshaping the AI value chain (AIQ:NASDAQ)",
