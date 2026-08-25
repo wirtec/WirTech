@@ -22,6 +22,53 @@
         "timestamp": 1787673600.0
     },
     {
+        "id": "dc4d3819bd",
+        "title_fa": "یکپارچه‌سازی ابزارهای سازمانی مایکروسافت در نقشه راه هوش مصنوعی",
+        "title_en": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+        "summary": [
+            "مایکروسافت پلتفرم‌های Dynamics 365 و Power Platform و Dataverse را رسماً به نقشه راه AI at Work ملحق کرد.",
+            "این اقدام روند استفاده از عامل‌های هوشمند در فرایندهای کاری و داده‌های سازمانی را منسجم‌تر و سریع‌تر می‌کند."
+        ],
+        "full_text": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap  Microsoft",
+        "impact": "اتوماسیون سازمانی عمیق‌تر شده و ابزارهای مدیریتی مستقیماً به هوش مصنوعی مولد متصل می‌شوند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Microsoft",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY5RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk4TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI5XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U4VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY5RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk4TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI5XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U4VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787670000.0
+    },
+    {
+        "id": "4e60e7ea30",
+        "title_fa": "تداوم سرمایه‌گذاری‌های سنگین روی ابزارهای هوش مصنوعی برنامه‌نویسی",
+        "title_en": "Funding and M&A news for ISVs & Devs: Fall 2026",
+        "summary": [
+            "جذب سرمایه در حوزه ابزارهای برنامه‌نویسی مبتنی بر AI مانند دور ۱.۵ میلیارد دلاری Fireworks AI و ارزش‌گذاری ۲۹ میلیارد دلاری Cursor با سرعت ادامه دارد.",
+            "در بخش نرم‌افزارهای تخصصی (Vertical SaaS)، سرمایه‌گذاران بیشتر روی مراحل اولیه تمرکز کرده‌اند و اثبات درآمدزایی شرط اصلی ورود سرمایه شده است."
+        ],
+        "full_text": "If you build software for a living, the funding and M&A environment around you shapes what tools you’ll use, who might come knocking with an acquisition offer, and where your own investors’ heads are at. Here’s a look at what’s happened recently across vertical SaaS, AI developer tools, and software consolidation, along with what it might mean for your business. Vertical Insure raises new capital to expand embedded insurance for SaaS platforms Minneapolis-based Vertical Insure announced new financing in early August, led by Updata Partners, with the amount undisclosed. The company embeds white-label insurance products directly into the checkout, billing, and registration flows of vertical SaaS platforms, and already partners with more than 100 software companies including Blackbaud and Togetherwork. This is worth watching if you’re an ISV thinking about new revenue lines, since embedded financial products (insurance, payments, lending) continue to be one of the more reliable ways vertical software companies expand margin without adding headcount. Vertical SaaS funding stayed selective, with Series A leading the pack A rolling analysis of vertical SaaS funding between August 2025 and July 2026 found 32 disclosed equity rounds totaling just under a billion dollars, with no single deal dominating the total. Series A was the largest stage this year by both dollar volume and deal count, and seed plus Series A together account for 75% of all deals. Late-stage rounds still capture the majority of total capital, but deal count increasingly skews toward newer, often AI-native vertical software companies. If you’re an ISV evaluating your own next raise, this suggests investors haven’t lost interest in vertical software, they’ve just gotten more disciplined about proving out a workflow with real budget and compliance exposure before writing a large check. AI dev tools keep pulling in outsized rounds Investment in AI-assisted development tools hasn’t slowed down. Enterprise AI infrastructure startup Fireworks AI closed a $1.5 billion Series D in July, while a broader tally of pure-play AI dev tools companies found 23 disclosed equity rounds between August 2025 and July 2026, spanning code review, testing, DevOps, and coding security. Earlier rounds this year included Cursor’s $2.3 billion Series D at a $29.3 billion valuation and Cognition’s $400 million-plus raise following its Devin platform’s revenue growth. If you’re building software today, this is the category most likely to directly affect your own toolchain, since much of this capital is going toward the exact AI coding and testing tools your development team may already be evaluating or using. Vertical SaaS M&A multiples vary sharply by industry, and legal tech just proved it Legal technology platform Clio used its $850 million Series G, raised at a $5 billion valuation, to simultaneously acquire legal research platform vLex in a deal worth roughly a billion dollars. The combined company now spans practice management, client intake, and AI-powered legal research in a single suite. It’s a useful data point for any vertical ISV thinking about M&A as a growth lever rather than just an exit path: healthcare IT companies currently command close to twice the revenue multiple of education technology companies in M&A deals, a reminder that vertical matters as much as growth rate when it comes to what the market will pay. Strategic acquirers are using M&A as a growth engine, not just defense Strategic buyers accounted for 62% of lower-middle-market SaaS transactions in 2025, up from 55% in 2023, and the pattern is showing up across company sizes. Salesforce, HubSpot, and Microsoft have all used acquisitions to fill capability gaps quickly, and the same behavior is showing up at smaller scale too, with mid-market software companies acquiring niche AI or analytics startups to build out a platform before a competitor gets there first. If you’re a smaller ISV, this trend cuts both ways: it’s more plausible that a larger platform player wants to acquire your specific capability, but it also means you’re increasingly competing against companies who’d rather buy a feature than build it themselves. What this means for your business The throughline across all of this is that specialization keeps winning. Investors are rewarding vertical depth over horizontal breadth, acquirers are paying premiums for workflows with real switching costs, and the AI dev tools space is attracting capital fast enough that your own development stack is likely to look different a year from now than it does today. None of this demands an immediate response, but it’s worth revisiting your own roadmap and cap table conversations with this backdrop in mind, particularly if you’re in a vertical (healthcare, legal, financial services) where the multiples data suggests the market is paying close attention. If you’re weighing your own fundraising or exit timeline, the vertical-specific multiple data is worth a closer look, since a generic “software is hot right now” read on the market will miss real differences between what a healthcare ISV and an education ISV can expect to command.",
+        "impact": "تمرکز فوق‌العاده سرمایه‌گذاران روی دستیارهای هوشمند کدنویسی، ابزارهای توسعه نرم‌افزار را کاملاً دگرگون کرده است.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "DevPro Journal",
+        "url": "https://www.devprojournal.com/software-development-trends/mergers-acquisitions/funding-and-ma-news-for-isvs-devs-fall-2026/",
+        "clean_url": "https://www.devprojournal.com/software-development-trends/mergers-acquisitions/funding-and-ma-news-for-isvs-devs-fall-2026",
+        "image": "https://www.devprojournal.com/wp-content/uploads/2019/02/payments-MA-e1551303914750.jpg",
+        "images": [
+            "https://www.devprojournal.com/wp-content/uploads/2019/02/payments-MA-e1551303914750.jpg",
+            "https://www.devprojournal.com/wp-content/uploads/2020/01/DevProJournal-Logo-Small-2020.jpg",
+            "https://www.devprojournal.com/wp-content/uploads/2020/01/DevProJournal-Logo-Large-2020.jpg",
+            "https://www.devprojournal.com/wp-content/uploads/2025/02/DevPro_RSPA-Evergreen-Ad_728x90.png"
+        ],
+        "timestamp": 1787669580.0
+    },
+    {
         "id": "b0769bb731",
         "title_fa": "سرمایه‌گذاری ۴۵ میلیون دلاری برای توسعه آموزش‌های فنی و دفاعی",
         "title_en": "New England Institute of Technology, Electric Boat launch $45M expansion project",
@@ -483,6 +530,32 @@
         "timestamp": 1787640720.0
     },
     {
+        "id": "f7affde3da",
+        "title_fa": "افت ۱۲ درصدی سرمایه‌گذاری خطرپذیر در کانادا و تسلط آمریکایی‌ها",
+        "title_en": "Canadian VC funding falls 12% in H1 2026 as global investors retreat",
+        "summary": [
+            "سرمایه‌گذاری خطرپذیر در کانادا طی نیمه نخست ۲۰۲۶ با افت ۱۲ درصدی به ۲.۴۸ میلیارد دلار رسید و تعداد معامله‌ها ۱۹ درصد کاهش یافت.",
+            "عقب‌نشینی سرمایه‌گذاران بین‌المللی باعث شد صندوق‌های آمریکایی ۵۶ درصد از کل بازار سرمایه کانادا را تسخیر کنند.",
+            "سرمایه‌ها بیشتر به سمت استارتاپ‌های مراحل اولیه رفت و شرکت‌های مرحله رشد با کمبود شدید منابع مواجه شدند."
+        ],
+        "full_text": "International venture capital participation in Canada hits its lowest mark since 2020 Canadian venture capital investment declined sharply in the first half of 2026, with total funding dropping 12 per cent year-over-year to $2.481 billion across 248 financings, according to the H1 2026 Canadian Venture Capital Report by CPE Analytics. The report also recorded a 19 per cent contraction in deal count compared to the same period in 2025, when 306 transactions were completed. The report highlights a collapse in non-US international participation with only 25 countries or regions participating in Canadian venture capital deals during H1 2026, down from 55 in 2025; a level CPE describes as the lowest since 2020. Richard Rémillard, president of Rémillard Consulting Group, flagged the growing dominance of American capital as a structural risk rather than a sign of strength. US investors captured 56 per cent of total funding in the second quarter of 2026, up from 40 per cent in the first quarter, with US private VC funds deploying $808 million and US mutual and hedge funds contributing a further $404 million. While American participation filled some of the void left by retreating global investors, the increasing concentration raises questions about the resilience of Canadian venture markets if that capital source pulls back. Growth-stage companies bearing the brunt The composition of investment shifted dramatically away from the maturing end of the startup spectrum. Early-stage companies absorbed 57 per cent of all capital deployed in H1 2026 ($1.616 billion) up from 45 per cent in 2025. Growth- and later-stage companies, by contrast, attracted just 12 per cent of the total, or $327 million, compared with 37 per cent the previous year. That compression matters to portfolio managers and limited partners who seek exposure to companies closer to monetisation or exit, as the pipeline of late-stage opportunities has thinned considerably. Geographically, Ontario continued to dominate, attracting $1.609 billion, or 57 per cent of all funding, with Toronto alone accounting for $1.41 billion. British Columbia followed at $508 million and Quebec at $491 million. On the sector side, ICT companies led with $1.566 billion (55 per cent of total investment) while cleantech captured $365 million and life sciences $273 million. One notable shift was the rise of aerospace and defence, which attracted $159 million, or six per cent of total funding, up from less than one per cent in 2025. Exit environment remains stalled No venture-backed initial public offerings have taken place in Canada since 2021, and no secondary transactions were reported in H1 2026. The sole notable liquidity event was GSK plc's acquisition of 35Pharma for US$950 million, which CPE's report characterised as \"a positive liquidity event in an otherwise muted exit environment.\" The absence of IPO activity over five years represents a meaningful drag on returns for institutional investors with private market allocations. VC fundraising on track for near-record low On the fundraising side, 29 Canadian VC funds raised a combined $917 million in H1 2026. Excluding the Business Development Bank of Canada's $450 million allocation, private fundraising was concentrated: Lumira Ventures and Version One Ventures each closed two funds, accounting for 66 per cent of private-sector activity. If the pace of the first half continues, 2026 would rank as the second-lowest VC fundraising year on record in Canada; a signal that fund managers themselves are finding it difficult to attract limited partner commitments. The fundraising contraction compounds the funding drop. As the pool of active Canadian VC funds narrows, so too does the domestic capital available to back early-stage companies, a dynamic with longer-term implications for innovation-focused investment strategies. Canadian VC's longer-term trajectory will depend partly on whether government-backed vehicles can offset the retreat of international capital and whether macroeconomic conditions in the second half of 2026 restore enough confidence to bring global investors back to the table.",
+        "impact": "وابستگی شدید استارتاپ‌های کانادایی به سرمایه آمریکایی، ریسک ساختاری جدیدی برای اکوسیستم فناوری این کشور ایجاد کرده است.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Wealth Professional",
+        "url": "https://www.wealthprofessional.ca/investments/alternative-investments/canadian-vc-funding-falls-12-in-h1-2026-as-global-investors-retreat/393361",
+        "clean_url": "https://www.wealthprofessional.ca/investments/alternative-investments/canadian-vc-funding-falls-12-in-h1-2026-as-global-investors-retreat/393361",
+        "image": "https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
+        "images": [
+            "https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
+            "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
+            "https://cdn-res.keymedia.com/cdn-cgi/image/w=110,h=66,f=auto/https://cdn-res.keymedia.com/cms/images/wp/deni_639232588699423483.jpg",
+            "https://cdn-res.keymedia.com/cdn-cgi/image/w=110,h=66,f=auto/https://cdn-res.keymedia.com/cms/images/wp/jean_639232557612508300.png"
+        ],
+        "timestamp": 1787639520.0
+    },
+    {
         "id": "47e5766c50",
         "title_fa": "جذب سرمایه ۸.۲ میلیون یورویی برای استارتاپ حسابرسی هوشمند Repodo",
         "title_en": "Lunar founders raise €8.2m to launch AI-native audit startup Repodo",
@@ -751,6 +824,32 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787622540.0
+    },
+    {
+        "id": "2aa8bfdb77",
+        "title_fa": "خرید ۷ میلیارد دلاری OpenRouter توسط استرایپ برای تسلط بر هوش مصنوعی",
+        "title_en": "Stripe's $7B AI Spend Leads Last Weeks Fundings and Acquisitions",
+        "summary": [
+            "پلتفرم پرداخت استرایپ با پرداخت ۷ میلیارد دلار، استارتاپ OpenRouter را خرید تا زیرساخت مسیریابی بین مدل‌های مختلف AI را تصاحب کند.",
+            "بنک آو آمریکا با سرمایه‌گذاری ۱.۸ میلیارد دلاری، ۴۹.۹ درصد از سهام شرکت هندی Jio Credit را خریداری کرد.",
+            "استارتاپ‌های حوزه ابزارهای مالی و حسابداری نظیر Rillet و Helcim نیز موفق به جذب سرمایه‌های ده‌ها میلیون دلاری شدند."
+        ],
+        "full_text": "Stripe goes AI shopping, buys OpenRouter for $7B Stripe expands its AI presence with OpenRouter, which builds infrastructure allowing developers to secure access and route requests across different AI models. Bank of America to invest up to $1.8B in Jio Credit For its investment, BoA gets 49.9% of the Indian fintech, allowing it to increase its expansion plans. Francisco Partners acquires Weave for $650M The Utah-based Weave develops payments and patient engagement software. It was a take-private deal. Ingenico secures $174M from PIMCO-led group The funds are earmarked for resetting capital structure and accelerate Ingenico’s growth strategy. Some debt will be converted to equity; creditors will receive shares. India’s Navi raises $100M Led by Prosus, this initial institution funding infusion values the firm at $1.3 billion. Navi, founded by Flipkart co-founder Sachin Bansal, provides digital payments, lending, insurance and mutual funds. AI accounting startup Rillet celebrates $73M Series C Iconiq led the round in support of the ERP firm. Andreessen Horowitz and Sequoia are among the returning investors cutting cheques again Calgary’s Helcim Raises $38.4M Series C The Canadian paytech’s Series C was led by Business Development Bank’s (BDC) Growth Venture Fund, with participation from Curql Collective, a strategic investment fund backed by more than 160 North American credit unions, Gold House Ventures, Headline, Aquiline, Information Venture Partners, Vesey Ventures, Clocktower Ventures, and Alberta Accelerate Fund. NZ fintech Sterling attracts $2.2M round The startup builds an auto-pilot for finance teams. Blackbird led the round, with participation from Rowan Simpson, Eliot Crowther and former employees of Trade Me, Pushpay, Xero and Vend. Datavault to acquire BankWyse Datavault offers data monetization, credentialing, digital engagement and RWA tokenization. BankWyse will contribute custodial and commercial banking services. It holds a Wyoming state bank charter as a Special Purpose Depository Institution, integrating qualified custody with a commercial banking platform for interoperability across digital assets and fiat currencies. As a fully-reserved depository institution, the fiat deposits held by BankWyse are not required to be insured by the FDIC",
+        "impact": "ورود تهاجمی غول‌های پرداخت به زیرساخت هوش مصنوعی، رقابت بر سر مدیریت دسترسی به مدل‌های مختلف AI را داغ‌تر کرد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Crowdfund Insider",
+        "url": "https://www.crowdfundinsider.com/2026/08/300367-stripes-7b-ai-spend-leads-last-weeks-fundings-and-acquisitions/",
+        "clean_url": "https://www.crowdfundinsider.com/2026/08/300367-stripes-7b-ai-spend-leads-last-weeks-fundings-and-acquisitions",
+        "image": "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/Money-US-Dollars-100-Benjamin-2.jpg",
+        "images": [
+            "https://www.crowdfundinsider.com/wp-content/uploads/2017/10/Money-US-Dollars-100-Benjamin-2.jpg",
+            "https://www.crowdfundinsider.com/wp-content/themes/crowdfundinsider-v1/img/crowdfundinsider.png",
+            "https://www.crowdfundinsider.com/wp-content/themes/crowdfundinsider-v1/img/gumb.jpg",
+            "https://www.crowdfundinsider.com/wp-content/uploads/2025/06/IPromote-Reg-CF-or-Reg-A-Disclosure-Quest.jpg"
+        ],
+        "timestamp": 1787620800.0
     },
     {
         "id": "696888abc4",
