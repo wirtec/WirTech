@@ -1,5 +1,27 @@
 [
     {
+        "id": "ea746a9e77",
+        "title_fa": "آغاز طرح تحویل پهپادی قطعات خودرو در میشیگان با بودجه دولتی",
+        "title_en": "Michigan Dealership Group and Drone Technology Partners Launch State-Funded Autonomous Parts Delivery Program",
+        "summary": [
+            "گروه نمایندگی‌های میشیگان با همکاری شرکای فناوری پهپادی، برنامه‌ای پایلوت برای ارسال خودکار قطعات یدکی خودرو آغاز کردند.",
+            "این پروژه با حمایت مالی ایالت میشیگان و با هدف کاهش زمان خواب خودروها در تعمیرگاه‌ها اجرا می‌شود."
+        ],
+        "full_text": "Michigan Dealership Group and Drone Technology Partners Launch State-Funded Autonomous Parts Delivery Program  PR Newswire",
+        "impact": "اتوماسیون زنجیره تأمین قطعات خودرو وارد فاز عملیاتی شهری شده و هزینه‌های لاجستیک تعمیرگاهی را کاهش می‌دهد.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa1lkNXpaTHNMekx3YmgyT3BLVFRxNGZKbGRTLUREdWxTUElYNmNBa0gyNFUzTndacDQ5dDdLaGlCbHBzUjlWUGtfeGczUTN1ZW1yNVBqSHM1enJYenpnb1BFSnNTTXdPZXdJbWdyVTgxMmY2dHBWcmJza283V1JmdlEzOHpyM2ZIMjl3aW1qNy00UTJiNmJLNXBWbGRkUDdpUnZxaG5Ha19Pc3M2UmhoSUR4MDZFUW8xaTlKbUExMGhySS1JRGlyejdkdER3VzZkTDA0TFpiZTdaNTJyWlhOQy1nZEg2b1J5V2tzX1ViRFE0SXRBeVBKTw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa1lkNXpaTHNMekx3YmgyT3BLVFRxNGZKbGRTLUREdWxTUElYNmNBa0gyNFUzTndacDQ5dDdLaGlCbHBzUjlWUGtfeGczUTN1ZW1yNVBqSHM1enJYenpnb1BFSnNTTXdPZXdJbWdyVTgxMmY2dHBWcmJza283V1JmdlEzOHpyM2ZIMjl3aW1qNy00UTJiNmJLNXBWbGRkUDdpUnZxaG5Ha19Pc3M2UmhoSUR4MDZFUW8xaTlKbUExMGhySS1JRGlyejdkdER3VzZkTDA0TFpiZTdaNTJyWlhOQy1nZEg2b1J5V2tzX1ViRFE0SXRBeVBKTw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787681880.0
+    },
+    {
         "id": "0530f0d7b3",
         "title_fa": "برنامه تازه لاکهید مارتین برای ادغام هوش مصنوعی در سامانه‌های فضایی",
         "title_en": "What Could Lockheed Martin (LMT) New AI Airspace And Launch Push Signal?",
@@ -42,6 +64,53 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787673600.0
+    },
+    {
+        "id": "0b448f4302",
+        "title_fa": "ردیابی انقراض جغد خالدار با هوش مصنوعی و پایش صوتی",
+        "title_en": "Listening for extinction: Study finds areas of critical concern for northern spotted owls",
+        "summary": [
+            "پژوهشگران با ترکیب پایش صوتی غیرفعال و الگوریتم‌های یادگیری ماشین، وضعیت بحرانی جمعیت جغدهای خالدار را در مساحتی گسترده تحلیل کردند.",
+            "داده‌های هوش مصنوعی نشان می‌دهد گونه رقیب (جغد بارد) هشت برابر بیشتر شنیده شده و جغد خالدار در آستانه انقراض عملکردی قرار دارد."
+        ],
+        "full_text": "Listening for extinction: Study finds areas of critical concern for northern spotted owls Northern spotted owl populations are approaching or have already crossed functional extinction across large areas of the Pacific Northwest, a new study, published in Ecological Applications found. Researchers used artificial intelligence and advanced monitoring methods to assess long-term trends at an unprecedented scale. While northern spotted owl populations have declined for decades, this study identifies where populations are at or near functional extinction, meaning numbers are so low that they no longer play a meaningful ecological role or cannot reproduce enough to persist. It also provides detailed population data on barred owls, which outcompete northern spotted owls for prey and habitat. \"These findings demonstrate that passive acoustic monitoring and machine learning can be used for large-scale ecological monitoring,\" said Damon Lesmeister, a wildlife biologist at the U.S. Forest Service's Pacific Northwest Research Station and a courtesy faculty member at Oregon State University. \"Our hope is that they can help shape conservation strategies and improve conservation outcomes for the northern spotted owl.\" Study findings include: - Barred owl calls were heard eight times more often than spotted owl calls across the entire study area in Oregon, Washington and northwestern California. - Northern spotted owls are approaching functional extinction thresholds in Washington and on the Oregon Coast. - Northern spotted owls were not detected in the Washington Cascades at latitudes north of Seattle. The conservation and management of northern spotted owls became one of the largest and most visible wildlife conservation issues in U.S. history after the species was listed as threatened under the Endangered Species Act in 1990 because of rapid declines in the owl's old-forest habitats. Four years later, the Northwest Forest Plan was adopted and reduced the rate of logging of old-growth forests on federal lands. Despite more than 30 years of protection, northern spotted owl populations have continued to decline due to continued habitat loss from logging and wildfire and competition from barred owls, whose range in recent decades has increasingly intersected with spotted owl territory. For the new study, scientists led by teams at the U.S. Forest Service and Oregon State's Department of Fisheries, Wildlife, and Conservation Sciences divided more than 38,000 square miles (98,000 square kilometers) of federally managed northern spotted owl habitat in Oregon, Washington and northwestern California into 5-kilometer (3.1-mile) hexagon sampling units meant to replicate the typical territory of a northern spotted owl. They randomly selected 1,027, or 3%, of those hexagons and deployed four passive acoustic recording devices in each hexagon for a six- to eight-week period between February and September 2023. The devices collected more than 2.1 million hours of recordings. Using machine learning models the researchers developed, research computers at Oregon State's Center for Quantitative Life Sciences analyzed those recordings. Among the findings from that analysis: - Northern spotted owl calls were confirmed in 261 of the 1,027 hexagon sampling areas, and barred owl calls were confirmed in 891 of the sampling areas. - A total of 34,341 northern spotted owl and 279,439 barred owl clips were recorded, meaning barred owls were heard more than eight times more often than northern spotted owls. - Northern spotted owls were detected more often in samples from the southern portions of the range. Levels ranged from 13%–17% in Washington and the Oregon Coast to 44% in the Oregon and California Klamath Mountains and 91% on the California Coast. - Barred owls were heard more frequently in northern sampling areas. They were heard in 100% of sample areas on the Oregon Coast, 94% on the Washington Coast and Western Cascades, 72% in the Oregon and California Klamath Mountains and 45% on the California Coast. This monitoring has continued since the 2023 period analyzed in this paper, and preliminary findings from the additional monitoring mirror those outlined in the paper, Lesmeister said. Lesmeister believes the findings can help focus northern spotted owl conservation strategies on specific geographic areas. The authors cite several conservation strategies, including ongoing barred owl removal efforts, conserving landscapes well-suited for northern spotted owl nesting and bringing northern spotted owls into captivity for breeding, a strategy that has been adopted in Canada. \"Northern spotted owls are already functionally extinct in large swaths of their range. It's not a thing that's happening in the future, it has happened,\" Lesmeister said. \"That doesn't mean we can't do anything. There is still an opportunity for carefully considered management actions.\" Publication details Damon B. Lesmeister et al, Listening for extinction: Range‐wide occupancy highlights critical risks and priorities for northern spotted owls, Ecological Applications (2026). DOI: 10.1002/eap.70294",
+        "impact": "الگوریتم‌های پردازش صوت و هوش مصنوعی ابزاری حیاتی برای زیست‌شناسان در تصمیم‌گیری‌های فوری محیط‌زیستی فراهم کرده‌اند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-08-extinction-areas-critical-northern-owls.html",
+        "clean_url": "https://phys.org/news/2026-08-extinction-areas-critical-northern-owls.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/listening-for-extincti.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/hires/2026/listening-for-extincti.jpg",
+            "https://scx2.b-cdn.net/gfx/news/2026/listening-for-extincti.jpg",
+            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
+            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg"
+        ],
+        "timestamp": 1787672400.0
+    },
+    {
+        "id": "8b1eae1792",
+        "title_fa": "ابتکار بزرگ آموزش هوش مصنوعی به ۵ میلیون نفر در آفریقا",
+        "title_en": "Slangit Technologies and GADEF International Launch Africa AI Literacy Initiative to Reach Five Million People",
+        "summary": [
+            "شرکت اسلنگ‌ایت با همکاری سازمان GADEF پروژه‌ای گسترده برای ارتقای سواد هوش مصنوعی در قاره آفریقا کلید زد.",
+            "هدف این برنامه توانمندسازی اقتصادی و آماده‌سازی پنج میلیون نیروی کار آفریقایی برای بازار کار دیجیتال آینده است."
+        ],
+        "full_text": "Slangit Technologies and GADEF International Launch Africa AI Literacy Initiative to Reach Five Million People  Yahoo Finance",
+        "impact": "توسعه سواد هوش مصنوعی در مناطق در حال توسعه، به جبران شکاف دیجیتالی و خلق فرصت‌های شغلی جدید کمک می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.8,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1pCNTF1OXRzVURlQllVNDFjaWVRa0RVX3V2cldHV0tHNzExZm95S0FkN050ei15aUpFLTgyR09NeEl3UlI5aGttbzFUd003UHFYajJIVWlZbVdveGlleWlzTTN1ZWVSanp5RmkwM1E2a1VEY0pnbGxxY09zZm0yWFZjYlVBOURoWlBUYjhuX196RzRjdjNhNk5yZ05fSWpMVUpMekJFNTF6Z0JkSE9xLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1pCNTF1OXRzVURlQllVNDFjaWVRa0RVX3V2cldHV0tHNzExZm95S0FkN050ei15aUpFLTgyR09NeEl3UlI5aGttbzFUd003UHFYajJIVWlZbVdveGlleWlzTTN1ZWVSanp5RmkwM1E2a1VEY0pnbGxxY09zZm0yWFZjYlVBOURoWlBUYjhuX196RzRjdjNhNk5yZ05fSWpMVUpMekJFNTF6Z0JkSE9xLQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787671800.0
     },
     {
         "id": "e007587af2",
@@ -157,6 +226,29 @@
         "timestamp": 1787668147.0
     },
     {
+        "id": "cf32cac78f",
+        "title_fa": "تغییر استراتژی سیلیکون‌ولی؛ زیرساخت فیزیکی، خندق جدید رقابتی استارتاپ‌ها",
+        "title_en": "Why Physical Infrastructure Is Becoming Silicon Valley’s Next Big Competitive Mo...",
+        "summary": [
+            "با سخت‌تر شدن شرایط جذب سرمایه، دوران رشد بی‌رویه شرکت‌های صرفاً نرم‌افزاری به پایان رسیده و سرمایه‌گذاران به دنبال مدل‌های باثبات‌تر هستند.",
+            "ترکیب هوش مصنوعی با زیرساخت‌های واقعی شهری و ناوگان‌های فیزیکی، مزیتی رقابتی ایجاد می‌کند که کپی‌برداری از آن برای رقبا تقریباً غیرممکن است."
+        ],
+        "full_text": "Entrepreneur Media LLC and Yahoo Finance LLC may earn commission or revenue on some products and services through the links below. Key Takeaways - Infrastructure creates lasting advantages as product companies build moats through operations and physical assets that are harder to replicate than software alone - Capital discipline drives stronger growth and shows that efficient execution can outperform, raising large amounts of venture capital - The future is hybrid, with the next generation of successful companies combining AI with real-world infrastructure For much of the past decade, Silicon Valley embraced a single formula for startup success. Build software, acquire users at breakneck speed, raise increasingly larger venture rounds and worry about profitability later. Scale became synonymous with software because code could be deployed instantly and replicated at virtually no cost. That playbook is beginning to change due to tighter venture funding and increased investor scrutiny. This has shifted attention from growth at all costs to businesses with durable economics, operational excellence and sustainable profitability. While software remains a powerful business model, founders building physical products and infrastructure are demonstrating that enduring companies often require a different approach, one rooted in execution rather than pure acceleration. Next generation of Moats New York-based mobility company JOCO illustrates why. Backed by approximately $7.5 million in venture funding, the company has created one of the country's largest urban e-bike infrastructure networks. They are serving enterprise customers, including Amazon, Uber Eats, Grubhub, Instacart, and Gopuff. Its model arrives as electric mobility is becoming a significant economic force. According to Grand View Research, the global e-bike market was valued at more than $61 billion in 2024 and is expected to reach $144 billion by 2033. This is being driven by urbanization, sustainability initiatives and growing commercial adoption. At the same time, Fortune Business Insights projects the last-mile delivery market will surpass $212.46 billion by 2034, fueled by e-commerce and demand for faster urban logistics. Those statistics underscore a broader economic transformation. Cities around the world are investing in cleaner transportation solutions while retailers continue searching for faster, lower-cost ways to move goods. Companies operating at the intersection of both trends are positioned to benefit from powerful long-term tailwinds.",
+        "impact": "استارتاپ‌های نوین برای بقا مجبورند نرم‌افزار را با سخت‌افزار و عملیات پیچیده دنیای واقعی گره بزنند تا ارزشی پایدار خلق کنند.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Entrepreneur",
+        "url": "https://finance.yahoo.com/small-business/articles/why-physical-infrastructure-becoming-silicon-140000848.html",
+        "clean_url": "https://finance.yahoo.com/small-business/articles/why-physical-infrastructure-becoming-silicon-140000848.html",
+        "image": "https://media.zenfs.com/en/entrepreneur_869/ef6df5298dc0e6dea2aac4a7eb45e1be.jpg",
+        "images": [
+            "https://media.zenfs.com/en/entrepreneur_869/ef6df5298dc0e6dea2aac4a7eb45e1be.jpg",
+            "https://s.yimg.com/lo/mysterio/api/2d5ed29dabd58f43d092c48260e4d999a3a3f14e9e019adc313dab0c33ea7f6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentrepreneur_869%2Fef6df5298dc0e6dea2aac4a7eb45e1be.jpg"
+        ],
+        "timestamp": 1787666968.0
+    },
+    {
         "id": "d0952b98be",
         "title_fa": "ورود هوش مصنوعی به سرم‌های ضدآفتاب برند Ludient",
         "title_en": "Ludient Brings AI Skin Intelligence to SPF with Launch of Day Glow Sun Serum",
@@ -199,6 +291,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787664869.0
+    },
+    {
+        "id": "a30a228f7d",
+        "title_fa": "طراحی عینک‌های سفارشی ارزان‌قیمت با اسکن سه‌بعدی چهره و ردگیری چشم",
+        "title_en": "New Eyewear Design Uses Face Shape and Eye Movements to Improve Vision",
+        "summary": [
+            "محققان با تلفیق اسکن سه‌بعدی چهره و تحلیل الگوی حرکت چشم، روشی برای حذف خطاهای نوری عینک بدون نیاز به عدسی‌های گران‌قیمت یافتند.",
+            "فریم‌های پارامتری جدید انحرافات نوری حاشیه‌ای را به حداقل رسانده و کیفیت دید عینک‌های استاندارد را به شدت بهبود می‌دهند."
+        ],
+        "full_text": "*Important notice: This news reports on an unedited version of an accepted paper and is awaiting final editing. Therefore, the paper should not be regarded as conclusive or treated as established information. A recent study published in Communications Engineering demonstrated that sharp, distortion-free vision with prescription eyeglasses can be achieved without relying heavily on expensive high-order aspheric lenses. By customizing frames to an individual's head shape and natural eye movements, this approach reduced oblique optical distortions to within ±0.039 diopters for oblique astigmatism and ±0.027 diopters for mean power error, even when using standard spherical lenses. Study: Achieving natural eye and lens interaction-based eyeglasses optical fit through a parametric customization approach. Image Credit: New Africa/Shutterstock.com Combining three-dimensional (3D) facial scanning with real-world eye tracing, it shifts optical correction from complex lens manufacturing toward personalized frame design, reducing production costs while maintaining quality. The Impact of Eye Position on Optical Clarity Refractive conditions, such as myopia, hyperopia, astigmatism, and presbyopia, affect billions of people worldwide, making eyeglasses the most common form of optical correction. However, when the eye looks away from the lens's optical center, incoming light strikes the lens at an angle. This viewing produces optical distortions known as oblique astigmatism and mean power error, which can significantly reduce the clarity of peripheral vision. Traditionally, the optical industry has addressed these distortions by modifying lens surfaces, often using complex double-aspheric or free-form designs that increase costs. Standard eyeglass frames have generally been treated as aesthetic accessories rather than optical components, despite their critical influence on the alignment between the eye and the lens. New Framework for Personalized Eyewear Design To address this issue, researchers developed an end-to-end parametric customization framework. The setup included 53 participants: 31 young adults with myopia ranging from -4.00 to -5.00 diopters and 22 older adults with presbyopia requiring near-reading additions of +2.00 to +3.00 diopters. We captured high-resolution 3D head models using structured-light scanning with 0.1-millimeter accuracy. From these scans, an automated multi-view landmark detection pipeline identified more than 60 anatomical points, including pupil positions and nasal-bridge geometry, to allow facial measurements. We recorded dynamic visual behavior under unrestrained head conditions using wearable eye-tracking glasses operating at 200 hertz. Participants performed four everyday tasks: free indoor walking, reading on a smartphone, continuous working on a laptop, and viewing a distant display. The study calculated where each gaze ray intersected the lens plane during visual fixations to map the area that researchers defined as lens utility. Parametric modeling software then created an ideal lens plane positioned 12 millimeters from the cornea and adapted to each participant's facial anatomy. The customized designs incorporated individual nose-pad positions, frame wrap angles, and pantoscopic tilts. Physical prototypes were fabricated using high-precision stereolithography. In parallel, an algebraic optical model evaluated tangential and sagittal vergences for spherical lenses and three aspheric designs: point-focal, Percival, and zero-tangential-error. Want to save this article for later? Click here. Gaze Patterns and Optical Performance The outcomes demonstrated that natural gaze interactions with spectacle lenses are highly non-uniform. Visual fixations formed a vertically elongated pattern with a slight nasal tilt, rather than being evenly distributed across the lens. High-density visual dwell time remained concentrated near the optical center, where aberrations are naturally at their lowest. Younger myopic participants showed more compact gaze patterns, whereas older presbyopic participants had more dispersed fixations and made more frequent upward eye movements. A hierarchical analysis with 1,000 iterations indicated that customized frames maintained strong optical performance across all tested scenarios. Under demanding test prescriptions of -5.00 diopters for myopia and +3.00 diopters for presbyopia, standard spherical lenses kept oblique astigmatism within ±0.039 diopters and mean power error within ±0.027 diopters for the myopia group. For the presbyopia group, these limits were ±0.035 and ±0.023 diopters, respectively. Among the tested designs, the Percival balancing strategy provided the most stable performance, keeping aberrations around or below 0.01 diopters. Enhancing Accessibility in Vision Care This parametric frame customization model has significant practical applications in eyewear engineering and ophthalmic dispensing. By optimizing optical alignment through the frame itself, the approach could enable clear vision with affordable, widely available spherical or basic aspheric lenses, thereby reducing reliance on complex free-form lens manufacturing. Additionally, the spatial and temporal gaze data could inform the design of progressive addition lenses, positioning power-progression corridors along natural viewing paths observed during everyday activities. Combined with automated additive manufacturing, the approach could support customized smart eyewear and augmented-reality glasses. Future Directions in Ophthalmic Customization The breakthrough could mark an important step toward a future where eyewear is designed for a person’s prescription and for the unique geometry of their face and eyes. By precisely aligning the eye, frame and lenses, researchers showed that optical distortions experienced when looking away from the center of a lens can be significantly reduced. Combining 3D facial scanning with mathematical optical modeling also means some of the ",
+        "impact": "هزینه‌های تولید عینک‌های طبی دقیق به‌طور چشمگیری کاهش می‌یابد و دسترسی عموم به تصویر شفاف‌تر تسهیل می‌شود.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "AZoOptics",
+        "url": "https://www.azooptics.com/News.aspx?newsID=30776",
+        "clean_url": "https://www.azooptics.com/News.aspx",
+        "image": "https://www.azooptics.com/images/news/ImageForNews_30776_17876634869934538.jpg",
+        "images": [
+            "https://www.azooptics.com/images/news/ImageForNews_30776_17876634869934538.jpg",
+            "https://www.azooptics.com/themes/Standard/images/azooptics-main.png",
+            "https://www.azonetwork.com/themes/clients/images/team/osama_picturess.jpg",
+            "https://www.azooptics.com/images/news/ThumbForNews_30774_17871436548592287.jpg"
+        ],
+        "timestamp": 1787663520.0
     },
     {
         "id": "e9948f9ca0",
@@ -695,6 +812,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787639475.0
+    },
+    {
+        "id": "8ae7de0cee",
+        "title_fa": "رونمایی اپل از مک مینی جدید با چیپ ۲ نانومتری M6 و افزایش قیمت",
+        "title_en": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+        "summary": [
+            "اپل مک مینی را با پردازنده‌ ۲ نانومتری M6 و مدل قوی‌تر M5 Pro به‌روزرسانی کرد؛ قیمت پایه با ۱۰۰ دلار افزایش به ۸۹۹ دلار رسیده است.",
+            "چیپ M6 با معماری ۱۲ هسته‌ای و لیتوگرافی ۲ نانومتری، تا ۴۰ درصد پردازش سریع‌تر و دو برابر عملکرد گرافیکی بهتر نسبت به نسل M4 ارائه می‌دهد.",
+            "حافظه رم پایه روی ۱۶ گیگابایت با سرعت حافظه ذخیره‌سازی دوبرابری تنظیم شده و پورت شبکه به ۲.۵ گیگابیت ارتقا یافته است."
+        ],
+        "full_text": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year’s MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with upgraded internals, faster performance, and speedier ethernet ports. Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices The compact desktop now starts at $899 with an M6 processor and $1,699 with an M5 Pro. The compact desktop now starts at $899 with an M6 processor and $1,699 with an M5 Pro. The M6 Mac Mini starts at $899, while the M5 Pro model starts at $1,699. Both cost $100 more than the most recent starting prices of the M4 generation. And while preorders start today, the new Mac Minis won’t ship until September 22nd — hopefully enough time for Apple to stock up on inventory, as the last-gen models became scarce due to higher than expected demand for running AI agents. Like last generation, the new entry-level Mac Mini with an M6 chip starts with 16GB of unified memory and 256GB of storage, and the M5 Pro Mac Mini starts with a 24GB / 512GB configuration. But the storage in all of these models is now twice as fast, just like the recent crop of MacBooks Air and Pro. In addition to the double-speed storage, both M6 and M5 Pro Mac Minis now sport 2.5 gigabit ethernet ports (with the same optional upgrade to 10 gigabit) and they use Apple’s N1 chip for Wi-Fi 7 and Bluetooth 6 support. The M6 Mac Mini now has a 12-core CPU and 12-core GPU along with 170GBps of memory bandwidth compared to the M4’s 10-core / 10-core setup and memory bandwidth of 120GBps. Its CPU consists of two super cores (a naming convention that began with the M5 Pro / Max chips), four performance cores, and six efficiency cores — and it’s Apple’s first chip on a 2nm process. Apple claims the M6’s more, faster cores lead to a 40 percent uplift in CPU performance over the M4 generation, and the new 12-core GPU with neural accelerators is up to twice as fast at graphics rendering with ray tracing than the M4 in some games. The M5 Pro of the new Mac Mini is configurable, much like it is on the MacBook Pro: it can be had with up to 18 CPU cores and 20 GPU cores, and it has the same 307GBps of memory bandwidth. Apple claims the Mac Mini with an M5 Pro has significant gains in AI compute and graphics over the outgoing M4 Pro model, thanks in part to the neural accelerator in each GPU core. This should permit heavier AI workloads, including photo and video upscaling, and running larger diffusion models. Some key things haven’t changed on the new Mac Minis — most notably, all the ports besides the upgraded ethernet. Both Minis maintain two front-facing 10Gbps USB-C ports and the three on the rear of the M6 are faster Thunderbolt 4, while the rear three of the M5 Pro are even speedier Thunderbolt 5 ports. But both the M6 and M5 Pro Mac Minis will ship with macOS 27 Golden Gate preloaded out of the box, offering full compatibility with Apple’s new Siri AI and new Apple Intelligence features. There’s no official launch date for the final public release of macOS 27, but with today’s Mac announcements, it should arrive no later than their September 22nd ship date. Most Popular - Android is getting its own weird dots to cure car sickness - Raspberry Pi shares its official tutorial for making a cyberdeck - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The cat-and-mouse game over 3D-printed guns has begun",
+        "impact": "افزایش قیمت ۱۰۰ دلاری اپل نشان می‌دهد سخت‌افزار پیشرفته ۲ نانومتری و تقاضای سنگین برای اجرای ایجنت‌های هوش مصنوعی، قیمت پایه مینی‌کامپیوترها را بالا برده است.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.4,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+        "clean_url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+        "image": "http://www.bing.com/th?id=ONUT.ORZ559mZTNyeJXHpMgSi3g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ORZ559mZTNyeJXHpMgSi3g&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-MINI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195792/ANTONIO_DI_BENEDETTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787637600.0
     },
     {
         "id": "bef24112ad",
