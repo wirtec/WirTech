@@ -1,5 +1,74 @@
 [
     {
+        "id": "3d3c3181ee",
+        "title_fa": "اجرای کاملاً محلی هوش مصنوعی بدون هزینه توکن با همکاری پرپلکسیتی و انویدیا",
+        "title_en": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+        "summary": [
+            "پرپلکسیتی با همکاری انویدیا از پروژه Portable Computer رونمایی کرد؛ سیستمی که عامل‌های هوش مصنوعی را کاملاً روی سخت‌افزار محلی اجرا می‌کند.",
+            "در این مدل، پردازش‌ها بدون نیاز به سرورهای ابری انجام می‌شوند و هزینه توکن برای کاربران به صفر می‌رسد.",
+            "این اقدام علاوه بر جهش در حفظ حریم خصوصی، وابستگی توسعه‌دهندگان به زیرساخت‌های گران‌قیمت ابری را کاملاً از بین می‌برد."
+        ],
+        "full_text": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs  VentureBeat",
+        "impact": "حذف هزینه توکن و انتقال پردازش به سخت‌افزار محلی، مدل اقتصادی ابزارهای هوش مصنوعی را به نفع کاربران تغییر می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "VentureBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787662800.0
+    },
+    {
+        "id": "7c566af169",
+        "title_fa": "راه‌اندازی صندوق ۱۵۰ میلیون دلاری ماس‌میوچوال برای فناوری‌های اقلیمی",
+        "title_en": "MassMutual Ventures Commits to Launch $150 Million Climate Technology Fund II",
+        "summary": [
+            "بخش سرمایه‌گذاری MassMutual دومین صندوق اختصاصی خود را با بودجه ۱۵۰ میلیون دلاری برای حمایت از فناوری‌های سبز راه‌اندازی کرد.",
+            "این سرمایه به استارتاپ‌های پیشرو در حوزه‌های انرژی پاک، مدیریت کربن و کاهش پیامدهای تغییرات اقلیمی اختصاص می‌یابد.",
+            "اقدام ماس‌میوچوال نشان‌دهنده جذابیت مداوم حوزه فناوری‌های اقلیمی برای جذب سرمایه‌گذاران خطرپذیر است."
+        ],
+        "full_text": "MassMutual Ventures Commits to Launch $150 Million Climate Technology Fund II  Business Wire",
+        "impact": "تزریق سرمایه جدید به استارتاپ‌های حوزه انرژی پاک و سرعت‌بخشی به تجاری‌سازی فناوری‌های محیط‌زیستی.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1JjcHlwMjBLTzhoaFdmNlBYRDFUVkc4QWxEZXVnVGF1emhoMVVad2Q3am9mSDROMGt2bzItMnlsV0UyX1FMdFI0TzRpNTIxMUJ6UFBWRXF5dWc2c3pIZWE5a05Xc2d4SEdrVmd0UkRmQzE1Njk2SHptS2tQSXZIRHJYREZ4RWZjckl2UDdJeWRSLWUtY3lhbDZVVTJhcWhOT3lRcmNOLW9RUk9VVFNIaGR4X0d2ckM4bEJFbmEwX2ZTQ093Um9DRDIwQWJhUG1uRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1JjcHlwMjBLTzhoaFdmNlBYRDFUVkc4QWxEZXVnVGF1emhoMVVad2Q3am9mSDROMGt2bzItMnlsV0UyX1FMdFI0TzRpNTIxMUJ6UFBWRXF5dWc2c3pIZWE5a05Xc2d4SEdrVmd0UkRmQzE1Njk2SHptS2tQSXZIRHJYREZ4RWZjckl2UDdJeWRSLWUtY3lhbDZVVTJhcWhOT3lRcmNOLW9RUk9VVFNIaGR4X0d2ckM4bEJFbmEwX2ZTQ093Um9DRDIwQWJhUG1uRkE",
+        "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787659612.0
+    },
+    {
+        "id": "9552808582",
+        "title_fa": "ورود جمینای گوگل به بخش خدمات مالی با همکاری GFT Technologies",
+        "title_en": "GFT Technologies Partners with Google Cloud on Launch of Gemini Enterprise for Financial Services",
+        "summary": [
+            "شرکت GFT با همکاری گوگل کلود، نسخه سازمانی Gemini را به طور اختصاصی برای بانک‌ها و مؤسسات مالی عرضه کرد.",
+            "این راهکار به مؤسسات مالی کمک می‌کند فرآیندهای پیچیده تحلیل داده، ارزیابی ریسک و خدمات مشتریان را هوشمند سازند.",
+            "تمرکز اصلی این سیستم بر رعایت الزامات سخت‌گیرانه قانونی و امنیت داده‌ها در صنعت بانکداری است."
+        ],
+        "full_text": "GFT Technologies Partners with Google Cloud on Launch of Gemini Enterprise for Financial Services  Google Cloud Press Corner",
+        "impact": "تسریع ورود هوش مصنوعی مولد به فرآیندهای حساس و سنت‌گرای صنعت بانکداری و مالی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Google Cloud Press Corner",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1U5TkotVHB0SzZBV3A2UHAwVjBpMHc2WEhXNXJUbjZNRklzT040S2h5ejBLMXMtZm1SUHVsVl9NTGoxQklSNXJYaThTWWZxLWRZSFJCN1NlY0M3SWFqY21Ta2pvWnU4RVNsRTRyTUdvYmJOX2tweXRlMGI2LW9CVTU0YkxfZTdGaWl1VkFnYWtRWDdoUDVVUS13dExIZ3RQRDdDLUtDbU5CRTlwWHVWY3YtTDkzN2M1ZkZJLWlRZEtxRnlxYkNIZGZET0FsNmFXb09rWnRkUFZFMl9LZm8xTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1U5TkotVHB0SzZBV3A2UHAwVjBpMHc2WEhXNXJUbjZNRklzT040S2h5ejBLMXMtZm1SUHVsVl9NTGoxQklSNXJYaThTWWZxLWRZSFJCN1NlY0M3SWFqY21Ta2pvWnU4RVNsRTRyTUdvYmJOX2tweXRlMGI2LW9CVTU0YkxfZTdGaWl1VkFnYWtRWDdoUDVVUS13dExIZ3RQRDdDLUtDbU5CRTlwWHVWY3YtTDkzN2M1ZkZJLWlRZEtxRnlxYkNIZGZET0FsNmFXb09rWnRkUFZFMl9LZm8xTQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787659250.0
+    },
+    {
         "id": "0b79d65b20",
         "title_fa": "آیا هوش مصنوعی جایگزین یادگیری زبان می‌شود؟ نتایج یک تحقیق جدید",
         "title_en": "Can AI replace traditional language learning? A new study says not yet",
