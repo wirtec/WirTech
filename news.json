@@ -1,5 +1,27 @@
 [
     {
+        "id": "9582b64a19",
+        "title_fa": "تاییدیه سازمان FDA برای نخستین سنسور دوگانه قند و کتون جهان توسط شرکت Abbott",
+        "title_en": "Abbott receives FDA authorization for world's first dual glucose-ketone sensing technology for people with diabetes",
+        "summary": [
+            "شرکت Abbott موفق به دریافت مجوز رسمی از سازمان غذا و داروی آمریکا برای حسگر جدیدی شد که می‌تواند میزان قند و کتون خون را هم‌زمان سنجش کند.",
+            "این حسگر پایش مداوم، ابزاری حیاتی برای بیماران مبتلا به دیابت است تا پیش از بروز اختلالات شدید مانند کتوآسیدوز، هشدار دریافت کنند."
+        ],
+        "full_text": "Abbott receives FDA authorization for world's first dual glucose-ketone sensing technology for people with diabetes  Abbott MediaRoom",
+        "impact": "تحول مهم در سلامت دیجیتال و پیشگیری از بحران‌های حاد پزشکی برای میلیون‌ها بیمار دیابتی در سراسر جهان.",
+        "tag": "پزشکی",
+        "urgency": 7,
+        "sentiment": 0.9,
+        "source": "Abbott MediaRoom",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkM3NVlyYnE1Vk9RZlhTS20zdDFzNkVHZ0k2UDBlYmtMRGN0VVE3Z3dBMjhEc0s1QlVob19rMzl3emxHX2NoQmhCejNqUmdYSjZrd0VXZFVGUVZXSktrOEhrMGl5QkxGSEN6NmgtaVd3WHp0aW5PbVp4UWNYR1ZmWEwtR094VFRnVmJtMXZqVDZjOHNUTG53UFRuZnprNGIxdFU2WUtJWmg2R2s4RWY2YTBQTmxzMWRSZG9uZG83STE4T2JSZ3BlMHdPN2taQXlUSG42Yy1KTTZidUtwVGYxdlhLbXJ3SnVwaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkM3NVlyYnE1Vk9RZlhTS20zdDFzNkVHZ0k2UDBlYmtMRGN0VVE3Z3dBMjhEc0s1QlVob19rMzl3emxHX2NoQmhCejNqUmdYSjZrd0VXZFVGUVZXSktrOEhrMGl5QkxGSEN6NmgtaVd3WHp0aW5PbVp4UWNYR1ZmWEwtR094VFRnVmJtMXZqVDZjOHNUTG53UFRuZnprNGIxdFU2WUtJWmg2R2s4RWY2YTBQTmxzMWRSZG9uZG83STE4T2JSZ3BlMHdPN2taQXlUSG42Yy1KTTZidUtwVGYxdlhLbXJ3SnVwaXc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787683998.0
+    },
+    {
         "id": "ea746a9e77",
         "title_fa": "آغاز طرح تحویل پهپادی قطعات خودرو در میشیگان با بودجه دولتی",
         "title_en": "Michigan Dealership Group and Drone Technology Partners Launch State-Funded Autonomous Parts Delivery Program",
@@ -812,6 +834,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787639475.0
+    },
+    {
+        "id": "74c61458b9",
+        "title_fa": "رونمایی اپل از تراشه‌های قدرتمند M6 و M5 Ultra برای پردازش‌های سنگین AI",
+        "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+        "summary": [
+            "تراشه M6 به عنوان اولین چیپست ۲ نانومتری اپل، به موتور عصبی دوگانه ۱۶ هسته‌ای مجهز شده و پردازش‌های هوش مصنوعی روی دستگاه را بسیار سریع‌تر می‌کند.",
+            "اپل در کنار M6، از تراشه غول‌آسای M5 Ultra رونمایی کرد که با ۳۶ هسته پردازشی و پشتیبانی از ۵۱۲ گیگابایت حافظه یکپارچه، مخصوص اجرای مدل‌های پیشرفته هوش مصنوعی و رندرینگ سه‌بعدی است.",
+            "این چیپست‌های تازه در نسل جدید مک‌مینی و مک‌استودیو قرار می‌گیرند و به گفته اپل سریع‌ترین عملکرد تک‌هسته‌ای جهان را ارائه می‌دهند."
+        ],
+        "full_text": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its “most powerful chip ever,” designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple’s first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and it also has a Dual 16-core Neural Engine for on-device AI workloads. Apple’s new M6 chip gets more cores and more AI compute Apple is introducing the M6 chip with a new Mac Mini. It’s also launching a new M5 Ultra alongside an upgraded Mac Studio. Apple is introducing the M6 chip with a new Mac Mini. It’s also launching a new M5 Ultra alongside an upgraded Mac Studio. The M6 has a 12-core CPU, up from 10 in the M5, and it includes two super cores, four performance cores, and six efficiency cores. (Apple’s “super” core terminology used to refer to performance cores, but it introduced a new type of performance core starting with the M5 Pro and M5 Max.) The company says the CPU offers “the world’s fastest single-threaded performance” and up to 1.2x faster multithreaded performance in comparison to the M5. The chip also has a 12-core GPU, up from 10 cores in the M5, and includes a Neural Accelerator with each core, Apple says. It supports as much as 32GB of unified memory. Apple says that the M5 Ultra uses the company’s UltraFusion interconnect technology to connect two dual-die M5 Max chips together as one quad-die architecture. The M5 Ultra has an up to 36-core CPU with 12 super cores and 24 performance cores, an up to 80-core GPU, and a 32-core Neural Engine. It supports up to 512GB of “high-bandwidth” unified memory, which as usual with the M series isn’t upgradeable after purchase. The M6 chip will be available in a new Mac Mini, while the M5 Ultra will launch in a new Mac Studio. Both computers will be available for preorder beginning Tuesday ahead of a release on September 22nd. Most Popular - Android is getting its own weird dots to cure car sickness - Raspberry Pi shares its official tutorial for making a cyberdeck - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The cat-and-mouse game over 3D-printed guns has begun",
+        "impact": "جهش چشمگیر قدرت پردازش محلی هوش مصنوعی در رایانه‌های مک و خط‌ونشان کشیدن اپل برای رقبا در بازار تراشه‌های ۲ نانومتری.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.85,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "clean_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "image": "http://www.bing.com/th?id=ONUT.r1IGU1jKq0lflQt1ZREKKw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.r1IGU1jKq0lflQt1ZREKKw&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787637600.0
     },
     {
         "id": "8ae7de0cee",
