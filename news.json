@@ -1,5 +1,49 @@
 [
     {
+        "id": "4bc8a1dee0",
+        "title_fa": "پروژه جدید متا Hatch؛ واگذاری کارهای روزمره به ایجنت‌های هوشمند",
+        "title_en": "Meta Hatch could let AI agents handle everyday tasks for you — here’s what we know",
+        "summary": [
+            "متا در حال کار روی ابزار جدیدی به نام Hatch است تا عوامل هوش مصنوعی بتوانند وظایف تکراری و کارهای روزمره کاربران را مدیریت کنند.",
+            "این اقدام ورود مستقیم متا به بازار ایجنت‌های خودمختار کاربردی و رقابت با دستیاران هوشمند گوگل و مایکروسافت است."
+        ],
+        "full_text": "Meta Hatch could let AI agents handle everyday tasks for you — here’s what we know  Firstpost",
+        "impact": "خودکارسازی کارهای روزمره کاربران و افزایش سهم متا در بازار ایجنت‌های هوشمند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEhiUWJnQTRlVzNZZDl1QnJfZkhLVFl0TFZRbExLbWJ3MmRRM0V1SlgzcW5nWXlCMnFsQ0JmaXRYcFFxNHg1dHJqdmNua3hXd3E5QXJQaTBZRHdHQXhVZW5Ec0tJTC1TUkJvcUVTc3dtVkhYMGtOQUtGV3BndFQwODlJRTZITmxiUzZiTUNRelNWVGxscUE3S0xta0dLbkhiZ0podzJaeEg2bW40R1gzRE1zWHNRdThjb3FoVVFJd2QwZ9IBxwFBVV95cUxPazA4V28zOGdZTHZIMTF5NGhzOWVReTRHci0zbmhNbklCcElrdTBKYjU3M1VTSHNEd3pNOEpwdXpub1VUQmR1QTVabTJTRUc5MXJ4aHBqZG9uRVB4cERxWE5mdGZaNFNiS3M5U3owZEd5cGZhYVdaRDBEU3ZzZmFrSXdCdTBSYnNoTkYyRXFwWU01R2FPYVJhd003OG14OFhuOS1zTVFrdjVTOThKMkF3ek1qV2w2c2h4Z3V1bDBMMDI4ajVUX1Zj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEhiUWJnQTRlVzNZZDl1QnJfZkhLVFl0TFZRbExLbWJ3MmRRM0V1SlgzcW5nWXlCMnFsQ0JmaXRYcFFxNHg1dHJqdmNua3hXd3E5QXJQaTBZRHdHQXhVZW5Ec0tJTC1TUkJvcUVTc3dtVkhYMGtOQUtGV3BndFQwODlJRTZITmxiUzZiTUNRelNWVGxscUE3S0xta0dLbkhiZ0podzJaeEg2bW40R1gzRE1zWHNRdThjb3FoVVFJd2QwZ9IBxwFBVV95cUxPazA4V28zOGdZTHZIMTF5NGhzOWVReTRHci0zbmhNbklCcElrdTBKYjU3M1VTSHNEd3pNOEpwdXpub1VUQmR1QTVabTJTRUc5MXJ4aHBqZG9uRVB4cERxWE5mdGZaNFNiS3M5U3owZEd5cGZhYVdaRDBEU3ZzZmFrSXdCdTBSYnNoTkYyRXFwWU01R2FPYVJhd003OG14OFhuOS1zTVFrdjVTOThKMkF3ek1qV2w2c2h4Z3V1bDBMMDI4ajVUX1Zj",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787629717.0
+    },
+    {
+        "id": "f669a9731e",
+        "title_fa": "استفاده SpaceXAI از پردازنده‌های Vera انویدیا برای توسعه هوش‌مصنوعی عاملی",
+        "title_en": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+        "summary": [
+            "مجموعه SpaceXAI برای توسعه و اجرای مدل‌های هوش مصنوعی عاملی (Agentic AI) در مقیاس عظیم، پردازنده‌های جدید Vera انویدیا را به خدمت گرفته است.",
+            "این زیرساخت سخت‌افزاری پردازش سیستم‌های خودمختار و تصمیم‌گیرنده را در مقیاس‌های کلان محاسباتی بسیار سریع‌تر می‌کند."
+        ],
+        "full_text": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale  NVIDIA Newsroom",
+        "impact": "ارتقای چشمگیر قدرت محاسباتی برای اجرای عامل‌های هوشمند خودمختار در ابعاد صنعتی.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "NVIDIA Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787628765.0
+    },
+    {
         "id": "b60556b0aa",
         "title_fa": "اتحاد استراتژیک نوتانیکس برای تحول در مدیریت پردازنده‌های گرافیکی",
         "title_en": "How Nutanix’s ChronoScale AI Alliance Could Reshape Its GPU Strategy Will Impact Nutanix (NTNX) Investors",
@@ -593,6 +637,32 @@
         "timestamp": 1787579134.0
     },
     {
+        "id": "ab81be9e0c",
+        "title_fa": "جذب سرمایه ۳۷ میلیون دلاری استارتاپ ایرباند برای رقابت پهپادها با کامیون‌ها",
+        "title_en": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "summary": [
+            "استارتاپ هندی ایرباند با دریافت ۳۷ میلیون دلار سرمایه جدید، قصد دارد هزینه حمل‌ونقل هوایی محموله‌ها را به سطح ترابری جاده‌ای برساند.",
+            "طراحی موشک‌مانند این پهپادها به‌گونه‌ای است که وزن خود بدنه از محموله‌ای که حمل می‌کند کمتر است و بدون نیاز به باند، عمودی نشست و برخاست می‌کند.",
+            "این پهپادها در جابه‌جایی آزمایش‌های پزشکی، زمان جابه‌جایی چندساعته با کامیون را به فقط ۷ دقیقه کاهش داده‌اند."
+        ],
+        "full_text": "Airbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as cheap as trucking them by road. The Series A round, led by Greenoaks with participation from DoorDash, Lachy Groom, Lightspeed, and Humba Ventures, comes less than a year after Airbound raised an $8.65 million seed round. With this funding, the three-year-old startup has raised nearly $50 million. Airbound, and other startups in this nascent sector, argue that drones can move certain goods faster and cheaper than vehicles on the road. And while there have been successful deployments, drone delivery is still far from matching the scale and versatility of trucking. Airbound is trying to close that gap by redesigning the aircraft to make it more competitive with ground transportation. Conventional aircraft spend a lot of energy carrying their own weight rather than the payload, making flight expensive, particularly for moving smaller loads. Airbound’s answer is to build vertical-flight drones designed to weigh less than the cargo they carry, founder and CEO Naman Pushp said in an interview. Airbound’s current drone, called TRT, weighs about 3.3 pounds and can carry around 2.2 pounds of payload. Its next version, currently under development, is expected to weigh about 6.6 pounds and be able to carry up to 11 pounds, Pushp told TechCrunch. The startup uses a rocket-like, tail-sitter design for its drones, which takes off and lands vertically in an upright position before transitioning to horizontal flight. Pushp said Airbound intends to retain vertical takeoff and landing even as it develops larger aircraft to avoid dependence on runways. “We want to build towards a world where everything has cost parity with trucking,” he said. Founded in 2023, Airbound has completed more than 13,000 autonomous flights across the southern Indian cities of Bengaluru and Guntur, Pushp said. That includes more than 1,000 flights with the Indian hospital network Narayana Health, where its drones transport diagnostic samples between healthcare facilities. The startup uses a single active drone on the Narayana route, flying diagnostic samples about 2.5 miles in around seven minutes. The same samples can take three to five hours to be transported by truck when factoring in the time spent waiting for enough samples to be bundled for road transport, according to Pushp. That partnership is expanding to include Narayana’s new Banashankari hospital in Bengaluru, which was designed without an on-site diagnostic lab or blood bank and will instead rely on Airbound’s drones to connect with centralized facilities. Three-city drone network Airbound has set its sights on a far larger ambition to create a drone delivery network that connects three cities in the state of Andhra Pradesh. The startup has sign an agreement with the state government with an eventual target of 10,000 flights a day for retail, e-commerce, and healthcare deliveries. That daily flight target will require between 250 and 1,000 aircraft, depending on route lengths, though Pushp expects the number to be closer to 250. The agreement does not involve a government contract or subsidy, Pushp said, adding that the Andhra Pradesh government is working with Airbound on the regulatory framework needed to enable the network. The startup expects to generate business from companies using it for deliveries. Indian startups including Skye Air Mobility and TSAW Drones are already building aerial logistics businesses, while other Indian drone makers such as Garuda Aerospace have also explored delivery use cases. Nonetheless, Pushp argues that Airbound wants to build the aircraft that other logistics networks could eventually use rather than just trying to become the largest delivery operator. “That’s the Boeing role — the aircraft airlines everywhere rely on, not the airline itself,” he said. Airbound designs and manufactures its aircraft in a 43,000-square-foot facility in Bengaluru, where it keeps work on the airframe and other core systems in-house. While Pushp declined to disclose its production capacity or how many aircraft the startup has built so far, he said manufacturing would not be the bottleneck as Airbound scales. The bigger bottleneck, Pushp noted, is regulation, particularly securing approvals for beyond visual line of sight (BVLOS) operations, a certification that allows drones to fly beyond the direct sight of an operator and is critical to operating delivery networks at scale. Those regulatory constraints have also limited Airbound’s ability to turn its flights into meaningful commercial revenue. Moreover, the startup remains broadly pre-revenue despite having a team of more than 150 employees. “The goal is to be a giant in a few decades, not to make revenue as soon as we can,” Pushp said.",
+        "impact": "کاهش چشمگیر هزینه‌ها و زمان ارسال محموله‌های سبک و تجاری در مقایسه با ترابری سنتی.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "clean_url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones",
+        "image": "http://www.bing.com/th?id=ONUT.YlCkZBa2OP7gUqblexYLOA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.YlCkZBa2OP7gUqblexYLOA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/01/7a9bd5727569147c3025b40e3775fc64.png?w=150"
+        ],
+        "timestamp": 1787578200.0
+    },
+    {
         "id": "0ff6074ef6",
         "title_fa": "چالش سهام هوش مصنوعی؛ شوک نفتی در هفته سرنوشت‌ساز انویدیا",
         "title_en": "Iran Sanctions Launch Into Nvidia Week: Oil Shock Tests AI Stock Multiples",
@@ -749,6 +819,28 @@
             "http://www.bing.com/th?id=ONUT.AK55BfBNz63-IFI5Kz2-tA&pid=News"
         ],
         "timestamp": 1787574142.0
+    },
+    {
+        "id": "9e48986749",
+        "title_fa": "تشخیص هوشمند دردهای پنهان اسب‌ها از روی چشم با هوش‌مصنوعی",
+        "title_en": "هوش مصنوعی درد را در چشمان اسب‌ها خواند",
+        "summary": [
+            "اسب‌ها به شکل غریزی در برابر تهدیدات درد خود را پنهان می‌کنند، اما الگوریتم جدید هوش مصنوعی توانسته با تحلیل حالت چشم آن‌ها میزان درد را تشخیص دهد.",
+            "این مدل دید کامپیوتر به دامپزشکان اجازه می‌دهد آسیب‌ها و بیماری‌های پنهان حیوانات را در مراحل اولیه شناسایی کنند."
+        ],
+        "full_text": "اسب‌ها در مواجهه با درد، استاد پنهان کاری هستند. آنها تکامل یافته‌اند تا علائم رنج را در اطراف تهدیدات بالقوه، پنهان کنند.",
+        "impact": "تحول در حیطه دامپزشکی و تسریع فرایند تشخیص و درمان بیماری‌های حیوانات.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "خبرگزاری باشگاه خبرنگاران",
+        "url": "https://www.yjc.ir/fa/news/9122467/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%DA%86%D8%B4%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%A8%E2%80%8C%D9%87%D8%A7-%D8%AE%D9%88%D8%A7%D9%86%D8%AF",
+        "clean_url": "https://www.yjc.ir/fa/news/9122467/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AF%D8%B1%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%DA%86%D8%B4%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%A8%E2%80%8C%D9%87%D8%A7-%D8%AE%D9%88%D8%A7%D9%86%D8%AF",
+        "image": "http://www.bing.com/th?id=ONUT.K1c8g_HHm1FTtK2hn5M_dA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.K1c8g_HHm1FTtK2hn5M_dA&pid=News"
+        ],
+        "timestamp": 1787573940.0
     },
     {
         "id": "d45b71fb4a",
