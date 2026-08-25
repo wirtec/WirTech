@@ -1,5 +1,27 @@
 [
     {
+        "id": "d03620f847",
+        "title_fa": "جهش بعدی هوش مصنوعی از علم فیزیک رقم می‌خورد",
+        "title_en": "Next AI Breakthrough Could Come From Physics, Says Max Welling",
+        "summary": [
+            "مکس ولینگ پیش‌بینی کرده که جهش بزرگ بعدی در هوش مصنوعی حاصل تلفیق قوانین فیزیک با شبکه‌های عصبی خواهد بود.",
+            "استفاده از مدل‌سازی‌های فیزیکی می‌تواند محدودیت‌های فعلی مدل‌های زبانی بزرگ را برطرف کند."
+        ],
+        "full_text": "Next AI Breakthrough Could Come From Physics, Says Max Welling  StartupHub.ai",
+        "impact": "تغییر مسیر تحقیقات هوش مصنوعی به سمت استفاده از مفاهیم فیزیک نظری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "StartupHub.ai",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXBsVXZ2VlAwQk1TU1BsWDEyY1VudFBqdTdoUVoyT0c4OUJLNFdhTUVSbkUtTDBJT18zdW93S0NFb1BtTjRTQ09LeGgzOTdzeUdxM1htaTh5MUwxdWp3R29vM2gwYWZtUWN1VnZvdGNMbTd0djFUVi1UNVVFZFkwTy1GSFk1LTBYVm00aEN2Wlp6SFhCVnVwaHdQdm9UM1lMajVXVzkxVXQyeGFtR0VjZERR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXBsVXZ2VlAwQk1TU1BsWDEyY1VudFBqdTdoUVoyT0c4OUJLNFdhTUVSbkUtTDBJT18zdW93S0NFb1BtTjRTQ09LeGgzOTdzeUdxM1htaTh5MUwxdWp3R29vM2gwYWZtUWN1VnZvdGNMbTd0djFUVi1UNVVFZFkwTy1GSFk1LTBYVm00aEN2Wlp6SFhCVnVwaHdQdm9UM1lMajVXVzkxVXQyeGFtR0VjZERR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787692142.0
+    },
+    {
         "id": "d29afbb481",
         "title_fa": "اجرای رسمی قانون جامع هوش مصنوعی در اتحادیه اروپا",
         "title_en": "PRESS RELEASE: European Union Begins Enforcing Sweeping Artificial Intelligence Act",
@@ -406,6 +428,32 @@
         "timestamp": 1787662851.0
     },
     {
+        "id": "80da575366",
+        "title_fa": "نتایج یک تحقیق: هوش مصنوعی دستیار بهتری است تا جایگزین انسان",
+        "title_en": "هوش مصنوعی نه به‌عنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را دارد",
+        "summary": [
+            "پژوهش جدید روی ۶ هزار نیروی خرید اینستاکارت ثابت کرد هوش مصنوعی وقتی نقش کمکی دارد بیشترین بازدهی را ایجاد می‌کند.",
+            "استفاده از الگوریتم‌های هوش مصنوعی موجب کاهش ۳.۸ درصدی مرجوعی کالا و ارتقای ۳.۲ درصدی بهره‌وری کلی شد.",
+            "کارمندان باسابقه با تلفیق تجربه شخصی و پیشنهادات سیستم، بهترین عملکرد را در شرایط کاری پیچیده ثبت کردند."
+        ],
+        "full_text": "هوش مصنوعی نه بهعنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را دارد یافتههای این تحقیق به همکاری هوش مصنوعی در کنار تجربه کارکنان اشاره دارد که به شیوههای مختلفی باعث بهبود بازدهی در Instacart شده است. در شرایطی که شرکتها با شتاب زیادی بهدنبال ورود هوش مصنوعی به محیطهای کاری هستند، پژوهشی جدید نشان میدهد که بیشترین بازدهی این فناوری زمانی به دست میآید که هوش مصنوعی در کنار تجربه کارکنان قرار بگیرد، نه اینکه جایگزین آنها شود. این مقاله با عنوان «همکاری انسان و الگوریتم در مشاغل شناور: نقش تجربه، سطح مهارت و پیچیدگی وظایف» در نشریه معتبر Information Systems Research منتشر شده است. نتایج این تحقیق نشان میدهد که راهنماییهای هوش مصنوعی توانسته بهرهوری، کیفیت خدمات و انعطافپذیری کاری مأموران خرید در پلتفرم اینستاکارت (Instacart) را بهطور محسوسی ارتقا دهد. بااینحال، پژوهشگران متوجه شدهاند که سابقه و تجربه کاری کارکنان عامل اصلی تعیینکننده در میزان اثربخشی این ابزارها است. پژوهشگران برای بررسی دقیق عملکرد این فناوری در دنیای واقعی، آزمایشی میدانی را با حضور نزدیک به ۶ هزار نیروی خرید اینستاکارت در حدود ۱۶۰ فروشگاه مواد غذایی در آمریکا ترتیب دادند. در این آزمایش، هوش مصنوعی مسیر حرکت در فروشگاه و محل دقیق کالاها را تنها به گروهی از افراد پیشنهاد میداد تا نتایج آن با دیگران مقایسه شود. در مقایسه با کارکنانی که از راهنمایی هوش مصنوعی بهرهمند نبودند، افرادی که از این سیستم استفاده کردند به آمارهای زیر دست یافتند: - کاهش ۳.۸۳ درصدی در نرخ مرجوعی کالاها که به افزایش کیفیت سفارشها منجر شد. - بهبود ۳.۲۹ درصدی در سرعت پیدا کردن و جمعآوری اجناس. - افزایش ۳.۱۶ درصدی در بهرهوری کلی کار. - افزایش ۳۲.۵ درصدی در جابهجایی و انجام خرید میان فروشگاههای مختلف که قابلیت انعطاف پذیرش سفارشها را بالا برد. تأثیر هوش مصنوعی و نقش تعیینکننده تجربه کاری محققان مشاهده کردند که تجربه کاری، شیوه استفاده مؤثر از هوش مصنوعی را تغییر میدهد. افراد کمتجربه وابستگی شدیدی به هوش مصنوعی پیدا کردند اما لزوماً خروجی بهتری نداشتهاند. در نقطه مقابل، نیروهای باتجربه توانستند پیشنهادات سیستم را با تحلیل و درک شخصی خود ترکیب کنند؛ بهویژه در خریدهای دشوار یا زمانهایی که حجم کار بهشدت سنگین بود. «بنجامین نایت»، از نویسندگان این مقاله و پژوهشگر شرکت Maplebear، میگوید: «این دیدگاه درحال گسترش است که هوش مصنوعی با بیاثر کردن تخصص، شرایط کاری را برای همه یکدست میکند، اما نتایج ما چنین چیزی را رد میکند. هوش مصنوعی زمانی بیشترین اثر را دارد که نیروها تجربه کافی داشته باشند تا بفهمند چه زمانی به سیستم اعتماد کنند و چه زمانی بر پایه قضاوت خود تصمیم بگیرند.» این یافتهها نشان میدهد که سازمانها برای بهرهگیری واقعی از هوش مصنوعی باید در کنار هزینههای خرید فناوری، روی مهارتآموزی و رشد کارکنان نیز سرمایهگذاری کنند. این ماجرا تنها به حوزه تحویل کالا مربوط نیست. امروزه صنایع گوناگون از خردهفروشی و حملونقل گرفته تا پزشکی و خدمات مشتریان از ابزارهای هوش مصنوعی برای نیروهای خط مقدم استفاده میکنند. پژوهش حاضر تأکید میکند که برگ برنده اصلی، بهکارگیری هوش مصنوعی بهعنوان بال کمکی مهارتهای انسانی است، نه حذف کامل نیروی انسانی. «سرگی نتسین»، استاد دانشگاه پنسیلوانیا و دیگر پژوهشگر این طرح، در جمعبندی میگوید: «هوش مصنوعی توان فوقالعادهای برای افزایش بهرهوری دارد، اما بههیچوجه جانشین تخصص انسان نمیشود. سازمانهایی که ابزارهای نوین را با ارتقای سطح توانایی کارکنان همراه میکنند، بیشترین بهره را از تمام ظرفیت هوش مصنوعی خواهند برد.»",
+        "impact": "تغییر استراتژی شرکت‌ها از تعدیل نیرو به سمت آموزش و توانمندسازی کارکنان با ابزارهای هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/ai-benefits-experienced-workers-study",
+        "clean_url": "https://digiato.com/artificial-intelligence/ai-benefits-experienced-workers-study",
+        "image": "http://www.bing.com/th?id=ONUT.gXw4wKJYynpk8Wl7zjPL9Q&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.gXw4wKJYynpk8Wl7zjPL9Q&pid=News",
+            "https://static.digiato.com/digiato/2026/08/ai-help.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/ai-help-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/ai-help-workers-1024x682.jpg"
+        ],
+        "timestamp": 1787662800.0
+    },
+    {
         "id": "3d3c3181ee",
         "title_fa": "اجرای کاملاً محلی هوش مصنوعی بدون هزینه توکن با همکاری پرپلکسیتی و انویدیا",
         "title_en": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
@@ -473,6 +521,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787659250.0
+    },
+    {
+        "id": "085c8481e3",
+        "title_fa": "تبدیل پسماندهای پلاستیکی به کوکی‌های خوراکی با مهندسی ژنتیک",
+        "title_en": "دانشمندان پسماندهای پلاستیکی را به کوکی‌های خوراکی تبدیل کردند",
+        "summary": [
+            "محققان با ترکیب بطری‌های پلاستیکی PET و ضایعات کشاورزی، خوراکی عطر‌داری به نام میکروبایتس تولید کردند.",
+            "مخمرهای اصلاح‌شده با کریسپر، کربن حاصل از تجزیه پلاستیک را به پروتئین، چربی و وانیلین تبدیل می‌کنند.",
+            "این فناوری با حمایت ناسا برای تامین غذای فضانوردان و شرایط بحرانی روی زمین توسعه یافته است."
+        ],
+        "full_text": "پژوهشگران دانشگاه ایلینوی جنوبی کاربوندیل روشی برای تبدیل بطریهای پلاستیکی ضایعاتی و پسماندهای کشاورزی به خوراکیهایی شبیه کوکی با طعم وانیل توسعه دادهاند. این دستاورد با هدف مقابله با بحران آلودگی پلاستیک و کمبود مواد غذایی انجام شده است. به گزارش ساینسآلرت، این محصول غذایی میکروبایتس (µBites) نامگذاری شده است و فرایند تولید آن ۳۳ مرحله دارد. در مرحله اول، بطریهای پلاستیکی از جنس پلیاتیلن ترفتالات (PET) به همراه ساقهها و برگهای به جا مانده از کشت ذرت، تحت فرایندی به نام انحلال هیدروترمال اکسایشی قرار میگیرند. در این فرایند، مواد اولیه با حرارت، اکسیژن و فشار بالا به اجزای کربنی پایهای و مایع خوراک تبدیل میشوند. در گام بعدی، این مایع خوراکی به مخمرهایی داده میشود که با فناوری ویرایش ژنتیکی کریسپر دستکاری شدهاند. این مخمرها کربن موجود در مایع را به ترکیبات مغذی مانند پروتئینها، چربیها، اسیدها، بتاکاروتن و وانیلین تبدیل میکنند. ماده بتاکاروتن پیشساز ویتامین A در بدن است و وانیلین نیز عطر و طعم وانیل را ایجاد میکند. در آخر با افزودن فیبر، نشاسته و شیرینکننده به این ترکیب، خمیر حاصل وارد پرینتر سهبعدی مواد غذایی شده و پس از شکلدهی، در مایکروویو پخته و سخت میشود. تبدیل پسماندهای پلاستیکی و کشاورزی به کوکیهای خوراکی ایده این پژوهش اولینبار در برنامه ناسا برای پیداکردن فناوریهای جدید تولید غذا در مأموریتهای طولانیمدت فضایی شکل گرفت. به گفته پژوهشگران، دستگاه طراحیشده برای این فرایند قابلیت حمل دارد و در آزمایشهای آزمایشگاهی مستقل از نظر عدم وجود مواد شیمیایی سمی، فلزات سنگین، مواد آلرژیزا و بیماریزا بررسی شده است. فرایند فعلی بیش از ۵۰ درصد از کربن موجود در پسماندها را به ماده غذایی تبدیل میکند و پژوهشگران در تلاش هستند تا این میزان را در نسخههای بعدی به نزدیک ۱۰۰ درصد برسانند. با آنکه این طرح در قالب کوکی ارائه شده، اجزای تولیدشده قابل استفاده برای ساخت جایگزینهایی برای شیر، گوشت و خوراک دام نیز هستند. به گفته تیم سازنده، دستگاههای ساخت میکروبایتس میتوانند در محیطهای سخت مانند زیردریاییها، خودروهای امداد در مناطق بحرانزده، قطب شمال، کویر و در آینده در مأموریتهای فضایی ماه و مریخ برای تولید آنی غذا به کار گرفته شوند. البته محققان تا زمان دریافت تأییدیه رسمی دانشگاه برای ایمنی محصول، آن را نچشیدهاند، اما آزمایشهای حسشناسی نشان داده که این کوکی عطر و بافت ظاهری مناسبی دارد. «ساندیا جایاسکارا»، یکی از پژوهشگران این پروژه، درباره محصول تولیدشده گفت: «فکر میکنم این محصول رایحه خوشایند و جذابی دارد. حتماً طعم خوبی هم خواهد داشت. ما هنوز آن را نچشیدهایم، اما مطمئناً بوی خوبی دارد؛ شبیه یک کوکی واقعی است.» یافتههای این پژوهش در ژورنال Trends in Biotechnology منتشر شده است.",
+        "impact": "گامی نوآورانه در حل همزمان بحران آلودگی پلاستیک و تامین غذای اضطراری.",
+        "tag": "بیوتکنولوژی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/interdisciplinary/plastic-bottles-converted-into-edible-vanilla-cookies",
+        "clean_url": "https://digiato.com/interdisciplinary/plastic-bottles-converted-into-edible-vanilla-cookies",
+        "image": "http://www.bing.com/th?id=ONUT.2DYNZiu8aQjsY9ku00Jo6Q&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.2DYNZiu8aQjsY9ku00Jo6Q&pid=News",
+            "https://static.digiato.com/digiato/2026/08/F26-Plastic-Cookies-HR-1.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/F26-Plastic-Cookies-HR-1.jpg-644x424.webp",
+            "https://static.digiato.com/digiato/2026/08/microBites-yeast.png.webp"
+        ],
+        "timestamp": 1787659200.0
     },
     {
         "id": "0b79d65b20",
@@ -930,6 +1004,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787639475.0
+    },
+    {
+        "id": "a2140492f6",
+        "title_fa": "رونمایی اپل از مک مینی و مک استودیو با تراشه‌های M6 و M5 اولترا",
+        "title_en": "Where to preorder the updated Mac Mini and Mac Studio",
+        "summary": [
+            "اپل در اقدامی غافلگیرکننده نسل جدید مک مینی را با پردازنده‌های M6 و M5 پرو با قیمت پایه ۸۹۹ دلار برای پیش‌فروش عرضه کرد.",
+            "مک استودیو نیز با تراشه‌های قدرتمند M5 مکس و M5 اولترا و پشتیبانی از ۵۱۲ گیگابایت رم با قیمت پایه ۲۴۹۹ دلار به‌روزرسانی شد.",
+            "تمرکز اصلی این کامپیوترها ارتقای جهشی قدرت پردازش هوش مصنوعی محلی، پشتیبانی از Wi-Fi 7، بلوتوث ۶ و پورت شبکه ۲.۵ گیگابیتی است."
+        ],
+        "full_text": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $899, $300 more than the M4-equipped base model from 2024, and the Mac Studio starts at $2,499, the same price as the current M4 Max model. Where to preorder the updated Mac Mini and Mac Studio Apple’s surprise Mac Mini and Mac Studio updates roll in new processor options, and they’re available for preorder. Apple’s surprise Mac Mini and Mac Studio updates roll in new processor options, and they’re available for preorder. The announcement comes just a few weeks ahead of Apple’s usual timing for an annual iPhone event. The upgraded macOS computers focus on AI performance and improved connectivity, with Apple making a variety of claims about performance gains compared to the previous models. Make sure to check out our full announcement posts for the Mac Mini and Mac Studio for all the details. How to preorder the Mac Mini The Mac Mini with the M6 chip starts at $899 at Apple, while the version with the M5 Pro starts at $1,699. The previous generation Mac Mini only featured the M4 and M4 Max chips, so this represents a big upgrade for Apple’s most compact desktop. Aside from the processor upgrades, the new Mini has improved connectivity, notably sporting 2.5Gb Ethernet as a baseline, as well as Bluetooth 6 and Wi-Fi 7. How to preorder the Mac Studio The updated Mac Studio with the M5 Max chip (plus 36GB of unified memory and 512GB of storage) starts at $2,499 at Apple, while the M5 Ultra version with 96GB of RAM and a 1TB SSD starts at $5,499. While the base models will start shipping on September 22nd, the configurations with a whopping 512GB of RAM (price not yet announced) won’t be available until late October. Most Popular - Android is getting its own weird dots to cure car sickness - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - Raspberry Pi shares its official tutorial for making a cyberdeck - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+        "impact": "ارتقای جدی سخت‌افزاری اپل برای اجرای محلی مدل‌های سنگین هوش مصنوعی روی کامپیوترهای دسکتاپ.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.6,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+        "clean_url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+        "image": "http://www.bing.com/th?id=ONUT.rfFJtIvkGWwz5UgxZTOBag&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.rfFJtIvkGWwz5UgxZTOBag&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787637660.0
     },
     {
         "id": "74c61458b9",
