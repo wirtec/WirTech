@@ -1,5 +1,71 @@
 [
     {
+        "id": "fc4a6e0532",
+        "title_fa": "ناسا استفاده از هوش مصنوعی مولد را در مسابقات دانش‌آموزی ممنوع کرد",
+        "title_en": "NASA bans generative AI from 2027 Student Launch | ETIH EdTech News",
+        "summary": [
+            "ناسا اعلام کرد که از سال ۲۰۲۷ استفاده از هوش مصنوعی مولد در رقابت‌های مهندسی و موشکی دانش‌آموزی ممنوع خواهد بود.",
+            "این تصمیم با هدف حصول اطمینان از تفکر انتقادی، حل مسئله و یادگیری اصولی مهارت‌های مهندسی توسط دانش‌آموزان اتخاذ شده است."
+        ],
+        "full_text": "NASA bans generative AI from 2027 Student Launch | ETIH EdTech News  EdTech Innovation Hub",
+        "impact": "تأکید بر حفظ مهارت‌های پایه مهندسی و جلوگیری از اتکای بیش از حد نسل جدید به ابزارهای مولد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "EdTech Innovation Hub",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2lIZTVLTVQzd1RXZ1Bud0FDckNYdlNYLU8ycWIwT3hQSDA5X0liMlhWZmxINzRXMHlLU3pob2Roa25IOVNGZ3M1YUprNDJQc3NjTHhJXy1HenRXYVVvUGJBQWJYTG92ck5VM01EYl82aHd4RC0xbXI0Q2dzRUpjQVBtT19QaHUweEh2OHdudXFUemhqUUpHX19pNTFHQW9O?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2lIZTVLTVQzd1RXZ1Bud0FDckNYdlNYLU8ycWIwT3hQSDA5X0liMlhWZmxINzRXMHlLU3pob2Roa25IOVNGZ3M1YUprNDJQc3NjTHhJXy1HenRXYVVvUGJBQWJYTG92ck5VM01EYl82aHd4RC0xbXI0Q2dzRUpjQVBtT19QaHUweEh2OHdudXFUemhqUUpHX19pNTFHQW9O",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787699265.0
+    },
+    {
+        "id": "9b115297d4",
+        "title_fa": "متا دوباره انتشار مدل جدید هوش مصنوعی خود را به تعویق انداخت",
+        "title_en": "Meta Delays Its Next Big AI Launch – Again",
+        "summary": [
+            "متا برای چندمین بار رونمایی از مدل بزرگ بعدی هوش مصنوعی خود را عقب انداخت.",
+            "این تاخیر نشان‌دهنده چالش‌های فنی و حساسیت‌های ایمنی در رقابت سنگین با غول‌هایی مثل OpenAI و گوگل است."
+        ],
+        "full_text": "Meta Delays Its Next Big AI Launch – Again  TechRepublic",
+        "impact": "کند شدن موقت ریتم رقابت متا با رقبای اصلی در بازار مدل‌های بزرگ زبانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "TechRepublic",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787698230.0
+    },
+    {
+        "id": "189df6ba48",
+        "title_fa": "ارزیابی توانایی هوش مصنوعی در بازتولید مقالات علمی",
+        "title_en": "Researchers presented 6000 papers at a major meeting. Could AI reproduce their findings?",
+        "summary": [
+            "در پژوهشی تازه مشخص شد هوش مصنوعی توانسته ادعای دست‌کم یک بخش از ۲۲۲۶ مقاله علمی را به‌صورت مستقل تأیید کند.",
+            "از این میان، تنها ۲۶۶ مقاله به‌طور کامل توسط AI بازتولید شدند و ۵۰۲ مقاله فقط شواهد مقیاس‌کوچک داشتند که نشان‌دهنده چالش‌های فعلی در تکرارپذیری است."
+        ],
+        "full_text": "Roughly half of the 2226 papers examined had at least one reported result that the AI independently verified, including 266 that had all their results reproduced. An additional 502 had only toy-scale evidence, whereas 280 papers were judged inconclusive because of factors such as unavailable data.",
+        "impact": "افزایش سرعت اعتبارسنجی پژوهش‌های علمی و کشف اختلال‌های متدولوژیک در مقالات.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "Science",
+        "url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
+        "clean_url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
+        "image": "https://www.science.org/cms/asset/145f54ad-6a62-44fc-a44b-734ca2b7c5f5/_20260825_on_ai_replication.jpg",
+        "images": [
+            "https://www.science.org/cms/asset/145f54ad-6a62-44fc-a44b-734ca2b7c5f5/_20260825_on_ai_replication.jpg"
+        ],
+        "timestamp": 1787696040.0
+    },
+    {
         "id": "d03620f847",
         "title_fa": "جهش بعدی هوش مصنوعی از علم فیزیک رقم می‌خورد",
         "title_en": "Next AI Breakthrough Could Come From Physics, Says Max Welling",
@@ -20,6 +86,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787692142.0
+    },
+    {
+        "id": "2c31ccc7aa",
+        "title_fa": "همکاری استارتاپ Tranquility AI برای حل پرونده‌های جنایی بایگانی‌شده",
+        "title_en": "Tranquility AI Partners With University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative",
+        "summary": [
+            "استارتاپ Tranquility AI با همکاری دانشگاه کارولینای جنوبی، نخستین برنامه آموزش عدلیه و کشف پرونده‌های راکد را با کمک هوش مصنوعی کلید زد.",
+            "این سامانه با تحلیل دقیق داده‌ها و سرنخ‌های قدیمی به کارآگاهان کمک می‌کند پرونده‌های جنایی حل‌نشده را دوباره به جریان بیندازند."
+        ],
+        "full_text": "Tranquility AI Partners With University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative  Police1",
+        "impact": "ورود عملیاتی هوش مصنوعی به سیستم‌های جنایی و حقوقی برای تسریع در تحلیل پرونده‌های معوقه.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Police1",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOckJ2d3ZUQ0luR0VXdllHV2tXRTVHSldrbVpoVWtTcWxQZy12WWJlY2ozeVdBbGlUOG4tUUgwQ2JOQ3pBZEFWMHZWQ1pWdzlTaS1MWUpNZ0VCZWo2eXAzZ2xWbmpfX0t1X1lhQmFDWm9peHVtYVFSc2V1Q09FaGdDUDVtWDNQWnZkLUNvWEVHcHhKMUtVSUZaZFE0YVV6Zzl3eG5oLUNGY19Cb2dEVE9UbGNzZUFRSDJ4eXlFTWJDMmhuUTQzYUJEaTFOT3JhS0FlOUc5WkdfZzFFRVlOWkUtTGpsZHNEb2JTSXZENUVvNWs2QXM5QnluY2pPdFR5ZVBsVDBpdVhSdUJ6ZnRDOGlZbTRlUV9uSUxnWDg3cmVjQkRPN2lVRHphMDNUVXFnTXgzei0zLU5OeEZiUDlyUzA3T0RR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOckJ2d3ZUQ0luR0VXdllHV2tXRTVHSldrbVpoVWtTcWxQZy12WWJlY2ozeVdBbGlUOG4tUUgwQ2JOQ3pBZEFWMHZWQ1pWdzlTaS1MWUpNZ0VCZWo2eXAzZ2xWbmpfX0t1X1lhQmFDWm9peHVtYVFSc2V1Q09FaGdDUDVtWDNQWnZkLUNvWEVHcHhKMUtVSUZaZFE0YVV6Zzl3eG5oLUNGY19Cb2dEVE9UbGNzZUFRSDJ4eXlFTWJDMmhuUTQzYUJEaTFOT3JhS0FlOUc5WkdfZzFFRVlOWkUtTGpsZHNEb2JTSXZENUVvNWs2QXM5QnluY2pPdFR5ZVBsVDBpdVhSdUJ6ZnRDOGlZbTRlUV9uSUxnWDg3cmVjQkRPN2lVRHphMDNUVXFnTXgzei0zLU5OeEZiUDlyUzA3T0RR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787688859.0
     },
     {
         "id": "d29afbb481",
@@ -696,6 +784,29 @@
         "timestamp": 1787653920.0
     },
     {
+        "id": "5f10f6f399",
+        "title_fa": "تأکید مجلس بر تمرکز سیاست‌گذاری هوش مصنوعی در یک سازمان واحد",
+        "title_en": "سازمان هوش مصنوعی باید مرجع سیاست‌گذاری این حوزه باشد/ وقت بهره‌گیری از هوش مصنوعی در اقتصاد است",
+        "summary": [
+            "عضو فراکسیون هوش مصنوعی مجلس اعلام کرد تشکیل سازمان هوش مصنوعی جلوی موازی‌کاری‌ها را می‌گیرد و برنامه‌ریزی ملی را منسجم می‌کند.",
+            "به گفته وی بیشترین پیشرفت‌های ملموس هوش مصنوعی ایران در صنایع دفاعی بوده و اکنون باید ارتباط صنعت و دانشگاه برای ورود AI به اقتصاد تقویت شود."
+        ],
+        "full_text": "«سیدعلی یزدیخواه» عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس شورای اسلامی، در گفتوگو با خبرنگار پارلمانی خبرگزاری آنا، در پاسخ به این سؤال که با توجه به درخشش نخبگان ایرانی در مسابقات هوش مصنوعی، وضعیت صنعت و تولید کشور از نظر استفاده از این فناوری چگونه است، اظهار کرد: استفاده از هوش مصنوعی در صنایع کشور از سالهای گذشته آغاز شده و اکنون در حال توسعه و گسترش است. وی افزود: اگر به خطوط تولید و همچنین حوزههای مطالعاتی و پژوهشی کشور مراجعه کنیم، مشاهده میشود که استفاده از هوش مصنوعی در بخشهای مختلف از سالهای گذشته مورد توجه قرار گرفته است و اکنون نیز تنوعبخشی به کاربردهای این فناوری در دستور کار قرار دارد. عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس با اشاره به توانمندی نخبگان ایرانی در عرصههای علمی گفت: جوانان ایرانی همواره در المپیادهای جهانی در رشتههای مختلف از جمله ریاضی، نجوم و رایانه توانمندی خود را به اثبات رساندهاند و در حوزه هوش مصنوعی نیز اخیراً شاهد درخشش و کسب جایگاههای برتر از سوی نخبگان کشور بودهایم. یزدیخواه با اشاره به اقدامات انجامشده برای ساماندهی حوزه هوش مصنوعی در کشور تصریح کرد: راهاندازی سازمان هوش مصنوعی میتواند از موازیکاری در این حوزه جلوگیری کند و زمینه را برای سیاستگذاری و برنامهریزی منسجمتر فراهم سازد. امیدواریم جمهوری اسلامی ایران همانگونه که در سطح منطقه و کشورهای اسلامی جایگاه قابل توجهی دارد، در حوزه هوش مصنوعی نیز بتواند با سرعت بیشتری مسیر پیشرفت خود را دنبال کند. وی همچنین درباره کاربردهای هوش مصنوعی در حوزههای دفاعی و نظامی تاکید کرد: یکی از عرصههایی که استفاده از فناوریهای نوین و هوش مصنوعی در آن مشهود است، حوزه تسلیحات نظامی است. بهعنوان نمونه، در موشکهای هایپرسونیک و مدلهای مختلف آن، قابلیتهایی از جمله تغییر مسیر پروازی و فریب سامانههای پدافندی دشمن مورد استفاده قرار میگیرد که نشاندهنده توانمندی متخصصان و نخبگان ایرانی در بهرهگیری از فناوریهای پیشرفته است. عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس ادامه داد: امیدواریم ارتباط میان بخشهای پژوهشی و حوزههای کاربردی بیش از گذشته تقویت شود تا کشور بتواند از ظرفیت هوش مصنوعی برای توسعه همهجانبه استفاده کند. ضرورت تقویت ارتباط دانشگاه و صنعت یزدیخواه در ادامه با اشاره به فاصله تاریخی میان دانشگاه و صنعت در کشور گفت: به نظر میرسد بخش قابل توجهی از پیشرفتهای ملموس در حوزه هوش مصنوعی تاکنون در عرصههایی مانند صنایع دفاعی و موشکی مشاهده شده است، اما برای بهرهگیری گستردهتر از این فناوری در سایر بخشها باید ارتباط میان دانشگاه و صنعت تقویت شود. وی تأکید کرد: همواره فاصلهای میان صنعت و دانشگاه در کشور وجود داشته است و باید اطلاعات و ظرفیتهای پژوهشی دانشگاهها بهگونهای به صنایع متصل شود که نتایج تحقیقات علمی مستقیماً در خدمت نیازهای صنعتی و توسعه کشور قرار گیرد. این نماینده مجلس افزود: این ارتباط نباید تنها به حوزه صنعت محدود شود، بلکه باید در بخشهای مختلف از جمله کشاورزی، خدمات، دامداری، دامپروری، باغبانی و سایر حوزههای اقتصادی نیز توسعه پیدا کند. وی خاطرنشان کرد: تقویت پیوند میان دانشگاه و صنعت امکانپذیر است و خوشبختانه این ارتباط روزبهروز در حال بهبود است. بسیاری از دانشگاهها نیز با توجه به نیازهای صنعتی و مسائل مرتبط با توسعه کشور، موضوعات پژوهشی خود را به سمت حل مسائل واقعی جامعه و صنایع هدایت میکنند. سازمان هوش مصنوعی باید مرجعیت این حوزه را تقویت کند عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس درباره اقدامات مجلس برای تسریع در تصویب و ابلاغ سازوکارهای مربوط به سازمان هوش مصنوعی و جلوگیری از موازیکاری نیز گفت: یکی از موضوعات مهم، ایجاد یک مرجعیت مشخص برای سیاستگذاری و ارائه خدمات در حوزه هوش مصنوعی است تا دستگاههای مختلف بتوانند از ظرفیتهای موجود به شکل هماهنگ استفاده کنند. یزدیخواه اظهار کرد: باید بهگونهای برنامهریزی شود که سازمان هوش مصنوعی بتواند مرجعیت خود را در ارائه خدمات و سیاستگذاری این حوزه تقویت کند و دستگاههای اجرایی و مراکز علمی و پژوهشی نیز از این ظرفیت بهرهمند شوند. وی ادامه داد: مؤسسات پژوهشی و علمی، مجتمعهای دامداری و دامپروری، بخشهای کشاورزی و باغبانی و مجموعههای فعال در حوزه خدمات کشاورزی و همچنین صنایع مختلف میتوانند از ظرفیتهای هوش مصنوعی برای افزایش بهرهوری و حل مسائل خود استفاده کنند. یزدیخواه با اشاره به اهمیت بخش خدمات در اقتصاد کشور گفت: بخش قابل توجهی از حجم اقتصاد کشور به حوزه خدمات اختصاص دارد و لازم است ظرفیت هوش مصنوعی در این بخش نیز بیش از گذشته مورد استفاده قرار گیرد. وی در پایان تأکید کرد: یکی از مهمترین کارکردهای هوش مصنوعی میتواند ایجاد ارتباط و همافزایی میان ظرفیتهای دستگاههای مختلف باشد. اگر این ظرفیتها به شکل منسجم به یکدیگر متصل شوند، میتوان از هوش مصنوعی برای افزایش بهرهوری، توسعه اقتصادی و پیشرفت همهجانبه کشور استفاده کرد. انتهای پیام/",
+        "impact": "تمرکز بر یکپارچه‌سازی متولی هوش مصنوعی در کشور و تلاش برای ورود این فناوری به اقتصاد غیرنظامی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "آنا",
+        "url": "https://ana.ir/fa/news/1077795/سازمان-هوش-مصنوعی-باید-مرجع-سیاست-گذاری-این-حوزه-باشد-وقت-بهره-گیری-از-هوش-مصنوعی-در-اقتصاد-است",
+        "clean_url": "https://ana.ir/fa/news/1077795/سازمان-هوش-مصنوعی-باید-مرجع-سیاست-گذاری-این-حوزه-باشد-وقت-بهره-گیری-از-هوش-مصنوعی-در-اقتصاد-است",
+        "image": "http://www.bing.com/th?id=ONUT.X4BJpi5q-etW2GEtiNJOmw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.X4BJpi5q-etW2GEtiNJOmw&pid=News",
+            "https://ana.ir/media/50dcbb8eZTp3ZWJwfGY6MTE4MTk2MC5qcGd8ZnVpOjExNzEyMTN8bDpmYXx2OjE.webp"
+        ],
+        "timestamp": 1787652120.0
+    },
+    {
         "id": "f959a4f887",
         "title_fa": "پشتیبانی انویدیا زی‌فورس نا‌و از دسته استیم و ویژگی‌های جدید DLSS",
         "title_en": "GeForce Now is getting support for the Steam Controller",
@@ -883,6 +994,31 @@
         "timestamp": 1787644800.0
     },
     {
+        "id": "a82f186f99",
+        "title_fa": "هشدار اتحادیه اروپا درباره خطر از دست رفتن کنترل بر هوش مصنوعی",
+        "title_en": "هشدار اتحادیه اروپا درباره از دست رفتن کنترل انسانی بر هوش مصنوعی",
+        "summary": [
+            "معاون کمیسیون اروپا پیشرفت سریع هوش مصنوعی را خطری امنیتی دانست و بر ضرورت حفظ کنترل نهایی انسان تاکید کرد.",
+            "اتحادیه اروپا قصد دارد با اجرای دقیق «قانون هوش مصنوعی» شرکت‌ها را به ارزیابی مداوم ریسک‌ها و رعایت استانداردهای ایمنی ملزم کند."
+        ],
+        "full_text": "یک مقام ارشد فناوری اتحادیه اروپا میگوید: «این فناوریها چنان بهسرعت در حال پیشرفت هستند که وجود تدابیر حفاظتی، امری ضروری است.» فرارو- هنا ویرکونن، معاون اجرایی کمیسیون اروپا در امور حاکمیت فناوری، امنیت و دموکراسی، روز سهشنبه نسبت به خطرات خارج شدن هوش مصنوعی از کنترل انسان هشدار داد. به گزارش فرارو به نقل از آناتولی، ویرکونن به شبکه رادیو-تلویزیونی فنلاند (Yle) گفت که اتحادیه اروپا احتمال از دست رفتن کنترل انسان بر هوش مصنوعی را یکی از جدیترین خطرات امنیتی میداند. او اظهار داشت: «این فناوریها با چنان سرعتی پیشرفت میکنند که وجود تدابیر حفاظتی امری ضروری است.» ویرکونن بر لزوم تضمین فعالیت این فناوریها در چارچوب محدودیتهای امنیتی مشخص و حفظ کنترل نهایی توسط انسان تأکید کرد. وی همچنین با اشاره به «قانون هوش مصنوعی» اتحادیه اروپا که ارائهدهندگان را ملزم به ارزیابی مداوم خطرات و حفظ سازوکارهای ایمنی تعیینشده میکند بر اهمیت رسیدگی این اتحادیه به خطرات احتمالی از طریق وضع مقررات تأکید ورزید. ویرکونن گفت: «نمیگویم که از آن هراس دارم، اما قطعاً این خطری است که مد نظر قرار گرفته و باید همچنان مورد توجه باشد. ما باید اطمینان حاصل کنیم که مدلهای هوش مصنوعی ایمن هستند و بهطور مداوم از جمله پس از ورود به بازار ارزیابی و نظارت میشوند.» او ضمن تأکید مجدد بر ضرورت همکاریهای بینالمللی، خاطرنشان کرد که بازیگران بینالمللی مقررات اتحادیه اروپا را مد نظر قرار میدهند. وی افزود: «بدین ترتیب، اروپا در تعیین استانداردهای هوش مصنوعی نیز نقش ایفا میکند.»",
+        "impact": "تشدید نظارت‌های سخت‌گیرانه قانونی بر توسعه‌دهندگان بزرگ هوش مصنوعی در بازار اروپا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "فرارو",
+        "url": "https://fararu.com/fa/news/997163/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
+        "clean_url": "https://fararu.com/fa/news/997163/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
+        "image": "http://www.bing.com/th?id=ONUT.TwVF4uSTAWAx9MgaMFuHaA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.TwVF4uSTAWAx9MgaMFuHaA&pid=News",
+            "https://cdn.fararu.com/thumbnail/iyiuFFbHxqCR/Sn0L2nPUql70JvWKCSFhgjQBC30QpIQxLG2WtxSRrBVN8tMmtn3jTGta76qT6idvxEiGucHcHM0ItvAeZJjG8ruWcKv1QNQmtpkwzJHa1QH2vx8i4q2hgrnXiCkOoeOI/%D8%A2%DA%AF%D8%A7%D9%87%DB%8C+%D9%87%D9%88%D8%B4+%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C.jpg",
+            "https://cdn.fararu.com/servev2/fFTLRjWPzyj9/Hvt3sGUk0IC1J0NVn-vCYnANhkfemg62Xjy6doxg-bN9aSgWlx3-doJTu0qh1Z6K6KIVfKQCJY3dmejmyqlMvQ,,/%D8%A2%DA%AF%D8%A7%D9%87+%D8%B5%D9%81%D8%AD%D9%87+%D8%AE%D8%A8%D8%B1.gif",
+            "https://cdn.fararu.com/thumbnail/Aa3hEHP7IySK/LpKAQizaulsVHgXdpA1c0tcEGAoDGnp6m-_nw7gGS4V77hS2utrRsnmZVw1OLnllLK1KQuXpIeRSzMk_1x3Unyix0SSzsduErG1ZgNdblyIuL8lfXkiZfYqkaj6VmxzvFWEieLomEX6eUfVWxeX56fzMBxgNxykvAX-L4d6MhFNMtsGjDgkxyMBMTk47L1Or/%D8%AF%D8%B3%D8%B1+%D9%86%D8%A7%D9%BE%D9%88%D9%84%DB%8C.jpg"
+        ],
+        "timestamp": 1787642580.0
+    },
+    {
         "id": "f093ffa6da",
         "title_fa": "هشدار به سرمایه‌گذاران درباره حباب ارزش‌گذاری شرکت آرکیت کوانتوم",
         "title_en": "Arqit Quantum: The Little Boat That Couldn't",
@@ -1030,6 +1166,32 @@
             "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
         ],
         "timestamp": 1787637660.0
+    },
+    {
+        "id": "d0129d4fd7",
+        "title_fa": "اپل از مک استودیو جدید با غول M5 Ultra رونمایی کرد",
+        "title_en": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+        "summary": [
+            "اپل بالاخره با معرفی تراشه M5 Ultra معماری پردازشی مک استودیو را یکپارچه کرد تا قوی‌ترین سیستم رومیزی خود را تحویل خوارزم‌دوستان دهد.",
+            "تراشه M5 Ultra از اتصال دو چیپ M5 Max ساخته شده و با ۸۰ هسته گرافیکی و ۱.۲ ترابایت بر ثانیه پهنای باند حافظه، تا ۴.۳ برابر پردازش AI سریع‌تری ارائه می‌دهد.",
+            "قیمت پایه مدل M5 Max از ۲۴۹۹ دلار و مدل قدرتمند M5 Ultra از ۵۴۹۹ دلار شروع می‌شود که امکان سفارش تا ۵۱۲ گیگابایت حافظه یکپارچه را دارد."
+        ],
+        "full_text": "Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings. (The older-sounding M3 Ultra was actually the more powerful one, and there was never an M4 Ultra chip.) The new Studios look identical to previous generations, utilizing the same small-form-factor chassis since its introduction in 2022 (right down to the USB-A ports on the rear), but inside are Apple’s most powerful SoCs. Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra The highest-end Mac desktop starts at $2,499 with an M5 Max or $5,499 with an M5 Ultra. The highest-end Mac desktop starts at $2,499 with an M5 Max or $5,499 with an M5 Ultra. The new Mac Studio with the existing M5 Max chip comes with 36GB of unified memory and 512GB of storage, starting at $2,499. That matches the current starting price of the M4 Max model after its $500 price hike in June. The new $5,499 M5 Ultra model starts with 96GB of memory and 1TB of storage. That’s only $200 more than the starting price of the outgoing M3 Ultra model, but keep in mind the M3 Ultra launched at a much lower $3,999 last year. These new Studios are set to arrive running macOS 27 Golden Gate on September 22nd, alongside the new Mac Minis. But its highest-end M5 Ultra configuration with a whopping 512GB of memory is coming in late October with pricing TBD for now — though it’s best we start bracing ourselves for the eventual sticker shock. These are chip bumps through and through, but what bumps they are. While the RAM and storage amounts for the new Mac Studios match their predecessors, like recent MacBooks, they have storage that’s twice as fast. In its press release, Apple describes the new Studios as “A monumental step for AI” with a claim of up 4.3x faster AI compute in the M5 Ultra. But even when it comes to raw CPU and GPU performance, the M5 Ultra and its up to 36-core CPU and 80-core GPU are said to have up to 1.8x faster graphics and 1.3x faster CPU speed than the M3 Ultra. The memory bandwidth of the M5 Ultra is now up to 1.2TB per second — as if the M3 Ultra’s 819GB per second didn’t sound fast enough. Apple achieved all this in the M5 Ultra by using its next-gen UltraFusion connection to merge two dual-die M5 Max chips together into a quad-die architecture. And it’s why Apple isn’t mincing words by advertising the M5 Ultra as “the most powerful chip ever.” But the Mac Studios also pack another, more pedestrian upgrade for a slight quality-of-life improvement: Wi-Fi 7 and Bluetooth 6 support. With the recent sunsetting of its Mac Pro line of desktops, these Mac Studios are as powerful as Apple computers get. And they’re small enough to fit under your monitor (or up to four of Apple’s 5K / 120Hz Studio Display XDR monitors running at full resolution). But thanks to RAMageddon, Apple’s most powerful chip and its fastest Macs ever are also much pricier than their predecessors were just a short while ago. Most Popular - Android is getting its own weird dots to cure car sickness - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra - Raspberry Pi shares its official tutorial for making a cyberdeck",
+        "impact": "جهش چشمگیر قدرت پردازش محلی مدل‌های سنگین هوش مصنوعی روی سیستم‌های رومیزی اپل.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+        "clean_url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+        "image": "http://www.bing.com/th?id=ONUT.RfrUOsLGDiHKA1815Yjd4A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.RfrUOsLGDiHKA1815Yjd4A&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-STUDIOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195792/ANTONIO_DI_BENEDETTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787637600.0
     },
     {
         "id": "74c61458b9",
