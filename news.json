@@ -1,5 +1,49 @@
 [
     {
+        "id": "cefe1ffed9",
+        "title_fa": "رونمایی ATTOM از شاخص قیمت مسکن مبتنی بر هوش مصنوعی",
+        "title_en": "ATTOM EXPANDS AI-POWERED PROPERTY INTELLIGENCE WITH LAUNCH OF HYPERLOCAL HOME PRICE INDEX",
+        "summary": [
+            "شرکت داده‌های املاک ATTOM شاخص جدیدی برای تخمین دقیق‌تر قیمت مسکن در سطح محلی راه‌اندازی کرده است.",
+            "این سیستم با الگوریتم‌های هوش مصنوعی روند تغییرات قیمت خانه را در ابعاد جغرافیایی بسیار کوچک تحلیل می‌کند."
+        ],
+        "full_text": "ATTOM EXPANDS AI-POWERED PROPERTY INTELLIGENCE WITH LAUNCH OF HYPERLOCAL HOME PRICE INDEX  Yahoo Finance Singapore",
+        "impact": "افزایش شفافیت قیمت‌گذاری در بازار مسکن و کمک به تصمیم‌گیری دقیق‌تر خریداران و سرمایه‌گذاران.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzkyWDBEM1ZfQ3hWVmJTdUh4eGtyTEpvOGxwZUl0WUYwSFloOFAwYjNPY2x3RWNaYmRHVjkzRVI0QUxFcDcxM25SXzVOeHplYlZ4Z2dnc2RCWmQ0Z3lMWXI4dU1MNVVIaGhZVklGQkI2ajlWTmhJN2xtQ1YzcVMyejFjZWE5TE56d2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzkyWDBEM1ZfQ3hWVmJTdUh4eGtyTEpvOGxwZUl0WUYwSFloOFAwYjNPY2x3RWNaYmRHVjkzRVI0QUxFcDcxM25SXzVOeHplYlZ4Z2dnc2RCWmQ0Z3lMWXI4dU1MNVVIaGhZVklGQkI2ajlWTmhJN2xtQ1YzcVMyejFjZWE5TE56d2c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787673600.0
+    },
+    {
+        "id": "b0769bb731",
+        "title_fa": "سرمایه‌گذاری ۴۵ میلیون دلاری برای توسعه آموزش‌های فنی و دفاعی",
+        "title_en": "New England Institute of Technology, Electric Boat launch $45M expansion project",
+        "summary": [
+            "این پروژه مشترک با هدف آموزش نیروهای متخصص برای صنایع دریایی و دفاعی کلید خورده است.",
+            "سرمایه‌گذاری فوق کارگاه‌ها و زیرساخت‌های آموزشی دانشگاه نیوانگلند را برای تأمین نیروی کار مورد نیاز گسترش می‌دهد."
+        ],
+        "full_text": "New England Institute of Technology, Electric Boat launch $45M expansion project  Providence Business News",
+        "impact": "تقویت زیرساخت‌های آموزشی صنعتی و جبران کمبود نیروی متخصص در بخش ساخت شناور و صنایع دفاعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Providence Business News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1QyWGVmbm9aeEhzWGNjeUlIeTZFMXlScHFoNHRrWWlybzNiT2JMVng5Yk5za19xS29RQlNFdHhJbU9hMHFyb1lNZUlqZmRuM3FvNU9KRFRPNngweDk4ZmlzVkdwVV9NN0hPNXFDeFFBSUZwSXgwNV9nZktnSERiV01DMGNKaW9KUi0tUEtmR1hZMms2Zzl6SnZjNNIBowFBVV95cUxOYjJLdmYzLUJ6bWNtYWQ4S3dHZHVYUHRONkEtVlh0ZXRiNXBlblFIOUNHaGxRRjlpZWpMRlU5emJaWUhFN0dBU3E3LTIzODUyUU1SQ3pjYmZpYTdLUzBpTmd3TW1CN1kxYldVZWJBSXM3Z0VZYWRLMnQ2Z2hMREExT2dPbkN3cXJBc2xfTG1pLXJyR0FMcUNwVVJvXzZkc1c2aWdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1QyWGVmbm9aeEhzWGNjeUlIeTZFMXlScHFoNHRrWWlybzNiT2JMVng5Yk5za19xS29RQlNFdHhJbU9hMHFyb1lNZUlqZmRuM3FvNU9KRFRPNngweDk4ZmlzVkdwVV9NN0hPNXFDeFFBSUZwSXgwNV9nZktnSERiV01DMGNKaW9KUi0tUEtmR1hZMms2Zzl6SnZjNNIBowFBVV95cUxOYjJLdmYzLUJ6bWNtYWQ4S3dHZHVYUHRONkEtVlh0ZXRiNXBlblFIOUNHaGxRRjlpZWpMRlU5emJaWUhFN0dBU3E3LTIzODUyUU1SQ3pjYmZpYTdLUzBpTmd3TW1CN1kxYldVZWJBSXM3Z0VZYWRLMnQ2Z2hMREExT2dPbkN3cXJBc2xfTG1pLXJyR0FMcUNwVVJvXzZkc1c2aWdF",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787668311.0
+    },
+    {
         "id": "88a83d71a5",
         "title_fa": "رونمایی از پلتفرم هوشمند RISE برای مدیریت سازمان‌ها در عمان",
         "title_en": "Otech and Remedy Launch AI-Powered RISE Talent Platform to Drive Enterprise Performance in Oman",
@@ -338,6 +382,32 @@
         "timestamp": 1787645460.0
     },
     {
+        "id": "0a612dd613",
+        "title_fa": "تصاحب استارتاپ Lica توسط گاما برای ساخت آزمایشگاه طراحی AI",
+        "title_en": "Gamma acquires Accel-backed design startup Lica",
+        "summary": [
+            "گاما با تصاحب Lica قصد دارد ابزارهای ساخت پرزنتیشن خود را به قابلیت‌های پیشرفته تولید ویدیو و محتوای بصری مجهز کند.",
+            "بنیان‌گذاران Lica رهبری بخش جدید تحقیقات بصری گاما را بر عهده می‌گیرند تا تولید محتوا برای مخاطبان مختلف شخصی‌سازی شود.",
+            "این تصاحب دسترسی Lica به ۱۰۰ میلیون کاربر گاما را ممکن کرده و سرعت توسعه مدل‌های هوش مصنوعی مرتبط با ارتباطات بصری را بالا می‌برد."
+        ],
+        "full_text": "Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort. Lica started off as an app that could turn screenshots and recordings into project presentations and videos. Founded by Priyaa Kalyanaraman and Purvanshi Mehta in 2023, the company a year later raised $4 million from investors including Accel, South Park Commons, and Village Global. Over the past couple of years, it has focused on working with e-commerce sites to create marketing videos that adhere to brand guidelines. Kalyanaraman said Lica wanted to build AI models around communication methods, including video and design, and the founders were familiar with Gamma’s CEO, Lee Grant, as both companies are backed by Accel and South Park Commons. Those conversations eventually led to the acquisition. “We have a very similar North Star vision of wanting to make visual communication easy. We focused a lot on frontier research and making sure that became accessible to users. But that’s just one part of the solution. Gamma had focused a lot on building distribution, taking the application to 100 million-plus users. Given how fast things are moving, we decided to join forces,” Kalyanaraman told TechCrunch. Gamma will continue to focus on helping people build presentations, but like other design companies, it’s also started offering image generation. The company says it now wants to explore different formats of communication with the new research division. “Presentations for us are today a core use case, but how do we expand what presentations look and feel like, and how do people engage with them in the future? What visuals are possible? How interactive are they? These [questions] all require us to think deeply about the core responsibility of communication. This is why we’re excited to invest in this area, because we don’t think anybody else is thinking at that level,” Lee said. Lica’s Mehta said the new research division would work on customizing the presentation and communication styles of AI models for different audiences and tastes. “The point of the presentation is to communicate a large goal. We are thinking about building a platform where these two goals can be personalized to such an extent that you just get a really good output, and then you’re able to edit for different audiences,” she said. Gamma didn’t reveal what products it plans to build as a result of this acquisition, but it did say that it wants to create fluid, multimodal presentations and other communication modalities. AI presentation startups have received tons of investor attention and money over the last few years. Prezent raised $50 million in two rounds; Gamma raised $68 million at a $2.1 billion valuation; and Presentations.ai was also backed by Accel. We’re even starting to see some consolidation in this category: Earlier this month, OpenAI acquired NextSlide.",
+        "impact": "تقویت موقعیت گاما در بازار ابزارهای ارائه هوشمند و ورود جدی آن به حوزه تولید هوشمند ویدیو و گرافیک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+        "clean_url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
+        "image": "http://www.bing.com/th?id=ONUT.aSZlcF9pCHSjPPgJKud0Cw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.aSZlcF9pCHSjPPgJKud0Cw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
+            "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150"
+        ],
+        "timestamp": 1787644800.0
+    },
+    {
         "id": "f093ffa6da",
         "title_fa": "هشدار به سرمایه‌گذاران درباره حباب ارزش‌گذاری شرکت آرکیت کوانتوم",
         "title_en": "Arqit Quantum: The Little Boat That Couldn't",
@@ -455,6 +525,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787634360.0
+    },
+    {
+        "id": "406fad92d9",
+        "title_fa": "برنامه استارتاپ لجستیک Nauta برای جذب سرمایه ۳۰ میلیون دلاری",
+        "title_en": "Exclusive: Supply chain tech startup Nauta eyes $20M-$30M Series A",
+        "summary": [
+            "استارتاپ مدیریت زنجیره تأمین Nauta پس از بستن یک دور استراتژیک، به دنبال جذب سرمایه سری A است.",
+            "این سرمایه صرف توسعه پلتفرم هماهنگی لجستیک و بهینه‌سازی مسیرهای توزیع کالا خواهد شد."
+        ],
+        "full_text": "Nauta is targeting $20 million to $30 million in Series A funding after closing a strategic round, CEO Valentina Jordan tells Axios Pro exclusively. Why it matters: The logistics orchestration startup ...",
+        "impact": "تسریع دیجیتالی‌شدن زنجیره تأمین و کاهش هزینه‌های عملیاتی لجستیک در شرکت‌های بزرگ.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Axios on MSN",
+        "url": "https://www.msn.com/en-us/news/other/exclusive-supply-chain-tech-startup-nauta-eyes-20m-30m-series-a/ar-AA2aTmkE",
+        "clean_url": "https://www.msn.com/en-us/news/other/exclusive-supply-chain-tech-startup-nauta-eyes-20m-30m-series-a/ar-AA2aTmkE",
+        "image": "http://www.bing.com/th?id=ONUT.DygQkEVDrgOEla9JTJaOow&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.DygQkEVDrgOEla9JTJaOow&pid=News"
+        ],
+        "timestamp": 1787634006.0
     },
     {
         "id": "3c77a8e654",
@@ -610,6 +702,33 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787626860.0
+    },
+    {
+        "id": "bf0fdcd333",
+        "title_fa": "موج تازه جذب سرمایه استارتاپ‌های هند از موتور برقی تا بیمه AI",
+        "title_en": "Startup news and updates: daily roundup (August 25, 2026)",
+        "summary": [
+            "استارتاپ موتور برقی MATTER سرمایه‌ای ۲۵ میلیون دلاری برای توسعه خط تولید و عرضه ۴ موتورسیکلت جدید جذب کرد.",
+            "پلتفرم مدیریت ثروت Nexedge با جذب ۲۰ میلیون دلار قصد دارد خدمات مالی خود را به شهرهای کوچک‌تر هند گسترش دهد.",
+            "استارتاپ بیمه سلامت Staywell.Health با تکیه بر هوش مصنوعی سرمایه جدیدی برای تسریع فرآیند پرداخت خسارت دریافت کرد.",
+            "استارتاپ حوزه فناوری‌های اقلیمی CarbonStrong موفق به جذب سرمایه اولیه برای توسعه راه‌حل‌های کاهش کربن شد."
+        ],
+        "full_text": "YourStory brings you today’s headlines with the latest developments across sectors. After deciding not to seek another term as Tata Sons chairman when his tenure ends in February 2027, N Chandrasekaran could have several options for his next chapter.YourStoryexplores five plausible paths: public service or institution-building, backing startups, leading a national AI mission, becoming a private-equity operating partner, or leading another large company. Ahmedabad-based EV startup MATTER Motor Works has raised $25 million (around Rs 240 crore) in growth capital from existing investors to scale its electric motorcycle business. The funding will support manufacturing and supplier expansion, distribution and brand-building, and the launch of four new motorcycles over the next 12–24 months. New Delhi-based wealth management firm Nexedge Capital has raised $20 million in its maiden funding round, led by Mirae Asset Venture Investment and Elev8 Venture Partners. The company will use the capital to strengthen its technology platform, expand its senior banker network and grow into Tier-II and Tier-III cities across India. Founded in February 2025 by former 360 ONE Wealth co-founder Anirudha Taparia, Nexedge says it has already built $3 billion in assets under management across more than 1,300 clients. It plans to add offerings for NRIs and launch an NBFC business, while expanding its team of senior bankers; more than 150 senior leaders have also invested their own capital in the firm. AI-native health insurance platform Staywell.Health has raised an investment led by Equanimity Investments, alongside a select group of investors. Founded by Arun Ramamurthy, Arup Chatterjee and Atul Mehta, the company focuses on retail health insurance distribution in India, combining artificial intelligence with human advisors across the customer journey. The fresh capital will help Staywell.Health accelerate development of its AI platform, expand its distribution network and strengthen its advisory and customer engagement capabilities. The company will also scale ClaimsKavach, its claims-first offering designed to help customers navigate the health insurance claims process with greater support and confidence. IAN Angel Fund, the evergreen fund of IAN Group, has co-led a Rs 12.5 crore investment round in Bengaluru-based climate-tech startup CarbonStrong, with participation from Rainmatter, Social Alpha, Spectrum Impact and Full Circle Ventures. The seed funding will fund the startup’s first production facility, expand its team, develop and test products, and move from customer trials to commercial-scale production. Founded in 2022 by Harsh Jain and Vikramaditya Singh, CarbonStrong develops low-carbon cement substitutes using industrial waste. Its materials can replace up to 50% of cement used in concrete, while the company claims they are around 30% cheaper than cement and can improve concrete durability. CarbonStrong plans to build production capacity of up to 100,000 tonnes annually over the next two years. Anirudh Ravidhander withSree Harsha Vadlamudi, Co-Founder & Board Director - Ironhill India Composer and cultural entrepreneur Anirudh Ravichander has invested an undisclosed amount in hospitality group Ironhill through his venture Albuquerque Records. The investment comes as Ironhill, formed through the merger of Ironhill India and Ironhill US, prepares to expand its presence internationally. This marks Ravichander’s second investment in the global hospitality and F&B sector, following Loca Loka Tequila. The company said his association will add cultural and strategic value as Ironhill seeks to build a hospitality brand with appeal across international markets while strengthening its presence in India.",
+        "impact": "تزریق سرمایه‌های سنگین به حوزه حمل‌ونقل برقی و پلتفرم‌های مبتنی بر هوش مصنوعی در بازار رو به رشد هند.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "YourStory",
+        "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-25-2026",
+        "clean_url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-25-2026",
+        "image": "http://www.bing.com/th?id=ONUT.hp-UVhdyl_AfFxogkbvtyg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.hp-UVhdyl_AfFxogkbvtyg&pid=News",
+            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+            "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/MATTER-1787638522891.png?fm=png&auto=format&w=800&blur=500",
+            "https://images.yourstory.com/cs/2/8e7cc4102d6c11e9aa979329348d4c3e/Image2zil-1787650337640.jpg?fm=png&auto=format&blur=500"
+        ],
+        "timestamp": 1787625840.0
     },
     {
         "id": "7e1ec77ede",
