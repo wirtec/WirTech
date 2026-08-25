@@ -1,5 +1,27 @@
 [
     {
+        "id": "bef24112ad",
+        "title_fa": "برنامه‌ریزی اسپیس‌ایکس برای پرتاب ماهواره‌های هوش مصنوعی با پردازنده‌های انویدیا",
+        "title_en": "SpaceX targets 2025 launch of Nvidia-powered AI satellite, scales by 2028 - CHOSUNBIZ",
+        "summary": [
+            "اسپیس‌ایکس قصد دارد اولین ماهواره مجهز به تراشه‌های هوش مصنوعی انویدیا را در سال ۲۰۲۵ به فضا بفرستد و تا سال ۲۰۲۸ طرح را به مقیاس انبوه برساند.",
+            "پردازش مستقیم داده‌ها در فضا، نیاز به ارسال حجم عظیم اطلاعات خام به ایستگاه‌های زمینی را به‌شدت کاهش می‌دهد."
+        ],
+        "full_text": "SpaceX targets 2025 launch of Nvidia-powered AI satellite, scales by 2028 - CHOSUNBIZ  Chosunbiz",
+        "impact": "تحلیل آنی داده‌های ماهواره‌ای در مدار زمین، زمان دستیابی به اطلاعات حیاتی را از چند ساعت به چند ثانیه می‌رساند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc21xc2RvVmxVNnUtSWVUMmxoZkprWjNyWG5LUnNtdF8wd3M2VWFpZ3RpV0Jvc1ZUYlVPekYzcWhOZ0ZFUXNaSS0tOGRhN1RLR0NIWVh0WGVJbWc0S2YtUjVLWF8weVpQaGk0VUhic3RvQ3l3YW1NZzRHNlFqSklCStIBlAFBVV95cUxNWkVucElhX2ZtdlJsRTczZ3RGbXZPU2MxU3dtWExCYmdNZ3VQTnpDZXdQZ25lX0xid2E3S1ZiQXNLREpoUXlhenVaRjJnWWRCOGhXQ1EwaFVzR0ZsUGdlTVNtVG9KU0d3YXBGYUdqTVZuNUpxV0g4VHpQX1VLd3N4QlllaHgyNjREUFZuRUFZRElqNS1w?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc21xc2RvVmxVNnUtSWVUMmxoZkprWjNyWG5LUnNtdF8wd3M2VWFpZ3RpV0Jvc1ZUYlVPekYzcWhOZ0ZFUXNaSS0tOGRhN1RLR0NIWVh0WGVJbWc0S2YtUjVLWF8weVpQaGk0VUhic3RvQ3l3YW1NZzRHNlFqSklCStIBlAFBVV95cUxNWkVucElhX2ZtdlJsRTczZ3RGbXZPU2MxU3dtWExCYmdNZ3VQTnpDZXdQZ25lX0xid2E3S1ZiQXNLREpoUXlhenVaRjJnWWRCOGhXQ1EwaFVzR0ZsUGdlTVNtVG9KU0d3YXBGYUdqTVZuNUpxV0g4VHpQX1VLd3N4QlllaHgyNjREUFZuRUFZRElqNS1w",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787634360.0
+    },
+    {
         "id": "3c77a8e654",
         "title_fa": "رونمایی DXC از پلتفرم محیط کار هوشمند و تحلیل ارزش سهام آن",
         "title_en": "DXC Technology (DXC) Following Its AI Workplace Launch And The Case For Undervaluation",
