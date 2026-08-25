@@ -135,6 +135,32 @@
         "timestamp": 1787603580.0
     },
     {
+        "id": "0a9d53742b",
+        "title_fa": "کاهش ۵۵ درصدی سود سهام تلوس برای تامین سرمایه هوش مصنوعی",
+        "title_en": "Can You Still Count on Telus's Dividend?",
+        "summary": [
+            "غول مخابراتی کانادایی تلوس با کاهش ۵۵ درصدی تقسیم سود، به دنبال ذخیره ۲.۷ میلیارد دلار تا سال ۲۰۲۸ است.",
+            "این صرفه‌جویی مالی برای توسعه شبکه فیبر نوری، کاهش بدهی‌ها و ورود به زیرساخت‌های هوش مصنوعی هزینه می‌شود.",
+            "تامین هزینه‌های سنگین سخت‌افزارهای هوش مصنوعی، این اپراتور را در برابر غول‌های پردازش ابری در موضع فشار شدید قرار داده است."
+        ],
+        "full_text": "After years of building its reputation around a steadily growing dividend, Telus (TSX:T) finally reset that payout on July 31. The quarterly dividend was cut from $0.42 to $0.19 per share, a reduction of roughly 55%. That was painful for existing shareholders, but it also accomplished something important: Telus is finally retaining substantially more cash instead of sending it out the door every quarter. Management expects the dividend reset to generate approximately $2.7 billion in cumulative cash savings through 2028, with that money helping the company reduce leverage. Telus is targeting net debt-to-EBITDA of 3 times or less by the end of 2028. So, can you count on the new dividend? I think the answer is probably yes. After such a substantial reset, the payout itself looks considerably more manageable. My bigger concern is whether I want to own Telus at all. The business still faces significant headwinds Cutting the dividend fixes one problem, but it does not solve the structural challenges facing Canada’s telecommunications industry. Population growth provided Canadian telecom companies with a relatively straightforward source of new customers for years. More people arriving in Canada meant more potential wireless plans, internet subscriptions, and home-service connections. With immigration targets (especially international students) being reduced, that growth engine becomes less powerful. Telus therefore needs to generate more growth from its existing customers and new business lines while competing in an already mature Canadian telecommunications market. At the same time, the company remains highly capital-intensive. Telus has spent heavily transitioning its network from legacy copper infrastructure toward fibre. Those investments can improve network quality and economics over time, but they require enormous amounts of capital upfront and tie up future free cash flow. The company is also pursuing artificial intelligence infrastructure opportunities. I understand the attraction, but Telus does not generate anything close to the free cash flow of the U.S. hyperscalers pouring capital into AI. Every dollar spent there competes with debt reduction, network investment, acquisitions, and shareholder returns. A dividend isn’t free money This is also where I think dividend investors need to reconsider what they’re actually receiving, because a dividend isn’t free money. When Telus pays you $0.19 per share every quarter, that cash leaves the company and comes to you. All else being equal, the value of the business falls by the amount distributed to shareholders. That raises an important question: why automatically send that money straight back into Telus? If I already owned the stock, I wouldn’t necessarily sell solely because the dividend was cut. But I also wouldn’t automatically enroll those payments in a dividend reinvestment plan and keep accumulating more shares. I’d rather take the cash and deploy it elsewhere. There are plenty of dividend-paying companies on the Toronto Stock Exchange with stronger balance sheets, better free cash flow characteristics, or more attractive long-term growth prospects. I’d take the dividend and move on The new Telus dividend looks much more sustainable to me than the old one. But a safer dividend does not automatically make the underlying company a better investment. If you already own Telus and don’t want to sell, collecting the dividend while directing that cash toward other investments is a reasonable approach. It gradually reduces your economic dependence on Telus without requiring you to call the exact bottom in its share price. If I didn’t already own the stock, though, I wouldn’t start a position simply because the post-cut yield looks attractive. For me, Canadian telecommunications remains an unattractive place to deploy new capital. Telus still faces slower population growth, substantial capital requirements, considerable leverage, and the challenge of finding new avenues for growth. You can probably count on the new dividend. I just wouldn’t count on Telus being the best place to reinvest it.",
+        "impact": "هزینه‌های گزاف زیرساخت هوش مصنوعی اپراتورهای مخابراتی را مجبور به کاهش شدید تقسیم سود و اصلاح مالی کرده است.",
+        "tag": "مخابرات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Motley Fool Canada",
+        "url": "https://www.fool.ca/2026/08/24/can-you-still-count-on-teluss-dividend/",
+        "clean_url": "https://www.fool.ca/2026/08/24/can-you-still-count-on-teluss-dividend",
+        "image": "https://www.fool.ca/wp-content/uploads/2023/11/person-on-phone-leaning-against-outside-wall-with-scenic-view_AirBNB-1200x720.jpg",
+        "images": [
+            "https://www.fool.ca/wp-content/uploads/2023/11/person-on-phone-leaning-against-outside-wall-with-scenic-view_AirBNB-1200x720.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg",
+            "https://www.fool.ca/wp-content/uploads/2025/07/REIT-coins-explaination-338x225.jpg",
+            "https://www.fool.ca/wp-content/uploads/2024/06/GettyImages-1195624894-338x225.jpg"
+        ],
+        "timestamp": 1787603400.0
+    },
+    {
         "id": "31eb5f8e28",
         "title_fa": "افشای مشخصات هدفون ۴۴۹ دلاری Sonos Ace Ultra با تمرکز بر AI",
         "title_en": "Sonos Ace Ultra leaks point to a $449 headphone and an AI-first September",
@@ -633,6 +659,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787574657.0
+    },
+    {
+        "id": "274298986d",
+        "title_fa": "تنش میان پنتاگون و آنتروپیک بر سر کنترل هوش مصنوعی",
+        "title_en": "Anthropic AI, the Pentagon and the battle over who controls artificial intelligence",
+        "summary": [
+            "دستورهای اجرایی جدید و اختلافات پنتاگون با آنتروپیک، جنگ بر سر حاکمیت بر هوش مصنوعی پیشرفته را کلید زده است.",
+            "وزارت دفاع ایالات متحده تلاش می‌کند نظارت و کنترل مستقیمی روی کدهای حساس و مدل‌های این استارتاپ اعمال کند.",
+            "این تقابل چالش جدیدی برای استقلال شرکت‌های هوش مصنوعی در مواجهه با الزامات نظامی و امنیتی ایجاد کرده است."
+        ],
+        "full_text": "The Anthropic AI controversy has become a global debate about who controls powerful artificial intelligence. We examine President Donald Trump’s order against Anthropic, the Pentagon dispute over ...",
+        "impact": "افزایش مداخله‌های دولتی و نظامی آمریکا احتمالاً آزادی عمل و سرعت توسعه مدل‌های پیشتاز AI را محدود خواهد کرد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "DISABLED ENTREPRENEUR UK on MSN",
+        "url": "https://www.msn.com/en-gb/money/technology/anthropic-ai-the-pentagon-and-the-battle-over-who-controls-artificial-intelligence/ar-AA2aQl27",
+        "clean_url": "https://www.msn.com/en-gb/money/technology/anthropic-ai-the-pentagon-and-the-battle-over-who-controls-artificial-intelligence/ar-AA2aQl27",
+        "image": "http://www.bing.com/th?id=ONUT.AK55BfBNz63-IFI5Kz2-tA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.AK55BfBNz63-IFI5Kz2-tA&pid=News"
+        ],
+        "timestamp": 1787574142.0
     },
     {
         "id": "d45b71fb4a",
