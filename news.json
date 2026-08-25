@@ -1,5 +1,72 @@
 [
     {
+        "id": "b60556b0aa",
+        "title_fa": "اتحاد استراتژیک نوتانیکس برای تحول در مدیریت پردازنده‌های گرافیکی",
+        "title_en": "How Nutanix’s ChronoScale AI Alliance Could Reshape Its GPU Strategy Will Impact Nutanix (NTNX) Investors",
+        "summary": [
+            "نوتانیکس در همکاری با کرونواسکیل قصد دارد نحوه تخصیص و مدیریت GPUها را در زیرساخت‌های هوش مصنوعی بازطراحی کند.",
+            "این اقدام چالش‌های مربوط به کمبود و هزینه‌های بالای پردازنده‌های گرافیکی را برای مشتریان سازمانی کاهش می‌دهد."
+        ],
+        "full_text": "How Nutanix’s ChronoScale AI Alliance Could Reshape Its GPU Strategy Will Impact Nutanix (NTNX) Investors  simplywall.st",
+        "impact": "کاهش هزینه‌های پردازش ابری AI و تقویت موقعیت نوتانیکس در بازار زیرساخت‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEpWWG9sYkpEajREcVlCTWRXMlN0SDZKN1h6SmY2ZmpCMUhVYU1neENHSFFabHFxaFVBcFltbUpnWHBtMjNPZktuVUt6MV9mVlZNR19hY19KNWFMUUVWcGFjbkZHOXhjVlJvR2JJYnFDZmZsanJ5aHJfQ3g2VUhfRjFBb3FiVXZ2MjVTU096UFczRHd1Y2UzNzNXa2hLM2FkQXJMNFl6Y29fYTVWQUUwRlBBeG1Ob2dQdG0yeWhLS0tJRzdj0gHKAUFVX3lxTFBKck1UX1lvV29XR1BJaDNXOGNiclQ3UTUzMVFJa29Xei1hTFQ1MU10U1VjTllfbTNyRGZMVXJfWUlDNVlhQ0FmNHRfSHJRT0RoOU9PX1lJRjVvSlNXOWZOZ1U4dGctUEdITkJBbzVYaGNFVFpWRjJGUjdTcWloeUJCNFFzanJaUEh5SFNyTmp6aWF2eHJDTnVpcmhhUDRhMjBjMm5NcEh4Y2Z1S2RzaTVVUUlXOTRoMVA3dnEtdkVIZ3p5b2ZxSzZZY3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEpWWG9sYkpEajREcVlCTWRXMlN0SDZKN1h6SmY2ZmpCMUhVYU1neENHSFFabHFxaFVBcFltbUpnWHBtMjNPZktuVUt6MV9mVlZNR19hY19KNWFMUUVWcGFjbkZHOXhjVlJvR2JJYnFDZmZsanJ5aHJfQ3g2VUhfRjFBb3FiVXZ2MjVTU096UFczRHd1Y2UzNzNXa2hLM2FkQXJMNFl6Y29fYTVWQUUwRlBBeG1Ob2dQdG0yeWhLS0tJRzdj0gHKAUFVX3lxTFBKck1UX1lvV29XR1BJaDNXOGNiclQ3UTUzMVFJa29Xei1hTFQ1MU10U1VjTllfbTNyRGZMVXJfWUlDNVlhQ0FmNHRfSHJRT0RoOU9PX1lJRjVvSlNXOWZOZ1U4dGctUEdITkJBbzVYaGNFVFpWRjJGUjdTcWloeUJCNFFzanJaUEh5SFNyTmp6aWF2eHJDTnVpcmhhUDRhMjBjMm5NcEh4Y2Z1S2RzaTVVUUlXOTRoMVA3dnEtdkVIZ3p5b2ZxSzZZY3c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787627212.0
+    },
+    {
+        "id": "7e1ec77ede",
+        "title_fa": "رونمایی قریب‌الوقوع اپل از مک مینی جدید بعد از ۲ سال",
+        "title_en": "Apple Gears Up to Launch Its First New Mac Mini in Two Years",
+        "summary": [
+            "اپل پس از دو سال بی‌خبری، در حال آماده‌سازی نسل جدید کامپیوتر فشرده مک مینی است.",
+            "انتظار می‌رود این نسخه با پردازنده‌های جدید سری M4 و تغییرات چشمگیر در طراحی و بازآرایی پورت‌ها همراه باشد."
+        ],
+        "full_text": "Apple Gears Up to Launch Its First New Mac Mini in Two Years  Bloomberg.com",
+        "impact": "ارتقای جدی توان پردازشی سیستم‌های دسکتاپ کوچک و تحرک تازه در بازار پی‌سی‌های فشرده.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGxzaHpVRnhoZkJOTTBLYXZXNEhJdUZaWmVTYm1CWnZ6MUlTbFR5amtBNnVNNzc5bVNjTVgyaUtLaW9LbzMwQlNtUWNTeWZpNmowMXE0YzV2RkFONUFXUEFGZ0ZwS1ROSkhtd09MYnJScmVJUWItaGlNbW5XLXJfUGpwRGZQTGhBWjZwXzVGQUc3bk5xTnk5SzdldzdCQ2FoNzJtanVYSkM2aTN3OFZWQS0yTm1jRTJQOEltVWVFSTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGxzaHpVRnhoZkJOTTBLYXZXNEhJdUZaWmVTYm1CWnZ6MUlTbFR5amtBNnVNNzc5bVNjTVgyaUtLaW9LbzMwQlNtUWNTeWZpNmowMXE0YzV2RkFONUFXUEFGZ0ZwS1ROSkhtd09MYnJScmVJUWItaGlNbW5XLXJfUGpwRGZQTGhBWjZwXzVGQUc3bk5xTnk5SzdldzdCQ2FoNzJtanVYSkM2aTN3OFZWQS0yTm1jRTJQOEltVWVFSTE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787622540.0
+    },
+    {
+        "id": "696888abc4",
+        "title_fa": "پرتاب دیتاسنترهای مداری اسپیس‌ایکس تا پایان سال ۲۰۲۷",
+        "title_en": "Musk announced the launch of SpaceX orbital data centers by the end of 2027",
+        "summary": [
+            "ایلان ماسک از برنامه جنجالی اسپیس‌ایکس برای انتقال مراکز داده به مدار زمین تا سه سال آینده خبر داد.",
+            "هدف اصلی این طرح، بهره‌گیری مستقیم از پنل‌های خورشیدی فضایی و کاهش فشار مصرف برق دیتاسنترها روی زمین است.",
+            "غلبه بر چالش خنک‌سازی تجهیزات در خلاء و نرخ تأخیر انتقال داده، بزرگ‌ترین مانع فنی این پروژه خواهد بود."
+        ],
+        "full_text": "Musk announced the launch of SpaceX orbital data centers by the end of 2027  Українські Національні Новини (УНН)",
+        "impact": "دگرگونی احتمالی زیرساخت‌های رایانش ابری و حل بحران انرژی دیتاسنترهای هوش مصنوعی.",
+        "tag": "فناوری",
+        "urgency": 9,
+        "sentiment": 0.7,
+        "source": "Українські Національні Новини (УНН)",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT1FaYl9sXzU3QXFnTzRKdGN2ajMwYTUyMjRqUnU4aTJvU2RtWUxBbHc4a1ROeElOX2VtcDcxUHFmQ1p6VGcyT29mSjFtWkZienB2NGY0UmptX09RME12VFhLZFpBQVBnb2x6amEzQklKRkk3TC1XbE93bXFaUDdVRTZUOG5nUWctRDNVTEphTlhaOHlXdnB6X19GZXBiZ9IBngFBVV95cUxPT1FaYl9sXzU3QXFnTzRKdGN2ajMwYTUyMjRqUnU4aTJvU2RtWUxBbHc4a1ROeElOX2VtcDcxUHFmQ1p6VGcyT29mSjFtWkZienB2NGY0UmptX09RME12VFhLZFpBQVBnb2x6amEzQklKRkk3TC1XbE93bXFaUDdVRTZUOG5nUWctRDNVTEphTlhaOHlXdnB6X19GZXBiZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT1FaYl9sXzU3QXFnTzRKdGN2ajMwYTUyMjRqUnU4aTJvU2RtWUxBbHc4a1ROeElOX2VtcDcxUHFmQ1p6VGcyT29mSjFtWkZienB2NGY0UmptX09RME12VFhLZFpBQVBnb2x6amEzQklKRkk3TC1XbE93bXFaUDdVRTZUOG5nUWctRDNVTEphTlhaOHlXdnB6X19GZXBiZ9IBngFBVV95cUxPT1FaYl9sXzU3QXFnTzRKdGN2ajMwYTUyMjRqUnU4aTJvU2RtWUxBbHc4a1ROeElOX2VtcDcxUHFmQ1p6VGcyT29mSjFtWkZienB2NGY0UmptX09RME12VFhLZFpBQVBnb2x6amEzQklKRkk3TC1XbE93bXFaUDdVRTZUOG5nUWctRDNVTEphTlhaOHlXdnB6X19GZXBiZw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787615781.0
+    },
+    {
         "id": "5cc16dc493",
         "title_fa": "متا به‌زودی از پلتفرم ایجنت‌های هوشمند Hatch رونمایی می‌کند",
         "title_en": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks",
