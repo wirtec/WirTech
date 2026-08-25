@@ -1,5 +1,49 @@
 [
     {
+        "id": "d8c415bd0b",
+        "title_fa": "عرضه ایجنت هوش مصنوعی کاربرمحور متا طی هفته‌های آینده",
+        "title_en": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch",
+        "summary": [
+            "متا فاصله چندانی با رونمایی از ایجنت هوش مصنوعی اختصاصی خود برای کاربران عادی ندارد.",
+            "این دستیار هوشمند قرار است تعامل کاربران را در پلتفرم‌های اصلی این شرکت مثل اینستاگرام و واتس‌اپ متحول کند."
+        ],
+        "full_text": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch  PYMNTS.com",
+        "impact": "تثبیت موقعیت متا در بازار ایجنت‌های شخصی و افزایش چشمگیر تعامل کاربران با محصولات این شرکت.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1dpZkpRNTdHQnBteE41RWozaUdXT2xrZGk1SXNzZ1M4WXVuTEluUkt0STNVUWJOandjY1FqV21JNksyYlhDNDRSOGxYYzdCODNwa0tkbjU3SXFjeTJKN1NVVzdfRHgzXzdvUDhuNUNSNkxQNndqVGJWWXFLc0JoSFBYdDlDNFFwZGxlenpYYmJxX2FDLUJrX3NzX3dodG9Gc2FGcG5fczFEamxfYjNLVWg2V0g3TFE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787655548.0
+    },
+    {
+        "id": "ec7ebdb1ea",
+        "title_fa": "راه‌اندازی آزمایشگاه گردشگری هوش مصنوعی در سنگاپور",
+        "title_en": "Exploring Singapore with AI! Singapore Tourism Board and Mafengwo Jointly Launch \"Singapore AI Inspiration Lab\" to Unlock the Many Facets of the Lion City for Seniors, Families, and New Workforce Entrants",
+        "summary": [
+            "سازمان گردشگری سنگاپور با همکاری پلتفرم Mafengwo ابزاری مبتنی بر AI برای برنامه‌ریزی سفرهای شخصی‌سازی‌شده معرفی کرد.",
+            "این سیستم توصیه‌های مسافرتی ویژه‌ای متناسب با نیازهای خانواده‌ها، سالمندان و نیروهای کاری جدید ارائه می‌دهد."
+        ],
+        "full_text": "Exploring Singapore with AI! Singapore Tourism Board and Mafengwo Jointly Launch \"Singapore AI Inspiration Lab\" to Unlock the Many Facets of the Lion City for Seniors, Families, and New Workforce Entrants  Yahoo Finance",
+        "impact": "توسعه کاربردهای هوش مصنوعی در صنعت گردشگری و جذب بیشتر مسافران با ابزارهای شخصی‌سازی‌شده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFSenVmb2xxMXE3WWprbURkNV9RQ0lDUlBuWHJPMzM2N1ZaMFNaM1JBSGhiY2xJZGFWc19ORWhpeVhmb3JCdHlUeTFVY0k4Y08yVGFOR2pybEZqblZLcTBrMVpFODNOR0JfOG1sY1dWajJmSGhzN2pyOF9oR3BKLU8zUk02cWpFcFBRZjE3M2ExNnZKWWlvaWg5U3BvZnExVUJ6S09Ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFSenVmb2xxMXE3WWprbURkNV9RQ0lDUlBuWHJPMzM2N1ZaMFNaM1JBSGhiY2xJZGFWc19ORWhpeVhmb3JCdHlUeTFVY0k4Y08yVGFOR2pybEZqblZLcTBrMVpFODNOR0JfOG1sY1dWajJmSGhzN2pyOF9oR3BKLU8zUk02cWpFcFBRZjE3M2ExNnZKWWlvaWg5U3BvZnExVUJ6S09Ybw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787649060.0
+    },
+    {
         "id": "4c097c5f8b",
         "title_fa": "راهنمای تماشای زنده پرتاب تلسکوپ فضایی رومن",
         "title_en": "How to Watch the Roman Telescope Launch Aug 30",
