@@ -1,5 +1,30 @@
 [
     {
+        "id": "0b79d65b20",
+        "title_fa": "آیا هوش مصنوعی جایگزین یادگیری زبان می‌شود؟ نتایج یک تحقیق جدید",
+        "title_en": "Can AI replace traditional language learning? A new study says not yet",
+        "summary": [
+            "پژوهش جدید دانشگاه UBC نشان می‌دهد ابزارهای هوش مصنوعی هنوز نمی‌توانند جایگزین روش‌های اصولی و داده‌محور یادگیری زبان انگلیسی شوند.",
+            "چالش اصلی زبان‌آموزان، یادگیری ترکیب‌های طبیعی کلمات در متون تخصصی است؛ حوزه‌ای که پایگاه‌های داده کلامی هنوز دقیق‌تر و مطمئن‌تر از مدل‌های زبانی هوش مصنوعی عمل می‌کنند."
+        ],
+        "full_text": "Can AI replace traditional language learning? A new study says not yet When university students set out to learn English as an additional language, it's not just about internalizing a new list of words; they also have to learn common word combinations. To sound fluent and natural, they'll need to say \"strong wind\" but not \"muscular wind,\" or \"reach a conclusion\" but not \"pull a conclusion\"—a task that's particularly challenging for learners stepping into terminology-heavy academic fields from economics to engineering. So what's the best way to learn those invaluable combinations, also known as collocations? According to a new paper from the UBC Sauder School of Business, data-driven learning, with a little boost from AI, is still the most reliable option. The findings are published in the journal Nouvelles perspectives en sciences sociales. According to UBC Sauder lecturer Dr. Déogratias (Deo) Nizonkiza, the author of the study, the development of corpora—large, structured collections of texts and other language data—has been foundational for DDL approaches. It has happened in three major stages. In 1961, a collection of texts called the Brown Corpus was developed at Brown University. It comprised 500 text samples from media, religion, fiction, science and other sources, each containing approximately 2,000 words. With roughly 1 million words, it represented the first large-scale collection of real-world American English, and it allowed researchers to effectively catalog and analyze the language and its use. In the 1980s, as technology advanced and computing became more widely available, the concept of data-driven learning, or DDL, was introduced. Instead of memorizing phrases from textbooks, learners could access increasingly massive databases of texts—with word counts eventually exceeding 100 million—to discover everyday language patterns. In 2008 came the Corpus of Contemporary American English, or COCA—a 1 billion-word database that comprises nearly 500,000 texts from 1990 to 2019 and allows students not only to search for specific words but also to look for examples in different contexts and academic disciplines. \"That really significantly changed how we do things, specifically in the area of English for academic or professional purposes,\" Nizonkiza explains. \"But the searches took so much time, and people would get discouraged.\" In addition to the sluggish searches, another stumbling block was that many language instructors didn't even know the corpora existed, let alone how to use them, and those who did often treated DDL as a secondary activity—not a core teaching tool. Now, with the advent of generative AI, or GenAI, Nizonkiza says the process of searching for collocations has become far faster and more familiar—but that doesn't mean educators should toss out the more traditional DDL approach. While GenAI tools such as ChatGPT can replicate some of the functions of existing tools—they can identify and generate examples of common word combinations, for example—it's often unclear where the examples come from or how accurate they are. In the French-language study, whose title translates to \"At the Intersection of Corpora and Artificial Intelligence: A Critical Review of DDL Approaches to Teaching Collocations in Higher Education,\" Nizonkiza examined empirical evidence, including meta-analyses and systematic reviews, on the effectiveness of DDL. The literature shows that a hybrid approach rooted in corpus-based teaching and given an added boost from GenAI is the most effective. \"We have to be very careful, because GenAI tools aren't as precise as those traditional tools,\" Nizonkiza explains. \"So instead of relying perhaps on GenAI, we need to make sure that there is a combination of GenAI and the traditional corpora.\" The paper also provides a possible roadmap for that hybrid approach. For example, an English instructor could select particular vocabulary—from the Economics Academic Word List, say—then identify common collocations like \"control volatility\" and \"market volatility.\" From there, they can ask corpus-informed GenAI tools to generate examples of those collocations, which can be used to design structured exercises where students first fill in the blanks (e.g., \"Portfolio diversification is a key strategy used by fund managers to ______ volatility in emerging markets\"), then use AI to verify their answers. So rather than relying on popular AI platforms like ChatGPT or Copilot to generate examples, students complete the exercises—and only then use AI to verify and refine their conclusions. That process helps students raise awareness of collocations, improve accuracy and spur critical interactions with GenAI tools, Nizonkiza says. \"It's when they start university that they have exposure to these new words they haven't necessarily encountered in their everyday lives,\" Nizonkiza says. \"That's where having these tools and being aware of what these tools can help them do become essential.\" More information Déogratias Nizonkiza, L'enseignement des collocations en anglais au niveau tertiaire : revue critique des approches DDL entre corpus et intelligence artificielle, Nouvelles perspectives en sciences sociales (2026). DOI: 10.7202/1126572ar",
+        "impact": "مدل‌های هوش مصنوعی فعلاً نقش ابزار کمک‌اموزشی را دارند و نمی‌توانند جایگزین فرایند ساختاریافته یادگیری زبان شوند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-08-ai-traditional-language.html",
+        "clean_url": "https://phys.org/news/2026-08-ai-traditional-language.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/language-learning.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/hires/2023/language-learning.jpg",
+            "https://scx2.b-cdn.net/gfx/news/2023/language-learning.jpg",
+            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
+            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg"
+        ],
+        "timestamp": 1787658000.0
+    },
+    {
         "id": "d8c415bd0b",
         "title_fa": "عرضه ایجنت هوش مصنوعی کاربرمحور متا طی هفته‌های آینده",
         "title_en": "Meta’s Consumer-Focused AI Agent Could Be Weeks From Launch",
@@ -20,6 +45,52 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787655548.0
+    },
+    {
+        "id": "7021165013",
+        "title_fa": "پاداش سنگین بازار ثانویه به استارتاپ‌های هوش مصنوعی",
+        "title_en": "Inside The Private-Market Divide: EquityZen's Phil Haslett On AI, SaaS And Secondaries",
+        "summary": [
+            "آمارهای جدید بازار ثانویه نشان می‌دهد استارتاپ‌های هوش مصنوعی با ارزش‌گذاری‌های بسیار بالایی معامله می‌شوند، در حالی که شرکت‌های قدیمی‌تر حوزه نرم‌افزار (SaaS) دچار افت قیمت شده‌اند.",
+            "پس از عرضه‌های اولیه بزرگ اخیر، مسیر برای ورود استارتاپ‌های حوزه سخت‌افزار و زیرساخت هوش مصنوعی به بازار بورس دوباره رونق گرفته است."
+        ],
+        "full_text": "As startups stay private longer, the market for buying and selling shares in venture-backed companies before they go public has become increasingly active — and heated. EquityZen has been operating in that market since 2013. The New York-based company operates a marketplace for shares of privately held companies, giving employees and other shareholders a way to sell stock before a company goes public or is acquired. Morgan Stanley announced plans to acquire EquityZen in October 2025 and completed the deal in January 2026, bringing the company under the investment bank’s umbrella. Phil Haslett, who co-founded EquityZen and serves as its chief strategy officer, has had a front-row seat to the secondary market’s evolution. Crunchbase News spoke with Haslett about what secondary-market pricing says about today’s most sought-after startups, why AI companies are commanding premiums while many older startups trade at discounts, what the IPO market looks like beyond its biggest names, and why investors are taking a closer look at hard tech. The following conversation has been edited for length and clarity. Crunchbase News: The second quarter was one of the strongest venture-backed IPO quarters since 2021, but SpaceX drove much of that activity. If you remove SpaceX, how open is the IPO market for the typical late-stage startup? Phil Haslett: Generally, I’d say it’s better than it was three or six months ago. If you were a private late-stage technology company, you probably were going to wait until after SpaceX anyway, so that hurdle is gone. Tech markets are also doing well. The stock market is at an all-time high, and there’s been a strong recovery in tech stocks overall. I assume that we’re gearing up for a busier summer than usual. Another thing to consider is IPO performance beyond SpaceX. Some have had initial enthusiasm followed by a slowdown. Cerebras has come down a bit. So companies may see it as a good time to go public, while post-IPO performance has been, in a word, “meh.” But within AI, I think we’ve seen that there’s opportunity up and down the production curve — from energy for data centers, to the technology inside them, to orchestration of compute, to efficient spending on training and inference. There are a lot of interesting companies along that spectrum, and I think that bodes well for companies in the space that want to go public. A few companies entered your Top 20, including Figure AI, Project Prometheus, Redwood Materials and Scale AI. Does that reflect a durable shift away from traditional software, or are investors chasing a small group of scarce, high-profile hard-tech companies? Haslett: I think it reflects a thematic shift. The companies entering that list generally fall into AI infrastructure, space tech and robotics. If those are industries we think will have generational growth opportunities, the logical conclusion is that each sector will have winners. SpaceX gets people thinking about opportunities in space and space tech, and by extension defense tech. The same applies to AI infrastructure. If the market is that big, and we’ve seen companies go public over the last year or so, it stands to reason investors will be interested in other companies in that space. I think that’s more important than simply chasing scarce supply. These businesses tend to be more capital intensive and may take longer to reach predictable revenue than a traditional SaaS company. How are secondary investors underwriting them? Haslett: If a company needs more capital, investors have to decide whether the overall opportunity is big enough to justify waiting longer and having the company raise more. If you have to build a factory or get regulatory approval, that can delay the company’s ability to increase its valuation or reach an exit. Investors discount that into what they’re willing to pay. Secondary investors are making the same calculus as primary venture and growth investors, so you’d imagine much of that is already baked into headline valuations from primary raises. What’s changed is that capital-intensive companies now have more financing options. Five or six years ago, a battery company or new chip manufacturer might have had little choice but to raise equity. In 2026, more credit and asset-based financing options are available. That matters because if one of these companies underperforms or has a distressed asset sale, creditors and lenders get paid first. Secondary investors have to factor that in, too. EquityZen says the average transaction occurred at a 38% discount to the last funding round, while many AI transactions traded at premiums. What does that say about how bifurcated the private market has become? Haslett: I don’t know if it’s a mispricing. There are essentially two vintages of private companies right now. Some companies weren’t built AI-first and have had to adapt. Many raised during the go-go years of 2021, at very high valuations, and may not have raised since. They’ve had to rethink their strategies, which can slow growth and execution. That gets reflected in the discount. Then there’s a new wave of companies, from 2023 and beyond, that were built with an AI-first mentality. They started from a clean slate, may operate more efficiently, and have a cleaner story for the market. Some of those companies are raising rounds in quick succession at higher valuations. Secondary investors may pay a premium because they believe the company’s trajectory is clear and the next valuation increase could happen quickly. Airtable is an example from the 2021 cohort. It raised at roughly a $10 billion-plus valuation and just sold for substantially less. It’s still a good business, but when investors compare 20% growth with newer companies going from zero to hundreds of millions in revenue in just a few years, you can understand why their appetite changes. We may see more companies from that era sell for less than where they raised in 2021. Over the past few years, many private compa",
+        "impact": "جریان سرمایه‌گذاری خصوصی به‌طور کاملاً محسوس از شرکت‌های سنتی نرم‌افزاری به سمت زیرساخت‌ها و مدل‌های هوش مصنوعی تغییر مسیر داده است.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "Crunchbase News",
+        "url": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/",
+        "clean_url": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen",
+        "image": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+        "images": [
+            "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+            "https://news.crunchbase.com/wp-content/uploads/2018/07/cb_news_logo_gradient-2x.png"
+        ],
+        "timestamp": 1787655540.0
+    },
+    {
+        "id": "bbf2a1d978",
+        "title_fa": "جذب سرمایه ۳ میلیون دلاری استارتاپ Surge Games برای ساخت بازی با AI",
+        "title_en": "Surge Games raises $3m pre-seed to build AI-native mobile games",
+        "summary": [
+            "استارتاپ ترکیه‌ای Surge Games با جذب سرمایه پیش‌بذری ۳ میلیون دلاری، قصد دارد فرایند ساخت بازی‌های موبایلی پازل را کاملاً بر پایه هوش مصنوعی بازطراحی کند.",
+            "این استارتاپ از هوش مصنوعی در تمام مراحل از کدنویسی و طراحی هنری گرفته تا جذب کاربر استفاده می‌کند تا تیم‌های کوچک بتوانند با سرعت بالا بازی‌های باکیفیت تولید کنند."
+        ],
+        "full_text": "Surge Games raises $3m pre-seed to build AI-native mobile games - The Istanbul-based studio was founded in 2026 by four former Turkish game industry professionals. - Surge Games integrates AI across game development, art and user acquisition. - Surge Games has released its first game, Twin Tiles!, on iOS and Android. Istanbul-based Surge Games has secured $3 million in pre-seed funding to scale AI-native approach to mobile game development. Founded in 2026 by Muhammed Atlam, Onur Uras, Rabia Konuk Uras and Yiğit Yücel Neğiş, Surge Games integrates artificial intelligence across game development, art and user acquisition. Surge Games plans to use the new round to grow its team and scale its user acquisition processes while applying its production model to additional games. AI-first studio The round was led by Play Ventures, which described Surge Games as an AI-native mobile puzzle game company launched by four founders from a hacker house in Istanbul. Simya VC and Drilo Ventures also participated in the round. The startup believes advances in AI models and the growth of the hybrid-casual market can allow small teams to balance rapid production, high quality and innovative mechanics. Surge Games has already released its first matching puzzle game, Twin Tiles!, on iOS and Android. The founders have experience at Turkish companies including Dream Games, Good Job Games and Feraset.",
+        "impact": "استفاده گسترده از هوش مصنوعی در ساخت بازی، هزینه و زمان تولید را برای استودیوهای مستقل به‌شدت کاهش می‌دهد.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Pocket Gamer.biz",
+        "url": "https://www.pocketgamer.biz/surge-games-raises-3m-pre-seed-to-build-ai-native-mobile-games/",
+        "clean_url": "https://www.pocketgamer.biz/surge-games-raises-3m-pre-seed-to-build-ai-native-mobile-games",
+        "image": "https://media.pocketgamer.biz/images/141068/89696/surge-games_l1200.jpg",
+        "images": [
+            "https://media.pocketgamer.biz/images/141068/89696/surge-games_l1200.jpg",
+            "https://media.pocketgamer.biz/images/130447/std/isa-muhammad-pocketgamer-staff_640.jpg"
+        ],
+        "timestamp": 1787650320.0
     },
     {
         "id": "ec7ebdb1ea",
@@ -108,6 +179,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787645460.0
+    },
+    {
+        "id": "f093ffa6da",
+        "title_fa": "هشدار به سرمایه‌گذاران درباره حباب ارزش‌گذاری شرکت آرکیت کوانتوم",
+        "title_en": "Arqit Quantum: The Little Boat That Couldn't",
+        "summary": [
+            "تحلیل‌گران بازار سهام با صدور هشدار فروش، ارزش‌گذاری شرکت Arqit Quantum را به دلیل سوزاندن شدید نقدینگی و ریسک‌های عملیاتی بالا، غیرواقعی می‌دانند.",
+            "معامله سهام این شرکت با ضریب نزدیک به ۴۰۰ برابر فروش، نشان از حباب سنگین و عدم تناسب قیمت سهام با عملکرد مالی آن دارد."
+        ],
+        "full_text": "Arqit Quantum looks overvalued at 397.6x FY26 EV/Sales amid dilution, cash burn, and execution risks. Read why ARQQ stock is a Strong Sell.",
+        "impact": "بی‌اعتمادی سرمایه‌گذاران به شرکت‌های نوپای کوانتومی که فاقد مدل درآمدی پایدار هستند افزایش یافته است.",
+        "tag": "سخت‌افزار",
+        "urgency": 4,
+        "sentiment": -0.8,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4939836-arqit-quantum-the-little-boat-that-couldnt",
+        "clean_url": "https://seekingalpha.com/article/4939836-arqit-quantum-the-little-boat-that-couldnt",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1476800280/image_1476800280.jpg?io=getty-c-w1536",
+        "images": [
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1476800280/image_1476800280.jpg?io=getty-c-w1536"
+        ],
+        "timestamp": 1787642520.0
     },
     {
         "id": "60286dbeb5",
