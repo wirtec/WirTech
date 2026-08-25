@@ -1,5 +1,27 @@
 [
     {
+        "id": "88a83d71a5",
+        "title_fa": "رونمایی از پلتفرم هوشمند RISE برای مدیریت سازمان‌ها در عمان",
+        "title_en": "Otech and Remedy Launch AI-Powered RISE Talent Platform to Drive Enterprise Performance in Oman",
+        "summary": [
+            "شرکت‌های Otech و Remedy پلتفرم جدید RISE را برای ارتقای عملکرد سازمان‌ها در عمان راه‌اندازی کردند.",
+            "این سامانه مبتنی بر هوش مصنوعی، فرایند ارزیابی، جذب و ارتقای مهارت‌های نیروی انسانی را هوشمند می‌سازد."
+        ],
+        "full_text": "Otech and Remedy Launch AI-Powered RISE Talent Platform to Drive Enterprise Performance in Oman  TechAfrica News",
+        "impact": "تسریع دیجیتالی‌شدن منابع انسانی و اتوماسیون ارزیابی کارکنان در بازار خاورمیانه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "TechAfrica News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjREd0txWDh2ODdROHdlWm5LeVJqQTJZWlRCR000enNDeDhZcHN3ZGZQSl90bWJxWUIySjZtclZwX1VhVUZwd04wbnNtNVk4UW5zeHZvN1dQeGVKNWNDZEFDNm0zbGVETlBwRTlELUxlejJhZUlVOU9Ya2JUamZMY3lyM01WQzVYNEFFS0JTNXZ1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjREd0txWDh2ODdROHdlWm5LeVJqQTJZWlRCR000enNDeDhZcHN3ZGZQSl90bWJxWUIySjZtclZwX1VhVUZwd04wbnNtNVk4UW5zeHZvN1dQeGVKNWNDZEFDNm0zbGVETlBwRTlELUxlejJhZUlVOU9Ya2JUamZMY3lyM01WQzVYNEFFS0JTNXZ1QQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787668147.0
+    },
+    {
         "id": "d0952b98be",
         "title_fa": "ورود هوش مصنوعی به سرم‌های ضدآفتاب برند Ludient",
         "title_en": "Ludient Brings AI Skin Intelligence to SPF with Launch of Day Glow Sun Serum",
@@ -20,6 +42,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787665020.0
+    },
+    {
+        "id": "815d3c66cc",
+        "title_fa": "راهنمای انتخاب بهترین دایرکتوری برای معرفی ابزارهای هوش مصنوعی",
+        "title_en": "How to Choose the Best AI Tools Directory for Your Launch",
+        "summary": [
+            "هکرنون در مقاله‌ای آموزشی به بررسی معیارهای کلیدی برای انتخاب دایرکتوری مناسب جهت عرضه محصولات AI پرداخته است.",
+            "بررسی ترافیک واقعی، اعتبار پلتفرم و ترکیب مخاطبان، اصلی‌ترین فاکتورها برای جلب توجه اولین کاربران به شمار می‌روند."
+        ],
+        "full_text": "How to Choose the Best AI Tools Directory for Your Launch  HackerNoon",
+        "impact": "کاهش هزینه‌های بازاریابی استارتاپ‌ها و افزایش شانس دیده شدن محصولات نوپا.",
+        "tag": "استارتاپ",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "HackerNoon",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVERxa19CNlRQOWhrQmwxbjY2UFhWcmZUcVVaWEVYWEFRTm9BQ2w0d2JWalVRZWdzRllTajFkd19JbDdQNkZUUWpKdXZWN0p3UGxGMEdqcF9lRTBXZEhwYnRYRlBJOEhnTnFyQTl6U2FBSEdtaFBHQWtVM05FbHl4WVlpUlo3aUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVERxa19CNlRQOWhrQmwxbjY2UFhWcmZUcVVaWEVYWEFRTm9BQ2w0d2JWalVRZWdzRllTajFkd19JbDdQNkZUUWpKdXZWN0p3UGxGMEdqcF9lRTBXZEhwYnRYRlBJOEhnTnFyQTl6U2FBSEdtaFBHQWtVM05FbHl4WVlpUlo3aUE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787664869.0
     },
     {
         "id": "e9948f9ca0",
@@ -314,6 +358,33 @@
             "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1476800280/image_1476800280.jpg?io=getty-c-w1536"
         ],
         "timestamp": 1787642520.0
+    },
+    {
+        "id": "bbdb3b4da8",
+        "title_fa": "تراشه اختصاصی OpenAI؛ خط‌ونشان جدی برای پادشاهی انویدیا",
+        "title_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "summary": [
+            "OpenAI از اولین تراشه اختصاصی خود با نام Jalapeño پرده برداشت؛ پردازنده‌ای که با همکاری برادکام ویژه پردازش‌های استنتاجی (Inference) طراحی شده است.",
+            "تست‌های بنچمارک نشان می‌دهند این تراشه در اجرای مدل‌های پیشرفته‌ای مثل DeepSeek R1 تا ۳.۶ برابر تاخیر کمتری نسبت به سوپرچیپ‌های GB200 انویدیا دارد.",
+            "بازده انرژی Jalapeño حدود ۱.۹ برابر بهینه‌تر از قدرتمندترین رقباست و هزینه برق دیتاسنترها را به‌شدت پایین می‌آورد.",
+            "عرضه محدود این پردازنده از امسال آغاز می‌شود و تا سال ۲۰۲۷ به تولید انبوه خواهد رسید."
+        ],
+        "full_text": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the “best of both worlds” with lower latency and higher throughput, as AI systems typically “have to make a trade-off between the two.” OpenAI says its Jalapeño chip can power faster AI responses than the competition Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. First introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It’s designed for AI inference — the process of running a trained AI model to complete a task or deploy an agent. To measure Jalapeño’s performance, OpenAI used InferenceX, a benchmarking platform that shows how well AI systems handle inference. The test compared Jalapeño’s performance against the best results recorded at the time, which were with Nvidia’s GB200 or GB300 superchips. OpenAI says Jalapeño delivered 1.5 to 1.9 times more AI work per watt across GPT-OSS 120B, DeepSeek R1, and Kimi K2.5 1T than the comparison systems, while offering 1.7 to 3.6 times lower end-to-end latency across the three models. That means the chip can provide users with “faster responses, more responsive agents, and more reliable access as the demand grows,” according to Ho. OpenAI plans to deploy Jalapeño in “small volumes” by the end of this year, but will begin to “ramp the volume up” into 2027, Ho added. The company doesn’t say how many chips it plans to deploy next year, however. Even with these performance improvements, Ho said OpenAI doesn’t expect to replace its entire chip lineup with Jalapeño, saying its overall compute strategy includes “very good partners,” like Nvidia. OpenAI will continue developing the second and third generations of the new chip.",
+        "impact": "آغاز پایان انحصار مطلق انویدیا و کاهش چشمگیر هزینه‌های عملیاتی سرورهای هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "image": "http://www.bing.com/th?id=ONUT.nf4BYrmc570A046SyC3JQg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.nf4BYrmc570A046SyC3JQg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787641200.0
     },
     {
         "id": "60286dbeb5",
