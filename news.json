@@ -1,5 +1,71 @@
 [
     {
+        "id": "4c097c5f8b",
+        "title_fa": "راهنمای تماشای زنده پرتاب تلسکوپ فضایی رومن",
+        "title_en": "How to Watch the Roman Telescope Launch Aug 30",
+        "summary": [
+            "پوشش زنده رویداد پرتاب تلسکوپ فضایی رومن برای روز ۳۰ اوت برنامه‌ریزی شده است.",
+            "این تلسکوپ نسل جدید قرار است دید عمیق‌تری از کیهان و انرژی تاریک به دانشمندان بدهد."
+        ],
+        "full_text": "How to Watch the Roman Telescope Launch Aug 30  Technology Org",
+        "impact": "آغاز فاز تازه در ثبت تصاویر کیهانی و پردازش داده‌های نجومی.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Technology Org",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZMmdsTy1nSm5TV0pHdkp6TzJMOFM4ZXpMZmRLVnNsb1F1ai11TDJ4N2dIdkQxLUFGUXVjdXhtaURFbGFkWWtMaTZKel81MEZUMFF1VEU2aFZpYnRsdjdWTnkwdjh5cE9oMlJfTi1ock96N3FFRUpXNGpJYkxSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZMmdsTy1nSm5TV0pHdkp6TzJMOFM4ZXpMZmRLVnNsb1F1ai11TDJ4N2dIdkQxLUFGUXVjdXhtaURFbGFkWWtMaTZKel81MEZUMFF1VEU2aFZpYnRsdjdWTnkwdjh5cE9oMlJfTi1ock96N3FFRUpXNGpJYkxSZw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787647689.0
+    },
+    {
+        "id": "505f7edc3d",
+        "title_fa": "همکاری اسپیس‌ایکس و انویدیا برای ارسال هوش مصنوعی به فضا",
+        "title_en": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year",
+        "summary": [
+            "اسپیس‌ایکس و انویدیا در حال ساخت یک سیستم هوش مصنوعی بهینه‌شده برای شرایط مدار زمین هستند تا سال آینده پرتاب شود.",
+            "این پروژه پردازش داده‌های فضایی را به‌جای زمین، مستقیماً در خود فضا و روی ماهواره‌ها انجام می‌دهد."
+        ],
+        "full_text": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year  ET Manufacturing",
+        "impact": "تحول بزرگ در پردازش لبه‌ای (Edge Computing) فضایی و کاهش تأخیر در تحلیل داده‌های مداری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "ET Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVG1QTmJBd2RVS1BtLS1PeWdwUTI1d0lQeWM5UVBUWjZCSy1renVsWVFjSWZVZHh2MnRSdXRxVW9ibzlWQWI3SlF0VlNOd0JYOFYtbXEwQ0RhZUNvS3pzYUtQOUR0eUxxRmkxUnJkVnQ5aWNlVy0tWVpsOEtwQUVHb0NnT3BCbjFDUmhQa1VWYUVmVS1sOEtVSl9zX2pKOF95NzkyRG02cDI2SmRCaVczN0dhcXhBQXBCaG5MX21LMzFkWmZ6Vm0tQXFIRFRSZVJLbl93bWJuZFV3ZldMUTFDQVFDYVEteFZwZFdnRlVHMHNEdU45a2dDS3lPNmtTZFB6QnFuemdjRElXSE1Rc0FmQTJHS1ltMG95MGxmQkllODnSAeoBQVVfeXFMUDhoaWtqQjZKSWZyOTU3Ukt6Unphc1hhalVFbVBTQi1EZGFLM3FlYmw4b2JFT0g1TWRrX0tEY0VuanNSWHF6RHRJRkdoM2NXcFBrNG05Qnc2Vks3d3BfMU91b2FUREdkZU56WlFHR05HNVlYTlAwMDBpdDkzTlhyWFZvejMzcjBWMk5KTHNQamZyRWFUTmMtektHb3ZZNDVqS2dxTlVyck80YlhieFBMYURCYU84bzQtUTlPQ0JjTmdMSi16QXFzb2RCMkVyNlVscUdWSThfd1B0c1VFUGd0VXB2YjdtUVRJTFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVG1QTmJBd2RVS1BtLS1PeWdwUTI1d0lQeWM5UVBUWjZCSy1renVsWVFjSWZVZHh2MnRSdXRxVW9ibzlWQWI3SlF0VlNOd0JYOFYtbXEwQ0RhZUNvS3pzYUtQOUR0eUxxRmkxUnJkVnQ5aWNlVy0tWVpsOEtwQUVHb0NnT3BCbjFDUmhQa1VWYUVmVS1sOEtVSl9zX2pKOF95NzkyRG02cDI2SmRCaVczN0dhcXhBQXBCaG5MX21LMzFkWmZ6Vm0tQXFIRFRSZVJLbl93bWJuZFV3ZldMUTFDQVFDYVEteFZwZFdnRlVHMHNEdU45a2dDS3lPNmtTZFB6QnFuemdjRElXSE1Rc0FmQTJHS1ltMG95MGxmQkllODnSAeoBQVVfeXFMUDhoaWtqQjZKSWZyOTU3Ukt6Unphc1hhalVFbVBTQi1EZGFLM3FlYmw4b2JFT0g1TWRrX0tEY0VuanNSWHF6RHRJRkdoM2NXcFBrNG05Qnc2Vks3d3BfMU91b2FUREdkZU56WlFHR05HNVlYTlAwMDBpdDkzTlhyWFZvejMzcjBWMk5KTHNQamZyRWFUTmMtektHb3ZZNDVqS2dxTlVyck80YlhieFBMYURCYU84bzQtUTlPQ0JjTmdMSi16QXFzb2RCMkVyNlVscUdWSThfd1B0c1VFUGd0VXB2YjdtUVRJTFpB",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787646987.0
+    },
+    {
+        "id": "63f3c180c3",
+        "title_fa": "متا از ایجنت هوش مصنوعی Hatch در شهریور رونمایی می‌کند",
+        "title_en": "Meta Targets Early September for Hatch, Its Consumer AI Agent",
+        "summary": [
+            "متا برنامه‌ریزی کرده تا در اوایل سپتامبر (شهریور) از دستیار هوشمند جدید خود با نام Hatch برای کاربران عمومی رونمایی کند.",
+            "این ابزار قرار است به‌عنوان یک ایجنت خودمختار، انجام کارهای روزمره کاربران را بر عهده بگیرد."
+        ],
+        "full_text": "Meta Targets Early September for Hatch, Its Consumer AI Agent  BeInCrypto",
+        "impact": "ورود مستقیم متا به جنگ ایجنت‌های هوشمند شخصی و رقابت مستقیم با گوگل و OpenAI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787645460.0
+    },
+    {
         "id": "60286dbeb5",
         "title_fa": "میزبانی استانبول از جیتکس و جهش هوش مصنوعی در ترکیه",
         "title_en": "ترکیه در نقشه هوش مصنوعی جهان کجاست؟",
@@ -355,6 +421,53 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787607067.0
+    },
+    {
+        "id": "a01b7d3690",
+        "title_fa": "دستیابی به فرمول چاپ سه‌بعدی آلیاژهای موشکی با هوش مصنوعی",
+        "title_en": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
+        "summary": [
+            "محققان با کمک هوش مصنوعی و بدون نیاز به تست دستی ۱۰۰ میلیون حالت مختلف، ۶ روش برای چاپ آلیاژ پیشرفته ناسا روی پرینترهای سه‌بعدی معمولی پیدا کردند.",
+            "این نوآوری چاپ آلیاژ فوق‌مقاوم GRCop-42 را که قبلاً فقط با دستگاه‌های گران‌قیمت ممکن بود، برای عموم صنایع تجاری ممکن می‌کند."
+        ],
+        "full_text": "AI finds six ways to print rocket-grade alloy on commercial 3D printers Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options. The findings could someday allow the alloy, which is common in the aerospace industry but has many other potential applications, to be printed using widely available commercial equipment. And the AI techniques used could be applied in a variety of fields, including drug discovery. The research team, from WSU's School of Electrical Engineering and Computer Science and the School of Mechanical and Materials Engineering, published their work in the Proceedings of the AAAI Conference on Artificial Intelligence and received the Innovative Deployed Application Award at the group's annual conference. \"Ninety percent of commercial printers cannot print this metal alloy, so given that we were able to find these feasible process parameters, it allows us to use those commercial printers, and we are essentially democratizing the printing of this alloy,\" said Jana Doppa, Huie-Rogers Endowed Chair Professor of Computer Science and Berry Distinguished Professor in Engineering who led the research. A costly material to test The alloy, called GRCop-42, is made of three metals—copper, chromium and niobium. Developed by NASA, it has high thermal conductivity and remains strong under extreme heat, so it is used in the aerospace industry, such as in liquid rocket engine combustion chambers. Although it's a highly desirable material with many potential applications, it's expensive and energy-intensive to print, requiring a significant amount of laser power. Researchers have tried unsuccessfully to print the alloy at the lower wattages and laser powers that are used by more common commercial printers, but testing different configurations requires expensive materials, specialized equipment and significant human labor. A single printing run can cost hundreds of dollars, while detailed post-print quality analysis can take days. \"Sometimes they printed a certain configuration, and the product just melted,\" said Azza Fadhel, first author of the paper and a Ph.D. student in computer science. \"It wasn't really printable, and even with time and money, they wouldn't be able to try all 100 million options. What we were doing in our collaboration was applying AI so that we could efficiently choose candidates from this very large search space.\" Teaching the model where to look For the study, the team began with results from 37 unsuccessful configurations previously tested in the School of Mechanical and Materials Engineering. They then developed an approach using those results to estimate the likelihood that an untested configuration would produce a successful print. Their model then selected small batches of new configurations that balanced two goals: testing promising options and exploring uncertain areas that could improve the AI model. Working with Nathaniel Zuckschwerdt, Susmita Bose and Amit Bandyopadhyay in the School of Mechanical and Materials Engineering, the team used the AI-selected process configurations to print GRCop-42 and evaluated the resulting samples. Aryan Deshwal from the University of Minnesota also collaborated on the project. \"They would give me back the results, and I liked all of them—even if they failed—because every result improved our AI model,\" said Fadhel. Six successful prints in 40 tries Printing at lower laser power could reduce energy use, equipment wear and post-processing costs while making GRCop-42 accessible to universities, small laboratories and companies that do not own specialized high-power equipment. The researchers knew that only a very small fraction of the more than 100 million configurations would be successful. \"It's a very challenging case for AI,\" said Doppa. \"Every time you try, you basically get a binary success or failure signal, and you are trying to minimize the number of tries that you have so that you get to those successful needles very quickly.\" Over three months and within a total budget of 40 experiments, the team identified six successful configurations over different laser power levels. The team successfully printed the alloy at 500 watts for the first time. The researchers believe the same AI-guided framework could be adapted to discover processing conditions for other metal alloys and additive manufacturing systems. More broadly, it could support scientific discovery problems in which successful outcomes are rare and experiments are too costly to test every possibility. \"There's always uncertainty when you are deploying something where real people, materials and physical costs are involved,\" said Doppa. \"We didn't know whether we would succeed or not, and there is always that risk. There are real stakes. I was very surprised that we were able to do this so well.\" More information Azza Fadhel et al, Discovery of Feasible 3D Printing Configurations for Metal Alloys via AI-Driven Adaptive Experimental Design, Proceedings of the AAAI Conference on Artificial Intelligence (2026). DOI: 10.1609/aaai.v40i47.41428",
+        "impact": "کاهش بی‌سابقه هزینه‌های تولید قطعات هوافضا و دموکراتیک‌سازی ساخت سخت‌افزارهای پیشرفته.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
+        "clean_url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-ai-to-6.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-ai-to-6.jpg",
+            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
+            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg",
+            "https://phys.b-cdn.net/tmpl/v6/img/techX_w.svg"
+        ],
+        "timestamp": 1787607000.0
+    },
+    {
+        "id": "b1d24c26f0",
+        "title_fa": "چالش ارجاعات جعلی AI در دانشگاه‌ها و اسناد رسمی آفریقا",
+        "title_en": "African Researchers Tackle AI in Academic Publishing at TUT UNESCO Chair Seminar",
+        "summary": [
+            "پس از رسوایی وجود منابع ساختگیِ هوش مصنوعی در پیش‌نویس سند ملی AI جنوب آفریقا، دانشگاه‌ها در حال بازنگری قوانین پژوهشی هستند.",
+            "مراکز علمی آفریقایی به‌جای استفاده از ابزارهای نامطمئن تشخیص AI، به سمت الزام به شفاف‌سازی و ارتقای سواد هوش مصنوعی حرکت کرده‌اند."
+        ],
+        "full_text": "Researchers from across the continent gathered at Tshwane University of Technology for the UNESCO Chair on African Integration and Innovation Research Seminar, where the ethical use of artificial intelligence in academic publishing shared the programme with research on economic resilience, export diversification and AI-driven credit risk modelling. Hosted by TUT’s Department of Economics and supported by a grant from the African Union Development Agency, the seminar was designed to strengthen research capacity, exchange findings and identify publication opportunities. AI and the publication problem Professor Paul-Francois Muzindutsi, an NRF-rated finance expert from the University of KwaZulu-Natal, delivered a guest lecture titled “Writing for Publication in the Age of Artificial Intelligence.” He examined AI’s growing role in research and publication, addressing methodology, data analysis and writing structure — and emphasised the importance of using AI ethically and responsibly in academic work. That subject carries particular weight in South Africa this year. In April, the government gazetted an 86-page draft National AI Policy containing 67 references, several of them citations to academic journal articles that did not exist. Communications Minister Solly Malatsi withdrew the document on 26 April, saying the failure was not merely technical and had compromised the policy’s integrity and credibility. An expert panel chaired by Wits AI researcher Professor Benjamin Rosman is rebuilding it, and the World Bank subsequently excluded South Africa from its global map of countries with a national AI strategy. The episode made concrete what Muzindutsi’s lecture addresses in principle: that generative systems produce plausible-looking references, and that verification is the researcher’s responsibility rather than the tool’s. African universities have been building norms around this through the year. Makerere University held a webinar in June on adopting AI in research management, where participants raised questions on ethical use in academic writing, disclosure of AI-assisted editing and data privacy. South African institutions including UCT, Stellenbosch and the University of the Free State have moved away from AI detection software toward disclosure requirements and AI literacy, partly because detection tools show documented bias against second-language English writers. Deep learning applied to credit risk Dr Oluwatoyin Akinbowale, a postdoctoral fellow specialising in managerial accounting, finance and cyberfraud mitigation, presented findings from her study “Evaluating the Loan Default Rate Using Deep Learning AI Techniques,” investigating the use of AI to predict loan default patterns. That research sits in a category attracting both commercial and regulatory attention. Nigerian fintech Mathesis Analytics raised strategic investment this month to scale AI credit decisioning, having supported more than 8 million loans. Nigeria’s Artificial Intelligence Control and Regulation Bill, before the National Assembly, names credit scoring as a high-impact decision requiring disclosure of automated involvement and a route to challenge outcomes. Academic work on default prediction feeds directly into a field where explainability is becoming a legal requirement rather than a technical preference. The wider programme Professor Mulatu Zerihun, NRF C2-rated researcher, UNESCO Chair and Head of the Department of Economics, presented a paper on alternative thinking in economics, encouraging researchers to embrace diverse perspectives. “Diverse thinking strengthens research by encouraging new perspectives and innovative solutions,” he said. “Research is not a one-size-fits-all endeavour.” He argued that understanding historical context is essential to developing solutions for present challenges. Dr Kazeem Isah — ranked among the top 5% of economists in Nigeria and top 10% in Africa by the Research Papers in Economics network — presented research on how climate variability affects sectors of South Africa’s economy, and whether strong environmental, social and governance conditions contribute to economic resilience. Dr Olivier Ogbonna, lecturer at the University of Nigeria, Nsukka, presented “Moderating Effects of Exports Diversification on Economic Policy Uncertainty and Exports Nexus in Africa,” examining how trade disputes, conflict and policy uncertainty affect export performance across the continent. The seminar closed with a session led by Dr Mukhethwa Londani, senior biostatistician and statistical analyst at TUT, introducing researchers to QuestionPro, an online survey platform. Understanding such tools is critical, he said, because they bridge raw human sentiment and actionable, data-driven strategy, shaping how research data is gathered, protected and visualised. Postdoctoral fellows in the department also presented work for peer feedback.",
+        "impact": "افزایش سخت‌گیری روی راستی‌آزمایی خروجی‌های هوش مصنوعی در حوزه دانشگاهی و سیاست‌گذاری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "iAfrica",
+        "url": "https://iafrica.com/african-researchers-tackle-ai-in-academic-publishing-at-tut-unesco-chair-seminar/",
+        "clean_url": "https://iafrica.com/african-researchers-tackle-ai-in-academic-publishing-at-tut-unesco-chair-seminar",
+        "image": "https://iafrica.com/wp-content/uploads/2026/08/UNESCO-Seminar-1.jpg",
+        "images": [
+            "https://iafrica.com/wp-content/uploads/2026/08/UNESCO-Seminar-1.jpg"
+        ],
+        "timestamp": 1787605200.0
     },
     {
         "id": "5f6f9bad77",
