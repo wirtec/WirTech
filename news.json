@@ -1,5 +1,76 @@
 [
     {
+        "id": "327a793a08",
+        "title_fa": "عرضه مدل باز Muse Glimmer متا برای اجرا روی سخت‌افزار خانگی",
+        "title_en": "Meta Releases Muse Glimmer, an Open-Weight AI Model Designed to Run on Consumer Hardware",
+        "summary": [
+            "متا مدل هوش مصنوعی وزندار باز جدیدی به نام Muse Glimmer را منتشر کرد که برای سخت‌افزارهای معمولی بهینه‌سازی شده است.",
+            "این مدل به کاربران و توسعه‌دهندگان اجازه می‌دهد بدون نیاز به سرورهای گران‌قیمت ابری، هوش مصنوعی را روی سیستم‌های شخصی خود اجرا کنند.",
+            "حرکت جدید متا گام مهمی در جهت غیرمتمرکزسازی هوش مصنوعی و دسترس‌پذیری عمومی آن محسوب می‌شود."
+        ],
+        "full_text": "Meta Releases Muse Glimmer, an Open-Weight AI Model Designed to Run on Consumer Hardware  Campus Technology",
+        "impact": "کاهش وابستگی توسعه‌دهندگان مستقل به پردازش ابری و جهش در اجرای محلی مدل‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Campus Technology",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHJtUkNHamhYd29fWE0yUFhnQXRvanV0akVBSU0wcnJGUldOVE9FM0NKUDE5U3hxTVdIenlvTUdQdkFFNGlla0UwZGpSSjU5dnA5QnBZbWhCNk1PaHBJZ1VfOGpNLVlaQU5fSU8yVkMyMnFxclpZMHNiYjNSWjI2LVBhczZiYUwtV25ubG1DVlBOcnlSRVhMQ01ORXFWQ0hCdVBHWklsN3p4SWNHaTEwWDMwRkNfekVTWFAwcVBHd3k1WkE1clhOSVMxdDUxQW9nR3JxYUFuU18tbUZfaXRXY0xSMEJkd3lVRTFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHJtUkNHamhYd29fWE0yUFhnQXRvanV0akVBSU0wcnJGUldOVE9FM0NKUDE5U3hxTVdIenlvTUdQdkFFNGlla0UwZGpSSjU5dnA5QnBZbWhCNk1PaHBJZ1VfOGpNLVlaQU5fSU8yVkMyMnFxclpZMHNiYjNSWjI2LVBhczZiYUwtV25ubG1DVlBOcnlSRVhMQ01ORXFWQ0hCdVBHWklsN3p4SWNHaTEwWDMwRkNfekVTWFAwcVBHd3k1WkE1clhOSVMxdDUxQW9nR3JxYUFuU18tbUZfaXRXY0xSMEJkd3lVRTFB",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787775018.0
+    },
+    {
+        "id": "c45597c0ce",
+        "title_fa": "هشدار زودهنگام کارمندان OpenAI درباره هک توسط عامل‌های هوشمند",
+        "title_en": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
+        "summary": [
+            "کارمندان OpenAI پیش از بروز هشدارهای جهانی، علائم خطر استفاده تهاجمی از عامل‌های هوش مصنوعی را شناسایی کرده بودند.",
+            "توانایی عامل‌های خودمختار در شناسایی و استثمار آسیب‌پذیری‌های امنیتی، زنگ خطری جدی برای متخصصان سایبری است."
+        ],
+        "full_text": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm  The Guardian",
+        "impact": "افزایش فشارهای نظارتی بر توسعه‌دهندگان مدل‌های خودمختار برای ایجاد محدودیت‌های امنیتی سخت‌گیرانه‌تر.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787774280.0
+    },
+    {
+        "id": "7418a855cc",
+        "title_fa": "نفوذ گسترده هوش مصنوعی به کسب‌وکارهای کوچک و نوپا",
+        "title_en": "AI Is Opening a New Market Among the World's Smallest Businesses",
+        "summary": [
+            "طبق آمار جدید، نزدیک به ۴۶ درصد از کسب‌وکارهای کوچک در حال حاضر از ابزارهای هوش مصنوعی استفاده می‌کنند.",
+            "بیش از ۶۵ درصد از افرادی که قصد راه‌اندازی کسب‌وکار جدید دارند، روی هوش مصنوعی برای تحقیقات بازار و برندسازی حساب کرده‌اند.",
+            "با وجود عدم نیاز به سرمایه‌های کلان، تنها ۷ درصد از مجموعه‌ها توانسته‌اند هوش مصنوعی را کاملاً در فرآیندهای کاری خود ادغام کنند."
+        ],
+        "full_text": "Artificial intelligence (AI) is transforming businesses across various sectors, and its impact is no longer limited to large corporations; it’s now moving into the everyday operations of small businesses. This shift is becoming increasingly visible. A QuickBooks-commissioned survey of thousands of adults across the US, Canada, Australia, and the UK found that a growing, informal entrepreneurship economy is changing how new ventures get started. According to the survey, 33% of US adults plan to start a business or side hustle this year, a 94% increase from last year, and 65% of aspiring American business owners say they are likely to lean on AI to launch their venture. These ambitious founders plan to use AI to conduct market research (29%), create websites or product listings (19%), and develop branding assets (14%). That same research shows the money behind these ambitions is thin, with Americans estimating they need tens of thousands of dollars to start a business. Yet cost barriers haven’t slowed adoption among those already running one. New research from the Federal Reserve Bank of San Francisco found that nearly 46% of small-business respondents already use AI, while an additional 15% planned to begin using it in the next 12 months. One-third of firms in its 2025 Small Business Credit Survey, however, have no plans to use AI, with 30% saying they simply prefer not to. And among those using AI, only 7% had fully integrated it into their business processes, while half said they were experimenting with it and another 44% had partially integrated it. At the same time, data from SoFi reports that about three-quarters of small business owners are now using at least one AI tool, and LinkedIn’s 2026 research describes AI as a strategic asset. “AI has moved from a tool to a strategic asset for small businesses aiming to stay resilient and grow in 2026. By adopting AI, businesses can streamline operations, reduce costs, and accelerate decision-making, creating space for innovation and relationship-building.” – Sharat Raghavan, an Economist and Director of Research at LinkedIn All this data makes clear that AI is no longer just a big-company story; it is playing out across the broader business economy. But the question remains: can AI genuinely narrow the resource gap between the smallest businesses and larger competitors, or will it create a new technological divide? This question is particularly important in the informal economy, which is characterized by unregistered, unregulated, and mostly micro-sized businesses. A new academic study looks into exactly that: who wins and who is left behind among these businesses. AI Lowers the Barrier But Not Every Barrier Today, artificial intelligence is everywhere, and it seems to have happened overnight. While the launch of ChatGPT in late 2022 took AI mainstream, AI’s history goes much further back. The groundwork for the technology began in the early 1900s. In 1950, mathematician Alan Turing published “Computer Machinery and Intelligence,” which introduced the Turing Test, used by experts to measure computer intelligence. The term “artificial intelligence,” meanwhile, was coined by John McCarthy, who also created the first programming language for AI research (LISP). After a period of both rapid growth and struggle came the AI boom of 1980-1987, marked by government funding and research breakthroughs. But then interest in the technology waned, though development continued, and the first decade of the 2000s recorded substantial progress, including a robot simulating human emotions, remote-controlled vehicles navigating other planet surfaces without human intervention, companies using AI in their UX algorithms, and the release of Siri. This brings us to the present day, when we are seeing a surge in common-use AI tools like chatbots, virtual assistants, search engines, and workflow automation. These tools have made AI wildly popular among consumers and are now having a significant impact on the business world. AI involves computer systems and applications designed to simulate human intelligence, including recognizing patterns, making predictions, and supporting decisions. In business, AI is being increasingly embedded in digital products we use regularly, such as customer-service chatbots, recommendation systems, content-generation tools, translation applications, advertising platforms, and financial technologies. This lets entrepreneurs access AI through tools they already use, rather than building AI systems themselves. For people running small businesses, this matters because the main constraint they face is the limited amount of time, money, information, and labor available to turn entrepreneurial ambition into action, and AI helps remove those constraints. For years, the benefits of the kind of automation that AI offers could only be enjoyed by large organizations that could afford data scientists, cloud contracts, and custom software. As a result, small businesses have lagged behind larger organizations in adopting new technologies. But that changed with smartphones and social media platforms, which put these capabilities right inside the tools people already own. With AI tools now widely accessible, an entrepreneur doesn’t have to understand how a neural network works; they only need to know how to open an app. That is driving increased AI adoption. For instance, JPMorgan’s first report in the Small Business in the Age of AI research series shared that newer firms are “more likely to adopt AI at the outset and ramp up more quickly.” Small businesses are also consistently paying for AI, “using a wider range of services than before.” What’s more, the technology could change how small businesses compete. Using generative AI, they can reduce the cost and time involved in developing ideas or producing content, communicate across languages more easily through translation tools, leverage AI-supported analytics to interpret customer preferences and mar",
+        "impact": "کاهش هزینه‌های اولیه شروع کسب‌وکار و پر شدن شکاف رقابتی میان مجموعه‌های کوچک و غول‌های صنعتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "Securities.io",
+        "url": "https://www.securities.io/ai-is-opening-a-new-market-among-the-worlds-smallest-businesses/",
+        "clean_url": "https://www.securities.io/ai-is-opening-a-new-market-among-the-worlds-smallest-businesses",
+        "image": "https://www.securities.io/wp-content/uploads/2026/08/AI-Opens-a-Global-Market-Among-Small-Businesses.jpg",
+        "images": [
+            "https://www.securities.io/wp-content/uploads/2026/08/AI-Opens-a-Global-Market-Among-Small-Businesses.jpg",
+            "https://www.securities.io/wp-content/uploads/2026/08/Entrepreneurship-in-2026-1-us-en.jpg",
+            "https://www.securities.io/wp-content/uploads/2026/08/fig2-cohort-months-to-10pct-643x450.jpg",
+            "https://www.securities.io/wp-content/uploads/2021/05/Logo200x26-topmenu.svg"
+        ],
+        "timestamp": 1787766840.0
+    },
+    {
         "id": "9c4923360a",
         "title_fa": "راه‌اندازی صندوق ۸۴ میلیون دلاری برای توسعه استارتاپ‌های آفریقایی",
         "title_en": "Ventures Platform Raises $84M Second Fund to Expand Pan-African Investment Beyond Nigeria",
@@ -70,6 +141,28 @@
             "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787761477.0
+    },
+    {
+        "id": "40750f1106",
+        "title_fa": "درس‌های رشد کسب‌وکار از زبان مدیران خلاق تبلیغات",
+        "title_en": "The Smartest Growth Strategy I Learned Didn't Come From an MBA — It Came From an Advertising Creative",
+        "summary": [
+            "نوآوری بعدی در توسعه کسب‌وکار لزوماً از ابزارهای بهره‌وری حاصل نمی‌شود، بلکه از تفکر خلاق برمی‌خیزد.",
+            "نگاه خلاقانه به پروژه‌ها می‌تواند مسیرهای تازه‌ای برای حل مسائل پیچیده مدیریتی باز کند."
+        ],
+        "full_text": "The next breakthrough for your business may not come from another productivity tool or another trend report, it may begin exactly where a creative director started years ago.",
+        "impact": "تغییر زاویه دید مدیران از ابزارهای سخت‌افزاری به تکنیک‌های تفکر خلاق.",
+        "tag": "کسب‌وکار",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "Entrepreneur",
+        "url": "https://www.msn.com/en-us/money/general/the-smartest-growth-strategy-i-learned-didn-t-come-from-an-mba-it-came-from-an-advertising-creative/ar-AA2aYHDf",
+        "clean_url": "https://www.msn.com/en-us/money/general/the-smartest-growth-strategy-i-learned-didn-t-come-from-an-mba-it-came-from-an-advertising-creative/ar-AA2aYHDf",
+        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/smartest-growth-strategy-0826-g-1163753891.jpg?resize=1024,655",
+        "images": [
+            "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/smartest-growth-strategy-0826-g-1163753891.jpg?resize=1024,655"
+        ],
+        "timestamp": 1787760000.0
     },
     {
         "id": "f00f811ea2",
@@ -248,6 +341,32 @@
         "timestamp": 1787749443.0
     },
     {
+        "id": "2c151aad8d",
+        "title_fa": "سردرگمی کاربران در میان نام‌گذاری‌های چندگانه هوش مصنوعی گوگل",
+        "title_en": "Google’s Gemini has a branding problem, and so does the rest of AI",
+        "summary": [
+            "گوگل ابزارهای مختلف دستیار Gemini مثل Spark و Daily Brief را با برندهای مجزا عرضه کرده که باعث سردرگمی کاربران معمولی شده است.",
+            "ویژگی Daily Brief هنوز توانایی تشخیص پیام‌های ضروری از پیشنهادات غیرضروری را ندارد و رفتاری مشابه اسپم از خود نشان می‌دهد.",
+            "کارشناسان معتقدند گوگل به جای پیچیده‌تر کردن رابط کاربری، باید ساختار فنی را پشت یک تجربه ساده‌تر پنهان کند."
+        ],
+        "full_text": "Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands. But there’s a ridiculousness here: Google has given every Gemini AI feature under the sun its own branding, which undercuts that very message. In the Gemini app, users can switch between chat, Spark, and Daily Brief — three separate features, each with its own icon and place in the app’s navigation. This clutters up what could otherwise be a more straightforward consumer experience, and it suggests that Gemini is still struggling to find a killer feature. Take Daily Brief, for example. The feature comes across as the kind of thing an AI engineer, not an everyday user, would think is clever. It’s essentially an AI-enabled agenda that offers “proactive, personalized updates” using data pulled from Google’s apps, like Gmail and Calendar. In practice, though, the Brief can’t tell the difference between information that’s urgent or actionable and unsolicited nudges to follow up on other things — like prompting you to continue research you started in the chatbot, or worse, resurfacing your prior Google searches. That second part doesn’t feel useful; it feels creepy. So what if I had been researching college scholarships or animal rescues on Google? That doesn’t mean I want an AI tapping me on the shoulder about them later. Spark has the opposite problem. It’s one of the more useful aspects of Gemini’s app — an AI agent that can take action on your behalf — but Google has packaged it as its own standalone brand, which it doesn’t need to be. Sure, internally, Google engineers may want to be on the Spark team, and that’s fine — but a mainstream AI app user definitely does not need to think about which “side” of the AI app they need to be in for a given task. They should just be able to type their request, and the AI figures out how to handle it, spinning up an agent if the task calls for one. In fairness, the problem isn’t limited to Gemini. The AI industry at large seems to expose its internal architecture directly to consumers rather than hiding it behind a simpler interface. Today, people have to think about whether they want to “chat” with Anthropic’s Claude or “Cowork” with its help. (Until this week, those two modes inside the Claude app didn’t even share a memory of past conversations.) ChatGPT is the same, requiring you to swap between “Chat” and “Work.” This is the kind of engineering-minded design that makes engaging with AI feel unnatural. Consumers are being asked to learn the brand names for what are essentially interaction modes or surfaces, powered by a company’s AI model. This may be why Apple’s somewhat anticlimactic approach to Siri could ultimately win over consumers. iPhone and Apple device owners don’t have to change any of their existing behavior to take advantage of it. Apple simply makes the apps and features that people already use — like Spotlight Search, the Photos app, the iPhone’s Camera, and Siri voice requests — smarter without asking users to learn a new interface. This same principle may explain the rise of text-based AI services, where users simply text a chatbot — like Poke, Ollie, Lindy, Orchid, Lucas, Folk, Tomo, Instinct, or others — and the assistant just does what’s asked. Text messaging is a clean and simple, well-understood user interface, and it doesn’t require extra mental effort to figure out which feature or product inside a larger app you’re supposed to use. As a16z investment partner Justine Moore recently wrote, “People don’t want to open an app every time they need help – they want a contact they can text like a friend. And the gold standard is iMessage.”",
+        "impact": "کاهش نرخ رضایت کاربران از تجربه کاربری چت‌بات Gemini و کند شدن روند همه‌گیری آن.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+        "clean_url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
+        "image": "http://www.bing.com/th?id=ONUT.S1cBE-osW41QWe1iTCNxmQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.S1cBE-osW41QWe1iTCNxmQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1787747820.0
+    },
+    {
         "id": "c39f071577",
         "title_fa": "ارتقای چهار بخش اصلی پلتفرم Specright با تمرکز بر هوش مصنوعی",
         "title_en": "Specright Doubles Down on AI, Launching Four Major Platform Advances Across the Product Lifecycle",
@@ -314,6 +433,58 @@
         "timestamp": 1787739473.0
     },
     {
+        "id": "caf53c7f55",
+        "title_fa": "توقیف شبکه‌ بات‌نت چینی مسئول حمله به ناسا و سنای آمریکا",
+        "title_en": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+        "summary": [
+            "اف‌بی‌آی دامنه شبکه بوت‌نت بزرگ QTFY وابسته به دولت چین را مسدود و زیرساخت‌های آن را از کار انداخت.",
+            "این شبکه برای پنهان کردن هک‌های گسترده علیه ناسا، وزارت دادگستری و سنای آمریکا استفاده می‌شده است.",
+            "عملیات نفوذ این گروه از سال ۲۰۱۸ فعال بوده و سخت‌افزارهای متصل به اینترنت را هدف قرار داده بود."
+        ],
+        "full_text": "The FBI has seized a series of domains that were used by a large-scale botnet to coordinate and launch China-backed cyberattacks against American targets. According to the Justice Department’s statement on Wednesday, the seizures of the botnet’s domains deny the operators access to the platforms. The botnet was allegedly used by the Chinese government to break into computers across the United States, including systems at hospitals, defense contractors, and several federal government departments. Prosecutors said the China state-sponsored group, known as QTFY, was run by a Chinese company called Nanjing Xinjiuwei Network Tech, which created and operated the botnet of thousands of compromised internet-connected devices. The botnet aimed to serve as obfuscation networks, which hide the malicious traffic of hackers to make their activity more difficult to detect. Per the Justice Department, QTFY offers computer hacking services to its customers, who include Chinese government hackers working for the Ministry of State Security, and allows them to use the botnet. The hacks date back to 2018 and affected NASA, the Federal Reserve, and the Departments of Energy, Justice, and Health and Human Services. The U.S. Senate was compromised as recently as 2026, according to the government’s affidavit seeking a court order to seize the botnet’s domains filed earlier this week. The Justice Department said that the domain seizures made the botnet and its command and control servers “inoperable,” as the domains were hardcoded into the botnet’s code and were critical for the botnet’s communication and essential operations. Network giant Lumen said in a blog post that it had observed the hackers profiling and targeting government agencies, the defense and aerospace sectors, and others for the past year, and shared threat intelligence with the FBI.",
+        "impact": "قطع موقت دسترسی هکرهای دولتی چین به زیرساخت‌های حساس ایالات متحده.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+        "clean_url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate",
+        "image": "http://www.bing.com/th?id=ONUT.RX-Aht13Is9BzBKS1zweIw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.RX-Aht13Is9BzBKS1zweIw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/08/qt-seizure-screenshot-rocks.jpeg"
+        ],
+        "timestamp": 1787738460.0
+    },
+    {
+        "id": "e0ce8bb07a",
+        "title_fa": "صندوق ۱۷ میلیون دلاری Capital F برای توسعه اقتصاد زنان",
+        "title_en": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+        "summary": [
+            "صندوق سرمایه‌گذاری Capital F با مدیریت ۱۰۰ درصد زنانه، ۱۷ میلیون دلار برای پشتیبانی از استارتاپ‌های حوزه سلامت زنان، تجارت دیجیتال و ابزارهای هوش مصنوعی جمع‌آوری کرد.",
+            "بیش از ۸۰ درصد سرمایه‌گذاران این صندوق را زنان مدیر در برندهای بزرگی مثل Old Navy و Pottery Barn تشکیل می‌دهند.",
+            "هدف اصلی این مجموعه ایجاد شبکه‌ای پایدار از مشاوران و خریداران برای رشد واقع‌بینانه استارتاپ‌های هدف است."
+        ],
+        "full_text": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunch — women’s health, digital commerce, and AI tools. The latter is increasingly important since “women are disproportionately the victims of trust and safety violations,” Dawn Dobras, the co-founder of Capital F, added. Coblentz and Dobras spent the last 30 years running companies together. Dobras was notably the CEO of the clean beauty retailer Credo Beauty and spent a decade at Gap before moving on to the clothing retailer Charlotte Russe. Coblentz also worked at Charlotte Russe before launching her own luxury knitwear brand, which eventually exited. Coblentz said she and Dobras decided to come together and launch a firm after spending years at the executive top ranks and realizing that “there weren’t a lot of women there.” “If you had asked me maybe 15 years ago, ‘Are you going to go into venture?’ I don’t know that I would have said yes,” Coblentz said. She and Dobras started angel investing after their corporate careers and always knew that “who writes the check and who owns the company matters quite a bit.” They first worked together almost 17 years ago at Charlotte Russe and figured, well, second time was the charm. The result was Capital F, named after their favorite F words, Dobras said. “Things like future, fund, fantastic, and, you know, fill in the blank.” During the fundraising process, they hosted salon events across the country for the “VC curious” to bring more women into investing, and as a result, almost 80% of the fund’s LPs are women, including Jenny Ming, the CEO of Rothys and former head of Old Navy; Marta Benson, former CEO of Pottery Barn; and Linnea Roberts and her firm Gingerbread Capital. “We realized that many times women aren’t invited into the rooms to invest in funds,” Dobras said. Dobras said Capital F doesn’t back a founder until they’ve spoken to at least two of their LPs. “We’ve seen those relationships move into advisor, into board members, into additional investments,” she continued, “and most importantly, lots and lots of sales introductions.” The journey to raise this fund had its ups and downs. “We always say we’re going to write a book,” Dobras said. They were working with the disadvantage of essentially being new fund managers. “Really, the people who supported us and wrote those checks came out of those salons,” Dobras said. Over the past decade, there has been a lot of talk about the importance of investing in more technology that centers on women’s issues, such as women’s health, which has long been underfunded and underfocused. Coblentz said that, in many ways, those conversations have led to some innovations that are starting to have an impact. They also mentioned companies in their portfolio, like Malama, which offers doula support for people on Medicaid. The firm has cut checks to 13 companies. It backs early-stage companies, writing checks between $250,000 and $1 million. Portfolio companies include the telemedicine startup Hey Jane, the period-and-cycle-tracking platform Stardust, and Big Sur AI, which Google acquired last year. “That was a fun LP letter to write because we hadn’t even closed the fund and we’ve already had an exit,” Dobras said. They expect to finish deploying the fund by the end of 2027. This article was updated.",
+        "impact": "افزایش سهم زنان در جذب سرمایه و هدایت بازار هوش مصنوعی به سمت ابزارهای ایمن‌تر برای کاربران.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+        "clean_url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy",
+        "image": "http://www.bing.com/th?id=ONUT.ky_8br_g88hRVYzjUHkERQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ky_8br_g88hRVYzjUHkERQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
+            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1787738400.0
+    },
+    {
         "id": "cd5f4857f1",
         "title_fa": "همکاری Perplexity با Flanks برای تحول در مدیریت هوشمند سرمایه‌گذاری",
         "title_en": "Flanks Partners with Perplexity to Launch AI-Driven Wealth Management Data Connector",
@@ -334,6 +505,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787735160.0
+    },
+    {
+        "id": "23859d590c",
+        "title_fa": "جهش ۱۳.۳ میلیارد دلاری استارتاپ سوئدی Lovable و رونق اکوسیستم نوردیک",
+        "title_en": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+        "summary": [
+            "استارتاپ برنامه نویسی هوشمند Lovable با جذب ۴۰۰ میلیون دلار سرمایه جدید، ارزش خود را در ۸ ماه دو برابر کرد.",
+            "رشد سریع شرکت‌هایی مثل Legora و Neko Health نشان‌دهنده جریان سنگین سرمایه‌گذاری آمریکایی‌ها در استارتاپ‌های سوئدی است.",
+            "حمایت‌های اجتماعی قوی در کشورهای نوردیک، ریسک‌پذیری بنیان‌گذاران فناوری را به شدت افزایش داده است."
+        ],
+        "full_text": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe’s startup scene, to unpack what’s driving startup growth in the Nordic ecosystem, from Sweden’s social safety net to the wave of U.S. capital flowing in. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify, and all the casts. You can also follow Equity on X and Threads at @EquityPod.",
+        "impact": "تبدیل شدن سوئد به یکی از قطب‌های اصلی توسعه ابزارهای کدنویسی و فناوری‌های پیشرفته در اروپا.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+        "clean_url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora",
+        "image": "http://www.bing.com/th?id=ONUT.w2YJ3clRR0gug-B2EPkxAg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.w2YJ3clRR0gug-B2EPkxAg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2022/08/TheresaL-Profile-pic.jpg?w=150",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=668"
+        ],
+        "timestamp": 1787734800.0
     },
     {
         "id": "ecce016a94",
@@ -451,6 +648,32 @@
         "timestamp": 1787726941.0
     },
     {
+        "id": "00a42d33ef",
+        "title_fa": "چالش کمبود داده در هوش مصنوعی فیزیکی و افت ارزش Unitree",
+        "title_en": "Robot brain builders are pushing out of their GPT-2 era",
+        "summary": [
+            "سقوط ۵۰ درصدی ارزش سهام شرکت Unitree نشان داد که ربات‌های انسان‌نما هنوز دانش کافی برای انجام کارهای تجاری واقعی را ندارند.",
+            "توسعه‌دهندگان هوش مصنوعی فیزیکی بر این باورند که این صنعت هنوز در دوران ابتدایی (شبیه به عصر GPT-2) به سر می‌برد.",
+            "بزرگ‌ترین مانع فعلی، بحران کمبود داده‌های باکیفیت برای آموزش رفتار و لمس محیط توسط ربات‌هاست."
+        ],
+        "full_text": "Physical AI is one of the hottest sectors in venture investing, with companies raising billions to apply the tools that gave large language models to robotics. That excitement helped deliver a big IPO for Unitree, China’s leading robot maker, which saw the company valued at $66 billion after its arrival on China’s equivalent of the Nasdaq. This week, however, the bottom fell out, and the company lost nearly half of its value. Analysts point to one obvious issue: While the robots’ physical capabilities are improving, they still lack the know-how to actually do value-creating work. At last week’s Actuate conference, a gathering of developers building AI brains for robots, the excitement was clear. The event has tripled in size since it kicked off in 2023, and had 1,500 attendees, according to the organizer, Foxglove, a company that helps physical AI model builders manage and visualize their data. The risk was also evident: A sign on a booth for Avala, another physical AI infrastructure player, promised to solve “the robotics data crisis.” That crisis is the lack of high-quality training data for AI models. Attempts to build generalized robots that can do any task are still far off, and using end-to-end learning for specific tasks still hasn’t delivered products with reliable, commercial performance. For developers, the answer is to better mimic the advances of the frontier AI labs — find or create more diverse datasets, mess with different training regimes, and figure out better reinforcement learning scenarios. Harry Mellsop, a founder of Antioch, a startup building simulation tools for model builders, suggests physical AI is in its “GPT-2 era,” the OpenAI model that pre-dated the arrival of ChatGPT. More data and compute will be needed to get over the hump, particularly GPUs optimized for ray tracing, which are used to create high-fidelity simulations. The furthest ahead are autonomous vehicles, in part because of the ability to collect relevant data from cars driven by people, and in part because the main task is to avoid contact, not manipulate the physical environment. Much of the tooling for model-building comes from autonomous vehicle companies; Foxglove, for example, was founded by former employees at Cruise, General Motor’s erstwhile self-driving effort. And now those car companies are increasingly betting that their investments in ML tooling will allow them to compete with dedicated humanoid makers. Tesla is already trying this with its Optimus robot, and now both AV-focused Wayve and rideshare giant Uber have launched robotics labs focused on humanoid form factors as R&D efforts. “I think you need to start in vehicles…manipulation robotics is like self-driving five years ago,” Alex Kendall, the CEO of Wayve, told TechCrunch. “The data infrastructure, the simulation, ML ops infrastructure, will probably be shared, but the specific world model for the simulator will be a different post-training. There’s going to be a lot more commonality than not, but then there’s going to need to be some differences for different embodiments.” Kendall argues that it’s too early to commit to any one hardware platform — advances in sensors and other components are coming quickly, and a truly general model should be more agnostic. Théophile Gervet, the CEO of Genesis AI, a vertically integrated humanoid robotics company that raised a $105 million seed round this year, disagreed, telling TechCrunch “we’re too early in this wave for a brain strategy to work; our take is there’s lots of opportunities to co-design hardware and AI.” Gervet also touched on another hot topic in the sector: How specifically to focus your physical AI business. Robotics companies that are targeting specific tasks are getting their robots out in the field — Gritt is building solar farms, Agility is deploying robots in industrial settings, and Bedrock is operating excavators autonomously. Meanwhile, general-purpose humanoids aren’t getting out of the labs. “No customer cares about the general-purpose robot that works at 80% success rate,” Gervet said of the dilemma. “We see a lot of other players go general, but there is no value provided because there’s no vertical focus. … but then, if you’re building [for a narrow] vertical on top of GPT-2, you’re going to get crushed by the company building on GPT-4.” The temptation to invest in a specific vertical, however, is tempting because it provides not just revenue but also real-world deployment data. While task-specific data might not have enough diversity to push general-purpose models forward, it is important for making a robot that adds value. Bedrock CTO Kevin Peterson noted that his company was just starting with excavation as a way to understand the challenges of “manipulation in the wild,” but plans to develop an intelligence layer that stretches across a series of construction machines. Managing all that data is a challenge, especially because of the density of visual and lidar data. Foxglove announced a new product this week, built on top of Nvidia’s Cosmos open-weight world model, which allows engineers to search that data with sophisticated natural language queries to build out evaluations and simulations. The goal is faster triage and debugging so model builders can iterate faster. So what will be the fabled ChatGPT moment for physical AI that Sam Altman recently said is just a few years away? Kendall points out that the largest robot deployment in the world is still consumer vacuum bots. For him, a ChatGPT moment would be something that excites consumers, not investors, who seem to be plenty excited already. “One example of that would be when you get eyes-off autonomy for less than $1,000 [worth of hardware] in a car,” Kendall says; not coincidentally, his company is licensing models to car makers in an effort to produce just that. And that business, which he sees as a multibillion-dollar opportunity, will allow them to build a truly general embodied AI model. For Gerv",
+        "impact": "کاهش هیجان اولیه سرمایه‌گذاران و تمرکز بیشتر صنعت بر جمع‌آوری داده‌های باکیفیت برای رباتیک.",
+        "tag": "رباتیک",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+        "clean_url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+        "image": "http://www.bing.com/th?id=ONUT.2yE3SJXUzXOrI1YcHAnLrg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.2yE3SJXUzXOrI1YcHAnLrg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150"
+        ],
+        "timestamp": 1787725800.0
+    },
+    {
         "id": "140873c017",
         "title_fa": "پایان کار پلتفرم ۲۱ ساله آمازون موسوم به هوش مصنوعی مصنوعی",
         "title_en": "Amazon is shutting down its 21-year-old platform that Amazon founder Jeff Bezos described as 'artificial",
@@ -471,6 +694,32 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787724480.0
+    },
+    {
+        "id": "0b967b0b86",
+        "title_fa": "جذب سرمایه ۶ میلیون دلاری استارتاپ QueryStory برای راستی‌آزمایی داده‌ها",
+        "title_en": "QueryStory wants you to believe what AI is telling you",
+        "summary": [
+            "استارتاپ QueryStory با خروج از حالت چراغ‌خاموش، موفق به جذب ۶ میلیون دلار سرمایه اولیه با ارزش‌گذاری ۶۰ میلیون دلار شد.",
+            "این پلتفرم با تحلیل سوالات متوالی از پایگاه‌های داده بزرگ، گزارش‌های دقیق و قابل اعتماد برای مدیران ارشد می‌سازد.",
+            "بنیان‌گذار این شرکت، مهندس سابق گوگل است که تجربه کشف حملات سایبری را به تحلیل هوشمند داده‌های سازمانی تبدیل کرده است."
+        ],
+        "full_text": "Shapor Naghibzadeh learned the value of a good story in 2009 as a Google SysOps engineer. When hackers backed by China set their sights on the search giant as part of an effort dubbed Operation Aurora, he was called in to a hastily assembled war room to explain what exactly was going on in the company’s servers. Tracing cyberattacks through disparate networks taught Naghibzadeh the value of verified knowledge. But it was a costly and time-consuming task. He thinks that LLMs can bring that same functionality to databases of all kinds in a fraction of the time. Naghibzadeh would spend the next six years focused on the nexus of data and cybersecurity, using Google’s resources to build tools that allowed security analysts to query complex data. In 2016, he co-founded a startup in Google’s X Labs called Chronicle that would bring that same functionality to other companies. Last year, as large language models took a larger role in data analysis, Naghibzadeh saw a new opportunity to take the techniques he developed for cybersecurity and apply them to a variety of analytics. He co-founded QueryStory, where he is CEO, alongside CTO Stanley Yang, a former Google colleague and lead engineer at EvolutionIQ, and CPO David Glusic, an Accenture veteran. The startup emerged from stealth today. “You get this pattern of an investigation — you ask a bunch of questions of the data, and after you have been able to ask a number of questions, you assemble that together into a narrative,” Naghibzadeh said. “That became the genesis for the name QueryStory. It’s about telling stories with data, right? Putting a narrative together that’s grounded in truth.” QueryStory raised a $6 million seed round in late 2025 from Brightmind Partners and New York Life Ventures at a valuation of $60 million, and has spent the intervening time developing and piloting its product with customers. QueryStory is aimed squarely at large enterprises that manage big, proprietary databases; it serves as a platform to unite data analysis and review for users like sales teams or operations managers. “What we’re doing is bridging that trust gap for AI to give enterprises answers that they can act on,” Naghibzadeh said. “Instead of, you know, like renting human judgment and armies of forward-deployed engineers, we productized that.” Tim Del Bello, a partner at New York Life Ventures, invested in the company. He is also using the platform to replace the work of several people and produce a quarterly business review, which he now hopes will become a real-time dashboard. “The product was built for people like me: decision-makers seeking the ground truth who need to work with complex, disparate data sources but don’t have a data science or BI team at their disposal, especially when operating in a highly regulated industry,” he told TechCrunch. Solving the problem of brittle AI systems I shared a database of space activity that’s useful for understanding what companies like SpaceX are doing on orbit. QueryStory produced a visualization of that data in a few hours, a project I once did with a developer that took several weeks. It produced sophisticated dashboards and analysis, and perhaps most notably, broke out a confidence indicator that showed why the AI agents believed the analyses were accurate. This kind of work can be done with co-working tools built by the frontier labs, but those tools are intentionally limited in their user experiences. Part of the bet that QueryStory is making is that users, especially at large companies, want more transparency, reliability, and control as they integrate AI into their workflows. As an example, an executive at a tech company recently told TechCrunch about querying a company database using Claude Cowork, then asking the model to show him the SQL queries it wrote to make sure they made sense before he sent them off to a data analyst for human review. In QueryStory, those SQL queries surface automatically, and users can flag analyses for human coworkers to review, with those reviews then recorded in the platform. “AI is more brittle than people realize when it comes to like building things that have to be durable and have large-scale businesses relying upon them,” Tayler Sipperly, a partner at Brightmind Partners, told TechCrunch. Naghibzadeh points out that when companies connect their data to an LLM’s chat UI, “you get hundreds or thousands of people within an organization all asking their questions and getting their version of the truth and putting that in a slide deck and sharing it — you just end up with this huge sprawl of content, and there’s no real place to hang that content that ties back to the data.” There are also economics to contend with. QueryStory is built to be model-agnostic, although for now it mainly uses the latest models provided by frontier labs. While his company competes with frontier labs on a product basis, Naghibzadeh believes that customers will prefer working with a service provider that isn’t incentivized to sell as much intelligence as possible. “We have a lot of things going for us here in not being one of those companies that built their business around this consumption model of compute or storage or tokens,” Naghibzadeh said. He argues that a purpose-built tool like QueryStory can be more efficient and accurate than a general-purpose agent by understanding and preserving context. “The thing that we are selling is the trust in the answers, right?” he said. “The thing that we’re selling them is the value that we’re adding to the business, and our whole goal is giving the CFO the ability to understand ‘what is this thing going to cost?’”",
+        "impact": "جایگزینی تحلیل‌های انسانی گران‌قیمت با گزارش‌های هوشمند و کاملاً مستند در سازمان‌های بزرگ.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+        "clean_url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
+        "image": "http://www.bing.com/th?id=ONUT.52QskV7zLIVpmGR1SX93qA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.52QskV7zLIVpmGR1SX93qA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
+            "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-10.28.00-AM.png?w=680"
+        ],
+        "timestamp": 1787723940.0
     },
     {
         "id": "47090b38db",
@@ -6749,238 +6998,5 @@
             "https://www.jiji.com/news2/afpnj/photos/AFP049256_00.qui.jpg"
         ],
         "timestamp": 1787356800.0
-    },
-    {
-        "id": "52a7ff187a",
-        "title_fa": "خرید سنگین سهام کورویو و متا توسط میلیارد معروف بازار",
-        "title_en": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
-        "summary": [
-            "دیوید تپر با هج‌فاند Appaloosa موقعیت جدیدی در استارتاپ ابری کورویو ایجاد کرده و سهم خود را در متا افزایش داده است.",
-            "این اقدام اقبال بالای سرمایه‌گذاران بزرگ به زیرساخت‌های تخصصی هوش مصنوعی موسوم به نئوکلاود را تایید می‌کند."
-        ],
-        "full_text": "David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.",
-        "impact": "افزایش اعتبار استارتاپ‌های پردازش ابری تخصصی و رشد تقاضا برای زیرساخت‌های هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "The Motley Fool",
-        "url": "https://www.msn.com/en-us/money/other/billionaire-david-tepper-piled-into-a-debt-laden-artificial-intelligence-ai-neocloud-stock-in-q2-while-also-increasing-his-stake-in-its-newest-rival/ar-AA2aFHRU",
-        "clean_url": "https://www.msn.com/en-us/money/other/billionaire-david-tepper-piled-into-a-debt-laden-artificial-intelligence-ai-neocloud-stock-in-q2-while-also-increasing-his-stake-in-its-newest-rival/ar-AA2aFHRU",
-        "image": "https://media.ycharts.com/charts/838f4c0405901fb88cb047777992e5ba.png",
-        "images": [
-            "https://media.ycharts.com/charts/838f4c0405901fb88cb047777992e5ba.png"
-        ],
-        "timestamp": 1787354340.0
-    },
-    {
-        "id": "879916cce0",
-        "title_fa": "فروش فوری ۴ میلیارد دلار دارایی‌های پرریسک هوش مصنوعی توسط سیتادل",
-        "title_en": "Citadel Unloads Over 80% of Inherited AI Bets",
-        "summary": [
-            "صندوق سیتادل بیش از ۸۰ درصد از سبد دارایی‌های اهرم‌شده صندوق ورشکسته Situational Awareness را پس از تصاحب، سریعاً نقد کرد.",
-            "استفاده از اهرم‌های مالی بالا در سهام هوش مصنوعی باعث شکنندگی شدید پورتفولیوها در برابر نوسانات ناگهانی شده است.",
-            "انجام بیش از ۱۰۰ معامله بلوکی بزرگ مانع از فروپاشی ناگهانی قیمت سهام مرتبط با AI در بازار عمومی شد."
-        ],
-        "full_text": "What Happened Ken Griffin, founder and chief executive of Citadel, told clients in a letter on Friday that the firm had cut most of the risk inherited from the Situational Awareness portfolio. The letter was the first time the firm publicly acknowledged buying assets from that hedge fund. It was obtained by CNBC's Sara Eisen. The portfolio was heavily exposed to AI investments. According to the letter, Citadel completed the unwind through more than 100 block trades with a combined market value above $4 billion. Griffin also said talks about buying some of the fund's holdings began on July 29. The next day, CNBC's David Faber reported that Situational Awareness had to liquidate all of its publicly traded equities after severe losses. Afterwards, it became known that Citadel had bought the same assets. \"A transaction of this magnitude could not have been completed without the extraordinary cooperation of the trading and prime brokerage teams at the banks serving both firms,\" Griffin wrote. \"I am grateful for the focused effort they brought to the rapid transfer of the portfolio.\" When markets unwind fast, steady habits win, so grab the free Always Be Buying E-Book to keep building wealth The fund was heavily concentrated in AI and also held short positions in software companies. Leverage combined with a sudden adverse move can make such a portfolio fragile, and the full sale left Citadel as the buyer of the assets. Timeline and Context The timeline happened quickly: July 29 was when Citadel began purchase discussions, and July 30 was when the forced sale became public. The Friday letter was the first time Griffin confirmed the scale of both the acquisition and the unwinding. The deal was so large that the banks on both sides of the transaction had to marshal their trading desks and prime-brokerage specialists. Block trades are often arranged off the open market, which can reduce the impact on prices. Selling the full $4 billion directly into public markets could have caused stronger pressure on the AI-related stocks involved. Portfolios like that can become fragile when leverage meets a sudden adverse move. In this case, the fund sold its entire public equity book rather than trying to hold onto only part of its carefully conceived positions. What It Means for Investors Griffin's decision to remove more than 80% of the inherited risk shows how quickly a concentrated AI portfolio can go from one owner to another. The speed of the unwind also signals that the managers were sensitive to the market stress already affecting the AI sector. For Citadel's investors, the most important takeaway is that the firm identified the risk in the portfolio and moved decisively. The same update confirmed that Wellington returned 5.94% in July, the fund's best monthly performance since 2022. That return, announced alongside the purchase and sale, suggests the broader multi-strategy operation was financially insulated from the damage even while a concentrated AI position was being sharply unwound. This episode also helps explain how a large, well-capitalized firm can step in when another fund is forced out of positions. The remaining question is whether the AI-related market will stabilize now that the portfolio is no longer in a forced-sale mode. A big fast unwind can shake anyone, which is why the free Always Be Buying E-Book helps you stay the course",
-        "impact": "هشدار جدی به صندوق‌های مالی درباره ریسک اهرم‌های سنگین در معاملات سهام هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/citadel-unloads-over-80-of-inherited-ai-bets/",
-        "clean_url": "https://www.briefs.co/news/citadel-unloads-over-80-of-inherited-ai-bets",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/08/citadel-unloads-over-80-of-inherited-ai-bets.png",
-        "images": [
-            "https://www.briefs.co/wp-content/uploads/2026/08/citadel-unloads-over-80-of-inherited-ai-bets.png",
-            "https://www.briefs.co/wp-content/plugins/gumlet/assets/images/pixel.png"
-        ],
-        "timestamp": 1787349180.0
-    },
-    {
-        "id": "b72bf2cd72",
-        "title_fa": "چرخش سرمایه‌گذاری از سخت‌افزار به نرم‌افزار و مدل‌های هوش مصنوعی",
-        "title_en": "Moving Up The AI Stack",
-        "summary": [
-            "سرمایه‌گذاران پس از تزریق سنگین پول به بخش تراشه‌ها و زیرساخت، اکنون تمرکز مالی را روی لایه نرم‌افزار و مدل‌های کاربردی معطوف کرده‌اند.",
-            "شرکت‌هایی مثل آنتروپیک در مرکز این موج جدید جلب توجه و جذب سرمایه قرار گرفته‌اند."
-        ],
-        "full_text": "For most of this year, we've followed the cash down the stack into chips, memory, networking and power. This week, we're focusing in on the other layers of the AI stack: models and applications. - Anthropic ( For most of this year, we've followed the cash down the stack into chips, memory, networking and power. This week, we're focusing in on the other layers of the AI stack: models and applications. This article was written by",
-        "impact": "تغییر مسیر جریان مالی بازار به سمت لایه‌های نرم‌افزاری ارزش ارزش‌آفرینی برنامه‌های هوش مصنوعی را جهش می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4939235-moving-up-ai-stack",
-        "clean_url": "https://seekingalpha.com/article/4939235-moving-up-ai-stack",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2215715384/image_2215715384.jpg?io=getty-c-w1536",
-        "images": [
-            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2215715384/image_2215715384.jpg?io=getty-c-w1536",
-            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2215715384/image_2215715384.jpg?io=getty-c-w630",
-            "https://static.seekingalpha.com/uploads/2026/8/21/saupload_0290515cf6528fd7fe4a06593383a408.png?io=w640"
-        ],
-        "timestamp": 1787346360.0
-    },
-    {
-        "id": "db1bd12f7f",
-        "title_fa": "همکاری Kureha و دانشگاه توکیو برای ساخت کامپوزیت موتور هواپیما",
-        "title_en": "Kureha, Tokyo University of Technology Launch SiC/SiC Composite Research for Aircraft Engines",
-        "summary": [
-            "شرکت Kureha و دانشگاه فناوری توکیو پروژه‌ای مشترک برای توسعه کامپوزیت‌های SiC/SiC آغاز کردند.",
-            "این مواد پیشرفته برای استفاده در شرایط حرارتی شدید موتورهای هواپیما کاربرد دارند."
-        ],
-        "full_text": "Kureha, Tokyo University of Technology Launch SiC/SiC Composite Research for Aircraft Engines  International Business Times",
-        "full_text_fa": "شرکت Kureha با همکاری دانشگاه فناوری توکیو، پروژه پژوهشی جدیدی را برای توسعه مواد کامپوزیتی SiC/SiC کلید زد. این کامپوزیت‌های پیشرفته کربید سیلیسیم به دلیل مقاومت حرارتی و مکانیکی فوق‌العاده، کاربرد ویژه‌ای در ساخت نسل جدید موتورهای هواپیما دارند.",
-        "impact": "پیشرفت در ساخت قطعات سبک‌تر و مقاوم‌تر برای نسل جدید صنعت هوانوردی.",
-        "tag": "سخت‌افزار",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "International Business Times",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWZqa0RCcDE4NkZlYjBKY0lYSWlfcmhkTEZ5VVk1NERhaVFtMG41YU96Z0xVYldEbUlmU21HZkNoRG41Zk5NQjdXeEQyUDRkZEMyTjQ3ZFNNU0lxVi11aFZWN2V3RzQ0Sml1azA5LWdkVnB4YzRKUmhTaGM0MEdjWWd0TkxlZkpKVlFJUHZ0RUJFMzhfWHJIZGQzV2FyVG9NWlgtTmhNZXRSbVp4QjVRMjJlck9vZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWZqa0RCcDE4NkZlYjBKY0lYSWlfcmhkTEZ5VVk1NERhaVFtMG41YU96Z0xVYldEbUlmU21HZkNoRG41Zk5NQjdXeEQyUDRkZEMyTjQ3ZFNNU0lxVi11aFZWN2V3RzQ0Sml1azA5LWdkVnB4YzRKUmhTaGM0MEdjWWd0TkxlZkpKVlFJUHZ0RUJFMzhfWHJIZGQzV2FyVG9NWlgtTmhNZXRSbVp4QjVRMjJlck9vZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787329223.0
-    },
-    {
-        "id": "c83f4037fb",
-        "title_fa": "رونمایی AdvisorFinder از پلتفرم جدید دیدپذیری ابزارهای هوش مصنوعی",
-        "title_en": "AdvisorFinder unveils Intelligence for AI visibility",
-        "summary": [
-            "پلتفرم AdvisorFinder محصول جدیدی با نام Intelligence برای سنجش شفافیت ابزارهای AI معرفی کرد.",
-            "این ابزار به مشاوران کمک می‌کند میزان دیده شدن خدمات خود را در محیط‌های مبتنی بر هوش مصنوعی بررسی کنند."
-        ],
-        "full_text": "AdvisorFinder unveils Intelligence for AI visibility  FinTech Global",
-        "full_text_fa": "مجموعه AdvisorFinder از محصول جدید خود با عنوان Intelligence رونمایی کرد. این ابزار به مشاوران مالی و کسب‌وکارها اجازه می‌دهد نحوه حضور، دیدپذیری و میزان تحلیل خدماتشان توسط سیستم‌ها و مدل‌های هوش مصنوعی را ارزیابی کنند.",
-        "impact": "افزایش شفافیت و کنترل مشاوران مالی بر نحوه تحلیل اطلاعاتشان توسط مدل‌های هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "FinTech Global",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbk9UVWRvZDNsTGh4TllxNmt2M09GbklWSm50dWtGQV9TU2JuQVVkMkdHS1EwSWhkcV96OVpGREVTUGFyQ0xnYU5BMl9LMGF2Z1ZmaVR0OHkyTmdMRDhQS3FDX1lMaEt0Ul9oYjFGeDBHSWF4Wl81d2Z4TUtMc3R5S0NaQlRRNmU3QWVoUEJVeWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbk9UVWRvZDNsTGh4TllxNmt2M09GbklWSm50dWtGQV9TU2JuQVVkMkdHS1EwSWhkcV96OVpGREVTUGFyQ0xnYU5BMl9LMGF2Z1ZmaVR0OHkyTmdMRDhQS3FDX1lMaEt0Ul9oYjFGeDBHSWF4Wl81d2Z4TUtMc3R5S0NaQlRRNmU3QWVoUEJVeWs",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787328017.0
-    },
-    {
-        "id": "6b44bcbcd8",
-        "title_fa": "عرضه بازی AI Pixel Battle؛ نبرد هیولاها با داوری هوش مصنوعی",
-        "title_en": "Draw Your Monsters and the AI Decides Who Wins: AI Pixel Battle is Out Now!",
-        "summary": [
-            "بازی مستقل AI Pixel Battle به بازیکنان اجازه می‌دهد هیولای دلخواه خود را نقاشی کنند.",
-            "هوش مصنوعی الگوی نقاشی را تحلیل کرده و برنده نبرد بین هیولاها را مشخص می‌کند."
-        ],
-        "full_text": "Draw Your Monsters and the AI Decides Who Wins: AI Pixel Battle is Out Now!  Games Press",
-        "full_text_fa": "بازی جدید AI Pixel Battle منتشر شد. در این بازی، بازیکنان هیولای مورد نظر خود را نقاشی می‌کنند و سپس هوش مصنوعی با تحلیل تصویر و ویژگی‌های بصری طرح، برنده مبارزه میان هیولاها را تعیین می‌کند.",
-        "impact": "به‌کارگیری خلاقانه مدل‌های بینایی ماشین در بازی‌سازی مستقل.",
-        "tag": "گجت",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Games Press",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXVBOXo3NGhtN1QzUW5tb1JUYVRLOTJ4VTMyNWNxdldCcUlsb0dsU3FWSnJZVHNaRXI4bDlESGpQMkQtYXp0VFI5dl9fTmFHejRwcnB1UENJQ3VMYUR1eXJzaUZKREdKRGpKQnFFQm9VeWZJOEh4NjV6MmVsVndXamY0YjZDbm5ianBIcENuTUplUlNHdXNCaWF5Q3Q4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXVBOXo3NGhtN1QzUW5tb1JUYVRLOTJ4VTMyNWNxdldCcUlsb0dsU3FWSnJZVHNaRXI4bDlESGpQMkQtYXp0VFI5dl9fTmFHejRwcnB1UENJQ3VMYUR1eXJzaUZKREdKRGpKQnFFQm9VeWZJOEh4NjV6MmVsVndXamY0YjZDbm5ianBIcENuTUplUlNHdXNCaWF5Q3Q4Zw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787327794.0
-    },
-    {
-        "id": "c7252f2201",
-        "title_fa": "نفوذ ابزارهای پردازشی هوش مصنوعی به صنعت وام مسکن",
-        "title_en": "AI Production, Product Launch, Processing Tools; Webcasts; Lender M&A; LO Tips",
-        "summary": [
-            "مؤسسات مالی و وام‌دهندگان مسکن به سراغ ابزارهای هوشمند برای پردازش پرونده‌ها و عرضه محصولات جدید رفته‌اند.",
-            "خودکارسازی بررسی مدارک سرعت ارزیابی تقاضای تسهیلات را افزایش می‌دهد."
-        ],
-        "full_text": "AI Production, Product Launch, Processing Tools; Webcasts; Lender M&A LO Tips  Mortgage News Daily",
-        "full_text_fa": "گزارش‌های جدید نشان می‌دهد بخش تسهیلات و وام مسکن به شکل گسترده‌ای در حال به‌کارگیری ابزارهای تولیدی و پردازشی مبتنی بر هوش مصنوعی است. این فناوری‌ها برای خودکارسازی بررسی مدارک، ادغام شرکت‌ها و عرضه ابزارهای جدید پردازش پرونده‌ها به کار گرفته می‌شوند.",
-        "impact": "تسریع نوسازی فرایندهای سنتی و ارزیابی ریسک در صنعت خدمات مالی و مسکن.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "Mortgage News Daily",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ia2l0eENXUFBIZzJyRlNYM3Y2Q2MwZWRrT1hVNlpaVHA4SkdhXzZRdHlKSTFQaS04ZnZicWV5bkxMR1lodVJWdzlKdXdRcm56QnpHbmlNQ2ZJQ19oSEZpaDBIODhjeEFfSHVtWG91RjZNZ9IBdEFVX3lxTE1XZU42aGh2X1AtWWxKcDlXVmczSEpjcFZCckRkbzJDUS1qSjUydjRsZXBDSW12YnVYYl9leS0wMFFHeXl2RnlWMHBDT3BqM3lZRHZ0aFNGdTExUnJrU1pCeG1tejZyZGExNjFsY3hFY29EbWR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ia2l0eENXUFBIZzJyRlNYM3Y2Q2MwZWRrT1hVNlpaVHA4SkdhXzZRdHlKSTFQaS04ZnZicWV5bkxMR1lodVJWdzlKdXdRcm56QnpHbmlNQ2ZJQ19oSEZpaDBIODhjeEFfSHVtWG91RjZNZ9IBdEFVX3lxTE1XZU42aGh2X1AtWWxKcDlXVmczSEpjcFZCckRkbzJDUS1qSjUydjRsZXBDSW12YnVYYl9leS0wMFFHeXl2RnlWMHBDT3BqM3lZRHZ0aFNGdTExUnJrU1pCeG1tejZyZGExNjFsY3hFY29EbWR3",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787327551.0
-    },
-    {
-        "id": "c301db88c2",
-        "title_fa": "برنامه جدید شرکت سرتون برای ارائه فناوری‌های شنوایی به سالمندان هیوستون",
-        "title_en": "Ceretone and Houston Nonprofits Launch Hearing Technology Program for Seniors",
-        "summary": [
-            "شرکت سرتون با همکاری سازمان‌های غیرانتفاعی هیوستون طرح جدیدی برای تجهیز سالمندان به فناوری‌های پیشرفته شنوایی آغاز کرد.",
-            "هدف اصلی این پروژه، افزایش دسترسی‌پذیری و کاهش هزینه‌های ابزارهای کمکی شنوایی برای افراد مسن است."
-        ],
-        "full_text": "Ceretone and Houston Nonprofits Launch Hearing Technology Program for Seniors  geneonline.com",
-        "full_text_fa": "شرکت «سرتون» (Ceretone) با مشارکت چند سازمان غیرانتفاعی در شهر هیوستون، برنامه‌ای جدید با هدف ارائه فناوری‌های پیشرفته شنوایی به سالمندان راه‌اندازی کرده است. این طرح می‌کوشد با توزیع تجهیزات مدرن و مقرون‌به‌صرفه، چالش‌های شنوایی در سنین بالا را کاهش دهد و ارتباطات اجتماعی سالمندان را بهبود ببخشد.",
-        "impact": "تسهیل دسترسی سالمندان به فناوری‌های مدرن مراقبت از سلامتی و ارتقای کیفیت زندگی آن‌ها.",
-        "tag": "گجت",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "geneonline.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUVUZ2xydDM3V21EY1lkQnNWWGhCM0d1X2ZhN1RDSnBSd18tWFYzX29CUkRKTXBkdkhDaDVvem5FcHI0SnVxaUNDMEZFbTR3WG9QMjNWbkF2bVB5LVhBS0hNY2k2dldheVp0UkEwaW4wSDlMdjd6QlBJYWRIQXhnVjA5M1NITlpUWXlZcFVUUEJCa0gxWFNuNGNlWHZpZ2M4c2V2ekx2azM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUVUZ2xydDM3V21EY1lkQnNWWGhCM0d1X2ZhN1RDSnBSd18tWFYzX29CUkRKTXBkdkhDaDVvem5FcHI0SnVxaUNDMEZFbTR3WG9QMjNWbkF2bVB5LVhBS0hNY2k2dldheVp0UkEwaW4wSDlMdjd6QlBJYWRIQXhnVjA5M1NITlpUWXlZcFVUUEJCa0gxWFNuNGNlWHZpZ2M4c2V2ekx2azM",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787324973.0
-    },
-    {
-        "id": "4b246e3fe0",
-        "title_fa": "آزمایش فناوری جدید استخراج مس استارتاپ MIT با همکاری BHP",
-        "title_en": "MIT-Spinout SiTration and BHP launch Arizona pilot to trial copper recovery technology at historic BHP mine site",
-        "summary": [
-            "استارتاپ SiTration (خروجی دانشگاه MIT) با همکاری غول معدنی BHP یک پروژه پایلوت در آریزونا راه‌اندازی کرد.",
-            "این پروژه بر تست فناوری‌های نوآورانه برای بازیافت و استخراج بهینه‌تر مس از معادن قدیمی تمرکز دارد."
-        ],
-        "full_text": "MIT-Spinout SiTration and BHP launch Arizona pilot to trial copper recovery technology at historic BHP mine site  Global Mining Review",
-        "full_text_fa": "استارتاپ SiTration که از دل دانشگاه MIT بیرون آمده، با همکاری شرکت بزرگ معدنی BHP یک پروژه آزمایشی را در یکی از سایت‌های قدیمی این شرکت در آریزونا کلید زد. هدف اصلی این همکاری، ارزیابی میدانی فناوری جدید SiTration برای بازیافت مس و بهبود کارایی استخراج فلزات کلیدی از معدن است.",
-        "impact": "افزایش بهره‌وری استخراج فلزات بحرانی و کاهش هزینه‌های زیست‌محیطی در صنعت معدن.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Global Mining Review",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmE4Zm5CclF0UmxWbTNWY2t1SWJJWExvVkNDc0pqV2tJRzdPU1N5X0hUdWV6cktKbnh1VkFTX1ZGbHp5SlVMR0plbHE2MjZ6WE9iXzNtNVhEZFBDeDR2SFNRbm55VGk1VnVUVzRYMmg4eFBxUXJnNW9VQ0lqR0ZxeVZMV3h4X01hOHdYdnNWVm00VDJxQTFxVlVTa3F1VzNHeU5mV1VqUE9aVEZ4R3FtMTdOd0RDRENaR0xfaUJGanl3M1U4WHlPMElUN2NmMUstbzhsLXpyLXhGUU1xMnd0ZlA3bXRQdzlaV3pkYTlaUFZINDk2U3ppOHQ3TWXSAfwBQVVfeXFMT1phOGZuQnJRdFJsVm0zVmNrdUliSVhMb1ZDQ3NKaldrSUc3T1NTeV9IVHVlenJLSm54dVZBU19WRmx6eUpVTEdKZWxxNjI2elhPYl8zbTVYRGRQQ3g0dkhTUW5ueVRpNVZ1VFc0WDJoOHhQcVFyZzVvVUNJakdGcXlWTFd4eF9NYTh3WHZzVlZtNFQycUExcVZVU2txdVczR3lOZldValBPWlRGeEdxbTE3TndEQ0RDWkdMX2lCRmp5dzNVOFh5TzBJVDdjZjFLLW84bC16ci14RlFNcTJ3dGZQN210UHc5Wld6ZGE5WlBWSDQ5NlN6aTh0N01l?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmE4Zm5CclF0UmxWbTNWY2t1SWJJWExvVkNDc0pqV2tJRzdPU1N5X0hUdWV6cktKbnh1VkFTX1ZGbHp5SlVMR0plbHE2MjZ6WE9iXzNtNVhEZFBDeDR2SFNRbm55VGk1VnVUVzRYMmg4eFBxUXJnNW9VQ0lqR0ZxeVZMV3h4X01hOHdYdnNWVm00VDJxQTFxVlVTa3F1VzNHeU5mV1VqUE9aVEZ4R3FtMTdOd0RDRENaR0xfaUJGanl3M1U4WHlPMElUN2NmMUstbzhsLXpyLXhGUU1xMnd0ZlA3bXRQdzlaV3pkYTlaUFZINDk2U3ppOHQ3TWXSAfwBQVVfeXFMT1phOGZuQnJRdFJsVm0zVmNrdUliSVhMb1ZDQ3NKaldrSUc3T1NTeV9IVHVlenJLSm54dVZBU19WRmx6eUpVTEdKZWxxNjI2elhPYl8zbTVYRGRQQ3g0dkhTUW5ueVRpNVZ1VFc0WDJoOHhQcVFyZzVvVUNJakdGcXlWTFd4eF9NYTh3WHZzVlZtNFQycUExcVZVU2txdVczR3lOZldValBPWlRGeEdxbTE3TndEQ0RDWkdMX2lCRmp5dzNVOFh5TzBJVDdjZjFLLW84bC16ci14RlFNcTJ3dGZQN210UHc5Wld6ZGE5WlBWSDQ5NlN6aTh0N01l",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787324795.0
-    },
-    {
-        "id": "18dc1eb4c1",
-        "title_fa": "جذب سرمایه ۲۰۰ میلیون دلاری Gravis Robotics و تحولات مدیریتی در Monzo",
-        "title_en": "Gravis Robotics bags $200M, a safer marketplace for teen odd jobs, and Monzo chairman Gary Hoffman to stand down",
-        "summary": [
-            "استارتاپ سوئیسی Gravis Robotics موفق به جذب سرمایه ۲۰۰ میلیون دلاری از سافت‌بنگ شد.",
-            "گری هافمن، رئیس هیئت‌مدیره نئوبانک بریتانیایی Monzo، پس از هشت سال از سمت خود کناره‌گیری می‌کند.",
-            "استارتاپ‌های اروپایی در حوزه‌های هوش مصنوعی، فناوری‌های دفاعی و کوانتوم سرمایه‌گذاری‌های سنگینی جذب کردند."
-        ],
-        "full_text": "If email is more your thing, you can always subscribe to our newsletter and receive a more robust version of this round-up delivered to your inbox. ❗ Want to explore the data in more detail? The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends. Either way, let's get you up to speed. 💸 Notable and big funding rounds 🇨🇭 SoftBank invests $200M in robotics startup Gravis Robotics 🇫🇷 Ingenico secures €150M in fresh capital 🇪🇸 Rillet received a $100M investment at a valuation of $1B 🇬🇧 Callosum raises $100M seed round 🏽🏻 Noteworthy acquisitions and mergers 🇩🇪 The Munich-based investment firm Tiven is acquiring Sonnen, the battery storage manufacturer 🇨🇭 Digital health startup Aepsy acquires Kinastic 🇩🇪 Billion-dollar startup Dash0 acquires Berlin-based tech company Polar Signals 🚀 Interesting moves from investors 💰 Defence tech investor and builder Gallos raises $50M 💰 QuantumLight Closes $500 Million Second Venture Fund to Back AI and Crypto Startups 💵 Venture studio led by ex-GCHQ & NSA leaders raises £35m 🇩🇪 Billion-dollar startup Dash0 acquires Berlin-based tech company Polar Signals 🗞️ In other (important) news 💰 Monzo chairman Gary Hoffman to stand down after nearly eight years 👥 ‘A nervous system as a service’: Julian Teicke’s new bet on human connection 💵 Nebius looks to raise $4.5BN through bond issue 🇫🇷 France's top-funded tech companies in H1 2026 📡 Recommended reads and listens 🐕🦺 At 14, Sasha Bagrov is building a safer marketplace for teenage odd jobs 🔬 How the Marie Skłodowska-Curie Actions transformed research careers over 30 years 👩❤️👩 Bootstrapped and profitable: Taimi and Hily set their sights on IPO readiness 🇩🇰 Aisel raises €1.7M to tackle psychiatry’s capacity crisis 👥🔭 European tech startups to watch 💡 Astute raises $1.2M and launches B2B new media platform 🇱🇹 AI startup Guideless raises €1M to streamline software training 🇬🇧 EcoNomad raises £400,000 to bring waste-to-energy tech to small livestock farms 🇬🇧 Paralo raises £270,000 to tackle golf’s fragmented technology stack",
-        "full_text_fa": "مروری بر اخبار اکوسیستم فناوری اروپا نشان می‌دهد که سافت‌بنگ سرمایه‌گذاری ۲۰۰ میلیون دلاری در استارتاپ سوئیسی Gravis Robotics انجام داده است. هم‌زمان در دنیای فین‌تک، گری هافمن رئیس هیئت‌مدیره نئوبانک Monzo پس از ۸ سال استعفا داد.\n\nعلاوه بر این، صندوق‌های سرمایه‌گذاری اروپایی در بخش دفاعی و فناوری‌های کوانتومی ده‌ها میلیون دلار سرمایه جدید برای حمایت از استارتاپ‌های AI و رمزنگاری جمع‌آوری کرده‌اند.",
-        "impact": "تزریق سرمایه‌های جدید به زیست‌بوم فناوری اروپا و تقویت حوزه رباتیک صنعتی.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "Tech.eu",
-        "url": "https://tech.eu/2026/08/21/gravis-robotics-bags-200m-a-safer-marketplace-for-teen-odd-jobs-and-monzo-chairman-gary-hoffman-to-stand-down/",
-        "clean_url": "https://tech.eu/2026/08/21/gravis-robotics-bags-200m-a-safer-marketplace-for-teen-odd-jobs-and-monzo-chairman-gary-hoffman-to-stand-down",
-        "image": "https://cdn.tech.eu/uploads/2026/08/untitled-design-15-2.png",
-        "images": [
-            "https://cdn.tech.eu/uploads/2026/08/untitled-design-15-2.png",
-            "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg"
-        ],
-        "timestamp": 1787322840.0
     }
 ]
