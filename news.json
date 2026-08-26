@@ -1,5 +1,115 @@
 [
     {
+        "id": "63f46236d7",
+        "title_fa": "رونمایی 3CLogic از ابزار سنجش و ارزیابی ایجنت‌های هوش مصنوعی",
+        "title_en": "3CLogic Announced the Release of AI Agent Evaluator",
+        "summary": [
+            "شرکت 3CLogic ابزار کاربردی AI Agent Evaluator را برای بررسی کیفیت عملکرد ایجنت‌های هوشمند معرفی کرد.",
+            "این سیستم با شبیه‌سازی مکالمات و بررسی رفتارهای ایجنت‌ها، میزان دقت، امنیت و بازدهی آن‌ها را پیش از انتشار نهایی ارزیابی می‌کند."
+        ],
+        "full_text": "3CLogic Announced the Release of AI Agent Evaluator  MarTech Cube",
+        "impact": "افزایش اطمینان شرکت‌ها از عملکرد درست ایجنت‌های هوش مصنوعی در پاسخ‌دهی به مشتریان و کاهش ریسک‌های عملیاتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "MarTech Cube",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGIydm5LelBtcXdJV3RzMGJkd3U3d3dmRERhVlZRZEVqMy1EWG5YTzI2NFhHUHQ3Qzh1NjZnZFY3MTZnSXZINFI0dGpaQ2pOUVVmaFpNRmVhT1RmeEg2TUVUeU1mQzlGTkVPVUhCYzNIekhuUmJESE41NzFab1V0SUxsWENnNkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGIydm5LelBtcXdJV3RzMGJkd3U3d3dmRERhVlZRZEVqMy1EWG5YTzI2NFhHUHQ3Qzh1NjZnZFY3MTZnSXZINFI0dGpaQ2pOUVVmaFpNRmVhT1RmeEg2TUVUeU1mQzlGTkVPVUhCYzNIekhuUmJESE41NzFab1V0SUxsWENnNkU",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787751237.0
+    },
+    {
+        "id": "fcfbc41250",
+        "title_fa": "چهار سناریوی آکسفورد اکونومیکس درباره آینده اقتصاد هوش مصنوعی",
+        "title_en": "The economic impact of AI: four future pathways",
+        "summary": [
+            "مؤسسه آکسفورد اکونومیکس در گزارشی جامع، چهار مسیر متفاوت برای آینده اقتصاد جهانی تحت تأثیر هوش مصنوعی ترسیم کرده است.",
+            "این تحلیل تمرکز اصلی خود را بر سرعت جایگزینی مشاغل، نرخ رشد بهره‌وری و توانایی جوامع در پذیرش ابزارهای جدید قرار داده است."
+        ],
+        "full_text": "The economic impact of AI: four future pathways  Oxford Economics",
+        "impact": "مشخص‌شدن نقشه راه سرمایه‌گذاری کلان دولت‌ها و شرکت‌های بزرگ برای مواجهه با تحولات اقتصادی هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Oxford Economics",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk5TnhNVHI4UnkxNWRWNE5kOWxqM3M5N0gzeHNYZXBwT1dXYlYxbFZUd2dSdlFuT19hM3NEc2pZRUZBRnBjcjFESEo2T1FrM2FyQmJiWXRUTkpHSDlWTWRTMGFsLXlpYl8zTTBXV19RbWtpYUROSHR4aV9LS29RcUJYVVhQNlNnWVJaSDE3T3hVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk5TnhNVHI4UnkxNWRWNE5kOWxqM3M5N0gzeHNYZXBwT1dXYlYxbFZUd2dSdlFuT19hM3NEc2pZRUZBRnBjcjFESEo2T1FrM2FyQmJiWXRUTkpHSDlWTWRTMGFsLXlpYl8zTTBXV19RbWtpYUROSHR4aV9LS29RcUJYVVhQNlNnWVJaSDE3T3hVZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787750001.0
+    },
+    {
+        "id": "557ab10830",
+        "title_fa": "سایت‌ساز اختصاصی پلتفرم Playlist برای مجموعه‌های ورزشی و تناسب اندام",
+        "title_en": "Playlist Launches Custom Website Builder for Fitness & Wellness Operators",
+        "summary": [
+            "پلتفرم Playlist ابزار جدیدی برای طراحی سریع و آسان وب‌سایت‌های حوزه سلامت و ورزش عرضه کرد.",
+            "این وب‌سایت‌ساز بدون نیاز به کدنویسی، امکاناتی مثل سیستم رزرو آنلاین کلاس‌ها و مدیریت اشتراک مشتریان را در اختیار مربیان می‌گذارد."
+        ],
+        "full_text": "Playlist Launches Custom Website Builder for Fitness & Wellness Operators  Athletech News",
+        "impact": "تسهیل دیجیتالی شدن کسب‌وکارهای ورزشی مستقل و کاهش هزینه‌های راه‌اندازی زیرساخت آنلاین.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Athletech News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczc1ekFtSDJReTVFS256VGZWaE5mSEpoX2lBbjlreUd0blpQcjg4M1AwSHhRTEVCVEVtT25mNTkxZTQ0NDktZE42RXpXTnVscU5Nb1J3NmZlVzl1MkdXTHZmUU5qVUZLNDQwVmk5aFdzcmpZQ0Z0QjJzdmdTTU85MXRXSUc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczc1ekFtSDJReTVFS256VGZWaE5mSEpoX2lBbjlreUd0blpQcjg4M1AwSHhRTEVCVEVtT25mNTkxZTQ0NDktZE42RXpXTnVscU5Nb1J3NmZlVzl1MkdXTHZmUU5qVUZLNDQwVmk5aFdzcmpZQ0Z0QjJzdmdTTU85MXRXSUc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787749443.0
+    },
+    {
+        "id": "c39f071577",
+        "title_fa": "ارتقای چهار بخش اصلی پلتفرم Specright با تمرکز بر هوش مصنوعی",
+        "title_en": "Specright Doubles Down on AI, Launching Four Major Platform Advances Across the Product Lifecycle",
+        "summary": [
+            "شرکت Specright چهار قابلیت مبتنی بر هوش مصنوعی را در پلتفرم مدیریت چرخه حیات محصول خود ادغام کرد.",
+            "این به‌روزرسانی‌ها به برندها کمک می‌کنند داده‌های مربوط به بسته‌بندی، تامین‌کنندگان و مشخصات فنی کالا را هوشمندانه تحلیل کنند."
+        ],
+        "full_text": "Specright Doubles Down on AI, Launching Four Major Platform Advances Across the Product Lifecycle  Business Wire",
+        "impact": "بهینه‌سازی زنجیره تأمین و کاهش چشمگیر زمان توسعه محصولات جدید برای شرکت‌های تولیدی.",
+        "tag": "کسب‌وکار",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNTRQY3NQTjAxRzFhZC1YNVhxd0ZkYmxFY253Y1E0dTkxWWQwdHFXSWtTY0R2VGNXelVMT0xqdFA2ckwzV3d5Z3NnSF8xYW9EbUExUWdpN0pyY2YwWFRfeEthbEZ1aF9odkYzU3JJcHdXTDk1ems4bmZOQVBIYUFUTEZheWVYcGNSNzRXNTZjLUxERXAyWlUxX0h6YmNyWHVaRU9SenU3dFUwWmpKY3Y2UmpReXEyTGxDMGVTZktMTG1YMklBRWc5ZUVSTTVtbDVxUXBwTGN5NnRVM0FRaGd2b1JROEFoUVBU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNTRQY3NQTjAxRzFhZC1YNVhxd0ZkYmxFY253Y1E0dTkxWWQwdHFXSWtTY0R2VGNXelVMT0xqdFA2ckwzV3d5Z3NnSF8xYW9EbUExUWdpN0pyY2YwWFRfeEthbEZ1aF9odkYzU3JJcHdXTDk1ems4bmZOQVBIYUFUTEZheWVYcGNSNzRXNTZjLUxERXAyWlUxX0h6YmNyWHVaRU9SenU3dFUwWmpKY3Y2UmpReXEyTGxDMGVTZktMTG1YMklBRWc5ZUVSTTVtbDVxUXBwTGN5NnRVM0FRaGd2b1JROEFoUVBU",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787745600.0
+    },
+    {
+        "id": "abc30829c9",
+        "title_fa": "آغاز فاز آزمایشی هوش مصنوعی فوجیتسو در مدیریت پروژه‌های ساخت‌وساز",
+        "title_en": "Fujitsu, Tokyu Construction, and Kitano Construction Launch Field Trial for AI That Supports Construction Process Management and Risk Reduction",
+        "summary": [
+            "فوجیتسو با همکاری دو شرکت بزرگ ساختمانی، تست میدانی سیستم هوشمند کنترل روند پروژه‌های عمرانی را آغاز کرد.",
+            "این مدل هوش مصنوعی با تحلیل روند کارگاه، ریسک‌های ایمنی را تشخیص داده و اختلالات در زمان‌بندی را پیش‌بینی می‌کند."
+        ],
+        "full_text": "Fujitsu, Tokyu Construction, and Kitano Construction Launch Field Trial for AI That Supports Construction Process Management and Risk Reduction  AZoBuild",
+        "impact": "کاهش خطاهای انسانی، افزایش امنیت کارگران و جلوگیری از زیان‌های مالی ناشی از تأخیر در پروژه‌های بزرگ عمرانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "AZoBuild",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZWJDLTYtdmpwMW5kR1hzczYzRjZEZTUyNnZmVHV0R3VuX1h1WUVxYWNoRkx4QlNKNjRGdk03R09QYVZQczVDdUhUT2NSVHlsOTRaeGpjUUpIalk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZWJDLTYtdmpwMW5kR1hzczYzRjZEZTUyNnZmVHV0R3VuX1h1WUVxYWNoRkx4QlNKNjRGdk03R09QYVZQczVDdUhUT2NSVHlsOTRaeGpjUUpIalk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787745000.0
+    },
+    {
         "id": "911908df71",
         "title_fa": "ادعای جنجالی OpenAI: تراشه جدید ما از بلک‌ول انویدیا سریع‌تر است",
         "title_en": "OpenAI Says Its New Chip Outperforms Nvidia's Blackwell As Nvidia Prepares Earnings Release",
@@ -6885,53 +6995,5 @@
             "https://s.yimg.com/lo/mysterio/api/45CFE4BDF2203405A3B57FCB206F784A2E8BB7055BCF33692D7E9FEEDE100819/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F41b58b20c61577beb7718efd72f37a15.jpg"
         ],
         "timestamp": 1787298300.0
-    },
-    {
-        "id": "03e5cca306",
-        "title_fa": "قرارداد ۳۵۰ میلیون دلاری HIVE Digital مشروط به خرید کارت‌های انویدیا",
-        "title_en": "HIVE Digital's $350M AI Deal Hinges on $185M GPU Investment",
-        "summary": [
-            "شرکت HIVE Digital قراردادی ۵ ساله به ارزش ۳۵۰ میلیون دلار برای ارائه خدمات ابری هوش مصنوعی امضا کرد.",
-            "اجرای این قرارداد منوط به خریدهای ۱۸۵ میلیون دلاری تراشه‌های جدید Nvidia Blackwell Ultra است.",
-            "ابهامات مالی درباره زمان دریافت پیش‌پرداخت ۳۵ میلیون دلاری و هزینه‌های تجهیز دیتاسنتر همچنان باقی است."
-        ],
-        "full_text": "Community Trust ScoreVerified HIVE Digital Technologies just landed a $350 million AI cloud deal. Big number. But the whole thing depends on whether the company can spend $185 million on GPUs fast enough to make it real. The five-year contract runs through HIVE’s BUZZ High Performance Computing unit and was signed with a customer the company hasn’t named — only describing them as investment-grade. The target is roughly $70 million in annual revenue once the hardware is actually running. That’s the plan, anyway. Getting there is a different story, and the path is messier than the headline suggests. Not yet confirmed: the $35 million upfront payment. The unnamed customer agreed to pay nearly 10% of the contract’s total value — around $35 million — upfront. HIVE said so publicly. But as of now, HIVE hasn’t confirmed it actually received the money. That’s a pretty important detail to leave hanging when you’re talking about a nine-figure infrastructure build. What the GPU Buildout Actually Looks Like BUZZ plans to deploy 2,016 NVIDIA Blackwell Ultra GPUs, housed inside GB300 NVL72 systems, at the Bell AI Fabric facility in Merritt, British Columbia. The hardware, equipment, and service warranties together account for that $185 million cost estimate. It’s a dense, expensive setup — and the whole thing needs to be commissioned by the fourth quarter of 2026 for the revenue clock to start ticking properly. HIVE CEO Aydin Kilic said the company’s recent debt raises would fund the GPU acquisition. HIVE pulled in $130 million from zero-percent exchangeable senior notes in June, on top of $245 million raised through similar notes the quarter before. That’s $375 million in total from those two rounds combined. Kilic pointed to those funds as the source for the GPU spend, but the company hasn’t disclosed how much of that capital is still available, or what the terms look like for any additional equipment financing they might need. So the math isn’t fully visible from the outside. HIVE also reported $208 million in cash. But it’s unclear how much of that is actually earmarked for this project versus other operations. The company hasn’t said. Revenue That’s Mostly Still on Paper Here’s where things get a bit murky. BUZZ’s total reported annual recurring revenue is now around $180 million on paper. Only $35 million of that is currently active. The remaining $145 million kicks in — supposedly — once the hardware is deployed and operational by Q4. So the bulk of HIVE’s AI revenue story is still contingent. It’s not booked, it’s not flowing, it’s waiting on a deployment timeline that hasn’t been tested yet. Once everything is running, HIVE projects its HPC and AI operations could generate roughly $500,000 per day. That’s a meaningful daily run rate. But it requires hitting a pretty specific target: hardware delivered on time, commissioned without major delays, and a customer relationship that holds through the buildout period. Any one of those slipping could push the revenue live date and complicate the company’s end-of-year numbers. The broader AI infrastructure market is competitive right now. Demand for high-performance GPU compute has been intense across the industry, which is probably part of why HIVE can sign deals at this scale. But that same demand makes hardware procurement harder and timelines less predictable. Lead times on NVIDIA’s latest GPU architectures have been a real issue for operators across the board — not just HIVE. HIVE’s financial structure here is worth watching closely. Zero-percent exchangeable notes are a clever way to raise capital cheaply, but they come with conversion mechanics that can dilute shareholders down the road. The company has leaned on that instrument twice in recent quarters, which tells you something about how it’s managing the tension between capital needs and balance sheet optics. Long-term sustainability of that approach is an open question — and it’s one HIVE hasn’t addressed directly in its disclosures. The Merritt, British Columbia facility adds a geographic dimension worth noting. Canada has become a real destination for compute infrastructure builds, partly because of power costs and partly because of available land near reliable grid access. Bell AI Fabric is a relatively new entrant in that space, and HIVE’s decision to anchor there says something about where the company sees its infrastructure future. What HIVE is basically trying to do is use a mining company’s capital-raising muscle to fund an AI infrastructure pivot. It’s not the only crypto-adjacent company chasing that playbook right now. But HIVE is further along than most, with an actual signed contract and a named hardware spec. The execution risk is real, though. A $350 million contract with $145 million in revenue still waiting on a hardware build is a bet, not a guarantee. The Q4 deadline is the number that matters most right now. Miss it, and the revenue story gets complicated fast. Hit it, and HIVE’s daily run rate jumps sharply. Kilic and the team have until the end of the year to prove the timeline holds — and HIVE’s $208 million cash position, whatever portion is actually available for this project, may not be enough to cover the gap without more financing. The company has 2,016 GPUs to install and a $35 million payment it hasn’t confirmed receiving. Frequently Asked Questions What is HIVE Digital Technologies’ $350 million AI contract? HIVE signed a five-year AI cloud deal through its BUZZ HPC unit with an undisclosed investment-grade customer, targeting roughly $70 million in annual revenue once a $185 million GPU buildout at the Bell AI Fabric facility in Merritt, British Columbia is complete. How is HIVE financing the GPU deployment? HIVE raised $130 million in zero-percent exchangeable senior notes in June and $245 million through similar instruments the prior quarter, with CEO Aydin Kilic saying those funds would cover the GPU acquisition — though remaining available proceeds and ad",
-        "full_text_fa": "شرکت HIVE Digital از امضای یک قرارداد ۳۵۰ میلیون دلاری پنج‌ساله برای ارائه خدمات ابری هوش مصنوعی خبر داده است. با این حال، تحقق این درآمد سالانه ۷۰ میلیون دلاری به خریدهای سنگین ۱۸۵ میلیون دلاری پردازنده‌های Nvidia Blackwell Ultra بستگی دارد.\n\nاگرچه این شرکت اعلام کرده بخشی از هزینه‌ها از طریق انتشار اوراق قرضه‌ای تأمین می‌شود، اما هنوز مشخص نیست که آیا پیش‌پرداخت ۳۵ میلیون دلاری مشتری دریافت شده یا خیر. تجهیزات باید تا سه‌ماهه چهارم سال ۲۰۲۶ به‌طور کامل عملیاتی شوند.",
-        "impact": "تسریع روند تغییر مسیر شرکت‌های استخراج رمزارز به سمت اجاره پردازنده‌های گرافیکی برای هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Currency Analytics",
-        "url": "https://thecurrencyanalytics.com/finance/hive-digitals-350m-ai-contract-rests-on-a-185m-gpu-bet-286233",
-        "clean_url": "https://thecurrencyanalytics.com/finance/hive-digitals-350m-ai-contract-rests-on-a-185m-gpu-bet-286233",
-        "image": "https://thecurrencyanalytics.com/wp-content/uploads/2026/08/hive-digitals-350m-ai-contract-rests-on-a-185m-gpu-bet-1787286386.jpg",
-        "images": [
-            "https://thecurrencyanalytics.com/wp-content/uploads/2026/08/hive-digitals-350m-ai-contract-rests-on-a-185m-gpu-bet-1787286386.jpg"
-        ],
-        "timestamp": 1787286360.0
-    },
-    {
-        "id": "a43766df95",
-        "title_fa": "تأمین مالی ۱۰۵ میلیارد دلاری انویدیا برای ساخت دیتاسنتر غول‌پیکر OpenAI",
-        "title_en": "NVIDIA Just Bet $105 Billion That OpenAI's Data Center Hunger Won't Slow Down",
-        "summary": [
-            "انویدیا برای تأمین زمین، برق و زیرساخت دیتاسنتر جدید اوپن‌ای‌آی در اوهایو، بیش از ۱۰۵ میلیارد دلار سرمایه‌گذاری می‌کند.",
-            "این مجموعه به ۱.۵ میلیون تراشه انویدیا مجهز می‌شود و توان مصرفی آن در نهایت به ۸ گیگاوات خواهد رسید.",
-            "جنسن هوانگ شایعات مربوط به صوری بودن این معاملات جهت افزایش درآمدهای کاذب را تکذیب کرد."
-        ],
-        "full_text": "TL;DR - NVIDIA will provide over $105 billion in financing for OpenAI's Ohio data center campus - The PORTS-Pike facility could house 1.5 million NVIDIA GPUs across 8 gigawatts of capacity - SB Energy will build and own the site; OpenAI leases it for 20 years - NVIDIA made a separate $1.5 billion equity investment in SB Energy - Jensen Huang explicitly denied this constitutes circular investing in a blog post NVIDIA isn’t just selling chips to the AI industry anymore — it’s financing the buildings they go in. The company announced Monday that it will provide more than $105 billion to secure land, power, and shell construction for OpenAI’s planned Ohio data center campus, marking one of the largest infrastructure financing commitments in technology history. Inside the PORTS-Pike Technology Campus Deal The three-way arrangement between NVIDIA, OpenAI, and SB Energy reveals how AI infrastructure deals are structured in 2026. SB Energy will ultimately build and own the facility, known as the PORTS-Pike Technology Campus. OpenAI will lease the site for 20 years. NVIDIA’s role is financing the physical prerequisites — land acquisition, power procurement, and building shells — that make construction possible. Initial plans call for 4.25 gigawatts of computing capacity, with options to scale to 8 gigawatts total. To put that in perspective, 8 gigawatts exceeds the electrical output of most nuclear power plants. NVIDIA estimates the site could house roughly 1.5 million GPUs, translating to potential revenue of $150 billion to $200 billion per generation deployed through 2030. NVIDIA also made a separate $1.5 billion equity investment in SB Energy as part of the arrangement. Combined with prior agreements between NVIDIA and OpenAI, the total deal value could reach as much as $600 billion. Jensen Huang Says This Isn’t Circular Investing The elephant in the room is obvious: NVIDIA invests in the infrastructure, which then buys NVIDIA’s chips. That pattern — investing in a customer who turns around and spends the money on your products — is textbook circular investing, a practice that raises red flags about inflated revenue figures. Huang addressed this directly in a blog post published Monday, writing that NVIDIA “uses its scale and long-term visibility to secure PORTS-Pike to host NVIDIA compute.” He compared the approach to supply-chain management, where companies secure critical inputs when they have clear visibility into customer demand. “This is the same discipline we apply to supply-chain management: we secure critical inputs when we have visibility into customer demand and when doing so enables long-term productive capacity,” Huang wrote. He also clarified that NVIDIA will only cover portions of lease and power payments — not the full cost of the site or OpenAI’s operational obligations. We think the distinction matters but won’t satisfy every skeptic. NVIDIA isn’t handing cash to OpenAI to buy GPUs. Instead, it’s financing the physical infrastructure that makes GPU deployment possible. The chips themselves are a separate transaction. However, the practical effect remains: NVIDIA’s investment reduces the barriers for OpenAI to buy more NVIDIA hardware. Whether you call that strategic supply-chain management or financial engineering depends on your viewpoint. NVIDIA’s Dealmaking Machine Won’t Stop This Ohio campus deal landed just days after NVIDIA announced a separate $500 billion fund with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to finance AI data center construction globally. The company has also invested in Ilya Sutskever’s Safe Superintelligence startup and SK Hynix, the memory chip manufacturer critical to GPU production. The pattern is clear. NVIDIA is building an ecosystem where every layer of the AI infrastructure stack — from memory chips to data center financing to the physical buildings themselves — has NVIDIA’s fingerprints on it. When Jensen Huang talks about “securing the infrastructure of intelligence,” he means NVIDIA wants to be the landlord, the builder, and the equipment supplier simultaneously. We’ve noticed this strategy accelerating throughout 2026. Each new deal makes the next one easier because NVIDIA can point to its growing infrastructure portfolio as proof of committed demand. It’s a flywheel effect: more infrastructure partnerships generate more GPU orders, which generate more revenue, which funds more infrastructure partnerships. What This Means for the AI Industry The PORTS-Pike campus represents a broader shift in how AI infrastructure gets built and financed. Traditionally, cloud providers like Microsoft, Amazon, and Google funded their own data centers. OpenAI’s arrangement — leasing a facility backed by its chip supplier — creates a new model where hardware companies become infrastructure financiers. This matters because it addresses the single biggest constraint on AI scaling: the speed at which data centers can be built and powered. By financing land and power procurement upfront, NVIDIA removes months or years of lead time from the development process. For OpenAI, it also represents a step toward controlling its own infrastructure rather than relying entirely on cloud provider capacity. The risk for NVIDIA is concentration. A significant portion of its revenue growth thesis now depends on a small number of massive data center projects reaching completion and operational status. If power availability, permitting, or construction delays slow the PORTS-Pike timeline, the GPU orders associated with the facility get pushed back too. FAQs How many GPUs will the PORTS-Pike data center use? NVIDIA estimates the facility could house approximately 1.5 million chips across its full 8-gigawatt capacity. At current pricing, that represents $150 billion to $200 billion in potential GPU revenue per generation deployed through 2030. Is NVIDIA’s investment in OpenAI’s data center circular investing? NVIDIA CEO Jensen Huang explicitly denied the ch",
-        "full_text_fa": "انویدیا دیگر فقط فروشنده تراشه به صنعت هوش مصنوعی نیست؛ این شرکت حالا رسماً زیرساخت‌های فیزیکی پردازش را هم مالی می‌کند. بر اساس توافق جدید، انویدیا بیش از ۱۰۵ میلیارد دلار برای تأمین زمین، برق و سازه اولیه دیتاسنتر جدید اوپن‌ای‌آی در اوهایو سرمایه‌گذاری می‌کند. این پروژه با همکاری شرکت SB Energy اجرا می‌شود که مالکیت سایت را بر عهده دارد و اوپن‌ای‌آی آن را ۲۰ ساله اجاره می‌کند.\n\nاین دیتاسنتر مجزا می‌تواند تا ۱.۵ میلیون کارت گرافیک انویدیا را در خود جای دهد و ظرفیت الکتریکی آن در نهایت به ۸ گیگاوات می‌رسد که از توان تولیدی اکثر نیروگاه‌های هسته‌ای بیشتر است. با وجود انتقادات درباره ایجاد «سرمایه‌گذاری دورانی» جهت ثبت درآمدهای کاذب، جنسن هوانگ تأکید کرده که این اقدام صرفاً برای تضمین زیرساخت‌های لازم جهت پاسخ به تقاضای قطعی مشتریان انجام شده است.",
-        "impact": "تثبیت سلطه انویدیا بر بازار سخت‌افزار AI و تضمین درآمد ۲۰۰ میلیارد دلاری تا سال ۲۰۳۰.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 10,
-        "sentiment": 0.85,
-        "source": "Memeburn",
-        "url": "https://memeburn.com/nvidia-openai-data-center-105-billion/",
-        "clean_url": "https://memeburn.com/nvidia-openai-data-center-105-billion",
-        "image": "https://memeburn.com/wp-content/uploads/2026/08/NVIDIA-Just-Bet-105-Billion-That-OpenAIs-Data-Center-Hunger-Wont-Slow-Down.jpg",
-        "images": [
-            "https://memeburn.com/wp-content/uploads/2026/08/NVIDIA-Just-Bet-105-Billion-That-OpenAIs-Data-Center-Hunger-Wont-Slow-Down.jpg"
-        ],
-        "timestamp": 1787270400.0
     }
 ]
