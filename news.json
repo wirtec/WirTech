@@ -1,5 +1,49 @@
 [
     {
+        "id": "911908df71",
+        "title_fa": "ادعای جنجالی OpenAI: تراشه جدید ما از بلک‌ول انویدیا سریع‌تر است",
+        "title_en": "OpenAI Says Its New Chip Outperforms Nvidia's Blackwell As Nvidia Prepares Earnings Release",
+        "summary": [
+            "رونمایی OpenAI از تراشه اختصاصی جدیدش که مدعی است معماری بلک‌ول انویدیا را شکست می‌دهد، توجه بازار سخت‌افزار را جلب کرد.",
+            "هم‌زمانی این ادعا با انتشار گزارش مالی انویدیا، فشار رقابتی را روی پادشاه تراشه‌های هوش مصنوعی دوچندان می‌کند."
+        ],
+        "full_text": "OpenAI Says Its New Chip Outperforms Nvidia's Blackwell As Nvidia Prepares Earnings Release  24/7 Wall St.",
+        "impact": "آغاز چالش جدی برای انحصار قدرتمند انویدیا در بازار تراشه‌های پردازش هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.2,
+        "source": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZWVUxZkNiRElNOVJaYTUtQ1pibG9DbmdRcEhNN0haZ3Zna1hDN2lOaVlvekVGOTR3eklNUHVjWGFMX3NwblNoUEJFMTY0N29jbktvVlNyeFh6WlVBQ3FTNTJqT05tSUdCczRkRUJLbmJDcTh4XzlXQmRxMENhRnd1cjlNc25fZTZFWlkyT2JBMnVJd2RtZ0dzTC1DOVpFcklGalZGTHhMaVg4VS1EU1NBS2stcDRMbjVVNG1hc3A0cWUxaFI3bWF1VHZVRGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZWVUxZkNiRElNOVJaYTUtQ1pibG9DbmdRcEhNN0haZ3Zna1hDN2lOaVlvekVGOTR3eklNUHVjWGFMX3NwblNoUEJFMTY0N29jbktvVlNyeFh6WlVBQ3FTNTJqT05tSUdCczRkRUJLbmJDcTh4XzlXQmRxMENhRnd1cjlNc25fZTZFWlkyT2JBMnVJd2RtZ0dzTC1DOVpFcklGalZGTHhMaVg4VS1EU1NBS2stcDRMbjVVNG1hc3A0cWUxaFI3bWF1VHZVRGs",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787739473.0
+    },
+    {
+        "id": "cd5f4857f1",
+        "title_fa": "همکاری Perplexity با Flanks برای تحول در مدیریت هوشمند سرمایه‌گذاری",
+        "title_en": "Flanks Partners with Perplexity to Launch AI-Driven Wealth Management Data Connector",
+        "summary": [
+            "استارتاپ Perplexity با همکاری Flanks ابزار هوشمندی برای اتصال و تحلیل داده‌های مالی و مدیریت ثروت عرضه کرد.",
+            "این قابلیت جدید استخراج داده‌های پیچیده سرمایه‌گذاری را برای مشاوران و موسسات مالی بسیار سریع‌تر می‌کند."
+        ],
+        "full_text": "Flanks Partners with Perplexity to Launch AI-Driven Wealth Management Data Connector  FF News",
+        "impact": "تسریع اتوماسیون داده‌های مالی و اتخاذ تصمیمات دقیق‌تر در حوزه سرمایه‌گذاری.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "FF News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lpM3VEQU9aemRoSGdnQWZqclRKb1h2QXUxX2RfMHVZWVJ3OHJiN0hONFJDd0lIaWZaTExRLW9EQThRdTF3dWZPclhwWTNTRlJFRmxXenNxb2VnUE54WVRpbmlCMlNuS3dmRVlQQmtUajM3ZGxkaGppdWlRQTBOTUlKcldIZ3BWR0l1cW9qTHVIOF9vX3o1a3FCZGludDVZRmltRmNsODBCU3hSVWZFQU5UTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lpM3VEQU9aemRoSGdnQWZqclRKb1h2QXUxX2RfMHVZWVJ3OHJiN0hONFJDd0lIaWZaTExRLW9EQThRdTF3dWZPclhwWTNTRlJFRmxXenNxb2VnUE54WVRpbmlCMlNuS3dmRVlQQmtUajM3ZGxkaGppdWlRQTBOTUlKcldIZ3BWR0l1cW9qTHVIOF9vX3o1a3FCZGludDVZRmltRmNsODBCU3hSVWZFQU5UTQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787735160.0
+    },
+    {
         "id": "ecce016a94",
         "title_fa": "مدل مخفیانه Ox Alpha؛ رقیب تازه دیپ‌سیک از دل چین",
         "title_en": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
@@ -204,6 +248,32 @@
         "timestamp": 1787718975.0
     },
     {
+        "id": "a54c959f0c",
+        "title_fa": "قدرت‌نمایی هوش مصنوعی ایلان ماسک؛ مدل صوتی گراک صدرنشین شد",
+        "title_en": "قدرتنمایی هوش مصنوعی ایلان ماسک / گراک صدرنشین شد",
+        "summary": [
+            "مدل صوتی Grok Voice Think Fast 2.0 با امتیاز ۷۹ درصد توانست مدل‌های رقیب از OpenAI و گوگل را در بنچمارک معتبر صوتی شکست دهد.",
+            "ویژگی کلیدی این مدل، توانایی استدلال هم‌زمان حین صحبت کردن و فراخوانی ابزارها پیش از پایان جمله کاربر است.",
+            "این رویکرد مکالمه صوتی با هوش مصنوعی را به تجربه گفتگوی طبیعی انسانی بسیار نزدیک‌تر می‌کند."
+        ],
+        "full_text": "به گزارش خبرآنلاین، به نقل از زومیت، اسپیسایکسایآی اعلام کرد که مدل صوتی Grok Voice Think Fast 2.0 اکنون در صدر Artificial Analysis Speech-to-Speech Index قرار دارد. این شاخص توانایی مدلهای صوتی را در انجام کارهایی فراتر از تبدیل متن به صدا بررسی میکند؛ از جمله اینکه مدل تا چه اندازه میتواند گفتار انسان را درک و درباره آن استدلال کند، در مکالمه طبیعی باقی بماند و وظایف واقعی را با استفاده از ابزارهای نرمافزاری انجام دهد. Artificial Analysis در نسخه فعلی این شاخص، چهار بخش را با وزن برابر در نظر میگیرد: استدلال صوتی (Big Bench Audio)، عملکرد عاملمحور، ترجیح کاربران در مکالمهی صوتی و موفقیت در انجام وظایف واقعی. در بخش Task Success، برای نمونه، مدل باید در نقش یک عامل پشتیبانی مشتری بتواند با استفاده از ابزارهای مختلف مشکلات کاربران را حل کند و در نهایت به وضعیت صحیح در سیستم برسد. Grok Voice Think Fast 2.0 در ارزیابی منتشرشده از سوی xAI امتیاز ۷۹ درصد را در شاخص کلی دریافت کرد؛ بالاتر از GPT-Realtime-2.1 High با ۷۳٫۹ درصد و Gemini 3.1 Flash Liveبا ۷۱٫۵ درصد. تفاوت مهم Think Fast 2.0 با یک دستیار صوتی معمولی این است که مدل صرفاً صدای کاربر را به متن تبدیل نمیکند و سپس پاسخ نمیدهد؛ بلکه میتواند همزمان با صحبتکردن، روی درخواست کاربر استدلال کند و ابزارهای لازم را به کار بگیرد. به گفتهی اسپیسایکسایآی، این رویکرد باعث میشود تماس با عامل صوتی طبیعیتر باشد و برخی فراخوانیهای ابزار حتی پیش از پایان جمله اول کاربر انجام شوند. ۵۸۵۸",
+        "impact": "تغییر استانداردهای مکالمه صوتی و ارتقای چشمگیر عملکرد عامل‌های هوشمند پشتیبانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "خبرآنلاین",
+        "url": "https://www.khabaronline.ir/news/2265777/%D9%82%D8%AF%D8%B1%D8%AA%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%DA%AF%D8%B1%D8%A7%DA%A9-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86-%D8%B4%D8%AF",
+        "clean_url": "https://www.khabaronline.ir/news/2265777/%D9%82%D8%AF%D8%B1%D8%AA%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%DA%AF%D8%B1%D8%A7%DA%A9-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86-%D8%B4%D8%AF",
+        "image": "http://www.bing.com/th?id=ONUT.7ssHszFTkF4aDYR6L3OihQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.7ssHszFTkF4aDYR6L3OihQ&pid=News",
+            "https://media.khabaronline.ir/d/2026/08/26/4/6464370.jpg?ts=1787737948000",
+            "https://media.khabaronline.ir/d/2026/08/26/2/6464370.jpg?ts=1787737948000",
+            "https://media.khabaronline.ir/d/2026/08/26/4/6464369.jpg?ts=1787737946000"
+        ],
+        "timestamp": 1787717640.0
+    },
+    {
         "id": "4f6836ef69",
         "title_fa": "سرمایه‌گذاری ۱۰۰ میلیارد دلاری اسپیس‌ایکس برای ساخت پایگاه پرتاب جدید",
         "title_en": "SpaceX to build $100 billion rocket launch facility in southern Louisiana",
@@ -224,6 +294,30 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787711800.0
+    },
+    {
+        "id": "cb542caf19",
+        "title_fa": "یکپارچه‌سازی حافظه کلود؛ پایان تکرار خسته‌کننده جزئیات برای هوش مصنوعی",
+        "title_en": "حافظه جدید کلود، پایان نیاز به تکرار مداوم جزئیات برای هوش مصنوعی",
+        "summary": [
+            "آنتروپیک با ادغام سیستم حافظه در چت و بخش کوورک، مشکل فراموشی داده‌ها در گفتگوهای مختلف کلود را برطرف کرد.",
+            "این هوش مصنوعی حالا اطلاعات پروژه را در حین مکالمه ذخیره می‌کند تا انتقال از مرحله تحقیق به اجرا کاملاً یکپارچه شود.",
+            "برای امنیت بیشتر، اطلاعات حساس به طور پیش‌فرض ذخیره نمی‌شوند و کنترل کامل حذف و ویرایش حافظه دست کاربر است."
+        ],
+        "full_text": "به گزارش شهرآرانیوز؛ تغییر در سیستم حافظه هوش مصنوعی «کلود» (Claude)، یکی از آزاردهندهترین ویژگیها را در استفاده از عوامل هوش مصنوعی از بین میبرد که نیاز مداوم به یادآوری کردن چتهای پیشین به آنهاست. به نقل از تککرانچ، شرکت «آنتروپیک» (Anthropic) روز سهشنبه اعلام کرد که سیستم حافظه مورد استفاده در چت و «کلود کوورک» (Claude Cowork) را ادغام میکند؛ به این معنی که کلود همیشه آنچه را درباره یک محتوا آموخته است حتی زمانی که درباره محتوای دیگری با او صحبت میشود به خاطر خواهد داشت. هوش مصنوعی شرکت آنتروپیک آنچه را که کلود در حافظه خود نگه داشته است نیز آشکار میکند و به کاربران امکان میدهد تا اطلاعات مربوط به هر موضوعی را بخوانند و ویرایش یا حذف کنند. این بهروزرسانی، تجربه کاربران کلود را بهبود میبخشد، زیرا به آنها امکان میدهد تا به طور یکپارچهتری بین مرحله تحقیق و اقدام حرکت کنند. پیش از این ممکن بود کاربران در طول گفتوگو با کلود، به مرور زمان ایدههایی را برای پروژهها پرورش دهند، اما وقتی زمان اجرای تغییرات فرا میرسید باید با گفتن همه جزئیات به کوورک، از نو شروع میکردند و این فوقالعاده ناامیدکننده بود. این بهروزرسانی باعث میشود کلود اکنون به جای دو محصول جداگانه، مانند یک دستیار دائمی به نظر برسد. علاوه بر این، کلود اکنون به جای خلاصه کردن گفتوگو در پایان، موضوعات را هنگام چت کاربر به حافظه خود اضافه میکند. این امر باعث میشود که رفت و آمد بین چت و کوورک آسانتر شود، زیرا خاطرات جدید سریعتر بهروزرسانی میشوند و در هر دو بخش قرار میگیرند؛ حتی اگر چت در حال انجام شدن باشد. شرکت آنتروپیک میگوید که کلود به طور پیشفرض اطلاعات شخصی یا حساس مانند دادههای مربوط به سلامتی، نژاد، قومیت، باورهای مذهبی، سیاست، هویت جنسیتی و موارد دیگر را ذخیره نمیکند. با وجود این، کاربران در صورت تمایل میتوانند با فعال کردن گزینه «include sensitive topics in memory» این موارد را فعال کنند. همچنین، این برنامه هر زمان که موضوع حساسی در حافظه ذخیره شود، به کاربران اطلاع میدهد. با وجود این، آنتروپیک میگوید که کلود هرگز موارد خاصی مانند شمارههای شناسایی و تأمین اجتماعی صادرشده توسط دولت، سابقه کیفری، وضعیت مهاجرت یا موارد دیگری که سیاست استفاده قابل قبول آن را نقض میکنند، ذخیره نخواهد کرد. ویژگی حافظه به طور پیشفرض در نسخههای Free، Pro و Max در وب، دسکتاپ و گوشی فعال است. در iOS و اندروید، کاربران باید اپلیکیشن خود را به جدیدترین نسخه بهروزرسانی کنند. منبع: ایسنا",
+        "impact": "افزایش محسوس بهره‌وری کاربران با تبدیل کلود به یک دستیار هوشمند و همیشگی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "شهرآرانیوز",
+        "url": "https://shahraranews.ir/fa/news/440710/حافظه-جدید-کلود-پایان-نیاز-به-تکرار-مداوم-جزئیات-برای-هوش-مصنوعی",
+        "clean_url": "https://shahraranews.ir/fa/news/440710/حافظه-جدید-کلود-پایان-نیاز-به-تکرار-مداوم-جزئیات-برای-هوش-مصنوعی",
+        "image": "http://www.bing.com/th?id=ONUT.aMeLxxF5LkDO5hueAw536A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.aMeLxxF5LkDO5hueAw536A&pid=News",
+            "https://shahraranews.ir/files/fa/news/1405/6/4/3628478_769.png"
+        ],
+        "timestamp": 1787711400.0
     },
     {
         "id": "bcc1b81f16",
