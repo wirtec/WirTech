@@ -1,5 +1,27 @@
 [
     {
+        "id": "63f72539be",
+        "title_fa": "ورود ایجنت‌های هوش مصنوعی FlowX.AI به پلتفرم جمینای گوگل",
+        "title_en": "FlowX.AI Brings Mission-Critical Industry AI Agents to Gemini Enterprise",
+        "summary": [
+            "پلتفرم FlowX.AI ایجنت‌های هوش مصنوعی خود را برای برنامه‌های کاربردی و حساس تجاری به Gemini Enterprise گوگل متصل کرد.",
+            "این همکاری به سازمان‌های بزرگ اجازه می‌دهد سیستم‌های قدیمی (Legacy) خود را بدون نیاز به بازنویسی کامل، به هوش مصنوعی مجهز کنند."
+        ],
+        "full_text": "FlowX.AI Brings Mission-Critical Industry AI Agents to Gemini Enterprise  The Next Web",
+        "impact": "سرعت بخشیدن به نوسازی سیستم‌های بانکی و صنعتی با ترکیب هوش مصنوعی گوگل و ابزارهای سازمانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "The Next Web",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVZBTG94THdGbzVDS2x2cUFWQ2NvRmZ1UEE0bi1kQWJKM0JDUjNoMVBfd2JSeW1IWmlsd0xLaVhNb2tEZjVQWTAxUzRMbG92YnBYcjUwbXRxQWxyN0pZQkFTa0JXN0d1NklmSkFDVGhWMzBnbGtqTDJXS3oyUi01cl9EMmdWdElwNmpKenZVTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVZBTG94THdGbzVDS2x2cUFWQ2NvRmZ1UEE0bi1kQWJKM0JDUjNoMVBfd2JSeW1IWmlsd0xLaVhNb2tEZjVQWTAxUzRMbG92YnBYcjUwbXRxQWxyN0pZQkFTa0JXN0d1NklmSkFDVGhWMzBnbGtqTDJXS3oyUi01cl9EMmdWdElwNmpKenZVTQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787726941.0
+    },
+    {
         "id": "1ce5c4c892",
         "title_fa": "ساخت تبلیغات متقاعدکننده با ابزار جدید GetHookd",
         "title_en": "GetHookd Announces AI Ad Generator For More Persuasive Problem-Solution Ads",
