@@ -63,7 +63,7 @@ CONFIG = {
     'MAX_IMAGES_PER_ITEM': 4,
     'MIN_AI_URGENCY_HINT': 5,
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': 'gemini-3.7-flash',
+    'GEMINI_MODEL': 'gemini-3.6-flash',
     'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
     'MAX_NEWS_AGE_HOURS': 18,
