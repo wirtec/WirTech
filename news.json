@@ -1,5 +1,76 @@
 [
     {
+        "id": "ecce016a94",
+        "title_fa": "مدل مخفیانه Ox Alpha؛ رقیب تازه دیپ‌سیک از دل چین",
+        "title_en": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
+        "summary": [
+            "استارتاپ چینی Z.AI بدون سر و صدا از مدل هوش مصنوعی Ox Alpha رونمایی کرد.",
+            "این مدل قدرتمند مستقیماً بنچمارک‌ها و عملکرد مدعی قدرتمند چین یعنی دیپ‌سیک (DeepSeek) را هدف گرفته است."
+        ],
+        "full_text": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek  Bloomberg.com",
+        "impact": "داغ‌تر شدن جنگ مدل‌های هوش مصنوعی بومی در چین و فشار بیشتر بر رقبای غربی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787734800.0
+    },
+    {
+        "id": "32354d9322",
+        "title_fa": "سرمایه‌گذاری ۷۶ میلیون دلاری غول‌های سرگرمی در Stability AI",
+        "title_en": "Stability AI Raises $76 Million Series B Backed by Universal, Sony, Warner, and Electronic Arts: how 10 outlets framed it",
+        "summary": [
+            "شرکت Stability AI موفق شد ۷۶ میلیون دلار سرمایه جدید از سونی، یونیورسال، وارنر و الکترونیک آرتز جذب کند.",
+            "ورود رسمی کمپانی‌های بزرگ موسیقی و بازی نشان می‌دهد غول‌های دنیای رسانه به جای شکایت قانونی، به سمت مشارکت اقتصادی با هوش مصنوعی حرکت کرده‌اند.",
+            "این تامین مالی موقعیت متزلزل Stability AI را تثبیت کرده و راه را برای مدلسازی قانونی محتوا هموار می‌سازد."
+        ],
+        "full_text": "Stability AI Raises $76 Million Series B Backed by Universal, Sony, Warner, and Electronic Arts: how 10 outlets framed it  NewsCord",
+        "impact": "تغییر موضع صنف موسیقی و بازی از تقابل قضایی به سمت تجاری‌سازی مشترک مدل‌های مولد.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "NewsCord",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWWNLU1hISzA4RUFraEhsb0x2cEk5VWdMWnF5d0h0VG9EcGI3ZV9HVDlKY2Jvd3lQYWFQTV9ValkzS1M0V0JHd1YwZGVKT0ZBTDZuSDkzS29hM3ZKT3NramxUeVNrLWxSTnp5Y0Y3eU1mRWRiSUJrZHlDNHc1R0tySlFkckd5azU1VWRrTGJTMWYydGEtcU85SUZVb3B2UndWVng0a05yd3pWc3FzU3lJYmtNNzJSRk9CTWpKb05kbUdKLVNtWER4cUZja0ZuY1RKRXltWE10OFVOZmpNQlloazFoNUlXT2FuTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWWNLU1hISzA4RUFraEhsb0x2cEk5VWdMWnF5d0h0VG9EcGI3ZV9HVDlKY2Jvd3lQYWFQTV9ValkzS1M0V0JHd1YwZGVKT0ZBTDZuSDkzS29hM3ZKT3NramxUeVNrLWxSTnp5Y0Y3eU1mRWRiSUJrZHlDNHc1R0tySlFkckd5azU1VWRrTGJTMWYydGEtcU85SUZVb3B2UndWVng0a05yd3pWc3FzU3lJYmtNNzJSRk9CTWpKb05kbUdKLVNtWER4cUZja0ZuY1RKRXltWE10OFVOZmpNQlloazFoNUlXT2FuTGc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787729156.0
+    },
+    {
+        "id": "e038dccfb7",
+        "title_fa": "جذب سرمایه ۱۰ میلیون دلاری استارتاپ سلامت Superhealth",
+        "title_en": "Healthcare startup Superhealth in talks to raise $10 million from UpGrad's Ronnie Screwvala",
+        "summary": [
+            "استارتاپ هندی Superhealth در حال نهایی‌سازی سرمایه ۱۰ میلیون دلاری با ارزشیابی ۱۰۰ میلیون دلار است.",
+            "بیمارستان‌های این برند توسط سیستم‌عامل هوش مصنوعی اختصاصی SuperOS و ایجنت‌های خودمختار اداره می‌شوند.",
+            "هم‌زمان با روند جذب سرمایه، برگزاری حواشی مانند اجرای موسیقی زنده در بیمارستان انتقادهای زیادی را علیه مدیریت آن برانگیخته است."
+        ],
+        "full_text": "Superhealth, a Bengaluru-based healthcare provider, is in advanced stages of raising around $10 million in fresh funding from veteran entrepreneur and investor Ronnie Screwvala, people familiar with the matter told Moneycontrol. Other investors are also likely to participate in the round that is expected to value the startup at $100 million, up from $30 million in 2025, sources said. The investment comes as Superhealth prepares to expand its hospital network. This will be the startup’s fourth round of capital infusion since being founded in 2024 after funding rounds in December 2024, May 2025, and August 2025, as per Tracxn, a private markets data provider. Superhealth counts former India cricket captain Mahendra Singh Dhoni among its backers along with venture capital firm Sparrow Capital, Boundless Ventures, Panthera Peak and other angel investors. This development comes amid significant backlash the startup is facing over a late-night ‘live music night’ it organised on the non-clinical floors of its hospital premises on August 22. In the past few days, users have questioned the appropriateness of the event, with some calling the move “tone-deaf” and “insensitive”. Superhealth founder and CEO Varun Dubey defended the event, saying the idea was to make hospitals a place “that doesn't scare people”. Dubey, a former Chief Revenue Officer at Apollo Hospitals and Chief Marketing Officer at Ola Electric and Practo, founded Superhealth in 2024. The startup also counts former Practo chief strategy officer Alexander Kuruvilla, and Practo founding member Manoj Kumar as co-founders. Superhealth opened its first hospital in Bengaluru's Koramangala in September 2025. The company offers fixed-price medical procedures across its Superbirth, Superskin, Supersmile, and Supersurgery programmes, and says it operates on a zero-commission clinical model. The hospital is powered by SuperOS, an in-house agentic AI operating system designed to manage the day-to-day clinical and operational workflows across a range of processes, including outpatient consultations, inpatient care, diagnostics, surgery scheduling, pharmacy, and discharge processes. It also offers an annual Rs 3,999 subscription covering up to four family members and offering unlimited consultations and diagnostic services. Last week, Superhealth hired Dunzo co-founder Dalvir Singh Suri as its Head of Operations. Moneycontrol has reached out to Superhealth and Ronnie Screwvala for comments and will update the copy once we hear back. Screwvala’s growing startup portfolio For Screwvala, the investment adds a healthcare bet to a portfolio spanning consumer, artificial intelligence (AI), edtech, deeptech, spacetech, and other sectors. In November, Moneycontrol reported that Screwvala had carved out a $50 million personal corpus to back early-stage startups in AI, deeptech and spacetech. He said he expected to back around 15 startups over the following 12–15 months, with cheque sizes of $1 million to $3 million. His investments include Digantara, SpeakX, ZuAI, CuePilot AI, Round1 (Grapevine) and TrueFan. Screwvala, an early investor in eyewear retailer Lenskart, also recently invested Rs 300 crore in his edtech venture upGrad as part of a Rs 360 crore internal funding round. The fundraise came ahead of the proposed acquisition of Unacademy and as upGrad expands its investments across test preparation, study abroad, AI, and enterprise skilling. Find the best of Al News in one place, specially curated for you every weekend. Stay on top of the latest tech trends and biggest startup news.",
+        "impact": "نفوذ ایجنت‌های هوش مصنوعی به فرایندهای واقعی درمان و اداره بیمارستان‌ها.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/funding/healthcare-startup-superhealth-in-talks-to-raise-10-million-from-upgrad-s-ronnie-screwvala-14015796.html",
+        "clean_url": "https://www.moneycontrol.com/news/business/funding/healthcare-startup-superhealth-in-talks-to-raise-10-million-from-upgrad-s-ronnie-screwvala-14015796.html",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg",
+        "images": [
+            "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg",
+            "https://sb.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1",
+            "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg?impolicy=website&width=770&height=431",
+            "https://images.moneycontrol.com/mcnews/images/tech3/tech3_articles.png"
+        ],
+        "timestamp": 1787728860.0
+    },
+    {
         "id": "c679ef6428",
         "title_fa": "سرمایه‌گذاری سنگین متا روی هوش مصنوعی همزمان با شکایت ۲۹ ایالت",
         "title_en": "Key facts: META Hatch AI Launch; $11–22B Meta Compute; 29‑State Suit",
@@ -267,6 +338,32 @@
             "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
         ],
         "timestamp": 1787702460.0
+    },
+    {
+        "id": "bc82ae4916",
+        "title_fa": "جذب ۶.۸ میلیون دلار برای هوش مصنوعی فضایی Stellaria",
+        "title_en": "Adnoc L&S continues vessel-buying spree + Stellaria raises USD 6.8 mn",
+        "summary": [
+            "استارتاپ اماراتی Stellaria سرمایه اولیه‌ای ۶.۸ میلیون دلاری با ارزش‌گذاری ۱۱۴ میلیون دلاری جذب کرد.",
+            "مدل اختصاصی این شرکت به نام Meruem با تکنولوژی Super-resolution کیفیت تصاویر ماهواره‌ای و راداری را فوق‌العاده بالا می‌برد.",
+            "این پلتفرم تمرکز ویژه‌ای روی پایش هوشمند خطوط کشتیرانی و ارزیابی‌های محیط‌زیستی دارد."
+        ],
+        "full_text": "Adnoc L&S beefs up its fleet, again Adnoc L&S orders two more LNG carriers, pushing its fleet to 24 vessels: Adnoc Logistics & Services has exercised options for two additional next-generation LNG carriers from Jiangnan Shipyard in Shanghai for USD 444 mn, the company said in a disclosure (pdf). Each vessel has a capacity of 175k cbm, with delivery slated for 2029. Adnoc order rounds out record few weeks of fleet expansion: With this latest commitment, Adnoc L&S has now announced roughly USD 2.7 bn in vessel acquisitions and newbuild orders in 2026 alone. Half of that was locked in over the past few weeks, with the company adding 11 large carriers — five very large gas carriers (VLGCs) and six very large crude carriers (VLCCs) — for around USD 1.3 bn. Why it matters: Disruptions in the Red Sea and Hormuz have tightened tanker availability — pushing Adnoc to charter around 15 crude carriers to maintain shuttle movements and customer deliveries. Adnoc has also offered cargoes from Fujairah, Zirku Island, and Das Island, and through ship-to-ship transfers at Fujairah and Sohar, giving buyers more ways to lift barrels despite disruptions around Hormuz. Its LNG carrier fleet now stands at 24 vessels — four legacy ships, six next-generation carriers delivered since 4Q 2024, and 14 more under construction. Stellaria raises AED 25 mn to scale geospatial AI UAE-based AI and geospatial intelligence company Stellaria has raised AED 25 mn (USD 6.8 mn) in seed funding from angel investors, valuing the startup at AED 420 mn, according to a press release. The company uses AI to turn satellite and geospatial data into intelligence for areas including maritime activity and environmental monitoring. The funding will help Stellaria scale its team and expand across the UAE and into international markets. BACKGROUND- The company was formerly known as Farmin and is an alumnus of the Mohammed Bin Rashid Innovation Fund's Innovation Accelerator Program. It recently rebranded as Stellaria and was also building out its product line ahead of this raise. In June, the company launched an AI model called Meruem, aimed at improving satellite imagery quality across optical, SAR, and hyperspectral sensors through super-resolution — part of a broader industry shift toward extracting more value from existing satellite data rather than launching new sensors.",
+        "impact": "جهش پردازش داده‌های فضایی و پایش دریایی در خاورمیانه با استفاده از تحلیل هوشمند تصویر.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "enterpriseam",
+        "url": "https://enterpriseam.com/uae/2026/08/26/adnoc-ls-continues-vessel-buying-spree-stellaria-raises-usd-6-8-mn/",
+        "clean_url": "https://enterpriseam.com/uae/2026/08/26/adnoc-ls-continues-vessel-buying-spree-stellaria-raises-usd-6-8-mn",
+        "image": "https://i0.wp.com/ent.news/2026/8/976.jpg?fit=%2C&ssl=1",
+        "images": [
+            "https://i0.wp.com/ent.news/2026/8/976.jpg?fit=%2C&ssl=1",
+            "https://ent.news/internal/42998.svg",
+            "https://s3.amazonaws.com/resources.inktankir.com/internal/28583.png",
+            "https://ent.news/internal/86647.svg"
+        ],
+        "timestamp": 1787702340.0
     },
     {
         "id": "fc4a6e0532",
