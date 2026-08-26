@@ -89,6 +89,28 @@
         "timestamp": 1787711800.0
     },
     {
+        "id": "bcc1b81f16",
+        "title_fa": "عرضه حافظه فلش ۲ ترابایتی سن‌دیسک برای پردازش‌های هوش مصنوعی",
+        "title_en": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
+        "summary": [
+            "سن‌دیسک از حافظه جدید ۲ ترابایتی خود مخصوص سیستم‌ها و بارکاری هوش مصنوعی رونمایی کرد.",
+            "این سخت‌افزار سرعت انتقال داده در پردازش‌های سنگین یادگیری ماشین را به میزان چشمگیری بهبود می‌دهد."
+        ],
+        "full_text": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?  Yahoo Finance",
+        "impact": "برطرف‌کردن گلوگاه ذخیره‌سازی و افزایش سرعت انتقال داده‌ها در زیرساخت‌های پردازشی.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN296WG4wejBJckpMR0tCTTAyRlI2MmxBRmxNeDF4djRxbzJtcV8weklhc1NSbEozc0MwWE9uVDBYLTU1dkcxXzV1WWhaNFZBSFczaUMzb0luLUtGOHU3TldlMU52elMzMXdsY1BKWVF4aWdfalFoTldBOXBCaWJaY2wxOHVJaG9qcW5oQjdYVGVULWdpenc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN296WG4wejBJckpMR0tCTTAyRlI2MmxBRmxNeDF4djRxbzJtcV8weklhc1NSbEozc0MwWE9uVDBYLTU1dkcxXzV1WWhaNFZBSFczaUMzb0luLUtGOHU3TldlMU52elMzMXdsY1BKWVF4aWdfalFoTldBOXBCaWJaY2wxOHVJaG9qcW5oQjdYVGVULWdpenc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787710500.0
+    },
+    {
         "id": "3eaf26e006",
         "title_fa": "جذب ۲.۵ میلیون دلار سرمایه توسط صرافی غیرمتمرکز مبتنی بر هوش مصنوعی",
         "title_en": "Is AlphaPepe Legit? Two Audits, Live AlphaSwap AI DEX and $2.5M Raised Put ALPE Under the Spotlight Before Launch",
@@ -243,6 +265,31 @@
         "timestamp": 1787692142.0
     },
     {
+        "id": "61df5033bf",
+        "title_fa": "جذب ۱۰ میلیون دلار سرمایه توسط استارتاپ هوش مصنوعی صوتی Ringg",
+        "title_en": "India's Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "summary": [
+            "استارتاپ هندی Ringg با دریافت سرمایه جدید از Peak XV، ارزش دور سری A خود را به ۱۵.۵ میلیون دلار رساند.",
+            "این شرکت پردازش بیش از ۲۰ میلیون تماس در ماه را بر عهده دارد و در حال حرکت به سمت اتوماسیون فرآیندهای پیچیده پزشکی و مالی است."
+        ],
+        "full_text": "More than 76% of consumers in India prefer talking to businesses over a phone call, according to a recent study from Truecaller. Since voice is still consumers’ preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief. The company said today it has landed $10 million from Peak XV Partners as an extension of its Series A. It had previously raised $5.5 million in a Series A round earlier this year, bringing the round’s total to $15.5 million. Ringg started life as a text-to-speech startup called DesiVocal, but training its own speech models proved expensive, so the founders moved up the stack — building voice AI agents for enterprises instead. Indian fintech Cred became its first customer, and Ringg has since signed Indian startups like Flipkart, Practo, Groww, and PolicyBazaar. “At the start, we were doing high-volume, low-complexity use cases like outbound calling, lead qualification, loan collection, and more. We quickly realized these are not sticky use cases, and so it’s always going to be a price game,” the startup’s co-founder Siddharth Tripathi told TechCrunch. Ringg still serves some of those simpler use cases, but it has set its sights on more complex workflows: appointment booking for healthcare clinics, abandoned-cart recovery for e-commerce sites, and onboarding/KYC (“know your customer”) checks for fintech apps. Tripathi said Ringg’s voice agent now runs across 1,200 clinics for the healthcare app Practo, helping patients book visits or follow up on next steps post-visit. Voice calls still make up over 70% of Ringg’s business, but the startup has started branching into other channels, including chat and WhatsApp. For some clients like Shell, it’s also automating browser-based support requests. “We are trying to position ourselves as a platform for agents that bring outcomes or get things done rather than voice agents for enterprises,” Tripathi said. Most of Ringg’s customers are based in India, with a handful in the Middle East and the U.S. But the startup isn’t trying to sell directly to U.S. companies; instead, it wants to partner with so-called Global Capability Centers in India — the offshore hubs multinationals increasingly lean on for back-office and support work — to sell automation capacity alongside human support. Tripathi said the company builds its own speech recognition and generation models, and would eventually like to own the full voice stack, including infrastructure and deployment. For now, though, that remains too costly, so the product works as an orchestration layer, routing tasks to different models depending on the use case. Rishen Kapoor, a principal at Peak XV, said that because Ringg started as a research lab building its own models, that technical depth shows up in the complex use cases it’s now tackling. “Because of the technical capabilities, they can actually do these hard-won enterprise workflows end to end. They can complete these higher-value tasks like merchant onboarding, like L1 and L2 support, with quality and with consistency,” Kapoor told TechCrunch. Voice AI in India is a crowded field. Model makers including Deepgram, ElevenLabs, Cartesia, and local players like Sarvam and Smallest.ai, are all jockeying for pole position. Orchestration-focused startups like Bolna and Blue Machines are chasing the same layer Ringg occupies, while sector-focused players like Gnani and Arrowhead concentrate heavily on finance. That layered stack — model makers, orchestrators, and application-layer players all trying to lock in enterprise workflows — is itself the story. The money and the defensibility increasingly sit with whoever owns the customer relationship and the outcome. Ringg currently has 40 employees, with more than 15 hired in the last three months. The startup is hiring for forward-deployed engineer roles that combine technical chops with product management skills, along with researchers focused on bringing down the cost of running its models.",
+        "impact": "تحول در خدمات مشتریان هندوستان و جایگزینی عامل‌های هوش مصنوعی با اپراتورهای انسانی در مقیاس میلیون.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+        "clean_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1787689740.0
+    },
+    {
         "id": "2c31ccc7aa",
         "title_fa": "همکاری استارتاپ Tranquility AI برای حل پرونده‌های جنایی بایگانی‌شده",
         "title_en": "Tranquility AI Partners With University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative",
@@ -353,6 +400,31 @@
         "timestamp": 1787681880.0
     },
     {
+        "id": "298f9e83e7",
+        "title_fa": "آخرین مهلت تخفیف ۳۰۰ دلاری رویداد تک‌کرانچ دیسراپ ۲۰۲۶",
+        "title_en": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+        "summary": [
+            "فرصت ثبت‌نام با تخفیف ویژه برای بزرگ‌ترین رویداد استارتاپی سان‌فرانسیسکو امشب به پایان می‌رسد.",
+            "تمرکز اصلی رویداد امسال روی ابزارها و مدل‌های هوش مصنوعی با حضور مدیران ارشد OpenAI و Anthropic است."
+        ],
+        "full_text": "We heard the feedback, and we’ve extended the window for the lowest prices for TechCrunch Disrupt 2026 a bit further, with the current prices now ending at 11:59 pm PT Tuesday, August 25. Once that window closes, your chance to save up to $300 on your pass, or get an even larger discount on group pricing, will come to an end. For everyone who was looking for an extension, your chance is now! Start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West to learn from speakers from OpenAI, Anthropic, Replit, Amazon, Databricks and more. If Disrupt has been on your radar, now is the time to lock in your pass before tomorrow’s deadline. TechCrunch Disrupt: Where the startup ecosystem moves forward Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward. And for our event this year, you’ll find a keen focus on building and developing in the AI era across all of our stages of programming. If you want to be on the cutting edge running into 2027, this is the event for you. And you don’t have to be a founder to get value out of Disrupt. Whether you’re raising capital, scouting investments, hiring talent, launching a startup, or building strategic partnerships, Disrupt puts you in the middle of the conversations shaping what’s next and can help you make the connections that propel your next year of growth. Here’s just a glimpse of what you gain by attending: - Actionable insights from founders, operators, and VCs actively building and investing in today’s market. Our agenda features a wide range of topics, curated to focus on insights that lead to action. - Direct access to investors looking for their next portfolio company and founders seeking the right partners. Plus, you can get AI-powered networking opportunities through our app or take deeper dives through our many Side Events. - Early visibility into emerging technologies and startups before they break into the mainstream through our Exhibit Hall. - High-value connections that lead to funding, partnerships, customers, and career opportunities. Disrupt is about growth, both for startups and yourself! What’s new at TechCrunch Disrupt 2026 Keeping that focus on building companies in the AI era in mind, we have a great slate of new stages and programming to inspire and educate: - Real World AI Stage: AI is moving beyond the screen and into the physical world. Explore how robotics, autonomous systems, manufacturing, healthcare, and defense are turning AI breakthroughs into real-world products and businesses. - Smart Money Stage: Follow the money. From fintech to stablecoins to payments, embedded finance, and AI-driven financial services, this stage explores how technology is reshaping the movement of capital. - Smart Systems Stage: Every AI breakthrough depends on the infrastructure behind it. Discover the innovations in chips, compute, energy, networking, and data centers that will determine the next generation of technology companies. Our Disrupt, AI, and Builders Stages are also returning this year, and we have excellent speakers joining us across them all: - Rivian CEO and founder RJ Scaringe - Amazon SVP of Devices, Alexa and Leo, Panos Panay - Bluesky CEO Toni Schneider and COO Rose Wang You can explore the rest of our extensive speaker lineup right here! Don’t miss out on the best TechCrunch Disrupt’s prices! This is your last chance to save before rates increase, so lock in your pass before Tuesday, August 25 at 11:59 p.m. PT to get the best prices, whether you’re a student looking to get their introduction to the community or an established investor in search of an untapped opportunity.",
+        "impact": "فرصتی کلیدی برای استارتاپ‌ها جهت شبکه‌سازی مستقیم با سرمایه‌گذاران خطرپذیر حوزه فناوری.",
+        "tag": "رویداد",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+        "clean_url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2015/09/ae1f79a1ec4335fb3af512a1c31d3f3f.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1787680860.0
+    },
+    {
         "id": "0530f0d7b3",
         "title_fa": "برنامه تازه لاکهید مارتین برای ادغام هوش مصنوعی در سامانه‌های فضایی",
         "title_en": "What Could Lockheed Martin (LMT) New AI Airspace And Launch Push Signal?",
@@ -373,6 +445,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787678479.0
+    },
+    {
+        "id": "8757ffcf21",
+        "title_fa": "رونمایی از Nothing OS 5.0 مبتنی بر اندروید ۱۷",
+        "title_en": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+        "summary": [
+            "نسخه جدید سیستم‌عامل ناتینگ با اپلیکیشن اختصاصی Glyph Interface و تم‌های رنگی داینامیک معرفی شد.",
+            "امکانات جدید اندروید ۱۷ مانند ایموجی‌های سه‌بعدی و قابلیت شبیه Away Time برای مدیریت زمان استفاده از گوشی به آن اضافه شده است.",
+            "گوشی‌های قدیمی‌تر مانند Phone 1 و CMF Phone 1 این به‌روزرسانی را دریافت نخواهند کرد."
+        ],
+        "full_text": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android’s built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper “while Nothing’s predominantly monochrome character stays underneath.” Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen Android 17 features like enhanced quick share and new 3D emojis are also part of the update, but not if you’re using one of Nothing’s older phones. Android 17 features like enhanced quick share and new 3D emojis are also part of the update, but not if you’re using one of Nothing’s older phones. While I like Nothing’s simplified, monochrome app icons, it’s nice to get an option for adding some limited areas of color to the homescreen. Nothing’s launching it as “an additional theme,” so you can keep using the old design if you like. The Android 17-based update is launching in open beta on August 26th, starting with the Nothing Phone 3. It will eventually also roll out to most of Nothing’s other phones, but a few older devices aren’t getting this update, including the Phone 1, Phone 2, and CMF Phone 1 — the last of which I’ve been using, so unfortunately I won’t get to try out these new features myself. The latest version of Nothing OS also adds a slew of new homescreen customization options and quality-of-life tweaks that will let you track how long you spend away from your phone, or make better use of its Essential AI features. And if you have a Nothing phone with its glyph interface lighting, a new dedicated app pulls all the features and controls into one spot. Lockscreen clockfaces can also use colors from your wallpaper now. There are also a couple of new lockscreen clockfaces in Nothing OS 5.0, including a bubbly “Gooey” design and an information-dense “Micrographics” one. Since Nothing OS 5.0 is built on Android 17, it also includes platform updates like enhanced quick share, Android’s new Noto 3D emojis, and expanded dark theme support. Other new highlights include: - “Geist” system typeface - Away Time widget that tracks how long you haven’t been using your phone, and Collector widget that turns pictures of items into home or lock screen icons - Select multiple homescreen app icons to move them all at once - Status bar icons with animations to signify things like turning airplane mode on or off - Single-tap Bluetooth controls in Quick Settings - Essential AI updates including support for Model Context Protocol (MCP), cleaner transcriptions from Essential Voice, a Smart Collections feature for organizing Essential Space captures, and support for building Essential Apps on-device Most Popular - Android is getting its own weird dots to cure car sickness - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The OLED Xbox Ally X20 officially starts at $1,300 - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra - Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+        "impact": "ارتقای تجربه کاربری گوشی‌های ناتینگ و تمایز بیشتر رابط بصری آن در بازار موبایل.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+        "clean_url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282&w=1200",
+        "images": [
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282&w=1200",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787677080.0
     },
     {
         "id": "cefe1ffed9",
@@ -557,6 +655,31 @@
         "timestamp": 1787668147.0
     },
     {
+        "id": "1963c0d3c0",
+        "title_fa": "جذب سرمایه ۲ میلیارد دلاری استارتاپ‌های حقوقی هوش مصنوعی",
+        "title_en": "Legal AI Has Attracted $2 Billion But How Can Small Businesses Benefit",
+        "summary": [
+            "استارتاپ‌های فناوری حقوقی با ترکیب هوش مصنوعی و تایید وکلا، هزینه خدمات حقوقی را برای کسب‌وکارهای کوچک به‌شدت کاهش داده‌اند.",
+            "ورود بیش از ۲.۱ میلیارد دلار سرمایه در نیمه اول ۲۰۲۶، اقبال بی‌نظیر سرمایه‌گذاران به اتوماسیون امور حقوقی را ثابت می‌کند."
+        ],
+        "full_text": "Small businesses often struggle with the high cost of legal services, frequently foregoing essential protections. A new generation of legal technology companies is now leveraging AI to make routine legal work, such as contracts and incorporation, significantly more affordable and efficient. Firms like Soxton combine AI-generated documents with licensed attorney review, drastically cutting costs and turnaround times compared to traditional law firms. This innovative approach could democratize legal access for small businesses, potentially expanding the market rather than eliminating legal jobs. However, experts emphasize that human judgment remains critical; AI assists in execution, but attorneys must provide oversight, risk assessment, and final approval. The aim is to use AI for repeatable tasks, allowing lawyers to focus on complex issues and ensuring accessible, professionally sound legal support. For small business owners, AI is a conflicting topic. Several owners are weary of it, having built businesses that prize human connection and person-to-person customer service. Yet there’s one area that’s often been dicey for small businesses, and often priced them out entirely from pursuing it: legal issues. Legal work has traditionally presented an uncomfortable choice: either pay thousands of dollars for help from a law firm, attempt to navigate contracts and incorporation documents alone, or postpone the work altogether. A new generation of legal technology companies argues that artificial intelligence can offer another option, and this may be where it’s actually advantageous to small businesses who don’t have massive budgets. The clearest opportunity is not replacing attorneys in courtrooms or negotiating complex acquisitions. It is making routine legal work, such as incorporation, nondisclosure agreements, standard contracts and document review, faster and less expensive. Google is the latest technology giant racing into legal AI, and announced today morelegal AI features through Google Cloud. But another experiment is happening further down the market: entrepreneurs are using the same technology to build law firms from the ground up, promising to give small businesses access to legal services that have traditionally been prohibitively expensive. In fact, investors havereportedly put $2.1 billioninto legal-tech startups globally in the first half of 2026. Soxton, a legal platform for startups and small and medium-sized businesses, combines AI-generated documents with review by licensed attorneys. Founder and CEO Logan Brown said routine drafting, redlining, and contract-review requests begin with an AI system trained on the company’s legal template library. An experienced attorney reviews each AI-drafted contract before it reaches the client. Brown said that process allows Soxton to return contracts in under 24 hours, something that would not have been possible before. The company offers free Delaware C-Corporation incorporation through banking partners Rho and Mercury, while standard contracts such as NDAs generally cost between $200 and $500 per document. Brown estimates traditional large firms may charge between $1,000 and $10,000 for comparable work. For larger transactions, the gap can also be substantial. Soxton charges fixed fees of roughly $10,000 to $20,000 for matters including priced fundraising rounds and mergers and acquisitions. Brown said a funding round priced at $20,000 through Soxton might cost $50,000 to $100,000 at a large traditional law firm. “We use flat, fixed fees rather than the billable hour,” Brown says, describing it as a deliberate departure from her previous experience at Cooley, where she said they billed at much higher rates. Soxton claims that its clients save an average of $35,000 annually in legal costs. Those are company-supplied comparisons, and the nature and complexity of legal matters vary considerably. But they illustrate how AI could alter the economics of an industry still largely organized around billing for attorneys’ time. If software completes an initial draft or review in minutes, clients may become less willing to pay for several hours of junior lawyer work. Cat Casey, founder ofThe Techno Cat, says corporate legal departments are already challenging this model. “General counsel at leading corporations have stated in no uncertain terms they will not pay outside counsel the same number of billable hours for tasks that AI and automation deliver at a fraction of the cost.”",
+        "impact": "دسترسی ارزان و سریع کسب‌وکارهای کوچک به تنظیم قراردادها و خدمات حقوقی استاندارد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/eshachhabra/2026/08/25/legal-ai-has-attracted-2-billion-but-how-can-small-businesses-benefit/",
+        "clean_url": "https://www.forbes.com/sites/eshachhabra/2026/08/25/legal-ai-has-attracted-2-billion-but-how-can-small-businesses-benefit",
+        "image": "http://www.bing.com/th?id=ONUT.b31XTNb70T5NVYMmbGDvbA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.b31XTNb70T5NVYMmbGDvbA&pid=News",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/Services-and-legal-consultancy-concept--Business-legal-services--advice--justice-and/0x0.jpg?width=960"
+        ],
+        "timestamp": 1787667180.0
+    },
+    {
         "id": "cf32cac78f",
         "title_fa": "تغییر استراتژی سیلیکون‌ولی؛ زیرساخت فیزیکی، خندق جدید رقابتی استارتاپ‌ها",
         "title_en": "Why Physical Infrastructure Is Becoming Silicon Valley’s Next Big Competitive Mo...",
@@ -720,6 +843,57 @@
         "timestamp": 1787662800.0
     },
     {
+        "id": "244b5bebd4",
+        "title_fa": "ادغام بخش مشاوره و سرمایه‌گذاری Fiat Ventures و جذب ۳۵ میلیون دلار",
+        "title_en": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+        "summary": [
+            "این مجموعه سرمایه‌گذاری با ری‌برندینگ به FGV Capital، دومین صندوق خود را به ارزش ۳۵ میلیون دلار راه‌اندازی کرد.",
+            "مدل جدید این شرکت، ارائه هم‌زمان مشاوره ورود به بازار و سرمایه نقدی به استارتاپ‌های فین‌تک و هوش مصنوعی است."
+        ],
+        "full_text": "Fiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of its second fund, a $35 million vehicle. The fintech-focused firm’s general partners, Marcos Fernandez and Drew Glover, told TechCrunch that the decision to combine the businesses was to help founders, whether part of the firm’s portfolio or otherwise, with their go-to-market strategies. Operating under the Fiat Growth moniker, the consultancy business previously offered startups help with scaling, businesses, and go-to-market strategies. It also provided clients access to its network of industry executives — and that overlap is where Fernandez and Glover see potential for more exposure and growth. Glover said combining the growth consultancy with the venture firm has already helped them win spots on startups’ cap tables because founders realize they could access the advisory network, too, if they take money from FGV. He stressed that the consultancy business and the investment vehicle will operate as separate entities, and said “clear processes” are in place to ensure business relationships don’t bias investment decisions. “The goal is to use the broader FGV infrastructure to give our investment team better information and deeper context, not influence the outcome,” Glover said. Glover said Fund II’s thesis centers on fintech’s intersection with areas like AI, healthcare, commerce, and other industries. It took FGV about 18 months to raise this new fund, and the duo said they sought a mix of LPs who “could do more than provide capital,” such as offering business guidance to its portfolio companies. LPs in this fund include the Reinsurance Group of America, MassMutual, and Bank of America. In a venture environment where emerging fund managers struggle to attract LP attention, FGV is betting that its combined model can help it lure LPs and startups, and deliver better returns. Glover said FGV also has a program to help the portfolio companies of its LPs scale, and said it also connects LPs with companies from the advisory side of the business for partnership opportunities. “That’s where the full-stack model becomes powerful,” Fernandez said. “Companies we invest in can become clients we help scale. Companies we work with can become investments. LPs can become customers or partners to the portfolio. The different parts of the ecosystem can create value for one another while still operating independently.” The fund will cut checks worth $1 million to $1.5 million into at least 25 companies (it’s already backed 13 so far) over two years. The firm previously raised a $25 million first fund. Overall, the firm has already backed around 40 companies, which include pet insurance company Wagmo, and the loan agency Possible Finance. “The goal is to build an ecosystem where capital, distribution, and relationships compound and where founders and investors have more ways to win together,” Fernandez said.",
+        "impact": "تسریع رشد استارتاپ‌های نوپا از طریق ترکیب مستقیم مشاوره عملیاتی و منابع مالی.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+        "clean_url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1787661420.0
+    },
+    {
+        "id": "9eb3f8aed0",
+        "title_fa": "راه‌اندازی صندوق ETF جدید برای شرکت‌های اجاره‌دهنده پردازش هوش مصنوعی",
+        "title_en": "Wall Street Just Invented the ‘Neocloud’ ETF. It Owns the Companies Renting AI Compute to Everyone Else",
+        "summary": [
+            "وال‌استریت صندوق ETF جدیدی به نام Neocloud برای سرمایه‌گذاری مستقیم روی اجاره‌دهندگان سخت‌افزار هوش مصنوعی معرفی کرد.",
+            "شرکت‌هایی مانند CoreWeave و Nebius که زیرساخت پردازشی را به غول‌های فناوری اجاره می‌دهند، هسته اصلی این صندوق هستند.",
+            "رشد درآمد ۱۱۲ درصدی CoreWeave تقاضای بی‌سابقه برای توان پردازشی را تایید می‌کند."
+        ],
+        "full_text": "Invesco QQQ Trust (NASDAQ:QQQ) offers AI exposure through the customers rather than the suppliers. QQQ’s top holdings are the hyperscalers spending on AI infrastructure. That has worked, but QQQ dilutes the pure AI-compute rental trade through hundreds of billions in unrelated market cap. On August 6, 2026, Wall Street launched the first ETF built to isolate that trade: a “Neocloud” fund holding the companies renting AI compute back to those same hyperscalers. It landed the same day as a sister photonics and optics ETF, which carries a 0.65% management fee. The question is whether the trade justifies moving away from QQQ. What Broad AI Funds Actually Give You QQQ’s AI thesis is second-order. Its megacap holdings sell chips, rent cloud services, and build models, but AI sits inside diversified businesses generating cash from unrelated products. Neocloud names are 100% AI infrastructure, contracted years out, and financed against those contracts. If hyperscaler capex doubles again, QQQ moves modestly. The Neocloud basket moves with it directly. Names Inside the New ETF CoreWeave (NASDAQ:CRWV) is the anchor. Q2 revenue hit $2.6 billion, up 112% year over year, with a revenue backlog of $104 billion and more than $25 billion in net new customer commitments added early in Q3. Adjusted EBITDA margin was 59%. CEO Michael Intrator described it as an inflection point where “scale began to translate into expanding operating leverage.” Nebius Group (NASDAQ:NBIS | NBIS Price Prediction) grew revenue 454% to $582 million, with a first-ever capacity auction clearing 15% above its highest prior Blackwell price. Applied Digital (NASDAQ:APLD) sits on $36 billion of total contracted lease value, with roughly 76% tied to investment-grade hyperscalers. TeraWulf (NASDAQ:WULF) signed a 20-year, roughly $19 billion lease with Anthropic for 401 megawatts at its Kentucky campus. IREN inked a five-year, $3.4 billion AI Cloud contract with NVIDIA tied to the eventual deployment of 600,000 GPUs. Lumentum is the optics arm: fiscal Q4 revenue jumped 109% to $1.01 billion, with non-GAAP operating margin at 36.6%. Where This Basket Actually Wins Against QQQ Tradeoffs Worth Naming In the last week alone, CoreWeave fell 18.63%, and Nebius fell 21.55%. CoreWeave’s Q2 interest expense reached $640 million, versus $267 million a year earlier. TeraWulf posted a $939.92 million net loss driven mostly by non-cash warrant marks. IREN took a $140.4 million non-cash impairment, retiring mining hardware. Customer concentration is real: Nebius disclosed three customers representing 24%, 21%, and 14% of revenue, and TeraWulf leans on Anthropic and Google’s $600 million credit backstop for Fluidstack. None of these names pay a dividend. The idea is to ride the AI infrastructure wave with guardrails. We wrote a free guide on seven suppliers powering the buildout, from power to cooling to networking, here: 7 Stocks Powering the AI Boom (That Aren’t Chipmakers). How to Think About the Swap Signals That Would Change the Call Contact [email protected] for any questions or corrections.",
+        "impact": "ایجاد مسیر مستقیم برای سرمایه‌گذاران بورسی جهت بهره‌برداری از بحران کمبود توان پردازشی هوش مصنوعی.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else/",
+        "clean_url": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else",
+        "image": "http://www.bing.com/th?id=ONUT.Z1O8tuAaD-cl6JOui6HuSQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Z1O8tuAaD-cl6JOui6HuSQ&pid=News",
+            "https://247wallst.com/wp-content/uploads/2026/07/SK-Hynix-Memory.jpg",
+            "https://247wallst.com/wp-content/uploads/2024/10/Untitled-design-2024-10-01T124324.952-150x84.jpg",
+            "https://247wallst.com/wp-content/uploads/2025/01/shutterstock-2465944581-huge-licensed-scaled-150x68.jpg"
+        ],
+        "timestamp": 1787661300.0
+    },
+    {
         "id": "7c566af169",
         "title_fa": "راه‌اندازی صندوق ۱۵۰ میلیون دلاری ماس‌میوچوال برای فناوری‌های اقلیمی",
         "title_en": "MassMutual Ventures Commits to Launch $150 Million Climate Technology Fund II",
@@ -741,6 +915,32 @@
             "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787659612.0
+    },
+    {
+        "id": "aa34f4aa21",
+        "title_fa": "جذب سرمایه ۷۶ میلیون دلاری Stability AI با مشارکت غول‌های سرگرمی",
+        "title_en": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "summary": [
+            "سازنده Stable Diffusion موفق به جذب ۷۶ میلیون دلار سرمایه از غول‌هایی چون یونیورسال، سونی موزیک و EA شد.",
+            "این سرمایه‌گذاری مجموع منابع جذب‌شده توسط این استارتاپ را به ۲۳۲ میلیون دلار می‌رساند.",
+            "هدف اصلی این جذب سرمایه، توسعه ابزارهای هوش مصنوعی مولد برای صنعت موسیقی و ویدیو است."
+        ],
+        "full_text": "Stability AI, the startup behind AI image generation model Stable Diffusion, has raised $76 million in Series B funding. The new haul brings the company’s fundraising total to $232 million. The company announced the round Tuesday, saying the new capital comes partly from a number of prominent entertainment industry organizations, including Universal Music Group, Sony Music Group, Warner Music Group, and gaming giant Electronic Arts (EA). Two investment firms, AMD Ventures and Pacific Alliance Ventures, also took part. It’s an unusual roster and a less typical venture round than a lineup of the companies Stability now depends on for content licensing and distribution deals. Stability AI CEO Prem Akkaraju, who joined the company in 2024, called the funding “an affirmation of our vision where generative AI empowers every producer, musician, and storyteller.” The company says it plans to use the money from its latest funding round to continue building out its “creative production” product suite while also expanding its professional services arm. Currently, Stability offers a variety of AI models that are designed for the purposes of AI music, video, and image generation. Stability, founded in 2019, has spent the past year signing deals to weave generative AI into entertainment companies’ creative workflows. It struck partnerships with Universal Music and EA last October and with Warner Music last November, each giving those companies a hand in co-developing Stability’s AI tools rather than just licensing the output.. Stability has also had a mostly winning stretch in court. The company largely prevailed in a copyright lawsuit brought by Getty Images in the United Kingdom, which had accused the company of infringing upon IP rights by using the company’s images in the training of its image generation model. A judge ruled largely in Stability’s favor in that case, but a similar lawsuit from Getty in the U.S. is still working its way through the courts. Stability was also sued in 2023 by the company’s co-founder, Cyrus Hodes, who claimed that he was tricked by the other co-founder, Emad Mostaque, into selling his share in the company.",
+        "impact": "ورود رسمی و مستقیم صنعت سرگرمی و بازی‌سازی به پشتیبانی و توسعه ابزارهای هوش مصنوعی مولد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "clean_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+        "image": "http://www.bing.com/th?id=ONUT.aFU2UAUzAk9MJRqH4fMdYw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.aFU2UAUzAk9MJRqH4fMdYw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+            "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/12/495cdfd5deaad915a1ad58ab35edcbaa84b90c4ce9b7ded356c5ad1b61884800.png?w=150"
+        ],
+        "timestamp": 1787659380.0
     },
     {
         "id": "9552808582",
