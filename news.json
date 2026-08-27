@@ -1,5 +1,93 @@
 [
     {
+        "id": "9729b4f0b7",
+        "title_fa": "راه اندازی پلتفرم یکپارچه داده‌های کشتیرانی MariControl",
+        "title_en": "MariControl: Integrated Maritime Data Platform Launched by DBMatic and Weforsea - News and Statistics",
+        "summary": [
+            "شرکت‌های DBMatic و Weforsea از پلتفرم جدیدی برای مدیریت یکپارچه داده‌های حمل‌ونقل دریایی و پایش هوشمند شناورها رونمایی کردند.",
+            "این پلتفرم با تجمیع داده‌های عملیاتی، به بهینه‌سازی مسیرهای کشتیرانی و کاهش مصرف سوخت ناوگان‌ها کمک می‌کند."
+        ],
+        "full_text": "MariControl: Integrated Maritime Data Platform Launched by DBMatic and Weforsea - News and Statistics  IndexBox",
+        "impact": "افزایش بهره‌وری و کاهش هزینه‌های عملیاتی در خطوط حمل‌ونقل بین‌المللی دریایی.",
+        "tag": "نرم‌افزار",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUng3S1cwMDdrNlVBbFNvN0Q5T1pvcF9OcUpfY292Y01iNzd3T29kMjFtZU5MVFQwUWRFTHYxZUZJRmFPYmkzMWtRQmdLdVJtNUJtTEhJV1BYcHBIZ2J1eW8zVzlrZ3psZ0JPSllGaTdDRVFESkVCajZNRzhPMkc4OVg4Z3VHcmJyT3hkN3dEUnFqQVBiYTZ5YVdpaUdrVUZENTZGQVI0RHhjeHdl?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUng3S1cwMDdrNlVBbFNvN0Q5T1pvcF9OcUpfY292Y01iNzd3T29kMjFtZU5MVFQwUWRFTHYxZUZJRmFPYmkzMWtRQmdLdVJtNUJtTEhJV1BYcHBIZ2J1eW8zVzlrZ3psZ0JPSllGaTdDRVFESkVCajZNRzhPMkc4OVg4Z3VHcmJyT3hkN3dEUnFqQVBiYTZ5YVdpaUdrVUZENTZGQVI0RHhjeHdl",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787790060.0
+    },
+    {
+        "id": "c5cc2f7396",
+        "title_fa": "برنامه هیوندای برای عرضه ۱۰۰ مدل جدید با محوریت هوش مصنوعی",
+        "title_en": "Hyundai to launch 100 models by 2030 amid company-wide AI transition",
+        "summary": [
+            "هیوندای قصد دارد تا سال ۲۰۳۰ حدود ۱۰۰ مدل خودروی جدید معرفی کند و هوش مصنوعی را در تمامی فرایندهای سازمانی و تولیدی به کار گیرد.",
+            "این استراتژی شامل ادغام نرم‌افزارهای خودکار، هوشمندسازی خطوط تولید و توسعه سریع‌تر خودروهای متصل است."
+        ],
+        "full_text": "Hyundai to launch 100 models by 2030 amid company-wide AI transition  CarExpert",
+        "impact": "شتاب گرفتن روند تبدیل هیوندای از یک خودروساز سنتی به غول فناوری‌های خودران و حمل‌ونقل هوشمند.",
+        "tag": "خودرو",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "CarExpert",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRE1uTUEwSlZYYUFnNGs2MFJIbmpxOExUOHNja3cxY1ZQelVuZlU0U2N0SU5KUlgzbGtoRmVDWFZzRTl5Z05Ua0JPQmk0a1BzTUdBMk1DMUZjeUhLdzd1SHJ0R0F3QmNZcDl1Tk1MTDY3Qno5VmY4VFdyV0haYUwyRkhxQ1RvcFZXMHNVYlIxWTlyekF4N25yMm1HUDRPSE5DbFdyUmFKcXdkZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRE1uTUEwSlZYYUFnNGs2MFJIbmpxOExUOHNja3cxY1ZQelVuZlU0U2N0SU5KUlgzbGtoRmVDWFZzRTl5Z05Ua0JPQmk0a1BzTUdBMk1DMUZjeUhLdzd1SHJ0R0F3QmNZcDl1Tk1MTDY3Qno5VmY4VFdyV0haYUwyRkhxQ1RvcFZXMHNVYlIxWTlyekF4N25yMm1HUDRPSE5DbFdyUmFKcXdkZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787786580.0
+    },
+    {
+        "id": "65d079a100",
+        "title_fa": "رونمایی کوهیرنت از فناوری PhotonLink برای دیتاسنترهای هوش مصنوعی",
+        "title_en": "What Could Coherent (COHR) PhotonLink Launch Mean For AI Datacenters?",
+        "summary": [
+            "شرکت کوهیرنت با معرفی پلتفرم ارتباط نوری PhotonLink به دنبال برطرف کردن گلوگاه‌های انتقال داده در سرورهای سنگین هوش مصنوعی است.",
+            "کاهش مصرف انرژی و افزایش پهنای باند در ارتباطات نوری، فاکتوری تعیین‌کننده برای نسل بعدی مراکز داده محسوب می‌شود."
+        ],
+        "full_text": "What Could Coherent (COHR) PhotonLink Launch Mean For AI Datacenters?  Yahoo Finance",
+        "impact": "بهبود کارایی و بهره‌وری انرژی در انتقال داده‌های سنگین میان پردازنده‌های هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmJfSTFDb25DSkhlM2ZjTWdNRnBXSkFjWHo1WnRkV2xwallLc0Y2QTBkMC03R3dhVURBRjFfbC1NVnlNU3R2eWZpNFFsaVhHSGxrdXFzMi1relo5TkN5d1k4OEVYTWVuUWx2SjdYa09qbEYtWlRaQ1JVM2pwaFV4WldDTTBxWS1nRHdYOVBiaWFMMC1Lc3Y2dmRYeGN4dkg2MkdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmJfSTFDb25DSkhlM2ZjTWdNRnBXSkFjWHo1WnRkV2xwallLc0Y2QTBkMC03R3dhVURBRjFfbC1NVnlNU3R2eWZpNFFsaVhHSGxrdXFzMi1relo5TkN5d1k4OEVYTWVuUWx2SjdYa09qbEYtWlRaQ1JVM2pwaFV4WldDTTBxWS1nRHdYOVBiaWFMMC1Lc3Y2dmRYeGN4dkg2MkdR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787785989.0
+    },
+    {
+        "id": "ef7a15a92d",
+        "title_fa": "پیشرفت فناوری ژنتیک رمز پرونده‌های قدیمی ۱۱ سپتامبر را گشود",
+        "title_en": "A breakthrough nearly 25 years in the making just changed a 9/11 mystery",
+        "summary": [
+            "دستاوردهای تازه در استخراج و تحلیل پیشرفته DNA پس از ۲۵ سال به شناسایی باقی‌مانده قربانیان حادثه ۱۱ سپتامبر کمک کرده است.",
+            "این موفقیت قدرت کاربرد الگوریتم‌های جدید بیوانفورماتیک و جرم‌شناسی دیجیتال را در حل پرونده‌های پیچیده نشان می‌دهد."
+        ],
+        "full_text": "A breakthrough nearly 25 years in the making just changed a 9/11 mystery  Cleveland.com",
+        "impact": "توسعه و به‌کارگیری ابزارهای نوین بیوتکنولوژی در پروسه‌های پیچیده پزشکی قانونی.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnFQQW1VX1JBaFlVckw2Z1hLQ3J4SFdqcTFTVWlFSXlQQkx4N3hmUldRcXNDdXM3RXFhTVgya0tKTzhFdmdDNUVoaEVlU0Y0cWZvLTRfeHU5b1dnRVNsOEk2WlhjVWFkLWJlclR3bDd0Q3U2Sml3d1ltbTdnSlptMWxVeUMwRG51SU5zQ1RLSDZCWkx0X21FbkpjZzhtZWNjamdJeFVSc2NreGNxRG8yZFF6Z2dxUdIBygFBVV95cUxNanJURVI5YmQ5NzgxNmhQelJya2ZzUXJHYXA2VmNxM2NVaDlmeGtlRjVjeVhxeDRhel82SDdkZXh4Y29zckRONVl5QnNZSE8zUjBYODhGUkgtMS12NlNmTU56a0d3aDRBYVVqcHltZWpJZzh6NXM2dkp1cXdvX2t1MGxKaFJ2VlRTSmFEWkVCVzJCUnRqU2tPT3VNS2kxSmVNSnBfYnJmdlNqMVRQeTVtX3BQVloxNmU4ZDI5ZloxVEhzVERoMnVweVJ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnFQQW1VX1JBaFlVckw2Z1hLQ3J4SFdqcTFTVWlFSXlQQkx4N3hmUldRcXNDdXM3RXFhTVgya0tKTzhFdmdDNUVoaEVlU0Y0cWZvLTRfeHU5b1dnRVNsOEk2WlhjVWFkLWJlclR3bDd0Q3U2Sml3d1ltbTdnSlptMWxVeUMwRG51SU5zQ1RLSDZCWkx0X21FbkpjZzhtZWNjamdJeFVSc2NreGNxRG8yZFF6Z2dxUdIBygFBVV95cUxNanJURVI5YmQ5NzgxNmhQelJya2ZzUXJHYXA2VmNxM2NVaDlmeGtlRjVjeVhxeDRhel82SDdkZXh4Y29zckRONVl5QnNZSE8zUjBYODhGUkgtMS12NlNmTU56a0d3aDRBYVVqcHltZWpJZzh6NXM2dkp1cXdvX2t1MGxKaFJ2VlRTSmFEWkVCVzJCUnRqU2tPT3VNS2kxSmVNSnBfYnJmdlNqMVRQeTVtX3BQVloxNmU4ZDI5ZloxVEhzVERoMnVweVJ3",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787779020.0
+    },
+    {
         "id": "327a793a08",
         "title_fa": "عرضه مدل باز Muse Glimmer متا برای اجرا روی سخت‌افزار خانگی",
         "title_en": "Meta Releases Muse Glimmer, an Open-Weight AI Model Designed to Run on Consumer Hardware",
@@ -119,6 +207,32 @@
             "https://ventureburn.com/wp-content/themes/ventureburn/assets/svg/telegram.svg"
         ],
         "timestamp": 1787763660.0
+    },
+    {
+        "id": "271120b004",
+        "title_fa": "آمازون سفارش تراشه‌های انویدیا را برای دیتاسنترها سه برابر کرد",
+        "title_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "summary": [
+            "آمازون با افزودن ۲ میلیون پردازنده پیشرفته انویدیا شامل سری‌های بلاک‌ول و روبین به دیتاسنترهای AWS، همکاری خود را به سطحی بی‌سابقه رساند.",
+            "ارزش این قرارداد به ده‌ها میلیارد دلار می‌رسد و جهش تقاضای شرکت‌ها و آزمایشگاه‌های AI برای زیرساخت‌های پردازشی را نشان می‌دهد.",
+            "با وجود سرمایه‌گذاری سنگین آمازون روی تراشه‌های اختصاصی ترینیوم، انویدیا همچنان انتخاب اول غول‌های فناوری برای محاسبات سنگین است."
+        ],
+        "full_text": "Amazon and Nvidia just got a lot closer. The two companies announced Wednesday an expanded partnership that includes a deal to add another 2 million Nvidia GPU chips to Amazon’s data centers. These GPUs, which are designed to handle the heavy compute demands of training and running AI models, include Nvidia Blackwell Ultra, Rubin, and Rubin Ultra GPUs. The chips will head to Amazon Web Services’ data centers in 2027 and 2028. The announcement, made during Nvidia’s quarterly earnings call, comes just five months after Amazon agreed to deploy more than 1 million Nvidia GPUs across AWS infrastructure starting this year. Nvidia said in a statement that since then, “demand has exceeded those expectations.” Neither company shared financial terms. It’s unclear what the exact return will be for Nvidia. But considering GPU unit costs, the deal is worth tens of billions of dollars. The announcement is notable not just for its size and the speed in which it grew, but also because it extends beyond Amazon buying more Nvidia chips. And it’s happening even as Amazon invests in its own potentially competing AI chips. Nvidia said Wednesday that its technology, including the networking hardware that connects thousands of GPUs into one system, as well as its open models, CPUs, data processing software, and robotics platform, will also be integrated across AWS. The companies said “surging demand” from startups, enterprises, AI labs, and even governments influenced the decision to work more closely. The expanded partnership comes as Amazon ramps up its own AI chip efforts — particularly with CPUs, which are the general purpose processors at the heart of servers. Amazon has been building its own chips to lessen its dependence on Nvidia and even compete with the chip giant. Amazon’s AI chief Peter DeSantis has said that AWS is in talks to sell its Trainium chips — which are a direct alternative to Nvidia’s H100 or Blackwell chips for deep learning workloads — to other companies for use in data centers. Amazon’s Arm-built Graviton CPU is also seen as a challenger to traditional server chips from Intel and AMD. Amazon has said its custom chip business is growing, noting on its last earnings call that it crossed a $25 billion annualized revenue run rate, driven by $225 billion in total commitments from AI labs like Anthropic and OpenAI. But, it seems Nvidia is still the GOAT in the world of AI chips. With the 2 million GPU chips Amazon is adding to AWS starting in the third quarter, Nvidia also plans to send an unspecified number of Vera CPUs, “some integrated with Rubin, others standalone,” according to Nvidia CFO Colette Kress. Nvidia CEO Jensen Huang has big plans for the company’s Vera CPUs, boasting back in May that he had found a “brand new $200 billion TAM” for the company. Aside from AWS, Kress said Wednesday that Nvidia expects Vera to be deployed by “every major hyperscaler, neocloud, AI lab, and system OEM, with shipments already underway to our lead partners,” which include Oracle and SpaceXAI. The partnership is also extending to Amazon’s warehouse robots and enterprise offerings. Kress said Amazon plans to adopt Nvidia’s full physical AI stack to power its fleet of robots. The stack includes Omniverse (its simulation and digital twin platform); Cosmos (its world model platform); Isaac (its robotics development platform); and Jetson (computing hardware for robots and edge AI). This week, Nvidia also introduced a new version of Jetson designed as a more accessible robotics computer for “entry-level edge AI.” On the enterprise side, AWS will serve Nvidia’s Nemotron family of open models on Amazon Bedrock, its managed foundation model platform, and SageMaker, its managed cloud service. Nvidia also reported Wednesday that it recorded sales of $96.2 billion for the second quarter, beating analyst estimates. Data center revenue made up the majority of Nvidia’s sales for the quarter at $89 billion, up 117% from a year ago. Nvidia said it expects revenue to reach $108 billion in the third quarter, some of which will come from its next-gen Rubin GPUs. Nvidia said it began production shipments this quarter. Investors have been looking out for Rubin’s initial Q3 sales for signs that demand will continue into Nvidia’s next generation of hardware. Nvidia has committed $279 billion to secure supply and manufacturing capacity for current and future data-center projects, up substantially from $119 billion last quarter, as the chipmaker looks to secure memory and manufacturing capacity to meet AI demand over the next few years. That commitment includes $92 billion in projected spending for the rest of the fiscal year and another $87 billion in fiscal year 2028. “The thing that matters for the industry is that AI is now doing productive and useful work,” Huang said during Wednesday’s call. “AI is generating profitable tokens… If we had more compute, we could generate more profitable tokens, which results in more profit for all of the services. This is the exact phase where we’re at, which is the reason why everybody’s leaning in.” Investors will be watching to see if additional compute indeed translates so neatly into additional profits as AI companies pour hundreds of billions of dollars into infrastructure.",
+        "impact": "تثبیت رهبری مطلقا قاطع انویدیا در بازار تراشه‌های هوش مصنوعی و تقویت زیرساخت‌های ابری آمازون.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "clean_url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+        "image": "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/04/RebeccaBellan_default-large-1-e1787760589727.jpg?w=150"
+        ],
+        "timestamp": 1787762760.0
     },
     {
         "id": "9ed1e3372e",
@@ -409,6 +523,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787745000.0
+    },
+    {
+        "id": "eaedfd54cd",
+        "title_fa": "اختلال جهانی در تولید تجهیزات پزشکی بوستون ساینتیفیک پس از حمله سایبری",
+        "title_en": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+        "summary": [
+            "غول تجهیزات پزشکی بوستون ساینتیفیک هدف حمله سایبری سنگینی قرار گرفته که سیستم‌های IT و زنجیره توزیع جهانی آن را مختل کرده است.",
+            "هنوز ابعاد دقیق حادثه و میزان آسیب احتمالی به دسترسی بیماران یا عملکرد دستگاه‌های حساس نظیر ضربان‌سازها شفاف‌سازی نشده است.",
+            "این اتفاق بار دیگر آسیب‌پذیری زیرساخت‌های حیاتی درمان و وابستگی بالای آن‌ها به ابری مانند مایکروسافت را برجسته می‌کند."
+        ],
+        "full_text": "A cyberattack on U.S. medical device maker Boston Scientific is causing an ongoing “global disruption” to its operations, according to a federal regulatory filing on Wednesday. This is the latest health tech giant to face a cyberattack in recent weeks. The Massachusetts-based company, which makes medically implanted devices like pacemakers and defibrillators, confirmed in a filing with the U.S. Securities and Exchange Commission that on Tuesday it began experiencing “disruptions and limitations of access” to its IT systems and business applications critical for its operations. Boston Scientific said the cyberattack has affected its ability to ship and process orders, but has not said whether the disruption extends to customers with medical devices and implants. When asked by TechCrunch, Boston Scientific spokesperson Chanel Hastings shared the company’s public statement but would not comment on whether patients are affected by the cyberattack, say what steps patients should take, or answer questions about the nature of the incident. Boston Scientific treats around 48 million patients a year, according to its website. The company’s public statement said that its investigation is ongoing and that a timeline for its restoring its systems is not yet known. It’s not clear what caused the cyberattack at Boston Scientific. Local media in Ireland reported that thousands of staff across Boston Scientific’s campus in Cork were sent home on Tuesday after network communications were cut across the company. Boston Scientific is the latest health technology company to have been hacked this year, including medical device makers Abbott Laboratories and Medtronic. Earlier this year, Iranian-backed hackers were blamed for a cyberattack on U.S. medical device maker Stryker, which allowed the hackers to remotely wipe tens of thousands of employee devices across its Windows network by abusing a centralized device management portal provided by Microsoft. According to public internet records, Boston Scientific relies largely on Microsoft and Amazon Web Services for its corporate infrastructure. Do you know more about Boston Scientific’s cyberattack? Do you work at Boston Scientific or have you received communications from the company or the hackers? Contact this reporter via encrypted message at zackwhittaker.1337 on Signal.",
+        "impact": "توقف در پردازش و ارسال سفارش‌های حیاتی بیمارستانی و احتمال بروز زیان مالی سنگین برای شرکت.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+        "clean_url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations",
+        "image": "http://www.bing.com/th?id=ONUT.biKlyxg1JvAJnZxAoP4ewg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.biKlyxg1JvAJnZxAoP4ewg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772",
+            "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/10/whittaker_headshot_disrupt2024.jpg?w=150"
+        ],
+        "timestamp": 1787743380.0
     },
     {
         "id": "911908df71",
@@ -6849,154 +6989,5 @@
             "https://imageio.forbes.com/specials-images/imageserve/68e6940a5f33027fc103a9b0/Hand-Bursting-AI-Tech-Bubble-Vector-Concept-Illustration/0x0.jpg?width=960"
         ],
         "timestamp": 1787385240.0
-    },
-    {
-        "id": "8cfd7535ba",
-        "title_fa": "جدایی جف دین از گوگل و سرمایه‌گذاری مستقیم غول فناوری در استارتاپ او",
-        "title_en": "‘$200 Billion in Lost Market Cap’: Alphabet Stock Rocked by Brutal AI Brain Drain and DeepMind Rumours",
-        "summary": [
-            "جف دین و سه محقق برجسته هوش مصنوعی، گوگل را برای تاسیس استارتاپ پژوهشی Discovery Loop ترک کردند.",
-            "گوگل به جای قطع کامل ارتباط، به‌عنوان سرمایه‌گذار اولیه و شریک ابری این استارتاپ وارد عمل شده تا دسترسی خود به فناوری‌های بعدی آن‌ها را حفظ کند."
-        ],
-        "full_text": "Alphabet shares fell 4.03 per cent on 5 August as Jeff Dean left Google after 27 years alongside three senior AI researchers to launch Discovery Loop, a new artificial intelligence venture. The decline wiped roughly $186 billion (£138 billion) from Alphabet's market value, although the sell-off coincided with a wider reshuffle of Google's AI leadership and should not be attributed solely to the departures. What made the announcement unusual was Google's response. Rather than severing ties with Dean, Sanjay Ghemawat, Oriol Vinyals and Quoc Le, Alphabet agreed to become a founding investor in Discovery Loop and a Google Cloud partner. That complicates the usual story of a Silicon Valley brain drain. Google is losing four influential researchers while keeping a financial and commercial connection to what they build next. Google Funds Its Own Talent Exit Dean and Ghemawat have worked together for decades and helped develop some of Google's most important computing systems. Vinyals was a vice president at Google DeepMind and technical co-lead on Gemini, while Le was a founding member of Google Brain. Together, they have launched Discovery Loop, a public benefit corporation focused on using AI to accelerate scientific and engineering research. The company says it aims to automate experimental loops, allowing AI systems to propose, run and analyse thousands of experiments in parallel before iterating on the results. Sundar Pichai framed the arrangement as an ongoing relationship rather than a clean break. Google will remain a founding investor and Cloud partner while supporting the company's work on machine learning, science and engineering. Alphabet has therefore lost direct control over four prominent researchers without entirely losing its connection to their next venture. Discovery Loop could become a valuable investment, a major cloud customer or a research partner even as its founders operate independently. Why the Departures Rattled Investors The departures nevertheless came at a sensitive moment for Google's AI business. Alphabet announced a broader leadership reshuffle at the same time. Demis Hassabis moved from chief executive of Google DeepMind to chairman of DeepMind and Alphabet's chief scientist, while Koray Kavukcuoglu became Alphabet's chief AI architect and assumed operational leadership of DeepMind. The changes also came amid concerns about delays to Google's flagship Gemini model and intensifying competition from rivals including OpenAI and Anthropic. The simultaneous departure of four prominent researchers therefore added another layer of uncertainty around Google's AI operation. Those developments should not be treated as proof that Dean and his colleagues left because of internal dissatisfaction. Dean has instead described Discovery Loop as an opportunity to pursue an ambitious scientific mission with a smaller, more focused team. Still, four high-profile researchers leaving together inevitably raises questions about whether some of the industry's most ambitious scientists now see greater freedom outside Big Tech. The Expensive Race for AI The reshuffle comes as Alphabet spends heavily on the infrastructure needed to compete in AI. The company has significantly increased capital spending on data centres, chips and computing infrastructure, intensifying pressure to show that those investments can translate into stronger models, competitive products and future revenue. Frontier AI requires both exceptional researchers and enormous computing power. That can create difficult choices over where companies direct capital and how quickly experimental ideas become commercial products. The context may help explain why the departures unsettled investors, even if they were not the only reason Alphabet shares fell. The leadership restructuring and questions surrounding Google's ability to maintain its position in the increasingly competitive AI market also weighed on sentiment. One trading session is therefore too narrow a basis for assigning nearly $186 billion (£138 billion) in lost value to Dean's departure alone. Jason Calacanis captured the temptation on the All-In podcast when he noted that Alphabet shares had fallen roughly 4 per cent following the announcement and suggested investors could correlate the decline with Dean's exit. The key word is 'correlate.' The timing is clear. Causation is not. A Brain Drain Google Chose to Fund Alphabet's decision to invest in Discovery Loop ultimately makes this more complicated than a straightforward talent exodus. Google may have lost four accomplished AI researchers, but it has also positioned itself close to their next company through capital and cloud infrastructure. The arrangement blurs the line between former employer, investor, supplier and potential research partner. For Alphabet investors, the more important question is what happens next. If Discovery Loop becomes a major AI research company, Google's investment and infrastructure relationship could prove strategically valuable. If it develops breakthroughs that might otherwise have happened inside Google, however, the departures could become a symbol of a deeper problem. One day's market sell-off cannot answer that question. What matters now is whether Discovery Loop demonstrates that four of Google's most influential AI minds can move faster outside the company and whether Google's remaining researchers still believe the most ambitious work is happening inside it. Originally published on IBTimes UK",
-        "impact": "تغییر مدل حفظ استعدادها در غول‌های تکنولوژی نشان می‌دهد آن‌ها حتی پس از خروج محققان ارشد، به دنبال سهم‌گیری از نوآوری‌های آن‌ها هستند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "International Business Times",
-        "url": "https://www.ibtimes.com/200-billion-lost-market-cap-alphabet-stock-rocked-brutal-ai-brain-drain-deepmind-rumours-3806680",
-        "clean_url": "https://www.ibtimes.com/200-billion-lost-market-cap-alphabet-stock-rocked-brutal-ai-brain-drain-deepmind-rumours-3806680",
-        "image": "http://www.bing.com/th?id=ONUT.2DVX3En2NlFjPR5jkmgF6A&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.2DVX3En2NlFjPR5jkmgF6A&pid=News",
-            "https://d.ibtimes.com/en/full/4652284/google-headquarters-california.jpg",
-            "https://g.ibtimes.com/img/home/men2.png",
-            "https://g.ibtimes.com/img/home/men.png"
-        ],
-        "timestamp": 1787382060.0
-    },
-    {
-        "id": "ce02e00e38",
-        "title_fa": "بررسی پیکسل ۱۱ پرو XL؛ آپدیت تکراری با هوش مصنوعی کاربردی‌تر",
-        "title_en": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-        "summary": [
-            "طراحی گوشی تغییر خاصی نکرده و جز رنگ‌های جدید و یک چراغ کوچک در پشت بدنه، تفاوت ظاهری چندانی با نسل قبل ندارد.",
-            "قابلیت جدید Rambler به لطف هوش مصنوعی، کلمات اضافی هنگام ضبط صدا را حذف کرده و متن صوتی را بسیار تمیز و مرتب تحویل می‌دهد.",
-            "دوربین‌ها سریع‌تر شده‌اند و دستیار جمینای پیشنهادات هوشمندتری ارائه می‌دهد، اما هنوز با یک جهش سخت‌افزاری بزرگ فاصله داریم."
-        ],
-        "full_text": "If you buy the new Pixel 11 Pro, you might have to proactively tell people that you bought the latest phone, unless they are following each and every launch. The main reason is that the Pixel 11 doesn’t look that different from prior models. The main updates to its aesthetics are its new colors, which are admittedly gorgeous, and the addition of a small glowing light on the back of the phone, which has limited use. The phone arrives with some new Gemini features, but I’m not sure if AI chops are attracting customers to buy new phones these days. In daily use, what you may notice is that the Pixel 11 Pro’s cameras are snappier, and there are more options for you to customize the way your photos look. Otherwise, the Pixel 11 Pro XL feels like the previous-gen phone had a big Pixel Drop update. I have used the Obsidian Pixel 11 Pro XL for nearly a week, and so far, I can say that despite the relatively iterative updates, the phone is still solid and feels good to use. Rambler Rambler is one of my favorite new features on the Pixel 11 Pro XL. This new, AI-powered dictation tool takes out filler words like “um” and “ah” and formats your speech. The feature directly takes on other dictation apps like Wispr and Willow. The dictation tool also handles switching between languages and noisy environments well. Though it might make its way to some other devices, if you have a Pixel, this is a very cool and useful feature that you could end up using daily, compared with some of the other AI features. For the last year, I have used dictation tools frequently to take quick notes, reply to emails, and messages on devices that I use. Google’s tool is on par with a few of the top tools in the industry, I found. (The tool is so good that I have pretty much rambled my way into writing this section without needing any edits!) Gemini updates I’ve just had the phone for five days, so the Proactive Suggestions feature, designed to surface context-aware suggestions from apps, didn’t yet show up everywhere. I did see it when I conversed with friends over text messages, when they were asking me about my schedule. My only gripe is that I’d want Gemini to know about all my calendars, not just Google’s, and suggest my availability based on that. Suggestions also don’t always show up. For instance, when someone asked for my address, Gemini should have picked that up from my emails, but it didn’t. In addition, Gemini offers agentic capabilities that can help you with completing some tasks, such as placing a food order for you. But this feature is available in the U.S., and as I am based in India, I couldn’t test it. The new Live Translate feature is useful for when you are watching a live stream or a video without translated captions. However, you will need to download specific languages. HiLight is not really a highlight One of Google’s marketing messages this year was about how it designed Pixel to make you look at your screen less. The company has only one feature to show for it called HiLight, an LED notification light on the back of the phone that replaced last year’s temperature sensor. The feature allows you to keep your phone face down, while delivering subtle alerts by way of the light. The light itself looks cool when active as it lights up in green, yellow, pink, purple, or white. But a big limitation is that it only works when you activate Gemini or get phone calls from your favorite contacts, not texts. The light can also indicate that Gemini is listening or thinking. This may be useful to know that Gemini is processing information after you have asked it to execute a complex task. But besides that, I can only think of a few scenarios when my phone is face down, and I’m not wearing any earbuds to listen for the activation sound, but still need to know if Gemini is active. Besides, for favorite callers, you can always set a special ringtone. There may be only a few occasions when your phone is on silent, and if you haven’t set up calls from close people to get through, and you are paying attention to a light on the back of the phone. This feature is ripe for future customization, however, so hopefully it continues to be developed. I would like to one day choose a color for when I get a text or WhatsApp message from my contacts. Plus, if I can assign different colors for different apps, I would know if I need to pick up my phone or if I can tackle that task later. Pixel’s cameras are snappy Google decided to opt for a larger sensor for both the main and the telephoto sensors compared with the Pixel 10 Pro XL. On paper, this change means cameras can let in more light and, in turn, capture more details. (I didn’t pixel-peep to confirm this). However, thanks to the new processor and software updates, the camera app and capture feel snappy, and you can take photos faster. Google also made Night Sight, its low-light photography mode, faster, which means you don’t have to hold the phone with the subject in focus for as long and can more easily avoid blurry photos. Google’s Pro Res Zoom feature, which uses AI to upscale some parts of the photo when you go above 30x digital zoom on Pro XL, has been improved. The maximum zoom level was 100x last year, and now it is 120x. It is tough to keep your hand steady and take a legible photo, even after all the AI magic, if the subject is across the street. But for a lower zoom range, you get a usable photo. One of the marquee features of this year’s camera release is called Looks, which acts like filters, but Google claims that it’s changing the way the computational photography pipeline works on the phone. There are four core default looks called original, natural, shadows, and vanilla that you can select from the settings menu. You can also switch between other Looks called editorial, classic (with more grain), digi (reminds you of old digital cameras), black tie, and minimal. On the Pixel 11, one-touch quick access controls are customizable, so I could swap out white balan",
-        "impact": "گوگل به‌جای دستکاری ترکیب برنده سخت‌افزار، روی کاربردی‌تر کردن قابلیت‌های نرم‌افزاری و هوش مصنوعی در زندگی روزمره تمرکز کرده است.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-        "clean_url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade",
-        "image": "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2026/08/1787295676463.jpg?w=680"
-        ],
-        "timestamp": 1787382000.0
-    },
-    {
-        "id": "4eab5597fe",
-        "title_fa": "جهش ۸۰ برابری استفاده از اسکای‌روم در سایه بحران و تعطیلی مدارس",
-        "title_en": "جنگ، مدارس را آنلاین‌تر کرد؛ استفاده از اسکای‌روم ۸۰ برابر شد",
-        "summary": [
-            "استفاده مدارس از پلتفرم اسکای‌روم بهار امسال رشد ۸ هزار درصدی داشته و آموزش آنلاین را از یک راهکار موقت به ابزاری تثبیت‌شده در کشور تبدیل کرده است.",
-            "با وجود ثبت رکورد میزبانی ۵۴۰ هزار کاربر هم‌زمان، کارشناسان نسبت به جهش «فقر یادگیری» تا ۷۰ درصد در صورت نبود زیرساخت و سیاست‌گذاری مناسب هشدار می‌دهند."
-        ],
-        "full_text": "جنگ، مدارس را آنلاینتر کرد؛ استفاده از اسکایروم ۸۰ برابر شد رشد ۸۰ برابری استفاده مدارس از اسکایروم، ضرورت توسعه زیرساختهای آموزش دیجیتال و توجه همزمان به کیفیت یادگیری و دسترسی برابر را پررنگ کرده است بحرانهای ناشی از جنگ و تعطیلی مدارس، آموزش آنلاین را از یک راهکار موقت به یکی از ابزارهای مهم تداوم آموزش در کشور تبدیل کرده است. بر اساس آمار اعلامشده از سوی اسکایروم، میزان استفاده مدارس از این پلتفرم در بهار ۱۴۰۵ نسبت به مدت مشابه سال قبل ۸۰ برابر افزایش یافته است؛ رشدی که در کنار کمبود نیروی انسانی و فضای آموزشی، بار دیگر ضرورت توسعه زیرساختهای آموزش دیجیتال را مطرح کرده است. پیمان عمرانی، مدیر ارشد مارکتینگ اسکایروم، در رویداد «تخته سیاه» با ارائه آماری از روند استفاده مدارس از این پلتفرم اعلام کرد میزان استفاده مدارس از اسکایروم در بهار ۱۴۰۵ نسبت به بهار سال گذشته ۸ هزار درصد افزایش داشته است. این رشد در حالی اتفاق افتاده که طی ماههای گذشته، تعطیلی مدارس و شرایط ناشی از جنگ، نیاز به راهکارهای جایگزین برای برگزاری کلاسهای آموزشی را افزایش داده است. روند افزایشی استفاده مدارس البته به ماههای اخیر محدود نمیشود. بر اساس آمار ارائهشده، میزان استفاده مدارس از اسکایروم در پاییز ۱۴۰۴ نیز نسبت به پاییز ۱۴۰۳ حدود ۱۳۰ درصد افزایش داشته است. این ارقام نشان میدهد ابزارهای آموزش آنلاین در حال تبدیل شدن به بخشی پایدارتر از اکوسیستم آموزشی کشور هستند و دیگر صرفاً در زمان تعطیلی مدارس مورد استفاده قرار نمیگیرند. اسکایروم در مقیاس کلی نیز از رشد قابل توجه استفاده از خدمات خود خبر داده است. به گفته عمرانی، تاکنون ۳۵ میلیون نفر در این پلتفرم حضور داشتهاند و ۴۳ میلیون رویداد از طریق آن برگزار شده است. این پلتفرم همچنین امکان میزبانی همزمان ۳۳ هزار رویداد و ۵۴۰ هزار کاربر را در یک زمان داشته است. با این حال، افزایش استفاده از فناوری در آموزش الزاماً به معنای افزایش کیفیت یادگیری نیست. فاطمه مقدس، مشاور وزیر رفاه، در بخش دیگری از رویداد «تخته سیاه» با اشاره به وضعیت آموزش در کشور، نسبت به توسعه آموزش آنلاین بدون سیاستگذاری و زیرساخت مناسب هشدار داد. به گفته او، مسئله آموزش دیجیتال تنها فراهم کردن امکان اتصال دانشآموز و معلم به یک پلتفرم نیست و کیفیت یادگیری باید همزمان با توسعه دسترسی مورد توجه قرار گیرد. مقدس همچنین با اشاره به مفهوم «فقر یادگیری» اعلام کرد این شاخص در دوره آموزش آنلاین به حدود ۷۰ درصد رسیده و نزدیک به ۴۰ درصد دانشآموزان کشور حداقل سطح یادگیری را ندارند. از نگاه او، فناوری به تنهایی نمیتواند شکاف آموزشی را از بین ببرد و در صورت نبود سیاستگذاری مناسب، حتی ممکن است به افزایش نابرابری میان دانشآموزان منجر شود. در همین حال، کمبود نیروی انسانی و فضای آموزشی نیز یکی دیگر از چالشهای جدی نظام آموزشی کشور است. عمرانی با استناد به آمار آموزشوپرورش از کمبود ۱۲۰ هزار معلم، ۳۰ هزار مشاور تحصیلی و بیش از ۱۰۲ هزار کلاس درس خبر داد. او همچنین سهم هزینههای آموزش دولتی در ایران را حدود ۲.۸ درصد تولید ناخالص داخلی اعلام کرد؛ در حالی که یونسکو اختصاص ۴ تا ۶ درصد تولید ناخالص داخلی به آموزش را توصیه میکند. مجموع این چالشها باعث شده است فعالان حوزه آموزش، آینده آموزش دیجیتال را نه در حذف مدرسه و جایگزینی کامل کلاس حضوری با کلاس آنلاین، بلکه در شکلگیری مدلهای ترکیبی جستوجو کنند. در این مدل، آموزش حضوری همچنان محور اصلی است و ابزارهای دیجیتال برای تکمیل فرآیند یادگیری، دسترسی در شرایط بحران و افزایش انعطافپذیری آموزشی مورد استفاده قرار میگیرند. یادگیری ترکیبی، بازیوارسازی و استفاده از هوش مصنوعی از جمله روندهایی هستند که در این رویداد به عنوان محورهای مهم آینده آموزش آنلاین مطرح شدند. بر اساس آمار ارائهشده، بازار آموزش آنلاین مدارس در جهان که در سال ۲۰۲۵ حدود ۹.۲ میلیارد دلار برآورد شده، میتواند تا سال ۲۰۳۲ به حدود ۱۶ میلیارد دلار برسد. عمرانی با اشاره به تجربه سالهای پس از همهگیری کرونا نیز گفت مدلهای ترکیبی آموزش در بسیاری از مدارس جهان تثبیت شدهاند و ابزارهای دیجیتال به تدریج از یک راهکار اضطراری به بخشی از ساختار آموزشی تبدیل شدهاند. اسکایروم نیز در همین راستا از اجرای طرحی با عنوان «معلمِ معلمها» خبر داده است. هدف این طرح، انتقال تجربه معلمانی است که توانستهاند در فضای آموزش آنلاین عملکرد موفقی داشته باشند به سایر معلمان و کمک به ارتقای کیفیت برگزاری کلاسهای مجازی عنوان شده است. افزایش ۸۰ برابری استفاده مدارس از اسکایروم را میتوان نشانهای از تغییر رفتار نظام آموزشی در مواجهه با بحران و محدودیتهای آموزش حضوری دانست. با این حال، این رشد در نهایت یک پرسش مهمتر را پیش روی سیاستگذاران قرار میدهد: آیا توسعه دسترسی به آموزش آنلاین میتواند همزمان به بهبود کیفیت یادگیری نیز منجر شود؟ تجربه ماههای اخیر نشان داده است که فناوری میتواند چراغ کلاس را در شرایطی که مدرسه امکان فعالیت عادی ندارد روشن نگه دارد، اما مسئله آموزش با برگزاری کلاس تمام نمیشود. کیفیت محتوا، توانمندی معلم، دسترسی برابر دانشآموزان، نقش خانواده و زیرساختهای پایدار، عواملی هستند که تعیین میکنند آموزش آنلاین صرفاً راهی برای عبور از بحران باشد یا به بخشی مؤثر از آینده نظام آموزشی ایران تبدیل شود.",
-        "impact": "تثبیت ابزارهای بومی آموزش دیجیتال در کشور هم‌زمان با تعمیق چالش‌های کیفیت یادگیری دانش‌آموزان.",
-        "tag": "آموزش آنلاین",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/iran-technology-news/skyroom-digital-education-infrastructure",
-        "clean_url": "https://digiato.com/iran-technology-news/skyroom-digital-education-infrastructure",
-        "image": "https://static.digiato.com/digiato/2026/08/photo_2026-08-22_13-25-53.jpg",
-        "images": [
-            "https://static.digiato.com/digiato/2026/08/photo_2026-08-22_13-25-53.jpg",
-            "https://static.digiato.com/digiato/2026/08/photo_2026-08-22_13-25-53-644x424.jpg.webp",
-            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg",
-            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/login.svg"
-        ],
-        "timestamp": 1787381760.0
-    },
-    {
-        "id": "867b020b94",
-        "title_fa": "مروری بر قابلیت‌های امنیتی و فرایندهای نظارتی اسنپ در سفرها",
-        "title_en": "نگاهی به قابلیت‌ها و فرایندهای امنیت سفر در اسنپ",
-        "summary": [
-            "احراز هویت و بررسی سوابق رانندگان پیش از پیوستن به ناوگان، با همکاری مستقیم پلیس اماکن فراجا انجام می‌شود.",
-            "ابزارهایی نظیر قابلیت پنهان‌سازی شماره، ثبت مخاطب اضطراری و دکمه گزارش سریع وضعیت غیرعادی، امنیت مسافران را در طول مسیر تقویت کرده‌اند.",
-            "پلتفرم اسنپ با تحلیل هوشمند داده‌های هر سفر، رفتارهای پرریسک را شناسایی کرده و ساختار امنیتی خود را به‌طور مداوم به‌روزرسانی می‌کند."
-        ],
-        "full_text": "قابلیتها و فرایندهای امنیت سفر اسنپ برای همه کاربران، فارغ از جنسیت، طراحی شدهاند؛ با این حال، برخی از آنها در پیشگیری و رسیدگی به موقعیتهایی که ممکن است برای زنان دغدغه بیشتری ایجاد کند اهمیت ویژهای دارند. این قابلیتها با رویکردی پیشگیرانه و بازدارنده، امکان نظارت و پیگیری در طول و پس از سفر را فراهم میکنند و میتوانند برای زنان مزیتهای امنیتی بیشتری نسبت به سایر شیوههای حملونقل شهری ایجاد کنند. علاوه بر این، امنیت در این ساختار به یک ارزیابی اولیه یا مجموعهای از قواعد ثابت محدود نمیشود؛ گزارشها و دادههای سفر بهطور مستمر میتوانند مبنای ارزیابی دوباره، شناسایی رفتارهای پرریسک و اقدام متناسب قرار بگیرند. به این ترتیب، ناوگان در طول زمان بهصورت پویا قابل پایش و بهبود است. امنیت سفر در اسنپ به سه دسته اصلی تقسیم میشود: «آمادگی پیش از سفر»، «همراهی در سفر» و «پشتیبانی پس از سفر». مجموعهای از فرایندهای احراز هویت کاربران راننده، ابزارهای داخل اپلیکیشن، مسیرهای ثبت گزارش و سازوکارهای پیگیری در پشتیبانی از جمله مواردی هستند که آگاهی از آنها میتواند تجربه بهتر و امنتری از سفر با اسنپ برای کاربران بسازد. آمادگی پیش از سفر؛ هویت و سوابق کاربران راننده کاربران هنگام انتخاب تاکسی اینترنتی برای سفر، پیش از هر چیز به این فکر میکنند که راننده چه کسی است. اطمینان از هویت و سابقه راننده یکی از مهمترین عوامل شکلگیری احساس امنیت در سفر است. اسنپ بررسی هویت متقاضیان فعالیت در ناوگان را به پلیس اماکن فراجا سپرده است تا با استفاده از کد ملی متقاضی در بانک دادههای مرتبط سوابق آنها بررسی شود. اطلاعات کاربر راننده و اطلاعات خودروی او توسط اسنپ ثبت و توسط پلیس فراجا بررسی میشود. در نهایت نیز مسافر، پیش از سوار شدن، باید اطلاعات داخل اپ را با راننده و خودرویی که به دنبال او آمده است مطابقت دهد، در صورت مشاهده مغایرت بین این اطلاعات از آغاز سفر خودداری کند و این موضوع را از طریق گزینه مربوطه در بخش لغو سفر یا پشتیبانی گزارش دهد. همراهی در سفر؛ تیم امنیت سفر و انحراف از مسیر دسته دوم ابزارهای امنیت سفر در اسنپ آنهایی هستند که در طول مسیر در اختیار کاربران مسافر و راننده قرار میگیرند. امکان ارتباط با تیم امنیت سفر، تشخیص تغییرات غیرعادی در سفر، ثبت مخاطب اضطراری و پنهان کردن شماره تماس، از جمله امکانات این مرحلهاند. در یک موقعیت نگرانکننده، کاربر مسافر یا راننده باید بتواند موضوع را سریع و مستقیم به تیم تخصصی امنیت سفر اطلاع دهد. یکی از تفاوتهای تاکسی اینترنتی با روشهای دیگر حملونقل، مثل تاکسیهای تلفنی محلی، در امکاناتی مثل «سرویس امنیت سفر» است. ممکن است پیشفرض این باشد که تاکسیهای تلفنی محلی قدیمی امنتر هستند، اما در واقع بسیاری از روشهای حملونقل سنتی چنین ابزارهای یکپارچهای برای گزارش و پیگیری شرایط اضطراری در طول سفر ندارند. در اپلیکیشن اسنپ کاربران با زدن دکمه «احساس امنیت نمیکنم» بهسرعت به تیم امنیت سفر متصل میشوند. در برخی موقعیتها ممکن است کاربر امکان تماسگرفتن یا صحبت آزادانه درباره وضعیت خود را نداشته باشد. در چنین شرایطی میتواند با گزینه «نمیتوانم صحبت کنم»، بدون تماس اولیه، وضعیت خود را به تیم امنیت سفر اطلاع دهد تا موضوع بر اساس فرایندهای امنیتی پیگیری شود. این گزینهها پس از پایان سفر هم تا ۲ ساعت بعد در دسترس هستند تا در صورتی که کاربر راننده اتمام سفر را پیش از موعد اعلام کرده باشد، کاربر مسافر به امکانات امنیتی سفر دسترسی داشته باشد. سفر در ساعات پایانی شب و مسیرهای ناآشنا برای همهی ما ممکن است نگرانکننده باشد. برای ایجاد حس امنیت در چنین موقعیتی نباید تمام مسئولیت تشخیص و گزارش شرایط غیرعادی بر عهدهی کاربر باشد، در نتیجه، طراحی قابلیتی که بتواند فارغ از هشیاری و گزارشدهی کاربر مسافر وضعیت سفر را بررسی کند ضروری به نظر میرسد. قابلیت «تشخیص انحراف از مسیر» در اسنپ الگوریتمی است که طراحی شده تا تغییرات ناگهانی و غیرعادی در مسیر یا مدت سفر را شناسایی کند. پس از ثبت هشدار، وضعیت سفر در اختیار تیم امنیت سفر قرار میگیرد و موضوع بر اساس شرایط سفر بررسی و پیگیری میشود. این قابلیت بهصورت خودکار عمل میکند و فعالشدن آن صرفا به اقدام کاربر در یک موقعیت پراسترس وابسته نیست. مخاطبان اضطراری و تماس امن بسیاری از کاربران، بهویژه در سفرهای شبانه یا مسیرهای ناآشنا، ترجیح میدهند فردی مورد اعتماد را در جریان سفر خود قرار دهند. قابلیت «مخاطب اضطراری» این کار را به یک فرایند خودکار داخل اپلیکیشن تبدیل کرده است. کاربران میتوانند نام و اطلاعات تماس یکی از اعضای خانواده یا فردی مورد اعتماد را بهعنوان مخاطب اضطراری در اپلیکیشن ثبت کنند. اگر کاربر در یک موقعیت اضطراری در دسترس نباشد، اسنپ میتواند با این مخاطب ارتباط برقرار کند. کاربر همچنین میتواند این قابلیت را طوری تنظیم کند که اطلاعات لحظهای سفر بهصورت خودکار برای مخاطب اضطراری ارسال شود. یکی از نگرانیهایی که میتواند برای زنان در ارتباط با سفر ایجاد شود سوءاستفاده از شماره تلفن شخصی است. در عین حال تماس میان کاربر مسافر و کاربر راننده ممکن است برای هماهنگی درباره محل سوارشدن یا جزئیات سفر ضروری باشد. از آنجا که هماهنگی میان کاربر مسافر و راننده بخشی از فرایند سفر در تاکسی اینترنتی است، باید برای حفاظت از اطلاعات افراد و محدود کردن زمینه ایجاد مزاحمت و ارتباطات ناخواسته راهکاری در نظر گرفته میشد. قابلیت «تماس امن» اسنپ همین راهحل است که با فعال کردن آن برقراری تماس از طریق یک شماره تلفن واسط فراهم میشود تا شماره واقعی کاربران هنگام تماس نمایش داده نشود. یکی از نگرانیهایی که میتواند برای زنان در ارتباط با سفر ایجاد شود سوءاستفاده از شماره تلفن شخصی است. در عین حال تماس میان کاربر مسافر و کاربر راننده ممکن است برای هماهنگی درباره محل سوارشدن یا جزئیات سفر ضروری باشد. از آنجا که هماهنگی میان کاربر مسافر و راننده بخشی از فرایند سفر در تاکسی اینترنتی است، باید برای حفاظت از اطلاعات افراد و محدود کردن زمینه ایجاد مزاحمت و ارتباطات ناخواسته راهکاری در نظر گرفته میشد. قابلیت «تماس امن» اسنپ همین راهحل است که با فعال کردن آن برقراری تماس از طریق یک شماره تلفن واسط فراهم میشود تا شماره واقعی کاربران هنگام تماس نمایش داده نشود. پشتیبانی پس از سفر؛ حفاظت از حریم خصوصی همه نگرانیها و اتفاقات مرتبط با امنیت در همان لحظه وقوع گزارش نمیشوند. ممکن است کاربر ترجیح دهد ابتدا به مکانی امن برسد، با فردی مورد اعتماد صحبت کند یا برای درک آنچه رخ داده به زمان نیاز داشته باشد و سپس گزارش خود را ثبت کند. یکی از گزینههایی که در نظرسنجی پایان سفر با توجه به بازخوردها و تجربههای کاربران طراحی شده، گزینه «رعایت/عدم رعایت حریم شخصی» است. کاربران با انتخاب این گزینه میتوانند موارد مربوط به رعایتنشدن حریم شخصی را به اسنپ گزارش کنند؛ موضوعی که بسته به شرایط میتواند شامل گفتار نامناسب، پرسشهای شخصی یا دیگر رفتارهای مداخلهگرانه باشد. اضافهشدن این گزینه به نظرسنجی پایان سفر نیز با توجه به بازخوردهای کاربران، از ج",
-        "impact": "ارتقای فرایندهای نظارتی در پلتفرم‌های تاکسی اینترنتی، سطح امنیت و اعتماد در حمل‌ونقل شهری را افزایش می‌دهد.",
-        "tag": "سرویس‌آنلاین",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/iran-technology-news/safety-of-women-in-snapp-trips",
-        "clean_url": "https://digiato.com/iran-technology-news/safety-of-women-in-snapp-trips",
-        "image": "https://static.digiato.com/digiato/2026/08/IMG_3568.jpg",
-        "images": [
-            "https://static.digiato.com/digiato/2026/08/IMG_3568.jpg",
-            "https://static.digiato.com/digiato/2026/08/IMG_3568-644x424.jpg.webp",
-            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg",
-            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/login.svg"
-        ],
-        "timestamp": 1787373780.0
-    },
-    {
-        "id": "6ce9c5e2d4",
-        "title_fa": "ائتلاف بزرگ انویدیا با غول‌های تکنولوژی برای امنیت هوش مصنوعی",
-        "title_en": "انویدیا طرح «اتحاد هوش مصنوعی امن باز» را برای بهبود دفاع سایبری راهاندازی کرد",
-        "summary": [
-            "انویدیا با مشارکت ۲۷ شرکت بزرگ از جمله مایکروسافت، اسپیس‌ایکس و دل، طرح Open Secure AI Alliance را کلید زد.",
-            "این اتحاد روی شناسایی سریع آسیب‌پذیری‌ها و ساخت ابزارهای دفاعی در برابر حملات متکی بر هوش مصنوعی تمرکز دارد."
-        ],
-        "full_text": "توسعه برند؛ برند انویدیا با همراه کردن ۲۷ شرکت بزرگ فناوری، از ابتکار Open Secure AI Alliance برای تقویت امنیت سایبری در عصر هوش مصنوعی رونمایی کرد. این اتحاد با حضور شرکتهایی مانند مایکروسافت، اسپیسایکس، دل و بنیاد لینوکس شکل گرفته تا توسعه ابزارهای دفاعی، شناسایی آسیبپذیریها و مقابله با حملات مبتنی بر هوش مصنوعی را سرعت ببخشد. سایت توسعه برند / ۱۴۰۵/۰۵/۰۵ انویدیا طرح «اتحاد هوش مصنوعی امن باز» را برای بهبود دفاع سایبری راهاندازی کرد ۴ ساعت قبل / روزنامه دنیای اقتصاد تب صعود در تالار شیشهای دنیای اقتصاد: معاملات بورس تهران در نخستین روز هفته و آخرین روز معاملاتی مردادماه، با جهش شاخصهای سهامی همراه شد؛ به طوری که شاخص کل بورس برای نخستین بار در تاریخ فعالیت خود از مرز روانی ۶ میلیون واحد عبور کرد. نماگر اصلی بازار سهام در جریان معاملات امروز با رشد 1.83 درصدی، ۱۰8 هزار واحد افزایش ارتفاع داد و در نهایت در سطح ۶ میلیون و ۶۱ هزار واحدی به کار خود پایان داد. به این ترتیب، بورس تهران مردادماه را در حالی به پایان رساند که شاخص کل یکی از مهمترین مرزهای روانی خود را پشت سر گذاشت. ۲ ساعت قبل / سايت نبض بورس سبزپوشی تمام بازارها و خروج سنگین پول از صندوق های درآمد ثابت / پیش بینی یکشنبه 1 شهریور 1405 بازار سهام بالاخره توانست از سد 6 میلیون واحد عبور کند و این اتفاق با قدرت افتاد. ارزش معاملات و ورود پول به سهام صعودی بود و به نظر می رسد که روند صندوق های... ۴ ساعت قبل / سایت فرکانس آیا صدا و سیما وارد فضای باجگیری از شرکتهای بیمه شده است؟ بودجه ۳۳ هزار و ۵۰۰ میلیارد تومانی کفاف نمیدهد؟ ۱ ساعت قبل / خبرگزاری همشهریآنلاین بنزین در دوراهی اصلاح یا شوک ؛ ناترازی بنزین از کجا آمد؟ بحران بنزین دیگر فقط به اختلاف میان تولید و مصرف محدود نیست؛ رشد شتابان مصرف، خودروهای فرسوده و پرمصرف، ضعف حملونقل عمومی و دشوارشدن واردات، مجموعهای از عوامل را ایجاد کرده که سیاستگذار را ناگزیر از بازنگری در شیوه توزیع یارانه بنزین کرده است. ۴ ساعت قبل / سایت فرکانس «حنا زرینکمر» ورزشکار مورد حمایت بانک اقتصادنوین «طلایی» شد به گزارش فرکانس، در این مسابقات که طی سه روز برای نمایندگان ایران در بخش کیوروگی برگزار شد، در وزن مثبت ۷۳ کیلوگرم زنان، «حنا زرینکمر» با شکست دادن نماینده تایلند در دور مقدماتی و سپس پیروزی در نیمهنهایی مقابل فاطمه احمدی دیگر نماینده کشورمان در دیدار پایانی مقابل سعیدوا از ازبکستان قرار گرفت. «زرینکمر» [ ] ۳ ساعت قبل / سایت اکونگار ادامه فروش امتیاز نهضت ملی مسکن/انتقاد از ورود مستقیم نهادها به ساختوساز رئیس اتحادیه صنف مشاوران املاک تهران با تأکید بر لزوم تدوین یک سیاست جامع و بلندمدت در بخش مسکن، گفت: طرحهایی مانند خرید متری مسکن و ورود مستقیم نهادها به ساختوساز، بدون شفافسازی حقوقی و اجرایی نمیتوانند بهتنهایی راهگشا باشند. سایت اقتصادنیوز نمایشنامه عجیب اقتصاد ایران | اقتصاد ایران چگونه با وجود شوکهای مکرر به فعالیت ادامه میدهد؟ | 50 تا 60 درصد شاغلان اضطراب … اقتصادنیوز: مجله تجارت فردا در گزارشی به این سوال پرداخته که سازگاری اقتصاد ایران تا کجا میتواند ادامه پیدا کند؟ سایت عصرایران اصلاحات اقتصادی دولت؛ برنامه پزشکیان برای بانک، ارز، انرژی و حذف رانت وزیر امور اقتصادی و دارایی با تشریح رویکرد اقتصادی دولت چهاردهم، از پیگیری اصلاحات در حوزههای بانک، ارز، انرژی، بودجه و تجارت خبر داد و تأکید کرد که حذف ران... سایت عصرایران احتمال انحلال چند بانک دیگر سایت عصرایران سی ان ان: بیرون کشیدن مخفی نفت از خلیج فارس تسکینی موقت است، راهکار دایم باز شدن رسمی تنگه و پایان جنگ است ذخایر راهبردی جهانی نفت در طول جنگ تا 1.9 میلیارد بشکه کاهش یافته است. اگر بازار به تعادل برسد، برای جلوگیری از بحران بعدی باید این ذخایر پر شوند. اگر این ات... سایت تابناک «روز دی اقتصادی» ترامپ علیه ایران؛ آیا فشار حداکثری به جنگ اقتصادی با چین میرسد؟ سایت اقتصاد پویا هزینه حمل فقط کرایه کشتی نیست - سایت خبری اقتصاد پویا در تجارت بینالملل، فاصله فقط با کیلومتر سنجیده نمیشود؛ فاصله یک هزینه اقتصادی است. هرچه مسیر طولانیتر، پرریسکتر و غیرقابل پیشبینیتر شود، هزینه رسیدن کالا به مقصد افزایش پیدا میکند. ممکن است کرایه حمل فقط یکی از اجزای این هزینه باشد، اما مشکل آنجاست که افزایش ریسک معمولاً چند هزینه دیگر را نیز همزمان فعال [ ]",
-        "impact": "افزایش پایداری زیرساخت‌های پردازشی و مهار تهدیدهای سایبری متکی بر هوش مصنوعی",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "vista",
-        "url": "https://vista.ir/2607/510/3hlms",
-        "clean_url": "https://vista.ir/2607/510/3hlms",
-        "image": "https://vista.ir/news/u/2026-07-27/tosebrand-3hlms.jpg",
-        "images": [
-            "https://vista.ir/news/u/2026-07-27/tosebrand-3hlms.jpg"
-        ],
-        "timestamp": 1787361780.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "تشدید حملات پهپادی و موشکی در درگیری‌های اخیر اوکراین و روسیه",
-        "title_en": "Ukraine, Russia attacks again: explosions in Kyiv overnight",
-        "summary": [
-            "موج جدید حملات پهپادی و موشکی به زیرساخت‌های شهری، نقش پررنگ فناوری‌های خودکار جنگی در نبردهای اخیر را پررنگ کرده است.",
-            "استفاده گسترده از پهپادهای انتحاری و پدافندهای بالستیک تغییرات بنیادی در تاکتیک‌های نظامی جبهه نبرد ایجاد کرده است."
-        ],
-        "full_text": "Filter by Category Ukraine, Russia attacks again: explosions in Kyiv overnight Kyiv, Aug 22. (Adnkronos/dpa) - Russia still attacking Ukraine. A series of consecutive explosions rocked Kyiv today around one in the morning, local time. A few minutes earlier, an air raid alert had been issued in the Ukrainian capital. The attacks caused at least two deaths, according to local authorities. The city's military administration reported a fire in a warehouse in the Darnytskyi district of the capital, after issuing a ballistic missile alert. German Foreign Minister Johann Wadephul has arrived in Kyiv for a solidarity visit to Ukraine, just days before the country's 35th independence anniversary. Arriving by train in the capital, Wadephul condemned the new escalation of Russian drone and missile attacks, accusing Moscow of \"indiscriminately killing civilians\" and deliberately destroying energy infrastructure to impact the population's living conditions and break their will to resist. According to the minister, July and August have been the bloodiest months for Ukrainian civilians in over four years of war and \"never before had Russia launched so many missiles against the neighboring country\". Wadephul assured that Germany will continue to support Ukraine, expressing hope that Russia can be brought to the negotiating table and emphasizing that no other country invests as much as Berlin in military and financial support for Kyiv. This is his fourth visit to Ukraine since taking office 16 months ago. At least three people, including a teenager, have died and another 13 have been injured in Ukrainian drone attacks in the Donetsk region, pro-Russian governor Denis Pushilin reported. \"Three people have died, including a teenager, and another 13 civilians have been injured today in the republic due to drone attacks by the Ukrainian Armed Forces and the explosion of a drone,\" Pushilin stated, adding that residential buildings, civilian infrastructure, and several vehicles, including a minibus with passengers, were also damaged. According to Pushilin, the attacks affected Donetsk, Horlivka, Torez, Yenakiyeve, Debaltseve, Dokuchayevsk, and Khartsyzsk. The news comes just hours after a Russian attack on a shopping center in Kryvyi Rih, in the Dnipropetrovsk region, which according to Ukrainian authorities, resulted in 15 deaths and 130 injuries. \"I had a phone conversation with United Nations Secretary-General Antonio Guterres,\" Ukrainian President Volodymyr Zelensky announced on X. \"I informed him of the ongoing Russian attacks and the numerous civilian casualties. The United Nations Secretary-General - Zelensky continued - condemned these massive Russian attacks against Kyiv and our other cities and communities. We discussed the threats that Russian attacks pose to food security, as well as Russia's continued attacks against port infrastructure and ships. This is already being felt in many countries in Africa, the Middle East, and Asia, and prices have started to rise. But despite the Russian side rejecting all proposals to sit at the negotiating table - the Ukrainian president emphasized - everything possible must be done to end this war. We agreed that the search for solutions will continue and that the United Nations will contribute to this joint effort.\" (2026/08/22-08:40) Adnkronos International: info@adnkronos.comAdnkronos Filter by Category - 08/22 14:55 Amorim: \"We need to win, the goal is the Scudetto\" - 08/22 14:35 Red alert weekend, over 24 million vehicles on the roads until tomorrow - 08/22 14:24 Chinese robots beat Bolt for the second time, 'Lighting' runs 100m in 9\"32 - 08/22 14:09 Welfare, Fava (Inps): \"It cannot be a collection of bonuses but the pact that holds society together\" - 08/22 14:06 Serie A, today Udinese-Como: time, probable lineups and where to watch it on TV - 08/22 13:49 De Laurentiis to Allegri: \"Good start to the championship and make Neapolitan fans have fun\" - 08/22 13:43 Novo Nordisk at the Rimini Meeting, Circular for Kids for pediatric wards - 08/22 13:40 Mps, Messori: \"Uphill battle for Lovaglio, Credit Agricole has no reason to say yes\" - 08/22 13:12 Formula 1, Dutch GP sprint race results and new World Championship standings - 08/22 12:49 Russian threat scares Berlin, here is Germany's almost 12 billion plan for long-range missiles - 08/22 12:48 Rome, attempts to rape partner's 14-year-old daughter: she saves herself with the 'signal for help' - 08/22 12:30 Mps, Financial Times skeptical: \"Double ops completely crazy move\" - 08/22 12:26 North Korea accuses: \"Japan with increased defense budget prepares for war of aggression\" - 08/22 12:13 Homophobic insults and assault, young man pushed into the Naviglio by two men in Vigevano - 08/22 12:03 Fuel prices, prices no longer stop. Unc: \"For gasoline, a record since 2022\" - 08/22 11:46 Girl dies in Palermo, cousin in isolation: tests positive for diphtheria - 08/22 11:41 Farewell to Rosellina Archinto, pioneer of children's publishing - 08/22 11:24 Ebola, Ministry of Health: \"Suspected case test in Trentino negative\" - 08/22 11:16 'Viva Mogol!' rerun wins TV ratings, Mediterranean Games opening on the podium - 08/22 11:01 Dutch GP, sprint race today - Live - 08/22 10:52 Salvini rejects mandatory PEC for motorists: \"It will not be included in the new Highway Code\" - 08/22 10:18 Roof of a building collapses in Perugia, there are reportedly injured - 08/22 10:08 Chases acquaintance with a knife who flees and crashes into a car, the two have been feuding for months over a scooter - 08/22 09:55 Pope Leo visits San Marino, then stops at the Rimini Meeting with the people of Communion and Liberation - 08/22 09:03 Center and South in the crosshairs of extreme heat, the fourth wave doesn't give up and regains strength - 08/22 08:40 Ukraine, Russia attacks again: explosions in Kyiv overnight - 08/22 07:20 Iran: \"Trump's economic war violates international law, risk of return to colonialism\" - 08/22 06:42 Cincinnati, today the Cob",
-        "impact": "تسریع سرمایه‌گذاری کشورهای اروپایی در توسعه فناوری‌های پدافندی و سامانه‌های ضدپهپاد.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260822KRONOS-202608121178322120_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "images": [
-            "https://jen.jiji.com/images/banner/Logo_Adn.png",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049258_00.qui.jpg",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049257_00.qui.jpg",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049256_00.qui.jpg"
-        ],
-        "timestamp": 1787356800.0
     }
 ]
