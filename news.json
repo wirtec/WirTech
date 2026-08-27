@@ -1,5 +1,165 @@
 [
     {
+        "id": "f166a3bca2",
+        "title_fa": "عرضه اوراق بهادار اهرمی ۳ برابری با تمرکز بر هوش مصنوعی",
+        "title_en": "BMO, REX Shares Launch 3x Leveraged AI-Focused ETN",
+        "summary": [
+            "مؤسسات BMO و REX Shares از عرضه اوراق قرضه قابل معامله (ETN) با اهرم ۳ برابری در حوزه هوش مصنوعی خبر دادند.",
+            "این ابزار مالی جدید به معامله‌گران اجازه می‌دهد نوسانات سود و ریسک شرکت‌های پیشرو AI را تا سه برابر بزرگنمایی کنند."
+        ],
+        "full_text": "BMO, REX Shares Launch 3x Leveraged AI-Focused ETN  ETF Database",
+        "impact": "افزایش ابزارهای ریسک‌پذیر مالی برای معامله‌گران مشتاق حوزه هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "ETF Database",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGNiLVBYbmRyb2VhcDBHOXRSQXVJanRNLVFBM095OHpVSTBTS3FIc1FFdERZcGZHaVpncnRIdEV6emVSbGNNT2h2MUxYNUV2Z091OGFJSXBTZmVxRFJtYzhhLWtUNWVtU0RzNG12UVJzNHk4SDVCX09tWWk4ZTZPek5uakVVTjJJM08xU0tYZFBpOUhUNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGNiLVBYbmRyb2VhcDBHOXRSQXVJanRNLVFBM095OHpVSTBTS3FIc1FFdERZcGZHaVpncnRIdEV6emVSbGNNT2h2MUxYNUV2Z091OGFJSXBTZmVxRFJtYzhhLWtUNWVtU0RzNG12UVJzNHk4SDVCX09tWWk4ZTZPek5uakVVTjJJM08xU0tYZFBpOUhUNkE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787868594.0
+    },
+    {
+        "id": "da68bd9724",
+        "title_fa": "نسخه ۱.۷۴ Eclipse Theia؛ ایجنت‌های AI در محور کدنویسی",
+        "title_en": "Eclipse Theia 1.74 Puts AI Agents at the Center of the IDE",
+        "summary": [
+            "در نسخه ۱.۷۴ پلتفرم توسعه Eclipse Theia، ایجنت‌های هوش مصنوعی به محور اصلی محیط توسعه تبدیل شده‌اند.",
+            "این به‌روزرسانی به برنامه‌نویسان اجازه می‌دهد کارهای پیچیده کدنویسی را به ایجنت‌های خودمختار محول کنند."
+        ],
+        "full_text": "Eclipse Theia 1.74 Puts AI Agents at the Center of the IDE  ADTmag",
+        "impact": "افزایش چشمگیر سرعت توسعه نرم‌افزار با ادغام ایجنت‌های هوشمند در محیط برنامه‌نویسی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "ADTmag",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXRBeHZHVGFpVUhKQ3k3S0lFM3R0M091SFQ4UGxhOF9oY0d3emhjLUpKWXNLQXd1TFQ4TU0temdwUGJzS3NnaWF1LXNzT01BbW5NMzUwTmFIcWozZTdxOXc4WGVEcnBXNUR3MkFybGM2ekNnZWxIUEN5Q01tWE9sLTc2bUlOTjJvZHpuNDJSSWNjbmkzd2dKRnRLTUdIN29hMldveGJETQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXRBeHZHVGFpVUhKQ3k3S0lFM3R0M091SFQ4UGxhOF9oY0d3emhjLUpKWXNLQXd1TFQ4TU0temdwUGJzS3NnaWF1LXNzT01BbW5NMzUwTmFIcWozZTdxOXc4WGVEcnBXNUR3MkFybGM2ekNnZWxIUEN5Q01tWE9sLTc2bUlOTjJvZHpuNDJSSWNjbmkzd2dKRnRLTUdIN29hMldveGJETQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787865839.0
+    },
+    {
+        "id": "5ff838768f",
+        "title_fa": "گرنت ۱۰۰ هزار دلاری دانشگاه مورگان برای آموزش هوشمند",
+        "title_en": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative",
+        "summary": [
+            "دانشگاه مورگان گرنت ۱۰۰ هزار دلاری NCAA را برای راه‌اندازی سامانه پشتیبانی آموزشی مبتنی بر هوش مصنوعی دریافت کرد.",
+            "این بودجه صرف ابزارهای هوشمند برای ارتقای سطح تحصیلی دانشجویان ورزشکار خواهد شد."
+        ],
+        "full_text": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative  Morgan State University Athletics",
+        "impact": "استفاده عملیاتی از هوش مصنوعی برای بهبود وضعیت تحصیلی ورزشکاران.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.6,
+        "source": "Morgan State University Athletics",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3ltS3Z3SlFEZ21Lb2VWUEZoM1JyOFE4Q0NxekZnc2lGaE1TQlFnREVoWEJUNktTdHluTTNaQ2dPMDFlcEN6YWhseXAzdDgyTHpkbUFnNUkxZ2FzeU9fRk5DdkdyYnRVbFBXT2lPcFc3b2NUSkpHUEFFcERKR1JXbGVrQlFfU09xQnM3VEIyV0N2eTZlNlhVQmdoQVhleEZwXzNueUotZUNNbkVzZmtpZHZnVTJHejl6eG5qMWxhdi1rWkVRUDE5UEh1NHlaYW9fYkQyTU93WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3ltS3Z3SlFEZ21Lb2VWUEZoM1JyOFE4Q0NxekZnc2lGaE1TQlFnREVoWEJUNktTdHluTTNaQ2dPMDFlcEN6YWhseXAzdDgyTHpkbUFnNUkxZ2FzeU9fRk5DdkdyYnRVbFBXT2lPcFc3b2NUSkpHUEFFcERKR1JXbGVrQlFfU09xQnM3VEIyV0N2eTZlNlhVQmdoQVhleEZwXzNueUotZUNNbkVzZmtpZHZnVTJHejl6eG5qMWxhdi1rWkVRUDE5UEh1NHlaYW9fYkQyTU93WQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787865614.0
+    },
+    {
+        "id": "d96787d81e",
+        "title_fa": "انتخاب ZenaTech به عنوان برترین فناوری پهپادی کشاورزی",
+        "title_en": "ZenaTech Named 2026 'Drone Technology of the Year' Winner by AgTech Breakthrough Awards",
+        "summary": [
+            "شرکت ZenaTech برنده جایزه «فناوری پهپادی سال ۲۰۲۶» در جوایز AgTech Breakthrough شد.",
+            "این جایزه به دلیل نوآوری‌های این شرکت در به‌کارگیری پهپادها برای هوشمندسازی و بهینه‌سازی کشاورزی اعطا گردید."
+        ],
+        "full_text": "ZenaTech Named 2026 'Drone Technology of the Year' Winner by AgTech Breakthrough Awards  EIN News",
+        "impact": "ارتقای بهره‌وری کشاورزی با استفاده از فناوری‌های هوشمند پهپادی.",
+        "tag": "گجت",
+        "urgency": 3,
+        "sentiment": 0.8,
+        "source": "EIN News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFNrWU8xVnRsdkxYeXZLcmdLM2pWeEQ0T3JrTE50NDNPSDE0OG5pdEFIcHlRd2V3cm52N3p2cHZQUUFfVlU0emIzejl2QUlwT2Q5TTJpUk4tdTdxVkFQajdjMG9lOTNYUVpmV1FkWWxpWTRRWlYzRzlHRzRPTXB0MFFoLWlac1I5VHYwS0NRUXg2SWtSUjgyaGx1YUI1NHA4N1BXNU1RUmlXT2dadVNTRFUwalVpcEFmc3R3Q0ZHQXB0OFJTTDdF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFNrWU8xVnRsdkxYeXZLcmdLM2pWeEQ0T3JrTE50NDNPSDE0OG5pdEFIcHlRd2V3cm52N3p2cHZQUUFfVlU0emIzejl2QUlwT2Q5TTJpUk4tdTdxVkFQajdjMG9lOTNYUVpmV1FkWWxpWTRRWlYzRzlHRzRPTXB0MFFoLWlac1I5VHYwS0NRUXg2SWtSUjgyaGx1YUI1NHA4N1BXNU1RUmlXT2dadVNTRFUwalVpcEFmc3R3Q0ZHQXB0OFJTTDdF",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787863367.0
+    },
+    {
+        "id": "99ad8a7cf3",
+        "title_fa": "انتشار گزارش مالی سه‌ماهه دوم شرکت تراشه‌سازی Marvell",
+        "title_en": "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results",
+        "summary": [
+            "شرکت Marvell Technology گزارش مالی سه ماهه دوم سال مالی ۲۰۲۷ خود را منتشر کرد.",
+            "عملکرد مالی این سازنده تراشه به عنوان یکی از تامین‌کنندگان زیرساخت‌های ارتباطی و هوش مصنوعی زیر ذره‌بین بازار قرار دارد."
+        ],
+        "full_text": "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results  Marvell Technology",
+        "impact": "ارزیابی سلامت مالی و میزان تقاضا در بازار زیرساخت‌های نیمه‌هادی.",
+        "tag": "سخت‌افزار",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Marvell Technology",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDhNVWVTS042VzhPTnZYZWgwd2kzVW1aVm9NR29YUHZncmt6QWFsbFJIQVFrLTRsQUtjc00yZHo3VXlvcFZQY3R0dGJiVzVSNDl6bllJQldUM185U0o5LWV6UFRmSWhHMWR0STBfazA5eVNBbU4xbUtyY0xzSnphR2piOVozN1lpd0JWRmFjUDV3UzdCY2RoN3V0M0Y0Q18xYUY2SGw0X2t0ME1JOVNwZ0RzcjlMYXBwVmxhSlFvdUR3bnVNMDQwbDlqVEdQMWMtRjFDQ2cyb3dkdDFyczZJbUJEc20xUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDhNVWVTS042VzhPTnZYZWgwd2kzVW1aVm9NR29YUHZncmt6QWFsbFJIQVFrLTRsQUtjc00yZHo3VXlvcFZQY3R0dGJiVzVSNDl6bllJQldUM185U0o5LWV6UFRmSWhHMWR0STBfazA5eVNBbU4xbUtyY0xzSnphR2piOVozN1lpd0JWRmFjUDV3UzdCY2RoN3V0M0Y0Q18xYUY2SGw0X2t0ME1JOVNwZ0RzcjlMYXBwVmxhSlFvdUR3bnVNMDQwbDlqVEdQMWMtRjFDQ2cyb3dkdDFyczZJbUJEc20xUQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787861242.0
+    },
+    {
+        "id": "68d1affea7",
+        "title_fa": "ارزشیابی ۵.۲ میلیارد دلاری Socure و خرید استارتاپ AI فراویتی",
+        "title_en": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup...",
+        "summary": [
+            "استارتاپ احراز هویت Socure با جذب ۱۵۶ میلیون دلار سرمایه جدید، ارزش بازار خود را به ۵.۲ میلیارد دلار رساند.",
+            "هم‌زمان با رشد ۸۰۰۰ درصدی کلاهبرداری‌های متکی بر هوش مصنوعی، این شرکت استارتاپ Fravity را برای خودکارسازی کشف جرایم مالی خرید.",
+            "درآمد سالانه Socure به ۳۶۴ میلیون دلار رسیده و بیش از ۳۰۰۰ مشتری بزرگ از جمله ۱۹ بانک اصلی آمریکا از خدمات آن استفاده می‌کنند."
+        ],
+        "full_text": "Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion. The Incline Village, Nevada-based company is also acquiring Austin-based agentic AI startup Fravity as it looks to automate more of the labor-intensive work involved in investigating financial crime. Summit Partners led the investment, which includes both primary capital and a secondary tender offer for employees. Goldman Sachs Alternatives, Wells Fargo, Docusign and others also participated. Socure did not disclose the terms of its acquisition of Fravity. With the latest funding, Socure has raised over $742 million in disclosed funding since its 2012 inception. It was previously valued at $4.5 billion at the time of its Series E round in 2021. The company did not break down how much of its raise was primary and secondary capital. Rapid growth as fraud surges The transactions come as Socure says it is seeing both rapid growth in its own business and a sharp rise in increasingly sophisticated fraud. The company is refreshingly open about its financials, telling Crunchbase News that it ended the second quarter with $364 million in annual recurring revenue, up 63% from a year earlier, and added 95 customers during the quarter, including Circle, Cox Automotive, MoneyLion and Login.gov. It also claims to be growing “profitably.” Socure uses AI and machine learning to help banks, fintechs and government agencies verify identities so they can “approve real customers instantly while stopping fraud.” It now has more than 3,000 enterprise customers. They include 19 of the 20 largest U.S. banks, more than 600 fintech companies, major sportsbook and prediction-market operators, and 160 public-sector organizations. Specifically, some of those customers include Capital One, Citi, Chime, Robinhood, DraftKings and Revolut. The company’s revenue model mixes usage- and transaction-based SaaS. AI creates both an opportunity and a problem Socure co-founder and CEO Johnny Ayers said AI is creating both an opportunity and a problem for the business. For example, Socure saw an 8,000% increase in AI-driven fraud across its network last year, according to the company, as generative AI and other tools make it easier to create convincing fake identities and automate attacks. At the same time, AI could help address one of the more costly parts of fraud prevention: investigating the large number of cases and alerts that automated systems flag for human review. That is where Fravity comes in. Automating fraud investigations Fravity has built an AI-native platform that uses agents to automate fraud, risk and compliance investigations. Its technology will be incorporated into Socure’s RiskOS platform as RiskOS_Agents, initially focusing on watchlist screening and monitoring and know-your-business checks. Socure and Fravity already share several enterprise customers that use the two products together, according to Socure. Across its existing deployments, Fravity has reduced cost per case by 80%, sped up case resolution fivefold and cut false positives by as much as 70%, the companies say. The acquisition puts Socure more directly into what identity intelligence company Liminal estimates is a $71.1 billion financial crime investigation market. The problem is particularly acute at banks, where 53% spend at least an hour reviewing each alert, and 37% manually review more than 40% of alerts, according to Liminal. As AI increases the volume and sophistication of fraud, Ayers argues that the identity layer — determining whether people and increasingly AI agents are who or what they claim to be — is becoming more critical to doing business online. “I believe there are two types of companies that matter in the AI-driven global economy: those that are AI-native, and those that fight the consequences of AI acceleration,” he said in a statement. Expanding beyond financial services The investment follows a period of expansion for Socure beyond its financial services roots. In May, the company won a five-year, $163 million federal contract to provide identity-proofing technology for Login.gov. It is also pushing further internationally. Socure had more than 550 employees as of March 2026, more than 100 more than it had about a year ago, according to Ayers. Related Crunchbase query: Illustration: Dom Guzman Stay up to date with recent funding rounds, acquisitions, and more with the Crunchbase Daily.",
+        "impact": "تقویت چشمگیر ابزارهای خودکار در کشف کلاهبرداری‌های پیشرفته مالی.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Crunchbase",
+        "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
+        "clean_url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity",
+        "image": "https://s.yimg.com/bo/2011b0ef-2418-5b14-91c2-c5ff4a83e4ac_1787851282219.jpg",
+        "images": [
+            "https://s.yimg.com/bo/2011b0ef-2418-5b14-91c2-c5ff4a83e4ac_1787851282219.jpg",
+            "https://news.crunchbase.com/wp-content/uploads/Giant_Funding.jpg",
+            "https://news.crunchbase.com/wp-content/uploads/2018/07/cb_news_logo_gradient-2x.png"
+        ],
+        "timestamp": 1787837407.0
+    },
+    {
+        "id": "ab9cefa732",
+        "title_fa": "سقوط ۶۹۲ میلیارد دلاری آلفابت با فرار نخبگان و نگرانی‌های AI",
+        "title_en": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise",
+        "summary": [
+            "سهام آلفابت افت ۱۵ درصدی را تجربه کرد و نزدیک به ۶۹۲ میلیارد دلار از ارزش بازار این غول فناوری به دلیل تردیدها در رقابت هوش مصنوعی تبخیر شد.",
+            "خروج کلیدی‌ترین مدیران هوش مصنوعی گوگل مانند جف دین و تغییر نقش دمیس هاسابیس، نگرانی‌ها از خروج نخبگان به مقصد OpenAI و Anthropic را اوج داده است.",
+            "تأخیر در عرضه نسخه‌های جدید جمینای و هزینه‌های هنگفت زیرساختی، سرمایه‌گذاران را نسبت به سوددهی هوش مصنوعی گوگل تردیدزده کرده است."
+        ],
+        "full_text": "(Bloomberg) -- For much of the last year, Alphabet Inc. has been the Big Tech stock to beat as investors bet that it was the most-likely winner from the artificial intelligence boom. Most Read from Bloomberg Alphabet shares hit an all-time high on May 13 after soaring more than 150% in the previous 12 months, putting them among the 25 best performers in the S&P 500 Index over that stretch and far outpacing the other Magnificent Seven technology giants. But the momentum has reversed since then due to questions about a brain drain at Google's parent and fears that the company is losing its edge in AI. The stock is down 15% from its peak, erasing $692 billion in market value and making it the second-biggest point drag on the S&P 500 in that span. At the crux of the selloff is Alphabet's suddenly shaky standing in the AI race, with its heavy spending on building out the infrastructure to develop the technology and the delayed release of its new Gemini AI model weighing on investor sentiment. And then there's the personnel issue. A few months ago, Google lost two top employees to Anthropic PBC and OpenAI. Earlier this month, Jeff Dean, who was key to Google's AI strategy, departed to launch a startup and took several high-profile coworkers with him. And Demis Hassabis stepped down as chief executive officer of the Google DeepMind AI research lab, accepting a new role as chairman. Those moves sent Alphabet shares tumbling 4% on Aug. 5, erasing $186 billion in market value in a single session. \"You've had this kind of brain drain,\" said Angelo Zino, senior vice president and head of technology at CFRA. \"It does pose some risk because it's the area of the market everybody is looking at at this point in time, right? It's, you know, can you monetize AI?\" Of course, Alphabet is hardly the only firm challenged by Big Tech's talent race. Last year, Meta Platforms Inc. poached Ruoming Pang from Apple Inc., where he ran the iPhone maker's AI models team, with a $200 million multi-year compensation package and then brought in a couple of his senior deputies. Around that time, OpenAI Chief Executive Sam Altman complained that Meta was offering his employees signing bonuses of as much as $100 million to join its top AI team. Meanwhile, OpenAI has lured more than 400 Apple employees with rich salaries and hefty stock option offers. And Apple has sued OpenAI for stealing trade secrets.",
+        "impact": "تضعیف شدید موقعیت گوگل در کورس هوش مصنوعی و ریزش سنگین ارزش سهام آن.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Bloomberg",
+        "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/afcc20b696515274becb614c8f395d6e.jpg",
+        "images": [
+            "https://media.zenfs.com/en/bloomberg_holding_pen_162/afcc20b696515274becb614c8f395d6e.jpg",
+            "https://s.yimg.com/lo/mysterio/api/fbb498e52837d74c612a2d283eb1aa1905d135e310fd1843a3df0d092a8b3682/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fafcc20b696515274becb614c8f395d6e.jpg",
+            "https://s.yimg.com/lo/mysterio/api/16327e6fbdcc1814e17eba13c16d3f03d601f97837fc58440644480bdbdab7fb/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fafcc20b696515274becb614c8f395d6e.jpg"
+        ],
+        "timestamp": 1787833808.0
+    },
+    {
         "id": "0949618b9b",
         "title_fa": "سوءاستفاده هکرهای روسی از ابزار هوش مصنوعی کرسر",
         "title_en": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
@@ -66,6 +226,58 @@
         "timestamp": 1787828775.0
     },
     {
+        "id": "9e456caa41",
+        "title_fa": "هشدار بیش از ۱۰۰ شرکت برای دفاع مقابل AI سرکش",
+        "title_en": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "summary": [
+            "غول‌های هوش مصنوعی مثل OpenAI، گوگل و آنتروپیک در نامه‌ای مشترک خواستار همکاری عاجل برای مقابله با خطرات سایبری هوش مصنوعی شدند.",
+            "حملات خودمختار اخیر برخی ایجنت‌های هوش مصنوعی نشان داد که ساختارهای امنیت سایبری سنتی دیگر در برابر این ابزارها کارایی ندارند.",
+            "شرکت‌های سازنده هوش مصنوعی در حالی خواستار خط‌مشی‌های دفاعی شده‌اند که خود هم‌زمان در حال عرضه مدل‌های قدرتمندتر و نفوذپذیرتر هستند."
+        ],
+        "full_text": "Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats. The letter — which was also signed by prominent cyber firms like CrowdStrike, Okta, and Fortinet, as well as prominent financial institutions and internet infrastructure firms — calls for the adoption of new forms of cyber defense, while also encouraging governments at the “local, national, and international levels” to collaborate on security. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,” the letter states. “The companies and public services our communities depend on — from hospitals to water treatment plants to the infrastructure that powers the internet — are at risk.” The problem AI poses to traditional cybersecurity defenses has been thrust into the spotlight lately by a string of bizarre incidents in which AI agents have attacked companies. The Hugging Face incident — in which one of OpenAI’s agents autonomously broke out of its sandboxed environment and attacked the tech company — has been followed by a trail of other reported break-ins involving agents developed by other AI companies, including Anthropic and Meta. These incidents have bolstered the argument that the field of cybersecurity has been fundamentally altered and that bold new commercial solutions are necessary to mitigate them. The letter further suggests the mobilization of a “collective response,” one in which “new partnerships” are formed “to raise security standards and find new solutions to emerging cyber threats.” Several of the AI companies that have signed the letter are still actively developing ever more advanced AI models, highlighting their conflicted position. At the same time, they are also offering programs to use frontier AI models for defensive purposes, including OpenAI’s Daybreak program, Anthropic’s Mythos, and Microsoft’s new cyber platform Perception.",
+        "impact": "تغییر بنیادی در امنیت سایبری و لزوم ابداع راهکارهای دفاعی مبتنی بر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+        "clean_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+        "image": "http://www.bing.com/th?id=ONUT.oiQHMZp0xUwY7gCG3TDG3A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.oiQHMZp0xUwY7gCG3TDG3A&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+            "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/12/495cdfd5deaad915a1ad58ab35edcbaa84b90c4ce9b7ded356c5ad1b61884800.png?w=150"
+        ],
+        "timestamp": 1787827380.0
+    },
+    {
+        "id": "65bdd1790a",
+        "title_fa": "جذب سرمایه ۹.۵ میلیون دلاری اتوری برای عرضه لوکس‌جات ارزان",
+        "title_en": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+        "summary": [
+            "استارتاپ Atorie موفق به دریافت سرمایه اولیه ۹.۵ میلیون دلاری شد تا کالاهای لوکس را بدون سودهای نجومی برندها به دست مشتریان برساند.",
+            "این استارتاپ مستقیماً با همان کارخانه‌ها و موادی کار می‌کند که برندهایی مثل پرادا و لوئی ویتون محصولات چند هزار دلاری خود را در آن‌ها می‌سازند.",
+            "استفاده از هوش مصنوعی به این کارخانه‌ها کمک کرده تا نیاز بازار را دقیق‌تر تحلیل کنند و محصولات را در تیراژ پایین‌تر و هوشمندانه‌تر بسازند."
+        ],
+        "full_text": "Fashion startup Atorie announced Thursday a $9.5 million seed round with investors, including a16z speedrun, Night Capital, and Lightspeed Ventures’ Jeremy Liew. Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods. The items are reasonably priced, too, with an Italian leather handbag costing just a few hundred, compared to the thousands a brand like Prada or Louis Vuitton would sell it for. The startup arrives at a time when dupe culture has become increasingly popular, while the luxury sector has faced backlash from consumers in the post-pandemic era due to swift price hikes. As a result, young consumers especially have sought cheaper, near-identical replications of these high-end goods; doing so has become almost a status symbol itself. On Atorie, the items sold are mostly not dupes, says co-founder and serial entrepreneur Redouane Ramdani. “It’s the same material, same craftsmanship,” he said. “It’s coming from the same factories.” He doesn’t consider Atorie fast fashion either. “It’s slow,” he clarified. Before Atorie, Ramdani built the creator platform Snipfeed, which was acquired in 2024. Having grown up in France with a family that worked in luxury manufacturing, the founder always had an idea in the back of his mind that he would one day do something in the industry he grew up loving as a kid. By the time he sold Snipfeed, however, the luxury manufacturing industry was quite different. The biggest shift he noticed was that luxury factories were no longer just manufacturing goods. Traditionally, a brand like Ralph Lauren would bring its own designs and materials to a factory, which would then produce them. The problem was that brands had to commit to large minimum orders, which often pushed them to overproduce inventory. At the same time, a lot of these factories depend on working with a small number of large brand customers. If a brand pulled out at the last minute or not enough of that overproduced inventory sold, the factories faced financial and inventory risk. “What’s changing is that the best factories increasingly have their own design and product-development capabilities,” Ramdani told TechCrunch. “Instead of simply manufacturing someone else’s designs, they can develop products themselves, adapt them quickly, and produce in smaller batches.” AI also helps these factories by pulling data that helps them identify which products are likely to sell out before committing to large production runs. “That reduces overproduction and allows factories to diversify beyond a handful of large customers,” he said. These changes also gave Ramdani an idea, leading him to team up with Luis Angulo to launch the startup, which is now an AI-powered fashion brand that connects luxury manufacturers directly with consumers. He compared his company’s approach to the retailer Quince, which is known for selling high-quality, low-priced items. “We are talking to a different generation who is coming back for things that are trendy but well-made,” he continued, adding that consumers are getting tired of pure fast fashion, especially because of the harmful impact it’s having on the environment. AI, of course, is used. Ramdani sees AI agents changing the entire shopping experience, where, in the future, people just instruct AI agents to buy things for them. Ramdani said the company uses AI to analyze fashion trends and test what colors might look good on a product. It also uses AI agents to estimate consumer demand and trains the agents to predict when a material might start running short so factories can stock up in time. On the consumer side, the Atorie website offers an AI agent that can build an outfit based on whatever — or whoever — inspires the customer. Over time, Atorie uses AI to learn shoppers’ habits to suggest what to buy next. Ramdani said Atorie is already seeing an increase in sale referrals from platforms like ChatGPT and Claude. The company said its goal is to become an alternative to Zara and offer something “very high quality for a price point that’s very affordable.” The company ended last year with around $5 million in sales and is expected to reach an annualized run rate north of $55 million this year. “We are growing super fast,” Ramdani said, adding that the team is working with over 40 factories across the world right now. The fresh capital will fund logistics, build more AI tools, and support production. The company also plans to release its own in-house line, like Amazon Essentials, and will work with creators and influencers to help them launch their own clothing lines quickly.",
+        "impact": "دسترسی خریداران به کالاهای اصلی و باکیفیت با قیمت بسیار کمتر و کاهش ریسک مالی کارخانه‌های تولیدی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+        "clean_url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup",
+        "image": "http://www.bing.com/th?id=ONUT.xvjjWOA3SGh8QSGdJJRLAw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.xvjjWOA3SGh8QSGdJJRLAw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Atoire.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Atoire-2.png?w=540"
+        ],
+        "timestamp": 1787824800.0
+    },
+    {
         "id": "0567b570e7",
         "title_fa": "سرمایه‌گذاری دانشگاه‌های بزرگ کالیفرنیا روی آموزش هوش مصنوعی",
         "title_en": "USC and UCLA bet big on AI to meet soaring student, job market demands",
@@ -110,6 +322,76 @@
         "timestamp": 1787824800.0
     },
     {
+        "id": "1e44c620d0",
+        "title_fa": "جهش رایانش کوانتومی؛ ورود فناوری از آزمایشگاه به بازار",
+        "title_en": "It’s time to stop sleeping on quantum computing: 48 experts on what to watch for...",
+        "summary": [
+            "با شتاب‌گرفتن سرمایه‌گذاری‌ها، مدیران گوگل، مایکروسافت و دارپا بر اهمیت آماده‌سازی برای عصر رایانش کوانتومی تاکید کردند.",
+            "ارزیابی‌ها نشان می‌دهد فناوری کوانتوم از فاز محض تحقیقاتی خارج شده و در حال نزدیک‌شدن به کاربردهای واقعی صنعتی است."
+        ],
+        "full_text": "As investment surges and the pace of progress accelerates, leaders from Google, Microsoft, DARPA,...",
+        "impact": "نزدیک‌تر شدن رایانش کوانتومی به حل مسائل پیچیده محاسباتی و تجاری‌سازی.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Fast Company Magazine",
+        "url": "https://www.fastcompany.com/91581596/its-time-to-stop-sleeping-on-quantum-computing-48-experts-on-what-to-watch-for-next",
+        "clean_url": "https://www.fastcompany.com/91581596/its-time-to-stop-sleeping-on-quantum-computing-48-experts-on-what-to-watch-for-next",
+        "image": "https://s.yimg.com/bo/0cac7260-00ec-5557-84b5-db5fabe2cbb2_1787824489391.webp",
+        "images": [
+            "https://s.yimg.com/bo/0cac7260-00ec-5557-84b5-db5fabe2cbb2_1787824489391.webp"
+        ],
+        "timestamp": 1787819407.0
+    },
+    {
+        "id": "dc446f7ab9",
+        "title_fa": "مذاکره سافت‌بانک برای خرید سهام اصلی شرکت رباتیک 1X",
+        "title_en": "SoftBank Negotiates Acquisition of 1X Technologies, Valued at $6",
+        "summary": [
+            "سافت‌بانک در حال مذاکره برای تصاحب بخش عمده سهام شرکت 1X Technologies است که در زمینه ساخت ربات‌های انسان‌نما فعالیت می‌کند.",
+            "این اقدام نشان‌دهنده موج جدید سرمایه‌گذاری غول‌های فناوری روی ترکیب رباتیک و هوش مصنوعی است."
+        ],
+        "full_text": "SoftBank Group is in talks to acquire a majority stake in 1X Technologies, a humanoid robot...",
+        "impact": "ورود پرقدرت سافت‌بانک به بازار تجاری‌سازی ربات‌های انسان‌نما.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Guru Focus",
+        "url": "https://www.gurufocus.com/news/9055716/softbank-negotiates-acquisition-of-1x-technologies-valued-at-6-billion",
+        "clean_url": "https://www.gurufocus.com/news/9055716/softbank-negotiates-acquisition-of-1x-technologies-valued-at-6-billion",
+        "image": "https://s.yimg.com/bo/a57e4fe3-18a6-50bb-b26b-1db17929e324_1785967357978.png.cf.jpg",
+        "images": [
+            "https://s.yimg.com/bo/a57e4fe3-18a6-50bb-b26b-1db17929e324_1785967357978.png.cf.jpg"
+        ],
+        "timestamp": 1787815807.0
+    },
+    {
+        "id": "3084426af2",
+        "title_fa": "بحران رم؛ گوگل قوانین برنامه‌نویسی اندروید را سخت‌تر کرد",
+        "title_en": "AI’s memory crunch is coming for Android apps",
+        "summary": [
+            "کمبود جهانی تراشه‌های حافظه که به دلیل توسعه سنگین دیتاسنترهای هوش مصنوعی ایجاد شده، گوگل را به تغییر قوانین برنامه‌های اندروید وادار کرد.",
+            "گوگل خط‌قرمزهای جدیدی برای میزان مصرف رم و بهینه‌سازی کدها مشخص کرده تا مانع از هنگ کردن و کندی گوشی‌ها به‌ویژه مدل‌های ارزان‌قیمت شود.",
+            "توسعه‌دهندگان تا فوریه ۲۰۲۷ مهلت دارند اپلیکیشن‌های خود را با این استانداردهای جدید رم مطابقت دهند."
+        ],
+        "full_text": "Google is making changes to its requirements for Android apps as developers face industrywide memory chip shortages driven by the AI data center boom. This week, the tech giant announced two new app quality requirements, one of which is focused on reducing apps’ memory usage and optimizing its code. The company explains that the mobile industry is now facing “significant hardware supply constraints that are altering device memory availability,” which can then, in turn, affect the consumer’s experience with their devices. To address this, Google is now establishing new performance thresholds across several areas, like dynamic memory usage and bitmap usage. In addition, Google is adding code optimization requirements designed to prevent things like app slowdowns and crashes related to performance. To aid developers, the company is rolling out new tools that will alert them when their apps exceed the new thresholds so they can take action by optimizing their code. More diagnostic tools will arrive later in the year, Google noted, including deeper insights provided by a Memory Limiter feature that prevents apps from using too much device memory. The changes are meant to help Android app and game makers continue to deliver a quality experience, Google says, while reflecting a market where memory may not be as widely available, particularly for low-end devices where price points are a concern. Developers have until February 2027 to meet the new thresholds, documented on Google’s Android Developer site. In addition, the company will require all Play Store apps to meet the Zero Tap Sign-In requirement during device migrations by April 2027. This standard requires that apps with user sign-ins, whether optional or mandatory, automatically restore the user’s sign-in state when they move between Android devices using the Android Restore Credentials API.",
+        "impact": "بهینه‌سازی اجباری برنامه‌ها برای جلوگیری از کند شدن گوشی‌های اقتصادی در سایه بحران رم.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "clean_url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+        "image": "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.1OY42hqcsNU-P_WiMqtflw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150"
+        ],
+        "timestamp": 1787815620.0
+    },
+    {
         "id": "2a718566b2",
         "title_fa": "تصاحب ۱۳ میلیارد دلاری هاگینگ فیس توسط انویدیا",
         "title_en": "Nvidia closes in on Hugging Face acquisition",
@@ -133,6 +415,32 @@
             "https://s.yimg.com/lo/mysterio/api/ae3bd9aff98d4927166499c92b228ec8decb73e3df412843dd630dd2413dee92/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fb26b681aea30e277218a6b6f62811c8a.jpg"
         ],
         "timestamp": 1787813536.0
+    },
+    {
+        "id": "d478b9d7a3",
+        "title_fa": "برنامه‌ریزی ۳۰ همتی معاونت علمی برای اکوسیستم فناوری و AI",
+        "title_en": "معاون علمی رئیس‌جمهور: سیلیکون‌ولی هم در حوزه هوش مصنوعی اکوسیستم ترکیبی دارد",
+        "summary": [
+            "معاون علمی رئیس‌جمهور از تغییر رویکرد ایران به سمت اکوسیستم ترکیبی خبر داد تا فاصله صنعت با دانش و زیرساخت‌های فناوری کشور کاهش یابد.",
+            "سرمایه‌گذاری ۳۰ هزار میلیارد تومانی در حوزه‌های راهبردی انجام شده که ۱۰ همت آن مستقیم و ۲۰ همت از طریق اهرم‌سازی منابع تامین می‌شود.",
+            "برنامه‌ریزی برای صرفه‌جویی یک میلیارد دلاری ارزی و توسعه فناوری‌های کوانتومی در دستور کار این معاونت قرار گرفته است."
+        ],
+        "full_text": "حسین افشین در «گزارش به مردم» درباره دستاوردهای دو ساله معاونت علمی در حوزه هوش مصنوعی توضیح داد و در تشریح مدل سیاستگذاری این حوزه گفت حتی سیلیکونولی نیز در عمل با یک اکوسیستم ترکیبی پیش میرود. معاون علمی رئیس جمهور توضیح داد تفاوت ایران با سیلیکونولی در این است که در آنجا برخلاف ایران که دولت هدایتگر است، بازار و صنعت مجهز به فناوریهای نو، نقش هدایتگر اکوسیستم را دارند و فناوریهای نوظهور را به سمت بازار میکشند. به گفته او، در ایران فاصله صنعت با دانش بیشتر است و تحریم نیز دسترسی به بازار بینالمللی را محدود کرده؛ بنابراین دولت چهاردهم در معاونت علمی تصمیم گرفته رویکرد خود را به سمت یک اکوسیستم ترکیبی تغییر دهد. «فاصله زیرساخت فناوری ایران با دنیا را کم میکنیم» افشین در بخش دیگری از سخنان خود گفت زیرساختهای آزمایشگاهی کشور یکی از اهداف اصلی دولت چهاردهم بوده، اما بخشی از این زیرساختها در جریان جنگ ۱۲ روزه و جنگ رمضان آسیب دیدهاند. به گفته وی هدفگذاری معاونت علمی این است که تا پایان دولت چهاردهم، آزمایشگاههایی با توان رقابت در سطح بینالمللی در کشور ایجاد شود تا فاصله زیرساخت فناوری ایران با سایر کشورها کاهش پیدا کند. 30 همت سرمایهگذاری برای چهار حوزه راهبردی معاون علمی رئیسجمهور با اشاره به سرمایهگذاریهای انجامشده گفت: «از ابتدای دولت تا امروز حدود 30 همت سرمایهگذاری کردهایم؛ در حوزههایی مانند مواد اولیه شیرخشک، انسولین، برخی واکسنهای خاص و پلاسما. حدود 10 همت از منابع معاونت بوده و حدود 20 همت نیز اهرمسازی شده است. هدف این سرمایهگذاریها این است که حدود یک میلیارد دلار کاهش ارزبری برای کشور ایجاد شود.» به گفته افشین، دستور رئیسجمهور این بوده که صرفهجویی اتفاق بیفتد و به همین دلیل طرحی آماده کردند که بر اساس آن صنایع بزرگ هدفگذاری شوند و شرکتهای دانشبنیانی که بتوانند مصرف انرژی را کاهش دهند، از تسهیلات استفاده و گواهی صرفهجویی دریافت کنند. آنها همچنین یک بسته 10 همتی برای سرمایهگذاری در حوزه انرژی آماده کردهاند که معاون علمی رئیس جمهور درباره آن گفت اگر این سرمایهگذاری در بخش برق انجام شود، حدود 500 مگاوات صرفهجویی ایجاد خواهد کرد و اگر صرفاً بر صرفهجویی گاز تمرکز شود، این رقم میتواند به حدود دو میلیارد مترمکعب گاز برسد. افشین همچنین با اشاره به طرح «حمایت از تولید بار اول» اظهار داشت: سال گذشته در نمایشگاه نفت، میزان جذب قراردادهای بار اول به حدود 300 میلیون دلار رسید؛ در حالی که کل جذب این قانون در پنج سال قبل حدود همین میزان بود. پیشبینی میکنیم این رقم در سال آینده به یک میلیارد دلار برسد. این یعنی یک بازار یک میلیارد دلاری برای شرکتهای دانشبنیان فراهم شده است و این نیز ناشی از تغییر سیاستی است که در دولت چهاردهم ایجاد کردیم. او در پایان با اشاره به فناوری کوانتوم گفت آینده کوانتوم در حوزههایی مانند حسگرهای کوانتومی، خطوط ارتباطی کوانتومی و محاسبات کوانتومی، حتماً نقشههای فناوری دنیا را تغییر خواهد داد: «امروز روزی است که باید شروع کنیم. اگر قرار است دولت چهاردهم چیزی را به یادگار بگذارد، باید در حوزههایی باشد که آینده فناوری و آینده ایران را میسازند.»",
+        "impact": "ایجاد بازار یک میلیارد دلاری برای شرکت‌های دانش‌بنیان و کاهش ارزبری کشور در حوزه‌های راهبردی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/iran-technology-news/two-year-performance-report-of-the-academic-vice-president",
+        "clean_url": "https://digiato.com/iran-technology-news/two-year-performance-report-of-the-academic-vice-president",
+        "image": "http://www.bing.com/th?id=ONUT.qY4neQk5cbn0E_XthJ0KtQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.qY4neQk5cbn0E_XthJ0KtQ&pid=News",
+            "https://static.digiato.com/digiato/2026/08/حسین-افشین.jpg",
+            "https://static.digiato.com/digiato/2026/08/حسین-افشین-644x424.jpg.webp",
+            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg"
+        ],
+        "timestamp": 1787809860.0
     },
     {
         "id": "9729b4f0b7",
@@ -6675,308 +6983,5 @@
             "https://s.yimg.com/lo/mysterio/api/e727c25afa0180b3fcd8dca4bbe31dfcbf1ca5b789c099c043c8513620c3e7cc/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F41859f90-244d-11eb-9d3d-90a30cd0ad63"
         ],
         "timestamp": 1787410316.0
-    },
-    {
-        "id": "d4b90341f1",
-        "title_fa": "جدی شدن بازاریابی خودکار با عامل‌های هوشمند در کسب‌وکارها",
-        "title_en": "Optimizely’s Forrester Wave leader slot turns “agentic” marketing into an enterprise architecture decision",
-        "summary": [
-            "صدرنشینی پلتفرم Optimizely در گزارش فورستر نشان می‌دهد که بازاریابی مبتنی بر عامل‌های هوشمند (Agentic Marketing) به یک تصمیم زیرساختی تبدیل شده است.",
-            "شرکت‌های بزرگ در حال تغییر معماری نرم‌افزاری خود هستند تا سیستم‌های هوشمند بتوانند به صورت مستقل درباره کمپین‌ها تصمیم بگیرند."
-        ],
-        "full_text": "Optimizely’s Forrester Wave leader slot turns “agentic” marketing into an enterprise architecture decision  MarketScale",
-        "impact": "اتوماسیون بازاریابی از ابزارهای ساده به سمت عامل‌های خودکار تصمیم‌گیرنده تغییر مسیر داده است.",
-        "tag": "کسب‌وکار",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "MarketScale",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdFNjLVBSRnpuNkdXWDVUSFUxTEo4VGx5a2xseFdHQ1dFbFR5WjZmUUtncTdiOVIxdklmWGN5U2pydUhWSjI2OVhaOHhJQTVzOHU5N2phRmUtTzc5RDdlLW1WUmNEN2VUaS15MVNFQ0ExZVNudjZ0cWZfU3RHLW5fRmRzMF9VVHRBQWtjNW9aSWcwR05aRUJpbUpzWGNHZnBwMVRZQm1yeGtxWGhORUpYQ2xwd20ydlhDUERqemtDcTh5N2cwV1k4cHI2RUZ2bHJVcFdhNnJobllQVU5OcjB3MUhBVTJ1MTMyaGg2RFF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdFNjLVBSRnpuNkdXWDVUSFUxTEo4VGx5a2xseFdHQ1dFbFR5WjZmUUtncTdiOVIxdklmWGN5U2pydUhWSjI2OVhaOHhJQTVzOHU5N2phRmUtTzc5RDdlLW1WUmNEN2VUaS15MVNFQ0ExZVNudjZ0cWZfU3RHLW5fRmRzMF9VVHRBQWtjNW9aSWcwR05aRUJpbUpzWGNHZnBwMVRZQm1yeGtxWGhORUpYQ2xwd20ydlhDUERqemtDcTh5N2cwV1k4cHI2RUZ2bHJVcFdhNnJobllQVU5OcjB3MUhBVTJ1MTMyaGg2RFF3",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787410294.0
-    },
-    {
-        "id": "4f1b9cc514",
-        "title_fa": "جهش بزرگ فناوری mRNA؛ واکسن سرطان مدرنا وارد مرحله تازه‌ای شد",
-        "title_en": "Why Moderna’s Cancer Vaccine Is a Breakthrough for mRNA",
-        "summary": [
-            "مدرنا با به‌کارگیری پلتفرم‌های پیشرفته زیستی، دستاورد چشمگیری در ساخت واکسن‌های اختصاصی سرطان بر پایه mRNA به دست آورده است.",
-            "این پیشرفت نشان می‌دهد که فناوری mRNA فراتر از کنترل پاندمی‌ها، پتانسیل تحول در درمان شخصی‌سازی‌شده بیماری‌های صعب‌العلاج را دارد."
-        ],
-        "full_text": "Why Moderna’s Cancer Vaccine Is a Breakthrough for mRNA  Bloomberg.com",
-        "impact": "سرعت‌بخشی به تجاری‌سازی درمان‌های اختصاصی سرطان و تغییر جهش‌یافته بازار داروسازی جهان.",
-        "tag": "زیست‌فناوری",
-        "urgency": 8,
-        "sentiment": 0.85,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEgwelNGQml6TXltSXRlTzM3TzVlUzBVcUNnZDNrdkg4XzlOa042bmcwbkpBb0Y0X2w1UFdJRi1yQ1FybmtKYXpwYUlMTmk0VDk3UWpycUpCMVpKN1h1QmlSaHc0RFJhUEJJLVdIS2w3VUJKRXA1Q0x2d1ZLdGlxNTlTUFUxTmNSbS15OVY0U1BSckR6dHVoa1hXWUZZQVFEVHo2WDRPZWlhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEgwelNGQml6TXltSXRlTzM3TzVlUzBVcUNnZDNrdkg4XzlOa042bmcwbkpBb0Y0X2w1UFdJRi1yQ1FybmtKYXpwYUlMTmk0VDk3UWpycUpCMVpKN1h1QmlSaHc0RFJhUEJJLVdIS2w3VUJKRXA1Q0x2d1ZLdGlxNTlTUFUxTmNSbS15OVY0U1BSckR6dHVoa1hXWUZZQVFEVHo2WDRPZWlhdw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787409000.0
-    },
-    {
-        "id": "77e4b4624b",
-        "title_fa": "شکست سیاست‌های تحریمی آمریکا در بازار فناوری چین",
-        "title_en": "Electric & new energy vehicles",
-        "summary": [
-            "محدودیت‌های صادراتی ایالات متحده بدون دستاورد استراتژیک، خسارت‌های میلیاردی به شرکت‌های آمریکایی وارد کرده است.",
-            "تحلیل‌ها نشان می‌دهد فناوری‌های تحریم‌شده به‌راحتی از طریق تامین‌کنندگان جایگزین در بازار چین یافت می‌شوند."
-        ],
-        "full_text": "US export controls achieving no strategic gain, hurting American firms: survey US’ export-control licensing regime costs billions in lost exports, with items ‘already available in China’ from variety of other suppliers.",
-        "impact": "کاهش سهم بازار شرکت‌های آمریکایی و تسریع خودکفایی تکنولوژیک چین",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "scmp.com",
-        "url": "https://www.scmp.com/topics/electric-cars",
-        "clean_url": "https://www.scmp.com/topics/electric-cars",
-        "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
-        "images": [
-            "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/08/21/58f3f69c-65e6-4a79-bc47-0b67ba3fb442_585d627d.jpg",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/08/19/0d86a78b-f2ff-481e-b3b3-2d266420010e_07d82a17.jpg",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/08/17/f9cf9bd1-24bb-40d7-adde-44b16a706512_de09b366.jpg"
-        ],
-        "timestamp": 1787407200.0
-    },
-    {
-        "id": "bd0a1e2bec",
-        "title_fa": "تفاوت استراتژی اپل و متا در رقابت زیرساختی هوش مصنوعی",
-        "title_en": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
-        "summary": [
-            "اپل با پرهیز از هزینه‌های سنگین ساخت دیتاسنتر، به همکاری با گوگل و ادغام جمینای روی آورده تا ریسک‌های مالی را کنترل کند.",
-            "متا میلیاردها دلار صرف زیرساخت‌های پردازشی کرده اما بازگشت سرمایه آن فعلاً محدود به بهینه‌سازی سیستم تبلیغاتی‌اش شده است."
-        ],
-        "full_text": "In the artificial intelligence (AI) arms race among the big tech firms, there have been two major laggards: Apple (AAPL -0.63%) and Meta Platforms (META +0.75%). Apple is on this list for a lack of AI investments, while Meta Platforms is on this list for spending heavily on AI computing but having little to show for it. The question is, can either of these two tech titans turn their AI aspirations into a cash-generating business? Let's take a look. Apple hasn't made the investment that its peers have When you hear about the AI hyperscalers, Apple is notably absent. Instead of spending hundreds of billions of dollars building out data centers to develop its own AI, it was perfectly happy to sit on the sidelines, letting others do the hard work. Now that the initial phases of the AI build-out are complete, the results of this decision remain unknown. Apple has partnered with Alphabet to integrate Gemini into its devices, but that collaboration is still being rolled out. Meanwhile, its Android competitors have already integrated AI into several aspects and have established a pretty large lead in AI capabilities, but that's nothing new with Apple. The company has seldom been the first to launch a new product type or feature, as it often takes its time to ensure that what it launches is the best. Time will tell whether this proves possible, but with Apple waiting this long, it may not be going as well as investors hope. Key Data Points As a bull case, Apple launches its AI products and includes an AI subscription that ends up being a hit among its users. That could lead to billions more in revenue and profits, making it a smart investment. On the bear side, Apple falls behind in AI and is stuck paying massive cloud infrastructure fees to run AI workloads because its plans for on-device AI processing don't pan out. Time will tell how these two sides fare, but Apple is currently behind in AI, and that's nothing it hasn't dealt with before. Meta has spent big, with minimal returns Meta Platforms has spent hundreds of billions of dollars on its AI computing capacity and is offering a free-to-use AI model. Most of the financial benefit of its investments is being felt through its advertising business, as it has integrated AI to improve functionality and ad-generation services. However, the ad-tech gains haven't offset the massive costs because Meta is still working on its personal superintelligence model, which it believes will be the future, rather than the closed models offered by firms like OpenAI and Anthropic. Investors are still clamoring for a real payback, which may not materialize unless Meta can offer a subscription-based service for a product like the AI glasses it's developing. Right now, all of Meta's AI investments may be yielding interesting and useful results, but they're not monetizable, which is frustrating the investing community. This has shown up in Meta's valuation, which is far cheaper than Apple's. Meta is trading at half the P/E multiple Apple is, and that's because the market has seen weak returns from its AI investments. Apple is still trading at a huge premium because it hasn't dumped hundreds of billions of dollars into AI without anything to show for it. Instead, it hasn't spent a ton of money. The company is trailing its peers by choice, not accident. If Meta can turn its AI fortunes around, it could be a generational buy at these levels; if it can't, the stock could easily move lower. Apple is priced far higher than its big tech peers, and there is some execution risk associated with that stock price. If it can develop a subscription AI model that has a large customer base, then this price tag could be worth paying. But with how expensive it is, I'd say its upside is capped. There are many better AI investments than these two right now, but I would probably choose Meta if I were forced to pick one. It doesn't have anywhere to go but up, and Meta could be close to a breakthrough that vaults its AI platform to the top.",
-        "impact": "تفاوت رویکرد اپل و متا در توسعه زیرساخت، سودآوری و سرعت عرضه محصولات هوش مصنوعی آن‌ها را کاملاً متفاوت خواهد کرد.",
-        "tag": "تحلیل بازار",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "The Motley Fool",
-        "url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine/",
-        "clean_url": "https://www.fool.com/investing/2026/08/22/apple-vs-meta-platforms-better-ai-growth-engine",
-        "image": "http://www.bing.com/th?id=ONUT.PWNTRIu_ZY_qrpiaNgmpeQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.PWNTRIu_ZY_qrpiaNgmpeQ&pid=News",
-            "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883941%2Ftwo-people-in-suits-looking-at-data.jpg&w=1200&op=resize",
-            "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883941%2Ftwo-people-in-suits-looking-at-data.jpg&w=3840&op=resize",
-            "https://media.ycharts.com/charts/34cf8562e943470f24198ad2f058e363.png"
-        ],
-        "timestamp": 1787405940.0
-    },
-    {
-        "id": "004d7bd204",
-        "title_fa": "مراکز داده قبل از جنجال هوش مصنوعی چه کاربردی داشتند؟",
-        "title_en": "مراکز داده قبل از ظهور هوش مصنوعی چه کاربردی داشتند؟",
-        "summary": [
-            "مراکز داده دهه‌ها قبل از ظهور ChatGPT، زیرساخت اصلی اینترنت، رایانش ابری و سیستم‌های پردازش پردازش‌های سنگین سازمانی بودند.",
-            "انقلاب هوش مصنوعی معماران مراکز داده را مجاب کرده تا زیرساخت‌ها را از سرورهای معمولی به سمت تراکم بالای پردازنده‌های گرافیکی تغییر دهند."
-        ],
-        "full_text": "مراکز داده امروزه به یکی از مهمترین زیرساختهای دنیای هوش مصنوعی تبدیل شدهاند، اما تاریخچه آنها بسیار قدیمیتر از ChatGPT و مدلهای هوش مصنوعی است. نخستین نمونههای مراکز داده در کنار رایانههای مینفریم شکل گرفتند و در دهههای بعد همزمان با ظهور اینترنت، مجازیسازی و رایانش ابری توسعه پیدا کردند. امروزه نیز مراکز داده در انواع مختلف، از زیرساختهای مخابراتی و سازمانی گرفته تا مراکز تخصصی آموزش و استنتاج هوش مصنوعی، فعالیت میکنند.",
-        "impact": "تغییر ساختاری در نحوه طراحی و تامین انرژی زیرساخت‌های محاسباتی جهان.",
-        "tag": "سخت‌افزار",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "itna",
-        "url": "https://www.itna.ir/news/90923/مراکز-داده-قبل-ظهور-هوش-مصنوعی-کاربردی",
-        "clean_url": "https://www.itna.ir/news/90923/مراکز-داده-قبل-ظهور-هوش-مصنوعی-کاربردی",
-        "image": "http://www.bing.com/th?id=ONUT.f4OptqEmeXoGrswnxXQ8rA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.f4OptqEmeXoGrswnxXQ8rA&pid=News",
-            "https://www.itna.ir/images/docs/000090/n00090923-b.jpg"
-        ],
-        "timestamp": 1787405580.0
-    },
-    {
-        "id": "02ae26e61c",
-        "title_fa": "اجاره مدل‌های مایکروسافت توسط متا برای سنجش هوش مصنوعی اختصاصی",
-        "title_en": "متا سالانه صدها میلیون دلار برای اجاره مدل‌های هوش مصنوعی به مایکروسافت می‌پردازد",
-        "summary": [
-            "متا با وجود توسعه مدل‌های اختصاصی Llama، سالانه صدها میلیون دلار برای پردازش تریلیون‌ها توکن روی زیرساخت ابری مایکروسافت هزینه‌ می‌کند.",
-            "توسعه‌دهندگان متا از مدل‌های OpenAI خریداری‌شده از مایکروسافت به‌عنوان بنچمارک و خط‌کش سنجش عملکرد مدل‌های خود استفاده می‌کنند.",
-            "این گزارش نشان می‌دهد بخش عمده درآمدهای هوش مصنوعی از تبادلات مالی بین خود غول‌های فناوری شکل می‌گیرد نه مشتریان سنتی."
-        ],
-        "full_text": "شرکت متا سالانه صدها میلیون دلار صرف دسترسی به مدلهای هوش مصنوعی از طریق زیرساخت ابری مایکروسافت میکند. گزارشها میگویند این شرکت هفتگی تریلیونها توکن را از طریق پلتفرم Azure پردازش میکند و براساس اطلاعات منتشرشده، این حجم مصرف، متا را به یکی از بزرگترین مشتریان هوش مصنوعی مایکروسافت تبدیل کرده است. با وجود انتشار این جزئیات، هر دو شرکت از ارائه هرگونه اظهارنظر رسمی خودداری کردهاند. اهمیت این رقم به جایگاه خود متا مربوط میشود؛ شرکتی که مدلهای پیشرفته اختصاصی خود را توسعه میدهد و مراکز داده مستقل دارد، اما همزمان در چنین مقیاس بزرگی مشغول خرید دسترسی به مدلهای یک شرکت رقیب است. درحالحاضر، ByteDance بزرگترین مشتری هوش مصنوعی مایکروسافت محسوب میشود و بیشترین هزینه را برای پلتفرم فاندری مایکروسافت پرداخت میکند. اکنون متا نیز در کنار بایتدنس در صدر جدول خریداران این بازار قرار گرفته است؛ موضوعی که نشان میدهد دو خریدار بزرگ مدلهای هوش مصنوعی در پلتفرم مایکروسافت، شرکتهای فعال در حوزه شبکههای اجتماعی هستند که خودشان نیز مدلهای هوش مصنوعی میسازند. خرید مدلهای هوش مصنوعی مایکروسافت توسط متا و ارزیابی خروجیها پلتفرم فاندری مایکروسافت از طریق Azure امکان دسترسی به مدلهای ارائهدهندگان مختلف را فراهم میکند و تا ماه ژوئیه میزبان ۱۰۰ هزار مشتری بوده است. این فروشگاه مدلهای اختصاصی مایکروسافت را عرضه نمیکند، بلکه مدلهای توسعهیافته توسط شرکتهای دیگر، ازجمله OpenAI را بازفروش میکند. متا دسترسی به این مدلها را برای کمک به فرایندهای توسعه نرمافزاری خود خریداری میکند و بسته به در دسترس بودن و قیمت، خریدهای خود را در پلتفرمهای گوناگون انجام میدهد. نکته قابلتوجه اینکه توسعهدهندگان متا از مدلهای OpenAI خریداریشده، برای ارزیابی و سنجش عملکرد خروجی مدلهای اختصاصی خود استفاده کردهاند. به بیان سادهتر، متا به مایکروسافت هزینه پرداخت میکند تا مدلهای OpenAI را برای نمرهدهی به مدلهای ساخت خودش به کار بگیرد. «اندرو بازورث»، مدیر ارشد فناوری متا، در ماه ژوئیه اشاره کرده بود که این شرکت در کنار توسعه فناوریهای بومی، مدلهای پیشرو خارجی را نیز بهعنوان بخشی از فرایند توسعه اجاره میکند. برخلاف تبلیغات مایکروسافت که بر استفاده شرکتهای تولیدی و حملونقل تمرکز دارد، بزرگترین مشتریان پلتفرم فاندری آن شرکتهای فناوری مانند بایتدنس، ادوبی، پرپلکسیتی و Sierra هستند. همچنین OpenAI نزدیک به ۷۰ درصد از کل درآمد هوش مصنوعی مایکروسافت را در سال مالی اخیر تأمین کرده است. منتقدان به این نکته اشاره دارند که برای توجیه هزینههای سرسامآور هوش مصنوعی، این فناوری باید در تمام بخشهای اقتصاد به کار گرفته شود، نه اینکه درآمدها صرفاً حاصل تبادلات مالی درونگروهی میان غولهای فناوری باشد. دادههای مالی نشان میدهد درآمد فاندری تا ماه ژوئیه بیش از دو برابر افزایش یافته و تعداد مشتریانی که سالانه با نرخ یک تریلیون توکن فعالیت میکنند چهار برابر شده است؛ درحالیکه مصرف متا هفتگی به تریلیونها توکن میرسد. درآمد Azure نیز در سال منتهی به ۳۰ ژوئن با رشد ۴۱ درصدی از مرز ۱۰۰ میلیارد دلار عبور کرده است.",
-        "impact": "افشای وابستگی فنی غول‌های فناوری به یکدیگر و سوال برانگیز شدن درآمدهای واقعی بازار هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.1,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/finance-investment/meta-pays-microsoft-hundreds-of-millions-rent-ai-models",
-        "clean_url": "https://digiato.com/finance-investment/meta-pays-microsoft-hundreds-of-millions-rent-ai-models",
-        "image": "http://www.bing.com/th?id=ONUT.KjjiSJl3gULwZm9VASRvdQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.KjjiSJl3gULwZm9VASRvdQ&pid=News",
-            "https://static.digiato.com/digiato/2026/08/meta-1.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/meta-1-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/azure-1024x571.jpg"
-        ],
-        "timestamp": 1787405340.0
-    },
-    {
-        "id": "93ab925077",
-        "title_fa": "نقش جدید انویدیا به‌عنوان تامین‌کننده مالی پروژه‌های کلان هوش مصنوعی",
-        "title_en": "Nvidia As The New Banker For AI Gold Rush",
-        "summary": [
-            "انویدیا با همکاری مؤسسات مالی بزرگ مانند بلک‌راک و گلدمن ساکس قصد دارد بیش از ۵۰۰ میلیارد دلار سرمایه برای زیرساخت‌های AI تجهیز کند.",
-            "این غول فناوری از یک سازنده تراشه به معمار مالی دیتاسنترهای نسل جدید موسوم به «کارخانه‌های هوش مصنوعی» تغییر نقش داده است."
-        ],
-        "full_text": "I remember a speaker who declared at a Silicon Valley conference, “Every company will eventually become a financial company.” It made me wonder how that will happen. But witnessing Nvidia’s artificial intelligence journey, I can see how a major technology company adds financing effectively as part of its product strategy. For the past three years, Nvidia has been the undisputed winner of the AI boom. The company transformed from being a graphics chip maker into the world's most valuable company by supplying the GPUs and software that power nearly every major AI model. Investors have described Nvidia as the company selling the picks and shovels of the AI gold rush. But now, Nvidia is pushing the boundaries further. Rather than simply selling chips and software, the company is positioning itself to become the financial backbone of the AI economy. Its recently announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize more than $500 billion for AI infrastructure signal a strategic shift. Nvidia no longer wants to be just the supplier of AI. It wants to shape the buildout of the infrastructure that powers it and create a new asset class. From Selling Chips To Financing AI Nvidia CEO Jensen Huang defined this as an important milestone and said, “We began by building chips; today, we are helping create a new class of productive, investable infrastructure: AI factories.” While Nvidia has used the term “AI factories” in the past as well to reflect the growth of GPU-based datacenters, this time Nvidia is driving the financing platform needed to build the AI factories. Jensen expanded, “That is why we are bringing the world’s leading long-term capital providers together to independently underwrite AI infrastructure. These financing platforms will help customers access scarce compute at scale and build the DSX AI factories that will power every industry and country in the age of AI.” Traditionally, semiconductor companies design products, sell them to customers and recognize revenue once the transaction closes. Customers are responsible for raising capital, building data centers and generating returns on those investments. But Nvidia is extending its role far beyond that model. Instead of waiting for hyperscalers and enterprises to find financing, Nvidia is helping create the financing ecosystem itself. By partnering with some of the world's largest asset managers and private equity firms, the company is lowering the capital barrier to AI adoption. Nvidia Has The Cash To Do It The obvious question is whether Nvidia can afford such an ambitious strategy. Nvidia has become one of the strongest cash-generating companies in the world. It holds more than $150 billion in current assets at the end of April 2026, while generating roughly $50 billion in free cash flow last quarter. It is deploying a relatively small portion of its excess cash to stimulate demand for the very products that generate that cash in the first place. The $500 billion headline has led many observers to assume Nvidia plans to finance AI infrastructure directly. Instead, Nvidia is using its balance sheet to unlock much larger pools of third-party capital. Asset managers and private equity firms provide the majority of the funding, while Nvidia contributes strategic capital, credit support or financing partnerships where appropriate. The result is powerful financial leverage and is an extraordinarily efficient use of capital. Ecosystem Partners Under these strategic partnerships, Nvidia has teamed up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to fund the AI factories’ buildout. All the partners have expressed full support for Nvidia’s financing strategy. Larry Fink, Chairman and CEO of BlackRock, said, “This partnership deepens our relationship with Nvidia, including through the AI Infrastructure Partnership, and brings together Nvidia’s leadership in accelerated computing with BlackRock’s ability to connect long-term capital to essential infrastructure. Together, we can help deliver the compute capacity that companies need to grow and create more jobs, supporting the continued growth of the U.S. and global economies, while creating attractive, long-term investment opportunities for our clients.” Jon Gray, President and COO of Blackstone. “We continue to be enormous investors globally across the Nvidia ecosystem, and this announcement further underscores our confidence in their platform and the future of AI infrastructure.” Similarly, David Solomon, Chairman and CEO of Goldman Sachs, said, “Our investment and distribution roles reflect our confidence in Nvidia’s leadership, and we’re excited for the new opportunity to create a market for credit backed by Nvidia compute.\" A New Business Model For Tech Companies Modern AI data centers require billions of dollars in GPUs, networking equipment, cooling systems, electricity and real estate. Many companies recognize the need for AI infrastructure but lack the balance sheet to finance projects of that scale. Nvidia's financing partnerships seek to bridge that gap, accelerating deployment while simultaneously expanding demand for its own technology. In effect, Nvidia is becoming more than a technology company. It is becoming a capital allocator for the AI era, expanding its competitive moat.",
-        "impact": "تسهیل تامین مالی ساخت دیتاسنترها توسط انویدیا، تضمینی برای تداوم تقاضا و فروش پردازنده‌های این شرکت خواهد بود.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.9,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/sanjitsinghdang/2026/08/22/nvidia-as-the-new-banker-for-ai-gold-rush/",
-        "clean_url": "https://www.forbes.com/sites/sanjitsinghdang/2026/08/22/nvidia-as-the-new-banker-for-ai-gold-rush",
-        "image": "http://www.bing.com/th?id=ONUT.KsUkWiBGJFMIrn2dFevafA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.KsUkWiBGJFMIrn2dFevafA&pid=News",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8a057c69ea916a187ac396/My-selfie-with-Nvidia-CEO-Jensen-Huang/0x0.jpg?width=960"
-        ],
-        "timestamp": 1787405280.0
-    },
-    {
-        "id": "acf237c89c",
-        "title_fa": "تحقیقات وزارت دادگستری آمریکا از a16z به دلیل کرسی‌های همزمان هیئت‌مدیره",
-        "title_en": "Will the DOJ’s investigation into a16z spook other VCs?",
-        "summary": [
-            "وزارت دادگستری آمریکا در حال بررسی احتمال تضاد منافع شرکت سرمایه‌گذاری a16z به دلیل داشتن کرسی هیئت‌مدیره در استارتاپ‌های رقیب هوش مصنوعی است.",
-            "این اقدام موجی از تعجب را در میان سرمایه‌گذاران خطرپذیر ایجاد کرده، چرا که تغییر مسیر ناگهانی استارتاپ‌ها به سمت AI معمولاً باعث هم‌پوشانی‌های ناخواسته می‌شود."
-        ],
-        "full_text": "Following a Bloomberg report that the Department of Justice is investigating venture firm Andreessen Horowitz for holding board seats with rival AI companies, VCs told TechCrunch that they were baffled. On the latest episode of the Equity podcast, Kirsten Korosec, Sean O’Kane, and I were similarly puzzled by the news. Yes, VC conflicts-of-interest are worth taking seriously, but as Kirsten wondered, “Of all the things that the DOJ would focus on in terms of level of importance, why does this one rise to the top?” The news was also surprising because of a16z’s ties with the Trump administration, and because the firm has been so quiet about the investigation. It’s a real contrast with the firm’s activity during the Biden years, when — as Sean put it — “every little policy change, especially related to crypto, generated a day’s worth of posting.” But Sean also speculated that by targeting a16z, the DOJ might also be setting an “example” that “smaller firms would follow.” Keep reading for a preview of our conversation, edited for length and clarity. Kirsten Korosec: I think that you bring some interesting perspective to this, Anthony, because you actually worked at a VC firm, whereas Sean and I have never been inside the confines of the VC world. We’ve only reported on it. Anthony Ha: Long-time equity listeners will know that I did spend a couple years working at an early stage VC firm — a much smaller firm than Andreessen Horowitz, as different as you can be while still technically being in the same industry. It did color my response when I was reading this article, which is essentially about these board seats that Andreessen Horowitz holds, and the idea that they have board seats in some companies that have become competitors. It was really surprising to me, as apparently it was to a number of other VCs. And again, I’m not a lawyer, I was not on the legal team of this VC firm. There is, obviously, an understanding, and apparently laws, around the idea that you should not be on boards of competing startups. But this is not something that is, generally, enforced very closely. Founders don’t feel great if you are on the board of their biggest competitor. But also, startups evolve. And I think that was true in this case — you invest in a startup doing one thing, and then, say, the AI boom happens, and suddenly they’re doing something completely different. So the idea that you would have a year-long DOJ investigation into this — we don’t really know what the results are, there’s a lot of questions about this, but it just seems very strange. Kirsten: In this case, Ben Horowitz sits on the Databricks board. Partner Martin Casado sits on Fivetran board. And to your point, especially in this AI-driven boom cycle, a lot of companies are changing what they’re doing, and either to jump into the AI space or to take advantage of specific subcategories within it. And a company the size of Andreessen, which makes so many investments and is on a lot of board seats, you can see how this would happen. To me, what was interesting — and Sean, I wonder if you have an opinion on this — is of all the things that the DOJ would focus on in terms of level of importance, why does this one rise to the top? Sean O’Kane: I’m just excited we’ve got another chance for disruption here. I mean, we could create a startup that is just going to put an AI on your board, and there are no conflicts of interest. Let’s do it. No, you’re right. It’s weird for a number of reasons, and when I first saw the headline, it certainly piqued my interest because I wanted to know what it was that they were looking at. We should back up just a real quick second. Bloomberg reported that this [investigation] has been going on for nearly a year, so this started under the Trump administration. The people who run Andreessen Horowitz are very friendly with the Trump administration, involved in the Trump administration in some ways, sitting on some councils and things like that. And so, for as much rhetoric as the [second] Trump administration was putting out there when it was still incoming, about being antitrust forward and fighting against the big forces of consolidation or whatever, that really hasn’t borne out. I mean, they settled with Live Nation. They didn’t break up Ticketmaster. We could spend all day talking about how that was a pretty hollow promise. The Justice Department should not be a tool for the president to just direct at enemies or friends or whoever. But it’s just interesting that this is a bridge they were willing to cross, knowing how close they are with this administration. And I’ve reported on some things that Andreessen Horowitz have done that made me wonder if that was going to be part of this. Two years ago, we published a story about how Ben Horowitz was personally making connections between the startups that Andreessen Horowitz backs and [the] local police department in Las Vegas, and things that have maybe more of an anti-competitive flavor to it than this — which, like you’ve said, is maybe a bit more by chance because of the way that these companies evolved and wound up competing against each other. [It] certainly doesn’t seem like it’s something that Andreessen Horowitz feels [is] such an overreach that we have seen them complaining about it on Twitter, like they were during the Biden era — where every little policy change, especially related to crypto, generated a day’s worth of posting. We haven’t really seen that here. So maybe it’s all going to be copacetic in the end. Anthony: To Sean’s point about the DOJ, without getting too deeply into the politics of it, I think anyone who’s been reading the news knows there’s a lot of turmoil there. There’s a lot of questions about sort of how politicized the office has or hasn’t become. Which, again, just makes it very surprising and strange that there has been this long investigation into an ostensible ally of the Trump administration. The last thing I wanted to say for n",
-        "impact": "افزایش نظارت‌های دولتی بر نحوه سرمایه‌گذاری در استارتاپ‌های هوش مصنوعی می‌تواند چارچوب فعالیت سرمایه‌گذاران خطرپذیر را محدودتر کند.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-        "clean_url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs",
-        "image": "http://www.bing.com/th?id=ONUT.dDgd3lt1kOG6Vatv139JlQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.dDgd3lt1kOG6Vatv139JlQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg?w=150"
-        ],
-        "timestamp": 1787405100.0
-    },
-    {
-        "id": "fd5504fe27",
-        "title_fa": "پلتفرم یکپارچه F5 برای مدیریت هزینه و امنیت هوش مصنوعی",
-        "title_en": "How Investors May Respond To F5 (FFIV) Unifying AI Security And Cost Controls In One Gateway Platform",
-        "summary": [
-            "شرکت F5 گیت‌وی جدیدی معرفی کرده که کنترل هزینه‌های پردازش و امنیت داده‌های هوش مصنوعی را در یک درگاه یکپارچه ارائه می‌دهد.",
-            "ترکیب ابزارهای امنیتی با بهینه‌سازی مالی، چالش بزرگ شرکت‌های توسعه‌دهنده AI در مدیریت منابع ابری را برطرف می‌کند."
-        ],
-        "full_text": "How Investors May Respond To F5 (FFIV) Unifying AI Security And Cost Controls In One Gateway Platform  simplywall.st",
-        "impact": "کاهش ریسک‌های امنیتی و کنترل هزینه‌های کمرشکن ابری برای زیرساخت‌های سازمانی هوش مصنوعی.",
-        "tag": "امنیت",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZERaV1doc3p1X1I2UmhnYlh5bnFwd1VGN01yVDdORzVpTXp6UVd4X0dqN21GeHZlWW9tWkp3c0FrdzFEUWVLQzl0amc2T25VTV9feXc2SDNRd05KejBNdmduV01ybk5KTU5GVm0xM3lkZno5alBMWE5TZFRpSTA0aXlRYldHdDlQdFliV2NMRDdXTlJzVFd2eTRhMEptTEVOYzVFQjZuTjdkbVRvd0dxLXF1dWxBaXBY0gG-AUFVX3lxTE56WEMyR2JFaUctNFFWbFJLd0hpSERsU3lyMEFtcXlReXZ5U0lWNXpWRVlBRTRpZ2h6SThVZkJIN3hWYXNZaDJzOXdyLTB3M3o0UDJBc2hjTFZUNUduODFNVGFPSGZqZE9nVUpZcWNBTzlmNXlUNUIxeHRYcjFjYnlGWEt6YkpsUGJTRFY4ZmFUYlZoZWhaRDM3eEZYcjRoUFR6UEdMNnVuT0EwVkF1ZjZWNnhVVGxrQ01rNDFROVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZERaV1doc3p1X1I2UmhnYlh5bnFwd1VGN01yVDdORzVpTXp6UVd4X0dqN21GeHZlWW9tWkp3c0FrdzFEUWVLQzl0amc2T25VTV9feXc2SDNRd05KejBNdmduV01ybk5KTU5GVm0xM3lkZno5alBMWE5TZFRpSTA0aXlRYldHdDlQdFliV2NMRDdXTlJzVFd2eTRhMEptTEVOYzVFQjZuTjdkbVRvd0dxLXF1dWxBaXBY0gG-AUFVX3lxTE56WEMyR2JFaUctNFFWbFJLd0hpSERsU3lyMEFtcXlReXZ5U0lWNXpWRVlBRTRpZ2h6SThVZkJIN3hWYXNZaDJzOXdyLTB3M3o0UDJBc2hjTFZUNUduODFNVGFPSGZqZE9nVUpZcWNBTzlmNXlUNUIxeHRYcjFjYnlGWEt6YkpsUGJTRFY4ZmFUYlZoZWhaRDM3eEZYcjRoUFR6UEdMNnVuT0EwVkF1ZjZWNnhVVGxrQ01rNDFROVE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787402197.0
-    },
-    {
-        "id": "68c4c708dc",
-        "title_fa": "تعویق عرضه مدل GLM 5.3 به دلیل نگرانی‌های سایبری",
-        "title_en": "Z.ai delays GLM 5.3 release over cybersecurity risks",
-        "summary": [
-            "شرکت Z.ai انتشار مدل جدید خود یعنی GLM 5.3 را به علت ریسک‌های امنیت سایبری به عقب انداخت.",
-            "این تصمیم حساسیت روزافزون توسعه‌دهندگان را نسبت به خطرات امنیتی و سوءاستفاده از مدل‌های بزرگ زبان پررنگ می‌کند."
-        ],
-        "full_text": "Z.ai delays GLM 5.3 release over cybersecurity risks  BetaNews",
-        "impact": "کند شدن روند عرضه عمومی مدل‌های جدید به دلیل سخت‌گیری‌های امنیتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "BetaNews",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787401307.0
-    },
-    {
-        "id": "80bacec0bf",
-        "title_fa": "مدل Faraday شرکت Inherent در بازتولید مقالات علمی از OpenAI پیشی گرفت",
-        "title_en": "Inherent, founded by DeepMind alumni, says its AI teammate just outperformed Anthropic and OpenAI at replicating research",
-        "summary": [
-            "استارتاپ بریتانیایی Inherent که توسط محققان سابق دیپ‌مایند تاسیس شده، از ایجنت هوش مصنوعی Faraday رونمایی کرد.",
-            "این عامل هوشمند توانایی فوق‌العاده‌ای در بازسازی و اجرای مجدد پژوهش‌های علمی دارد و عملکردی بهتر از مدل‌های مطرح Anthropic و OpenAI ثبت کرده است."
-        ],
-        "full_text": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "impact": "خودکارسازی فرایند ارزیابی و تکرار مقالات علمی، سرعت کشف‌های پژوهشی و توسعه فناوری را چند برابر می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "TechCrunch on MSN",
-        "url": "https://www.msn.com/en-us/news/technology/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/ar-AA2aIIBk",
-        "clean_url": "https://www.msn.com/en-us/news/technology/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/ar-AA2aIIBk",
-        "image": "http://www.bing.com/th?id=ONUT.5e_vf1LqSJmvAwK06pfv7g&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.5e_vf1LqSJmvAwK06pfv7g&pid=News"
-        ],
-        "timestamp": 1787400000.0
-    },
-    {
-        "id": "f9476fc5e8",
-        "title_fa": "آغاز پیش‌فروش توکن VOIDE توسط پروژه Voidtrace AI",
-        "title_en": "Voidtrace AI Announces September 4 Launch of $VOIDE Presale With Multi-Chain Access and Community Rewards",
-        "summary": [
-            "استارتاپ Voidtrace AI از شروع پیش‌فروش توکن اختصاصی VOIDE با پشتیبانی چند بلاک‌چینی خبر داد.",
-            "این پروژه تلاش می‌کند ابزارهای هوش مصنوعی را با زیرساخت‌های غیرمتمرکز مالی ترکیب کند."
-        ],
-        "full_text": "Voidtrace AI Announces September 4 Launch of $VOIDE Presale With Multi-Chain Access and Community Rewards  The AI Journal",
-        "impact": "جذب سرمایه جدید برای پروژه‌های تلفیقی هوش مصنوعی و بلاک‌چین.",
-        "tag": "کریپتو",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "The AI Journal",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVhyYlNRbzVWeUNUdGd0T2lyb1ZrbGk4MzIwZzRndThJTWNCNm9YUm1oenhHRE5OZFBSbXBRRkttYnV5MXJJVmFjZ3FTbU5DRkl0My1SX2F1OWR1c19KdGoxeUg0d3kyb3Nrenp6QjZ6LW5DYy04cmlsWERYM3Ezc1E4ZXpJUmFreS0tajdKWXZFb0lLaHBOWFVOdF9YVVJYN2JzQ2QxLURMY0xoakZ6M3B2dVktY2p4STh1ck51QXBCOUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVhyYlNRbzVWeUNUdGd0T2lyb1ZrbGk4MzIwZzRndThJTWNCNm9YUm1oenhHRE5OZFBSbXBRRkttYnV5MXJJVmFjZ3FTbU5DRkl0My1SX2F1OWR1c19KdGoxeUg0d3kyb3Nrenp6QjZ6LW5DYy04cmlsWERYM3Ezc1E4ZXpJUmFreS0tajdKWXZFb0lLaHBOWFVOdF9YVVJYN2JzQ2QxLURMY0xoakZ6M3B2dVktY2p4STh1ck51QXBCOUk",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787399994.0
-    },
-    {
-        "id": "c29ff27542",
-        "title_fa": "معرفی MemeToro؛ ترکیب ایجنت‌های هوشمند با شبکه BNB",
-        "title_en": "Best AI Meme Coin Presale 2026: MemeToro Combines AI Agents With BNB Chain Infrastructure",
-        "summary": [
-            "پروژه MemeToro پیش‌فروش توکن خود را با تلفیق ایجنت‌های هوش مصنوعی و زیرساخت شبکه BNB آغاز کرد.",
-            "این طرح به دنبال کاربردی کردن میم‌کوین‌ها از طریق اتوماسیون و ابزارهای هوشمند است."
-        ],
-        "full_text": "Best AI Meme Coin Presale 2026: MemeToro Combines AI Agents With BNB Chain Infrastructure  StreetInsider",
-        "impact": "افزایش تمایل بازار کریپتو به استفاده عملیاتی از ایجنت‌های AI.",
-        "tag": "کریپتو",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0N2ZlRnS2xvT1lZMkdqeXJ2c2wybElEaUdVVlVnbUoxNlBaenlvOU1wQllnTGtjSFRWVno1SGpzUmtCLTNuRUJLSklhbXJpOU9GTTNLNnN5MDdiN0hGTFFLMGxWcUVCYl9LRTJ3R1RGQ3d6U1FBS0xwMXZvSV9oVEZhS3JjQmlnQlNIQVVsc0FiQTdBU0d0SUQ4d3F4VlFzMXZJYVFfZFlHeEdDampWd2ZoVy14MjNET2l0Z3AxSkdHSHlwX0s4eldVR25vX19FSnJSSmtULTVzbEFZSXNLMUVEdWZEZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0N2ZlRnS2xvT1lZMkdqeXJ2c2wybElEaUdVVlVnbUoxNlBaenlvOU1wQllnTGtjSFRWVno1SGpzUmtCLTNuRUJLSklhbXJpOU9GTTNLNnN5MDdiN0hGTFFLMGxWcUVCYl9LRTJ3R1RGQ3d6U1FBS0xwMXZvSV9oVEZhS3JjQmlnQlNIQVVsc0FiQTdBU0d0SUQ4d3F4VlFzMXZJYVFfZFlHeEdDampWd2ZoVy14MjNET2l0Z3AxSkdHSHlwX0s4eldVR25vX19FSnJSSmtULTVzbEFZSXNLMUVEdWZEZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787395612.0
     }
 ]
