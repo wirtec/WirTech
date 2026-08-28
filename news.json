@@ -1,5 +1,93 @@
 [
     {
+        "id": "6a7d6ab601",
+        "title_fa": "معمای شش روزه‌ای که ساختار قیمت‌گذاری هوش مصنوعی را دگرگون کرد",
+        "title_en": "The Six-Day Mystery That Rewrote AI's Price List",
+        "summary": [
+            "رقابت فشرده و ناگهانی میان غول‌های هوش مصنوعی طی یک هفته، تعرفه‌های دسترسی به API مدل‌های بزرگ را به شدت کاهش داد.",
+            "این افت قیمت نشان‌دهنده بهینه‌سازی‌های شدید زیرساختی و جنگ قیمتی برای تسخیر بازار توسعه‌دهندگان است."
+        ],
+        "full_text": "The Six-Day Mystery That Rewrote AI's Price List  HackerNoon",
+        "impact": "کاهش چشمگیر هزینه‌های عملیاتی برای استارتاپ‌ها و ساخت محصولات مبتنی بر مدل‌های زبانی.",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "HackerNoon",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16NXY4RVJUTVVoektBQ2IzZEpCV1hLcEhHdHk3S0M4dGZvRjloWG10Q3FrVTBhU2ktVGpLdms5WTFjMnZJYnNsMmtFMDJrNlY2MEFRTTl1MzhMYXdoSVRsVGlZcXhLTmV0Y3NHNmtZTk5BWmZ3WjU0b3ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16NXY4RVJUTVVoektBQ2IzZEpCV1hLcEhHdHk3S0M4dGZvRjloWG10Q3FrVTBhU2ktVGpLdms5WTFjMnZJYnNsMmtFMDJrNlY2MEFRTTl1MzhMYXdoSVRsVGlZcXhLTmV0Y3NHNmtZTk5BWmZ3WjU0b3ZR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787896136.0
+    },
+    {
+        "id": "3ead087f3a",
+        "title_fa": "ارتقای ابزارهای Send2Press برای بهینه‌سازی محتوا در موتورهای پاسخ هوش مصنوعی",
+        "title_en": "Send2Press Announces Enhanced AI Seeding for PR and Internet Marketing Clients, Prepping Brands for AI Answer Engines and AEO",
+        "summary": [
+            "سرویس Send2Press پلتفرم خود را برای تزریق هوشمند محتوا به موتورهای پاسخ‌دهنده مبتنی بر AI آماده کرده است.",
+            "هدف این به‌روزرسانی، آماده‌سازی برندها برای عصر AEO (بهینه‌سازی برای موتورهای پاسخ) به جای SEO سنتی است."
+        ],
+        "full_text": "Send2Press Announces Enhanced AI Seeding for PR and Internet Marketing Clients, Prepping Brands for AI Answer Engines and AEO  Voice of Alexandria",
+        "impact": "تغییر مسیر استراتژی‌های بازاریابی دیجتیال از گوگل به سمت الگوریتم‌های چت‌بات‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Voice of Alexandria",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYlppNnBGWmJlc1JaM09XMVFGajk1QmhHalRMNjZGUmV1czFOOUpaR2ZBc3NJWF9FUGE1QVdxbE00OG1Lbm1YRTNWRTJRa0pfS3dHdXF1Y1dINTNqTGltTVljdExKVDJXQ2Y5YXhQbTJEU1hzc2NDemVlVUZIcXZnUlNzY3hkS09EcFhReldZcEY0TWh0UVhWbHN2eFlVc0piWkVGU0x3QXRyTWZ6SGdrQ0xtaXhheE5WYXFfSV8yc2lYRHFQVUlMZGMwVmJpTWRpT2NkSlFvTHJmY0dxaFN2aENLUlJrdXM1UGU2OG1iazIxbkJhVFhiQmxCRGZBQmhpZy1XYmx0SzlRT1ZKejdWLWNGeVJZWTRjRVNiREVPeDhtWG5rcGJlZTdWYlFva2xKaHFzLTIxWk8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYlppNnBGWmJlc1JaM09XMVFGajk1QmhHalRMNjZGUmV1czFOOUpaR2ZBc3NJWF9FUGE1QVdxbE00OG1Lbm1YRTNWRTJRa0pfS3dHdXF1Y1dINTNqTGltTVljdExKVDJXQ2Y5YXhQbTJEU1hzc2NDemVlVUZIcXZnUlNzY3hkS09EcFhReldZcEY0TWh0UVhWbHN2eFlVc0piWkVGU0x3QXRyTWZ6SGdrQ0xtaXhheE5WYXFfSV8yc2lYRHFQVUlMZGMwVmJpTWRpT2NkSlFvTHJmY0dxaFN2aENLUlJrdXM1UGU2OG1iazIxbkJhVFhiQmxCRGZBQmhpZy1XYmx0SzlRT1ZKejdWLWNGeVJZWTRjRVNiREVPeDhtWG5rcGJlZTdWYlFva2xKaHFzLTIxWk8",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787895903.0
+    },
+    {
+        "id": "bea59cb16b",
+        "title_fa": "ادغام مدل Seedance 2.5 در Flova.ai برای ساخت ویدیوی خودکار",
+        "title_en": "FLOVA PTE. LTD. Announces Full Integration of Seedance 2.5 into Flova.ai, Further Advancing Agent Native Video Production",
+        "summary": [
+            "پلتفرم Flova از ادغام کامل مدل Seedance 2.5 برای ارتقای ابزارهای تولید ویدیوی مبتنی بر ایجنت خبر داد.",
+            "این ترکیب به عامل‌های هوشمند اجازه می‌دهد ویدیوهای پیچیده را با دخالت کمتر انسان تولید کنند."
+        ],
+        "full_text": "FLOVA PTE. LTD. Announces Full Integration of Seedance 2.5 into Flova.ai, Further Advancing Agent Native Video Production  markets.businessinsider.com",
+        "impact": "ساده‌تر شدن فرایند خلق محتوای ویدیویی و افزایش اتوماسیون در تولیدات رسانه‌ای.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC1SQVp6UWNHaXNrYkVaSmdydjdaa3A4Tm8zNFdVZjcwQVp4RXNzNVp6cUEybVozVVVINVNPQlFyX3NmRG8tXzQ0VG9HZlZBNGhZRHYzTWdDQXVJUHpTTmI3Z2pfd2kwV2ExSlk0bFlIZ0xsOTRGbEJrZlRpNlREeUtTQXFHdktadnJaSDNLcGhZRkM4VVl0MFE4ZEF1VUx0dk5SaWk3MTFpZEo1cTN3ajNWOU5kY2E3dVNyLU02N2tQQm1WenBRR0NoM1JsaUNDZlpicDFqQS1wN3NULURGMGRlTEZ0bjNzOEJxYVNnbE11U2JyemdYbmFhdkZ6ak9MT1V4RERKa3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC1SQVp6UWNHaXNrYkVaSmdydjdaa3A4Tm8zNFdVZjcwQVp4RXNzNVp6cUEybVozVVVINVNPQlFyX3NmRG8tXzQ0VG9HZlZBNGhZRHYzTWdDQXVJUHpTTmI3Z2pfd2kwV2ExSlk0bFlIZ0xsOTRGbEJrZlRpNlREeUtTQXFHdktadnJaSDNLcGhZRkM4VVl0MFE4ZEF1VUx0dk5SaWk3MTFpZEo1cTN3ajNWOU5kY2E3dVNyLU02N2tQQm1WenBRR0NoM1JsaUNDZlpicDFqQS1wN3NULURGMGRlTEZ0bjNzOEJxYVNnbE11U2JyemdYbmFhdkZ6ak9MT1V4RERKa3Q",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787895774.0
+    },
+    {
+        "id": "e298b3c5fa",
+        "title_fa": "کسب جوایز متعدد نوآوری هوش مصنوعی توسط IQVIA در حوزه سلامت",
+        "title_en": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare",
+        "summary": [
+            "شرکت IQVIA برای توسعه راهکارهای پیشرفته هوش مصنوعی در علوم زیستی و بهداشت، چند جایزه معتبر صنعتی دریافت کرد.",
+            "این فناوری‌ها به تحلیل داده‌های پزشکی و تسریع پژوهش‌های دارویی کمک می‌کنند."
+        ],
+        "full_text": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare  BioSpace",
+        "impact": "تایید نقش کلیدی ابزارهای داده‌محور هوش مصنوعی در بهبود فرایندهای درمانی و پژوهشی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "BioSpace",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDBkTEZlTXZ4R1RlYkVpNEVSdUMteE0zTmtQekZxdEVFc1h5OFpadU9GMkRxMlI3QWFkUmtMYlJqeFhHVWFSYVdHeTB0M3ppV3p4cFhPeWltUE8zQ1BkTnQtSXEzeC1LV3pQM2tpaUN2djBUaE9aek5mTlFyLWZ0MVE0bHJ4VUk4eUN6ZFpLb3RXZTlZSGRHRzcyUzBidnBseWpuLWc2N1ZPRnRvUFlZNjhySTNGX3NxM01yeXpzSXFsNEJvcjlteDIwUVNTNUp5azRHQ3BxcGxCc3Q5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDBkTEZlTXZ4R1RlYkVpNEVSdUMteE0zTmtQekZxdEVFc1h5OFpadU9GMkRxMlI3QWFkUmtMYlJqeFhHVWFSYVdHeTB0M3ppV3p4cFhPeWltUE8zQ1BkTnQtSXEzeC1LV3pQM2tpaUN2djBUaE9aek5mTlFyLWZ0MVE0bHJ4VUk4eUN6ZFpLb3RXZTlZSGRHRzcyUzBidnBseWpuLWc2N1ZPRnRvUFlZNjhySTNGX3NxM01yeXpzSXFsNEJvcjlteDIwUVNTNUp5azRHQ3BxcGxCc3Q5",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787886527.0
+    },
+    {
         "id": "f166a3bca2",
         "title_fa": "عرضه اوراق بهادار اهرمی ۳ برابری با تمرکز بر هوش مصنوعی",
         "title_en": "BMO, REX Shares Launch 3x Leveraged AI-Focused ETN",
@@ -108,6 +196,57 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787861242.0
+    },
+    {
+        "id": "3a080f6682",
+        "title_fa": "پیروزی حقوقی آنتروپیک برابر پنتاگون؛ تحریم این استارتاپ غیرقانونی اعلام شد",
+        "title_en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "summary": [
+            "قاضی دادگاه فدرال کالیفرنیا اقدام وزارت دفاع آمریکا در تحریم و بلک‌لیست کردن آنتروپیک را نقض متمم اول قانون اساسی و تلافی غیرقانونی خواند.",
+            "ریشه این درگیری به پافشاری آنتروپیک بر خطوط قرمز اخلاقی بازمی‌گردد؛ این شرکت اجازه استفاده از مدل‌هایش برای نظارت انبوه بر شهروندان یا سلاح‌های خودکار کشنده را به پنتاگون نداده بود.",
+            "دادگاه تاکید کرد ادعای پوچ امنیت ملی مجوز بی‌چک‌وشپرت برای سرکوب و مجازات منتقدان دولتی نیست."
+        ],
+        "full_text": "On Thursday, a judge ruled that the Pentagon’s blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. Anthropic was illegally blacklisted by the Trump administration, court rules The move was “unlawful retaliation in violation of the First Amendment.” The move was “unlawful retaliation in violation of the First Amendment.” The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting “red lines,” or unacceptable military use cases of its AI technology. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita F. Lin, a district judge in the northern district of California, wrote in the ruling. She also wrote that the actions were “unlawful retaliation in violation of the First Amendment,” adding that Defense Secretary Pete Hegseth’s decision to designate Anthropic a supply chain risk “was arbitrary and capricious. Though the Department of War is undisputedly free to select the AI vendor of its choice, the evidence demonstrates that the broad measures imposed on Anthropic were illegal and baseless.” It all started this past winter, when Hegseth decided to renegotiate all AI labs’ current contracts with the military to allow the Pentagon to use AI for “any lawful use,” which would expand the Pentagon’s authority significantly. Most AI labs ended up signing onto the new terms, but Anthropic stood firm on setting two restrictions: not allowing for its AI to be used for mass surveillance of Americans or for lethal autonomous weapons (i.e., AI systems with the power to kill targets without human oversight). Anthropic’s refusal to cooperate kicked off a high-stakes back-and-forth of intensifying pressure on both sides, followed by a bevy of insults from Department of Defense officials and a final ultimatum from the Trump administration. Less than 24 hours before that ultimatum, Anthropic CEO Dario Amodei issued a statement that the company wouldn’t change its stance, writing that the company has “never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner” but that in a “narrow set of cases, we believe AI can undermine, rather than defend, democratic values.” After that, Anthropic was named a “supply chain risk,” a classification that is usually reserved for national security threats, and the Pentagon moved to replace its influence in the Department of Defense by signing deals with seven other AI labs, including Google, Microsoft, OpenAI, and SpaceX. Anthropic fought back with the lawsuit, and in March, Judge Lin sided with the company, temporarily blocking the Pentagon’s blacklist. “The Department of War’s records show that it designated Anthropic as a supply chain risk because of its ‘hostile manner through the press,’” she wrote in the order at the time. “Punishing Anthropic for bringing public scrutiny to the government’s contracting position is classic illegal First Amendment retaliation.” In a statement on Thursday, Anthropic spokesperson Danielle Ghiglieri said, “We welcome the court’s ruling that this supply chain risk designation was unlawful. We remain focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology.”",
+        "impact": "تثبیت حق شرکت‌های فناوری در تعیین خطوط قرمز اخلاقی برای ابزارهای هوش مصنوعی بدون ترس از انتقام‌جویی دولتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "image": "http://www.bing.com/th?id=ONUT.BC-iFoNxvLPPnr7g8EPgLg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.BC-iFoNxvLPPnr7g8EPgLg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HAYDEN_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787850000.0
+    },
+    {
+        "id": "a44df72896",
+        "title_fa": "ارزش‌گذاری ۵.۲ میلیارد دلاری Socure و تصاحب استارتاپ Fravity",
+        "title_en": "Socure secures investment at $5.2 billion valuation, buys Fravity",
+        "summary": [
+            "پلتفرم احراز هویت مبتنی بر هوش مصنوعی Socure در دور جدید تامین مالی به ارزش‌گذاری ۵.۲ میلیارد دلاری دست یافت.",
+            "این شرکت هم‌زمان با جذب سرمایه، استارتاپ Fravity را برای تقویت ابزارهای شناسایی کلاهبرداری خریده است."
+        ],
+        "full_text": "Reporting by Pragyan Kalita in Bengaluru; Editing by Shreya Biswas Our Standards:The Thomson Reuters Trust Principles., opens new tab",
+        "impact": "تزریق سرمایه سنگین به حوزه امنیت هویت دیجیتال و شتاب‌گیری ادغام‌ها در صنعت فین‌تک.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/socure-secures-investment-52-billion-valuation-buys-fravity-2026-08-27/",
+        "clean_url": "https://www.reuters.com/legal/transactional/socure-secures-investment-52-billion-valuation-buys-fravity-2026-08-27",
+        "image": "https://s.yimg.com/bo/368042f3-be9c-5845-8493-6ee9dedf3b6e_1787790435828.jpg",
+        "images": [
+            "https://s.yimg.com/bo/368042f3-be9c-5845-8493-6ee9dedf3b6e_1787790435828.jpg",
+            "https://www.reuters.com/resizer/v2/3TMB5EIUSVIYDKUZG5GRJVWKHM.jpg?auth=81c2e300f28d3d0c9255d4e95df3aafcd723755bad2ad75d6d6f8ba4af0388a0&height=1005&width=1920&quality=80&smart=true",
+            "https://www.reuters.com/resizer/v2/3TMB5EIUSVIYDKUZG5GRJVWKHM.jpg?auth=81c2e300f28d3d0c9255d4e95df3aafcd723755bad2ad75d6d6f8ba4af0388a0&width=1920&quality=80",
+            "https://www.reuters.com/resizer/v2/JO6A6BRKB5P57AK3IPZJLA7KKU.jpg?auth=1b1d5ba1bbda1c379e4b63fcec16c9cf631c15c93dd6fe94ec06ba9b2aaa743f&width=1200&quality=80"
+        ],
+        "timestamp": 1787840227.0
     },
     {
         "id": "68d1affea7",
@@ -6841,147 +6980,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787415869.0
-    },
-    {
-        "id": "7703ea4e09",
-        "title_fa": "تحلیل درآمد گوگل؛ آیا هوش مصنوعی موتور جستجو را تهدید می‌کند؟",
-        "title_en": "Is Alphabet's Search Risk Really Priced In? Stress-Testing Rosenblatt's $410 Thesis",
-        "summary": [
-            "درآمد بخش جستجوی گوگل با رشد ۱۷ درصدی به ۶۳.۳ میلیارد دلار رسید، اما کند شدن روند رشد آن نسبت به فصل قبل، نگرانی‌هایی را ایجاد کرده است.",
-            "جهش ۸۲ درصدی درآمد بخش ابری و گذشتن کاربران ماهانه جمینای از مرز ۱ میلیارد نفر، راهبرد اصلی گوگل برای مهار تهدید چت‌بات‌ها محسوب می‌شود."
-        ],
-        "full_text": "Has Wall Street stopped panicking about AI chatbots destroying Alphabet Inc.’s (NASDAQ:GOOGL)’s traditional search business? On August 19, Analyst Scott Devitt initiated coverage on the stock with a Buy rating, noting how concerns around Search have largely played out. However, declaring a multi-year risk narrative to be effectively over is a bold assertion worth stress testing. What the Data Shows The data shows Google controls 90% of the search market. However, the risk still looms as people often turn to chatbots to search for information. Against this backdrop, the company has redesigned the search box for the first time in 25 years, placing the “AI Mode” button directly in the box. To discuss things deeper, Alphabet’s (NASDAQ: GOOGL) second-quarter report earlier buried the search figure under two louder storylines. These include a $99 billion paper gain on its equity stakes, and an increase in capital spending plans. However, the numbers are there to decipher. In the second quarter, Google Search & other revenue grew 17% year over year to $63.3 billion, down from 19% growth in the prior quarter and slightly behind expectations. Search was on a growth streak previously, accelerating from 10% in the first quarter of 2025 to 12% in the second quarter, 15% in the third, 17% in the fourth, and 19% in the first quarter of 2026. However, second quarter of 2026 snapped it. “Considering Google’s search revenue for the second quarter came in at $63.3 billion, slightly behind Wall Street’s expectations of $63.4 billion, and investors will likely be scrutinizing the business in the third quarter.” 17% is still a great number though, which doesn’t really prove that Search is slowing down. The argument is more about the coming years. Google isn’t letting its customers migrate anyway. Its AI overviews, AI Mode, and Gemini have been expanding the type of queries its ecosystem handles. Google’s Gemini traffic has surged, surpassing 1 billion monthly active users by August 2026 and becoming the fastest growing product in its history. Cloud: The Stronger Part of the Thesis Google’s Cloud revenue surged 82% year-over-year to $24.8 billion, while segment operating income more than tripled from $2.8 billion to $8.8 billion. No wonder Rosenblatt believes Cloud will sustain momentum and that it will support the next leg of multiple expansion. The firm sees capacity expansion and greater TPU monetization beyond 2027 helping to scale operating profit dollars ahead of expectations. In effect, it sees Cloud deceleration as a key risk rather than any new Search risk that may arise. Verdict As per Insider Monkey’s database, 265 hedge fund holders held stake in the stock at the end of the first quarter, down from 288 in the previous quarter. According to more recent Q2 fillings, institutional interest continues in Alphabet, with Berkshire Hathaway holding roughly 78.8 million shares worth about $28.2 billion. Fisher Asset Management and Arrowstreet Capital also reported multi-billion dollar positions. Overall, Alphabet is rightly being considered as a leading hyperscaler in the AI cycle. However, the assumption that search risk has largely played out seems oversimplified. The stronger version of the bull case is that Alphabet has built real optionality in the risk that threatened it. Meanwhile, its infrastructure business is accelerating at a meaningful pace. While we acknowledge the risk and potential of GOOGL as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and doing so within a shorter time frame. If you are looking for an AI stock that is more promising than GOOGL and that has 10,000% upside potential, check out our report about this cheapest AI stock. READ NEXT: NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom and Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In? Disclosure: None. Follow Insider Monkey on Google News.",
-        "impact": "تغییر رفتار کاربران در جستجوی اطلاعات، گوگل را مجبور به تغییر بازطراحی ۲۵ ساله صفحه اصلی خود و تکیه بیشتر روی سرویس‌های ابری کرده است.",
-        "tag": "تحلیل بازار",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "Insider Monkey",
-        "url": "https://www.insidermonkey.com/blog/is-alphabets-search-risk-really-priced-in-stress-testing-rosenblatts-410-thesis-1821383/",
-        "clean_url": "https://www.insidermonkey.com/blog/is-alphabets-search-risk-really-priced-in-stress-testing-rosenblatts-410-thesis-1821383",
-        "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
-        "images": [
-            "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
-            "https://d2w7kw43nye0pi.cloudfront.net/KZ5we5LgcScIj96BG144awV9mfWRU58QGo4clb4u17U/resize:fit:480:320:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/01/12112623/karollyne-videira-hubert-BaQsbDu8Oso-unsplash.jpg",
-            "https://d2w7kw43nye0pi.cloudfront.net/epJ49EcbyXVJ62qBAiSSTT3OuzcN1MXoSUqRRipmOhg/resize:fill:480:270:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/14050848/VIOG-insidermonkey-1702548525512.jpg",
-            "https://d2w7kw43nye0pi.cloudfront.net/ytLwiUYDYEfLC7jzBBFSqZpvjRDECkiER5uUWqq0GS8/resize:fill:480:270:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/04/26103404/Jensen-Huang-Nvidia-NVDA-Stock-Buy.jpg"
-        ],
-        "timestamp": 1787414160.0
-    },
-    {
-        "id": "340f6f136f",
-        "title_fa": "افزایش حملات هوش مصنوعی به زیرساخت‌های نرم‌افزاری بیت‌کوین",
-        "title_en": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-        "summary": [
-            "استفاده مهاجمان از هوش مصنوعی برای کشف آسیب‌پذیری کدهای بیت‌کوین با سرعت بالا خطرساز شده است.",
-            "گروه‌های امنیتی کریپتو در حال تشکیل خطوط دفاعی جدید برای مقابله با کدهای مخرب هوشمند هستند."
-        ],
-        "full_text": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back  Decrypt",
-        "impact": "افزایش ریسک‌های امنیتی شبکه بیت‌کوین و نیاز فوری به ارتقای دفاع سایبری مبتنی بر AI.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Decrypt",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9hcG1aNFp4UWJONzZtczRobmVDakljQzhxNnV3S2dsa0VILUNQbzc5RWc4dzB4TGJQSWc1WnlxNFFzdDNBY0ZFa3VyQWtXWUZnczh5aFFpV0xpRTRXQjZJTDdpUUdNSkpScU56VFFtNmVISVlsLUgtdGtQM0YyNXQ5YWfSAYQBQVVfeXFMTURfYXBtWjRaeFFiTjc2bXM0aG5lQ2pJY0M4cTZ1d0tnbGtFSC1DUG83OUVnOHcweExiUElnNVp5cTRRc3QzQWNGRWt1ckFrV1lGZ3M4eWhRaVdMaUU0V0I2SUw3aVFHTUpKUnFOelRRbTZlSElZbC1ILXRrUDNGMjV0OWFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9hcG1aNFp4UWJONzZtczRobmVDakljQzhxNnV3S2dsa0VILUNQbzc5RWc4dzB4TGJQSWc1WnlxNFFzdDNBY0ZFa3VyQWtXWUZnczh5aFFpV0xpRTRXQjZJTDdpUUdNSkpScU56VFFtNmVISVlsLUgtdGtQM0YyNXQ5YWfSAYQBQVVfeXFMTURfYXBtWjRaeFFiTjc2bXM0aG5lQ2pJY0M4cTZ1d0tnbGtFSC1DUG83OUVnOHcweExiUElnNVp5cTRRc3QzQWNGRWt1ckFrV1lGZ3M4eWhRaVdMaUU0V0I2SUw3aVFHTUpKUnFOelRRbTZlSElZbC1ILXRrUDNGMjV0OWFn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787412664.0
-    },
-    {
-        "id": "d3d87dd60d",
-        "title_fa": "هوش مصنوعی قادر است دیدگاه‌های سیاسی افراد را نامحسوس تغییر دهد",
-        "title_en": "هوش مصنوعی نظر شما را عوض می‌کند بی‌ آنکه حتی متوجه شوید!",
-        "summary": [
-            "پژوهش‌های تازه نشان می‌دهد چت‌بات‌های هوش مصنوعی توانایی فوق‌العاده‌ای در متقاعدسازی افراد در مباحث اجتماعی دارند.",
-            "در این آزمایش‌ها مشخص شد کاربران بدون آنکه متوجه شوند، تحت تاثیر استدلال‌های چت‌بات‌ها دیدگاه‌های قبلی خود را تغییر می‌دهند."
-        ],
-        "full_text": "پژوهش‌های جدید نشان می‌دهند چت‌بات‌های هوش مصنوعی می‌توانند در گفت‌وگوهای سیاسی و اجتماعی، افراد را به تغییر دیدگاه ترغیب کنند و حتی در برخی آزمایش‌ها از انسان‌ها و مناظره‌کنندگان حرفه‌ای متقاعدکننده‌ ...",
-        "impact": "افزایش نگرانی‌ها درباره ابزارهای الگوریتمی متقاعدسازی و امکان سوءاستفاده از AI در هدایت افکار عمومی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "خبرگزاری ایسنا",
-        "url": "https://www.isna.ir/news/1405053118551/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%86%D8%B8%D8%B1-%D8%B4%D9%85%D8%A7-%D8%B1%D8%A7-%D8%B9%D9%88%D8%B6-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%A8%DB%8C-%D8%A2%D9%86%DA%A9%D9%87-%D8%AD%D8%AA%DB%8C-%D9%85%D8%AA%D9%88%D8%AC%D9%87-%D8%B4%D9%88%DB%8C%D8%AF",
-        "clean_url": "https://www.isna.ir/news/1405053118551/%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D9%86%D8%B8%D8%B1-%D8%B4%D9%85%D8%A7-%D8%B1%D8%A7-%D8%B9%D9%88%D8%B6-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF-%D8%A8%DB%8C-%D8%A2%D9%86%DA%A9%D9%87-%D8%AD%D8%AA%DB%8C-%D9%85%D8%AA%D9%88%D8%AC%D9%87-%D8%B4%D9%88%DB%8C%D8%AF",
-        "image": "http://www.bing.com/th?id=ONUT.nvJEWcrGVdVUzICxio5VXA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.nvJEWcrGVdVUzICxio5VXA&pid=News"
-        ],
-        "timestamp": 1787412600.0
-    },
-    {
-        "id": "f411250b40",
-        "title_fa": "چرخش تسلا به سمت هوش مصنوعی فیزیکی با سایبرکب و اپتیموس",
-        "title_en": "Tesla's Physical AI Pivot: From We, Robot to Cybercab and Optimus - BASENOR",
-        "summary": [
-            "تسلا تمرکز اصلی خود را از تولید خودروهای معمولی به توسعه هوش مصنوعی فیزیکی در قالب ربات‌تاکسی و ربات انسان‌نما معطوف کرده است.",
-            "این تغییر استراتژی، هویت جدید تسلا را بیشتر به‌عنوان یک شرکت پیشرو رباتیک تعریف می‌کند تا یک خودروساز سنتی."
-        ],
-        "full_text": "Tesla's Physical AI Pivot: From We, Robot to Cybercab and Optimus  BASENOR - Tesla Accessories",
-        "impact": "موفقیت این پروژه می‌تواند کل الگوی سرمایه‌گذاری در صنعت حمل‌ونقل و رباتیک کارخانه‌ای را دگرگون کند.",
-        "tag": "رباتیک",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "BASENOR - Tesla Accessories",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG5aa0ZIMURYT0JxN2w4MDlybUdGUGtLWHdFdW54Smo4d0lndGFjUUZBNjVDNUdNNEZMTWVfM2l6WW8xN2tMeWFEc3o4OE1nM09Mem5GMTVnZDdISXdQblQxd2cta3RNY2Y3Q3FfbC1MZ3BYYmFteHhjNGRFVklMVThHY2lKQWJ0d0VuXzVhSUI1bWtGbHZMVXRjTkhLdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaG5aa0ZIMURYT0JxN2w4MDlybUdGUGtLWHdFdW54Smo4d0lndGFjUUZBNjVDNUdNNEZMTWVfM2l6WW8xN2tMeWFEc3o4OE1nM09Mem5GMTVnZDdISXdQblQxd2cta3RNY2Y3Q3FfbC1MZ3BYYmFteHhjNGRFVklMVThHY2lKQWJ0d0VuXzVhSUI1bWtGbHZMVXRjTkhLdw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787411318.0
-    },
-    {
-        "id": "c72333b745",
-        "title_fa": "پیشرفت هوش مصنوعی در حل پیچیده‌ترین معماهای ریاضی تاریخ",
-        "title_en": "Think You're Good at Math? See How Far You Get With These 10 Unsolved Problems",
-        "summary": [
-            "مدل‌های جدید OpenAI و انتروپیک توانسته‌اند قدم‌های مهمی در مسیر حل مسائل دیرینه ریاضی مثل حدس ریمان بردارند.",
-            "ریاضی‌دانان در عین شگفت‌زدگی از قدرت الگوریتم‌ها، درباره لزوم تدوین چارچوب‌های اخلاقی برای حفظ اعتبار تحقیقات علمی هشدار می‌دهند."
-        ],
-        "full_text": "For all of the recent strides we’ve made in the math world, we’re forever crunching calculations in pursuit of deeper numerical knowledge. Some math problems have been challenging us for centuries—but a new frontier could change that: artificial intelligence. On August 1, AI research company OpenAI announced that its next model, Astra, resolved or made progress on 10 long-standing mathematical problems. Some of the problems Astra tackled include Connes’s rigidity conjecture, quantum parallel repetition, and Ehrhart’s volume conjecture. Likewise, Anthropic—another AI company—also recently announced that an unreleased version of its model Claude made strides on the Riemann hypothesis through something called the Riemann zeta function. However, Anthropic notes that it doesn’t “expect that the techniques Claude used will lead to proving the Riemann hypothesis. But its work serves as the latest example of the speed of progress in AI models’ mathematical capabilities.” Mathematicians seem both excited about the possibility of accelerated advancement and skeptical, according to recent interview published by The Verge. In fact, this apprehension extends so far that mathematicians are calling for ethical guardrails to be established to uphold the integrity of research in the field. In June, a team of researchers proposed the Leiden Declaration on Artificial Intelligence and Mathematics, a list of suggested guidelines and a call to action for other researches. While brain-busters—like the ones these AI models recently challenged—may seem impossible, someone is bound to solve ’em eventually. Well, maybe. For now, you can take a crack at the hardest math problems known to human and machine. Perhaps you’ll be the one to finally figure it out. The Riemann Hypothesis Despite Claude’s recent efforts, the Riemann hypothesis remains unsolved. Still, today’s mathematicians would probably agree that it’s the most significant open problem in all of math. It’s one of the seven Millennium Prize Problems, with a $1 million reward for its solution. It has implications deep into various branches of math, but it’s also simple enough that we can explain the basic idea right here. There is a function, called the Riemann zeta function, written in the image above. For each s, this function gives an infinite sum, which takes some basic calculus to approach for even the simplest values of s. For example, if s=2, then 𝜁(s) is the well-known series 1 + 1/4 + 1/9 + 1/16 + …, which strangely adds up to exactly 𝜋²/6. When s is a complex number—one that looks like a+b𝑖, using the imaginary number 𝑖—finding 𝜁(s) gets tricky. So tricky, in fact, that it’s become the ultimate math question. Specifically, the Riemann hypothesis is about when 𝜁(s)=0; the official statement is, “Every nontrivial zero of the Riemann zeta function has real part 1/2.” On the plane of complex numbers, this means the function has a certain behavior along a special vertical line. The hypothesis is that the behavior continues along that line infinitely. The hypothesis and the zeta function come from German mathematician Bernhard Riemann, who described them in 1859. Riemann developed them while studying prime numbers and their distribution. Our understanding of prime numbers has flourished in the 160 years since, and Riemann would never have imagined the power of supercomputers. But lacking a solution to the Riemann hypothesis is a major setback. If the Riemann hypothesis were solved tomorrow, it would unlock an avalanche of further progress. It would be huge news throughout the subjects of number theory and analysis. Until then, the Riemann ypothesis remains one of the largest dams to the river of math research. The Collatz Conjecture In September 2019, news broke regarding progress on this 82-year-old question, thanks to prolific mathematician Terence Tao. And while the story of Tao’s breakthrough is promising, the problem isn’t fully solved yet. A refresher on the Collatz conjecture: It’s all about that function f(n), shown above, which takes even numbers and cuts them in half, while odd numbers get tripled and then added to 1. Take any natural number, apply f, then apply f again and again. You eventually land on 1, for every number we’ve ever checked. The conjecture is that this is true for all natural numbers (positive integers from 1 through infinity). Tao’s work is a near-solution to the Collatz conjecture in some subtle ways. But he most likely can’t adapt his methods to yield a complete solution to the problem, as Tao subsequently explained. So, we might be working on it for decades longer. The conjecture lives in the math discipline known as dynamical systems, or the study of situations that change over time in semi-predictable ways. It looks like a simple, innocuous question, but that’s what makes it special. Why is such a basic question so hard to answer? It serves as a benchmark for our understanding; once we solve it, then we can proceed to much more complicated matters. The study of dynamical systems could become more robust than anyone today could imagine. But we’ll need to solve the Collatz conjecture for the subject to flourish. Goldbach’s Conjecture One of the greatest unsolved mysteries in math is also very easy to write. Goldbach’s conjecture is, “Every even number (greater than two) is the sum of two primes.” You check this in your head for small numbers: 18 is 13+5, and 42 is 23+19. Computers have checked the conjecture for numbers up to some magnitude. But we need proof for all natural numbers. Goldbach’s conjecture precipitated from letters in 1742 between German mathematician Christian Goldbach and legendary Swiss mathematician Leonhard Euler, considered one of the greatest in math history. As Euler put it, “I regard [it] as a completely certain theorem, although I cannot prove it.” Euler may have sensed what makes this problem counterintuitively hard to solve. When you look at larger numbers, they have more ways of being written ",
-        "impact": "هوش مصنوعی در حال تبدیل شدن از یک ابزار چت ساده به همکار و دستیار علمی دانشمندان در کشفیات بنیادین است.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Popular Mechanics",
-        "url": "https://www.popularmechanics.com/science/math/g73439056/impossible-math-problems-solve/",
-        "clean_url": "https://www.popularmechanics.com/science/math/g73439056/impossible-math-problems-solve",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-        "images": [
-            "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-            "https://hips.hearstapps.com/hmg-prod/images/9a755716-5c1c-458f-a9c5-868df8428b08.jpeg?crop=1xw:0.75xh;center,top&resize=640:*",
-            "https://hips.hearstapps.com/hmg-prod/images/f0e8625a-babb-4180-83ba-54fdd91bd277.jpeg?crop=0.666666666667xw:1xh;center,top&resize=640:*",
-            "https://hips.hearstapps.com/hmg-prod/images/riemann-zeta-function-1569526951.png?crop=1xw:1xh;center,top"
-        ],
-        "timestamp": 1787410800.0
-    },
-    {
-        "id": "24eeb30aca",
-        "title_fa": "جهش هوش مصنوعی در حل پیچیده‌ترین مسائل ریاضی تاریخ",
-        "title_en": "10 Hard Math Problems That Even the Smartest People in the World Can’t Crack",
-        "summary": [
-            "مدل‌های جدید OpenAI و Anthropic گام‌های مهمی در حل مسائل ریاضی چندساله مانند حدس ریمان برداشته‌اند.",
-            "با وجود پیشرفت چشمگیر، ریاضیدانان همچنان نسبت به نتایج محتاط هستند و بر لزوم تدوین چارچوب‌های اخلاقی تأکید می‌کنند.",
-            "این اتفاق نشان می‌دهد هوش مصنوعی از یک ابزار چت ساده به یک دستیار واقعی برای پژوهش‌های محض علمی تبدیل شده است."
-        ],
-        "full_text": "For all of the recent strides we've made in the math world, we're forever crunching calculations in pursuit of deeper numerical knowledge. Some math problems have been challenging us for centuries—but a new frontier could change that: artificial intelligence. On August 1, AI research company OpenAI announced that its next model, Astra, resolved or made progress on 10 long-standing mathematical problems. Some of the problems Astra tackled include Connes's rigidity conjecture, quantum parallel repetition, and Ehrhart's volume conjecture. Likewise, Anthropic—another AI company—also recently announced that an unreleased version of its model Claude made strides on the Riemann hypothesis through something called the Riemann zeta function. However, Anthropic notes that it doesn't \"expect that the techniques Claude used will lead to proving the Riemann hypothesis. But its work serves as the latest example of the speed of progress in AI models' mathematical capabilities.\" Mathematicians seem both excited about the possibility of accelerated advancement and skeptical, according to recent interview published by The Verge. In fact, this apprehension extends so far that mathematicians are calling for ethical guardrails to be established to uphold the integrity of research in the field. In June, a team of researchers proposed the Leiden Declaration on Artificial Intelligence and Mathematics, a list of suggested guidelines and a call to action for other researches. While brain-busters—like the ones these AI models recently challenged—may seem impossible, someone is bound to solve 'em eventually. Well, maybe. For now, you can take a crack at the hardest math problems known to human and machine. Perhaps you'll be the one to finally figure it out. 1) The Riemann Hypothesis Despite Claude's recent efforts, the Riemann hypothesis remains unsolved. Still, today's mathematicians would probably agree that it's the most significant open problem in all of math. It's one of the seven Millennium Prize Problems, with a $1 million reward for its solution. It has implications deep into various branches of math, but it's also simple enough that we can explain the basic idea right here. There is a function, called the Riemann zeta function, written in the image above. For each s, this function gives an infinite sum, which takes some basic calculus to approach for even the simplest values of s. For example, if s=2, then 𝜁(s) is the well-known series 1 + 1/4 + 1/9 + 1/16 + …, which strangely adds up to exactly 𝜋²/6. When s is a complex number—one that looks like a+b𝑖, using the imaginary number 𝑖—finding 𝜁(s) gets tricky. So tricky, in fact, that it's become the ultimate math question. Specifically, the Riemann hypothesis is about when 𝜁(s)=0; the official statement is, \"Every nontrivial zero of the Riemann zeta function has real part 1/2.\" On the plane of complex numbers, this means the function has a certain behavior along a special vertical line. The hypothesis is that the behavior continues along that line infinitely. The hypothesis and the zeta function come from German mathematician Bernhard Riemann, who described them in 1859. Riemann developed them while studying prime numbers and their distribution. Our understanding of prime numbers has flourished in the 160 years since, and Riemann would never have imagined the power of supercomputers. But lacking a solution to the Riemann hypothesis is a major setback. If the Riemann hypothesis were solved tomorrow, it would unlock an avalanche of further progress. It would be huge news throughout the subjects of number theory and analysis. Until then, the Riemann ypothesis remains one of the largest dams to the river of math research. 2) The Collatz Conjecture In September 2019, news broke regarding progress on this 82-year-old question, thanks to prolific mathematician Terence Tao. And while the story of Tao's breakthrough is promising, the problem isn't fully solved yet. A refresher on the Collatz conjecture: It's all about that function f(n), shown above, which takes even numbers and cuts them in half, while odd numbers get tripled and then added to 1. Take any natural number, apply f, then apply f again and again. You eventually land on 1, for every number we've ever checked. The conjecture is that this is true for all natural numbers (positive integers from 1 through infinity). Tao's work is a near-solution to the Collatz conjecture in some subtle ways. But he most likely can't adapt his methods to yield a complete solution to the problem, as Tao subsequently explained. So, we might be working on it for decades longer. The conjecture lives in the math discipline known as dynamical systems, or the study of situations that change over time in semi-predictable ways. It looks like a simple, innocuous question, but that's what makes it special. Why is such a basic question so hard to answer? It serves as a benchmark for our understanding; once we solve it, then we can proceed to much more complicated matters. The study of dynamical systems could become more robust than anyone today could imagine. But we'll need to solve the Collatz conjecture for the subject to flourish. 3) Goldbach's Conjecture One of the greatest unsolved mysteries in math is also very easy to write. Goldbach's conjecture is, \"Every even number (greater than two) is the sum of two primes.\" You check this in your head for small numbers: 18 is 13+5, and 42 is 23+19. Computers have checked the conjecture for numbers up to some magnitude. But we need proof for all natural numbers. Goldbach's conjecture precipitated from letters in 1742 between German mathematician Christian Goldbach and legendary Swiss mathematician Leonhard Euler, considered one of the greatest in math history. As Euler put it, \"I regard [it] as a completely certain theorem, although I cannot prove it.\" Euler may have sensed what makes this problem counterintuitively hard to solve. When you look at larger numbers, they have more ways of being",
-        "impact": "تسریع بی‌سابقه در اکتشافات علمی و تحول در بن‌بست‌های ریاضیات محض.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Popular Mechanics",
-        "url": "https://www.yahoo.com/news/science/articles/10-hard-math-problems-even-150000549.html",
-        "clean_url": "https://www.yahoo.com/news/science/articles/10-hard-math-problems-even-150000549.html",
-        "image": "https://media.zenfs.com/en/popular_mechanics_642/994088f5f69b2f88dad5079cdeafd789.jpg",
-        "images": [
-            "https://media.zenfs.com/en/popular_mechanics_642/994088f5f69b2f88dad5079cdeafd789.jpg",
-            "https://s.yimg.com/lo/mysterio/api/89e2bb325c1b3c358cbb955fa39e53160f86b00b66c297016780f1d5489e29c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F994088f5f69b2f88dad5079cdeafd789.jpg",
-            "https://s.yimg.com/lo/mysterio/api/4f1190ec26349addce253f973e567414efa0745392d6f62f715e7bb6f225d603/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F2edbf1a0-244d-11eb-beba-ffa5d3038302",
-            "https://s.yimg.com/lo/mysterio/api/e727c25afa0180b3fcd8dca4bbe31dfcbf1ca5b789c099c043c8513620c3e7cc/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F41859f90-244d-11eb-9d3d-90a30cd0ad63"
-        ],
-        "timestamp": 1787410316.0
     }
 ]
