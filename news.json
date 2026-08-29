@@ -1,5 +1,115 @@
 [
     {
+        "id": "ef131107fe",
+        "title_fa": "نسخه جدید هوم‌پاد اپل مجهز به هوش مصنوعی در راه است",
+        "title_en": "New Apple HomePods with AI are coming. Everything we know.",
+        "summary": [
+            "اپل در حال ساخت نسل جدید اسپیکرهای هوشمند هوم‌پاد با پردازش هوش مصنوعی و نسخه ارتقایافته سیری است.",
+            "این محصول قرار است به عنوان مرکز مدیریت خانه هوشمند با قابلیت تعامل صوتی عمیق‌تر و هوشمندتر عرضه شود."
+        ],
+        "full_text": "New Apple HomePods with AI are coming. Everything we know.  Mashable",
+        "impact": "تثبیت حضور اپل در بازار سخت‌افزارهای خانه هوشمند مبتنی بر هوش مصنوعی.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTlRnMWhjM19zTmp2R3pvY0xrMmVySXRyblY5RUI1V1ZwbG9HSzF3bWhZV2RVcE9DSzlncUdZQjVudF8teG00UDMzOXVTMXowQnhrbVI0TmZoN1piZEo0WVVfM1ViTEYza2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTlRnMWhjM19zTmp2R3pvY0xrMmVySXRyblY5RUI1V1ZwbG9HSzF3bWhZV2RVcE9DSzlncUdZQjVudF8teG00UDMzOXVTMXowQnhrbVI0TmZoN1piZEo0WVVfM1ViTEYza2c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788035406.0
+    },
+    {
+        "id": "d2922cace0",
+        "title_fa": "عرضه دستیار هوش مصنوعی برای تحلیل داده‌های گوگل سرچ کنسول",
+        "title_en": "Viral SEO Launches AI Assistant for Google Search Console Insights",
+        "summary": [
+            "ابزار جدید Viral SEO با استفاده از هوش مصنوعی، داده‌های پیچیده سرچ کنسول را تحلیل و گزارش‌های کاربردی ارائه می‌کند.",
+            "این ابزار به متخصصان سئو کمک می‌کند افت‌وکاهش ترافیک و ورودی‌های سایت را سریع‌تر عارضه‌یابی کنند."
+        ],
+        "full_text": "Viral SEO Launches AI Assistant for Google Search Console Insights  TMX Newsfile",
+        "impact": "کاهش زمان تحلیل داده‌های سئو و خودکارسازی استخراج گزارش‌های وب.",
+        "tag": "نرم‌افزار",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "TMX Newsfile",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0tTeEpFTmw3UXFoMnNVN3VPT3dUc3dRb2JPY3ZUTkppbXJvajRWckJKT2RfZDY2NGE5c0FScThfVmI3X2NfZVlhYWhPdERfeVY4bnR3WkZWbHdZekZzUDVIX1NfRVA2b2FPV1lCQnhvMWZTamZTUzdKc00wVjY5ZjJVeUloalRMOS04eURvOHlpSTdUaXVXU3lDRTJIQ3ZEOFZ1MS1BVXVkTDRtOWVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0tTeEpFTmw3UXFoMnNVN3VPT3dUc3dRb2JPY3ZUTkppbXJvajRWckJKT2RfZDY2NGE5c0FScThfVmI3X2NfZVlhYWhPdERfeVY4bnR3WkZWbHdZekZzUDVIX1NfRVA2b2FPV1lCQnhvMWZTamZTUzdKc00wVjY5ZjJVeUloalRMOS04eURvOHlpSTdUaXVXU3lDRTJIQ3ZEOFZ1MS1BVXVkTDRtOWVn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788034020.0
+    },
+    {
+        "id": "ee948c5a1b",
+        "title_fa": "هشدار بیل گیتس درباره تصمیمات حیاتی در عصر پرپیچ‌خم AI",
+        "title_en": "The turbulent AI era is here. The choices we make now are critical.",
+        "summary": [
+            "بیل گیتس در یادداشت تازه خود، وضعیت فعلی توسعه هوش مصنوعی را دورانی پرچالش خواند که تصمیمات امروز جامعه جهانی آینده آن را می‌سازد.",
+            "او بر لزوم اتخاذ تصمیم‌های درست و به‌موقع برای هدایت هوش مصنوعی به سمت حل چالش‌های بزرگ بشریت تأکید کرده است."
+        ],
+        "full_text": "The turbulent AI era is here. The choices we make now are critical.  gatesnotes.com",
+        "impact": "افزایش توجه رهبران جهان به کادربندی اخلاقی و مدیریتی در توسعه مدل‌های آینده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "gatesnotes.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788033566.0
+    },
+    {
+        "id": "309e5149d4",
+        "title_fa": "همکاری مستقیم انسان و ایجنت‌های هوشمند در پلتفرم اسلک",
+        "title_en": "Where Your Team and Agents Build Together",
+        "summary": [
+            "اسلک فضایی را فراهم کرده که در آن ایجنت‌های هوش مصنوعی در کنار اعضای تیم‌ها به انجام وظایف می‌پردازند.",
+            "این قابلیت امکان واگذاری کارهای تکراری به هوش مصنوعی در محیط چت تیمی را آسان‌تر می‌کند."
+        ],
+        "full_text": "Where Your Team and Agents Build Together  Slack",
+        "impact": "تسریع اتوماسیون فرایندهای کاری درون‌سازمانی و تغییر نحوه تعامل اعضای تیم.",
+        "tag": "نرم‌افزار",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Slack",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TkxkR2RsN3J1LUh1UmpLZHJSUjdKRnl1ZTAtWXBrTGlYaDdndkd4clZDTW5NU1E0ODBKRHF4aWpMSkswMFZVOG1STnVodFI3al9uYVlkWDkwRmY4OUZzNHZvZ3pGZXE2TVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TkxkR2RsN3J1LUh1UmpLZHJSUjdKRnl1ZTAtWXBrTGlYaDdndkd4clZDTW5NU1E0ODBKRHF4aWpMSkswMFZVOG1STnVodFI3al9uYVlkWDkwRmY4OUZzNHZvZ3pGZXE2TVE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788032779.0
+    },
+    {
+        "id": "c0c9996a19",
+        "title_fa": "ابزار پایش میزان دیده شدن کسب‌وکارها در پاسخ‌های AI",
+        "title_en": "AI Answer Visibility Tracker For Small Business Owners: Platform Announced",
+        "summary": [
+            "پلتفرم جدیدی برای کسب‌وکارهای کوچک راه‌اندازی شده که وضعیت حضور برندها را در پاسخ‌های چت‌بات‌های هوش مصنوعی بررسی می‌کند.",
+            "این ابزار نشان می‌دهد یک برند چقدر در نتایج پیشنهادی هوش مصنوعی به کاربران معرفی می‌شود."
+        ],
+        "full_text": "AI Answer Visibility Tracker For Small Business Owners: Platform Announced  The Commercial Appeal",
+        "impact": "ظهور نسل جدیدی از سئو (GEO) برای بهینه‌سازی حضور در پاسخ‌های موتورهای هوش مصنوعی.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "The Commercial Appeal",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWERWTXFVelBqT3JMdXlqeFhYTElWZjJlRHlTeDdNLS1TYS05UWJYSUZLLXZpNFFSb1hnY0JxZlBnUW5fcTBnUXhyMUdYemRIQ0dsZzBvMzdjSjBqcXh6azVGblg3WE1TZGRFUnpSSU9MSFY5d1ppXzUzYW1Bamw3QzQwVlZ2TnNzTmNjenV6MVg1dDBjWDRudE1ueV9UZTZhVWhNQTVycEFHVE91Rnh3ZElQODNITHY1blJyby04S1lnaFlsWW0zczJrRnhBNUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWERWTXFVelBqT3JMdXlqeFhYTElWZjJlRHlTeDdNLS1TYS05UWJYSUZLLXZpNFFSb1hnY0JxZlBnUW5fcTBnUXhyMUdYemRIQ0dsZzBvMzdjSjBqcXh6azVGblg3WE1TZGRFUnpSSU9MSFY5d1ppXzUzYW1Bamw3QzQwVlZ2TnNzTmNjenV6MVg1dDBjWDRudE1ueV9UZTZhVWhNQTVycEFHVE91Rnh3ZElQODNITHY1blJyby04S1lnaFlsWW0zczJrRnhBNUk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788032604.0
+    },
+    {
         "id": "6b3542d3f8",
         "title_fa": "اولین بازخوردها از عملکرد خیره‌کننده فناوری DLSS 5 انویدیا",
         "title_en": "I tried NVIDIA's DLSS 5 before its release—it's incredible",
@@ -244,6 +354,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788000857.0
+    },
+    {
+        "id": "4b0c255e7c",
+        "title_fa": "دغدغه استقلال فناوری در اروپا؛ کی کنترل AI را در دست دارد؟",
+        "title_en": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "summary": [
+            "در رویداد TechBBQ کوپنهاگ، بحث اصلی رهبران فناوری اروپا روی خروج از وابستگی شدید به زیرساخت‌های هوش مصنوعی آمریکا و چین متمرکز بود.",
+            "محدودیت‌های اخیر در دسترسی به برخی مدل‌های پیشرفته AI در اروپا، خطرات تکیه بر زیرساخت‌های خارجی را پررنگ‌تر کرده است.",
+            "مدیر پیام‌رسان سیگنال در این رویداد هشدار داد که ادغام ایجنت‌های هوش مصنوعی در سیستم‌عامل‌ها، بستری جدید برای جمع‌آوری انبوه داده‌های کاربران است."
+        ],
+        "full_text": "At TechBBQ in Copenhagen, the conversation among investors, founders, and operators from across Europe wasn’t just about what to build with AI, but who should control it. No matter where you were during the annual Nordic conference, from onstage to cocktail hours and after-parties, the chatter kept coming back to how Europe can gain more control over the technology powering AI. That question of sovereignty — which fittingly matched this year’s theme of “Emerging from Agency” — was especially timely after Anthropic’s AI models Mythos and Fable became unavailable to users outside Europe earlier this year. The incident led many in the European ecosystem to think seriously about what it means to own the models and the infrastructure underpinning this AI wave, instead of renting that power from the U.S. and China. One startup exec told me the Mythos and Fable incident seriously disrupted his software team, while another shrugged it off. Sure, the startup exec said, relying on two other geopolitical powers for AI might one day cause Europe severe headaches, but for now, everything is still pretty much OK. “TechBBQ’s theme of agency felt particularly timely this year as the conversation shifted from what AI can do to what we’re actually willing to let it do,” Ellen de Brever, an angel investor and head of partnerships at the Novo Nordisk Foundation Cellerator, told me during the conference that wrapped up August 27. There were panels about the future of women’s health, a summit on how the Nordic and African ecosystems can collaborate on innovation and investment, and talks about how to get more growth capital into Europe. AI was an underlying theme in many of the conversations, but as de Brever pointed out, “the debates weren’t about smarter machines, but about human judgment and who gets to stay in the driver’s seat.” “The age of AI agents isn’t really a story about machines gaining agency,” she continued. “It’s a story about humans deciding what to give up.” An attendee told me that one of the most refreshing sessions at the event was the panel with Signal President Meredith Whittaker, which I moderated and focused on whether privacy and AI can coexist. Whittaker didn’t mince words, and spoke out against AI assistants and agents being integrated into operating systems, like what ChatGPT is doing with iMessage. She said this AI era is creating a “data collection apparatus” and that AI labs are using clever marketing to make people forget “about the collateral consequences” of acquiring so much data. “There is still a huge market need for privacy,” she said. “And particularly with the sovereignty concerns, we will have customers here.” Elsewhere, Emad Mostaque, co-founder of Stability AI and Intelligent Internet, sat on a panel with me about how an agentic workforce will impact the economy and what that means for personal sovereignty. “Sovereignty is the ability to resist power being exerted over you,” Mostaque said. He spoke about the concentration of power in the hands of a few AI labs and said, “Inevitably, every country will be run by AI and that “the person that controls the AI controls the country.” Mia Negru, the advocacy and engagement director for the nonprofit Life With Artificials, sent me a message after the panel about what crossed her mind as she listened. “If intelligent agents perform cognitive work and robots increasingly perform physical work, we may be approaching something much bigger than another technological revolution,” she said in the message. “We may have to rethink ownership, work, democracy, economic participation and eventually even who gets to participate in society.” But when the panels weren’t in session, people let loose at happy hours and rooftop soirées, where more lighter conversations eventually took over. Lovable, Nvidia, OpenAI, AWS Startups, and HSBC came together to host a rooftop barbecue where I spoke to founders about Denmark’s growing tech hubs. London’s Ada Ventures hosted a gathering at the cocktail bar Bird where I chatted with one health tech founder about increased innovation in the women’s brain health space. Then, there was the speakers’ dinner on an island in the middle of Copenhagen where the international press sat together and watched fire dancers. The after-party continued upstairs, where everyone was tempted to stay for one more drink until the bar tab closed. “In a room full of conversations about machines, the most memorable moments still come from the simplest thing,” de Brever said. “Human connection, face-to-face, building relationships, sharing ideas, and reminding each other of what technology can never quite replace.”",
+        "impact": "شکل‌گیری حرکت جدی‌تر در اروپا برای سرمایه‌گذاری روی زیرساخت‌ها و مدل‌های بومی هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+        "clean_url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control",
+        "image": "http://www.bing.com/th?id=ONUT.msg8GGlRPu3nbEXp9AYZUQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.msg8GGlRPu3nbEXp9AYZUQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
+        ],
+        "timestamp": 1788000660.0
     },
     {
         "id": "7d3d83aac5",
@@ -6852,141 +6988,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787469544.0
-    },
-    {
-        "id": "d43c181a3c",
-        "title_fa": "راه‌اندازی میم‌کوین جدید MemeToro با کمک ایجنت‌های هوش مصنوعی",
-        "title_en": "Memecoin Launches Today: How MemeToro Uses AI Agents to Build Fair Launch Ecosystems",
-        "summary": [
-            "پروژه MemeToro با ادعای ایجاد سیستم عرضه عادلانه توکن فعالیت خود را آغاز کرد.",
-            "این پروژه مدعی است از ایجنت‌های هوش مصنوعی برای جلوگیری از دستکاری قیمت و ایجاد برابری شانس میان خریداران بهره می‌برد."
-        ],
-        "full_text": "Memecoin Launches Today: How MemeToro Uses AI Agents to Build Fair Launch Ecosystems  StreetInsider",
-        "impact": "این خبر نشان‌دهنده موج جدید استفاده از نام هوش مصنوعی برای جلب توجه در بازار کریپتو است.",
-        "tag": "کریپتو",
-        "urgency": 3,
-        "sentiment": 0.1,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG03dHJmME80WU15b2NIcFJ5MC1rRm9kTmZXb0xUZTBlQ0w5LWJxX1MzdmdsWnA5REVPNEEtSzV4empaZ2RZb3RpZC1Rb1lWX3VDVUttdkc5U1R2emlybHVnZllaM0xIQmFtcnZkRXJvZkJTUEwzTDNQTElsenk0dE5LRkRtUkJ6N3lLLUIzUjBjbXlEQVpfSF9FNHh5eHF2MXk1bkx6UUxlQmM4TE14NG4tMzNkcWRab3labjV4MkZtTkNIdDJuTGVYVkNTRzdiNFlwTmRkb0JjSGY0QWpv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG03dHJmME80WU15b2NIcFJ5MC1rRm9kTmZXb0xUZTBlQ0w5LWJxX1MzdmdsWnA5REVPNEEtSzV4empaZ2RZb3RpZC1Rb1lWX3VDVUttdkc5U1R2emlybHVnZllaM0xIQmFtcnZkRXJvZkJTUEwzTDNQTElsenk0dE5LRkRtUkJ6N3lLLUIzUjBjbXlEQVpfSF9FNHh5eHF2MXk1bkx6UUxlQmM4TE14NG4tMzNkcWRab3labjV4MkZtTkNIdDJuTGVYVkNTRzdiNFlwTmRkb0JjSGY0QWpv",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787467286.0
-    },
-    {
-        "id": "b6a6e4aca9",
-        "title_fa": "کشف عجیب محققان: مدل‌های هوش مصنوعی به‌طور خودکار هم‌رنگ جماعت می‌شوند",
-        "title_en": "Artificial intelligence agents spontaneously conform to the majority opinion",
-        "summary": [
-            "بر اساس پژوهش جدید مجله Science Advances، عامل‌های هوش مصنوعی در تعاملات گروهی به سرعت و به شکل خودجوش نظر اکثریت را می‌پذیرند.",
-            "این رفتار همگرایی بدون مداخله انسانی رخ می‌دهد و خطر ایجاد اتاق پژواک و سوگیری‌های شدید در سیستم‌های تصمیم‌گیری AI را بالا می‌برد."
-        ],
-        "full_text": "Advanced artificial intelligence programs can spontaneously form a consensus by adopting the popular opinion, according to research published in the journal Science Advances. But two recent follow-up ...",
-        "impact": "این یافته ضرورت بازنگری در نحوه استفاده از AI برای تصمیم‌گیری‌های گروهی و تحلیل داده را خنثی می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "PsyPost on MSN",
-        "url": "https://www.msn.com/en-us/news/technology/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/ar-AA2aL6qv",
-        "clean_url": "https://www.msn.com/en-us/news/technology/artificial-intelligence-agents-spontaneously-conform-to-the-majority-opinion/ar-AA2aL6qv",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787464818.0
-    },
-    {
-        "id": "b6ccfd8ad6",
-        "title_fa": "کلود با عبور از چت‌جی‌پی‌تی و جمینای، محبوب‌ترین هوش مصنوعی شد",
-        "title_en": "نتایج نظرسنجی جدید: Claude بالاتر از ChatGPT و جمینای رضایت کاربران را جلب کرد",
-        "summary": [
-            "نظرسنجی جدید موسسه یوگاو نشان می‌دهد مدل کلود آنتروپیک بالاترین میزان رضایت کاربران را کسب کرده و چت‌جی‌پی‌تی و جمینای را کنار زده است.",
-            "دستیارهای صوتی قدیمی مثل سیری اپل و مدل گراک ایلان ماسک در پایین‌ترین سطح رضایت مخاطبان قرار گرفتند.",
-            "خروجی‌های دقیق‌تر و کاربردی‌تر کلود باعث شده حتی کاربران قدیمی که دیگر از آن استفاده نمی‌کنند، دیدگاه بسیار مثبتی به آن داشته باشند."
-        ],
-        "full_text": "نظرسنجی جدید مؤسسه YouGov دیدگاه کاربران را نسبت به ابزارها و دستیارهای هوش مصنوعی مشخص کرده است. نتایج این ارزیابی نشان میدهد که Claude با کسب بالاترین امتیاز رضایت، در صدر جدول قرار گرفته است. این ابزار که توسط شرکت آنتروپیک توسعه یافته، موفق شده است ChatGPT متعلق به OpenAI و جمینای گوگل را شکست دهد؛ اما در این میان وضعیت ابزارهایی که در انتهای جدول قرار دارند نیز جالبتوجه است. درحالیکه مدلهای کوپایلوت مایکروسافت و الکسا بخشهای میانی جدول را به خود اختصاص دادهاند، جایگاه دستیار صوتی سیری اپل و مدل Grok متعلق به «ایلان ماسک» تعجببرانگیزتر است و پاسخدهندگان اعلام کردهاند که این ابزارها نتوانستهاند رضایت آنها را جلب کنند. نکته قابلتوجه دیگر این است که Claude حتی در میان کاربرانی که دیگر از آن استفاده نمیکنند نیز از جایگاه بسیار مثبتی برخوردار است. دادههای این نظرسنجی در یک بازه زمانی ۵ ماهه و در قالب دو بخش «۱۰ دستیار هوش مصنوعی برتر براساس رضایت کاربران فعلی و سابق» و «میزان رضایت از دستیارهای هوش مصنوعی: مقایسه کاربران فعلی و سابق» جمعآوری شده است. براساس جدول ۱۰ دستیار هوش مصنوعی برتر، Claude با امتیاز ۵۶.۲ به شکل محسوسی از جمینای با امتیاز ۴۶.۵ و ChatGPT با امتیاز ۴۶.۰ پیشی گرفته است. الکسا با امتیاز ۴۲.۶ و کوپایلوت با امتیاز ۳۷.۲ در میانه جدول جای گرفتهاند که این ارقام با ابعاد بزرگ شرکتهای پشت آنها چندان همخوانی ندارد؛ درحالیکه گراک و سیری نیز در رتبههای پایینی قرار دارند. با وجود این نتایج، مشخص نیست که سهولت دسترسی به ابزارهایی مثل سیری یا الکسا در مقایسه با ابزارهایی مانند ChatGPT یا Claude که باید به طور اختصاصی سراغ آنها رفت، چه تأثیری بر این معیار رضایت گذاشته است. مقایسه رضایت کاربران فعلی و سابق از ابزارهای هوش مصنوعی دادههای YouGov همچنین تفاوت سطح رضایت میان کاربران فعلی و سابق را مورد بررسی قرار داده است. این آمار بار دیگر نشان میدهد که Claude خروجیهای کاربردیتری ارائه میدهد؛ چرا که این ابزار بالاترین امتیاز رضایت را در میان کاربران سابق و دومین امتیاز بالا را در میان کاربران فعلی به دست آورده است. طبق گزارش منتشرشده، بیشترین اختلاف میان کاربران فعلی و سابق مربوط به ChatGPT، دیپسیک و گراک است. میزان رضایت از ChatGPT در میان کاربران فعلی ۶۳.۷ امتیاز، دیپ سیک ۶۲.۵ امتیاز و گراک ۶۲.۴ امتیاز بالاتر از کاربران سابق گزارش شده است. در این میان، گراک امتیاز بسیار پایینی معادل منفی ۴.۷ در بین کاربران سابق خود به ثبت رسانده است. این دادهها از طریق سیستم ردیابی BrandIndex و با پرسش از کاربران فعال بریتانیا در بازه زمانی ۱ مارس ۲۰۲۶ تا ۳۱ ژوئیه ۲۰۲۶ به دست آمده است.",
-        "impact": "برتری کیفی آنتروپیک در پاسخ‌دهی کاربردی، چالش جدیدی برای سهم بازار OpenAI و گوگل ایجاد می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/artificial-intelligence/claude-beats-chatgpt-gemini-ai-satisfaction-survey",
-        "clean_url": "https://digiato.com/artificial-intelligence/claude-beats-chatgpt-gemini-ai-satisfaction-survey",
-        "image": "http://www.bing.com/th?id=ONUT.N384BCo1Xp6UPnuQrMyV8w&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.N384BCo1Xp6UPnuQrMyV8w&pid=News",
-            "https://static.digiato.com/digiato/2026/08/Claude-2.jpg",
-            "https://static.digiato.com/digiato/2026/08/Claude-2-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/AI-assistants-Satisfaction.jpg.webp"
-        ],
-        "timestamp": 1787464740.0
-    },
-    {
-        "id": "53645d2be1",
-        "title_fa": "ردپای توسعه‌دهندگان چینی در مدل هوش مصنوعی مرموز Ox Alpha",
-        "title_en": "Anonymous AI Model Ox Alpha Sparks Global Buzz, Traced to Chinese Developer",
-        "summary": [
-            "مدل ناشناس Ox Alpha که طی روزهای اخیر با عملکرد خیره‌کننده‌اش توجه جامعه AI را جلب کرده بود، ردگیری شد.",
-            "نتایج بررسی‌ها نشان می‌دهد این مدل هوشمند توسط توسعه‌دهندگانی در چین طراحی و منتشر شده است."
-        ],
-        "full_text": "Anonymous AI Model Ox Alpha Sparks Global Buzz, Traced to Chinese Developer  조선일보",
-        "impact": "نمایش توانایی‌های پنهان چین در توسعه مدل‌های پیشرو و تشدید رقابت جهانی در حوزه هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlk5WE9uWERzd1FDeVI2RkpDNWhXUkdTdmRDcE0zd0NYZUJQYnFiVDFXWE5xUmkyYTBUaWtZblFUU2wzRVgxRWk2NXpiMi1Edmdkdm9GTnk0NmlicEM1UjhPZFlZbWoyaDJ1VFJxSWV1cWlKVlBuY2t5LVU3NG55U0tvbW90NlNM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlk5WE9uWERzd1FDeVI2RkpDNWhXUkdTdmRDcE0zd0NYZUJQYnFiVDFXWE5xUmkyYTBUaWtZblFUU2wzRVgxRWk2NXpiMi1Edmdkdm9GTnk0NmlicEM1UjhPZFlZbWoyaDJ1VFJxSWV1cWlKVlBuY2t5LVU3NG55U0tvbW90NlNM",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787464154.0
-    },
-    {
-        "id": "bb598768ee",
-        "title_fa": "رونمایی iAsk AI از هاب اختصاصی آموزش برای دانش‌آموزان",
-        "title_en": "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence",
-        "summary": [
-            "سرویس iAsk AI پلتفرم جدیدی را ویژه سرویس‌دهی به دانش‌آموزان و دانشجویان راه‌اندازی کرده است.",
-            "این هاب هوشمند با هدف حل مسائل درسی و ارائه پاسخ‌های گام‌به‌گام طراحی شده تا فرایند یادگیری را سرعت ببخشد."
-        ],
-        "full_text": "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence  markets.businessinsider.com",
-        "impact": "افزایش دسترسی به آموزش شخصی‌سازی‌شده و کاهش وابستگی دانش‌آموزان به معلم خصوصی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "markets.businessinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEVtYVJVRE5qM0RwMTRWSThsNkpXM0NyeFdFOGVlcjhoSFlrVG5MMjRoZTFaU1AxWXhqSTlPdE5RTU11YTRnd0FsM2VrcnJpbVBQS1FHdExGQjZnWDRPWmxTcnl1WGczUjNyR0M5VUNNN1RpdXFXNk55ajc5T1NWcFUzbTZQUk1NZkFmOTJfeXlzSnhFOWZDTGdfa3BvSmtUYmpMSGE5eEFGOHZkOU9xemtydzRPclZ4RlNEOC1FZUVIRVA3WVQ1cnVXZVVoYXBOOXVTRTIwX0NHWkJ5REpzampuTEFxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEVtYVJVRE5qM0RwMTRWSThsNkpXM0NyeFdFOGVlcjhoSFlrVG5MMjRoZTFaU1AxWXhqSTlPdE5RTU11YTRnd0FsM2VrcnJpbVBQS1FHdExGQjZnWDRPWmxTcnl1WGczUjNyR0M5VUNNN1RpdXFXNk55ajc5T1NWcFUzbTZQUk1NZkFmOTJfeXlzSnhFOWZDTGdfa3BvSmtUYmpMSGE5eEFGOHZkOU9xemtydzRPclZ4RlNEOC1FZUVIRVA3WVQ1cnVXZVVoYXBOOXVTRTIwX0NHWkJ5REpzampuTEFxUQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787463189.0
-    },
-    {
-        "id": "af115e7144",
-        "title_fa": "وصله پوشیدنی هوشمند برای تزریق خودکار پادزهر هنگام اوردوز",
-        "title_en": "Wearable smart patch could deliver automatic aid during a fentanyl overdose",
-        "summary": [
-            "محققان پچ هوشمند جدیدی ساخته‌اند که علائم حیاتی فرد را هنگام اوردوز فنتانیل به‌سرعت تشخیص می‌دهد.",
-            "این گجت سلامت به محض شناسایی خطر، دارو و پادزهر لازم را به شکل خودکار به بدن بیمار تزریق می‌کند."
-        ],
-        "full_text": "Wearable smart patch could deliver automatic aid during a fentanyl overdose  Technology Org",
-        "impact": "کاهش چشمگیر آمار مرگ‌ومیر ناشی از اوردوز با مداخله پزشکی فوری و بدون نیاز به حضور اطرافیان.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "Technology Org",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1NPOFYxUFIzT1pqc1YzN3oxUGFzR0RrZVo4enVxUnBHZnFrdDdFSmtFSlYySEtWc1FjWlI4UzRERjNwVWU0OGd6RjFjYVd4MU9hVW9hcXVxcGc1aTFtRjdiVEdBMnc3WEdKXzhRTHpHQ3lNVWNMVmlURUIxTW9IT3JSOGNaSmtibVI5Tm1Od0FLS2Q1ek5KMnRwejFPNFVHTi04enN4aWZqdV9TMzc0cUJ5MEs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1NPOFYxUFIzT1pqc1YzN3oxUGFzR0RrZVo4enVxUnBHZnFrdDdFSmtFSlYySEtWc1FjWlI4UzRERjNwVWU0OGd6RjFjYVd4MU9hVW9hcXVxcGc1aTFtRjdiVEdBMnc3WEdKXzhRTHpHQ3lNVWNMVmlURUIxTW9IT3JSOGNaSmtibVI5Tm1Od0FLS2Q1ek5KMnRwejFPNFVHTi04enN4aWZqdV9TMzc0cUJ5MEs",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787463000.0
     }
 ]
