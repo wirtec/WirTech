@@ -1,5 +1,139 @@
 [
     {
+        "id": "6b3542d3f8",
+        "title_fa": "اولین بازخوردها از عملکرد خیره‌کننده فناوری DLSS 5 انویدیا",
+        "title_en": "I tried NVIDIA's DLSS 5 before its release—it's incredible",
+        "summary": [
+            "تست‌های اولیه نسخه جدید DLSS 5 انویدیا نشان‌دهنده جهش بزرگ در بازسازی تصویر و افزایش نرخ فریم است.",
+            "الگوریتم‌های جدید هوش مصنوعی در این نسخه، فشار پردازشی روی کارت‌های گرافیک را به طرز چشمگیری کاهش می‌دهند."
+        ],
+        "full_text": "I tried NVIDIA's DLSS 5 before its release—it's incredible  How-To Geek",
+        "impact": "تحول جدی در کیفیت و سرعت اجرای بازی‌های نسل بعدی با تکیه بر پردازش هوشمند.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "How-To Geek",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONld4cUtVNFh4bG1CN1pwdk1rX0J6RXVxaTMweUJHU0dkTndrNFZqamdSR0ZZa1lteTRManllNVNzLTg0VXNaNnVtNDFmOHlkVF9PS2FQZndzSW1yS2Jwc2hWTDJFN2lRYWVhWlRYaG11TjJhd0NWNVRTMDNVVFVhSUNYcjRFNlgzWkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONld4cUtVNFh4bG1CN1pwdk1rX0J6RXVxaTMweUJHU0dkTndrNFZqamdSR0ZZa1lteTRManllNVNzLTg0VXNaNnVtNDFmOHlkVF9PS2FQZndzSW1yS2Jwc2hWTDJFN2lRYWVhWlRYaG11TjJhd0NWNVRTMDNVVFVhSUNYcjRFNlgzWkE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788028213.0
+    },
+    {
+        "id": "55368e8a15",
+        "title_fa": "حمایت قانونی جدید از توسعه مشاغل گیمینگ و واقعیت مجازی",
+        "title_en": "Press Release: Pablo José Hernández Rivera backs bill to support gaming and virtual reality jobs",
+        "summary": [
+            "لایحه جدیدی با هدف حمایت مالی و ایجاد فرصت‌های شغلی در صنعت بازی‌سازی و واقعیت مجازی ارائه شد.",
+            "این طرح به دنبال جذب سرمایه‌گذاران و کاهش هزینه‌های توسعه‌دهندگان فناوری‌های نوین است."
+        ],
+        "full_text": "Press Release: Pablo José Hernández Rivera backs bill to support gaming and virtual reality jobs  Quiver Quantitative",
+        "impact": "تسهیل رشد اقتصادی و ایجاد فرصت‌های شغلی جدید در حوزه واقعیت مجازی.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdl92NXNkR0dRWWtKaW1VNE05bTdDVXY4VVFLYkJvMVZkclNsQU1GRTQtNE1hRlI0VjZ5bDlXQWV4Ykc1eHlRQ3prdlpnNjhWelBhRzF2TkVtZm1sY0kzOExrVzFNUl9kUFF4ZHJIVWlrYV9UNlFCU0hZS2p2UWdOOGVWaFFJZTJsVVo1S2tlNVZGUW96V2ZCYzdPcERkUWU4MGQ5dnhRX2d1OG5zcjFhLWJyeXhzd0xYMEJic2FKR1pBbFJXYTJJekVMWHFaUEpZOFRSX01yc20?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdl92NXNkR0dRWWtKaW1VNE05bTdDVXY4VVFLYkJvMVZkclNsQU1GRTQtNE1hRlI0VjZ5bDlXQWV4Ykc1eHlRQ3prdlpnNjhWelBhRzF2TkVtZm1sY0kzOExrVzFNUl9kUFF4ZHJIVWlrYV9UNlFCU0hZS2p2UWdOOGVWaFFJZTJsVVo1S2tlNVZGUW96V2ZCYzdPcERkUWU4MGQ5dnhRX2d1OG5zcjFhLWJyeXhzd0xYMEJic2FKR1pBbFJXYTJJekVMWHFaUEpZOFRSX01yc20",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788027600.0
+    },
+    {
+        "id": "a2c87da7c9",
+        "title_fa": "راه‌یابی شرکت ایده‌نوا به فینال جوایز معتبر استریمینگ مدیا",
+        "title_en": "Press Release: IdeaNova named a finalist in Streaming Media categories",
+        "summary": [
+            "شرکت IdeaNova به عنوان یکی از فینالیست‌های جوایز سالانه حوزه رسانه و استریمینگ انتخاب شد.",
+            "این موفقیت به دلیل توسعه راهکارهای نوآورانه در پخش ویدیو و سرگرمی‌های دیجیتال به دست آمده است."
+        ],
+        "full_text": "Press Release: IdeaNova named a finalist in Streaming Media categories  Runway Girl",
+        "impact": "تقویت اعتبار تجاری ایده‌نوا در بازار پخش آنلاین ویدیو.",
+        "tag": "فناوری",
+        "urgency": 2,
+        "sentiment": 0.4,
+        "source": "Runway Girl",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3k5NjZHVjNva2FFM2xrQmNwQUttTC1TV09aeVpBT0JPbV9xMVg1WWJSZDlvUDZuLUtweFdmajdjcHZzQ2JRak9tV3RTQWF5eGkzUlhISXV5cFRHdDlaR1NuM1V6YXZYSm55ei1DMTIxZUdXNzdWSWZvczV5OWl1ZjNIdDQzOV9PWkhMekJVX0dHX29UMnl0R3Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3k5NjZHVjNva2FFM2xrQmNwQUttTC1TV09aeVpBT0JPbV9xMVg1WWJSZDlvUDZuLUtweFdmajdjcHZzQ2JRak9tV3RTQWF5eGkzUlhISXV5cFRHdDlaR1NuM1V6YXZYSm55ei1DMTIxZUdXNzdWSWZvczV5OWl1ZjNIdDQzOV9PWkhMekJVX0dHX29UMnl0R3Jn",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788024156.0
+    },
+    {
+        "id": "94ff4c75cd",
+        "title_fa": "ورود چت‌بات‌های هوش مصنوعی به اپل کارپلی پیش از بازطراحی سیری",
+        "title_en": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+        "summary": [
+            "اپل کارپلی قبل از عرضه نسخه ارتقایافته سیری مجهز به هوش مصنوعی، میزبان برنامه‌های چت‌بات مستقل می‌شود.",
+            "این ویژگی به رانندگان امکان می‌دهد بدون نیاز به انتظار برای آپدیت بزرگ اپل، از دستیارهای هوشمند در خودرو استفاده کنند."
+        ],
+        "full_text": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives  9to5Mac",
+        "impact": "دسترسی سریع‌تر رانندگان به قابلیت‌های مولد هوش مصنوعی در حین رانندگی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788023580.0
+    },
+    {
+        "id": "220311d3a7",
+        "title_fa": "اتوماسیون معاملات کریپتو با ابزار هوشمند CreddX AI",
+        "title_en": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem",
+        "summary": [
+            "پلتفرم CreddX AI سیستم جدیدی برای خودکارسازی معاملات در بازار دارایی‌های دیجیتال معرفی کرد.",
+            "این الگوریتم‌ها با تحلیل لحظه‌ای بازار، استراتژی‌های معاملاتی را بدون دخالت مستقیم انسان اجرا می‌کنند."
+        ],
+        "full_text": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem  markets.businessinsider.com",
+        "impact": "افزایش سرعت و دقت تصمیم‌گیری در معاملات بازار کریپتو با کمک هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUJEanJZT2NjYnA0VUxaamthdURtTXBnaE5xNUZrRE41eEMtSmVDbFFJWVF2MUxKZDJyTkFEdnVrall1d1hpSHJfX2hWMWpHakNnaGltU2YwQjR2MDMtUVBHMTk1Ry1RYXpySUIxNzZMTVQ4bVRULTU4d0pPTUZBSXJhcUNnckxaSE1zY1UtbDRac3dDN0JIS195U3pGb3FwVldSMk1wbS1INDdnbzdlS1JXZ2RIalZZV1Q0VWVPbTBFMjVVRkdEVjhwTDRXME1fOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUJEanJZT2NjYnA0VUxaamthdURtTXBnaE5xNUZrRE41eEMtSmVDbFFJWVF2MUxKZDJyTkFEdnVrall1d1hpSHJfX2hWMWpHakNnaGltU2YwQjR2MDMtUVBHMTk1Ry1RYXpySUIxNzZMTVQ4bVRULTU4d0pPTUZBSXJhcUNnckxaSE1zY1UtbDRac3dDN0JIS195U3pGb3FwVldSMk1wbS1INDdnbzdlS1JXZ2RIalZZV1Q0VWVPbTBFMjVVRkdEVjhwTDRXME1fOHc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788015855.0
+    },
+    {
+        "id": "180cc2d583",
+        "title_fa": "مرور مهم‌ترین گجت‌های هفته؛ از اس۲۶ FE تا لپ‌تاپ‌های هوش مصنوعی",
+        "title_en": "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here's what's new",
+        "summary": [
+            "سامسونگ با معرفی Galaxy S26 FE امکانات پرچمدار مانند دوربین ۵۰ مگاپیکسلی و شارژ ۴۵ وات را با قیمتی مناسب‌تر عرضه کرده است.",
+            "ریلمی P4s 5G با باتری غول‌پیکر ۸۰۰۰ میلی‌آمپرساعتی و چیپست اختصاصی گیمینگ، استانداردهای شارژدهی را جابه‌جا می‌کند.",
+            "ایسر و ایسوس با معرفی لپ‌تاپ‌های جدید، پردازش هوش مصنوعی و سخت‌افزار گیمینگ را با قیمت مناسب‌تر دسترس‌پذیر کرده‌اند."
+        ],
+        "full_text": "3 Min Read It was a busy week for gadget lovers, with smartphone makers packing bigger batteries, faster displays and more AI features into their latest devices, while laptop brands doubled down on performance and gaming. From Samsung’s latest Fan Edition phone to Acer’s new AI laptop and ASUS’ refreshed gaming machines, the week brought something for almost every kind of buyer. Here are five launches and announcements that stood out. Samsung Galaxy S26 FE brings flagship features for less Samsung added another member to its flagship family with the Galaxy S26 FE, unveiled on August 27. The phone comes with a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, a 4,900mAh battery and 45W wired charging. It also gets a 50MP main camera with OIS, an 8MP telephoto camera with 3x optical zoom and a 12MP ultra-wide camera. Realme P4S 5G packs an 8,000mAh battery Realme went big on endurance with the P4s 5G, launched in India this week. Its headline feature is an enormous 8,000mAh battery, backed by 80W fast charging. The phone also gets a 1.5K AMOLED display with a 144Hz refresh rate, a Dimensity 7400 Ultra chipset and a dedicated HyperVision+ chip aimed at improving gaming performance. For buyers who hate reaching for the charger, this could be one of the more interesting launches of the week. Acer launched the Swift Neo AI in India, targeting users who want a lightweight machine without stepping into the premium laptop price bracket. The laptop is powered by Intel Core Ultra 5 and Ultra 7 H-series processors and can be configured with up to 32GB RAM and 1TB SSD storage. Prices start at ₹67,999. ASUS brings new TUF Gaming laptops to India Gamers also had plenty to look forward to. ASUS announced its new TUF Gaming 16, alongside refreshed TUF A15, A16 and F16 models. The TUF Gaming 16 starts at ₹1,79,990, while ASUS has also introduced a Made-in-India TUF Gaming A15 starting at ₹1,24,990. The lineup focuses on gaming performance, upgradeability, cooling and MIL-STD-810H durability. A new smartphone brand enters the race The budget smartphone market got a new challenger this week as boltt, Fire-Boltt’s smartphone brand, debuted with the Ace 5G and Evo 4G. Both phones feature 6.79-inch 120Hz displays and 6,000mAh batteries, while the Ace 5G gets a 64MP camera and 5G connectivity. The company is targeting the affordable segment, where competition is already intense. The bigger trend? Whether it is phones or laptops, manufacturers are increasingly competing on the same three things: AI, battery life and performance. And for consumers, that means more powerful devices are arriving across increasingly crowded price segments. Here are five launches and announcements that stood out. Samsung Galaxy S26 FE brings flagship features for less Samsung added another member to its flagship family with the Galaxy S26 FE, unveiled on August 27. The phone comes with a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, a 4,900mAh battery and 45W wired charging. It also gets a 50MP main camera with OIS, an 8MP telephoto camera with 3x optical zoom and a 12MP ultra-wide camera. The S26 FE is also the first device in the S26 family to launch with One UI 9, putting Galaxy AI at the centre of the experience. Realme P4S 5G packs an 8,000mAh battery Realme went big on endurance with the P4s 5G, launched in India this week. Its headline feature is an enormous 8,000mAh battery, backed by 80W fast charging. The phone also gets a 1.5K AMOLED display with a 144Hz refresh rate, a Dimensity 7400 Ultra chipset and a dedicated HyperVision+ chip aimed at improving gaming performance. For buyers who hate reaching for the charger, this could be one of the more interesting launches of the week. Acer’s new AI laptop starts at ₹67,999 Acer launched the Swift Neo AI in India, targeting users who want a lightweight machine without stepping into the premium laptop price bracket. The laptop is powered by Intel Core Ultra 5 and Ultra 7 H-series processors and can be configured with up to 32GB RAM and 1TB SSD storage. Prices start at ₹67,999. ASUS brings new TUF Gaming laptops to India Gamers also had plenty to look forward to. ASUS announced its new TUF Gaming 16, alongside refreshed TUF A15, A16 and F16 models. The TUF Gaming 16 starts at ₹1,79,990, while ASUS has also introduced a Made-in-India TUF Gaming A15 starting at ₹1,24,990. The lineup focuses on gaming performance, upgradeability, cooling and MIL-STD-810H durability. A new smartphone brand enters the race The budget smartphone market got a new challenger this week as boltt, Fire-Boltt’s smartphone brand, debuted with the Ace 5G and Evo 4G. Both phones feature 6.79-inch 120Hz displays and 6,000mAh batteries, while the Ace 5G gets a 64MP camera and 5G connectivity. The company is targeting the affordable segment, where competition is already intense. The bigger trend? Whether it is phones or laptops, manufacturers are increasingly competing on the same three things: AI, battery life and performance. And for consumers, that means more powerful devices are arriving across increasingly crowded price segments. (Edited by : Sudarsanan Mani) First Published: Aug 29, 2026 6:55 PM IST",
+        "impact": "افزایش شدید رقابت در بازار میان‌رده‌ها با تمرکز بر باتری‌های بزرگتر و پردازش هوش مصنوعی.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-galaxy-s26-fe-ai-powered-laptops-take-centre-stage-19979627.htm",
+        "clean_url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-galaxy-s26-fe-ai-powered-laptops-take-centre-stage-19979627.htm",
+        "image": "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?im=FitAndFill,width=1200,height=675",
+        "images": [
+            "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?im=FitAndFill,width=1200,height=675",
+            "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?impolicy=website&width=640&height=360"
+        ],
+        "timestamp": 1788009960.0
+    },
+    {
         "id": "c50d21c723",
         "title_fa": "کوچ کامل محصولات اپل به نمایشگرهای OLED تا سال ۲۰۲۹",
         "title_en": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029",
@@ -6854,143 +6988,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787463000.0
-    },
-    {
-        "id": "9012859b64",
-        "title_fa": "رونمایی پگاسیستمز از هوش مصنوعی مسئولانه برای سازمان‌ها",
-        "title_en": "What Does Pegasystems (PEGA) Responsible AI Launch Mean For Enterprise Growth?",
-        "summary": [
-            "پگاسیستمز با انتشار ابزارهای جدید «هوش مصنوعی مسئولانه»، رعایت الزامات قانونی و اخلاقی را در فرآیندهای سازمانی آسان‌تر کرده است.",
-            "این اقدام به شرکت‌های بزرگ اجازه می‌دهد بدون نگرانی از ریسک‌های امنیتی و نشت داده، از AI در مقیاس وسیع استفاده کنند."
-        ],
-        "full_text": "What Does Pegasystems (PEGA) Responsible AI Launch Mean For Enterprise Growth?  simplywall.st",
-        "impact": "تسریع پذیرش هوش مصنوعی در شرکت‌های بزرگ با کاهش ریسک‌های اخلاقی و حقوقی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXhMck1aSmVwdjl1ZWxxSUhqU0xndFNPb1NMQTlFTURGTmZvN3RTZ3BmeEF3cDFNUUtFVVBGLVpGZzc4Q3FXcVgzd3NFRENxN0lwT1pSNDkwc0lNc0tZSTg3MzM5S2V6RE1vNmVDOHhfTW5xQU9qZ3NHdXlTVVFLLTlPV0JtSm5qZEljanZ1OUlBUXU5UjhJYUFLQTkwQ09QbGREYm94cEp2ZDlFc0dGUEY3SXF0N0M5RjIxdUNuUk9fV2JGMjk4UWVR0gHPAUFVX3lxTFBING9WRllWZlNKZHJCMDJ1MGlVZG51dk04cVBQcjhOVVpabVBhM0tJaEhDMTRGa3JhNHo1S2cyeFRVZEpIZ08wM04wUDZjdFEzRDU0Zi1lZ21BemxDdnZxOXRNMlVZTm94eU9nellXeVBFOWFYY0N2TTJkUndndW1wTEVDdWhWeERrSUJuaHRITEZuREN4YkF1b3JkU0l5TzVQQUhFd0JPODgtaWNOcnlnT0pISWNNS21Sb20xOWRPYUFpWXgwQXV2S0dpUElCRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXhMck1aSmVwdjl1ZWxxSUhqU0xndFNPb1NMQTlFTURGTmZvN3RTZ3BmeEF3cDFNUUtFVVBGLVpGZzc4Q3FXcVgzd3NFRENxN0lwT1pSNDkwc0lNc0tZSTg3MzM5S2V6RE1vNmVDOHhfTW5xQU9qZ3NHdXlTVVFLLTlPV0JtSm5qZEljanZ1OUlBUXU5UjhJYUFLQTkwQ09QbGREYm94cEp2ZDlFc0dGUEY3SXF0N0M5RjIxdUNuUk9fV2JGMjk4UWVR0gHPAUFVX3lxTFBING9WRllWZlNKZHJCMDJ1MGlVZG51dk04cVBQcjhOVVpabVBhM0tJaEhDMTRGa3JhNHo1S2cyeFRVZEpIZ08wM04wUDZjdFEzRDU0Zi1lZ21BemxDdnZxOXRNMlVZTm94eU9nellXeVBFOWFYY0N2TTJkUndndW1wTEVDdWhWeERrSUJuaHRITEZuREN4YkF1b3JkU0l5TzVQQUhFd0JPODgtaWNOcnlnT0pISWNNS21Sb20xOWRPYUFpWXgwQXV2S0dpUElCRQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787460939.0
-    },
-    {
-        "id": "23ee00f1b0",
-        "title_fa": "رقابت صرافی‌های غیرمتمرکز هوشمند در بازار میم‌کوین‌ها",
-        "title_en": "Pepeto vs AlphaPepe: Why AlphaPepe’s Live AI DEX Gives It the Edge in the Next Pepe Coin Race",
-        "summary": [
-            "پروژه AlphaPepe با راه‌اندازی صرافی غیرمتمرکز مبتنی بر هوش مصنوعی، به دنبال گرفتن سهم بازار از رقبایی مانند Pepeto است.",
-            "استفاده از الگوریتم‌های هوشمند برای تحلیلهای معاملاتی، به گرایش جدیدی در پروژه‌های کریپتویی تبدیل شده است."
-        ],
-        "full_text": "Pepeto vs AlphaPepe: Why AlphaPepe’s Live AI DEX Gives It the Edge in the Next Pepe Coin Race  StreetInsider",
-        "impact": "افزایش رقابت در صرافی‌های غیرمتمرکز با وارد کردن ابزارهای تحلیلی هوشمند.",
-        "tag": "کریپتو",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlZ3c0s0NGppTkdKRXp3TzQwMHJFcXZOOVFUMmVTak9EOEJ2OTVTQnZOaTQyWFI5MURUUUc1QWE4VG1KS3VmcURWX3ZYM2d3TlFhejU0VG90TEJvbTFTS2VkRi1aRE1OTW8tb1AtV3JRRjZETTQ3cEN0OWRGLWxGaHU2OTBRTU5FLXJXdEE5b2MzOHZFc1JQMmZ6OEpfYlhFMFVDU0xpVllldC1lXzk4S2Etb3NGNEhuRjdiWUs4MnJfVS1HVE5pX3JqU3h4RHRVM2x5TW9SakNaUjF6eHZOc1hXa2tNY01Kcmt6bHFXSHhmOVRsbFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlZ3c0s0NGppTkdKRXp3TzQwMHJFcXZOOVFUMmVTak9EOEJ2OTVTQnZOaTQyWFI5MURUUUc1QWE4VG1KS3VmcURWX3ZYM2d3TlFhejU0VG90TEJvbTFTS2VkRi1aRE1OTW8tb1AtV3JRRjZETTQ3cEN0OWRGLWxGaHU2OTBRTU5FLXJXdEE5b2MzOHZFc1JQMmZ6OEpfYlhFMFVDU0xpVllldC1lXzk4S2Etb3NGNEhuRjdiWUs4MnJfVS1HVE5pX3JqU3h4RHRVM2x5TW9SakNaUjF6eHZOc1hXa2tNY01Kcmt6bHFXSHhmOVRsbFE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787458927.0
-    },
-    {
-        "id": "82c3a97edc",
-        "title_fa": "مدیرعامل یونیتری: تکامل ربات‌های انسان‌نما ۱۰ سال زمان می‌برد",
-        "title_en": "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years",
-        "summary": [
-            "مدیرعامل کمپانی یونیتری اعلام کرد دست‌یابی به ربات‌های انسان‌نمای کاملاً کاربردی ممکن است تا یک دهه طول بکشد.",
-            "برخلاف هیجانات رسانه‌ای، چالش‌های پیچیده سخت‌افزاری و کنترل حرکتی مبتنی بر هوش مصنوعی هنوز تا تجاری‌سازی فاصله دارند."
-        ],
-        "full_text": "Unitree CEO: Humanoid Robot Breakthrough May Take 10 Years  조선일보",
-        "impact": "تعدیل انتظارات بازار و سرمایه‌گذاران از زمان عرضه انبوه ربات‌های هوشمند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelM0a2xTd3BoR0U1Q0xEdVFaR09xUmlSRkRodndDQXdVbkdJekljQjBqdEhsZmdrUVZ2VUFVdzhUMFRfaXkwMU1YU001U1BFZUlGdGNxSENMNU5LUGRtWTRLR0t4R3FTMmFpUkhlaU5WM3ZpMFVyMjFWdHBsX3R1Y1V5OE1zeTM4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelM0a2xTd3BoR0U1Q0xEdVFaR09xUmlSRkRodndDQXdVbkdJekljQjBqdEhsZmdrUVZ2VUFVdzhUMFRfaXkwMU1YU001U1BFZUlGdGNxSENMNU5LUGRtWTRLR0t4R3FTMmFpUkhlaU5WM3ZpMFVyMjFWdHBsX3R1Y1V5OE1zeTM4",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787457806.0
-    },
-    {
-        "id": "44d6711408",
-        "title_fa": "آنتروپیک برای ساخت تراشه اختصاصی هوش مصنوعی مدیر ایرانی سابق گوگل را جذب کرد",
-        "title_en": "آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه میدهد",
-        "summary": [
-            "آنتروپیک امیر سالک، رهبر سابق تیم پردازنده‌های TPU گوگل را برای توسعه سخت‌افزار اختصاصی خود به خدمت گرفت.",
-            "توسعه تراشه اختصاصی به آنتروپیک کمک می‌کند از بحران کمبود سخت‌افزار عبور کرده و پردازنده‌ها را دقیقاً بر اساس نیاز مدل‌های کلاود بهینه‌سازی کند.",
-            "این اقدام پاسخ مستقیمی به پروژه تراشه‌سازی OpenAI (پروژه Jalapeno) و تلاشی برای کاهش وابستگی به انویدیا است.",
-            "هم‌زمان آنتروپیک قراردادهای سنگینی از جمله توافق ۲۵۰ میلیون دلاری با استارتاپ Fractile برای تامین زیرساخت مراکز داده بست."
-        ],
-        "full_text": "آنتروپیک با جذب مهندس ایرانی گوگل تراشه هوش مصنوعی اختصاصی توسعه میدهد او پیشتر هفت نسل تراشههای TPU گوگل را توسعه داده و سابقه همکاری با غولهای فناوری مانند انویدیا را نیز در کارنامه دارد. شرکت آنتروپیک، توسعهدهنده هوش مصنوعی Claude، «امیر سالِک»، از بنیانگذاران بخش طراحی تراشههای سفارشی در شرکت آلفابت (گوگل)، را استخدام کرد. این اقدام در شرایطی رخ میدهد که این آزمایشگاه هوش مصنوعی درحال پایهریزی زیرساختهای لازم جهت ورود به بازار تولید تراشههای اختصاصی است. سالِک قرار است به تیم پردازش آنتروپیک بپیوندد و مستقیماً به «جیمز برادبری»، مدیر ارشد تیم پردازش و زیرساخت گزارش دهد. او تا سال ۲۰۲۲ هدایت کسبوکار واحد پردازش تنسور گوگل (TPU) را برعهده داشت و توانست ۷ نسل نخست از این پردازندهها را با موفقیت عرضه کند. تلاش آنتروپیک برای ساخت تراشه اختصاصی آنتروپیک درحالحاضر پردازندههای موردنیاز خود را از تأمینکنندگان مختلفی مانند انویدیا، گوگل و آمازون تهیه میکند، اما اخیراً تمایل خود را برای راهاندازی کسبوکار تراشهسازی اختصاصی نشان داده است. این شرکت مستقر در سانفرانسیسکو فرایند استخدام نیروی انسانی و درج آگهیهای شغلی برای توسعه این بخش را آغاز کرده است. مانند سایر غولهای حوزه هوش مصنوعی، آنتروپیک نیز بهشدت در تلاش است تا زیرساختهای لازم برای مراکز داده را متناسب با برنامههای خود تأمین کند. استفاده از تراشههای اختصاصی این امکان را به آنتروپیک میدهد تا علاوهبر غلبه بر چالش کمبود منابع سختافزاری، تراشههایی متناسب با نیازهای اختصاصی مدلهای خود طراحی کند. شرکت رقیب، یعنی OpenAI (توسعهدهنده ChatGPT)، نیز رویکرد مشابهی را در پیش گرفته است. این شرکت اخیراً از پردازندهای بهنام Jalapeno پرده برداشت که با همکاری شرکت برادکام توسعه یافته است و قصد دارد اواخر سال جاری میلادی استفاده از آن را آغاز کند. آنتروپیک بهسرعت درحال امضای قراردادهای بزرگ با تأمینکنندگان مختلف برای خرید چیپست و ظرفیت مراکز داده است. این مجموعه قراردادی اولیه به ارزش تقریبی ۲۵۰ میلیون دلار با استارتاپ بریتانیایی Fractile امضا کرده و قصد دارد در آینده همکاری خود را با آن گسترش دهد. علاوهبراین، آنتروپیک توافقنامههایی نیز برای دریافت ظرفیت با شرکتهای Riot Platforms و Volta Infra Holdings به ثبت رسانده است. امیر سالک پس از ترک گوگل، بهعنوان مدیر ارشد در شرکت مدیریت سرمایه Cerberus Capital Management فعالیت داشت؛ مجموعهای که توسط «استیون فاینبرگ»، معاون وزیر دفاع سابق آمریکا، بنیانگذاری شده است. او همچنین پیش از گوگل، سابقه فعالیت در انویدیا را در کارنامه خود دارد.",
-        "impact": "تغییر موازنه قدرت در بازار سخت‌افزار AI و کاهش وابستگی غول‌های هوش مصنوعی به انویدیا.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/business/anthropic-hires-iranian-engineer-google-custom-chips",
-        "clean_url": "https://digiato.com/business/anthropic-hires-iranian-engineer-google-custom-chips",
-        "image": "https://static.digiato.com/digiato/2026/08/Anthropic-Amir-Salek.jpg",
-        "images": [
-            "https://static.digiato.com/digiato/2026/08/Anthropic-Amir-Salek.jpg",
-            "https://static.digiato.com/digiato/2026/08/Anthropic-Amir-Salek-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/anthropic-2_1-1024x682.jpg",
-            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg"
-        ],
-        "timestamp": 1787454960.0
-    },
-    {
-        "id": "51b3c8e1b0",
-        "title_fa": "اجرای طرح مناطق ممنوعه برای مجرمان از پاییز امسال",
-        "title_en": "Restriction zone scheme for offenders to start in October",
-        "summary": [
-            "این طرح نظارتی جدید از ماه اکتبر با هدف کنترل تردد مجرمان سابقه‌دار آغاز می‌شود.",
-            "تمرکز اصلی برنامه بر استفاده از ابزارهای ردیابی برای کاهش وقوع جرایم مجدد است."
-        ],
-        "full_text": "Restriction zone scheme for offenders to start in October  BBC",
-        "impact": "افزایش نظارت‌های شهری و کاهش احتمال تکرار جرم در مناطق حساس.",
-        "tag": "امنیتی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oVWpFSnNPdTl1Sng1YllKclRSdjFmZFhLek5JbWN6Ym9NcWI2VFBVVXNrb0xrMk9LY1FzMXpWUm5pam9FcHFnMDhMLWFJdkdxVWcyMW45Uy1Qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oVWpFSnNPdTl1Sng1YllKclRSdjFmZFhLek5JbWN6Ym9NcWI2VFBVVXNrb0xrMk9LY1FzMXpWUm5pam9FcHFnMDhMLWFJdkdxVWcyMW45Uy1Qdw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787452623.0
-    },
-    {
-        "id": "bf18b20e5c",
-        "title_fa": "دست‌آورد جدید متا با عرضه مدل هوش مصنوعی وزن‌باز",
-        "title_en": "Mark Zuckerberg Reveals Meta AI Breakthrough With Open Weight Model Launch | DWS News | AI14 Santa Monica (nU0XxeqOmo)",
-        "summary": [
-            "مارک زاکربرگ از مدل جدید هوش مصنوعی متا با معماری وزن‌باز (Open Weight) رونمایی کرد که توانمندی‌های پیشرفته‌ای را در اختیار توسعه‌دهندگان می‌گذارد.",
-            "متا با ادامه استراتژی کدباز خود، چالش مستقیمی برای مدل‌های انحصاری مانند OpenAI ایجاد کرده است.",
-            "این انتشار، دسترسی عمومی به ابزارهای قدرتمند را آسان‌تر کرده و هزینه‌های توسعه را پایین می‌آورد."
-        ],
-        "full_text": "Mark Zuckerberg Reveals Meta AI Breakthrough With Open Weight Model Launch | DWS News | AI14 Santa Monica (nU0XxeqOmo)  Mshale",
-        "impact": "فشار بیشتر بر مدل‌های انحصاری و کاهش چشمگیر هزینه‌های توسعه ابزارهای هوشمند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcDRMUm82dnNkNGw0MkRzRmxSQXZDUDlHUGxKbU15cHh4bVBESUE4WmtzQzM4a2ZUY2lha08wUXg1X25UTGVuQnRLd2gxTDItZFI3bl80R2JSREk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcDRMUm82dnNkNGw0MkRzRmxSQXZDUDlHUGxKbU15cHh4bVBESUE4WmtzQzM4a2ZUY2lha08wUXg1X25UTGVuQnRLd2gxTDItZFI3bl80R2JSREk",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787451949.0
     }
 ]
