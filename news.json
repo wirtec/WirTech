@@ -1,5 +1,117 @@
 [
     {
+        "id": "c50d21c723",
+        "title_fa": "کوچ کامل محصولات اپل به نمایشگرهای OLED تا سال ۲۰۲۹",
+        "title_en": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029",
+        "summary": [
+            "نقشه راه جدید اپل نشان می‌دهد تا سال ۲۰۲۹ تمامی آیفون‌ها، آی‌پدها و مک‌بوک‌ها به پنل OLED مجهز می‌شوند.",
+            "این ارتقای تدریجی علاوه بر ارتقای کیفیت تصویر، مصرف انرژی گجت‌های بعدی اپل را به شدت کاهش می‌دهد."
+        ],
+        "full_text": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029  bgr.com",
+        "impact": "تحول بزرگ در زنجیره تامین نمایشگرها و ارتقای استاندارد بصری گجت‌های اپل.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "bgr.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788009420.0
+    },
+    {
+        "id": "ae157668f8",
+        "title_fa": "راه‌اندازی مقطع دانشگاهی اختصاصی توسعه‌دهنده هوش مصنوعی در NTC",
+        "title_en": "NTC Announces New Programs, Including AI Developer Degree",
+        "summary": [
+            "کالج NTC مدرک دانشگاهی جدیدی ویژه تربیت توسعه‌دهندگان هوش مصنوعی معرفی کرد.",
+            "این اقدام پاسخ مستقیمی به نیاز مبرم بازار کار به نیروهای متخصص در پیاده‌سازی مدل‌های هوشمند است."
+        ],
+        "full_text": "NTC Announces New Programs, Including AI Developer Degree  WSAU",
+        "impact": "تسریع در تربیت نیروی متخصص و آکادمیک برای بازار کار هوش مصنوعی.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "WSAU",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkxoc3BUTnFRaVpBcTJWNjl1S1Y5UDhXQktncC16MjA4VjhITHlTaV83ZDdWUk1PYW1lU3FCeTNqcUxhcGFfby1NUGM0WFN1c1lhZEtZQkttM3RTVE0yQVpqNndva1FqeElnZXNDdVlWeDA5MUo3V3Zyelk2Rm44X1NENW94WWI5TWF6QkpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkxoc3BUTnFRaVpBcTJWNjl1S1Y5UDhXQktncC16MjA4VjhITHlTaV83ZDdWUk1PYW1lU3FCeTNqcUxhcGFfby1NUGM0WFN1c1lhZEtZQkttM3RTVE0yQVpqNndva1FqeElnZXNDdVlWeDA5MUo3V3Zyelk2Rm44X1NENW94WWI5TWF6QkpR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788007221.0
+    },
+    {
+        "id": "d34bfc0179",
+        "title_fa": "همکاری انویدیا و اسپیس‌ایکس برای فرستادن هوش مصنوعی به مدار زمین",
+        "title_en": "Nvidia and SpaceX form heavenly relationship with plan to launch Vera into orbit",
+        "summary": [
+            "انویدیا با همکاری اسپیس‌ایکس قصد دارد معماری پردازشی Vera را به فضا پرتاب کند.",
+            "این پروژه گام بزرگی برای شکل‌گیری دیتاسنترهای مداری و پردازش مستقیم داده‌ها در خارج از کره زمین است."
+        ],
+        "full_text": "Nvidia and SpaceX form heavenly relationship with plan to launch Vera into orbit  Seeking Alpha",
+        "impact": "ورود رسمی پردازش سنگین هوش مصنوعی به صنایع فضایی و محاسبات مداری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFZpbktLOUtLUXI5TGh1MV9RM2tJcjZzcmxoa3BSUTdUZk5MOVhKU0ViVmpCTTRPVVZ5aDZMMVVrRnMtajY5UF9MSVpaMWpfOGRrNkJsVEp1UjN0SFBNY21tV0hQQ1RGMDdMc0xhcVVpYl9CS3BZLTZqVV9wbm1HRlNCN2xLVXNpRzEteENLWVhQZGpZVmdHODJjMHN0elJNZWNmRWpmZzNjWTA4alZ6YXIxUnNNNkFpVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFZpbktLOUtLUXI5TGh1MV9RM2tJcjZzcmxoa3BSUTdUZk5MOVhKU0ViVmpCTTRPVVZ5aDZMMVVrRnMtajY5UF9MSVpaMWpfOGRrNkJsVEp1UjN0SFBNY21tV0hQQ1RGMDdMc0xhcVVpYl9CS3BZLTZqVV9wbm1HRlNCN2xLVXNpRzEteENLWVhQZGpZVmdHODJjMHN0elJNZWNmRWpmZzNjWTA4alZ6YXIxUnNNNkFpVEE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788004822.0
+    },
+    {
+        "id": "c361e850d4",
+        "title_fa": "تجهیز سیستم پرونده پزشکی Epic به مرکز فرماندهی هوش مصنوعی",
+        "title_en": "Epic is turning its EHR into an AI command center, and CIO plans just got tighter",
+        "summary": [
+            "شرکت Epic سیستم پرونده الکترونیک سلامت خود را به قابلیت‌های پیشرفته هوش مصنوعی مجهز می‌کند.",
+            "این تحول، مدیران فناوری بیمارستان‌ها را به بازنگری جدی در برنامه‌های زیرساختی کشانده است.",
+            "هدف اصلی این طرح، کاهش حجم کارهای اداری پزشکان و تحلیل هوشمند داده‌های درمان است."
+        ],
+        "full_text": "Epic is turning its EHR into an AI command center, and CIO plans just got tighter  MarketScale",
+        "impact": "ورود عمیق هوش مصنوعی به زیرساخت‌های حیاتی بهداشت و درمان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "MarketScale",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVo3cnFzMzQ0YmtZRVdBUTl5TlJqSE1BQzhqTlJ4bloxdWVRaWxCZ3JOZ0NZZjlQNkdRUl83SFEtNlo5TEdpNkF5SUNpbzBYbnZMVm5QcWtoUW9wTGhSZVJZeEd0R1dFNUhpa2ZCejd1dEJNbkVXaGl3QUlYZVhMRkhPVTd1d3pKd1JoY1VydDRPQVFsMHl3MUcxZ0N0b3RDQ0ZUcGdqV0dqX0lNNk9BWm1HZk1DQ29DcTJCR2ZIRzVNMVZteERYZW13?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVo3cnFzMzQ0YmtZRVdBUTl5TlJqSE1BQzhqTlJ4bloxdWVRaWxCZ3JOZ0NZZjlQNkdRUl83SFEtNlo5TEdpNkF5SUNpbzBYbnZMVm5QcWtoUW9wTGhSZVJZeEd0R1dFNUhpa2ZCejd1dEJNbkVXaGl3QUlYZVhMRkhPVTd1d3pKd1JoY1VydDRPQVFsMHl3MUcxZ0N0b3RDQ0ZUcGdqV0dqX0lNNk9BWm1HZk1DQ29DcTJCR2ZIRzVNMVZteERYZW13",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788001146.0
+    },
+    {
+        "id": "ae108687da",
+        "title_fa": "جهش ۲۲ درصدی سهام سیلزفورس پس از همکاری بزرگ با آنتروپیک",
+        "title_en": "Salesforce (CRM) Is Up 22.4% After Strong Q2 AI Uptake And Claudeforce Launch With Anthropic",
+        "summary": [
+            "رشد چشمگیر تقاضا برای ابزارهای هوشمند و رونمایی از Claudeforce با همکاری آنتروپیک، ارزش سهام سیلزفورس را جهش داد.",
+            "این پلتفرم مدل‌های هوشمند کلود را مستقیماً وارد فرایندهای مدیریت مشتریان سازمانی می‌کند.",
+            "این موفقیت مالی اثبات کرد که سرمایه‌گذاری روی هوش مصنوعی سازمانی به درآمدزایی ملموس رسیده است."
+        ],
+        "full_text": "Salesforce (CRM) Is Up 22.4% After Strong Q2 AI Uptake And Claudeforce Launch With Anthropic  simplywall.st",
+        "impact": "تثبیت مدل‌های آنتروپیک در زیرساخت‌های بزرگ سازمانی و جهش درآمدی سیلزفورس.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.9,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlBWTExzYm5yV3pLS0k0QnRmT0FZZWNtYTU1QWFuejVDX2JDVll5UHRtRFBQLTE3YWx5STZ3MWZ2U0lHa2U4ZmVCZTRhVEdWUXNucC1fNWxjVzZCanMtdGY2WHdOcDBaR3QxZ3ctcHppZ2F1X011Zjh5azBWcVdUZzZVM2pFTlFpdWR5YWhReEhYRTNHbnNacXVsVV96VWtBN2w2aGF2dnRBbU9Ua0pVSVhSeFV3dklHQTgyTUowSjFocXhYSG0ybkZn0gHKAUFVX3lxTE9mUFZMTHNibnJXektLSTRCdGZPQVllY21hNTVBYW56NUNfYkNWWXlQdG1EUFAtMTdhbHlJNncxZnZTSUdrZThmZUJlNGFUR1ZRc25wLV81bGNXNkJqcy10ZjZYd05wMFpHdDFndy1wemlnYXVfTXVmOHlrMFZxV1RnNlUzakVOUWl1ZHlhaFF4SFhFM0duc1pxdWxVX3pVa0E3bDZoYXZ2dEFtT1RrSlVJWFJ4VXd2SUdBODJNSjBKMWhxeFhIbTJuRmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlBWTExzYm5yV3pLS0k0QnRmT0FZZWNtYTU1QWFuejVDX2JDVll5UHRtRFBQLTE3YWx5STZ3MWZ2U0lHa2U4ZmVCZTRhVEdWUXNucC1fNWxjVzZCanMtdGY2WHdOcDBaR3QxZ3ctcHppZ2F1X011Zjh5azBWcVdUZzZVM2pFTlFpdWR5YWhReEhYRTNHbnNacXVsVV96VWtBN2w2aGF2dnRBbU9Ua0pVSVhSeFV3dklHQTgyTUowSjFocXhYSG0ybkZn0gHKAUFVX3lxTE9mUFZMTHNibnJXektLSTRCdGZPQVllY21hNTVBYW56NUNfYkNWWXlQdG1EUFAtMTdhbHlJNncxZnZTSUdrZThmZUJlNGFUR1ZRc25wLV81bGNXNkJqcy10ZjZYd05wMFpHdDFndy1wemlnYXVfTXVmOHlrMFZxV1RnNlUzakVOUWl1ZHlhaFF4SFhFM0duc1pxdWxVX3pVa0E3bDZoYXZ2dEFtT1RrSlVJWFJ4VXd2SUdBODJNSjBKMWhxeFhIbTJuRmc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788000857.0
+    },
+    {
         "id": "7d3d83aac5",
         "title_fa": "گوگل روی مدل تصویرساز جدیدی به نام Instant-Ramen کار می‌کند",
         "title_en": "Google’s Next AI Image Model Is Called Instant-Ramen, and It Looks Promising",
@@ -20,6 +132,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787988792.0
+    },
+    {
+        "id": "ae5a886497",
+        "title_fa": "برتری جدید انویدیا؛ عبور از تراشه و تسخیر زیرساخت دیتاسنترها",
+        "title_en": "Nvidia’s AI advantage is moving beyond the GPU",
+        "summary": [
+            "انویدیا برای حفظ برتری خود، تمرکز را از تولید صرف GPU به طراحی کل زیرساخت دیتاسنتر تغییر داده است.",
+            "پردازنده Vera و معماری جدید این شرکت، چالش مدیریت داده و حافظه را در مقیاس‌های غول‌پیکر گیگاواتی حل می‌کنند.",
+            "این استراتژی هوشمندانه باعث می‌شود حتی با ورود پردازنده‌های رقیب، دیتاسنترها همچنان کاملاً وابسته به اکوسیستم انویدیا بمانند."
+        ],
+        "full_text": "Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. In the last few years, hyperscalers like Amazon and Google have started building their own chips, and Nvidia is no longer the only game in town, leading many investors to wonder how durable its advantage really is. It’s a compelling story, and mostly true. After growing its market cap 10x between the start of 2023 and mid-2025, Nvidia shares have been on a more modest trajectory for the past year, driven by concerns about GPU competition. A new narrative has taken shape since the company’s earnings on Wednesday and investors are starting to realize that Nvidia’s advantage goes far beyond GPUs. As AI’s compute grows into the gigawatt scale, orchestration has become an increasingly complex task. Not surprisingly, Nvidia has built much of the state-of-the-art hardware needed to handle it, giving the company a huge advantage in the systems that surround the GPU even as it sees increased competition on the GPUs themselves. For all the talk of compute as a commodity, it’s still incredibly difficult to operate a megascale data center at peak efficiency — and as deployments get bigger and faster, that challenge is only growing. Rack by Rack You can see some of this just by looking at the details of what Nvidia is actually selling. The company is currently rolling out its Vera Rubin architecture, which pairs the Rubin GPU with a collection of other units, including the Vera CPU, the Groq 3 LPX inference accelerator and similar racks for storage and networking. Over the past week, I’ve been talking to folks at Nvidia about what those systems actually do, and the results have been surprising. Like the Rubin GPU itself, they’re extremely specialized systems, but instead of churning through tokens, they’re making sure everything outside the GPU works as efficiently as possible. If the GPU is the engine, these are the rest of the car. The Vera CPU in particular is focused on the problem of orchestrating data. “Vera is important because there’s only so much memory that you can put in a single server or any sort of compute platform,” Jason Hardy, Nvidia’s VP of storage technology, told me. As data centers have scaled up computing power, memory capacity has scaled up too, which is why companies like Micron have gotten rich in the second wave of the infrastructure boom. But getting that data to the GPU at the right time isn’t straightforward — and as companies look to drive tokens-per-watt lower and lower, they’re realizing how important that kind of traffic direction is. “We saw upwards of 3x improvement in these operations, where the Vera CPU is allowing for acceleration,” Hardy said. “So now we can use our flash to its fullest potential, because we can get all that performance out of it without bottlenecking.” You can see versions of the same problem outside of Nvidia. When OpenAI developed its Jalapeño chip, a major focus was avoiding these challenges entirely by minimizing the amount of data that needs to be moved around. “We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post earlier this month. “Its large domain allows the entire workload to remain within one connected system, minimizing data movement and helping the complete request stay fast and efficient from beginning to end.” It’s a different approach, avoiding data movement entirely by conducting a workload within one integrated chip. But the overall logic is the same, increasing efficiency with smarter traffic control instead of just more processor cycles. That in turn opens up a whole new layer of infrastructure for companies to compete over. This new focus on data orchestration isn’t automatically a win for Nvidia. The company will have to compete with rival chipmakers and hyperscalers just as it has with GPUs. But the competition has moved to a new layer, where building a rival GPU matters less than being able to make the entire system work efficiently. And at least in the early stages, Nvidia looks to have a commanding lead.",
+        "impact": "تثبیت رهبری انویدیا در بازار هوش مصنوعی از طریق قفل کردن زیرساخت دیتاسنترها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "clean_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+        "image": "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/05/russell-e1755718978143.jpg?w=150"
+        ],
+        "timestamp": 1787983200.0
     },
     {
         "id": "70f19fc7f9",
@@ -6854,141 +6992,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787451949.0
-    },
-    {
-        "id": "8d62430349",
-        "title_fa": "رونمایی از «عیار»؛ دستیار هوشمند هومَص برای ارزیابی دقیق استارتاپ‌ها",
-        "title_en": "هومَص از دستیار هوشمند «عیار» برای ارزیابی استارتاپها رونمایی کرد",
-        "summary": [
-            "سامانه هوشمند «عیار» در ۹ مرحله کلیدی از جمله اعتبارسنجی مسئله، اندازه بازار، مدل مالی و ترکیب تیم، آمادگی استارتاپ‌ها را می‌سنجد.",
-            "هدف اصلی این دستیار، شفاف‌سازی واقعی بودن مشتری و محصول قبل از ورود تیم‌ها به مذاکرات جدی با سرمایه‌گذاران است.",
-            "هومَص با همکاری ده‌ها منتور متخصص قصد دارد اکوسیستم هوش مصنوعی صنعتی را توانمند کند و نرخ شکست استارتاپ‌ها را کاهش دهد."
-        ],
-        "full_text": "هومَص از دستیار هوشمند «عیار» برای ارزیابی استارتاپها رونمایی کرد عیار با بررسی کسبوکار، محصول، بازار، تیم و مدل مالی، میزان آمادگی استارتاپها برای جذب سرمایه یا همکاری صنعتی را ارزیابی میکند. شرکت تسهیلگران صادرات هوش مصنوعی صنعتی «هومَص» در یک نشست خبری از دستیار هوشمند «عیار» رونمایی کرد؛ سامانهای که برای ارزیابی استارتاپها و شرکتهای فناور در مسیر جذب سرمایه و همکاری صنعتی طراحی شده است. بر اساس توضیحات ارائهشده در این نشست، عیار در ۹ مرحله اطلاعات مربوط به کسبوکار، محصول، بازار، اعضای تیم، رقبا، ریسکها، مدل مالی و کیفیت ارائه را بررسی میکند و بر اساس سطح آمادگی هر تیم، مسیر بعدی را پیشنهاد میدهد. این مسیر میتواند تکمیل پرونده، دریافت منتورینگ، ارائه طرح یا ورود سریعتر به فرایند بررسی سرمایهگذاری باشد. محمدرضا معبودیان، مدیرعامل هومَص، با اشاره به تجربه این مجموعه در بررسی پروندههای استارتاپی گفت برخی تیمها با وجود داشتن فناوری و محصول مناسب، نمیتوانند کسبوکار خود را بهدرستی ارائه کنند. به گفته او، در برخی پروندهها تناقض در اظهارات تیم یا ناتوانی در رسیدن به یک نتیجهگیری روشن، مانع ادامه فرایند ارزیابی میشود. هومَص در یک سال گذشته ۳۳۸ پرونده استارتاپی در حوزه هوش مصنوعی صنعتی را شناسایی کرده است. از این تعداد، ۲۲۳ پرونده وارد انتخاب اولیه شدند، ۱۵۹ مورد تیم داشتند، ۴۶ پرونده اطلاعات قابل ارزیابی ارائه کردند، ۳۷ مورد به جلسه ارزیابی رسیدند و در نهایت ۸ پرونده به بررسی موشکافانه راه پیدا کردند. عیار فقط ابزار ساخت پیچدک نیست مهران ضیابری، معاون فنی هومَص، در پاسخ به این پرسش دیجیاتو که آیا مسئله اصلی استارتاپها ضعف در ارائه است، گفت مسئله عیار فراتر از پیچدک است. او توضیح داد که این سامانه پیش از کمک به استارتاپ برای ارائه بهتر، تلاش میکند مشخص کند آیا اساساً مسئلهای که تیم دنبال میکند واقعی است، مشتری موردنظر واقعاً مشتری است و محصول قابلیت فروش دارد یا نه. ضیابری گفت بسیاری از استارتاپها پیش از آنکه مسئله و مشتری خود را بهدرستی مشخص کنند، وارد مرحله توسعه محصول میشوند. به گفته او، عیار قرار است این مسائل را پیش از ورود تیم به مذاکره با سرمایهگذار آشکار کند. کمک توسعه استارتاپها یکی دیگر از محورهای مطرحشده در نشست، شناسایی ضعفهای تکرارشونده در اکوسیستم استارتاپی و کمک به توانمندسازی آنها بود. علیرضا نظریان، معاون توسعه و پشتیبانی هومَص در پاسخ به پرسش دیجیاتو گفت این مجموعه در برنامه توسعه و پشتیبانی خود به دنبال تشکیل یک هاب است و قصد دارد با استفاده از ظرفیت حدود ۴۰ نفر از منتورها و اساتید، برنامههایی مانند هکاتون را برای کمک به تیمها در زمینه شناخت بازار، انتخاب محصول و ورود درست به بازار برگزار کند. به گفته نظریان، یکی از معیارهای ارزیابی این برنامهها باید این باشد که تا چه اندازه توانستهاند کیفیت شکلگیری و حفظ و نگهداشت استارتاپها را افزایش دهند. معبودیان نیز در ادامه به برنامه هومَص برای سال ۱۴۰۶ اشاره کرد و گفت این مجموعه به دنبال ایجاد «مارکتپلیس مدل» و «مارکتپلیس دیتا» است. به گفته مدیرعامل هومَص، در این مدل کارخانهها و صنایع بزرگ میتوانند دادههای موردنیاز برای آموزش مدلهای هوش مصنوعی را بهعنوان یک دارایی عرضه کنند و توسعهدهندگان مدل نیز امکان ارائه خدمات خود را در این بازار داشته باشند. عیار تصمیمگیر سرمایهگذاری نیست مدیران هومَص تأکید کردند که عیار قرار نیست جایگزین سرمایهگذار یا داور انسانی شود. این سامانه پیش از ورود پرونده به مرحله تصمیمگیری، نقاط ضعف، ابهامها و تناقضهای آن را مشخص میکند تا تیم با پرونده آمادهتری وارد مذاکره شود. همچنین خروجی عیار الزاماً به سرمایهگذاری منتهی نمیشود. بر اساس توضیحات هومَص، یک تیم ممکن است برای تکمیل پرونده یا دریافت منتورینگ هدایت شود و تیمهای آمادهتر نیز بتوانند به ارائه روی استیج یا مسیر Fast Track برسند. شرکتهای فناور دارای محصول یا دانش فنی نیز میتوانند از مسیر جداگانه برای همکاری صنعتی و ورود به شبکه شرکای هومَص ارزیابی شوند.",
-        "impact": "کاهش ریسک سرمایه‌گذاری خطرپذیر و ارتقای کیفیت ارائه و آماده‌سازی تیم‌های نوپا در ایران.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/iran-technology-news/hoomas-unveils-ayar-smart-assistant",
-        "clean_url": "https://digiato.com/iran-technology-news/hoomas-unveils-ayar-smart-assistant",
-        "image": "https://static.digiato.com/digiato/2026/08/مدیرعامل-هومص.jpg",
-        "images": [
-            "https://static.digiato.com/digiato/2026/08/مدیرعامل-هومص.jpg",
-            "https://static.digiato.com/digiato/2026/08/مدیرعامل-هومص-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/عیار-هومص-1024x682.jpg",
-            "https://static.digiato.com/digiato/2026/08/ضیابری-1024x682.jpg"
-        ],
-        "timestamp": 1787449260.0
-    },
-    {
-        "id": "8db22f1af2",
-        "title_fa": "مقایسه ColorOS 17 و One UI 9؛ نبرد هوش مصنوعی و شارژدهی",
-        "title_en": "ColorOS 17 vs One UI 9: AI, Design, Battery and Features Compared",
-        "summary": [
-            "بررسی اولیه نشان می‌دهد هر دو رابط کاربری جدید سامسونگ و اوپو تمرکز ویژه‌ای روی ادغام ابزارهای هوش مصنوعی مولد دارند.",
-            "علاوه بر تغییرات بصری و شخصی‌سازی، بهینه‌سازی مصرف باتری و مدیریت منابع پردازشی نقطه عطف این دو سیستم‌عامل است."
-        ],
-        "full_text": "ColorOS 17 vs One UI 9: AI, Design, Battery and Features Compared  Memeburn",
-        "impact": "تعیین استانداردهای جدید تجربه کاربری و قابلیت‌های AI در پرچمداران اندرویدی آینده.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Memeburn",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDAzdkNtT2h2Mkk4dXphUzFQaHNLLXNXUnFsTC14dllsd0c2WEV6TDcteVBtVkdiSS14NDNlX1JTY0Q2U3FDcUhNTENZMVREMExUSWd5bVFJSkJ1MmZzb3UzR1o2Qnlmd0FtVjNyaFJpcU1LOUoxdkRvRWM4UkJJdXdiN1hzXzFZanBOaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDAzdkNtT2h2Mkk4dXphUzFQaHNLLXNXUnFsTC14dllsd0c2WEV6TDcteVBtVkdiSS14NDNlX1JTY0Q2U3FDcUhNTENZMVREMExUSWd5bVFJSkJ1MmZzb3UzR1o2Qnlmd0FtVjNyaFJpcU1LOUoxdkRvRWM4UkJJdXdiN1hzXzFZanBOaA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787448798.0
-    },
-    {
-        "id": "6c73d78670",
-        "title_fa": "ارزیابی ارزش‌گذاری اسپیس‌ایکس پس از قرارداد پرتاب جدید",
-        "title_en": "Is Space Exploration Technologies (SPCX) Overvalued Following Its VinSpace Launch Deal?",
-        "summary": [
-            "امضای قرارداد جدید با VinSpace موج تازه‌ای از بحث‌ها را درباره قیمت واقعی سهام این شرکت فضایی راه انداخته است.",
-            "تحلیل‌گران بازار درباره احتمال رشد هیجانی و فراتر از انتظار ارزش بازار اسپیس‌ایکس هشدار می‌دهند."
-        ],
-        "full_text": "Is Space Exploration Technologies (SPCX) Overvalued Following Its VinSpace Launch Deal?  simplywall.st",
-        "impact": "احتیاط بیشتر سرمایه‌گذاران در ورود به معاملات سهام صنایع فضایی.",
-        "tag": "هوافضا",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFd9IB5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFd9IB5gFBVV95cUxNX0pfZmdZTTJucEFBUThkbDBiejhiRTExM0ZvUVZ0VTZYamdYbWhab1NLWTlsRFpQbnpUX0FRRkxqa1hlVkdSV0oya3JoMC1PNjRQcmtHR0p0VWhINlQ2Ym5KTEFfc0RiMTN2LWNHQ09hWWJjQ3BoVVlLWFBsN1VtdzJ4VUk1emE3VzNfOUE3MDFGUHhVanAtQjBSOHQwOUx4aGg1S3dEczhaVnQtQ251ZnpFUXBOZy1McE9ScXk5VDZaVHlmR1Ixa3pWVjNxSnUtaktDUy1qcGJndXl4X0xkbjJBaTJFdw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787445082.0
-    },
-    {
-        "id": "b3f5bf9eaf",
-        "title_fa": "ارائه ابزارهای رایگان هوش مصنوعی اخلاقی توسط شرکت پگا",
-        "title_en": "Will Pega’s Free Responsible AI Tools Deepen Its Recurring Revenue Moat For Investors In PEGA?",
-        "summary": [
-            "شرکت نرم‌افزاری پگا با ارائه رایگان ابزارهای هوش مصنوعی مسئولانه به دنبال جذب مشتریان جدید و تقویت درآمد تکرارشونده است.",
-            "این استراتژی با هدف ساده‌سازی پذیرش فناوری در سازمان‌ها و سوق دادن آن‌ها به استفاده از پلتفرم مدفون پگا طراحی شده است."
-        ],
-        "full_text": "Will Pega’s Free Responsible AI Tools Deepen Its Recurring Revenue Moat For Investors In PEGA?  Yahoo Finance",
-        "impact": "افزایش رقابت در بازار نرم‌افزارهای سازمانی با استفاده از ابزارهای رایگان هوش مصنوعی.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhKR2Q1VVZqc21pMndfMFE4ZkJJSWwxMVBMVkhUdHdZM1RNTHpOSTM4a0tHMkxCaUdEcTBoZ1E5M2R3a3BJSjBhLUdjdUZhN21BT0dyWDJfcXlyWFhQY2pkODJPWXdCV2pKTERFU0xPcGh6VkdnYktUdmZGU2EtcnJ3SENJSEFhaWVTU1lTaDFVOFJHaEJnekZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmhKR2Q1VVZqc21pMndfMFE4ZkJJSWwxMVBMVkhUdHdZM1RNTHpOSTM4a0tHMkxCaUdEcTBoZ1E5M2R3a3BJSjBhLUdjdUZhN21BT0dyWDJfcXlyWFhQY2pkODJPWXdCV2pKTERFU0xPcGh6VkdnYktUdmZGU2EtcnJ3SENJSEFhaWVTU1lTaDFVOFJHaEJnekZn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787444040.0
-    },
-    {
-        "id": "b93fbc4180",
-        "title_fa": "رشد بازار فیلم‌های پاریلن تحت تاثیر کوچک‌سازی تجهیزات پزشکی",
-        "title_en": "Parylene Release Film Market Growth to 2035 Driven by Medical Device Miniaturization - News and Statistics",
-        "summary": [
-            "پیش‌بینی‌ها نشان می‌دهد بازار فیلم‌های رهاسازی پاریلن تا سال ۲۰۳۵ روند صعودی قوی را تجربه خواهد کرد.",
-            "علت اصلی این رشد، روند کوچک‌سازی تجهیزات پزشکی و نیاز به لایه‌های محافظ بسیار دقیق در ساخت قطعات ریز است."
-        ],
-        "full_text": "Parylene Release Film Market Growth to 2035 Driven by Medical Device Miniaturization - News and Statistics  IndexBox",
-        "impact": "رشد سرمایه‌گذاری در زنجیره تامین تجهیزات پیشرفته پزشکی و مواد نوآورانه.",
-        "tag": "سخت‌افزار",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnBLdWFST3pWZ1RlLUZKZmk2RU44aWRYa3hRNnJtQVdhSGFETm9OSFg2QjNocHJnUzJZbERIbXpkck55Ty1aQUd5UFZXV1VSYlJybnRRVDFYZjNxd1lGWHpMRmdYYVE4dHVxb01hdjNHeTV4YWVRRkJvdGNoekZSeVpPZ3h3MFdLVlcxcWJyd2xvVk9qTXNCTHk0UTZtZW9aV3JIUjhHVEZlcWtCM0lNdTEzQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTnBLdWFST3pWZ1RlLUZKZmk2RU44aWRYa3hRNnJtQVdhSGFETm9OSFg2QjNocHJnUzJZbERIbXpkck55Ty1aQUd5UFZXV1VSYlJybnRRVDFYZjNxd1lGWHpMRmdYYVE4dHVxb01hdjNHeTV4YWVRRkJvdGNoekZSeVpPZ3h3MFdLVlcxcWJyd2xvVk9qTXNCTHk0UTZtZW9aV3JIUjhHVEZlcWtCM0lNdTEzQQ",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787441177.0
-    },
-    {
-        "id": "2b21d899f0",
-        "title_fa": "تسلا آماده رونمایی و عرضه تاکسی خودران سایبرکپ می‌شود",
-        "title_en": "Tesla is preparing to launch the Cybercab soon",
-        "summary": [
-            "تسلا مراحل نهایی آماده‌سازی برای معرفی و راه‌اندازی رسمی تاکسی خودران اختصاصی خود موسوم به سایبرکپ را طی می‌کند.",
-            "عرضه موفق این محصول آزمایشی بزرگ برای اثبات ادعاهای چالش‌برانگیز ایلان ماسک در زمینه فناوری FSD خواهد بود."
-        ],
-        "full_text": "Tesla is preparing to launch the Cybercab soon  Mashable",
-        "impact": "ورود رسمی تسلا به بازار تاکسی‌های روباتیک و تغییر احتمالی قوانین حمل‌ونقل خودران.",
-        "tag": "گجت",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VHJSZU00eDF5dHpQZjVuNHA4b0UyQVJNUS11dVBPNmtDbFMxSXNNTTFQdFdkUUE1VHlpclFhSFUxbUZEbVBXdmRJMzZBN3NkZmFaVW5iVHpVdUs1UDFZWlBmcmg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VHJSZU00eDF5dHpQZjVuNHA4b0UyQVJNUS11dVBPNmtDbFMxSXNNTTFQdFdkUUE1VHlpclFhSFUxbUZEbVBXdmRJMzZBN3NkZmFaVW5iVHpVdUs1UDFZWlBmcmg",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787438941.0
     }
 ]
