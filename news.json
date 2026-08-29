@@ -1,5 +1,115 @@
 [
     {
+        "id": "7d3d83aac5",
+        "title_fa": "گوگل روی مدل تصویرساز جدیدی به نام Instant-Ramen کار می‌کند",
+        "title_en": "Google’s Next AI Image Model Is Called Instant-Ramen, and It Looks Promising",
+        "summary": [
+            "اطلاعات فاش‌شده نشان می‌دهد گوگل در حال توسعه مدل جدید تولید تصویر با کد Instant-Ramen است.",
+            "تمرکز اصلی این مدل بر رندر آنی و سریع تصاویر باکیفیت برای رقابت مستقیم با Midjourney و Flux است."
+        ],
+        "full_text": "Google’s Next AI Image Model Is Called Instant-Ramen, and It Looks Promising  nokiapoweruser.com",
+        "impact": "داغ‌تر شدن رقابت در بازار تولیدکنندگان تصویر با تکیه بر سرعت تولید بالا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "nokiapoweruser.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWJUdFQwR0Z3RVhVMjlpS25HdGlneE5ZMTBZeVRZYUkxTHM2MEhQaHBxbU1EUjBjWmIxTzdxSlZOMVg0bEdsMDlXMG90enAxeXhydmR5Tll2SXQwS0FPa0hkdENfX3l0QzY1aFJpSHBWdG1LeDlwLTVYYXctMG1WUnRCOXVPNk8zcVNaTzRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWJUdFQwR0Z3RVhVMjlpS25HdGlneE5ZMTBZeVRZYUkxTHM2MEhQaHBxbU1EUjBjWmIxTzdxSlZOMVg0bEdsMDlXMG90enAxeXhydmR5Tll2SXQwS0FPa0hkdENfX3l0QzY1aFJpSHBWdG1LeDlwLTVYYXctMG1WUnRCOXVPNk8zcVNaTzRn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787988792.0
+    },
+    {
+        "id": "70f19fc7f9",
+        "title_fa": "افت افتضاح فریم‌ریت RTX 5080 در اولین تست‌های DLSS 5",
+        "title_en": "DLSS 5 has already been launched in a game - RTX 5080 loses more than half of its FPS",
+        "summary": [
+            "نخستین تست‌های فناوری DLSS 5 روی کارت گرافیک RTX 5080 نشان از افت بیش از ۵۰ درصدی نرخ فریم بازی دارد.",
+            "بار پردازشی سنگین الگوریتم‌های جدید هوش مصنوعی حتی سخت‌افزار نسل بعد انویدیا را هم به چالش کشیده است."
+        ],
+        "full_text": "DLSS 5 has already been launched in a game - RTX 5080 loses more than half of its FPS  ixbt.games",
+        "impact": "فشار بر انویدیا جهت بهینه‌سازی فوری نرم‌افزاری و احتمال سردرگمی خریداران اولیه کارت‌های سری ۵۰.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ixbt.games",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR5RGVpS1FWMV9lOWlScHF5MW1BUTk5bm56dTBYUUJaV3Y2Mi1JXzRfQ1ZEMG5FRHFHSS1SWWFFbWtXM3JwT01ja3VfZm5Ydl80WGY3Znl6TXZyejI1X2IzQnJUMXI5Y3FvSV9lNVB4dV9NX0NaT0Y2UEF3N0paekd0Ym5mcXRCZmsxeDEySDZhWloyWUZmWGRzcjd4LTR4WEpLRFFxTHlDRlpVcl9SWVZySdIBuAFBVV95cUxQSWtvTlVlWmZ2VDAyZmxLc1VfVVYxYUJlcjE3RTRVWHZ5QzdBcHdkN3dONnJYaHFBLU1USnI0UFZsYU1ZbUxvYzNuQ1hOUlFrRmNNWllZQTFBVTVoX002SU9HQjd5TUNmaThJTDN0a09peWVlR0ExVERRcTZ5bWpZb19DXzZ5d2RtTWF0RlM5Y1VQdGlUNkRxVnBWMExQamNnU1ZYTHczZ1hMbkVHOFFzNXdwN0w4aVo4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR5RGVpS1FWMV9lOWlScHF5MW1BUTk5bm56dTBYUUJaV3Y2Mi1JXzRfQ1ZEMG5FRHFHSS1SWWFFbWtXM3JwT01ja3VfZm5Ydl80WGY3Znl6TXZyejI1X2IzQnJUMXI5Y3FvSV9lNVB4dV9NX0NaT0Y2UEF3N0paekd0Ym5mcXRCZmsxeDEySDZhWloyWUZmWGRzcjd4LTR4WEpLRFFxTHlDRlpVcl9SWVZySdIBuAFBVV95cUxQSWtvTlVlWmZ2VDAyZmxLc1VfVVYxYUJlcjE3RTRVWHZ5QzdBcHdkN3dONnJYaHFBLU1USnI0UFZsYU1ZbUxvYzNuQ1hOUlFrRmNNWllZQTFBVTVoX002SU9HQjd5TUNmaThJTDN0a09peWVlR0ExVERRcTZ5bWpZb19DXzZ5d2RtTWF0RlM5Y1VQdGlUNkRxVnBWMExQamNnU1ZYTHczZ1hMbkVHOFFzNXdwN0w4aVo4",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787982609.0
+    },
+    {
+        "id": "d03205e9a8",
+        "title_fa": "برنامه ایلان ماسک برای پرتاب ماهواره‌های مجهز به تراشه انویدیا",
+        "title_en": "Elon Musk plans first Nvidia-powered AI satellite launch in 2027",
+        "summary": [
+            "ایلان ماسک قصد دارد در سال ۲۰۲۷ نخستین ماهواره‌های مجهز به پردازنده‌های هوش مصنوعی انویدیا را به مدار زمین بفرستد.",
+            "این اقدام امکان پردازش مستقیم و آنی داده‌های تصویربرداری و فضایی را روی خود ماهواره فراهم می‌سازد."
+        ],
+        "full_text": "Elon Musk plans first Nvidia-powered AI satellite launch in 2027  YourStory.com",
+        "impact": "شکل‌گیری زیرساخت‌های جدید پردازش ابری فضایی و افزایش وابستگی پروژه‌های فضایی به انویدیا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "YourStory.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbGZxRWY2emd4ZnB2TWM4c3J1dVdLdldpNms4SzFCc0hvc3BBWHpzZUc5cGk0ZDNhMzRKR1FzZWc3NmVqVmhhbGxzVEw3TmE4SnFyZlhOU0d3akdqNDh3WkRib3JkWXVzNzNfVGt4TVFJcERBd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbGZxRWY2emd4ZnB2TWM4c3J1dVdLdldpNms4SzFCc0hvc3BBWHpzZUc5cGk0ZDNhMzRKR1FzZWc3NmVqVmhhbGxzVEw3TmE4SnFyZlhOU0d3akdqNDh3WkRib3JkWXVzNzNfVGt4TVFJcERBd1E",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787981762.0
+    },
+    {
+        "id": "0305511f83",
+        "title_fa": "افشای اطلاعات جدید از بازی Call of Duty: Modern Warfare 4",
+        "title_en": "CoD MW4: Release date, pre-orders, story, multiplayer and more",
+        "summary": [
+            "جزئیات تازه‌ای از تاریخ عرضه، سیستم پیش‌خرید و بخش داستانی نسخه بعدی کال آف دیوتی فاش شد.",
+            "تغییرات بخش مولتی‌پلییر روی بهبود مکانیک‌های حرکتی و بازسازی نقشه‌های محبوب قدیمی تمرکز دارد."
+        ],
+        "full_text": "CoD MW4: Release date, pre-orders, story, multiplayer and more  Radio Times",
+        "impact": "حفظ هیجان و درگیر نگه‌داشتن جامعه میلیونی مخاطبان فرنچایز کال آف دیوتی.",
+        "tag": "گجت",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Radio Times",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OUlXZk5xNkdWWnVOTy1ERGZ2ZHJ6aWJVT0NXZFJSRUdNT1JaYkFWWEl1TV9uNl9PN0QzTEJMNTNWTXF5d3NMdDV4Y3hMZWFKQmlxYng1ZGdkMnV2WHRZR0wwaS1ZT2FaOGhoUC1taWxJdG1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OUlXZk5xNkdWWnVOTy1ERGZ2ZHJ6aWJVT0NXZFJSRUdNT1JaYkFWWEl1TV9uNl9PN0QzTEJMNTNWTXF5d3NMdDV4Y3hMZWFKQmlxYng1ZGdkMnV2WHRZR0wwaS1ZT2FaOGhoUC1taWxJdG1o",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787981072.0
+    },
+    {
+        "id": "19d8f96103",
+        "title_fa": "برگزاری دوره ممیزی سیستم‌های دیجیتال توسط دانشگاه IIT Madras",
+        "title_en": "CAG, IIT Madras launch four-month online certification course in digital systems audit",
+        "summary": [
+            "نهاد حسابرسی هند با همکاری این دانشگاه معتبر یک دوره تخصصی ۴ ماهه برای ممیزی زیرساخت‌های دیجیتال برگزار می‌کند.",
+            "این دوره روی ارزیابی امنیت، شفافیت و کارایی سیستم‌های نرم‌افزاری کلان تمرکز دارد."
+        ],
+        "full_text": "CAG, IIT Madras launch four-month online certification course in digital systems audit  The Indian Express",
+        "impact": "توسعه نیروی انسانی متخصص برای نظارت بر امنیت سیستم‌های دیجیتال دولتی و خصوصی.",
+        "tag": "استارتاپ",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWFnN3M1Y0gyWUtETzByQ0JoX21QTlJEWWZUSDg1Z1VBbUxTYlpaM1c3c0xaRThtWHZUNUZyQ3ZqVjh0a3FtaG80OW9hTUV6R3g2SWZ4SlNCVzNEOXNhcmJmYzkzZG9HbnFqVDVONUdueVRDblZRMUhGbzI0bWROSGpfamhkOHQxalk0akI4NjZ6M0YwSDFsam1tM0duZTJrQndBZjFza2tRWEVBTXdVT0FuQS1ZNHp4WGY5SGRqM0F6WEwxUlhWSnFRcWRocDctWlRyUUZqQXN4XzlkZlVMLW83anI1a0lTTjBOSllJaEMtbmU2ekRPNTdvZWRMVXhfUVBZ0gGKAkFVX3lxTFA5Sm5wUzdvMWpXQkRhdk50N0kzVXRsejlBSldDRy1ySi1pZE1RbE9aT0syV3lFbWM4aDhZR2dhRi1jemh2Y0EzVmI1OFRONUVLXzZEOEJ1QW5fWXdudnQ3YmxVSjZrRk5MVlA5Nm9jWUsxUVVjZHJEbkRMX1p1eE9NWldhNzNRR0NVdWVLck9pZ01GWXJJTzRFTnVxT0l1UXlFYUlkZFFCWXdoUWUwUFNWb0RiQk4wd21naXJsY3hzUjNWM1FpSHk2MGdjMTFlTnA4Z1Myd3pYR0xTYV9LeHpqcnpsd2t4aVI0RVlkNDhFWkE2Vm5zSDdZUEdLdVNVNFJOcHFkRzVQU1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWFnN3M1Y0gyWUtETzByQ0JoX21QTlJEWWZUSDg1Z1VBbUxTYlpaM1c3c0xaRThtWHZUNUZyQ3ZqVjh0a3FtaG80OW9hTUV6R3g2SWZ4SlNCVzNEOXNhcmJmYzkzZG9HbnFqVDVONUdueVRDblZRMUhGbzI0bWROSGpfamhkOHQxalk0akI4NjZ6M0YwSDFsam1tM0duZTJrQndBZjFza2tRWEVBTXdVT0FuQS1ZNHp4WGY5SGRqM0F6WEwxUlhWSnFRcWRocDctWlRyUUZqQXN4XzlkZlVMLW83anI1a0lTTjBOSllJaEMtbmU2ekRPNTdvZWRMVXhfUVBZ0gGKAkFVX3lxTFA5Sm5wUzdvMWpXQkRhdk50N0kzVXRsejlBSldDRy1ySi1pZE1RbE9aT0syV3lFbWM4aDhZR2dhRi1jemh2Y0EzVmI1OFRONUVLXzZEOEJ1QW5fWXdudnQ3YmxVSjZrRk5MVlA5Nm9jWUsxUVVjZHJEbkRMX1p1eE9NWldhNzNRR0NVdWVLck9pZ01GWXJJTzRFTnVxT0l1UXlFYUlkZFFCWXdoUWUwUFNWb0RiQk4wd21naXJsY3hzUjNWM1FpSHk2MGdjMTFlTnA4Z1Myd3pYR0xTYV9LeHpqcnpsd2t4aVI0RVlkNDhFWkE2Vm5zSDdZUEdLdVNVNFJOcHFkRzVQU1Fn",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1787981040.0
+    },
+    {
         "id": "862a02d8cd",
         "title_fa": "تامین مالی ۲.۴ میلیارد دلاری برای احداث کارخانه هوش مصنوعی IREN",
         "title_en": "Press Release: BLUE OWL MANAGED FUNDS LEAD $2.4 BILLION AI FACTORY FINANCING FOR IREN",
@@ -108,6 +218,58 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787933509.0
+    },
+    {
+        "id": "7f31a50ace",
+        "title_fa": "گوگل نتایج سنتی جستجو را زیر پاسخ‌های هوش مصنوعی دفن می‌کند",
+        "title_en": "Google further buries search results under AI mode",
+        "summary": [
+            "گوگل در آزمایشی جدید، بخش خلاصه هوش مصنوعی (AI Overview) بالای صفحه را به صورت خودکار برای برخی جستجوها کاملاً باز می‌کند.",
+            "این تغییر باعث شده لینک سایت‌ها بسیار پایین‌تر بروند و کاربر برای رسیدن به نتایج معمولی مجبور به اسکرول طولانی شود.",
+            "گوگل مدعی است این کار تجربه جستجو را مفیدتر می‌کند، اما در صورت شروع اسکرول کاربر، باز شدن خودکار را لغو خواهد کرد."
+        ],
+        "full_text": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google’s results page; instead of seeing part of an AI Overview with a “Show more” button you can click, you’ll Google will show a full AI Overview at the top of your search, an “Ask anything” box under that, and then the list of links. It can lead to a lot of scrolling. Google further buries search results under AI mode Google now automatically expands its AI search summaries for some queries. Google now automatically expands its AI search summaries for some queries. It’s unclear exactly what Google’s criteria is for the auto-expanding AI Overviews. Before writing this story, I was seeing them with most of my test searches. But now, AI Overviews usually just show the initial part of the response and the “Show more” button. My most consistent query to get the auto-expanding AI Overview is “what is the best game on switch 2”, but even that hasn’t been consistent across searches and browsers. “For some queries, AI Overviews may dynamically expand for topics where our systems determine it’s most useful for people,” Google spokesperson Jennifer Kutz says in a statement to The Verge. “Our research has shown that with this dynamic experience, users find Search more helpful and engage deeper in follow-up exploration.” Kutz also says that “If users have already begun scrolling to view content below the AI Overview, we cancel expansion so that the user doesn’t lose their reading position.”",
+        "impact": "کاهش شدید ورودی ارگانیک وب‌سایت‌ها و تغییر ساختار رفتار کاربران در جستجوی وب.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "clean_url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "image": "http://www.bing.com/th?id=ONUT.R8OXzqLKNvproMrgZBoSKA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.R8OXzqLKNvproMrgZBoSKA&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1787932020.0
+    },
+    {
+        "id": "c0912edc5f",
+        "title_fa": "جنسن هوانگ: به AGI رسیده‌ایم اما این اصطلاح بی‌معنا شده است",
+        "title_en": "جنسن هوانگ دوباره یادآور شد: انویدیا به AGI دست یافته است",
+        "summary": [
+            "مدیرعامل انویدیا می‌گوید هوش مصنوعی در بسیاری از وظایف فعلی به سطح هوش عمومی رسیده و کلکل روی تعریف آن بی فایده است.",
+            "هوانگ معتقد است تمرکز اصلی صنعت از مفاهیم انتزاعی به سمت عاملهای مستقل (AI Agents) و تولید توکن‌های سودآور تغییر کرده است.",
+            "عدم وجود تعریف مشخص از AGI به غول‌های فناوری اجازه می‌دهد هر کدام ادعای پیشتازی داشته باشند."
+        ],
+        "full_text": "«جنسن هوانگ»، مدیرعامل انویدیا، اخیراً در جریان گزارش مالی این شرکت، بهطور گذرا اعلام کرد انویدیا به AGI دست یافته؛ این یکی از اهداف نهایی صنعت فناوری است که برخی از بزرگترین شرکتهای این حوزه سالهاست بهدنبال تحقق آن هستند. هوانگ اما تقریباً بلافاصله این دستاورد موردانتظار را «بیمعنا» توصیف کرد. او درست میگوید. برای خط پایان فرضی رقابت هوش مصنوعی، هیچ توافقی درباره معنای هوش عمومی مصنوعی (AGI) وجود ندارد؛ حتی مشخص نیست از چه زمانی میتوان گفت واقعاً به آن دست یافتهایم. در نتیجه، ادعای دستیابی به AGI نیز میتواند کاملاً سلیقهای باشد. مدیرعامل انویدیا: AGI در این مرحله بیمعناست هوانگ در پاسخ به پرسشی درباره تلاش OpenAI برای دستیابی به AGI گفت در مورد انویدیا، برای بسیاری از وظایف میتوانیم بگوییم که همین حالا به AGI دست یافتهایم. او تعریف یا معیار دقیقی ارائه نکرد، اما گفت این نوع نقاط عطف «در این مرحله بیمعنا» هستند. به گفته هوانگ، هوش مصنوعی از پاسخگویی به درخواستهای ساده عبور کرده و به سمت عاملهای مستقلی رفته است که میتوانند مهارتهای جدید یاد بگیرند و بهصورت «بازگشتی» خودشان را بهبود دهند. هوانگ معتقد است چیزی که واقعاً اهمیت دارد، این است که هوش مصنوعی کار مفید انجام دهد و توکنهای سودآور تولید کند. به گفته او، پردازش بیشتر به تولید توکنهای بیشتر و در نهایت سود بیشتر منجر میشود؛ او میگوید این دقیقاً همان مرحلهای است که در آن قرار داریم و به همین دلیل همه شرکتها به این حوزه روی آوردهاند. این نخستین بار نیست که هوانگ میگوید به AGI رسیدهایم. او در ماه مارس نیز در پادکست «لکس فریدمن» صراحتاً گفت: «فکر میکنم به AGI دست یافتهایم.» بااینحال، هوانگ آن زمان نیز تعریف دقیقی ارائه نکرد. فریدمن پیشنهاد کرده بود AGI سیستمی باشد که بتواند عملاً شغل شما را انجام دهد؛ ازجمله راهاندازی، رشد و اداره یک شرکت فناوری موفق با ارزش بیش از یک میلیارد دلار. هوانگ سپس در اظهارنظری متفاوت گفت احتمال اینکه ۱۰۰ هزار عامل هوش مصنوعی بتوانند انویدیا را بسازند، صفر درصد است. طی سالهای گذشته، دیگر مدیران فناوری نیز از ابهام موجود در تعریف AGI استفاده کردهاند و تعاریف و معیارهای متفاوتی ارائه دادهاند. وجه مشترک این دیدگاهها، شکلی از هوش مصنوعی است که بتواند در طیف گستردهای از حوزهها با هوش انسان برابری کند یا از آن فراتر برود؛ هرچند خود مفهوم «هوش» نیز تعریف مورد توافقی ندارد. ابهام درباره AGI و آستانه دستیابی به آن موضوع پنهانی نیست و مدیران فناوری نیز خود به آن اذعان دارند؛ بااینحال همچنان پیشبینیهایشان را بر پایه این مفهوم مطرح میکنند. «داریو آمودی»، مدیرعامل آنتروپیک، AGI را اصطلاحی «غیردقیق» و حتی یک «اصطلاح بازاریابی» خوانده و ترجیح میدهد از عبارت «هوش مصنوعی قدرتمند» استفاده کند.",
+        "impact": "تغییر مسیر تمرکز سرمایه‌گذاران از ادعاهای تبلیغاتی AGI به سمت ابزارهای کاربردی و درآمدزا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/jensen-huang-says-nvidia-achieved-agi",
+        "clean_url": "https://digiato.com/artificial-intelligence/jensen-huang-says-nvidia-achieved-agi",
+        "image": "http://www.bing.com/th?id=ONUT.YUfQzV2IYReRPJeR-Ygptw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.YUfQzV2IYReRPJeR-Ygptw&pid=News",
+            "https://static.digiato.com/digiato/2026/08/nvidia-ceo-jensen-huang-1.webp",
+            "https://static.digiato.com/digiato/2026/08/nvidia-ceo-jensen-huang-1-644x424.webp",
+            "https://static.digiato.com/digiato/2026/08/jensen-huang-nvidia-ceo-1.webp"
+        ],
+        "timestamp": 1787930760.0
     },
     {
         "id": "a3fb9ba2e7",
@@ -6828,161 +6990,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787438941.0
-    },
-    {
-        "id": "eed42590d8",
-        "title_fa": "کاهش رشد دستمزدها در اروپا و احتمال توقف افزایش بهره",
-        "title_en": "Cooling Wage Increases May Let ECB Stay on Hold",
-        "summary": [
-            "رشد دستمزدها در منطقه یورو به ۲.۵۶ درصد کاهش یافته که افت چشمگیری نسبت به اوج ۵.۵۵ درصدی سال گذشته است.",
-            "کاهش فشار تورمی دستمزدها دست بانک مرکزی اروپا را برای توقف سناریوی افزایش نرخ بهره باز می‌گذارد."
-        ],
-        "full_text": "Pay deals across the region are easing. The raises agreed between unions and employers rose 2.56% in the second quarter compared with a year earlier, a step down from the prior quarter's figure. That is far below the peak of 5.55% hit in 2024, when the post‑invasion energy shock was still feeding through. For the European Central Bank, this is a reassuring signal. Slower wage growth means the risk of a sustained price‑wage spiral is receding. An isolated price shock may pass, whereas pay tends to stay high after it rises, making wage dynamics a bigger concern. The ECB watches pay settlements closely because they are sticky. Higher wages give households more spending power, which can keep demand strong and allow firms to pass on costs again. That creates the so‑called second‑round effects that policymakers fear. In July, ECB President Christine Lagarde said, \"The tracking signals and broader surveys suggest pay growth is staying moderate.\" She added that the bank's own projections see wage increases remaining well below the 2024 peaks through early 2027. As Eurozone wage growth cools, the free Always Be Buying E-Book can build wealth on any income Some officials argue that waiting for hard proof of a wage‑price spiral would mean acting too late. This is a familiar debate among rate setters. The bank already raised its key rate by a quarter point in June, and second‑quarter growth came in better than expected, which complicates the next decision. What It Means for Investors For investors, the cooler wage data is a useful sign. It reduces the likelihood that the ECB will need to accelerate its tightening path. Even with July's inflation uptick to 2.9% - partly driven by energy worries from the Middle East - the central bank may be willing to pause and watch. The latest wage figure continues the slowdown from last year's peak, adding to evidence that the energy-shock surge is fading. With pay growth close to levels more compatible with the ECB's 2% target, the debate has shifted from whether to keep raising rates to how long to wait before any move. That makes the next data releases especially important for the outlook. The Outlook The real test is whether pay settlements continue to moderate. If they do, the ECB can afford to wait before raising rates again. If not, borrowing costs will likely climb further. For now, the wage numbers give the bank room to hold steady. When pay growth slows, patient investing becomes more attractive, and the case for holding cash instead of fixed‑income assets weakens. The bigger uncertainty is whether the ECB will trust its own projections or insist on hard evidence. History suggests that acting only after wage spikes become visible often forces more aggressive tightening later. That is why the next inflation print and the next wage tracker will be watched closely. When pay rises ease, steady investing matters, so let the Always Be Buying E-Book show the way",
-        "impact": "کاهش احتمال انقباض بیشتر پولی و ثبات نسبی در هزینه‌های استقراض کسب‌وکارها.",
-        "tag": "اقتصاد‌تکنولوژی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/cooling-wage-increases-may-let-ecb-stay-on-hold/",
-        "clean_url": "https://www.briefs.co/news/cooling-wage-increases-may-let-ecb-stay-on-hold",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/08/cooling-wage-increases-may-let-ecb-stay-on-hold.png",
-        "images": [
-            "https://www.briefs.co/wp-content/uploads/2026/08/cooling-wage-increases-may-let-ecb-stay-on-hold.png",
-            "https://www.briefs.co/wp-content/plugins/gumlet/assets/images/pixel.png"
-        ],
-        "timestamp": 1787437740.0
-    },
-    {
-        "id": "0953f5f4b7",
-        "title_fa": "هشدار درباره بحران زیرساختی ژوهانسبورگ و تهدید رشد اقتصادی",
-        "title_en": "ANN BERNSTEIN | If Joburg cannot be fixed, can we fix South Africa?",
-        "summary": [
-            "افت شدید عملکرد شهرداری ژوهانسبورگ، جذب سرمایه و رشد اقتصادی کل آفریقای جنوبی را مختل کرده است.",
-            "ضعف خدمات عمومی و افول توسعه شهری، دسترسی نیروی کار به فرصت‌های شغلی جدید را محدود می‌سازد."
-        ],
-        "full_text": "Story audio is generated using AI South Africa cannot restore growth, expand opportunity and attract investment while Johannesburg continues its disastrous decline. Preventing the collapse of the city must become a national priority. Cities are central to a country’s growth and development. Johannesburg remains the heart of the country’s financial and corporate economy, the source of the largest share of tax revenue, and a critical arena of employment, investment and opportunity. It is South Africa’s principal economic gateway to the world and sits at the heart of the country’s urban system. Johannesburg’s multiplying crises are no longer simply a local government problem. It is the one municipality whose failure would make national success impossible. If Johannesburg cannot be fixed, can we fix South Africa? It has historically been South Africa’s great arena of opportunity, drawing in people from across the country, and the region, in search of work and a better life. As the city becomes less able to perform that role, opportunities to get out of poverty become more restricted for millions. There are two central aspects of urban management that all cities need to get right. The first is property development: creating an environment in which developers, businesses and households want to invest in the city so that they pay the rates and taxes required to fund infrastructure and service delivery. The second is poverty alleviation: connecting poor people to the opportunities created by an expanding urban economy. Cities should be judged not by how many poor people live in them, but by how quickly they are able to move out of poverty. The failure of Johannesburg jeopardises its potential role as anchor for a national system of successful cities Johannesburg is failing on both tests. Municipal dysfunction ensures that property development is in decline, that higher-income households are under pressure, and that the poor suffer the most through lack of access to well-located, affordable housing, to jobs, and to skills acquisition. Over the past 10 years Johannesburg recorded a cumulative house price decrease of 2%, compared with an increase of about 60% in Cape Town. The spatial characteristics of poverty and joblessness remain firmly entrenched. And fewer people from beyond Johannesburg are gaining access to the economic opportunities that well-run cities provide: the city’s population growth rate has slowed noticeably since around 2010, which probably reflects its declining attractiveness as a destination for rural and small-town migrants. The city is failing across every dimension of its mandate. It is in severe financial distress. The minister of finance, Enoch Godongwana, has warned that the city owes creditors R25.2bn but holds only R3.9bn in cash and cash equivalents. Johannesburg Water has identified an infrastructure renewal backlog of R26.6bn, and at the current pace, fully replacing the city’s ageing pipe network would take close to two centuries. There is an estimated electricity infrastructure backlog of R44bn, and the city recorded 54,132 power outages between July and December 2025. Johannesburg has the highest official unemployment rate among South Africa’s metros. Between April 2025 and June 2026, it lost 90,000 jobs. Cape Town, by contrast, gained 57,000. Poor governance weakens municipal finances; weak finances undermine maintenance and investment; failing infrastructure raises the cost of doing business; businesses and skilled people leave; and a weakening economy makes the city’s finances still harder to repair. The failure of Johannesburg jeopardises its potential role as anchor for a national system of successful cities. Since 2016 it has had nine mayors and been run by eight different coalitions. No mayor completed a full five-year term. Stable long-term planning has all but disappeared, while appointments, priorities and policies have shifted with the political winds. The city’s crisis is primarily political. Johannesburg can recover. But we have to fix what has been broken, and the fundamental functions of government must be rebuilt The November local government elections are therefore critical to Johannesburg’s future. A continuation of the current political and governance dysfunction would deepen and probably accelerate the city’s decline. A weak and unstable coalition would struggle to take difficult decisions, appoint capable people, attract partners and investors or sustain a multi-year programme of reform. The choice facing voters is a stark and vitally important one. Johannesburg can recover. But we have to fix what has been broken, and the fundamental functions of government must be rebuilt for the city to become the place of opportunity, economic dynamism and new development that all its residents and the country so desperately need. This will only be possible if the elections produce stable, honest political leadership, and if that leadership then mobilises the best possible people, including from outside political parties, to manage reform and delivery. Even then, capable new leadership will not be able to fix Johannesburg alone. Success will require effective partnerships that build on the city’s many extraordinary assets, including: - its vibrant private sector; - deep financial markets; - many educational institutions; and - its dynamic citizens and civic organisations. These assets provide the basis for recovery — but only if they are matched by effective governance and bold reforms. The chances of success will also require a special response from the national government. Amid the gloom, it is important to hold on to the enormous potential of Johannesburg: a place where young people can build a future, businesses can expand, new start-ups emerge, and people can live and see their families prosper. A thriving Johannesburg would be a powerful engine of growth for the country, driving employment and upward mobility. The opposite is also true: a failing ci",
-        "impact": "افت جذابیت کلیدی‌ترین دروازه اقتصادی کشور برای جذب سرمایه‌گذاران خارجی.",
-        "tag": "اقتصاد‌تکنولوژی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "sundaytimes.timeslive",
-        "url": "https://www.sundaytimes.timeslive.co.za/opinion-and-analysis/opinion/2026-08-22-ann-bernstein-if-joburg-cannot-be-fixed-can-we-fix-south-africa/",
-        "clean_url": "https://www.sundaytimes.timeslive.co.za/opinion-and-analysis/opinion/2026-08-22-ann-bernstein-if-joburg-cannot-be-fixed-can-we-fix-south-africa",
-        "image": "https://www.sundaytimes.timeslive.co.za/resizer/v2/NFHVGIHAZFEFBDNGFKR2XSGX6M.jpg?auth=692fbade7fdd10a6ed9b6e4d447cbe01c411a296ba4a00837f570928b5146fd0&width=800&height=533&smart=true",
-        "images": [
-            "https://www.sundaytimes.timeslive.co.za/resizer/v2/NFHVGIHAZFEFBDNGFKR2XSGX6M.jpg?auth=692fbade7fdd10a6ed9b6e4d447cbe01c411a296ba4a00837f570928b5146fd0&width=800&height=533&smart=true",
-            "https://www.sundaytimes.timeslive.co.za/resizer/v2/NFHVGIHAZFEFBDNGFKR2XSGX6M.jpg?smart=true&auth=692fbade7fdd10a6ed9b6e4d447cbe01c411a296ba4a00837f570928b5146fd0&width=1200&height=630",
-            "https://static.themebuilder.aws.arc.pub/arenaholdings-sandbox/1738021490130.svg",
-            "https://www.sundaytimes.timeslive.co.za/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Farenaholdings%2F6RCZFVUJYNC4RNHP2CEUUANAII.jpg?auth=faf1b4525e9dd65d17da98bc5dce927b06fd1a6f5ec58c6f78fa379eb8905c4f&width=100&height=100&smart=true"
-        ],
-        "timestamp": 1787436000.0
-    },
-    {
-        "id": "a03721b154",
-        "title_fa": "هوش مصنوعی در آستانه جایگزینی نخستین مشاغل پژوهشی و دانشگاهی",
-        "title_en": "This may be the first academic profession to see its work taken over by AI",
-        "summary": [
-            "گزارش‌های جدید نشان می‌دهد برخی حوزه‌های دانشگاهی و تحلیل داده از نخستین بخش‌هایی هستند که کارکردهای اصلی آن‌ها توسط هوش مصنوعی انجام می‌شود."
-        ],
-        "full_text": "This may be the first academic profession to see its work taken over by AI  Texarkana Gazette",
-        "impact": "تغییر ساختار کارهای پژوهشی، نیاز به بازتعریف نقش اساتید و پژوهشگران را ضروری می‌سازد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Texarkana Gazette",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEVBdnVrMW5UUDBydEx1Z3NyN2hYVUFCN0xlZzhLWjBfN1VMM2hlZUtPdzFiOW1xMmpGS1prOThhZENNTlA4aHNJUHAwVFNwRkxQQnMxS3l6Zk5NdzhKRlhNZWxldVcxNnZzeFZ0X1h5M3NXSmI3cTNpemFfMEtkS2VTREFnQkdsaDVFRG5idkVoZzdLZXl2WFo2RDdUSHU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEVBdnVrMW5UUDBydEx1Z3NyN2hYVUFCN0xlZzhLWjBfN1VMM2hlZUtPdzFiOW1xMmpGS1prOThhZENNTlA4aHNJUHAwVFNwRkxQQnMxS3l6Zk5NdzhKRlhNZWxldVcxNnZzeFZ0X1h5M3NXSmI3cTNpemFfMEtkS2VTREFnQkdsaDVFRG5idkVoZzdLZXl2WFo2RDdUSHU0",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787436000.0
-    },
-    {
-        "id": "6b854011fc",
-        "title_fa": "خروج ۶.۳ میلیارد دلار از صندوق‌های تراشه با جهش سود اوراق",
-        "title_en": "30-Year Treasury Yield Stays Elevated Near 5.2% as Buyback Effort Fails to Soothe Bond Market",
-        "summary": [
-            "سود اوراق قرضه ۳۰ ساله آمریکا حول بر ۵.۲ درصد باقی مانده و مداخلات دولت نتوانسته نگران بازار را برطرف کند.",
-            "صندوق‌های نیمه‌هادی طی سه هفته متوالی شاهد خروج سنگین ۶.۳ میلیارد دلار سرمایه بوده‌اند.",
-            "افزایش نرخ بهره بلندمدت، هزینه تامین مالی شرکت‌های فناوری و پروژه‌های هوش مصنوعی را بالا برده است."
-        ],
-        "full_text": "The 30-year Treasury yield remains near 5.2% despite the federal government's bond-buying plan. Bank of America strategist Michael Hartnett said, \"Panic-driven policy can't drag the 30-year yield below 5%.\" The S&P 500 has fallen 1.9% since Monday. Semiconductor funds have seen $6.3 billion in outflows over three straight weeks. The federal government announced a plan to buy back bonds, but the move isn't calming markets. Bank of America strategist Michael Hartnett has a blunt take on why. He described the expanded buyback program as a form of delayed, unofficial quantitative easing and the newest in a line of \"Bessent puts\" intended to shield U.S. government and AI financing. In his view, panicked policy responses are not enough to force long-term rates down. Why the 30-Year Yield Matters The 30-year Treasury yield is more than just a market data point. Because it helps set the tone for long-term borrowing costs, a sustained level above 5% raises financing costs for the government, corporations, and homebuyers alike. The federal buyback plan was designed to support demand for government bonds, but Hartnett sees it as a stopgap tied to a series of policy backstops that protect government financing and AI-related investment. Until investors see a more convincing shift in borrowing trends, the yield is likely to remain under pressure. When bond yields rise, stocks often stumble, so get the free Always Be Buying E-Book to stay on track What It Means for Investors For investors, the 30-year yield is a key benchmark. When it remains above 5%, it raises financing costs for the government, corporations, and homebuyers alike. This is why the yield matters for markets and the economy. The persistence of a 30-year yield above 5% is a signal that bond investors remain nervous about the government's borrowing needs. Even with a buyback plan in place, the market's reaction shows that policy alone may not be enough to restore confidence. Because the 30-year yield feeds into long-term borrowing costs across the economy, a sustained move above 5% can make it more expensive for the government to issue debt, for companies to fund expansion, and for households to finance homes. That is why investors watch this part of the Treasury market so closely. Market Impact The stock market is showing cracks. Stock funds have seen outflows as investors pull back. Semiconductor funds saw the opposite trend, with $6.3 billion flowing out over three straight weeks, while broader equity funds saw inflows. The S&P 500's slide since Monday reflects those concerns. The $6.3 billion outflow from semiconductor funds over three straight weeks, alongside inflows into broader equity funds, suggests the selling is concentrated in a specific part of the market rather than across all equity funds. Hartnett's reference to \"Bessent puts\" ties the buyback program to a broader set of policy backstops aimed at protecting government financing and AI-related investment. The fact that the 30-year yield remains near 5.2% suggests those backstops have not yet changed the market's mood. The Bottom Line Bond market jitters are a reminder to keep investing, so download the Always Be Buying E-Book today",
-        "impact": "افزایش ریسک سرمایه‌گذاری و ایجاد فشار فروش بر ارزش‌گذاری شرکت‌های غول فناوری.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "briefs",
-        "url": "https://www.briefs.co/news/30-year-treasury-yield-stays-elevated-near-5-2-as-buyback-ef/",
-        "clean_url": "https://www.briefs.co/news/30-year-treasury-yield-stays-elevated-near-5-2-as-buyback-ef",
-        "image": "https://www.briefs.co/wp-content/uploads/2026/08/30-year-treasury-yield-stays-elevated-near-5-2-as-buyback-ef.png",
-        "images": [
-            "https://www.briefs.co/wp-content/uploads/2026/08/30-year-treasury-yield-stays-elevated-near-5-2-as-buyback-ef.png",
-            "https://www.briefs.co/wp-content/plugins/gumlet/assets/images/pixel.png"
-        ],
-        "timestamp": 1787435520.0
-    },
-    {
-        "id": "a0b835911e",
-        "title_fa": "ائتلاف ۱۵۰ شرکت فناوری در یوتا برای تسریع تحویل تجهیزات دفاعی",
-        "title_en": "150 companies form coalition in Utah to get defense technology to troops faster",
-        "summary": [
-            "۱۵۰ شرکت فعال در حوزه فناوری ائتلافی را تشکیل داده‌اند تا فرایند انتقال تجهیزات و فناوری‌های جدید دفاعی به نیروهای نظامی را سرعت ببخشند."
-        ],
-        "full_text": "150 companies form coalition in Utah to get defense technology to troops faster  KSL.com",
-        "impact": "همکاری مستقیم شرکتهای تکنولوژی با بخش دفاعی، روند نوسازی ابزارهای نظامی را سریع‌تر می‌کند.",
-        "tag": "استارتاپ",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "KSL.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0ZNTzlkTFFxNVdGdHpFaF83UlJnNWF3TjhwSVViOUZJdC1WOWRfczQtNnFxT0xkMUZ3aVd2bl8xdTBUU2JJVUpTMGM2OFVsUlVZeUZoalJWNkgzODlPZG9CX2hwZUlfRVRIWDZ2eFBzZnQ0b3NVOWF6eEZEbHZkRER5WG44QXJmczQ3RzgweFR1WTFlTlVISjVCNXRiS1JyWC1UNGZNWkZWYVNIcWtBeFBVSDZTc00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0ZNTzlkTFFxNVdGdHpFaF83UlJnNWF3TjhwSVViOUZJdC1WOWRfczQtNnFxT0xkMUZ3aVd2bl8xdTBUU2JJVUpTMGM2OFVsUlVZeUZoalJWNkgzODlPZG9CX2hwZUlfRVRIWDZ2eFBzZnQ0b3NVOWF6eEZEbHZkRER5WG44QXJmczQ3RzgweFR1WTFlTlVISjVCNXRiS1JyWC1UNGZNWkZWYVNIcWtBeFBVSDZTc00",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787433335.0
-    },
-    {
-        "id": "58fc072bd0",
-        "title_fa": "رونمایی از ایجنت‌های هوش مصنوعی MemeToro برای معاملات خودکار کریپتو",
-        "title_en": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches",
-        "summary": [
-            "پلتفرم MemeToro از ایجنت‌های هوشمند جدیدی برای خودکارسازی معاملات و عرضه میم‌کوین‌ها در بازار ارزهای دیجیتال پرده برداشت."
-        ],
-        "full_text": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches  StreetInsider",
-        "impact": "ورود ایجنت‌های خودکار به معاملات کریپتو نوسانات و سرعت معاملات را در این بازار افزایش می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787432259.0
-    },
-    {
-        "id": "6ba024cd6f",
-        "title_fa": "معرفی Slack Code؛ ابزار کدنویسی مبتنی بر ایجنت‌های هوش مصنوعی",
-        "title_en": "Introducing Slack Code: Agentic Coding for Teams",
-        "summary": [
-            "سیلزفورس ابزار جدید Slack Code را برای کدنویسی تعاملی و گروهی با کمک ایجنت‌های هوشمند در محیط اسلک عرضه کرد."
-        ],
-        "full_text": "Introducing Slack Code: Agentic Coding for Teams  Salesforce",
-        "impact": "ادغام ابزارهای برنامه‌نویسی هوشمند در پلتفرم‌های ارتباطی، سرعت و همکاری تیم‌های نرم‌افزاری را ارتقا می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Salesforce",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSHpTTGdnZ2JUYS01X3Y0Vm1MSkw2eUFvVXRDZGI0U2Flc3pNUHBzSjRkZFZ2ODBybUljd3FHUWxLTE8xa2d4U0MwdENyd2l3MU1MVmRKeTJYSlJCajQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxSHpTTGdnZ2JUYS01X3Y0Vm1MSkw2eUFvVXRDZGI0U2Flc3pNUHBzSjRkZFZ2ODBybUljd3FHUWxLTE8xa2d4U0MwdENyd2l3MU1MVmRKeTJYSlJCajQ0",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787431549.0
     }
 ]
