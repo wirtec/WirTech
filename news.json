@@ -1,5 +1,94 @@
 [
     {
+        "id": "4f69522b8f",
+        "title_fa": "ظهور ابزارهای پویا و جایگزین هوش مصنوعی برای فتوشاپ",
+        "title_en": "New AI Alternatives and Dynamic Tools Transform Photoshop Editing Experience",
+        "summary": [
+            "جایگزین‌های جدید مبتنی بر هوش مصنوعی فرآیند ویرایش تصویر را سریع‌تر و هوشمندتر از همیشه کرده‌اند.",
+            "این ابزارها امکاناتی فراتر از ادیت‌های سنتی را با چند کلیک ساده در اختیار طراحان قرار می‌دهند."
+        ],
+        "full_text": "New AI Alternatives and Dynamic Tools Transform Photoshop Editing Experience  freeyork",
+        "impact": "افزایش تنوع ابزارهای ادیت هوشمند انحصار فتوشاپ را به چالش کشیده و سرعت خلق آثار گرافیکی را بالا می‌برد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "freeyork",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43bGU4b3I5XzlDUUNkb19LN29RZWtiOUVkRmFKYmh5TTktZXlQb0tsenA0aHN6VThmRFBpUUVXYkFkSjVQT2JSeG85RGVNNWZhSUpkaThrU1c0TzdZQVcxd2EySTJ3YzM2ZFFTQmI0Y1Q2M29W?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43bGU4b3I5XzlDUUNkb19LN29RZWtiOUVkRmFKYmh5TTktZXlQb0tsenA0aHN6VThmRFBpUUVXYkFkSjVQT2JSeG85RGVNNWZhSUpkaThrU1c0TzdZQVcxd2EySTJ3YzM2ZFFTQmI0Y1Q2M29W",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788095028.0
+    },
+    {
+        "id": "73d81e8abb",
+        "title_fa": "رقیب مرموز OpenAI لو رفت؛ مدل Ox Alpha ساخت شرکت چینی Z.ai است",
+        "title_en": "Ox Alpha Emerged as a Powerful OpenAI Rival—Then China's Z.ai Was Revealed as Its Creator",
+        "summary": [
+            "مدل هوش مصنوعی قدرتمند Ox Alpha که به عنوان رقیب جدید OpenAI جنجال به پا کرده بود، توسط شرکت چینی Z.ai توسعه یافته است.",
+            "این افشاگری نشان می‌دهد استارتاپ‌های چینی توانایی تولید مدل‌های هوش مصنوعی قدرتمند در سطح جهانی را دارند.",
+            "رقابت میان توسعه‌دهندگان غربی و چینی هوش مصنوعی وارد فاز جدیدی شده است."
+        ],
+        "full_text": "Ox Alpha Emerged as a Powerful OpenAI Rival—Then China's Z.ai Was Revealed as Its Creator  International Business Times",
+        "impact": "تثبیت قدرتمند جایگاه چین در بنچمارک‌های هوش مصنوعی و تشدید رقابت با غول‌های آمریکایی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "International Business Times",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjJpNGZKRzJHM2tlanV1ZFBTRzZDT09faVV1b2ZpYUtaRmUySVJHM1hvdHc4Q1RYNU05WXNDVFNkelFVdUdsejdWQXozeFBqRW1GdV9hN09xcEtCY2ZLZ1JjOGpNZFFsdzgtZmtCMkxSZktZeGdoSVRDSmo1QllzamdacFJQOUlIZFBIVkVNT0lCanVIYXNFOTEyX0s1NjJPRFlicHhYU0FSdG0yYVZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjJpNGZKRzJHM2tlanV1ZFBTRzZDT09faVV1b2ZpYUtaRmUySVJHM1hvdHc4Q1RYNU05WXNDVFNkelFVdUdsejdWQXozeFBqRW1GdV9hN09xcEtCY2ZLZ1JjOGpNZFFsdzgtZmtCMkxSZktZeGdoSVRDSmo1QllzamdacFJQOUlIZFBIVkVNT0lCanVIYXNFOTEyX0s1NjJPRFlicHhYU0FSdG0yYVZZ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788089295.0
+    },
+    {
+        "id": "13908c9d64",
+        "title_fa": "دست‌یابی دانشمندان به تکنیک ساخت لایه‌های فوق‌باریک برای جهش کوانتومی",
+        "title_en": "Scientists unveil technique to build ultra-thin material stacks that promise quantum breakthrough",
+        "summary": [
+            "محققان روش جدیدی برای چیدمان مواد فوق‌باریک توسعه داده‌اند که راه را برای ساخت پردازنده‌های کوانتومی دقیق‌تر هموار می‌کند.",
+            "این دستاورد ساختار سخت‌افزاری کامپیوترهای کوانتومی را پایدارتر و بازدهی آن‌ها را چند برابر می‌کند."
+        ],
+        "full_text": "Scientists unveil technique to build ultra-thin material stacks that promise quantum breakthrough  Technology Org",
+        "impact": "این روش مسیر ساخت سخت‌افزارهای کوانتومی سریع‌تر و تجاری‌تر را هموار خواهد کرد.",
+        "tag": "کوانتوم",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Technology Org",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc01YM0xoNFBERzFEcHNpR1FNLUs2c0plaGVIVGRMVVd1dGxxVUkwT2Mxeks0cFBaVTBSMDRlcE9KdFB0S0R5ZklrbUFrQVB5MFN6YWNUeXpodWRIYU9pUlczRkNvWVlkOHVXMDY1eFc1cXVCWDhvdHZWbzZNWndVdjZGX09oWlJwWnEwMGxWRHg2ZUFEd1ZWWDk3MlQzTjY5TTV0NzM0N0ZYekVrQnRfZHB6THhwVGhVQjdwMGtMbkdTWVoyYVVNOVhUTnV5VFA1dVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc01YM0xoNFBERzFEcHNpR1FNLUs2c0plaGVIVGRMVVd1dGxxVUkwT2Mxeks0cFBaVTBSMDRlcE9KdFB0S0R5ZklrbUFrQVB5MFN6YWNUeXpodWRIYU9pUlczRkNvWVlkOHVXMDY1eFc1cXVCWDhvdHZWbzZNWndVdjZGX09oWlJwWnEwMGxWRHg2ZUFEd1ZWWDk3MlQzTjY5TTV0NzM0N0ZYekVrQnRfZHB6THhwVGhVQjdwMGtMbkdTWVoyYVVNOVhUTnV5VFA1dVE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788087644.0
+    },
+    {
+        "id": "0a02e52849",
+        "title_fa": "ورود هوش مصنوعی به اپل کارپلی با انتشار یک اپلیکیشن بزرگ",
+        "title_en": "AI Invades CarPlay As New Big App Now Available",
+        "summary": [
+            "یک برنامه قدرتمند جدید با اضافه شدن به اپل کارپلی، امکانات هوش مصنوعی را مستقیم به داشبورد خودروها آورده است.",
+            "این توسعه تعامل هوشمند راننده با خودرو و مدیریت کارهای روزمره هنگام رانندگی را بسیار ساده‌تر می‌کند."
+        ],
+        "full_text": "AI Invades CarPlay As New Big App Now Available  autoevolution",
+        "impact": "ارتقای تجربه رانندگی هوشمند و نفوذ عمیق‌تر الگوریتم‌های مولد به سیستم‌های داخل خودرو.",
+        "tag": "خودرو",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmg5cnZRaTZmZFBFUzRsdkk1MlotV0pzc1RHYXlibUtHT1hoRTc0ci1JZVRaQ2RhUVJpTTJ5Q1hBX0ZmRTRkajZ2N2hJa3BBV2N2TjBObUh6S0hxMlUxbVIyZ2NodDZtZlQ1cnZOQnJwUmQ3WWdHVWJXTG5PVExUZGV4blNYU2NERUpxMkR5SHlQM2FqSXFEemh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmg5cnZRaTZmZFBFUzRsdkk1MlotV0pzc1RHYXlibUtHT1hoRTc0ci1JZVRaQ2RhUVJpTTJ5Q1hBX0ZmRTRkajZ2N2hJa3BBV2N2TjBObUh6S0hxMlUxbVIyZ2NodDZtZlQ1cnZOQnJwUmQ3WWdHVWJXTG5PVExUZGV4blNYU2NERUpxMkR5SHlQM2FqSXFEemh3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788085241.0
+    },
+    {
         "id": "5d065728dd",
         "title_fa": "گسترش بیمه هوشمند خودروی لیموناد به نیم کل بازار آمریکا",
         "title_en": "Lemonade’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For Lemonade (LMND)",
@@ -68,6 +157,32 @@
             "https://s.yimg.com/lo/mysterio/api/70dc2a15d09158bd932e7809bef922add4d841b3d1998332c4803d2810892b7d/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-10%2Fcfc80fd0-66db-11ee-affb-d9fc58441a42"
         ],
         "timestamp": 1788070251.0
+    },
+    {
+        "id": "b621bcbbd9",
+        "title_fa": "برگزاری المپیک ربات‌های انسان‌نما در پکن؛ از زمین‌خوردن تا رکوردشکنی",
+        "title_en": "China’s robots race ahead",
+        "summary": [
+            "دومین دوره مسابقات ربات‌های انسان‌نما در پکن با رقابت در دویدن، وزنه‌برداری و کارهای واقعی مثل مرتب‌کردن تخت برگزار شد.",
+            "چین با تبدیل هوش مصنوعی و رباتیک به یک شو جذاب عمومی، سرعت توسعه سخت‌افزارها را به شکلی خیره‌کننده بالا برده است.",
+            "در کنار زمین‌خوردن‌های خنده‌دار و آتش‌گرفتن چند ربات، مهارت‌های کاربردی آن‌ها در اطفای حریق و تحویل بسته پیشرفت ملموسی داشت."
+        ],
+        "full_text": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers’ inboxes on Sunday at 8AM ET. Opt in for The Stepback here. China’s robots race ahead Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. China’s robots race ahead Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. How it started I’ve admitted my fondness for robot fail videos on Stepback before, and let me tell you the World Humanoid Robot Games did not disappoint. The five-day event, which wrapped this week in Beijing, brought high drama, and brought it well. One robot, made by smartphone maker Honor, lost a leg mid-sprint, while others tripped in a flurry of sparks. Another finisher ran straight into a crash mat, bounced off it, and promptly burst into flames. In the weightlifting, one robot lost its balance beneath a modest barbell and toppled inexorably into the judges’ table, arms cartoonishly aloft. Robotic cheerleaders tumbled and stumbled through routines, while a separate bot fell off a platform in circumstances that, had it been human, might have looked suspiciously like it was gawking at the performers. This was only the second World Humanoid Robot Games, though it was already far bigger than the inaugural event last year. Unlike this year, last year’s records were paltry. The winning 100-meter sprint was a glacial 21.50 seconds and the highest standing high jump was just 0.95 meters. In keeping with China’s habit of turning robots into public spectacle — from intricate dances at a Spring Festival Gala to demos at major tech events — both this and last year’s games were staged in Beijing’s National Speed Skating Oval, a former Olympic venue. And a spectacle it was. At most sporting events, contestants losing limbs, careening into walls, catching fire, and regularly being carried away on stretchers — oh, and did I mention catching fire?! — would probably be grounds to stop proceedings. At the Humanoid Robot Games, it was par for the course. Fire aside, the games were unusual in other ways too. Alongside familiar events like sprinting, football, boxing, and weightlifting were more unusual competitions in bed-making, parcel delivery, shelf stacking, clothes folding, and hammering nails. Aptly, there was a firefighting contest too. These less standard offerings spoke to the real purpose of the games: getting robots out of the lab and into the messy real-world environments their makers hope they will ultimately work in. And China is making no secret of wanting to lead the way. How it’s going For all the spectacle and drama, the games show there has been massive progress in robotics in recent years. Records fell, with one humanoid running the 100-meter sprint in 9.39 seconds, beating Usain Bolt’s 2009 world record. Another bot reached 2.88 meters in a standing high jump, nearly half a meter above the human high-jump record that has stood since 1993. Those performances are almost unrecognizable compared to robotics competitions a decade ago, when even the most advanced machines struggled to stay upright. But the games also show how far there is to go before humanoids are actually useful in the real world. The flashy, video-friendly sporting events were impressive, but the more mundane tasks were less thrilling — I don’t see picking up soybeans with tweezers, block-building, or powder-weighing becoming Olympic mainstays anytime soon. While many events required robots to operate autonomously — including gymnastics, football, tug of war, table tennis, and some track events — others allowed for human assistance via teleoperation, albeit with a scoring penalty. The dexterity being displayed certainly points to genuine and impressive hardware improvements, but seems like there is still a long way to go before these machines can operate reliably on their own in places like factories or homes. What happens next Beijing has not yet confirmed a third Humanoid Robot Games, but given the government’s enthusiasm for the industry, it would be surprising to not get another installment. The city has already confirmed another humanoid half-marathon for April, and the country plans to open its first robot-run hotel next year. China was the undisputed champion of the games, and the country looks well placed to stay in top position moving forward — both at future competitions and in the humanoid robot industry as a whole. The medal table was almost entirely a Chinese affair, dominated in particular by AgiBot and Tien Kung, each scooping up more medals than nearly every other competitor combined, excluding the other. In part, that asymmetry reflected the lack of international competition. Although the games were framed as a global affair, 641 of 666 teams were Chinese, domestically representing 157 companies and 200 universities, according to state-run China Daily. While there doesn’t seem to be a public breakdown of entrants, the biggest US humanoid players like Tesla, Boston Dynamics, and Figure were conspicuous by their absence. Nevertheless, the sheer diversity of Chinese institutions represented in Beijing was a show of force, and a sign of how quickly the country’s robotics sector is maturing, even amid growing concerns about circular investment, thriving companies that lack viable products, and a possible humanoid bubble. It’s not clear a stronger US showing at the games would’ve changed much. The US still has an edge in frontier AI and advanced chips, but China has been rapidly closing parts of that gap, while also making embodied AI a strategic national priority. The same cannot be said of Washington, which has for years paid much less attention to robotics and now trails China in nearly every regard, including manufacturing, deployment, and hardware. Some reports even suggest that recent efforts to ban foreign robots, a",
+        "impact": "مسابقات پکن نشان داد چین با سرعت بالا در حال تجاری‌سازی و تست واقعی ربات‌های انسان‌نما است.",
+        "tag": "رباتیک",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+        "clean_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+        "image": "http://www.bing.com/th?id=ONUT.wrYhnltlVtPqou9DH-3qmQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.wrYhnltlVtPqou9DH-3qmQ&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ROB_H_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788066000.0
     },
     {
         "id": "592522fc0d",
@@ -6869,124 +6984,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787482954.0
-    },
-    {
-        "id": "c1971e85f1",
-        "title_fa": "نفوذ چراغ‌خاموش هوش مصنوعی به زندگی روزمره مردم در چین",
-        "title_en": "China’s internet army is quietly embedding AI into everyday lives",
-        "summary": [
-            "غول‌های فناوری چین ابزارهای هوش مصنوعی را بدون جنجال رسانه‌ای وارد اپلیکیشن‌ها و خدمات کاربردی روزمره کرده‌اند.",
-            "این استراتژی باعث شده استفاده از AI برای شهروندان چینی به بخشی طبیعی و ناخودآگاه از زیست دیجیتال تبدیل شود."
-        ],
-        "full_text": "China’s internet army is quietly embedding AI into everyday lives  South China Morning Post",
-        "impact": "تسریع نفوذ عملیاتی هوش مصنوعی در جامعه و افزایش برتری چین در کاربردی‌سازی عمومی این فناوری.",
-        "tag": "هوش مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVNvU1JRYUZzN1VJQmI0cTBFNkNBQlJjNUR6eXlvdzRNQjZlOEVvcXpzMWFiSHpWZS0xQ3FlckY2dk5kTmNXZnpJR2M4eWluMGxzeFFIY2IyWDdDUDZJaUwwYzJ4NldjNHVDTTZyY1pHTGtBUG81d3cweHFPcHFiSzBHbXVIalFpTWVkcVZUZkFxY0JEbC1ULWtPWFY2cXFJM3F4S0tpTU10ZGY2bUJpYTlwUUFfLW5xU1FCXzY1amnSAcABQVVfeXFMTko2OTZLNlgtaENxUVI0MnpmTi1NQ3hLMFAzRHh0VHY0WGltZWlwb0UtcDEtVXhveFpjLTlVNHB6X3lNdlY0ZFNFUE1hRmtqWTQ4ZXpzVHltWU55NnF6SExqR2E4RTQ1c3ZpRXdnWkJEbk5HTmNNVzE4OE45Y095dzZseEZac0JXbmZfa3ExdHctYjhNSmRBMDNkSzlOODVwQWM3TncxNTd1QmQ5UzFKWVBfWjIwckNGdUhPOEtZaGFr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVNvU1JRYUZzN1VJQmI0cTBFNkNBQlJjNUR6eXlvdzRNQjZlOEVvcXpzMWFiSHpWZS0xQ3FlckY2dk5kTmNXZnpJR2M4eWluMGxzeFFIY2IyWDdDUDZJaUwwYzJ4NldjNHVDTTZyY1pHTGtBUG81d3cweHFPcHFiSzBHbXVIalFpTWVkcVZUZkFxY0JEbC1ULWtPWFY2cXFJM3F4S0tpTU10ZGY2bUJpYTlwUUFfLW5xU1FCXzY1amnSAcABQVVfeXFMTko2OTZLNlgtaENxUVI0MnpmTi1NQ3hLMFAzRHh0VHY0WGltZWlwb0UtcDEtVXhveFpjLTlVNHB6X3lNdlY0ZFNFUE1hRmtqWTQ4ZXpzVHltWU55NnF6SExqR2E4RTQ1c3ZpRXdnWkJEbk5HTmNNVzE4OE45Y095dzZseEZac0JXbmZfa3ExdHctYjhNSmRBMDNkSzlOODVwQWM3TncxNTd1QmQ5UzFKWVBfWjIwckNGdUhPOEtZaGFr",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787482806.0
-    },
-    {
-        "id": "729fb1a436",
-        "title_fa": "ورود هوش مصنوعی صنعتی به مرحله اتوماسیون مبتنی بر ایجنت‌ها",
-        "title_en": "Augury’s first appearance in Gartner’s APM Market Guide signals that plant AI is moving toward agent-led automation",
-        "summary": [
-            "حضور شرکت Augury در راهنمای بازار گارتنر، از تغییر مسیر هوش مصنوعی کارخانه‌ای از پایش ساده به اتوماسیون خودکار با ایجنت‌ها خبر می‌دهد.",
-            "ایجنت‌های هوشمند صنعتی اکنون علاوه بر پیش‌بینی خرابی‌ها، تصمیم‌گیری مستمر برای بهینه‌سازی خطوط تولید را بر عهده می‌گیرند.",
-            "این تغییر نشان‌دهنده بلوغ ابزارهای خودمختار در محیط‌های پیچیده صنعتی است."
-        ],
-        "full_text": "Augury’s first appearance in Gartner’s APM Market Guide signals that plant AI is moving toward agent-led automation  MarketScale",
-        "impact": "تسریع در هوشمندسازی کامل خطوط تولید و کاهش توقف‌های ناخواسته در کارخانه‌ها.",
-        "tag": "هوش مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "MarketScale",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFBmSDVvcDRZVmxWLUZldEtrVUN3V29jbUdrT1ltelRjeHNyYUpYNGNuazVmY19NN2w5YjY1S05QdHVQa2hVZ2pnYVlLSmw4MXZ0WThlYUpYbUIwRHdWZGtoN0dTdWhXMnBUc1JEVnRYUzdnRlNRelhLT19wVkJFNzA2OW1vcVRwcndVblJqRHZVaTgwOF9KbXFQS1FIUWloeUpIeWhzYXpuMUNCNHRiRVh6R3h2Z2xwRkR3LU5UMjViUk0wQzRtdHM4bXlSaWFacG53Um9WR0ptZ0lHa1JEUk9mU0pwVVE1cTBrbE9KM2xfZmpKSThRcnlkcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFBmSDVvcDRZVmxWLUZldEtrVUN3V29jbUdrT1ltelRjeHNyYUpYNGNuazVmY19NN2w5YjY1S05QdHVQa2hVZ2pnYVlLSmw4MXZ0WThlYUpYbUIwRHdWZGtoN0dTdWhXMnBUc1JEVnRYUzdnRlNRelhLT19wVkJFNzA2OW1vcVRwcndVblJqRHZVaTgwOF9KbXFQS1FIUWloeUpIeWhzYXpuMUNCNHRiRVh6R3h2Z2xwRkR3LU5UMjViUk0wQzRtdHM4bXlSaWFacG53Um9WR0ptZ0lHa1JEUk9mU0pwVVE1cTBrbE9KM2xfZmpKSThRcnlkcw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787482525.0
-    },
-    {
-        "id": "1a0262c81f",
-        "title_fa": "ثبت مداوم اسکرین‌شات باعث ضعیف شدن حافظه انسان می‌شود",
-        "title_en": "محققان: ثبت عکس و اسکرین‌شات از همه‌چیز می‌تواند به حافظه ما آسیب بزند",
-        "summary": [
-            "پژوهش جدید دانشگاه بینگهمتون روی نزدیک به ۹۰۰ داوطلب نشان می‌دهد اسکرین‌شات گرفتن به حافظه دیداری جزییات آسیب می‌زند.",
-            "افرادی که از تصویر یک شیء اسکرین‌شات می‌گیرند، در مقایسه با کسانی که صرفاً به آن نگاه می‌کنند، جزئیات کمتری را به خاطر می‌آورند.",
-            "مغز با واگذاری مسئولیت نگهداری داده‌ها به گوشی، از تلاش برای ثبت و پردازش عمیق اطلاعات دست می‌کشد."
-        ],
-        "full_text": "محققان: ثبت عکس و اسکرینشات از همهچیز میتواند به حافظه ما آسیب بزند پژوهشگران در هفت آزمایش مجزا روی ۸۹۲ داوطلب دریافتند افراد جزئیات تصاویری را که از آنها اسکرینشات گرفتهاند، کمتر به یاد میآورند. احتمالاً شما هم درحالحاضر هزاران تصویر در گوشی خود دارید که شاید دیگر هرگز نگاهی به آنها نیندازید. اگرچه یکی از دلایل اصلی افراد برای عکاسی، کمک به یادآوری یک تجربه یا رویداد است، پژوهشهای جدید نشان میدهند متوقف شدن برای ثبت یک تصویر سلفی یا عکسبرداری از محیط میتواند به حافظه و روند یادآوری آسیب بزند. پژوهشی که در ژورنال Memory & Cognition منتشر شده، نشان میدهد که ثبت اسکرینشات در هفت آزمایش مجزا بهطور پیوسته حافظه شرکتکنندگان را تضعیف کرده است. «سوفیا فابریزیو»، روانشناس دانشگاه بینگهمتون، درباره نتایج این پژوهش اعلام کرده که دادهها نشان میدهند ما احتمالاً تنها با فشردن یک دکمه، به حافظه خود برای ثبت اطلاعات و تجربیات آسیب میزنیم و این اختلال حتی ممکن است فراتر از چیزی باشد که به نظر میرسد. برای ارزیابی این پدیده، تیم پژوهشی دانشگاه بینگهمتون ۸۹۲ شرکتکننده را در هفت آزمایش گوناگون بررسی کردند. در تمام آزمایشها نتایج یکسان بوده و شرکتکنندگان پس از ثبت تصاویر، عملکرد ضعیفتری در آزمونهای حافظه داشتند. در آزمایش اول، ۴۴ تصویر هنری روی گوشی شرکتکنندگان نمایش داده شد و از آنها خواسته شد از هر تصویر اسکرینشات بگیرند یا صرفاً آن را مشاهده کنند. پس از ۱۰ دقیقه انجام فعالیت متفرقه، آزمونی برگزار شد که افراد باید تصویر اصلی را از بین سه نمونه مشابه تشخیص میدادند. عملکرد شرکتکنندگان در تشخیص تصاویری که از آنها اسکرینشات گرفته بودند، نسبت به تصاویری که صرفاً تماشا کرده بودند، ضعیفتر بود. در آزمایش دوم، پژوهشگران به دنبال این بودند که ببینند آیا مزیت دیگری برای جبران این افت حافظه وجود دارد یا خیر؛ به همین دلیل این پرسش اضافه شد که آیا افراد به یاد میآورند که تصویر را صرفاً دیدهاند یا از آن اسکرینشات گرفتهاند. در این بخش نیز مشخص شد داوطلبان از تصاویری که اسکرینشات گرفته بودند، جزئیات کمتری به خاطر داشتند. در آزمایشهای بعدی، بررسی شد که آیا منابع شناختی آزادشده در بخش دیگری به کار گرفته شدهاند یا خیر؛ شرکتکنندگان مسائل ریاضی یا تسکهای حافظه نامرتبط با تصاویر را حل کردند، اما نشانهای از عملکرد بهتر افرادی که اسکرینشات گرفته بودند دیده نشد. در ادامه، محققان بررسی کردند که اگر به شرکتکنندگان اطلاع داده شود که از تصاویر آزمون حافظه گرفته خواهد شد و فرصت مرور اسکرینشاتها را خواهند داشت چه تغییری صورت خواهد گرفت. به گروهی گفته شد آزمون در ۳۰ دقیقه آینده برگزار میشود و به گروهی دیگر گفته شد یک ماه بعد باید بازگردند؛ درحالیکه از هر دو گروه عملاً ۱۰ دقیقه پس از مشاهده تصاویر آزمون گرفته شد. فرضیه پژوهشگران این بود که گروه با فاصله زمانی طولانیتر اتکای بیشتری به ابزار دیجیتال خواهد کرد، اما تفاوت ناچیزی میان دو گروه ثبت شد و هر دو برای تصاویری که از آنها اسکرینشات گرفته بودند، عملکرد ضعیفتری داشتند. فرضیههای علمی پیرامون آسیب عکاسی به حافظه ایده اینکه عکس گرفتن توانایی یادآوری را کاهش میدهد پدیده جدیدی نیست و این مسئله که دههها تحت عنوان «اثر اختلال ناشی از عکاسی» (Photo-taking Impairment Effect) در پژوهشها مطرح بوده، همچنان دلایل کاملاً روشنی ندارد. دانشمندان چند توضیح احتمالی ارائه دادهاند؛ یک فرضیه بیان میکند که استفاده از دوربین یا گوشی میتواند توجه فرد را تجزیه کند یا او را از وقایع پیرامون جدا سازد، بهطوریکه مغز منابع کمتری را برای کدگذاری و ثبت خاطره آن رویداد اختصاص میدهد. فرضیه اصلی و برجستهتر، پدیدهای تحت عنوان «تخلیه شناختی» (Cognitive Offloading) است؛ به این معنا که مغز در صورت اطمینان از ذخیره شدن یک رویداد در قالب عکس، تلاش و انرژی کمتری را برای به خاطر سپردن آن به کار میگیرد. پژوهشگران نتیجه میگیرند که ثبت اسکرینشات یا عکس با اختلال چشمگیری در عملکرد حافظه همراه است و تنها در شرایط بسیار محدود مزایای اندکی برای یادگیریهای بعدی به همراه دارد. هرچند مطالعات دیگری نشان دادهاند عکاسی در مواردی به حافظه کمک میکند و این حوزه همچنان پیچیدگیهای خود را دارد، اما تضعیف توانایی ذهن در ثبت وقایع مهم زندگی مانند جشنهای عروسی، تولدها و سفرها نگرانکننده خواهد بود.",
-        "impact": "تضعیف حافظه کوتاه‌مدت و فرآیند ثبت خاطرات در اثر اتکای بیش از حد به ابزارهای هوشمند.",
-        "tag": "فناوری",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/interdisciplinary/taking-photos-screenshots-hurts-memory-study",
-        "clean_url": "https://digiato.com/interdisciplinary/taking-photos-screenshots-hurts-memory-study",
-        "image": "http://www.bing.com/th?id=ONUT.V-X_gTG92tejcKoTY5FO2w&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.V-X_gTG92tejcKoTY5FO2w&pid=News",
-            "https://static.digiato.com/digiato/2026/08/taking-picture.jpg",
-            "https://static.digiato.com/digiato/2026/08/taking-picture-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/photography-1024x566.jpg"
-        ],
-        "timestamp": 1787481780.0
-    },
-    {
-        "id": "45bcdf9d5b",
-        "title_fa": "تحولات کریپتو در آسیا: مجوز ۴ ساله ژاپن و بازار جدید بورس کره",
-        "title_en": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News",
-        "summary": [
-            "بورس اوراق بهادار کره (KRX) در ماه نوامبر بازار جدیدی برای اوراق بهادار مبتنی بر دارایی‌های دیجیتال راه‌اندازی می‌کند.",
-            "شرکت Laser Digital نخستین مجوز ۴ ساله فعالیت رمزارزی را از نهادهای regulator ژاپن دریافت کرد که گامی مهم در پذیرش نهادی کریپتو است."
-        ],
-        "full_text": "Asia's weekly TOP10 crypto news: KRX to Launch New‑Securities Market in November, Laser Digital Gets Japan's First 4‑Year Crypto License and Top10 News  Substack",
-        "impact": "افزایش ورود سرمایه نهادی به بازار رمزارز شرق آسیا با شفاف‌تر شدن قوانین.",
-        "tag": "کریپتو",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Substack",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Zc0lZSFN4X29TUC1KNWhIUEVkWnhQc0RjTVdESnVaNmdwcTU1Y1NXcnFrc0lPNmFBakpjU0JVTVZTT0JwNVNiY3ROUk9LWVR2cllLMEpRTUN4S0djQ0s1SkJnMmIwNHNCTTEzSWtQUWczZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Zc0lZSFN4X29TUC1KNWhIUEVkWnhQc0RjTVdESnVaNmdwcTU1Y1NXcnFrc0lPNmFBakpjU0JVTVZTT0JwNVNiY3ROUk9LWVR2cllLMEpRTUN4S0djQ0s1SkJnMmIwNHNCTTEzSWtQUWczZWc",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787480834.0
-    },
-    {
-        "id": "1fa7dc67a3",
-        "title_fa": "آسیب هوش مصنوعی به یادگیری؛ ۲۰ درصد افت نمرات امتحانات حضوری",
-        "title_en": "تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانش‌آموزان را کاهش می‌دهد",
-        "summary": [
-            "تحقیق روی ۲۷ هزار دانش‌آموز نشان می‌دهد استفاده از AI نمره تکالیف را بالا می‌برد، اما عملکرد در آزمون‌های حضوری را ۲۰ درصد کاهش می‌دهد.",
-            "بررسی‌های مغزی MIT اثبات کرده دانشجویا‌نی که برای مقاله‌نویسی از AI کمک می‌گیرند، فعالیت مغزی و تفکر انتقادی کمتری را تجربه می‌کنند.",
-            "اتکای میان‌بر زدن به چت‌بات‌ها زمان حل تمرین را کم می‌کند، اما مانع تثبیت عمیق مفاهیم در حافظه می‌شود."
-        ],
-        "full_text": "تحقیق جدید: استفاده از هوش مصنوعی نمرات کلی دانشآموزان را کاهش میدهد محققان دریافتند استفاده از هوش مصنوعی اگرچه نمرات تکالیف را افزایش میدهد، اما عملکرد امتحانات حضوری را ۲۰ درصد پایین میآورد. پژوهش مشترک محققان دانشگاه استکهلم و دانشگاه هنگکنگ نشان میدهد استفاده دانشآموزان از هوش مصنوعی با وجود بهبود نمرات تکالیف، به افت عملکرد آنها در امتحانات کلاسی منجر میشود. به گزارش اکونومیست، در این پژوهش عملکرد حدود ۲۷ هزار دانشآموز ۱۲ تا ۱۸ ساله (پایههای هفتم تا دوازدهم) در چین بررسی شد. حدود ۸۰ درصد از این دانشآموزان از مدلهای هوش مصنوعی مانند دیپسیک و Doubao بایتدنس استفاده میکردند و ۲۰ درصد باقیمانده که از این ابزارها استفاده نمیکردند، گروه کنترل را تشکیل دادند. یافتههای این مطالعه پس از شش ماه نشان داد نمرات تکالیف خانگی دانشآموزانِ کاربر هوش مصنوعی در تمام دروس ۱۸ درصد افزایش یافته و میانگین زمان انجام تکالیف از ۶۴ دقیقه به ۴۵ دقیقه (حدود ۳۰ درصد کاهش) رسیده است. بااینحال، نمرات امتحانات ماهانه این دانشآموزان ۲۰ درصد کمتر از همکلاسیهایی بود که از هوش مصنوعی استفاده نکرده بودند. تأثیر منفی هوش مصنوعی بر نمرات دانشآموزان بیشترین میزان افت یادگیری در دروس علوم اجتماعی مشاهده شد و پس از آن درسیهای شاخه STEM (علوم پایه، فناوری، مهندسی و ریاضیات) و زبان قرار داشتند. همچنین دانشآموزانی که با وجود استفاده از هوش مصنوعی، زمانی مشابه با سایرین صرف انجام تکالیف میکردند، افت یادگیری کمتری داشتند؛ اگرچه افت عملکرد در آنها نیز ثبت شد. این کاهش نمرات در دانشگاه نیز دیده میشود. یکی از استادان دانشگاه براون پس از آنکه دید میانگین نمرات دانشجویان در امتحان میانترم آنلاین بالای ۹۰ درصد شد، آزمون پایانترم را حضوری برگزار کرد. میانگین نمرات پایانترم این کلاس به ۴۸ درصد کاهش یافت، درحالیکه در طول تاریخ برگزاری این آزمون هرگز میانگین نمرات این درس از ۶۵ درصد کمتر نشده بود. همچنین پژوهش دانشگاه MIT که اوایل سال جاری میلادی منتشر شد، نشان داد فعالیت مغزی دانشجویانی که برای مقالهنویسی از هوش مصنوعی کمک گرفتند، کمتر از سایرین بود. این دانشجویان هنگام یادآوری نقلقولهای مقاله خود با مشکل مواجه شدند و در نگارشهای بعدی بدون هوش مصنوعی نیز فعالیت مغزی آنها در سطح پایینتری باقی ماند. پژوهشهای دیگر نیز استفاده از هوش مصنوعی را با تضعیف تفکر انتقادی و اختلال در حافظه مرتبط دانسته و گزارش دادهاند که درصد نمرات عالی در دورههای دانشگاهی، از زمان عرضه چتجیپیتی حدود ۳۰ درصد افزایش یافته است. یافتههای پژوهش محققان دانشگاه استکهلم و هنگکنگ در ژورنال SSRN منتشر شده است.",
-        "impact": "تغییر احتمالی سیاست‌های آموزشی و بازگشت دانشگاه‌ها به برگزاری امتحانات کاملاً حضوری و بدون ابزار دیجیتال.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/artificial-intelligence/ai-students-homework-exam-scores-study",
-        "clean_url": "https://digiato.com/artificial-intelligence/ai-students-homework-exam-scores-study",
-        "image": "http://www.bing.com/th?id=ONUT.h8kpNBDXyrSSZP8mRJwYuA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.h8kpNBDXyrSSZP8mRJwYuA&pid=News",
-            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۱.jpeg",
-            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۱-644x424.jpeg.webp",
-            "https://static.digiato.com/digiato/2026/08/ai-students-homework-exam-scores-study-۲-1024x576.jpeg"
-        ],
-        "timestamp": 1787479200.0
     }
 ]
