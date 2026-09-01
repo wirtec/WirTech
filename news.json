@@ -1,5 +1,116 @@
 [
     {
+        "id": "eaef5b00c6",
+        "title_fa": "جذب بودجه ۸ میلیون دلاری آزمایشگاه جفرسون برای فناوری شتاب‌دهنده",
+        "title_en": "Jefferson Lab awarded $8M for accelerator technology to enable transmutation",
+        "summary": [
+            "آزمایشگاه ملی جفرسون گرنت ۸ میلیون دلاری برای توسعه فناوری شتاب‌دهنده‌های پیشرفته دریافت کرد.",
+            "تمرکز این پروژه روی تکنولوژی دگرگونی عناصر (Transmutation) برای مدیریت نوآورانه پسماندهای هسته‌ای است."
+        ],
+        "full_text": "Jefferson Lab awarded $8M for accelerator technology to enable transmutation  American Nuclear Society -- ANS",
+        "impact": "ارتقای فناوری شتاب‌دهنده‌ها و دستیابی به راهکارهای تازه در مدیریت پسماندهای هسته‌ای.",
+        "tag": "فناوری",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "American Nuclear Society -- ANS",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVVIaVpPU2JoZ1gwYjdEMWR0blF3bWNCLVI0REhPLVZpRXdPQkMyUm10TkZWc1RFN2EybW13U3RXT2JaZ3JmeFhMV0xaQWdWYk5MNUZ0dkFCcWVXQmNFNXVzM2xueFZJWEYxb1RRd2t6dUhyTTBHTHdMRWgwMy02ZXpvU2ZOTGQxWTlRMzVMQi1lVDQtR0V4MjFRRkJ2ZzY2bnZBYmNFSXhjTUNlOFVkTGRZLVA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVVIaVpPU2JoZ1gwYjdEMWR0blF3bWNCLVI0REhPLVZpRXdPQkMyUm10TkZWc1RFN2EybW13U3RXT2JaZ3JmeFhMV0xaQWdWYk5MNUZ0dkFCcWVXQmNFNXVzM2xueFZJWEYxb1RRd2t6dUhyTTBHTHdMRWgwMy02ZXpvU2ZOTGQxWTlRMzVMQi1lVDQtR0V4MjFRRkJ2ZzY2bnZBYmNFSXhjTUNlOFVkTGRZLVA",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788216723.0
+    },
+    {
+        "id": "04fd1698b7",
+        "title_fa": "رونمایی سربراس از سیستم CS-4 برای پردازش پردازنده‌های غول‌پیکر AI",
+        "title_en": "What Does Cerebras Systems (CBRS) CS 4 Launch Mean For Its AI Push?",
+        "summary": [
+            "شرکت سربراس نسل جدید ابررایانه CS-4 را برای آموزش و اجرای مدل‌های زبانی بزرگ معرفی کرد.",
+            "این سیستم سخت‌افزاری با هدف رقابت مستقیم با تراشه‌های گرافیکی انویدیا و کاهش هزینه‌های پردازش هوش مصنوعی عرضه شده است."
+        ],
+        "full_text": "What Does Cerebras Systems (CBRS) CS 4 Launch Mean For Its AI Push?  Yahoo! Finance Canada",
+        "impact": "تشدید رقابت سخت‌افزاری در بازار تراشه‌های هوش مصنوعی و کاهش انحصار انویدیا.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelZrTWx0dlkwa3k2MXpHWnZfa0ZreEhVNGIxV1gwM083M3BMc3dfRS1qMGlCclFjcENvQ1BfM3pWVE9USUM4VlVsTVRNcnhXaUQ5ejJEMWl1RnNVNTZtN1E3ZWEyaEZTUWxHb25MR2htMktpTnh1OF8xbjVidGowMmExOFc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelZrTWx0dlkwa3k2MXpHWnZfa0ZreEhVNGIxV1gwM083M3BMc3dfRS1qMGlCclFjcENvQ1BfM3pWVE9USUM4VlVsTVRNcnhXaUQ5ejJEMWl1RnNVNTZtN1E3ZWEyaEZTUWxHb25MR2htMktpTnh1OF8xbjVidGowMmExOFc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788215202.0
+    },
+    {
+        "id": "c34a447470",
+        "title_fa": "تلفیق داده‌های جغرافیایی با چت‌بات‌های هوش مصنوعی شهری",
+        "title_en": "Cities are giving their AI chatbots a new dimension: geography",
+        "summary": [
+            "شهرداری‌ها داده‌های مکانی و نقشه‌ای (GIS) را به چت‌بات‌های پاسخگوی خود اضافه می‌کنند.",
+            "این ارتقا باعث می‌شود شهروندان بر اساس موقعیت جغرافیایی دقیق خود، اطلاعات و خدمات دریافت کنند."
+        ],
+        "full_text": "Cities are giving their AI chatbots a new dimension: geography  StateScoop",
+        "impact": "افزایش دقت و کارایی چت‌بات‌های ارائه خدمات شهری به شهروندان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "StateScoop",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HYnNya2d6UzBYNkJsWUt0czNjQnBWMktJX3dENVJFUWV4YURBcU1mcGtOQWgtY0xQZUNITHl2NWpBTlh3UVd0S1RJZEM1YWhDc3BwNjdiOGpiTHlIVTZ0cGRpTXlYdHQyckRERGVFaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HYnNya2d6UzBYNkJsWUt0czNjQnBWMktJX3dENVJFUWV4YURBcU1mcGtOQWgtY0xQZUNITHl2NWpBTlh3UVd0S1RJZEM1YWhDc3BwNjdiOGpiTHlIVTZ0cGRpTXlYdHQyckRERGVFaw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788213222.0
+    },
+    {
+        "id": "00eb340b93",
+        "title_fa": "همکاری AMD و Humain برای عرضه پلتفرم هوش مصنوعی در عربستان",
+        "title_en": "Humain, AMD launch AI platform for Saudi businesses",
+        "summary": [
+            "شرکت AMD با همکاری استارتاپ Humain پلتفرم پردازش هوش مصنوعی ویژه‌ای را برای شرکت‌های عربستانی راه‌اندازی کرد.",
+            "این پروژه به شرکت‌های منطقه اجازه می‌دهد زیرساخت‌های پردازشی خود را سریع‌تر مدرن‌سازی کنند."
+        ],
+        "full_text": "Humain, AMD launch AI platform for Saudi businesses  Muslim Network TV",
+        "impact": "تسریع بومی‌سازی زیرساخت‌های هوش مصنوعی در سازمان‌ها و کسب‌وکارهای خاورمیانه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Muslim Network TV",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUxxcGZGeXZZTlFReHhFRm5FZ2FlbDRSbTNQdk9pN1VtTGtUMEF2Y0l3aUxWOWFUQzU3SzlWSnMxX1M0YTBNU2xyZjA4NjJ4c1RONzA0aFY1Q011RkRJREp4MUlrLUdfQmRUYm5kSXlhWk0yaEgxMjBVajBFUjVNVk5QMDNjR2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUxxcGZGeXZZTlFReHhFRm5FZ2FlbDRSbTNQdk9pN1VtTGtUMEF2Y0l3aUxWOWFUQzU3SzlWSnMxX1M0YTBNU2xyZjA4NjJ4c1RONzA0aFY1Q011RkRJREp4MUlrLUdfQmRUYm5kSXlhWk0yaEgxMjBVajBFUjVNVk5QMDNjR2s",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788211937.0
+    },
+    {
+        "id": "50d0ea4709",
+        "title_fa": "تحلیل ریسک‌های سرمایه‌گذاری در سهام تجاری VICI Properties",
+        "title_en": "Don't Double Down On VICI Properties: The Dealer Has Blackjack",
+        "summary": [
+            "تحلیل‌گران بازار سرمایه نسبت به خرید بیشتر سهام صندوق املاک VICI هشدار می‌دهند.",
+            "چالش‌های موجود در بازار املاک تجاری، بازدهی خریداران این سهام را با ابهام روبه‌رو کرده است."
+        ],
+        "full_text": "I have been critical of VICI Properties (VICI) for at least a year. It wasnât always that way. A few years ago, I sold some puts on VICI. Some of them got assigned to me. So, I waited Analystâs Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Seeking Alpha's Disclosure:Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+        "impact": "افزایش احتیاط سرمایه‌گذاران خرد در قبال سهام مربوط به املاک تجاری و REIT ها.",
+        "tag": "تحلیل مالی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4941888-dont-double-down-on-vici-properties-the-dealer-has-blackjack",
+        "clean_url": "https://seekingalpha.com/article/4941888-dont-double-down-on-vici-properties-the-dealer-has-blackjack",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w1536",
+        "images": [
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w1536",
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w630"
+        ],
+        "timestamp": 1788210180.0
+    },
+    {
         "id": "b04fade927",
         "title_fa": "ورود ابزارهای جدید هوش مصنوعی به بازار املاک و مستغلات",
         "title_en": "KW partnership adds new AI tools for agents; eXp’s Nexus expands",
@@ -108,6 +219,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788201972.0
+    },
+    {
+        "id": "50bf079cbe",
+        "title_fa": "برنامه ایران برای صادرات زیرساخت و تجربیات سایبری به عراق",
+        "title_en": "وزیر ارتباطات: ایران آماده انتقال تجربیات سایبری خود به کشورهای منطقه است",
+        "summary": [
+            "وزارت ارتباطات ایران برای انتقال تجربیات مقابله با تهدیدات سایبری و آموزش نیروهای فنی عراق اعلام آمادگی کرد.",
+            "شرکت ارتباطات زیرساخت ایران توافق‌هایی را برای صادرات فناوری‌های بومی و همکاری فنی با همتای عراقی پیش برده است.",
+            "ارائه خدمات ارتباطی تسهیل‌شده و سیم‌کارت به گردشگران خارجی و زائران در دستور کار دو کشور قرار گرفته است."
+        ],
+        "full_text": "وزیر ارتباطات و فناوری اطلاعات از آمادگی ایران برای انتقال تجربیات خود در زمینه مقابله با تهدیدات سایبری به عراق و دیگر کشورهای منطقه خبر داد و بر ضرورت همکاری مشترک برای ارتقای امنیت سایبری تأکید کرد. «ستار هاشمی»، وزیر ارتباطات و فناوری اطلاعات، در نشست خبری مشترک با «مصطفی جبار سند»، وزیر ارتباطات عراق، گفت ایران آمادگی دارد تجربیات خود در زمینه مقابله با تهدیدات سایبری را در قالب همکاری و همافزایی با عراق و کشورهای همسایه به اشتراک بگذارد. هاشمی با اشاره به گسترده بودن تهدیدات سایبری علیه ایران گفت امنیت سایبری حوزهای نیست که هر کشور بتواند بهتنهایی آن را مدیریت کند و برای مقابله با این تهدیدات، همکاری میان کشورهای منطقه ضروری است. وزیر ارتباطات ادامه داد: «در زمینه امنیت سایبری باید گفت این موضوع به تنهایی برای هر کشوری قابل ساماندهی نیست و باید با کشور دوست و برادر عراق در این خصوص همکاری نزدیکی داشته باشیم.» آموزش نیروهای عراقی و همکاری در زیرساخت هاشمی همچنین به توافقهای انجامشده میان دو کشور در حوزه آموزش و زیرساخت اشاره کرد و گفت ایران میتواند نیروهای عراقی را از طریق پژوهشگاه فناوری اطلاعات آموزش دهد. او افزود همکاریهای دو کشور در حوزه ICT متمرکز است و شرکت ارتباطات زیرساخت ایران نیز با همتای عراقی خود برای صادرات فناوریهای در اختیار ایران به شرکت زیرساخت عراق به توافق رسیده است. وزیر ارتباطات همچنین به موضوع ارائه خدمات ارتباطی به گردشگران خارجی اشاره کرد و گفت حدود دو هفته پیش جلسهای با حضور وزیر امور خارجه و وزیر گردشگری در استان قدس رضوی برگزار شده و در آن، موضوع دسترسی گردشگران خارجی و زائران به سیمکارت و خدمات ارتباطی داخلی مورد بررسی قرار گرفته است. تلاش برای افزایش همکاریهای فناوری ایران و عراق هاشمی در بخش دیگری از صحبتهای خود بر ضرورت استفاده از ظرفیتهای موجود میان دو کشور تأکید کرد و گفت: «ظرفیتهایی که میان دو کشور هست را باید از بالقوه به بالفعل تبدیل کنیم.» او افزود ارتقای سطح همکاریهای فناوری ایران و عراق میتواند در آینده به همکاری گستردهتر ایران با کشورهای اسلامی در حوزه اقتصاد دیجیتال نیز منجر شود. وزیر ارتباطات عراق: «تکنولوژی ایران امن و بومی است» «مصطفی جبار سند»، وزیر ارتباطات عراق، با اشاره به تحولات منطقه و تجربههای مشترک دو کشور، از انگیزه جدی عراق برای توسعه همکاریهای فناورانه با ایران خبر داد. سند گفت عراق علاقهمند است با ایران در حوزه فناوری وارد شراکت و همکاری شود و بخشی از شکافهای موجود در این حوزه را از طریق همکاری با ایران جبران کند. او با اشاره به زمینههای مورد علاقه عراق برای همکاری با ایران افزود اپلیکیشنهای بومی و خدماترسان، پیامرسانها، اپلیکیشنهای مرتبط با تراکنشهای مالی و همچنین توسعه زیرساختهای فناوری، از جمله حوزههایی هستند که ظرفیت همکاری میان دو کشور را دارند. وزیر ارتباطات عراق همچنین امنیت سایبری را یکی دیگر از محورهای مورد توجه این کشور دانست و گفت زیرساختهای فناوری، اپلیکیشنهای بومی و خدمات دیجیتال و امنیت سایبری، از جمله حوزههایی هستند که عراق به دنبال توسعه همکاری با ایران در آنهاست. وزیر ارتباطات عراق درباره انتخاب ایران برای همکاری در حوزه فناوری گفت: «با هر کشور دیگری که بتوانیم همکاری خواهیم کرد اما تکنولوژی ایران امن و بومی است.» او همچنین با اشاره به پیشرفت ایران در حوزه فناوری گفت ایران در زمینه زیرساخت، نرمافزار و سختافزار ارتباطات پیشرفتهای چشمگیری داشته و عراق امکان همکاری با شرکتهای فناوری ایرانی در این حوزهها را دارد. در پایان این مراسم نیز از تمبر مشترک ایران و عراق با طرح «منشور کوروش و لوح حمورابی» رونمایی شد.",
+        "impact": "گسترش بازار صادراتی محصولات بومی امنیت سایبری و زیرساخت‌های ارتباطی ایران در منطقه.",
+        "tag": "امنیت سایبری",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/tech/iran-and-iraq-will-cooperate-in-cyber-security",
+        "clean_url": "https://digiato.com/tech/iran-and-iraq-will-cooperate-in-cyber-security",
+        "image": "http://www.bing.com/th?id=ONUT.fZcF8viVZ5GQX0OrpI5mKg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.fZcF8viVZ5GQX0OrpI5mKg&pid=News",
+            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-13-34.jpg",
+            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-13-34-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-24-01.jpg"
+        ],
+        "timestamp": 1788189180.0
     },
     {
         "id": "226a1e288d",
@@ -247,6 +384,58 @@
             "https://wimg.sedaily.com/news/cms/2026/08/31/news-p.v1.20260830.92a8d90c8017432ba0ec2f991667ecec_P1.png"
         ],
         "timestamp": 1788170400.0
+    },
+    {
+        "id": "1902f5d2cb",
+        "title_fa": "رونمایی از «بازار استودیو»؛ ساخت نرم‌افزار بدون کدنویسی و با پرامپت",
+        "title_en": "ساخت رایگان سایت، اپلیکیشن و بازی فقط با پرامپت و بدون کدنویسی با بازار استودیو",
+        "summary": [
+            "بازار استودیو به کاربران اجازه می‌دهد فقط با توصیف متنی، سایت، اپلیکیشن یا بازی دلخواه خود را بسازند.",
+            "کاربران می‌توانند خروجی را به‌صورت تدریجی با پرامپت‌های جدید ویرایش کنند و ظاهر یا منطق برنامه را تغییر دهند.",
+            "تحویل کامل کد خروجی به کاربر، وابستگی به این پلتفرم را از بین می‌برد و امکان توسعه مستقل را فراهم می‌سازد."
+        ],
+        "full_text": "ساخت رایگان سایت، اپلیکیشن و بازی فقط با پرامپت و بدون کدنویسی با بازار استودیو در چنین ابزارهایی، مسئله فقط تولید اولین نسخه نیست؛ امکان اصلاح، دسترسی به خروجی و ادامه مسیر توسعه نیز اهمیت دارد. ساخت یک محصول دیجیتال تا همین چند سال پیش به دانش فنی، زمان زیاد و همکاری با یک تیم برنامهنویسی نیاز داشت. حتی ساخت سایت، اپلیکیشن یا بازی هم میتوانست به فرآیندی طولانی و پرهزینه تبدیل شود؛ به خصوص برای کسانی که برنامهنویسی بلد نبودند. امروز هوش مصنوعی این مسیر را تغییر داده است؛ بازار استودیو یک ابزار ساخت محصول دیجیتال است که به کاربران کمک میکند نیاز خود را به زبان ساده توضیح دهند و آن را به یک محصول دیجیتال قابل استفاده و قابل توسعه تبدیل کنند. در این فرآیند، نیازی به نوشتن کد یا آشنایی با ابزارهای تخصصی توسعه محصول نیست؛ به زبان ساده، بازار استودیو امکان ساخت اپلیکیشن، بازی، سایت و لندینگ را بدون کدنویسی و فقط با پرامپت فراهم میکند. ساخت محصول با پرامپت؛ از نسخه اولیه تا تغییرات بعدی فرایند کار در بازار استودیو به ساخت یک خروجی اولیه محدود نیست. پس از تولید محصول، کاربر میتواند با پرامپتهای جدید از ابزار بخواهد ظاهر یا محتوای آن را تغییر دهد، بخش جدیدی اضافه کند یا قابلیتهای موجود را اصلاح کند. برای نمونه، کاربری که قصد ساخت یک لندینگ پیج را دارد میتواند در ابتدا نوع صفحه، بخشهای اصلی، محتوا و ظاهر موردنظرش را توضیح دهد. اگر نتیجه اولیه به تغییر نیاز داشته باشد، لازم نیست پروژه از ابتدا ساخته شود. تغییر رنگبندی، اصلاح متن، جابهجایی بخشها یا اضافه کردن قابلیتهای جدید را میتوان در مراحل بعدی تعریف کرد. همین الگو برای ساخت سایت، اپلیکیشن و بازی نیز در نظر گرفته شده است. امکانات محصول، ساختار صفحات و منطق موردنیاز در قالب توضیح کاربر مشخص میشوند و امکان اصلاح تدریجی خروجی وجود دارد. این شیوه به خصوص برای ساخت نمونه اولیه، بررسی یک ایده یا شروع پروژهای که هنوز جزئیات آن نهایی نشده، کاربرد دارد. بازار استودیو همچنین اعلام کرده است که کد خروجی پروژه در اختیار کاربر قرار میگیرد. در نتیجه، محصول ساخته شده الزاما به محیط این سرویس محدود نمیماند و امکان ادامه توسعه فنی آن نیز وجود دارد. کاربر میتواند پروژه را روی زیرساخت بازار یا سرور موردنظر خود منتشر کند و در صورت نیاز، توسعه محصول را از مسیرهای دیگر ادامه دهد. شروع رایگان و سریع با بازار استودیو یکی از مزیتهای بازار استودیو، امکان شروع رایگان کار است. هر کاربر بعد از ثبت نام میتواند رایگان و بدون پرداخت هزینه، ساخت محصول خود را آغاز کند. این پرامپتها فقط برای تعریف اولیه پروژه استفاده نمیشوند و امکان استفاده از آنها برای اعمال تغییرات بعدی نیز وجود دارد. به این ترتیب، کاربر میتواند ابتدا یک نسخه اولیه بسازد، نتیجه را بررسی کند و سپس در چند مرحله آن را به خروجی موردنظر نزدیکتر کند. شروع رایگان و سریع، بازار استودیو را به گزینهای مناسب برای افرادی تبدیل میکند که میخواهند نیاز خود را بدون درگیر شدن با جزئیات فنی، سریعتر به یک محصول دیجیتال واقعی تبدیل کنند. ساخت سایت و لندینگ بدون ورود به فرایند کدنویسی ساخت سایت، لندینگ، اپلیکیشن و بازی معمولا به طراحی رابط کاربری، آمادهسازی محتوا و توسعه فنی نیاز دارد. بازار استودیو این مراحل را سادهتر میکند و به کاربر اجازه میدهد محصول موردنظر خود را تنها با توضیح خواستهها و قابلیتهای موردنیازش بسازد. کاربر میتواند ساختار صفحه، محتوای موردنیاز، رنگبندی و قابلیتهای آن را در قالب یک درخواست متنی مشخص کند و سپس خروجی را مرحلهبهمرحله تغییر دهد. در اپلیکیشن و بازی نیز امکانات، منطق عملکرد و ویژگیهای محصول از همین مسیر تعریف میشوند. این ویژگی، بازار استودیو را تنها به مخاطبانی که هیچ تجربه فنی ندارند محدود نمیکند. توسعهدهندگان نیز میتوانند از ابزارهای مبتنی بر پرامپت برای ساخت نسخه اولیه، آزمایش ایدهها یا کاهش بخشی از کارهای تکراری ابتدای توسعه استفاده کنند. کاربرانی که میخواهند بدون ورود به جزئیات فنی توسعه وب، ایده خود را سریعتر به یک صفحه قابل استفاده تبدیل کنند، میتوانند از بازار استودیو برای ساخت سایت و لندینگ بدون کدنویسی استفاده کنند و سپس با پرامپتهای بعدی، ساختار، محتوا و ظاهر پروژه را تغییر دهند. بهاینترتیب، ساخت سایت، لندینگ، اپلیکیشن و بازی فقط با پرامپت، مسیر رسیدن از نیاز اولیه به یک محصول قابل استفاده، قابلانتشار و قابلتوسعه را کوتاهتر میکند. از ساخت اپلیکیشن و بازی تا امکان انتشار در کافهبازار بازار استودیو علاوه بر سایت و لندینگ، امکان ساخت اپلیکیشن و بازی را نیز در اختیار کاربران قرار میدهد. در این حالت نیز تعریف محصول با توضیح متنی آغاز میشود و کاربر میتواند قابلیتها، ظاهر و منطق موردنیاز را مشخص کند. ساخت اپلیکیشن زمانی کامل میشود که محصول بتواند در اختیار کاربران واقعی قرار بگیرد. بازار استودیو در کنار ساخت محصول، امکان ثبت درخواست انتشار اپ در کافهبازار را نیز به صورت مستقیم در بازار استودیو فراهم کرده است. پس از ثبت درخواست، اگر اپلیکیشن ساخته شده با قوانین و ضوابط کافهبازار مطابقت داشته باشد، روی این پلتفرم منتشر میشود. به این ترتیب، مسیر بازار استودیو فقط به ساخت محصول محدود نمیشود و میتواند تا عرضه آن به کاربران ادامه پیدا کند. بازار استودیو به دنبال کوتاهتر کردن مسیر ایده تا محصول است رواج ابزارهای مبتنی بر هوش مصنوعی، مفهوم توسعه بدون کدنویسی را وارد مرحله تازهای کرده است. در این مدل، کاربر به جای مشخص کردن تمام جزئیات در محیطهای فنی، بخشی از خواستههای خود را مستقیما با زبان طبیعی بیان میکند و ابزار وظیفه تبدیل این درخواستها به محصول را برعهده میگیرد. بازار استودیو نیز تلاش کرده این مدل را برای چند دسته مختلف از محصولات دیجیتال، از سایت و لندینگ گرفته تا اپلیکیشن و بازی، در یک محیط ارائه کند. مخاطب آن میتواند فردی بدون دانش برنامهنویسی باشد که میخواهد ایده خود را آزمایش کند یا توسعهدهندهای که قصد دارد سریعتر به یک نمونه اولیه برسد. در چنین ابزارهایی، مسئله فقط تولید اولین نسخه نیست؛ امکان اصلاح، دسترسی به خروجی و ادامه مسیر توسعه نیز اهمیت دارد. بازار استودیو با فراهم کردن تغییر محصول از طریق پرامپت، ارائه کد خروجی و امکان انتخاب زیرساخت انتشار، تلاش کرده این مراحل را در امتداد یکدیگر قرار دهد. برای ارزیابی عملی این شیوه، کاربران پس از ثبتنام میتوانند به صورت رایگان ساخت یک پروژه را بدون هزینه اولیه شروع کنند. کاربران علاقهمند میتوانند برای شروع رایگان با مراجعه به بازار استودیو و استفاده از پرامپتهای رایگان، روند ساخت یک محصول دیجیتال با این ابزار را بررسی کنند.",
+        "impact": "کاهش چشمگیر هزینه و زمان ساخت نمونه اولیه محصولات دیجیتال برای صاحبان ایده و کسب‌وکارها.",
+        "tag": "ابزار AI",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/iran-technology-news/create-websites-apps-games-with-cafebazaar-studio",
+        "clean_url": "https://digiato.com/iran-technology-news/create-websites-apps-games-with-cafebazaar-studio",
+        "image": "http://www.bing.com/th?id=ONUT.o9sAKQu4CUqjYZ9tWGbUhg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.o9sAKQu4CUqjYZ9tWGbUhg&pid=News",
+            "https://static.digiato.com/digiato/2026/08/cafebazaar-studio1.jpg",
+            "https://static.digiato.com/digiato/2026/08/cafebazaar-studio1.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/cafebazaar-studio2.jpg"
+        ],
+        "timestamp": 1788169800.0
+    },
+    {
+        "id": "9f94b134f4",
+        "title_fa": "ورود مستقیم اسپیس‌ایکس به ساخت توربین برق برای دیتاسنترهای xAI",
+        "title_en": "اسپیس‌ایکس حالا می‌خواهد حتی پره توربین دیتاسنترها را خودش تولید کند",
+        "summary": [
+            "گلوگاه اصلی توسعه دیتاسنترهای هوش مصنوعی، تأمین سریع برق و صف‌های طولانی اتصال به شبکه سراسری است.",
+            "ایلان ماسک برای دور زدن زمان انتظار ۶۰ تا ۹۰ هفته‌ای ساخت پره توربین، تولید این قطعات بحرانی را به اسپیس‌ایکس می‌سپارد.",
+            "این استراتژی جدید زمان تحویل ژنراتورهای گازسوز را ۱۸ ماه کاهش داده و روند توسعه دیتاسنتر Colossus و پروژه xAI را سریع‌تر می‌کند."
+        ],
+        "full_text": "اسپیسایکس حالا میخواهد حتی پره توربین دیتاسنترها را خودش تولید کند افزایش تقاضا برای توربینها باعث ایجاد گلوگاه تولید شده است. به همین دلیل اسپیسایکس ایلان ماسک میخواهد خودش قطعات لازم را بسازد. اسپیسایکس برای افزایش تولید برق ژنراتورهای گازسوز موردنیاز در دیتاسنترهای هوش مصنوعی ایلان ماسک، قصد دارد تولید پرههای توربین را بهصورت داخلی انجام دهد. ایلان ماسک میگوید این استراتژی جدید میتواند زمان تحویل ژنراتورها را تا ۱۸ ماه کاهش دهد. تأمین برق در آمریکا به یکی از عوامل محدودکننده راهاندازی سریع دیتاسنترهای هوش مصنوعی تبدیل شده است. به همین دلیل، پروژههای مختلف برای دور زدن صفهای طولانی اتصال به شبکه برق، به ژنراتورهای توربین گاز طبیعی قابلحمل روی آوردهاند. افزایش تقاضا برای این توربینها نیز باعث شده ماسک اعلام کند اسپیسایکس تولید پرههای توربین را به داخل شرکت منتقل میکند. ماسک از نخستین افرادی بود که از ژنراتورهای برق «قابلحمل» برای تأمین انرژی دیتاسنتر استفاده کرد. این کار به او کمک کرد دیتاسنتر Colossus در ممفیس، تنسی، در مدت کوتاهی وارد مدار شود. البته این ژنراتورها تجهیزات کوچکی نیستند و هر واحد تقریباً به اندازه یک کانتینر است و ممکن است یک یا دو کانتینر دیگر برای قطعات و تجهیزات جانبی موردنیاز آن لازم باشد؛ مخزن سوخت جداگانه نیز موردنیاز است. چند ماه بعد، OpenAI نیز اعلام کرد در نخستین دیتاسنتر Stargate خود از توربینها برای تأمین برق استفاده خواهد کرد. این موج ناگهانی تقاضا به کمبود موتورهای جت برای اپراتورهای دیتاسنتر منجر شده است. تولیدکنندگان موتور پیش از رونق هوش مصنوعی برای چنین افزایشی آماده نبودند و صنعت هوانوردی تجاری نیز از قبل بهدلیل مشکلات زنجیره تأمین و طراحی موتور با کمبودهایی مواجه بود. اسپیسایکس به فرایند تولید توربین دیتاسنترها سرعت میبخشد تولید پرههای توربین اکنون یکی از بزرگترین گلوگاههای تولید موتورهای جت محسوب میشود. ساخت این قطعات دشوار است و تولید یک مجموعه از ابتدا تا انتها گاهی ۶۰ تا ۹۰ هفته طول میکشد. این قطعات باید نیروها و دماهای بسیار شدید، بهویژه در بخش مرکزی موتور، را تحمل کنند و به همین دلیل ساختشان به دقت بالایی نیاز دارد. به نظر میرسد ماسک قصد دارد با تولید داخلی این قطعات در اسپیسایکس، بخشی از این گلوگاه را برطرف کند. او میگوید این اقدام میتواند زمان تحویل را ۱۸ ماه کاهش دهد و به xAI کمک کند بهجای انتظار در صفی که احتمالاً تا سال ۲۰۳۰ ادامه دارد، ژنراتورهای جدید را بسیار سریعتر دریافت کند. اسپیسایکس و تسلا انرژی خورشیدی را کنار نگذاشتهاند، اما ماسک میگوید گاز طبیعی همچنان برای تکمیل و راهاندازی اولیه انرژی خورشیدی طی چند سال آینده موردنیاز خواهد بود. در همین راستا، با افزایش تقاضا برای ژنراتورهای توربینی دیتاسنترها، به نظر میرسد او آماده سرمایهگذاری در بخشهایی از زنجیره تولید توربین است. همچنین طبق گزارشها، ماسک بیسروصدا ناوگانی از توربینهای گازسوز و دیزلی قابلحمل را نیز با هزینهای حدود یک میلیارد دلار خریداری کرده است. هنوز مشخص نیست ماسک دقیقاً چگونه میخواهد پرههای توربین را تولید کند، زیرا فرایند ساخت آنها بسیار پیچیده است. بااینحال، حل مسائل بهظاهر «غیرممکن» برای او تازگی ندارد و سابقه تسلا و اسپیسایکس نشان داده است که از ورود به چنین چالشهایی ابایی ندارد.",
+        "impact": "کاهش ۱۸ ماهه زمان انتظار راه‌اندازی دیتاسنترهای پرمصرف هوش مصنوعی با دور زدن صف‌های شبکه برق.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/business/elon-musk-spacex-to-make-turbine-blades-for-datacenters",
+        "clean_url": "https://digiato.com/business/elon-musk-spacex-to-make-turbine-blades-for-datacenters",
+        "image": "http://www.bing.com/th?id=ONUT.5cm00t9X6w3rDbHZ8_SAyQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.5cm00t9X6w3rDbHZ8_SAyQ&pid=News",
+            "https://static.digiato.com/digiato/2026/08/elon-musk-spacex-turbine-blades.jpg",
+            "https://static.digiato.com/digiato/2026/08/elon-musk-spacex-turbine-blades-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/08/musk_spacex_foundry_gas_turbine_blades_p_1788109154517-1024x683.webp"
+        ],
+        "timestamp": 1788166620.0
     },
     {
         "id": "d4ce9e257b",
@@ -6808,185 +6997,5 @@
             "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/2026-08/GettyImages-2212663489_cropped.jpg?VersionId=p.N7ZvMzlUZWlg0NfihOBvAHo.vPPfIu&h=266da715&itok=IrD6SQnx"
         ],
         "timestamp": 1787551200.0
-    },
-    {
-        "id": "2303a1085f",
-        "title_fa": "پیشرفت مهم پروژه RHEADHY در فناوری سوخت‌گیری هیدروژنی خودروهای سنگین",
-        "title_en": "Hydrogen Refueling Solutions : RHEADHY PROJECT ACHIEVES NEW BREAKTHROUGH IN HYDROGEN REFUELING TECHNOLOGY FOR HEAVY-DUTY MOBILITY",
-        "summary": [
-            "پروژه RHEADHY به فناوری جدیدی دست یافته که سرعت و کارایی سوخت‌گیری هیدروژنی را برای وسایل نقلیه سنگین به‌طور چشمگیری افزایش می‌دهد.",
-            "این دستاورد حل یکی از گلوگاه‌های اصلی در تجاری‌سازی کامیون‌ها و اتوبوس‌های هیدروژنی یعنی زمان طولانی سوخت‌گیری را هدف قرار داده است."
-        ],
-        "full_text": "Hydrogen Refueling Solutions : RHEADHY PROJECT ACHIEVES NEW BREAKTHROUGH IN HYDROGEN REFUELING TECHNOLOGY FOR HEAVY-DUTY MOBILITY  marketscreener.com",
-        "impact": "تسریع زیرساختی برای هموارکردن مسیر جابه‌جایی سنگین جاده‌ای به سمت انرژی‌های پاک.",
-        "tag": "فناوری_سبز",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9fckNTZURnX2kweTE2T3QzaFlGdlFwd0xYTDRHYWlFdnFONUdoUzlaN0M3YmZqcjNpZ3NhcnRVd3A3RjU1UGlSX3doR09TUXFnbUl0WmRZbG9lRFVUcmx1OUpJdXZOc3lWU2ljTkNIYUotdXdKdW1NaVgxaWMtZnFrdUFpM29QdWpfdE40T1hsOF9tRUs5ZWVZQjBTR3FVaE1ySHRWaGJWWF9xYTFqWWNFdXhhOUxMNGROd0ppSVdhdTdwY3hNSkFCY21GY1VSUWxuSmVqaHY3UU5HN3poVw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTG9fckNTZURnX2kweTE2T3QzaFlGdlFwd0xYTDRHYWlFdnFONUdoUzlaN0M3YmZqcjNpZ3NhcnRVd3A3RjU1UGlSX3doR09TUXFnbUl0WmRZbG9lRFVUcmx1OUpJdXZOc3lWU2ljTkNIYUotdXdKdW1NaVgxaWMtZnFrdUFpM29QdWpfdE40T1hsOF9tRUs5ZWVZQjBTR3FVaE1ySHRWaGJWWF9xYTFqWWNFdXhhOUxMNGROd0ppSVdhdTdwY3hNSkFCY21GY1VSUWxuSmVqaHY3UU5HN3poVw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787549464.0
-    },
-    {
-        "id": "fccbb8d557",
-        "title_fa": "ارتقای تجربه هواداران مسابقات تنیس یو اس اوپن با هوش مصنوعی IBM",
-        "title_en": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open",
-        "summary": [
-            "آی‌بی‌ام و فدراسیون تنیس آمریکا برای مسابقات US Open 2026 از ابزارهای جدید هوش مصنوعی رونمایی کردند.",
-            "این فناوری‌ها تحلیل‌های لحظه‌ای، آمار پیشرفته و محتوای شخصی‌سازی‌شده را در اختیار تماشاگران قرار می‌دهند."
-        ],
-        "full_text": "IBM and the USTA Introduce New AI-Powered Fan Experiences for 2026 US Open  Yahoo Finance Singapore",
-        "impact": "شخصی‌سازی تجربه تماشای مسابقات ورزشی و افزایش تعامل هواداران با تحلیل‌های پیشرفته داده.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21FQXdJdEVPbVNfcnFsQnNkeVhVRF9mZ1NWd0JIeHQ5Xy1sYjExcDFXTEZ4YWdnRGZCZTNheVNaNWxFR3gxOTV0VWFmdHBCXzc2alFBazI0cTBSdHQtRlRUOTdUdEk5NjBKcHItOEN2NW9DUnNMX2F0TXl0VGQ5MEVtRm8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21FQXdJdEVPbVNfcnFsQnNkeVhVRF9mZ1NWd0JIeHQ5Xy1sYjExcDFXTEZ4YWdnRGZCZTNheVNaNWxFR3gxOTV0VWFmdHBCXzc2alFBazI0cTBSdHQtRlRUOTdUdEk5NjBKcHItOEN2NW9DUnNMX2F0TXl0VGQ5MEVtRm8",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787544060.0
-    },
-    {
-        "id": "f380c061fa",
-        "title_fa": "ورود لیدی گاگا به حوزه مراقبت از پوست با تحلیل‌های هوش مصنوعی",
-        "title_en": "AI, Skin Samples, and Beauty: Michael Polansky and Lady Gaga Chase the Next Breakthrough in Skincare",
-        "summary": [
-            "مایکل پولانسکی و لیدی گاگا با ترکیب نمونه‌برداری پوستی و الگوریتم‌های هوش مصنوعی به دنبال ایجاد تحول در تولید محصولات زیبایی هستند.",
-            "این پروژه تلاش دارد با تحلیل داده‌های بیولوژیکی، فرمولاسیون‌های کاملاً شخصی‌سازی‌شده برای سلامت پوست ارائه دهد."
-        ],
-        "full_text": "AI, Skin Samples, and Beauty: Michael Polansky and Lady Gaga Chase the Next Breakthrough in Skincare  inc.com",
-        "impact": "تغییر الگوی صنعت محصولات زیبایی از روش‌های سنتی به سمت فرمولاسیون‌های داده‌محور و اختصاصی.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "inc.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEJqM0dwSEhqR29YZWJmVDFjSngtaTR0QkM3NTdGUmNHR0hUd3hjelBZUXB2Yy1QWlVFaEpCdWoySjBjSFVBQmEyWUJINHVGZVlwQ2pQWE9JOTBwOHVZRjc4SlVGUWIxY184a2VreFBHbVJ4eklVVGpoU3Z1UTAzVS1NZ1BqUEllVUJ0OGZuUjlYSGFhdDFpUW9HamJkWWpTUVhxWmZJY21GdWs1VlFNaVcwakp1LU5ieGFfS3BDMDZjZWNxUHV0MjJPSWJmTHZmRGRrYzZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEJqM0dwSEhqR29YZWJmVDFjSngtaTR0QkM3NTdGUmNHR0hUd3hjelBZUXB2Yy1QWlVFaEpCdWoySjBjSFVBQmEyWUJINHVGZVlwQ2pQWE9JOTBwOHVZRjc4SlVGUWIxY184a2VreFBHbVJ4eklVVGpoU3Z1UTAzVS1NZ1BqUEllVUJ0OGZuUjlYSGFhdDFpUW9HamJkWWpTUVhxWmZJY21GdWs1VlFNaVcwakp1LU5ieGFfS3BDMDZjZWNxUHV0MjJPSWJmTHZmRGRrYzZ3",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787540400.0
-    },
-    {
-        "id": "e69d31df66",
-        "title_fa": "ادغام گسترده ابزارهای هوش مصنوعی در برنامه‌های درسی دانشگاهی",
-        "title_en": "University makes changes across multiple schools, integrates AI",
-        "summary": [
-            "دانشگاه تکساس با به‌روزرسانی ساختار آموزشی خود، فناوری‌های هوش مصنوعی را در دانشکده‌های مختلف ادغام می‌کند.",
-            "این طرح برنامه‌های درسی را طوری تغییر می‌دهد که دانشجویان رشته‌های گوناگون کاربرد عملی هوش مصنوعی را یاد بگیرند."
-        ],
-        "full_text": "University makes changes across multiple schools, integrates AI  The Daily Texan",
-        "impact": "ارتقای مهارت‌های دیجیتال دانشجویان و آماده‌سازی نیروی کار آینده برای بازار کار مبتنی بر هوش مصنوعی.",
-        "tag": "آموزش",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "The Daily Texan",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlMRzJFQ2xCaUFpcjlkNUszSk9MSjg4ejlTN3Y2dXVXczBEbjBCNnRMUVRyaElObFVkVEszOElDQm1UYVZRNXV5TzBWSFdGdlE1Z0JkZDc2NTdsSTJxSHFNZnJGQkVzNGtPbFJsM3hKaHdVZjN0MTd2czFoaTFHdG9EZnpJbVJOODRkdFFpTjZNaVBWQmpuZ1VNeFhPeEtXeVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlMRzJFQ2xCaUFpcjlkNUszSk9MSjg4ejlTN3Y2dXVXczBEbjBCNnRMUVRyaElObFVkVEszOElDQm1UYVZRNXV5TzBWSFdGdlE1Z0JkZDc2NTdsSTJxSHFNZnJGQkVzNGtPbFJsM3hKaHdVZjN0MTd2czFoaTFHdG9EZnpJbVJOODRkdFFpTjZNaVBWQmpuZ1VNeFhPeEtXeVE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787539899.0
-    },
-    {
-        "id": "e8442d07ef",
-        "title_fa": "برگزاری رویداد AIMX 2026 سنگاپور برای شتاب‌دهی به پیاده‌سازی AI",
-        "title_en": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations",
-        "summary": [
-            "رویداد AIMX 2026 سنگاپور با هدف تقویت همکاری‌های بین‌المللی و تجاری‌سازی نوآوری‌های هوش مصنوعی برگزار می‌شود.",
-            "تمرکز اصلی این نشست بر اتصال استارتاپ‌های پیشرو به سرمایه‌گذاران جهانی و به کارگیری عملی AI در صنایع است."
-        ],
-        "full_text": "AIMX Singapore 2026 Accelerates AI Deployment Through Catalysing Industry Innovation and Advancing Global Collaborations  PR Newswire",
-        "impact": "تثبیت موقعیت سنگاپور به عنوان مرکز اصلی جذب سرمایه‌گذاری و توسعه هوش مصنوعی در آسیا.",
-        "tag": "رویداد",
-        "urgency": 5,
-        "sentiment": 0.65,
-        "source": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRlJYeks1MVk1ZVpPVVFhMWR4aUgxcTkwZUk1d2M3ZnhGbFdJejZYNFdRS1RfZGlPLUJtbS1hMWFjb1dYQkFJSkVCM1R2QVZwYUxWdUNTTDR3TUNjQ1p2TUJ0bzc3aG9JWWVybUt3MHdoZDlzT2FJLTRxVTAxaFZyV29qM04xMEI3bXN2M2tnbkpnMFNUYkVtLTVvQWhJMXI2bEdOS2hBWEdiMmxFU0c2UDV0bFdSSy1Lb3ZhcmFLV0hjUDRvcE9HT2dhMEdyd3hpTWRVWURGRFRvb1RNc1lqWHktNE9jVWZTUFFYOTVzcWdvVTN5TzhvelhtdVNWZlRvdU9oWkxDMl9VTngzcGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRlJYeks1MVk1ZVpPVVFhMWR4aUgxcTkwZUk1d2M3ZnhGbFdJejZYNFdRS1RfZGlPLUJtbS1hMWFjb1dYQkFJSkVCM1R2QVZwYUxWdUNTTDR3TUNjQ1p2TUJ0bzc3aG9JWWVybUt3MHdoZDlzT2FJLTRxVTAxaFZyV29qM04xMEI3bXN2M2tnbkpnMFNUYkVtLTVvQWhJMXI2bEdOS2hBWEdiMmxFU0c2UDV0bFdSSy1Lb3ZhcmFLV0hjUDRvcE9HT2dhMEdyd3hpTWRVWURGRFRvb1RNc1lqWHktNE9jVWZTUFFYOTVzcWdvVTN5TzhvelhtdVNWZlRvdU9oWkxDMl9VTngzcGc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787536800.0
-    },
-    {
-        "id": "b363e3c313",
-        "title_fa": "شناسایی هویت یکی از قربانیان ۱۱ سپتامبر با تبارشناسی ژنتیکی",
-        "title_en": "9/11 victim identified using first-of-its-kind genetic genealogy technique - ABC News",
-        "summary": [
-            "پزشکی قانونی با به کارگیری روش جدید تبارشناسی ژنتیکی موفق به شناسایی هویت یکی دیگر از قربانیان حادثه ۱۱ سپتامبر شد.",
-            "این فناوری پیشرفته استخراج و تحلیل داده‌های ژنتیکی از نمونه‌های قدیمی و بسیار آسیب‌دیده را ممکن ساخته است."
-        ],
-        "full_text": "9/11 victim identified using first-of-its-kind genetic genealogy technique  ABC News - Breaking News, Latest News and Videos",
-        "impact": "تحول بزرگ در پزشکی قانونی و امکان حل پرونده‌های حقوقی و جنایی قدیمی به کمک پردازش داده‌های دی‌ان‌ای.",
-        "tag": "بیوتکنولوژی",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRRR3N0dVN2TGF5RHFWeDFvVnVoWUdoVXZad3ZvWEpYek1DNjZlNUZVSXg3MzlUWXZnMXkzR3hTNHlOQ0FSdUFtaXoyc3hjaXlSMjQ2RUtSbENwZU1CbEFYbEs1bDZoekowcHpFTXdGTkRBb3lGemZoR1FFUU8zVGFzMGVyQmtPUmMtQ0F3N3I5NGJBTXdRNmZFbm3SAaIBQVVfeXFMTWZhbk0xZWppLWwyb2gzV3VER1dkaThwLUJEZXdLR1ZvNkxlajVuU295SWp2WHcwUkpPYmRueG92ei1ORXhzdmh1YzVETHdObWV2UEZwa21mdy1fNlQyOUJtWDQ3MC1oeENYcUNCV3hvTGhkTTdQdmIzb3dMVWxRVUtOY05OWmo4Z2xSbkpTVzZMU0FXSUdBM19TQnVCbG9PUUpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRRR3N0dVN2TGF5RHFWeDFvVnVoWUdoVXZad3ZvWEpYek1DNjZlNUZVSXg3MzlUWXZnMXkzR3hTNHlOQ0FSdUFtaXoyc3hjaXlSMjQ2RUtSbENwZU1CbEFYbEs1bDZoekowcHpFTXdGTkRBb3lGemZoR1FFUU8zVGFzMGVyQmtPUmMtQ0F3N3I5NGJBTXdRNmZFbm3SAaIBQVVfeXFMTWZhbk0xZWppLWwyb2gzV3VER1dkaThwLUJEZXdLR1ZvNkxlajVuU295SWp2WHcwUkpPYmRueG92ei1ORXhzdmh1YzVETHdObWV2UEZwa21mdy1fNlQyOUJtWDQ3MC1oeENYcUNCV3hvTGhkTTdQdmIzb3dMVWxRVUtOY05OWmo4Z2xSbkpTVzZMU0FXSUdBM19TQnVCbG9PUUpn",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787536306.0
-    },
-    {
-        "id": "aff2571990",
-        "title_fa": "عرضه درگاه هوش مصنوعی A10 Networks برای مدیریت ترافیک",
-        "title_en": "A10 Networks (ATEN) Launches AI Gateway As Fair Value Stays In Focus",
-        "summary": [
-            "شرکت A10 Networks ابزار جدید AI Gateway را برای بهبود امنیت و مدیریت بارهای کاری سنگین هوش مصنوعی معرفی کرد.",
-            "این اقدام بخشی از استراتژی شرکت برای تثبیت ارزش بازار و گسترش سهم خود در زیرساخت‌های ابری است."
-        ],
-        "full_text": "A10 Networks (ATEN) Launches AI Gateway As Fair Value Stays In Focus  simplywall.st",
-        "impact": "این درگاه بازدهی و امنیت زیرساخت‌های پردازشی را برای سازمان‌های توسعه‌دهنده خدمات AI تسهیل می‌کند.",
-        "tag": "شبکه و امنیت",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUd5WWJqdnVTZFdFa2tGZlZtV3FDaDZrX2tCbVBnTWI4NzBpZ3JkNVdzbU1SZFdOVkE4c1ZvN19temxGdUJKN3NQdWhZTlJ1UjZBZHNlTDZiT1pXUEIyTjZFVG1nSHVpZzkxemR2VXJVZy0zcnRramFVeC1fTjhfWEJjcTBUREw3bkZIS3NGLW1FaUNVcnM3amlLNWVzeVVxT3BORGhvb2NScXB6Rm9uV09jT2hNckZBNFRCY2RTWDZYTUdaN2RPOdIBzgFBVV95cUxQVG1LYUF1eUdhWU0yZG5aX2ZIR2tzMXhFSjYweGZXc2VhU2ZzdnFzZV9vWjctZmQ5VEttYlRpamlsZF9BSC14MWJ4WGhweEFJdzAyX3RUVm9CQ2tZdk51QlY1R2tCZWE0R2JMeFl1ZXhpaE1CUUExTUd5VDdXSHR0ODRTZ2dXUU9Fc1l5V1RkRFZJeVpnNE8wenp4Y3B6VHNRU3Zpb2JHY0QzR1ByOU04SXlrVFBwZ1F5azVjOWNTS3ctMnM1eDF0OHdtcEZfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZUd5WWJqdnVTZFdFa2tGZlZtV3FDaDZrX2tCbVBnTWI4NzBpZ3JkNVdzbU1SZFdOVkE4c1ZvN19temxGdUJKN3NQdWhZTlJ1UjZBZHNlTDZiT1pXUEIyTjZFVG1nSHVpZzkxemR2VXJVZy0zcnRramFVeC1fTjhfWEJjcTBUREw3bkZIS3NGLW1FaUNVcnM3amlLNWVzeVVxT3BORGhvb2NScXB6Rm9uV09jT2hNckZBNFRCY2RTWDZYTUdaN2RPOdIBzgFBVV95cUxQVG1LYUF1eUdhWU0yZG5aX2ZIR2tzMXhFSjYweGZXc2VhU2ZzdnFzZV9vWjctZmQ5VEttYlRpamlsZF9BSC14MWJ4WGhweEFJdzAyX3RUVm9CQ2tZdk51QlY1R2tCZWE0R2JMeFl1ZXhpaE1CUUExTUd5VDdXSHR0ODRTZ2dXUU9Fc1l5V1RkRFZJeVpnNE8wenp4Y3B6VHNRU3Zpb2JHY0QzR1ByOU04SXlrVFBwZ1F5azVjOWNTS3ctMnM1eDF0OHdtcEZfQQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787535751.0
-    },
-    {
-        "id": "9dc8634e98",
-        "title_fa": "ابزار جدید هوش مصنوعی برای پیش‌بینی بازار مسکن با دقت ۹۲ درصد",
-        "title_en": "The AI in Real Estate Tool That Could Make You Rich — Or Replace Your Job",
-        "summary": [
-            "استارتاپ QuantEstate پلتفرم جدیدی به نام ProphecyAI معرفی کرده که تغییرات بازار املاک را با دقت باورنکردنی ۹۲ درصد پیش‌بینی می‌کند.",
-            "این ابزار تحلیل متکی بر تجربه و شهود انسانی را کنار زده و نحوه تصمیم‌گیری سرمایه‌گذاران را کاملاً تغییر می‌دهد.",
-            "دقت بالای این پلتفرم باعث ایجاد هیجان برای سرمایه‌گذاران و نگران شدن تحلیل‌گران سنتی بازار مسکن شده است."
-        ],
-        "full_text": "The AI in Real Estate Tool That Could Make You Rich — Or Replace Your Job “`html It’s a big claim, isn’t it? An AI that can predict real estate market shifts with 92% accuracy. For anyone in the business of buying, selling, or investing in property, that number alone is enough to make you sit up and take notice. But for the human analysts who’ve spent decades honing their craft, it’s a headline that likely sends a shiver down their spine. A groundbreaking report, published just recently on August 23, 2026, details how a new platform called ‘ProphecyAI’ from QuantEstate Solutions is doing exactly that, and it’s frankly turning the world of real estate investment on its head. This isn’t just about efficiency; it’s about a fundamental shift in how decisions are made, and it’s fueling an intense, often heated, debate about the future of human expertise in a field that has historically relied so heavily on intuition, local knowledge, and good old-fashioned gut feelings. The implications of such a tool for AI in real estate are enormous, touching every corner of the industry from individual homeowners trying to time a sale to institutional investors managing multi-billion-dollar portfolios. We’re talking about a potential gold rush for those who can leverage this technology effectively, and a precarious future for those who can’t adapt. The buzz online is palpable, fueled by the staggering claims of accuracy and the sheer financial upside. It’s a topic charged with emotion, impacting not just investment strategies but potentially the very livelihoods of countless professionals. So, let’s unpack this. What exactly is ProphecyAI, how does it work, and what does its emergence mean for everyone involved in real estate? 1. ProphecyAI’s Unprecedented Accuracy: A New Benchmark Let’s start with the headline figure: 92% accuracy. In any predictive model, that’s an astonishing number, but in the notoriously complex and often irrational world of real estate, it’s nothing short of revolutionary. Traditional market analysis, while often sophisticated, has always contended with a multitude of unpredictable variables: economic shifts, interest rate fluctuations, local demographic changes, even global events. Human analysts are brilliant at synthesizing disparate data points, but they’re inherently limited by cognitive biases and the sheer volume of information they can process. ProphecyAI, developed by QuantEstate Solutions, seems to have cracked the code. Its algorithms apparently ingest and analyze vast datasets that go far beyond what any human team could manage. Think about it: not just housing prices and sales volumes, but also employment rates, migration patterns, infrastructure development plans, social media sentiment, local permit applications, even satellite imagery analysis of urban growth. By identifying subtle patterns and correlations invisible to the human eye, ProphecyAI can reportedly pinpoint optimal property acquisitions and predict market upturns or downturns with a precision that has left many industry veterans speechless. This isn’t just an incremental improvement; it’s a quantum leap. 2. The Shockwaves Across the Industry: Giants Reassess When a report like this drops, especially one with such bold claims and verifiable results (as the August 23, 2026, publication suggests), it doesn’t just make ripples; it creates tsunamis. Traditional real estate giants, the titans of investment firms, and long-established brokerage houses are all scrambling. Their internal strategy meetings, I imagine, are a flurry of urgent discussions. The old ways of doing business, while profitable for decades, now seem sluggish and potentially outdated in comparison. This isn’t just about adopting new tools; it’s about a fundamental re-evaluation of their entire operational model. For these established players, the choice is stark: adapt or risk being left behind. We’re already seeing them pour resources into understanding and integrating similar AI capabilities, whether through partnerships, acquisitions, or frantic in-house development. The competition to harness these predictive powers is fierce because the financial stakes are incredibly high. Missing out on a 92% accurate prediction means potentially leaving billions on the table or, worse, making a costly misstep that an AI could have foreseen. It’s a wake-up call that the future of AI in real estate isn’t some distant concept; it’s here, now, and demanding immediate action. 3. The Debate: Humans vs. AI Analysts This is where the emotional temperature really rises. The online debate surrounding ProphecyAI isn’t just about technology; it’s about jobs, livelihoods, and the very definition of expertise. On one side, you have the tech evangelists and early adopters, touting the undeniable efficiency and accuracy of AI. They argue that AI isn’t replacing humans, but augmenting them, freeing up analysts to focus on higher-level strategic thinking, client relationships, and the nuanced, qualitative aspects that still require a human touch. On the other side, you have the seasoned human analysts, many of whom have built impressive careers on their market insights and predictive abilities. For them, ProphecyAI isn’t an augmentation; it’s a direct threat. How do you compete with 92% accuracy? What value can you offer when a machine can identify opportunities and risks with such precision? This isn’t just an abstract concern; it’s a very real anxiety about job security and the perceived devaluation of their hard-won experience. The truth, as always, probably lies somewhere in the middle, but the intensity of this debate shows just how deeply this technology is shaking the foundations of the industry. 4. Monetization Potential: A Gold Rush for Tech and Investors It’s no surprise that a tool with this kind of predictive power has immense monetization potential. The high-CPC niches of real estate, investing, and mortgages are already incredibly competitive, but a verif",
-        "impact": "حذف تدریجی تحلیل‌گران سنتی املاک و الگوریتمی شدن سرمایه‌گذاری در مسکن.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "The Tech Edvocate",
-        "url": "https://www.thetechedvocate.org/the-ai-in-real-estate-tool-that-could-make-you-rich-or-replace-your-job/",
-        "clean_url": "https://www.thetechedvocate.org/the-ai-in-real-estate-tool-that-could-make-you-rich-or-replace-your-job",
-        "image": "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191.jpg",
-        "images": [
-            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191.jpg",
-            "https://www.thetechedvocate.org/wp-content/uploads/2018/01/TELogoWhiteWaves3.jpg",
-            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1787553215191-660x400.jpg",
-            "https://www.thetechedvocate.org/wp-content/uploads/2026/08/featured-image-1785831812996-660x400.jpg"
-        ],
-        "timestamp": 1787529600.0
     }
 ]
