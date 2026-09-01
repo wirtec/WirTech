@@ -1,5 +1,141 @@
 [
     {
+        "id": "851c03424e",
+        "title_fa": "هشدار دادگاه آمریکا درباره خطاهای هوش مصنوعی در اسناد قضایی",
+        "title_en": "Judge's release of order with AI errors is 'pretty serious matter,' 5th Circuit says",
+        "summary": [
+            "انتشار رای دادگاه حاوی اشتباهات فاحش هوش مصنوعی با واکنشی تند از سوی دادگاه استیناف حوزه پنجم مواجه شد.",
+            "قاضی پرونده بدون بررسی نهایی، متن تولیدشده توسط مدل‌های زبانی را وارد اسناد رسمی دادگاه کرده بود."
+        ],
+        "full_text": "Judge's release of order with AI errors is 'pretty serious matter,' 5th Circuit says  ABA Journal",
+        "impact": "این اتفاق فشارها را برای تدوین مقررات سخت‌گیرانه‌تر و ممنوعیت استفاده بدون نظارت از هوش مصنوعی در سیستم قضایی افزایش داد.",
+        "tag": "هوش مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ABA Journal",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGpRV1RnN3VTS0lGZE9fYVhIRHMzUnF4ekNUdm5XSHRybHBmeUMxWVZNa3lXWDVpb0hkdG9QMTdNWW5LcTV5X2lEYTMzRzUxTmpnS2NGZVBuSEtnV1puNTRYYnVzOEc4akR6d0QzM0kxT3h3VnJoakMwNDF6bHlzbW5zYVBEdFVzWjZ4anZrYnNxd0JDdjk0SlFWNE5iN1AzdE5NSGdYOWE1U0lTY0tQWjd6MEduZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGpRV1RnN3VTS0lGZE9fYVhIRHMzUnF4ekNUdm5XSHRybHBmeUMxWVZNa3lXWDVpb0hkdG9QMTdNWW5LcTV5X2lEYTMzRzUxTmpnS2NGZVBuSEtnV1puNTRYYnVzOEc4akR6d0QzM0kxT3h3VnJoakMwNDF6bHlzbW5zYVBEdFVzWjZ4anZrYnNxd0JDdjk0SlFWNE5iN1AzdE5NSGdYOWE1U0lTY0tQWjd6MEduZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788274920.0
+    },
+    {
+        "id": "97e5dd7c90",
+        "title_fa": "بازی پیش‌بینی کریپتو؛ تقابل تریدرها با هوش مصنوعی روی بلاکچین",
+        "title_en": "Gate AI and XYO Launch Onchain Crypto Prediction Game Pitting Traders Against AI",
+        "summary": [
+            "گیت AI و XYO پلتفرمی آن‌چاین راه‌اندازی کرده‌اند که قدرت الگوریتم‌ها را در برابر تحلیگران انسانی به چالش می‌کشد.",
+            "معامله‌گران می‌توانند روی پیش‌بینی‌های قیمت با هوش مصنوعی رقابت کنند و پاداش بلاکچینی بگیرند."
+        ],
+        "full_text": "Gate AI and XYO Launch Onchain Crypto Prediction Game Pitting Traders Against AI  Yahoo Finance",
+        "impact": "ادغام ابزارهای تحلیلی هوش مصنوعی با بازارهای پیش‌بینی آن‌چاین، مدل‌های معامله‌گری خرد را دستخوش تغییر می‌کند.",
+        "tag": "هوش مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDVBOVJET1pRZnVJNGFMZXdBNE9QOHNDWkVKckxLdVR3VTkwYjlVOThIbHBGUXExb0ZqLS1HSTd0bV9jX0MycmM0SXZsSUVLQ2hOYk9ZaUFWTTczWnVTZmRDTW5DZlNnNjVBRjIwNGtvQkVRSFNMaUFZcW9GMWJJQ01JczZUYnFSQXZrTHd5OHBWSU5leVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDVBOVJET1pRZnVJNGFMZXdBNE9QOHNDWkVKckxLdVR3VTkwYjlVOThIbHBGUXExb0ZqLS1HSTd0bV9jX0MycmM0SXZsSUVLQ2hOYk9ZaUFWTTczWnVTZmRDTW5DZlNnNjVBRjIwNGtvQkVRSFNMaUFZcW9GMWJJQ01JczZUYnFSQXZrTHd5OHBWSU5leVE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788269003.0
+    },
+    {
+        "id": "e8e89a58de",
+        "title_fa": "سپتامبر پرجنجال موبایل؛ از آیفون تا گوشی‌های تاشوی جدید",
+        "title_en": "Get ready for a really busy month of smartphones",
+        "summary": [
+            "نمایشگاه IFA برلین و رویداد سپتامبر اپل، بازار موبایل را وارد متراکم‌ترین ماه سال کرده‌اند.",
+            "شیائومی و تکنو با معرفی کانسپت‌های تاشو و بدون حاشیه قصد دارند سهم بازار اپل را هدف بگیرند.",
+            "اپل احتمالاً معرفی آیفون‌های استاندارد را به بهار آینده موکول کرده و امسال روی مدل‌های پرو و گزینه‌های تاشو تمرکز می‌کند."
+        ],
+        "full_text": "We’re not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We’re expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that’s only the beginning of what promises to be an exceptionally busy month for smartphone launches. Get ready for a really busy month of smartphones Xiaomi, Apple, Huawei, and more are all launching flagship phones this month. Get ready for a really busy month of smartphones Xiaomi, Apple, Huawei, and more are all launching flagship phones this month. For the decade I’ve worked in the industry, tech journalists have always spoken in hushed tones about the dreaded “Techtember,” when just about every tech company on the planet seems to be in unspoken agreement that it’s time to launch new products in time for the holiday buying season. (It’s followed, in particularly packed years, by Techtober too). In the last few years the pressure has lessened a little, the release calendar stretching out into neighboring months. But in 2026 Techtember is back with a vengeance, especially when it comes to phones. It always starts with IFA. Europe’s biggest tech trade show attracts over 200,000 visitors and global manufacturers from across tech. IFA doesn’t have as many phone launches as it did a decade ago, when the likes of Sony, Samsung, and LG would routinely launch flagships at the show, but there’s still plenty on the way this week. Tecno has teased a bezelless concept phone, which it says it’ll be bringing to the show. TCL usually brings an array of E Ink-esque Nxtpaper phones to show, so I’d hope to see some at its press conference. There’s even an outside chance of a whole new foldable: Xiaomi is attending IFA for the first time ever, just a week after it teased the upcoming Xiaomi 18 Fold and promised the phone a launch in early September. Its September 3rd press conference would certainly make sense for that. Then there’s Apple. The company won’t be at IFA, but it has already announced a September 9th event, where we expect it to launch new iPhones. Rumor has it that it’s splitting its launch up in an act of solidarity with overworked phone reviewers (I wish), delaying the regular iPhone 18 to next spring and sticking to the Pros this month. Still, the long-awaited arrival of the first foldable iPhone should be enough to keep us busy. But that’s far from all that’s coming. Android Headlines reckons at least 20 phones will launch this month, and that might be a conservative estimate. Huawei will launch its latest trifold, the Mate XT 2, in China on September 7th, and perhaps the Mate 90 lineup too. Xiaomi will follow up the 18 Fold with the 18 Pro lineup later in the month. Vivo has confirmed its flagship X500 series will also arrive in September, and Honor has done the same for its Magic 9 flagships. Oppo’s Find X10 line has been heavily tipped to arrive in September too, though thankfully some suggest it might slip to the following month. Even OnePlus is expected to get in on the action: its OnePlus 16 rumored to release in September too — though not in the US or Europe. Why the sudden glut? I blame Qualcomm. It used to launch its flagship Snapdragon chips in December, but that launch date has steadily moved forward, in part to give manufacturers time to ship new products ahead of lucrative holiday sales seasons, both in China and abroad. So this year it’s holding its annual Snapdragon Summit from September 22nd to 24th, when it’s likely to reveal the Snapdragon 8 Elite Gen 6. Promptly after that, we can expect a rush of Android manufacturers announcing phones powered by the new silicon. With RAMageddon in full swing, the jury’s still out on how appealing these launches will be. Outside of Samsung’s fun Galaxy Z Fold 8, a lot of this year’s biggest phones have been rehashes of 2025 models with a price hike and a chipset bump — and occasionally not even that. At least we’ll have more foldables to be excited about, and hopefully a couple of manufacturers have another surprise or two in store. A month chock-full of phones, that I can do. But if we’re about to get a Techtember full of iterative updates that cost more, without delivering anything special? Wake me up when it’s Techtober.",
+        "impact": "رقابت فشرده غول‌های فناوری در این ماه، مسیر بازار موبایل و قیمت‌گذاری پرچمداران را برای سال جدید میلادی تعیین می‌کند.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+        "clean_url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25642174/247288_Phone_Buying_Guides_2B_CVirginia.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200",
+        "images": [
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25642174/247288_Phone_Buying_Guides_2B_CVirginia.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613&w=1200",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25642174/247288_Phone_Buying_Guides_2B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DOM_BLURPLE-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788267600.0
+    },
+    {
+        "id": "d08d5a3c31",
+        "title_fa": "راه‌اندازی مرکز NAIRR برای تقویت زیرساخت هوش مصنوعی آمریکا",
+        "title_en": "Strengthening America’s AI Ecosystem with the Launch of the NSF NAIRR Operations Center",
+        "summary": [
+            "دانشگاه کالیفرنیا سان‌دیگو مرکز جدیدی را برای مدیریت منابع ملی تحقیقات هوش مصنوعی افتتاح کرد.",
+            "این مرکز دسترسی پژوهشگران به توان محاسباتی سنگین و داده‌های استاندارد را آسان‌تر می‌کند."
+        ],
+        "full_text": "Strengthening America’s AI Ecosystem with the Launch of the NSF NAIRR Operations Center  UC San Diego Today",
+        "impact": "متمرکز کردن زیرساخت‌های محاسباتی، سرعت توسعه مدل‌های بومی و تحقیقات ملی هوش مصنوعی در آمریکا را جهش می‌دهد.",
+        "tag": "هوش مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "UC San Diego Today",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2xYYXZCSTdCOGJ2WW5ENXl2OFN5MkNJa0RValY2ZzZhU1pRMWs1VjlQVVpBemU5dUZTRmFtTXluakpqb3ZmbWc5amNqWHZvWEY5emhCTGx0NFFNMm5BQWJoWDBDTmFTT2dzNEp1Z0pMU1hYc09lcVpxYzd2Y3VxeGpvV3BMNGVfdHZFVGRQQm5IUURuN1V6Z0tya1I0ZzVrUUxKeU9SS2tDanZtWlF6anhZQzVtUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2xYYXZCSTdCOGJ2WW5ENXl2OFN5MkNJa0RValY2ZzZhU1pRMWs1VjlQVVpBemU5dUZTRmFtTXluakpqb3ZmbWc5amNqWHZvWEY5emhCTGx0NFFNMm5BQWJoWDBDTmFTT2dzNEp1Z0pMU1hYc09lcVpxYzd2Y3VxeGpvV3BMNGVfdHZFVGRQQm5IUURuN1V6Z0tya1I0ZzVrUUxKeU9SS2tDanZtWlF6anhZQzVtUQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788266768.0
+    },
+    {
+        "id": "c7e1069933",
+        "title_fa": "پلتفرم جدید انویدیا و وان‌ریل برای بهینه‌سازی مسیرهای ارسال کالا",
+        "title_en": "OneRail and Nvidia launch AI delivery routing platform OmniStar",
+        "summary": [
+            "انویدیا با همکاری وان‌ریل از پلتفرم OmniStar برای مدیریت هوشمند ناوگان حمل‌ونقل رونمایی کرد.",
+            "این سیستم با تحلیل زنده الگوی ترافیک و توزیع، هزینه‌های سوخت و زمان تحویل سفارش‌ها را کاهش می‌دهد."
+        ],
+        "full_text": "OneRail and Nvidia launch AI delivery routing platform OmniStar  qz.com",
+        "impact": "اتوماسیون زنجیره تامین با الگوریتم‌های انویدیا، هزینه‌های عملیاتی غول‌های لجستیک را به شکل چشمگیری پایین می‌آورد.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "qz.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tc2NMZHk4ZEd5MlVvSzRxQktMT3pLbkpDOEI4WnNmNFdqaUNOdkhFUUp4WGw5UUlUTy1Qa2RCeng0YzN5bTYxY3ZUY0JkcXdTeU5Ya0w1X3h4a1hMRTNxeWFPVV85azBaMlZsa3c3c0d2VzF5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tc2NMZHk4ZEd5MlVvSzRxQktMT3pLbkpDOEI4WnNmNFdqaUNOdkhFUUp4WGw5UUlUTy1Qa2RCeng0YzN5bTYxY3ZUY0JkcXdTeU5Ya0w1X3h4a1hMRTNxeWFPVV85azBaMlZsa3c3c0d2VzF5",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788264032.0
+    },
+    {
+        "id": "2cf1650c0f",
+        "title_fa": "دوره تخصصی دانشگاه دوک در زمینه هوش مصنوعی عامل‌محور",
+        "title_en": "Duke Executive Education and Simplilearn Launch Professional Certificate in Applied Generative AI and Agentic AI",
+        "summary": [
+            "دانشگاه دوک با همکاری سیمپلی‌لرن مدرک حرفه‌ای جدیدی در حوزه AI کاربردی و عامل‌های خودکار ارائه می‌دهد.",
+            "این برنامه آموزشی روی طراحی سیستم‌های مستقل و هوش مصنوعی مولد در کسب‌وکارها تمرکز دارد."
+        ],
+        "full_text": "Duke Executive Education and Simplilearn Launch Professional Certificate in Applied Generative AI and Agentic AI  PR Newswire",
+        "impact": "تربیت نیروی متخصص در زمینه عامل‌های هوشمند، ورود این فناوری به فرآیندهای واقعی شرکت‌ها را تسریع می‌کند.",
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQXzM0ZXRmNHYzM1psejh6Q2l4Y3FESEJ4Y3QxMmFHQll2b1ZYZGZLeURWSmQ3MVBadnphN0NsN3otSWV1Y0wyRGVGT2MwNThBbU54czlGaWpoTXd0cnlQUXltSTdLN25qOVhwRFBDelNRaVZ3UTIwNTZCdy10cWpJeG1kYjJxWmlWdjFlUVM1d0twNDYxbGNvaXB1WUdxcklTTjA3dC1HTkYxamc2Zmh1d0dyRDB1Rm13TWhxLTVDMlMxc1BWeU82clF2QjJRSmEtbmxGSXdmWEZqMWs5cExHM0pWMEdoV0dFYjlHTnlOd0c4VHhSdmQyRVktU0s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQXzM0ZXRmNHYzM1psejh6Q2l4Y3FESEJ4Y3QxMmFHQll2b1ZYZGZLeURWSmQ3MVBadnphN0NsN3otSWV1Y0wyRGVGT2MwNThBbU54czlGaWpoTXd0cnlQUXltSTdLN25qOVhwRFBDelNRaVZ3UTIwNTZCdy10cWpJeG1kYjJxWmlWdjFlUVM1d0twNDYxbGNvaXB1WUdxcklTTjA3dC1HTkYxamc2Zmh1d0dyRDB1Rm13TWhxLTVDMlMxc1BWeU82clF2QjJRSmEtbmxGSXdmWEZqMWs5cExHM0pWMEdoV0dFYjlHTnlOd0c4VHhSdmQyRVktU0s",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788263280.0
+    },
+    {
         "id": "f35cf4015d",
         "title_fa": "راه‌اندازی دو آکادمی جدید فناوری در دانشگاه XJTLU",
         "title_en": "Two restructured academies to launch in September",
@@ -41,6 +177,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788236317.0
+    },
+    {
+        "id": "d7160ef41c",
+        "title_fa": "اکشافات عجیب و ناشناخته جهان که هنوز توجیه علمی ندارند",
+        "title_en": "25 strange and sometimes disturbing discoveries that remain",
+        "summary": [
+            "برخی یافته‌های باستان‌شناسی و طبیعی همچنان بدون پاسخ علمی دقیق باقی مانده‌اند.",
+            "تحلیل‌های جدید نشان می‌دهد که کشف راز این معماها به ابزارهای کاوش پیشرفته‌تری نیاز دارد."
+        ],
+        "full_text": "Discover everything about 25 Strange and Sometimes Disturbing Discoveries That Remain Unexplained. Comprehensive guide with facts, insights, and expert ana",
+        "impact": "این چالش‌های علمی مسیر توسعه ابزارهای جدید آنالیز داده‌های باستانی و طبیعی را هموارتر می‌کنند.",
+        "tag": "علم",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "list25",
+        "url": "https://www.msn.com/en-us/news/other/25-strange-and-sometimes-disturbing-discoveries-that-remain/ar-AA2bjVa3",
+        "clean_url": "https://www.msn.com/en-us/news/other/25-strange-and-sometimes-disturbing-discoveries-that-remain/ar-AA2bjVa3",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bjPXi.img?w=1408&h=768&m=4&q=99",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bjPXi.img?w=1408&h=768&m=4&q=99"
+        ],
+        "timestamp": 1788233466.0
     },
     {
         "id": "16cb784fa4",
@@ -85,6 +243,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788229159.0
+    },
+    {
+        "id": "a1e78c24b3",
+        "title_fa": "هوش مصنوعی و اتوماسیون در خدمت صنعت داروسازی هند",
+        "title_en": "Digital Bioprocessing Tools Powering Indian Pharma",
+        "summary": [
+            "کارخانه‌های بزرگ داروسازی هند برای دریافت تأییدیه‌های بین‌المللی به سیستم‌های دیجیتال روی آورده‌اند.",
+            "ابزارهای هوش مصنوعی و دوقلوهای دیجیتال، خطاهای انسانی در تحلیل داده‌های حساس آزمایشگاهی را به حداقل می‌رسانند.",
+            "سخت‌گیری سازمان‌های نظارتی جهانی اصلی‌ترین عامل این کوچ دیجیتالی به شمار می‌رود."
+        ],
+        "full_text": "image credit- shutterstock Unlike many other manufacturing industries, pharmaceutical production demands absolute precision, data integrity and regulatory compliance. Every stage, from raw material testing and upstream processing to formulation, packaging and batch release, generates vast amounts of data that must be captured, analysed and maintained in accordance with global regulatory requirements. The growing development of complex therapies, including biologics, cell and gene therapies, and other advanced modalities, has further increased manufacturing complexity, making robust digital systems essential for ensuring process consistency, product quality and regulatory compliance. \"As bioprocessing becomes increasingly complex, the ability to transform data into actionable insights is becoming a key differentiator. Advances in automation, AI and digital technologies are helping manufacturers optimise workflows, improve process consistency and make faster, more informed decisions. As a trusted partner to our customers, we're focused on combining innovative technologies with scientific expertise to help them increase productivity, advance scientific breakthroughs and bring new therapies to patients faster,” said a spokesperson from Thermo Fisher Scientific. Beyond improving operational efficiency, digital technologies are also becoming indispensable for meeting increasingly stringent regulatory expectations. \"Indian pharma's digital shift is now being driven more by necessity than ambition. Data integrity issues have been a major reason for FDA warning letters to Indian manufacturing sites in recent years, making electronic, auditable and connected systems a baseline requirement rather than a competitive advantage. From MES and digital twins to serialisation platforms, these technologies are helping companies strengthen compliance while improving operational efficiency,\" said Hari Kiran Chereddi, Founder, MD and CEO, HRV Pharma. The Tools Powering Pharma 4.0 Indian pharmaceutical manufacturing is being rebuilt, plant by plant, around a small set of software categories such as MES, Quality Management Systems (QMS), LIMS, digital twins, Process Analytical Technology (PAT), serialisation and supply chain platforms, and AI. This marks a significant shift from the digitalisation efforts of five years ago, when technology adoption was largely confined to basic functions and standalone systems. Manufacturing Execution Systems (MES): It handles batch execution, electronic batch records, and shop floor traceability. It is the most invested-in category in Indian pharma manufacturing today. “An Indian CDMO using PAS-X or OpCenter across multiple lines can shift from paper-based batch review to ‘review by exception,’ where only flagged deviations need manual QA approval. This change often reduces batch release cycle times from days to hours,” said Chereddi. Some common system names that keep coming up for consideration are as follows. “Tulip is a no-code, cloud-native MES built specifically to avoid the cost and change-control burden of traditional systems. Mid-size manufacturers use it to digitise batch records and SOPs in days rather than months, without hiring integrators,” said Saurabh Agarwal, Director at HAB Pharma. Quality Management Systems (QMS): A unified QMS allows Indian pharmaceutical exporters to manage deviation and CAPA records through a single system that supports audit requirements across the FDA, EMA and multiple emerging market regulators, reducing duplicate documentation and improving compliance efficiency. Some commonly used ones are: Besides these “Qualio is the go-to affordable QMS for small and mid-size life sciences companies — document control, training, CAPA, and audit readiness, with pricing built for smaller teams and fast onboarding rather than a multi-year enterprise rollout. And QT9 QMS is another cloud-based, quick-deploy option mid-size manufacturers use for CAPA and audit management at a fraction of enterprise QMS cost,” said Agarwal. Laboratory Information Management Systems (LIMS) and electronic lab notebooks: Experts note that the greatest benefits of LIMS are realised when it is integrated with MES. Such integration enables seamless data flow between laboratory and production systems, reducing manual data entry, improving data integrity and accelerating batch release. Among the commonly used LIMS and electronic laboratory notebook platforms are: Digital twins: They allow biologics manufacturers to simulate changes in critical process parameters, such as temperature, agitation and nutrient feed, before implementing them in a real bioreactor. This enables manufacturers to evaluate their impact on cell growth and product yield in a virtual environment, significantly reducing the risks associated with scaling complex biologics. Commonly adopted digital twin solutions include: Supply chain and serialisation: For Indian API and formulation exporters, serialisation platforms are now an essential component of digital manufacturing. By enabling end-to-end product traceability and compliance with country-specific regulations, they help ensure that shipments clear customs efficiently and reach their intended markets without disruption. “Smaller regional serialisation vendors (over TraceLink's global network) are increasingly used by exporters focused mainly on a few key markets, where the cost of a full global network isn't justified,” said Agarwal. Process Analytical Technology (PAT): Several leading Indian generics manufacturers have invested in continuous manufacturing to support faster US ANDA approvals, with PAT serving as the sensing and real-time monitoring backbone of these production systems. Raman and near-infrared spectroscopy instruments from vendors like Mettler Toledo and Bruker are becoming standard on Indian continuous-manufacturing lines, providing real-time process data to MES and digital twin models. Artificial Intelligence (AI): Of course, no discussi",
+        "impact": "دیجیتالی‌سازی خطوط تولید دارو علاوه بر کاهش هشدارهای نظارتی، سرعت عرضه داروهای جدید به بازار جهانی را چند برابر می‌کند.",
+        "tag": "هوش مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "BioSpectrum India",
+        "url": "https://www.biospectrumindia.com/features/18/28383/digital-bioprocessing-tools-powering-indian-pharma.html",
+        "clean_url": "https://www.biospectrumindia.com/features/18/28383/digital-bioprocessing-tools-powering-indian-pharma.html",
+        "image": "https://www.biospectrumindia.com/uploads/articles/bio-28383.jpg",
+        "images": [
+            "https://www.biospectrumindia.com/uploads/articles/bio-28383.jpg"
+        ],
+        "timestamp": 1788220800.0
     },
     {
         "id": "398b34aa62",
@@ -156,6 +337,28 @@
             "https://s.yimg.com/lo/mysterio/api/ee9288910dcf04451da262449e4e27b43e9d57958cb7007a6cf6525a36fc21e6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbd318ee38abd2884fd82d5b9617960c2.jpg"
         ],
         "timestamp": 1788215407.0
+    },
+    {
+        "id": "6c91d63f4d",
+        "title_fa": "چرا چشم انسان رنگ‌ها را در چهار طیف اصلی می‌بیند؟",
+        "title_en": "Nature's color palette explains why everything we see is a mix of red, yellow, green and blue",
+        "summary": [
+            "زیست‌شناسان و زبان‌شناسان علل علمی نام‌گذاری و تشخیص رنگ‌ها بر پایه چهار رنگ اصلی را کالبدشکافی کردند.",
+            "ترکیب بینایی انسان و تکامل زبان، نحوه درک ما از رنگ‌های سرخ، زرد، سبز و آبی را شکل داده است."
+        ],
+        "full_text": "Biologists and linguists alike have long puzzled over the universal human tendency to see and name colors as a combination of four \"pure\" hues—red, yellow, green and blue.",
+        "impact": "درک دقیق‌تر مکانیزم بینایی به بهبود الگوریتم‌های پردازش تصویر و نمایشگرهای نسل جدید کمک می‌کند.",
+        "tag": "علم",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Phys.org",
+        "url": "https://www.msn.com/en-us/news/other/natures-color-palette-explains-why-everything-we-see-is-a-mix-of-red-yellow-green-and-blue/ar-AA2biycw",
+        "clean_url": "https://www.msn.com/en-us/news/other/natures-color-palette-explains-why-everything-we-see-is-a-mix-of-red-yellow-green-and-blue/ar-AA2biycw",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/natures-color-palette.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/2026/natures-color-palette.jpg"
+        ],
+        "timestamp": 1788215403.0
     },
     {
         "id": "04fd1698b7",
@@ -6770,222 +6973,5 @@
             "https://s.yimg.com/lo/mysterio/api/1262AD4526B920CF17AA1C230B225F7FC525ADE52061DB1D465D1BB661D39381/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F843d45e80429d72eb905803670fa8582.png"
         ],
         "timestamp": 1787562480.0
-    },
-    {
-        "id": "955c375ebb",
-        "title_fa": "مذاکره انویدیا با استارتاپ کره‌ای ریبلیونز برای همکاری یا تصاحب",
-        "title_en": "Nvidia opens talks with Rebellions on potential AI chip partnership",
-        "summary": [
-            "مدیران انویدیا و استارتاپ کره‌ای Rebellions برای سرمایه‌گذاری، همکاری فنی یا حتی خرید احتمالی وارد گفتگو شده‌اند.",
-            "ریبلیونز که تراشه‌های اختصاصی برای پردازش‌های استنتاجی (Inference) می‌سازد، ۲.۳ میلیارد دلار ارزش‌گذاری شده است.",
-            "این معامله می‌تواند موقعیت انویدیا را در بازار سخت‌افزارهای پردازش هوش مصنوعی بیش از پیش تثبیت کند."
-        ],
-        "full_text": "Nvidia has entered early-stage discussions with Rebellions, a South Korean startup focused on AI chips, on several possible forms of collaboration, reported Bloomberg, citing people familiar with the matter. The collaboration options under consideration include a technical partnership, investment, or a potential acquisition. The talks follow a meeting last week at Nvidia's Santa Clara headquarters between the company's CEO Jensen Huang and Rebellions co-founder and CEO Sunghyun Park. Rebellions, established in 2020 and based in Bundang, specialises in the development of neural processing units for data centres, with a focus on AI inference workloads. Inference, a process less demanding than AI training, supports the large-scale operation of AI services. The company's ATOM architecture is designed for generative AI tasks and has been employed with Red Hat's AI software stack, reported Tech in Asia. Rebellions has attracted approximately $850m in funding from investors that include Samsung Ventures, SK Hynix, and Arm Holdings. It has also received a direct investment from the South Korean government. Nvidia has increased its focus on investments within the AI sector in recent years. Past transactions have involved high-profile companies, such as the 2025 deal with US-based Groq, where Nvidia acquired a nonexclusive licence and employed most of the former's engineering team. Nvidia described the arrangement as not constituting an acquisition, as Groq continues independent operations and maintains its cloud business. Sources caution that discussions with Rebellions remain at a preliminary stage, and there is no certainty that any transaction will occur. Should an acquisition or similar arrangement be pursued, regulatory scrutiny could be expected, particularly from authorities in South Korea, where semiconductors are regarded as critical assets. In March, Rebellions raised $400m in a pre-initial public offering (IPO) funding round led by Mirae Asset Financial Group and the Korea National Growth Fund. With this latest investment, the company's total funding reached $850m, giving it an estimated valuation of $2.34bn. \"Nvidia opens talks with Rebellions on potential AI chip partnership\" was originally created and published by Verdict, a GlobalData owned brand.",
-        "impact": "تثبیت انحصار انویدیا بر زیرساخت‌های سخت‌افزاری پردازش و استنتاج هوش مصنوعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Verdict",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
-        "image": "https://media.zenfs.com/en/verdict_626/1ac12911d71b94d50ff1fba47278ea47.jpg",
-        "images": [
-            "https://media.zenfs.com/en/verdict_626/1ac12911d71b94d50ff1fba47278ea47.jpg",
-            "https://s.yimg.com/lo/mysterio/api/D8891ECD182DAB059E3BC1D132CBD15C06672A45DB69C1A6456340A99B9D5FC0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2F1ac12911d71b94d50ff1fba47278ea47.jpg",
-            "https://s.yimg.com/lo/mysterio/api/781DBBFAF21689D6093FEC7AFF5B27BA11CE03DE8CC58DB5322C1F6ABB244595/subgraphmysterio/resizefit_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2F1ac12911d71b94d50ff1fba47278ea47.jpg",
-            "https://s.yimg.com/cv/apiv2/finance/article/fallback_thumb/opt/GuruFocus.png"
-        ],
-        "timestamp": 1787561891.0
-    },
-    {
-        "id": "fae343deca",
-        "title_fa": "ورود بانک‌اینوسـت به بازار AI با راه‌اندازی صندوق جدید",
-        "title_en": "BankInvest joins AI trend with new fund launch: \"We don’t think that we have missed the train\"",
-        "summary": [
-            "مؤسسه مالی BankInvest با ایجاد یک صندوق اختصاصی، رسماً وارد حوزه سرمایه‌گذاری در فناوری هوش مصنوعی شد.",
-            "مدیران این بانک معتقدند موج رشد هوش مصنوعی تازه آغاز شده و فرصت‌های سودآوری زیادی پیش‌رو است."
-        ],
-        "full_text": "BankInvest joins AI trend with new fund launch: \"We don’t think that we have missed the train\"  AMWatch",
-        "impact": "ورود سرمایه‌های جدید اروپایی به سمت استارتاپ‌ها و زیرساخت‌های کلیدی هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "AMWatch",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcXp4ZzN5U3ItcnZUTDFTWWktd21vMFQ5NmhHOEZFNDBSRTU3YVB1WEhRWTd3X1dRb3NmRlJ4NWFsbVFjZEY4MTNicC14VzdhNmRmOVFNSDhCQ0pQb0FZXzlZY0YxLVAyanRxWW5nSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcXp4ZzN5U3ItcnZUTDFTWWktd21vMFQ5NmhHOEZFNDBSRTU3YVB1WEhRWTd3X1dRb3NmRlJ4NWFsbVFjZEY4MTNicC14VzdhNmRmOVFNSDhCQ0pQb0FZXzlZY0YxLVAyanRxWW5nSQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787561400.0
-    },
-    {
-        "id": "724e44136e",
-        "title_fa": "استارتاپ General Intuition در راه ارزش‌گذاری ۶ میلیارد دلاری",
-        "title_en": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "summary": [
-            "این استارتاپ تنها چند هفته پس از جذب سرمایه قبلی، در حال مذاکره برای دریافت سرمایه در ارزش‌گذاری ۶ میلیارد دلاری است.",
-            "داده‌های اولیه این مدل هوش مصنوعی از صدها میلیون ساعت بازی ویدئویی و الگوی حرکتی گیمرها استخراج می‌شود.",
-            "سرمایه جدید صرف تامین زیرساخت‌های پردازشی سنگین و توسعه هوش مصنوعی برای ربات‌های فیزیکی خواهد شد."
-        ],
-        "full_text": "New York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter. Existing investors including Khosla Ventures and General Catalyst are also participating in the round. The fresh funds would come just weeks after General Intuition raised $320 million at a $2.3 billion valuation. The news confirms earlier reporting on the deal for what is becoming one of the hottest startups tackling physical AI. CEO Pim de Witte spun out General Intuition last October from his video game clip-sharing platform Medal, using its hundreds of millions of hours of gameplay and “action labels” — records of which buttons a player pressed and when — as an initial dataset. Investor Vinod Khosla recently told TechCrunch that he believes those action labels will be a key part of the “emergence of intuition,” or the ability for a model to truly generalize across tasks that it wasn’t explicitly trained on. General Intuition is still finalizing the round, and a source close to the deal said that it is oversubscribed as the startup continues to field interest from investors. The company intends to use the funds to focus to improve its general model with a focus on robotic embodiments. That means spending more on compute infrastructure (the company has a partnership with neolab CoreWeave) and hiring more talent. Valor Equity Partners is known for backing SpaceX. TechCrunch has reached out to confirm its investment in General Intuition, which would be the first AI lab the fund has invested in since SpaceX. This story is developing. Please check back in for updates.",
-        "impact": "استفاده از داده‌های حرکتی گیمینگ جهش بزرگی در هوشمندسازی و رفتار خودکار ربات‌ها ایجاد می‌کند.",
-        "tag": "استارتاپ",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-        "clean_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-        "image": "http://www.bing.com/th?id=ONUT.83EM5PJ0LmNee59pFeHqzQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.83EM5PJ0LmNee59pFeHqzQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-            "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2021/08/bellan-rebecca-contributor-copy.jpg?w=150"
-        ],
-        "timestamp": 1787559840.0
-    },
-    {
-        "id": "fb71586ede",
-        "title_fa": "دسترسی کامل چت‌جی‌پی‌تی به برنامه‌های شخصی و اداری کاربران",
-        "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
-        "summary": [
-            "نسخه جدید ChatGPT Work با دسترسی مستقیم به ایمیل، اسلک و فایل‌ها، پروژه‌های اداری را به خودکارترین شکل ممکن انجام می‌دهد.",
-            "این ابزار مجهز به مدل کادکس است تا کارهای چندمرحله‌ای را بدون نیاز به دخالت مداوم کاربر نهایی کند.",
-            "هدف اصلی OpenAI گسترش بازار از مهندسان نرم‌افزار به تمام مشاغل اداری و افزایش مصرف توکن است."
-        ],
-        "full_text": "How much control are you willing to give an LLM over your digital life? Getting the most value from a model means giving it the keys. For a control freak or the AI-hesitant, it seems like a lot. For Andrew Ambrosino, the lead engineer for OpenAI’s desktop app, it’s the only way to test the future, which is why that app now has access to, and control over, his inbox, his Slack account, his phone, apps like Notion and Figma, and more. “If I’m asking it to write a document, is there a possibility that it’s going to pull from a private DM on that subject and not know that it’s not supposed to share some info? Yes,” Ambrosino told TechCrunch. “I’ll do it for the job. I will take the personal hit here and there if I have to. And I haven’t had to.” Ambrosino works on OpenAI’s biggest bet, ChatGPT Work, which was released last month and is available on the company’s lowest subscription tier, for $20 a month. The product is intended to allow white-collar workers to field AI agents — hooking LLMs up to the digital workflows used by accountants, investors, doctors, and everyone else whose day-to-day is dominated by their computer. OpenAI’s marketing copy puts the goal succinctly: A world where “where [artificial] intelligence goes beyond answering questions to helping everyone turn their biggest ideas into reality.” For software developers, that shift is already happening, but it’s been slow to spread to other departments. ChatGPT Work is a modified version of the company’s Codex coding tool. It’s meant to give non-engineers a version of the same functionality that software engineers already get from agents: an AI tool that doesn’t just answer questions, but completes multistep projects on its own. “In this new factor, ChatGPT can actually do entire, very complicated tasks for you all autonomously in a way that is delightful and safe,” Thibault Sottiaux, who leads OpenAI’s core product work, including Work, told TechCrunch. “It’s the very mission of OpenAI — to bring everyone along.” Commercially, that matters a lot. Agents that work for longer stretches burn through more tokens, which makes them more lucrative for OpenAI on a per-user basis. Reaching new professions is crucial — not just for OpenAI, but for the industry at large. If coding has proven lucrative territory for AI labs, it’s still a tiny subset of the professional work AI tools need to enable if these companies are to justify their massive investment in training and computation. While labs have been focused on software engineers, vertical-specific competitors like Harvey (for law) and Clay (for sales) have been chasing those customers with a model-agnostic approach, meaning they’ll plug in whichever AI works best at the time. Industry analysts see this as one of the major challenges facing OpenAI and its competitors. “If the labs cannot rapidly get ahold of the key complementary assets needed to scale AI in the market, value will accrue elsewhere,” Christian Catalini wrote on a16z’s “It’s time to build” blog. Making the AI apps work for people who aren’t software engineers requires more hand-holding. OpenAI’s non-engineering workforce, like the communications and finance teams, started using Codex “at a time that it was actively hostile to them—asking them about code and showing them, ‘oh, you have an empty diff for this thing,’” Ambrosino said, referring to a technical readout meant for software changes. “So, we started to make it more general purpose between February and now.” An OpenAI-backed study found that in June, 98% of OpenAI employees were using Codex, but just 17% of organizational subscribers and less than 1% of individual subscribers were using the agentic coding tool. That difference between near total adoption inside the company and negligible adoption outside it is the challenge and opportunity for the company. “The more value and the more utility that we generate for users, the more they will be willing to also pay for some part of that utility, and that’s how we’ve always seen ChatGPT as well,” Sottiaux said. “You sit there and you’re like, ’of course I want to pay $20 bucks a month for this,’ because the value that you get is so much more.” How to make AI intuitive To understand that disconnect, it helps to understand what OpenAI’s engineers are building. Every LLM requires what engineers call a “harness” — the software wrapped around a model that decides what information it sees, which tools it can use, and how it presents its answers back to you. If you want that model to do stuff — to become an agent — the harness gives it tools and instructions for using them on long-term tasks. For developers, a command-line interface (CLI) that enabled LLMs to code was enough to change the way software was built and deployed. But most people aren’t using CLIs; there’s a reason Windows replaced DOS. An agentic product that goes beyond software engineering is “going to be something that plays with the messy world of your life and your tools and websites that were built in 1995 and never updated,” Ambrosino told TechCrunch, explaining that the experiences his team is building are vital to expanding access to useful AI. Consider apps like Claude Code and Codex: They unleashed “vibe coding” by abstracting away all the actual software writing, and letting users just tell the model what they want in a program. Now, OpenAI wants to make functionality found in tools like OpenClaw, which coders use to put LLMs to work, as easy as prompting. “Without these products in front of the model, experts would know how to get the same results, but you wouldn’t get to a billion people using the thing,” Ambrosino said. That trade-off between what power users need and what mainstream adoption requires plays out in internal debates at OpenAI, where some employees argue that a button is unnecessary if users can just ask the model directly. “We push back on [that] — because it’s very early,” Ambrosino said. “Discoverability matters in this phase, and a",
-        "impact": "ورود ایجنت‌های خودکار به محیط‌های کاری، ساختار کارهای اداری روزمره را به کلی دگرگون می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-        "clean_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-        "image": "http://www.bing.com/th?id=ONUT.eqXwriOTqT9Y7M9Q8n6c5w&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.eqXwriOTqT9Y7M9Q8n6c5w&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.44.59-PM.png?w=680",
-            "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150"
-        ],
-        "timestamp": 1787558340.0
-    },
-    {
-        "id": "6c4af1c1e0",
-        "title_fa": "ارزش استارتاپ حسابداری هوشمند Rillet به ۱ میلیارد دلار رسید",
-        "title_en": "The CEO of the unicorn AI accounting startup, Rillet, says AI is changing who consulting firms hire",
-        "summary": [
-            "استارتاپ Rillet با دریافت ۱۰۰ میلیون دلار سرمایه جدید، جایگزین سیستم‌های سنتی مالی شرکت‌ها می‌شود.",
-            "نرم‌افزار این شرکت بستن حساب‌های ماهانه را اتوماتیک کرده و نیاز به ثبت‌های دستی را از بین برده است.",
-            "رشد این ابزارها روند استخدام متخصصان مالی و مشاوره را در شرکت‌های بزرگ تغییر داده است."
-        ],
-        "full_text": "AI-native accounting startup Rillet just raised $100 million in Series C funding. The funding comes on the heels of the $200 million it's raised over the past year. Rillet's AI software aims to simplify bookkeeping and reduce reliance on traditional ERP systems. For years, upgrading the software companies use for bookkeeping consumed a consultant's entire job. \"It's no fun being a consultant implementing your third instance of Oracle Fusion and having three years of your life basically go by in a blink of an eye because you're transforming Excel spreadsheets and trying to wrangle a very old system,\" Nicolas Kopp, CEO of AI-native accounting startup Rillet, told Business Insider. Oracle Fusion is a suite of cloud software that large companies use to manage their finances and operations. Setting up systems like this can take years of consulting work. Rillet is betting AI can make that process faster by keeping a company's books up to date as transactions come in. Its \"objective function\" is simple, Kopp said: \"To reduce the time spent that humans go around clicking buttons in applications.\" Rillet's growth also offers a glimpse of how AI could reshape consulting talent. As the software takes on more routine accounting work, firms are looking for people with deeper domain knowledge and the technical skills to work with AI and large data sets. The company, which emerged from stealth two years ago, said last week that it raised a $100 million Series C at a $1 billion valuation. It's at the forefront of a growing crop of startups taking aim at the decades-old ERP market, and with more than $200 million in total funding, it is one of the most-funded companies building an AI-native alternative to legacy finance software. The company now serves more than 600 public and private customers, including Mercor, Neuralink, Temporal, and Skild AI, and says 40% of its customer base is outside tech and AI in sectors like healthcare, financial services, retail, and biotech. It has captured half of its customers from legacy ERP systems, including NetSuite, Workday, Oracle Fusion, and Sage Intacct, while the other half comes from Intuit, according to the company. The post-clicking future AI-native startups like Rillet are turning the monthly ritual of closing the books into something similar to a normal workday. In an Andreessen Horowitz analysis of 56 Rillet customers, 87% had fewer than 1% of their bookkeeping entries left to review when the end of the month rolled around. The shift is part of a broader shake-up taking place across enterprise software. Investors have dubbed the recent sell-off in traditional software companies the \"SaaSpocalypse,\" as advances in AI raise questions about whether businesses will continue paying for large numbers of software seats or whether newer AI-native products can replace them. Advertisement Kopp said he expects the way companies buy software to change. Charging customers based largely on how many employees use a product, he said, is likely to become \"a thing of the past\" as more work is performed by AI agents rather than people clicking through software themselves. More engineers, more talent If AI changes how enterprise software is used, then it also changes thekinds of workers consulting firms need to deploy and manage it. In April, Rillet announced a \"corporate development alliance\" with EY. It now also works with several consulting firms, including RSM and KPMG, Kopp said. In the near term, he believes the biggest opportunity for consulting firms is in \"change management and implementation.\" The longer-term opportunity is to turn their decades of accumulated accounting expertise into \"skill files, repositories, agents\" that can be layered onto AI systems like Rillet. \"I think building agents is a huge opportunity,\" Kopp said. He added that Rillet is already helping a consulting firm build analytics and reporting agents for forecasting dashboards, as well as tools for controls and risk monitoring that make it easier to review large data sets rather than relying on manual testing. That shift is changing the human talent they need, especially as the accounting profession continues to grapple with a yearslong talent shortage. \"Number one, the bar is going up,\" Kopp said. \"AI is a great leveler of information. So you need very highly skilled accountants and accounting professionals at these firms. Otherwise, the AI can kind of do your job.\" Kopp also believes that \"generalist\" entry-level work will increasingly be absorbed by AI in the coming two to three years and create more demand for domain-specific experts. At the same time, there's a new class of workers who are tech-savvy, innovative, and eager to experiment with AI — the kind Silicon Valley calls \"forward-deployed engineers.\" They are essentially tasked with working directly with customers to help put AI tools to use. Job postings for the role were up more than 5,000% year over year in April, according to data from Indeed. Kopp expects demand to keep rising for these types of workers, especially those who can handle large data sets, work with AI, and build agents as consulting firms take on more transformation projects. That's already consistent with a broader shift in the industry: Consulting firms are hiring more technical specialists as AI automates more traditional junior work. He also sees the AI shift as a recruiting tool in its own right. \"There's a new wave coming. It's worth your time to go into consulting,\" he said. \"They use this a little bit as a lighthouse, I think, for the younger generation, the people that are more tech forward, to come join their firms.\" If you enjoyed this story, be sure to follow Business Insider on Yahoo.",
-        "impact": "اتوماسیون مالی هوشمند بازار نرم‌افزارهای قدیمی سازمانی مثل اوراکل را با چالش جدی مواجه کرده است.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/ceo-unicorn-ai-accounting-startup-091601000.html",
-        "clean_url": "https://www.aol.com/articles/ceo-unicorn-ai-accounting-startup-091601000.html",
-        "image": "http://www.bing.com/th?id=ONUT.jW3qbq6lcxrbFWPLVwuf4w&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.jW3qbq6lcxrbFWPLVwuf4w&pid=News",
-            "https://hermes.media.static.aol.com/media/2026/08/24/030976d5-b28f-3903-aa59-39a4f231f168/01463360-86b6-4652-a298-207a642de839.jpg",
-            "https://hermes.media.static.aol.com/logos/light/aol_business_insider_articles_308.png?v=1786373467"
-        ],
-        "timestamp": 1787558100.0
-    },
-    {
-        "id": "1158f2d11a",
-        "title_fa": "بزرگ‌ترین به‌روزرسانی هوش مصنوعی کوپا برای تیم‌های تدارکات",
-        "title_en": "Coupa launches largest AI release for procurement teams",
-        "summary": [
-            "پلتفرم مدیریت زنجیره تامین Coupa از بزرگ‌ترین بسته ابزارهای مبتنی بر هوش مصنوعی خود رونمایی کرد.",
-            "این قابلیت‌های جدید، فرایندهای خرید و تصمیم‌گیری‌های مالی سازمان‌ها را هوشمندتر و سریع‌تر می‌کنند."
-        ],
-        "full_text": "Coupa launches largest AI release for procurement teams  IT Brief Asia",
-        "impact": "کاهش چشمگیر هزینه‌های عملیاتی و اتوماسیون فرایند تامین کالا در شرکت‌های بزرگ.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "IT Brief Asia",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFF1MTNVWlV1VnRJbFVJbm5JWXdTRjJ0RjRLZUszeC1FR3NrbC1aRTY1dlctbHl4U01QSFdUWnB2V2lQUUN5NTlsQUd2eGtUWVhkdmJFekl4TWNjWWRpWjA5MGhTRENsb0ZqTW1ocFJvX25Oek5paEpBVXFQMkNhZ2FvLTRyNndGdFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFF1MTNVWlV1VnRJbFVJbm5JWXdTRjJ0RjRLZUszeC1FR3NrbC1aRTY1dlctbHl4U01QSFdUWnB2V2lQUUN5NTlsQUd2eGtUWVhkdmJFekl4TWNjWWRpWjA5MGhTRENsb0ZqTW1ocFJvX25Oek5paEpBVXFQMkNhZ2FvLTRyNndGdFE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787557500.0
-    },
-    {
-        "id": "41d72c3d66",
-        "title_fa": "رونمایی آزمایشگاه LibAI از پلتفرم جدید NewFace.AI",
-        "title_en": "LibAI Lab Announced the Launch of NewFace.AI",
-        "summary": [
-            "مجموعه LibAI Lab ابزار جدید NewFace.AI را برای پردازش و تولید تصویر معرفی کرد.",
-            "این ابزار روی خلق چهره‌های واقع‌گرایانه و کاربردهای دیجیتال مارکتینگ تمرکز دارد."
-        ],
-        "full_text": "LibAI Lab Announced the Launch of NewFace.AI  MarTech Cube",
-        "impact": "تسهیل و ارزان‌تر شدن تولید محتوای بصری هوشمند برای کمپین‌های تبلیغاتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "MarTech Cube",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJbVROb1BNcFVFcVk1bWNvUlRBSkdjLVRJbE9LaGhLN2JCRldMVUtwV2pmbHp6V2VYZ19MSFFjREF5NUpxeFdhcVBHb0lsWmY2OW1MaXhRcmxqblAyZWtHTk9KRU9XeHRQcVlwY3o1a3ByRTdENU5uenVodVRWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJbVROb1BNcFVFcVk1bWNvUlRBSkdjLVRJbE9LaGhLN2JCRldMVUtwV2pmbHp6V2VYZ19MSFFjREF5NUpxeFdhcVBHb0lsWmY2OW1MaXhRcmxqblAyZWtHTk9KRU9XeHRQcVlwY3o1a3ByRTdENU5uenVodVRWZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787557036.0
-    },
-    {
-        "id": "629680d2e2",
-        "title_fa": "آزمایش همزاد دیجیتالی هوش مصنوعی توسط طراح مطرح مد",
-        "title_en": "Willy Chavarria is testing an AI version of himself",
-        "summary": [
-            "ویلی چاواریا، طراح سرشناس دنیای مد، در حال ساخت و تست یک نسخه هوش مصنوعی از شخصیت خود است.",
-            "این همزاد دیجیتالی قرار است در پروسه خلق طرح‌های جدید و ارتباط با مخاطبان به او کمک کند."
-        ],
-        "full_text": "Willy Chavarria is testing an AI version of himself  glossy.co",
-        "impact": "نفوذ عملیاتی هوش مصنوعی به فرایندهای خلاقانه در صنعت مد و پوشاک.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "glossy.co",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJNdXc0OGJQel9UWkllMG9pVkdaVmpPaDE2YVBlczRobG5QLTMwa0o4YmxMRHlWVEdNeGEyOEwtV0tYdW1tTVFESk1WQmZMUkx1R3lNVTdOQmxOMWF0cU83LXU5V2kwbU8xOGFLR0luUUJIMUxNNzlNX0d1VWJiMTR3dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjJNdXc0OGJQel9UWkllMG9pVkdaVmpPaDE2YVBlczRobG5QLTMwa0o4YmxMRHlWVEdNeGEyOEwtV0tYdW1tTVFESk1WQmZMUkx1R3lNVTdOQmxOMWF0cU83LXU5V2kwbU8xOGFLR0luUUJIMUxNNzlNX0d1VWJiMTR3dw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787555018.0
-    },
-    {
-        "id": "6956fc9aa9",
-        "title_fa": "کمبود مسکن در آمریکا تحت تأثیر ساخت دیتاسنترهای هوش مصنوعی",
-        "title_en": "CEO Says AI Data Centers Are Creating a New Housing Problem",
-        "summary": [
-            "توسعه سریع زیرساخت‌های AI نیروهای متخصص ساخت‌وساز را از پروژه‌های مسکونی به سمت دیتاسنترها کشیده است.",
-            "افزایش دستمزد ۲۵ تا ۳۰ درصدی در پروژه‌های دیتاسنتر، کمبود ۳۰۰ هزار نفری نیرو در صنعت ساختمان را تشدید می‌کند.",
-            "ادامه این روند ساخت مسکن را کندتر کرده و فشار قیمتی جدیدی به خریداران وارد می‌سازد."
-        ],
-        "full_text": "The rapid expansion of AI infrastructure is creating an unexpected new challenge for the U.S. housing market: a growing battle for construction workers. According to Ed Brady, chief executive of the Home Builders Institute (HBI), the country's booming AI data center sector is drawing skilled tradespeople away from residential construction projects at a time when the homebuilding industry is already facing a severe labor shortage. As a result, experts warn that the race to build the facilities powering AI could make it even harder to address America's housing shortage. \"The market is not as strong, and so today many of those people that were in housing are going to these data centers,\" Brady told The Center Square. He added that the skilled-trades industry was already short roughly 300,000 workers and warned that competition from data center construction was worsening the problem. Why AI Data Centers Need So Many Workers The surge in demand for AI services has triggered an unprecedented wave of investment in data centers, the giant facilities that house the servers and networking equipment behind artificial intelligence platforms. CNBC previously reported that technology giants including Amazon, Microsoft, Google and Meta were expected to collectively commit more than $300 billion to AI-related infrastructure and data-center expansion in 2025. That spending has fuelled a construction boom requiring thousands of electricians, plumbers, HVAC specialists, steelworkers and other skilled tradespeople. Many of those workers are being attracted by higher wages and longer-term projects. According to another report by CNBC, which obtained data from Kelly Services, a construction staffing organization, some workers moving into data-center construction have seen pay increases of between 25 and 30 percent. The competition comes as homebuilders are already struggling to recruit and retain skilled labor. Brady said the industry had been facing workforce challenges for years, dating back to the aftermath of the 2008 financial crisis, when many workers left construction and never returned. He has also noted that five skilled-trades workers retire for every two entering the profession. The Housing Impact Housing experts say the labor squeeze is likely to have real consequences for homebuyers. In a March interview with Homes.com, Brady warned that workers who leave residential construction for commercial projects such as AI data centers may not easily return when housing demand rebounds. \"Residential construction suffers,\" Brady said, noting that many commercial projects offer steadier employment and, in some cases, better pay. Research cited by HBI estimates the skilled-labor shortage costs homebuilders about $10.8 billion annually and prevents the construction of roughly 19,000 homes each year. The problem extends beyond labor. The National Association of Home Builders (NAHB) has also warned that data-center development is increasingly competing with residential projects for land. In Northern Virginia, one of the world's largest concentrations of data centers, developers have reportedly paid millions of dollars per acre for sites that might otherwise have been used for housing. NAHB has described the trend as \"servers over shelter,\" arguing that AI infrastructure is beginning to reshape traditional development patterns. A Growing Divide Not everyone sees the boom negatively. Nvidia CEO Jensen Huang has argued that data-center construction is helping create a new generation of well-paying blue-collar jobs, saying skilled trades are likely to produce many of the next six-figure careers in America. But economists say booming wages in data-center construction can create knock-on effects elsewhere in the economy. \"The shrinking and aging construction labor force is a major issue in the homebuilding industry right now, leading to increased labor costs and longer construction timelines for new homes,\" Realtor.com senior economist Joel Berner said in a recent article for the outlet. For homebuilders, the concern is less about the existence of data centers and more about whether enough workers can be trained to meet demand in both sectors. \"This problem is going to get even more and more exaggerated and acute to the housing industry because of the data center construction,\" Brady warned, \"and we're not putting enough money into training the future generations of skilled labor.\" As AI investment accelerates across the United States, the industry's demand for workers is increasingly colliding with another national priority: building enough homes. The result, critics say, is a new housing challenge emerging from America's race to dominate AI. Newsweek has reached out to Brady and the National Association of Home Builders (NAHB) by email for comment. Contact Newsweek editors on this story: John Fitzpatrick and Cristina Diciu.",
-        "impact": "سرمایه‌گذاری سنگین در دیتاسنترها تبعات ناخواسته‌ای بر بازار مسکن و اقتصاد شهری برجا گذاشته است.",
-        "tag": "زیرساخت",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/ceo-says-ai-data-centers-are-creating-a-new-housing-problem-12359057",
-        "clean_url": "https://www.newsweek.com/ceo-says-ai-data-centers-are-creating-a-new-housing-problem-12359057",
-        "image": "http://www.bing.com/th?id=ONUT.hJTp0qdqC28zzuYgZhoLzw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.hJTp0qdqC28zzuYgZhoLzw&pid=News",
-            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T142001-155.png?w=1200&crop=1",
-            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T141821-555.png?w=1600&quality=80&webp=1",
-            "https://assets.newsweek.com/wp-content/uploads/2026/08/Copy-of-32-image-2026-08-24T142100-984.png?w=1600&quality=80&webp=1"
-        ],
-        "timestamp": 1787554800.0
     }
 ]
