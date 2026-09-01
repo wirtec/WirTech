@@ -1,5 +1,94 @@
 [
     {
+        "id": "791863662a",
+        "title_fa": "جان ترنوس؛ چهره کلیدی و مدیرعامل جدید اپل",
+        "title_en": "Who is John Ternus, Apple’s new CEO?",
+        "summary": [
+            "با تغییرات مدیریتی جدید در اپل، جان ترنوس مسئولیت هدایت این غول فناوری را بر عهده می‌گیرد.",
+            "ترنوس پیش از این نقش محوری در توسعه محصولات سخت‌افزاری موفق اپل از جمله سری مک و آیفون داشته است."
+        ],
+        "full_text": "Who is John Ternus, Apple’s new CEO?  The Washington Post",
+        "impact": "احتمال تغییر در استراتژی‌های نقشه راه سخت‌افزاری اپل.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788297687.0
+    },
+    {
+        "id": "b2e5f15394",
+        "title_fa": "مدل جدید گوگل فاصله در کدنویسی را کم می‌کند",
+        "title_en": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
+        "summary": [
+            "گوگل از مدل هوش مصنوعی جدیدی رونمایی کرده که جهش چشمگیری در توانایی برنامه‌نویسی دارد.",
+            "این مدل جدید فاصله گوگل را با مدعیانی مانند آنتروپیک و اوپن‌ای‌آی در حوزه کدنویسی خودکار بسیار کم کرده است."
+        ],
+        "full_text": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability  WSJ",
+        "impact": "داغ‌تر شدن رقابت ابزارهای کدنویسی هوشمند برای توسعه‌دهندگان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788296700.0
+    },
+    {
+        "id": "faec7d0800",
+        "title_fa": "طرح قانونی آمریکا برای کنترل هوش مصنوعی در بیمه سلامت",
+        "title_en": "Press Release: Tom Barrett Helps Introduce Bipartisan Bill on AI Use in Health Insurance Decisions",
+        "summary": [
+            "لایحه دوحزبی جدیدی در کنگره آمریکا برای محدود کردن استفاده بیمه‌ها از الگوریتم‌های هوش مصنوعی ارائه شد.",
+            "هدف اصلی این طرح، جلوگیری از رد درخواست‌های درمانی بیماران توسط سیستم‌های خودکار است."
+        ],
+        "full_text": "Press Release: Tom Barrett Helps Introduce Bipartisan Bill on AI Use in Health Insurance Decisions  quiverquant.com",
+        "impact": "افزایش نظارت‌های دولتی بر تصمیم‌گیری‌های الگوریتمی در حوزه درمان.",
+        "tag": "تنظیم‌گری",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "quiverquant.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWlrY3N3NkVWbnp3dFByRE14bUVyeWNnbkZvRHo2bGh1NmpmT2I4Z3A4RmFlaXJkQ0FYMzVuUXozeGZjSXlTUFE0TEUyQktLQmJyelpwdnNCQlVUOWNFc2ZoSzZiaWk2U3dzY3BtUjAyR1J6YktQMFZjYmwyb3QzRk10ZkJMVWdjQTN1V3YwSGZOOFNVcW45TkFOZG5GSFIzX0FQLXpnT3ZGNjc2Y1hfYnd3dFV4LVRvd19WdkFLLVQ5UVdFU044Y2MzZ1F1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWlrY3N3NkVWbnp3dFByRE14bUVyeWNnbkZvRHo2bGh1NmpmT2I4Z3A4RmFlaXJkQ0FYMzVuUXozeGZjSXlTUFE0TEUyQktLQmJyelpwdnNCQlVUOWNFc2ZoSzZiaWk2U3dzY3BtUjAyR1J6YktQMFZjYmwyb3QzRk10ZkJMVWdjQTN1V3YwSGZOOFNVcW45TkFOZG5GSFIzX0FQLXpnT3ZGNjc2Y1hfYnd3dFV4LVRvd19WdkFLLVQ5UVdFU044Y2MzZ1F1QQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788294240.0
+    },
+    {
+        "id": "9736f1ccbc",
+        "title_fa": "آنتروپیک از کلود Fable 5.1 و Mythos 5.1 رونمایی کرد",
+        "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "summary": [
+            "آنتروپیک نسل جدید مدل‌های خود را با قیمت ارزان‌تر و محدودیت‌های بسیار کمتر عرضه کرد.",
+            "مدل Fable 5.1 تمرکز ویژه‌ای بر کاهش هزینه‌های پردازش و دسترس‌پذیری بیشتر دارد.",
+            "نسخه Mythos 5.1 قدرت تحلیلی و محاسباتی لبه فناوری را به نمایش می‌گذارد."
+        ],
+        "full_text": "Introducing Claude Fable 5.1 and Claude Mythos 5.1  Anthropic",
+        "impact": "کاهش مستقیم هزینه توسعه‌دهندگان و شرکت‌های وابسته به مدل‌های کلود.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Anthropic",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wODA3NURfTHVDbUZnSE12Q3A0TFpvYjhDLU1rT1NVZ2xmM2Z0VWJPc1ZRM0RVVkpIckh6b0ROcXIxTHgzODZWYV9yekV1dTJiMk1KbkVWcThSeUYxcUpDUy1KZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788285664.0
+    },
+    {
         "id": "851c03424e",
         "title_fa": "هشدار دادگاه آمریکا درباره خطاهای هوش مصنوعی در اسناد قضایی",
         "title_en": "Judge's release of order with AI errors is 'pretty serious matter,' 5th Circuit says",
@@ -6878,100 +6967,5 @@
             "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787565900.0
-    },
-    {
-        "id": "f27466f46f",
-        "title_fa": "انتشار گزارش مالی نیمه اول سال ۲۰۲۶ شرکت Robo.ai",
-        "title_en": "Robo.ai Inc. Reports First Half 2026 Financial Results",
-        "summary": [
-            "شرکت Robo.ai نتایج عملکرد مالی خود را در شش‌ماهه نخست سال ۲۰۲۶ اعلام کرد.",
-            "این گزارش آمار مربوط به درآمدها و هزینه‌های عملیاتی شرکت را در توسعه راهکارهای هوشمند ارائه می‌دهد."
-        ],
-        "full_text": "Robo.ai Inc. Reports First Half 2026 Financial Results  PR Newswire",
-        "impact": "ارزیابی شفاف مسیر رشد و ثبات مالی شرکت در بازار رقابتی هوش مصنوعی.",
-        "tag": "استارتاپ",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3lVd3NXSEhLWkZYLW1YVWVtcUF2MC1KUlVrd0V1c3BVOWkzRWNFZW9mcnltSTY0X0ZWV0tqb0RNVjhGbWxSY0tKTzdxMldzYWVyRGhRNTdQTEhBUnFrMVpYWUFrRVc1NDVTTmRpaDVwZld5UVRGQ3ROSWgwWFJ5S2szZXlUaVZNeDJyeDlPRmNLZGlOWDU3TW00UlhTakVZNVZteHk5ZC1RWHp1aEgzRg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3lVd3NXSEhLWkZYLW1YVWVtcUF2MC1KUlVrd0V1c3BVOWkzRWNFZW9mcnltSTY0X0ZWV0tqb0RNVjhGbWxSY0tKTzdxMldzYWVyRGhRNTdQTEhBUnFrMVpYWUFrRVc1NDVTTmRpaDVwZld5UVRGQ3ROSWgwWFJ5S2szZXlUaVZNeDJyeDlPRmNLZGlOWDU3TW00UlhTakVZNVZteHk5ZC1RWHp1aEgzRg",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787565600.0
-    },
-    {
-        "id": "452aef8287",
-        "title_fa": "پرتاب محموله فضایی مجهز به هوش مصنوعی دانشجویان با راکت ناسا",
-        "title_en": "Capitol Tech Students Launch AI Enabled Payload on NASA RockSat Mission",
-        "summary": [
-            "دانشجویان دانشگاه فناوری کپیتال در قالب مأموریت RockSat ناسا، سخت‌افزاری مجهز به هوش مصنوعی را به فضا ارسال کردند.",
-            "این پروژه توانایی پردازش داده‌های فضایی در محل (Edge AI) را طی پروازهای زیرمداری ارزیابی می‌کند."
-        ],
-        "full_text": "Capitol Tech Students Launch AI Enabled Payload on NASA RockSat Mission  Homeland Security Today",
-        "impact": "تسهیل توسعه پردازش هوش مصنوعی در تجهیزات کم‌حجم فضایی و پروژه‌های تحقیقاتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "Homeland Security Today",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZIbjNjMVhPOF83SjdweFZmbjQ5TkNVc1NEdW1ReENoMlNYY2g2YnQtRXhWWkJwRm5IRm5KcGNhTG54XzFkYS1YNGNycUZjbHI2S2pTM3Rad0JRVzlTZE9oOUtHVkUxMEZMQTFMcGtIOGdVbkZSbFFObXh3Z2lCcllDT2s4dDV5TS1CdW9jZjlxX1RjODM1ZmlfdEpjcDhBd2xCQVprVndqRVFhMk5PemFTbDEtZ1dPSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1ZIbjNjMVhPOF83SjdweFZmbjQ5TkNVc1NEdW1ReENoMlNYY2g2YnQtRXhWWkJwRm5IRm5KcGNhTG54XzFkYS1YNGNycUZjbHI2S2pTM3Rad0JRVzlTZE9oOUtHVkUxMEZMQTFMcGtIOGdVbkZSbFFObXh3Z2lCcllDT2s4dDV5TS1CdW9jZjlxX1RjODM1ZmlfdEpjcDhBd2xCQVprVndqRVFhMk5PemFTbDEtZ1dPSXc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787564028.0
-    },
-    {
-        "id": "de39d07be0",
-        "title_fa": "جهش سفارش‌های سیسکو؛ برنده خاموش رونق هوش مصنوعی",
-        "title_en": "Forget Nvidia. Cisco Could Be a Hidden Winner From the AI Boom",
-        "summary": [
-            "سفارش‌های تجهیزات شبکه هوش مصنوعی سیسکو با رشد چهاربرابری به ۹.۳ میلیارد دلار رسیده است.",
-            "غول‌های فناوری برای اتصال ابررایانه‌های هوش مصنوعی به تجهیزات شبکه پرسرعت سیسکو وابسته هستند.",
-            "توسعه ایجنت‌های هوشمند حجم انتقال داده را تا ۱۴ برابر افزایش داده و موج نوسازی شبکه ایجاد کرده است."
-        ],
-        "full_text": "While NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) soaks up the AI infrastructure headlines, Cisco Systems (NASDAQ:CSCO) is quietly becoming one of the more compelling picks-and-shovels plays in the AI buildout. Cisco just closed a record fiscal year, hyperscaler AI orders more than quadrupled, and management is guiding for another leg higher in fiscal 2027. Our proprietary model sees more upside from here. Our 24/7 Wall St. price target for Cisco is $131.07, implying 18.04% upside from the current $111.04 price. We rate CSCO a buy with high (90%) confidence. 24/7 Wall St. Price Target Summary A Record Year Meets a Networking Supercycle Cisco is up 69.09% over the past year and 46.24% year to date, though shares have cooled 1.04% over the last month. The stock sits just off its 52-week high of $129.88. Q4 FY2026 delivered revenue of $17.3 billion, up 17.58% year over year, with non-GAAP EPS of $1.22 topping consensus by 4.38%. CEO Chuck Robbins told investors the company believes “the accelerating adoption of agentic AI is fueling a networking super cycle”, and the numbers back him up: hyperscaler AI orders totaled $9.3 billion for FY2026, roughly 4.5 times the prior year. Why Bulls See a Breakout Ahead The bull case rests on three pillars. First, hyperscaler AI infrastructure revenue is guided to $7.5 billion in FY2027, roughly double FY2026. Second, Q4 total product orders jumped 35%, with networking orders up 40% and hyperscaler orders growing in triple digits. Third, Cisco has won three new hyperscaler design wins in Q4 alone and sees a “Scale Across” opportunity where AI traffic could be 14x traditional data center interconnect. If Cisco simply hits the high end of its FY2027 EPS guide of $5.11 and re-rates to a 28x multiple, shares clear $138.78, our bull-case target. What Could Go Wrong Non-GAAP gross margin fell to 66.3% in Q4, down 210 basis points year over year, as AI hardware mix pressured product margins. Bulls counter that hyperscaler AI is “highly profitable” at the operating line because Cisco is not adding proportional opex. Other risks include hyperscaler demand concentration, tariff exposure, and restructuring charges tied to the May 2026 plan. Our bear-case target sits at $109.24, essentially flat with today. How Cisco Compares to Arista and HPE Arista Networks (NYSE:ANET) is Cisco’s cleanest AI networking pure-play. It posted Q2 FY2026 revenue growth of 37.7% and trades at a trailing P/E near 68x, more than double Cisco’s 33x. Arista grows faster, but Cisco’s forward P/E of 21x looks conservative on the same AI narrative. Hewlett Packard Enterprise (NYSE:HPE) is the direct competitor post-Juniper. HPE guided FY2026 non-GAAP EPS to $3.35 to $3.45 with networking revenue growth of 72% to 75%. HPE’s forward P/E near 16x is cheaper, but its GAAP profitability has been weighed down by acquisition charges. Against both peers, our 24/7 Wall St. price target looks reasonable rather than aggressive. Bull Case Favors Buyers on This Dip Our 24/7 Wall St. price target of $131.07 and buy rating reflect 90% confidence in Cisco’s AI networking story. The bull thesis holds if hyperscalers keep spending and the FY2027 AI revenue guide of $7.5 billion proves conservative. The thesis weakens if gross margin compression accelerates below 65%. The setup favors the bulls. These projections assume Cisco executes on the Silicon One roadmap and the AI supercycle broadens beyond hyperscalers. Significant upside could come from enterprise on-prem AI, while a hyperscaler capex pause is the primary downside risk. Cisco is one of the clearer picks-and-shovels names benefiting from that capex, and we profiled seven more suppliers, from power to cooling to networking, in a free AI infrastructure report. Contact [email protected] for any questions or corrections.",
-        "impact": "سیسکو در کنار انویدیا به یکی از اصلی‌ترین برنده‌های مالی توسعه زیرساخت‌های AI تبدیل می‌شود.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/24/forget-nvidia-cisco-could-be-a-hidden-winner-from-the-ai-boom/",
-        "clean_url": "https://247wallst.com/investing/2026/08/24/forget-nvidia-cisco-could-be-a-hidden-winner-from-the-ai-boom",
-        "image": "http://www.bing.com/th?id=ONUT.svnHy4nVzE5HG_zmXbS3nQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.svnHy4nVzE5HG_zmXbS3nQ&pid=News",
-            "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2752789185.jpg",
-            "https://247wallst.com/wp-content/uploads/2026/01/GOOG-Ironwood-TPU-150x85.png",
-            "https://247wallst.com/wp-content/uploads/2025/05/shutterstock-2393627429-huge-licensed-scaled-150x84.jpg"
-        ],
-        "timestamp": 1787563800.0
-    },
-    {
-        "id": "173477de0d",
-        "title_fa": "تصاحب استارتاپ Personality AI در قراردادی ۶۹ میلیون دلاری",
-        "title_en": "WildBrain Acquires ‘Kid Safe’ Generative-AI Platform Personality AI in Deal Worth up to $69 Million",
-        "summary": [
-            "مالک شخصیت‌های کارتونی معروف مثل تلتیپیز، استارتاپ هوش مصنوعی ایمن Personality AI را خرید.",
-            "هدف این معامله ساخت شخصیت‌های تعاملی هوشمند برای کودکان بدون ذخیره‌سازی داده‌های شخصی آن‌هاست.",
-            "این قرارداد شامل ۱۱ میلیون دلار نقد و پرداختی‌های مشروط به درآمد تا سقف ۶۹ میلیون دلار می‌شود."
-        ],
-        "full_text": "WildBrain, the Canadian children's media company with the rights to titles such as \"Yo Gabba Gabba!\" and the \"Teletubbies,\" has purchased the child-focused generative AI startup Personality AI in a cash-and-stock deal worth up to $69 million in a bid to marry the company's intellectual property with the startup's conversational products. Personality AI touts its conversational character AIs as child-safe, working with a mixture of AI engineers, child development experts and entertainment producers to develop AI models based on licensed child characters that implement safeguards as children engage with them while not retaining child data. Amazon selected Personality AI last year to develop a platform on its kids-focused subscription service Amazon Kids+, leading to a \"Peppa Pig\"-based generative product for children to engage with the fictional British icon. More from Variety The company is also part of the Federal Trade Commission-backed COPPA Safe Harbor Program, one of the leading independent oversight programs related to federal child privacy protections. WildBrain hopes the acquisition will boost the revenue opportunities for its array of IP, including \"Degrassi\" and \"Strawberry Shortcake.\" \"Personality AI enables more continuous interaction between fans and brands, strengthening our ability to deliver end-to-end franchise solutions to partners,\" WildBrain CEO and president Josh Sceherba said in a statement. \"This highly complementary acquisition positions us and Personality AI as a more integrated partner to IP owners globally through our in-house licensing agency, WildBrain CPLG, while helping support the continued growth of both our owned and partner brands.\" Wildbrain paid roughly $11 million in cash along with 1 million shares. Shareholders will also receive $2 million worth of WildBrain shares (up to 1 million shares) in additional consideration on the first anniversary of closing, with the remaining balance paid in cash. The deal also includes up to $56 million in performance-based cash consideration based on Personality AI's revenue performance between 2027 and 2029. Personality CEO John Goscha will join WildBrain as the executive vice president for Personality AI and will report to Scherba.",
-        "impact": "ورود هوش مصنوعی مولد تعاملی به برنامه‌های کودک، مدل‌های درامدزایی سرگرمی دیجیتال را تغییر می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/media-advertising/articles/wildbrain-acquires-kid-safe-generative-160824805.html",
-        "clean_url": "https://finance.yahoo.com/media-advertising/articles/wildbrain-acquires-kid-safe-generative-160824805.html",
-        "image": "http://www.bing.com/th?id=ONUT.vnz9K5A3gSZM3-3iQA5ksw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.vnz9K5A3gSZM3-3iQA5ksw&pid=News",
-            "https://s.yimg.com/lo/mysterio/api/AA38CB56485DC1002019F522DF10FC63CFCE3BB1797E5A6E1F63826B98DE46D8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F843d45e80429d72eb905803670fa8582.png",
-            "https://s.yimg.com/lo/mysterio/api/1262AD4526B920CF17AA1C230B225F7FC525ADE52061DB1D465D1BB661D39381/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F843d45e80429d72eb905803670fa8582.png"
-        ],
-        "timestamp": 1787562480.0
     }
 ]
