@@ -1,5 +1,93 @@
 [
     {
+        "id": "948ada7d70",
+        "title_fa": "راه‌اندازی طرح سفیران هوش مصنوعی در مدارس بوستون",
+        "title_en": "City and Boston Public Schools launch inaugural cohort of BPS AI Educator Ambassadors",
+        "summary": [
+            "مدارس عمومی بوستون طرح ویژه‌ای برای آموزش و هدایت معلمان در زمینه بکارگیری هوش مصنوعی در کلاس‌های درس شروع کرده‌اند.",
+            "هدف این برنامه، ادغام مسئولانه فناوری در فرایند تدریس و آماده‌سازی دانش‌آموزان برای دنیای دیجیتال است."
+        ],
+        "full_text": "City and Boston Public Schools launch inaugural cohort of BPS AI Educator Ambassadors  East Boston Times-Free Press",
+        "impact": "ورود برنامه‌ریزی‌شده هوش مصنوعی به سیستم آموزشی، نحوه یادگیری نسل جدید را تغییر می‌دهد.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.7,
+        "source": "East Boston Times-Free Press",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSU1QbzZtWTRqWHVtLXh2bFJTbjRjTEdXNWFJUFo4bFo2NmZPZVNmVnBuRF9WdmdZeHpxZ3RLN0lHUGdyQ0Vjd0V4X0tTbzFqZm8wM01jU29fRFNQWFZ6RnNOT3JwZHJKaXBGeTZIX2kzMlNoZlVsckdDQndfWkpRbzJ6ZVhucWNuTlpsT1M0VUxuckJqYXlJSVNTMjhTYzUySk8ybzJFS2VVT3dERTNHZkRkT2hTbkR5OExnSVJB0gHDAUFVX3lxTFBXenNMUG4zczNPd0xGTEJvLXFxU1pmcjNvQ00tVzFicURYcnhUUnFEQnF1TlA5WmhGcU53SldHS3RzSzkzc2xaalA4d2MwYUVaV1BPczIyRWY0QWNpYVMyV21wOWJXaUhsd2ZVS2k1bE5mS3VybGRlNzdkTno5REVvMnJSM0dERHpMTlA3ckFlMHFFX0VyRExJQ2RHWDM1dTJvQno3SDEycGZLeEdnRGNqLUFBQTYzZ1VEWndKS0dvb1FOTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSU1QbzZtWTRqWHVtLXh2bFJTbjRjTEdXNWFJUFo4bFo2NmZPZVNmVnBuRF9WdmdZeHpxZ3RLN0lHUGdyQ0Vjd0V4X0tTbzFqZm8wM01jU29fRFNQWFZ6RnNOT3JwZHJKaXBGeTZIX2kzMlNoZlVsckdDQndfWkpRbzJ6ZVhucWNuTlpsT1M0VUxuckJqYXlJSVNTMjhTYzUySk8ybzJFS2VVT3dERTNHZkRkT2hTbkR5OExnSVJB0gHDAUFVX3lxTFBXenNMUG4zczNPd0xGTEJvLXFxU1pmcjNvQ00tVzFicURYcnhUUnFEQnF1TlA5WmhGcU53SldHS3RzSzkzc2xaalA4d2MwYUVaV1BPczIyRWY0QWNpYVMyV21wOWJXaUhsd2ZVS2k1bE5mS3VybGRlNzdkTno5REVvMnJSM0dERHpMTlA3ckFlMHFFX0VyRExJQ2RHWDM1dTJvQno3SDEycGZLeEdnRGNqLUFBQTYzZ1VEWndKS0dvb1FOTQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788335359.0
+    },
+    {
+        "id": "c7e8f5f233",
+        "title_fa": "داشبورد سنجش حضور برندها در جستجوهای هوش مصنوعی",
+        "title_en": "Agency Platform Introduces AI Brand Visibility Dashboard for White-Label Tracking of Brand Presence Across AI Search",
+        "summary": [
+            "پلتفرم Agency Platform داشبورد جدیدی برای رصد میزان دیده شدن برندها در موتورهای جستجوی هوش مصنوعی ارائه داد.",
+            "این ابزار به آژانس‌های دیجیتال مارکتینگ اجازه می‌دهد جایگاه مشتریان خود را در پاسخ‌های چت‌بات‌ها تحلیل کنند."
+        ],
+        "full_text": "Agency Platform Introduces AI Brand Visibility Dashboard for White-Label Tracking of Brand Presence Across AI Search  TMX Newsfile",
+        "impact": "معیارهای سئو و بازاریابی دیجیتال با ورود ابزارهای تحلیل جستجوی هوش مصنوعی کلاً دستخوش تحول می‌شوند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "TMX Newsfile",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdXo2YmFaZXh6ZVJuZkttX3hDTS1RV0hkTzIweUdZOVJQbGM5QVFhZXNMTEphcTk5UTdTWUQyWWUzSDl6NE9oblI5eVlSZmg0Nl9ydktmakwwUkNKbllYRmdwRjlxZWhMblYxQ3k1VmVOSGduOWFOMS1UOW5lM1liSk1jTGU1YkhLbkVpOXV1MmFOLXltMVlQMVN3eW5JeExMSTZMSTdaZWNfQW5QUDBBREdsZm9wN3h3bE1tSzZWM0xlclBuWEgyOXNPaUU5RHc0U2pEczh6dllaczBIaklDX2VmNC1CNXhtRzlnQlp1MVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdXo2YmFaZXh6ZVJuZkttX3hDTS1RV0hkTzIweUdZOVJQbGM5QVFhZXNMTEphcTk5UTdTWUQyWWUzSDl6NE9oblI5eVlSZmg0Nl9ydktmakwwUkNKbllYRmdwRjlxZWhMblYxQ3k1VmVOSGduOWFOMS1UOW5lM1liSk1jTGU1YkhLbkVpOXV1MmFOLXltMVlQMVN3eW5JeExMSTZMSTdaZWNfQW5QUDBBREdsZm9wN3h3bE1tSzZWM0xlclBuWEgyOXNPaUU5RHc0U2pEczh6dllaczBIaklDX2VmNC1CNXhtRzlnQlp1MVY",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788333600.0
+    },
+    {
+        "id": "e4f9077374",
+        "title_fa": "رونمایی از ابزارهای هوش مصنوعی جدید Progress Software",
+        "title_en": "What Is Progress Software (PRGS) Launching In Its New AI UI Release?",
+        "summary": [
+            "شرکت Progress Software ابزارهای تازه‌ای در قالب رابط کاربری مبتنی بر هوش مصنوعی برای توسعه‌دهندگان عرضه کرد.",
+            "این به‌روزرسانی فرایند ساخت و سفارشی‌سازی نرم‌افزارهای تجاری را برای تیم‌های فنی آسان‌تر می‌کند."
+        ],
+        "full_text": "What Is Progress Software (PRGS) Launching In Its New AI UI Release?  Yahoo Finance",
+        "impact": "تسریع در طراحی و پیاده‌سازی رابط‌های کاربری هوشمند، هزینه‌های توسعه نرم‌افزار را کاهش می‌دهد.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUFNaktQYlFvYWFSaVRkaVk2TE1rM2RLTmIwdG9jcnAyWlhHUWh0VGctRlZBWFhoQXd0UFh5eWtSVFppeUhoMjAxUlI4ejFzeElmR250Z0NiSHhiZUJ1d2ZtbzVHNVJuV3pUTktieFNVb09aVnAtazZ1cldfaW5JMThVOHQ3WDMwT1Bzazk3OUdPVEdWQ3ptcXB5SWd5dDAt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUFNaktQYlFvYWFSaVRkaVk2TE1rM2RLTmIwdG9jcnAyWlhHUWh0VGctRlZBWFhoQXd0UFh5eWtSVFppeUhoMjAxUlI4ejFzeElmR250Z0NiSHhiZUJ1d2ZtbzVHNVJuV3pUTktieFNVb09aVnAtazZ1cldfaW5JMThVOHQ3WDMwT1Bzazk3OUdPVEdWQ3ptcXB5SWd5dDAt",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788332721.0
+    },
+    {
+        "id": "9253e5e2d9",
+        "title_fa": "سامسونگ از لباسشویی‌های هوشمند Bespoke AI رونمایی کرد",
+        "title_en": "Samsung Redefines Laundry With New A-70% and 13 Kg Bespoke AI Washers at IFA 2026",
+        "summary": [
+            "سامسونگ در نمایشگاه IFA از ماشین‌های لباسشویی ۱۳ کیلوگرمی با ۷۰ درصد مصرف انرژی کمتر نسبت به رده استاندارد پرده برداشت.",
+            "الگوریتم‌های هوش مصنوعی به‌کاررفته در دستگاه، میزان مصرف آب و شوینده را متناسب با وزن و جنس پارچه تنظیم می‌کنند."
+        ],
+        "full_text": "Samsung Redefines Laundry With New A-70% and 13 Kg Bespoke AI Washers at IFA 2026  Samsung Global Newsroom",
+        "impact": "کاهش مصرف انرژی در لوازم خانگی هوشمند، استاندارد جدیدی برای بازار گجت‌های مصرفی تعریف می‌کند.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Samsung Global Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd21keDhNd1RSdUpuak05Wk1wSk5kYW50VEZFVzRDcTJ2cDY0M09hQXFfS0tOaWRhUWZFRzJmOFA0eDV5SF9JSTlPTXRuSEVwY2NEMFJaQzFWUE9PbE9HblBIbDZESWhBUVJXZ1hBSU5NTE5ENmgxaFRuM1RJbmFpMWhteUhRbnRiX2o0UkZFQVpxUUpleTRyM2FjQl9HMTY5eTg5SG44SUdtSEh3am1GMllR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd21keDhNd1RSdUpuak05Wk1wSk5kYW50VEZFVzRDcTJ2cDY0M09hQXFfS0tOaWRhUWZFRzJmOFA0eDV5SF9JSTlPTXRuSEVwY2NEMFJaQzFWUE9PbE9HblBIbDZESWhBUVJXZ1hBSU5NTE5ENmgxaFRuM1RJbmFpMWhteUhRbnRiX2o0UkZFQVpxUUpleTRyM2FjQl9HMTY5eTg5SG44SUdtSEh3am1GMllR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788330600.0
+    },
+    {
         "id": "5f36f36b0a",
         "title_fa": "رونمایی از دستاورد زیست‌فناوری Vylor برای تحول در کشاورزی",
         "title_en": "Vylor Launches a New Era in Corn: Industry-First Yield and Yield Stability Trait, Advanced Insect Control to Deliver Step-Change in Production, Farmer Profitability",
@@ -44,6 +132,29 @@
         "timestamp": 1788315324.0
     },
     {
+        "id": "e494f78d45",
+        "title_fa": "اوپن‌ای‌آی برای رونمایی از مدل جدید Astra آماده می‌شود",
+        "title_en": "مدل جدید هوش مصنوعی «اوپن‌ای‌آی» در راه است",
+        "summary": [
+            "شرکت OpenAI جزئیات تازه‌ای از مدل مورد انتظار Astra منتشر کرده که به‌زودی در دسترس کاربران قرار می‌گیرد.",
+            "این مدل زبانی جدید با لایه‌های حفاظتی محکم‌تر و ایمنی بالاتری نسبت به نسخه‌های قبلی توسعه یافته است.",
+            "تمرکز ویژه روی مکالمات زنده و ارتقای تعاملات چندوجهی از ویژگی‌های کلیدی آسترا به شمار می‌رود."
+        ],
+        "full_text": "به گزارش ایسنا، شرکت «اوپن‌ای‌آی» (OpenAI) جزئیات جدیدی را درباره مدل مورد انتظار «آسترا» (Astra) خود منتشر کرده است که برای انتشار قریب‌الوقوع آن آماده می‌شود. به گفته این شرکت، آسترا اولین مدل زبانی ...",
+        "impact": "عرضه آسترا استانداردهای ایمنی و پردازش هوش مصنوعی تعاملی را در بازار جهانی یک گام جدی به جلو می‌برد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "خبرگزاری ایسنا",
+        "url": "https://www.isna.ir/news/1405061107612/%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%88%D9%BE%D9%86-%D8%A7%DB%8C-%D8%A2%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
+        "clean_url": "https://www.isna.ir/news/1405061107612/%D9%85%D8%AF%D9%84-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%A7%D9%88%D9%BE%D9%86-%D8%A7%DB%8C-%D8%A2%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
+        "image": "http://www.bing.com/th?id=ONUT.WlnCogRNKY5ck30i0RWMxg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.WlnCogRNKY5ck30i0RWMxg&pid=News"
+        ],
+        "timestamp": 1788314100.0
+    },
+    {
         "id": "e9a61d85ea",
         "title_fa": "ممنوعیت استفاده از ابزارهای هوش مصنوعی در مدارس نیویورک",
         "title_en": "NYC to ban student AI tools in 2-K through 8th grade and limit classroom screen time",
@@ -64,6 +175,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788313560.0
+    },
+    {
+        "id": "7e586c01fe",
+        "title_fa": "تغییر نام هم‌آوا به کارخانه هوش مصنوعی ایران",
+        "title_en": "هم‌آوا «کارخانه هوش مصنوعی ایران» شد؛ از خندق آما تا ساخت کسب‌وکار از دل مسائل صنعت",
+        "summary": [
+            "مجموعه هم‌آوا رسماً برند خود را به «کارخانه هوش مصنوعی ایران» تغییر داد تا روی مسائل واقعی بخش صنعت تمرکز کند.",
+            "مدل جدید این مجموعه بر پایه شناسایی چالش‌های عمیق صنعتی و تبدیل راهکارها به کسب‌وکارهای مقیاس‌پذیر طراحی شده است.",
+            "این اقدام زمینه‌ساز همگرایی میان بخش خصوصی سنتی، دولت و شرکت‌های فناوری برای خلق مزیت رقابتی پایدار خواهد بود."
+        ],
+        "full_text": "هوش مصنوعی میتواند بهرهوری بنگاهها را افزایش دهد، اما نه در سازمانی که مسئلهاش را… ۱۱ شهریور ۱۴۰۵ ۱۱ شهریور ۱۴۰۵ زمان مطالعه : ۶ دقیقه ساخت نهاد، انباشت دانش فنی و خلق مزیتی که بهسادگی قابل تقلید نباشد، سه محور اصلی روایت شرکت صنعتی آما در نشست «یک سده کارآفرینی ایرانی» بود؛ روایتی که تجربه یک بنگاه صنعتی را به پرسشهای امروز کسبوکار پیوند زد. اکبر هاشمی، مدیرعامل کارخانه هوش مصنوعی ایران، نیز مدل این مجموعه را نه اجرای پروژههای پیمانکاری، بلکه شناسایی یک مسئله عمیق صنعتی، حل آن و تبدیل راهحل به کسبوکاری مقیاسپذیر و تکرارپذیر توصیف کرد. او همچنین از تغییر نام «همآوا» به «کارخانه هوش مصنوعی ایران» خبر داد. به گزارش پیوست، مدیرعامل کارخانه هوش مصنوعی ایران، اکبر هاشمی این مجموعه را امتداد مسیری دانست که با صنعتی شدن جاده مخصوص آغاز شد و حالا به اقتصاد دیجیتال و هوش مصنوعی رسیده است. او گفت کارخانه هوش مصنوعی قرار نیست صرفا پروژههای پیمانکاری برای صنعت انجام دهد؛ مدل مورد نظر این است که ابتدا یک مسئله عمیق صنعتی شناسایی و حل شود و سپس از دل همان راهحل، یک کسبوکار مقیاسپذیر و تکرارپذیر شکل بگیرد. هاشمی هوش مصنوعی را فراتر از یک موج فناوری توصیف کرد و عقب ماندن از آن را مسئلهای مرتبط با توان رقابتی و امنیت کشور دانست. به گفته او، کارخانه هوش مصنوعی قرارست بستری برای همگرایی دولت، بخش خصوصی سنتی و شرکتهای فناوری باشد؛ بازیگرانی که استقلال خود را حفظ میکنند اما برای حل مسائل مشخص صنعت در یک منظومه مشترک قرار میگیرند. این نگاه، کارخانه را از یک فضای صرفا فیزیکی جدا میکند. مسئله اصلی در روایت هاشمی این نیست که شرکتهای فناوری در یک محل مستقر شوند، بلکه این است که مسئله واقعی صنعت به نقطه شروع ساخت محصول و شرکت تبدیل شود. مسعود خوانساری، عضو هیاترئیسه اتاق بازرگانی تهران، بحث را به تاریخ کارآفرینی در ایران برد. او با اشاره به امینالضرب و نسلهای بعدی صنعتگران، نهادسازی را یکی از وجوه ماندگاری کارآفرینان دانست؛ به این معنا که اثر کارآفرین زمانی پایدار میشود که از راهاندازی یک بنگاه فراتر برود و ساختاری ایجاد کند که بدون وابستگی کامل به بنیانگذار ادامه پیدا کند. خوانساری یادآوری تجربه صنعتگران قدیمی را فقط مرور گذشته ندانست. از نگاه او، بازگشت به این تجربهها میتواند در برابر فضای ناامیدی هم کارکرد داشته باشد. او معتقد بود با کاهش موانع حکمرانی و فشار بر بخش خصوصی، ظرفیت انسانی و اقتصادی ایران همچنان امکان جهش دارد. فرزین فردیس، عضو هیاترئیسه اتاق بازرگانی تهران برای توضیح مفهوم «خندق کسبوکار» یا Moat به تجربه آما رجوع کرد. خندق در ادبیات کسبوکار به مزیتی گفته میشود که کپی کردن یک شرکت یا کنار زدن آن را برای رقبا دشوار میکند. فردیس گفت که در بازدید از خط تولید قدیمی آما، بخش زیادی از تجهیزات و فرآیند تولید قابل مشاهده بود، اما فرمولاسیون مواد اولیه الکترودها در فضایی جداگانه و بهصورت محرمانه انجام میشد و تنها تعداد محدودی از افراد مجموعه به آن دسترسی داشتند. از نگاه او، ارزش اصلی آما فقط در ماشینآلات یا ظرفیت تولید نبود؛ بخشی از مزیت شرکت در دانشی انباشته شده بود که بهسادگی قابل انتقال یا تقلید نبود. همین مثال، پلی میان یک کارخانه صنعتی قدیمی و استارتآپهای امروز ساخت. فناوری و هوش مصنوعی سرعت ساختن و کپی کردن را بالا بردهاند و در چنین فضایی صرف داشتن یک ایده مزیت پایدار ایجاد نمیکند. کسبوکار باید داراییای بسازد که بازتولید آن برای دیگران ساده نباشد؛ این دارایی میتواند دانش، داده، شبکه، فرآیند، برند یا ترکیبی از آنها باشد. یکی دیگر از مفاهیم مطرحشده در پنل «امید عملیاتی» بود؛ مفهومی در برابر خوشبینی صرف و همچنین انفعال. در این تعریف، محدودیتهایی مانند اختلال اینترنت، ناترازی انرژی یا سیاستهای نامساعد انکار نمیشود اما قرار هم نیست به نقطه پایان عمل تبدیل شود. امید عملیاتی یعنی مسئله را نگاه کرد، محدودیت را پذیرفت و همچنان دنبال راهحل و امکان ساختن ماند. بحث بازگشت و کار کردن در ایران نیز با همین نگاه پیوند خورد. استدلال مطرحشده این بود که در یک سیستم توسعهیافته، فرد ممکن است جزئی کوچک از ماشینی بزرگ باشد، اما در محیطی مانند ایران امکان اثرگذاری مستقیمتر و ساختن چیزی که ردپای ماندگارتری بگذارد بیشتر احساس میشود. این نگاه، «ماندن و ساختن» را نه بهعنوان یک شعار، بلکه بهعنوان انتخابی برای اثرگذاری توضیح میداد. عباس علیمددی، مدیرعامل شرکت صنعتی آما، دوام شرکت را با نگاه بلندمدت به توسعه و دانش فنی مرتبط دانست. او گفت که مدیریت آما به نیروهای جوان میدان میداد و اهمیت ویژهای برای انتقال و بهروز نگهداشتن دانش قائل بود. یکی از نمونههای این رویکرد، قرارداد همکاری فنی آما با شرکت اورلیکن سوئیس در سال ۱۳۴۲ بود؛ قراردادی ۴۰ ساله که به گفته علیمددی، زمینه دسترسی به دانش روز و تولید محصولات تخصصی را فراهم کرد. علیمددی گفت: آما امروز خود را تنها تولیدکننده الکترودهای خاص و تخصصی در این سطح کیفی در کشور میداند و حضور شرکت در صنایع حساسی مانند نفت، گاز و پتروشیمی را نتیجه همان سرمایهگذاری بلندمدت روی دانش فنی میبیند. او همچنین از تلاش بنیانگذار آما برای ایجاد یک مرکز تخصصی آموزش جوشکاری با الگوبرداری از مراکز آموزشی بینالمللی اشاره کرد. برنامهای که به گفته او بهدلیل محدودیتهای ناشی از تحریم به شکل کامل اجرا نشد. در روایت علیمددی، حل مسئله بخشی از فرهنگ مدیریتی آما بود. جملهای که از بنیانگذار شرکت نقل کرد، همین نگاه را خلاصه میکرد: «مشکلات میآیند تا به دست شما حل شوند.» شاهرخ علیزادهراد، نایبرئیس هیاتمدیره شرکت صنعتی آما و نوه بنیانگذار این شرکت، بر وجه دیگری از ماندگاری آما تأکید کرد: کار تیمی و سیستمسازی. او گفت که آما را نباید صرفا داستان موفقیت یک فرد دید، چون رشد شرکت حاصل شکلگیری تیمی بود که توانست در طول زمان مجموعه را توسعه دهد. به روایت علیزادهراد، آما فعالیت خود را در زمینی حدود ۷۰۰ متر در تهراننو آغاز کرد، سپس به فضایی حدود ۲۰ هزار متر در جاده مخصوص توسعه یافت و در مرحله بعد به زمینی حدود ۱۱۰ هزار متر رسید. با این حال، او تأکید کرد که اهمیت این روایت در بزرگ شدن متراژ کارخانه نیست؛ نکته اصلی، ساخت تیم، رهبری افراد و ایجاد سیستمی است که به حضور یک نفر وابسته نماند. علیزادهراد همچنین به عبور آما از دورههای دشوار اقتصادی، انقلاب و جنگ اشاره کرد و گفت شرکت در سالهای سخت برای صدها نفر اشتغال مستقیم ایجاد کرده بود. از نگاه او، تجربه نسل بنیانگذار برای کارآفرینان و استارتآپهای امروز بیش از آنکه یک روایت نوستالژیک باشد، درس استمرار است. بهعبارتی تلاشکردن، تیم ساختن، نظم داشتن و ادامه دادن تا زمانی که یکی از تلاشها به نتیجه برسد. نشست «یک سده کارآفرینی ایرانی» دو زبان متفاوت را کنار هم قرار داد. یکی زبان صنعت کلاسیک با کارخانه، خط تولید، انتقال دانش فنی و نهادسازی، و دیگری زبان نسل جدید با هوش مصنوعی، استارتآپ، مقیاسپذیری و Moat. تفاوت واژگان اما مسئله مشترک را پنهان نمیکرد. آما برای دوام خود روی دانشی سرمایهگذاری کرد که ",
+        "impact": "اتصال مستقیم چالش‌های صنعت به راهکارهای هوش مصنوعی می‌تواند مدل‌های درآمدی نوینی در زیست‌بوم فناوری کشور ایجاد کند.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "پیوست",
+        "url": "https://peivast.com/p/265896",
+        "clean_url": "https://peivast.com/p/265896",
+        "image": "http://www.bing.com/th?id=ONUT.Wn_lNBxb_sThi07lhQrjhA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Wn_lNBxb_sThi07lhQrjhA&pid=News",
+            "https://peivast.com/wp-content/uploads/photo_2026-09-02_10-56-38.jpg",
+            "https://peivast.com/wp-content/uploads/720_90.gif",
+            "https://peivast.com/wp-content/uploads/728-90-24.gif"
+        ],
+        "timestamp": 1788311580.0
     },
     {
         "id": "bb84640589",
@@ -6836,141 +6973,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787583910.0
-    },
-    {
-        "id": "7668a62b1f",
-        "title_fa": "جذب سرمایه ۵۸ میلیون دلاری Xenter برای تجهیزات پزشکی هوشمند",
-        "title_en": "With its $58.25 Million Series B Funding, Utah-based Xenter Plans a Diagnostics Business Launch and Continued Work on Advancing AI-Empowered Medical Devices",
-        "summary": [
-            "استارتاپ Xenter با دریافت ۵۸.۲۵ میلیون دلار سرمایه، بخش تشخیص پزشکی خود را رسماً راه‌اندازی می‌کند.",
-            "این بودجه صرف ساخت ابزارهای پزشکی مجهز به هوش مصنوعی برای مراقبت دقیق‌تر از بیماران خواهد شد."
-        ],
-        "full_text": "With its $58.25 Million Series B Funding, Utah-based Xenter Plans a Diagnostics Business Launch and Continued Work on Advancing AI-Empowered Medical Devices  Utah Money Watch",
-        "impact": "تزریق سرمایه به ابزارهای تشخیص هوشمند، تجاری‌سازی تجهیزات پزشکی AI را سرعت می‌بخشد.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "Utah Money Watch",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYm1GdUpKYVpObDlhbGlobmFaTGpybnBQVFBXZ1ljRnlOMngwSkRQbTY3MjRLVV9DdjZYcW1ya1hiUnlMTUJ6aGtOaWZ2VEZoNGJFMVczOFBCckxVTVJ1bnJTV2xJT1E1Q2JuVkp1WldaLTZBYk56a2Nydl9hbm5QNEJROFZyLWlFTmR5T2EwZTJfaHdwVTM2MFdGeGxDd2JoNnQ0ZlB2WUliTDFMYWhTUk1iN2h2YXJSNkd6SEhFZGJySkJjZ1hBRzN0SjZZTkxnVFkwVF8yX1RCN1lTRUdBU3BlNlBxRXpBVkdCWkpXdWdycFZaTHVscjFmTGljNjZOTnN3RTIwcHNtRlZHblFwTEJ2elc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYm1GdUpKYVpObDlhbGlobmFaTGpybnBQVFBXZ1ljRnlOMngwSkRQbTY3MjRLVV9DdjZYcW1ya1hiUnlMTUJ6aGtOaWZ2VEZoNGJFMVczOFBCckxVTVJ1bnJTV2xJT1E1Q2JuVkp1WldaLTZBYk56a2Nydl9hbm5QNEJROFZyLWlFTmR5T2EwZTJfaHdwVTM2MFdGeGxDd2JoNnQ0ZlB2WUliTDFMYWhTUk1iN2h2YXJSNkd6SEhFZGJySkJjZ1hBRzN0SjZZTkxnVFkwVF8yX1RCN1lTRUdBU3BlNlBxRXpBVkdCWkpXdWdycFZaTHVscjFmTGljNjZOTnN3RTIwcHNtRlZHblFwTEJ2elc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787583734.0
-    },
-    {
-        "id": "7d52407bc1",
-        "title_fa": "رمزگشایی کلید DNA توسط هوش مصنوعی برای تشخیص سرطان",
-        "title_en": "AI decodes DNA switch that starts 60 percent of human genes; mutations now assessable for cancer",
-        "summary": [
-            "پژوهشگران با کمک هوش مصنوعی موفق به کشف عملکرد کلیدهای ژنتیکی شدند که آغازگر فعالیت ۶۰ درصد از ژن‌های انسانی هستند.",
-            "این ابزار به دانشمندان اجازه می‌دهد جهش‌های دقیق DNA را ارزیابی کرده و احتمال بروز سرطان یا بیماری‌های زمینه‌ای را پیش از بروز علائم پیش‌بینی کنند.",
-            "تحولی بزرگ در پزشکی شخصی‌سازی‌شده که مسیر درمان‌های هدفمند ژنتیکی را کاملاً تغییر می‌دهد."
-        ],
-        "full_text": "AI decodes the initiator, a genetic switch present in roughly 60% of focused human gene promoters, giving researchers the first-ever quantitative tool to predict whether specific DNA mutations at transcription start sites will impair gene activation enough to cause cancer or other diseases.",
-        "impact": "انقلابی در تشخیص زودهنگام سرطان و توسعه داروهای پیشگیرانه بر پایه ژنتیک فردی.",
-        "tag": "پزشکی",
-        "urgency": 8,
-        "sentiment": 0.9,
-        "source": "Tech Times",
-        "url": "https://www.msn.com/en-us/news/technology/ai-decodes-dna-switch-that-starts-60-percent-of-human-genes-mutations-now-assessable-for-cancer/ar-AA2aOLAr",
-        "clean_url": "https://www.msn.com/en-us/news/technology/ai-decodes-dna-switch-that-starts-60-percent-of-human-genes-mutations-now-assessable-for-cancer/ar-AA2aOLAr",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787579633.0
-    },
-    {
-        "id": "45ff6d8b33",
-        "title_fa": "درخشش پلتفرم Tailor Brands در جوایز صنعت هوش مصنوعی",
-        "title_en": "Tailor Brands Wins Multiple 2026 Industry Awards for AI, Compliance, and Customer Service Excellence",
-        "summary": [
-            "پلتفرم Tailor Brands به دلیل نوآوری در ابزارهای هوش مصنوعی کسب‌وکارها موفق به کسب چندین جایزه شد."
-        ],
-        "full_text": "Tailor Brands Wins Multiple 2026 Industry Awards for AI, Compliance, and Customer Service Excellence  Morningstar",
-        "impact": "تقدیر از ابزارهای هوشمند کسب‌وکار، گرایش شرکت‌های کوچک به اتوماسیون را بیشتر می‌کند.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.7,
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYXQxNlJBUWVUQ1J5T2hZSnpPVXUwSlRpQ2hvdGNHd1NacmhTNldOazE4Rlo3cnNzQVBubDJCWEFMSDJ0TTZoNDRqV3RadlRJYWFpQWRVSV9hYk9IdzlXb0cwM09XU1ctLTJMaDBYdzNTNmNod09fV25UWWFhaTRnZGpKTTRzdjdBaGFkVHU4TmZUQ3BoVjk4S0s1eDNnMTVRU3NjZFMyUTRUcjBqcm9hVkczcVB2Tk1VYVU2Vm9xRHJZbjgtdU1meElkNGs3U2k2N2FBeVo4NjFCbDYycmc3anF1SDVtTnpvRlRGYXVhVS0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYXQxNlJBUWVUQ1J5T2hZSnpPVXUwSlRpQ2hvdGNHd1NacmhTNldOazE4Rlo3cnNzQVBubDJCWEFMSDJ0TTZoNDRqV3RadlRJYWFpQWRVSV9hYk9IdzlXb0cwM09XU1ctLTJMaDBYdzNTNmNod09fV25UWWFhaTRnZGpKTTRzdjdBaGFkVHU4TmZUQ3BoVjk4S0s1eDNnMTVRU3NjZFMyUTRUcjBqcm9hVkczcVB2Tk1VYVU2Vm9xRHJZbjgtdU1meElkNGs3U2k2N2FBeVo4NjFCbDYycmc3anF1SDVtTnpvRlRGYXVhVS0",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787579134.0
-    },
-    {
-        "id": "ab81be9e0c",
-        "title_fa": "جذب سرمایه ۳۷ میلیون دلاری استارتاپ ایرباند برای رقابت پهپادها با کامیون‌ها",
-        "title_en": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-        "summary": [
-            "استارتاپ هندی ایرباند با دریافت ۳۷ میلیون دلار سرمایه جدید، قصد دارد هزینه حمل‌ونقل هوایی محموله‌ها را به سطح ترابری جاده‌ای برساند.",
-            "طراحی موشک‌مانند این پهپادها به‌گونه‌ای است که وزن خود بدنه از محموله‌ای که حمل می‌کند کمتر است و بدون نیاز به باند، عمودی نشست و برخاست می‌کند.",
-            "این پهپادها در جابه‌جایی آزمایش‌های پزشکی، زمان جابه‌جایی چندساعته با کامیون را به فقط ۷ دقیقه کاهش داده‌اند."
-        ],
-        "full_text": "Airbound, an Indian startup building autonomous drones, has raised $37 million in fresh capital as it pushes to make moving goods through the air as cheap as trucking them by road. The Series A round, led by Greenoaks with participation from DoorDash, Lachy Groom, Lightspeed, and Humba Ventures, comes less than a year after Airbound raised an $8.65 million seed round. With this funding, the three-year-old startup has raised nearly $50 million. Airbound, and other startups in this nascent sector, argue that drones can move certain goods faster and cheaper than vehicles on the road. And while there have been successful deployments, drone delivery is still far from matching the scale and versatility of trucking. Airbound is trying to close that gap by redesigning the aircraft to make it more competitive with ground transportation. Conventional aircraft spend a lot of energy carrying their own weight rather than the payload, making flight expensive, particularly for moving smaller loads. Airbound’s answer is to build vertical-flight drones designed to weigh less than the cargo they carry, founder and CEO Naman Pushp said in an interview. Airbound’s current drone, called TRT, weighs about 3.3 pounds and can carry around 2.2 pounds of payload. Its next version, currently under development, is expected to weigh about 6.6 pounds and be able to carry up to 11 pounds, Pushp told TechCrunch. The startup uses a rocket-like, tail-sitter design for its drones, which takes off and lands vertically in an upright position before transitioning to horizontal flight. Pushp said Airbound intends to retain vertical takeoff and landing even as it develops larger aircraft to avoid dependence on runways. “We want to build towards a world where everything has cost parity with trucking,” he said. Founded in 2023, Airbound has completed more than 13,000 autonomous flights across the southern Indian cities of Bengaluru and Guntur, Pushp said. That includes more than 1,000 flights with the Indian hospital network Narayana Health, where its drones transport diagnostic samples between healthcare facilities. The startup uses a single active drone on the Narayana route, flying diagnostic samples about 2.5 miles in around seven minutes. The same samples can take three to five hours to be transported by truck when factoring in the time spent waiting for enough samples to be bundled for road transport, according to Pushp. That partnership is expanding to include Narayana’s new Banashankari hospital in Bengaluru, which was designed without an on-site diagnostic lab or blood bank and will instead rely on Airbound’s drones to connect with centralized facilities. Three-city drone network Airbound has set its sights on a far larger ambition to create a drone delivery network that connects three cities in the state of Andhra Pradesh. The startup has sign an agreement with the state government with an eventual target of 10,000 flights a day for retail, e-commerce, and healthcare deliveries. That daily flight target will require between 250 and 1,000 aircraft, depending on route lengths, though Pushp expects the number to be closer to 250. The agreement does not involve a government contract or subsidy, Pushp said, adding that the Andhra Pradesh government is working with Airbound on the regulatory framework needed to enable the network. The startup expects to generate business from companies using it for deliveries. Indian startups including Skye Air Mobility and TSAW Drones are already building aerial logistics businesses, while other Indian drone makers such as Garuda Aerospace have also explored delivery use cases. Nonetheless, Pushp argues that Airbound wants to build the aircraft that other logistics networks could eventually use rather than just trying to become the largest delivery operator. “That’s the Boeing role — the aircraft airlines everywhere rely on, not the airline itself,” he said. Airbound designs and manufactures its aircraft in a 43,000-square-foot facility in Bengaluru, where it keeps work on the airframe and other core systems in-house. While Pushp declined to disclose its production capacity or how many aircraft the startup has built so far, he said manufacturing would not be the bottleneck as Airbound scales. The bigger bottleneck, Pushp noted, is regulation, particularly securing approvals for beyond visual line of sight (BVLOS) operations, a certification that allows drones to fly beyond the direct sight of an operator and is critical to operating delivery networks at scale. Those regulatory constraints have also limited Airbound’s ability to turn its flights into meaningful commercial revenue. Moreover, the startup remains broadly pre-revenue despite having a team of more than 150 employees. “The goal is to be a giant in a few decades, not to make revenue as soon as we can,” Pushp said.",
-        "impact": "کاهش چشمگیر هزینه‌ها و زمان ارسال محموله‌های سبک و تجاری در مقایسه با ترابری سنتی.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-        "clean_url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones",
-        "image": "http://www.bing.com/th?id=ONUT.YlCkZBa2OP7gUqblexYLOA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.YlCkZBa2OP7gUqblexYLOA&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2025/01/7a9bd5727569147c3025b40e3775fc64.png?w=150"
-        ],
-        "timestamp": 1787578200.0
-    },
-    {
-        "id": "0ff6074ef6",
-        "title_fa": "چالش سهام هوش مصنوعی؛ شوک نفتی در هفته سرنوشت‌ساز انویدیا",
-        "title_en": "Iran Sanctions Launch Into Nvidia Week: Oil Shock Tests AI Stock Multiples",
-        "summary": [
-            "هم‌زمان با ورود به هفته کلیدی گزارش‌های مالی انویدیا، تشدید تحریم‌ها و احتمال شوک قیمت نفت، بازار سهام فناوری را تحت فشار قرار داده است.",
-            "افزایش هزینه‌های انرژی و تورم حاصل از آن، ارزش‌گذاری‌های سنگین شرکت‌های حوزه AI را در برابر ریسک خروج سرمایه محک می‌زند."
-        ],
-        "full_text": "Iran Sanctions Launch Into Nvidia Week: Oil Shock Tests AI Stock Multiples  Tech Times",
-        "impact": "افزایش نوسانات شدید در بازار سهام فناوری و احتمال تعدیل ارزش شرکت‌های هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Tech Times",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWZlZzRPZkhVMWRVQVdocTBNeV9tRTQ3U2JRV245X2k2WTEwWFFsN2VvZ2FoM2FIRlRKa1g4Q1E3cEpaNE1QSmN1U0ZMdmhWRWxpWGQ1OTFlOUxTdVcyQ2pPUU5HOHZwVWFZcVUwa3BRRU9PU2NpYVRHVzhvUVZOLVpCaTd6QVd1ZDJyU3p4VllPbndQWkJ1Zy1DbmJuNU4wbTFuVWNIZU9NOEFzMDhiNmpwZmNIay1XTmUtYVV2clE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWZlZzRPZkhVMWRVQVdocTBNeV9tRTQ3U2JRV245X2k2WTEwWFFsN2VvZ2FoM2FIRlRKa1g4Q1E3cEpaNE1QSmN1U0ZMdmhWRWxpWGQ1OTFlOUxTdVcyQ2pPUU5HOHZwVWFZcVUwa3BRRU9PU2NpYVRHVzhvUVZOLVpCaTd6QVd1ZDJyU3p4VllPbndQWkJ1Zy1DbmJuNU4wbTFuVWNIZU9NOEFzMDhiNmpwZmNIay1XTmUtYVV2clE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787578012.0
-    },
-    {
-        "id": "abbdf3e0b8",
-        "title_fa": "تکان در زنجیره ارزش هوش مصنوعی با انتشار مدل Ox Alpha",
-        "title_en": "Anonymous Ox Alpha release is reshaping the AI value chain (AIQ:NASDAQ)",
-        "summary": [
-            "عرضه ناگهانی و ناشناس مدل Ox Alpha نگاه تحلیل‌گران بازار سرمایه را به آینده شرکت‌های فعال در حوزه AI تغییر داده است.",
-            "این انتشار نشان می‌دهد که الگوریتم‌های جدید می‌توانند ارزش‌گذاری شرکت‌های سخت‌افزاری و نرم‌افزاری را دستخوش تغییرات جدی کنند."
-        ],
-        "full_text": "Anonymous Ox Alpha release is reshaping the AI value chain (AIQ:NASDAQ)  Seeking Alpha",
-        "impact": "احتمال تغییر در سودآوری شرکت‌های حوزه AI و جابه‌جایی سرمایه‌ها در بازار بورس.",
-        "tag": "تحلیل بازار",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWM1THdlaDVRQ2ZBX3ctZ2NZcll6WjhSN3BvNWVkN3E5YmpYV2lsbzctS3VPMlYzb3cxQUdfUVhoUlFOSEhCano0M3VSTldURkl1eTBjMldsRWdwalZUTVNKQzBKVTNLdkliSjhDa3QwX0pubnNGaUVzSHY2WDVHRjZsNjEwRTR2QWxReFNzLUlBR3FuNTRneDhDdm0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWM1THdlaDVRQ2ZBX3ctZ2NZcll6WjhSN3BvNWVkN3E5YmpYV2lsbzctS3VPMlYzb3cxQUdfUVhoUlFOSEhCano0M3VSTldURkl1eTBjMldsRWdwalZUTVNKQzBKVTNLdkliSjhDa3QwX0pubnNGaUVzSHY2WDVHRjZsNjEwRTR2QWxReFNzLUlBR3FuNTRneDhDdm0",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787577454.0
     }
 ]
