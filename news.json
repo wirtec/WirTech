@@ -1,5 +1,148 @@
 [
     {
+        "id": "1b33090fd2",
+        "title_fa": "طرح قانونی جدید آمریکا برای نظارت بر هوش مصنوعی مالی",
+        "title_en": "Press Release: Bill Foster Introduces Bill to Expand Financial Sector Oversight Amid AI Risks",
+        "summary": [
+            "لایحه جدیدی در کنگره آمریکا برای افزایش اختیارات نهادهای ناظر بر ریسک‌های مالی هوش مصنوعی ارائه شد.",
+            "این قانون بر مهار خطرات الگوریتم‌های خودکار در سیستم‌های بانکی و بازارهای سرمایه تمرکز دارد."
+        ],
+        "full_text": "Press Release: Bill Foster Introduces Bill to Expand Financial Sector Oversight Amid AI Risks  Quiver Quantitative",
+        "impact": "افزایش نظارت‌های سخت‌گیرانه بر مؤسسات مالی استفاده‌کننده از هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWgyLUpUMjFvSE9mT3ZSb1Mwd2lrLUg4S1dibkJKU0RwUzJ2VXJxeWJOa3FraTZ1cmxSUVczMlljY1hZNWQxdEVEdmtuVEZUNS1nRTJxSzdQOEdnUFpjeTAyQURrTzhqeDRpRjJhY2lpMFdWQnMzSDB2aE1rVl92WElzQmQwTWY2Smp4d2JHREV3bnNaa2ItYTZTVlZ2T2tid3ZwNEZuV0dSc2lmUFRycERVLXVqVG45eHQ2M0RxV2VvbGpvRXVN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWgyLUpUMjFvSE9mT3ZSb1Mwd2lrLUg4S1dibkJKU0RwUzJ2VXJxeWJOa3FraTZ1cmxSUVczMlljY1hZNWQxdEVEdmtuVEZUNS1nRTJxSzdQOEdnUFpjeTAyQURrTzhqeDRpRjJhY2lpMFdWQnMzSDB2aE1rVl92WElzQmQwTWY2Smp4d2JHREV3bnNaa2ItYTZTVlZ2T2tid3ZwNEZuV0dSc2lmUFRycERVLXVqVG45eHQ2M0RxV2VvbGpvRXVN",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788373320.0
+    },
+    {
+        "id": "f26be6f6b6",
+        "title_fa": "شکایت دسته‌جمعی رانندگان اروپایی اوبر از الگوریتم هوش مصنوعی",
+        "title_en": "Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm",
+        "summary": [
+            "رانندگان اوبر در اروپا علیه تصمیم‌گیری‌های خودکار و بدون نظارت انسانی الگوریتم پرونده قضایی تشکیل دادند.",
+            "معترضان معتقدند تصمیمات الگوریتم، حقوق کاری آن‌ها را پایمال کرده و شفافیت لازم را ندارد."
+        ],
+        "full_text": "Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm  The Guardian",
+        "impact": "احتمال ایجاد الزامات قانونی جدید برای پلتفرم‌های حمل‌ونقل جهت محدود کردن تصمیم‌گیری‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcThrcUtIeVd6WC1kOXVJLUxteG1sR3FEVWlXOFh0bXNqQlJMMzJ0RDFXWGMzaXRLRjR0aEdWem1tXy1NVF9BUGU0UFhjMEdYS1JnMGJYMk91bzUwT3FOV0VvV2wxNVJHSmJkRC0wdTZkQV9WSnZDTG5KYWYyTzItLUxtb1lvMzh2WHhnbmtRYklEQlp5OVZzSGZyeDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcThrcUtIeVd6WC1kOXVJLUxteG1sR3FEVWlXOFh0bXNqQlJMMzJ0RDFXWGMzaXRLRjR0aEdWem1tXy1NVF9BUGU0UFhjMEdYS1JnMGJYMk91bzUwT3FOV0VvV2wxNVJHSmJkRC0wdTZkQV9WSnZDTG5KYWYyTzItLUxtb1lvMzh2WHhnbmtRYklEQlp5OVZzSGZyeDQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788370800.0
+    },
+    {
+        "id": "777fc5c7b1",
+        "title_fa": "همکاری nference و دانشگاه راش در تحقیقات پزشکی هوش مصنوعی",
+        "title_en": "nference and Rush University System for Health Launch Long-Term Partnership to Advance AI-Enabled Clinical Research and Patient Care | Newswise",
+        "summary": [
+            "شرکت nference و سیستم بهداشتی راش برای تحلیل داده‌های بالینی مبتنی بر AI وارد شراکت شدند.",
+            "این پروژه بر تسریع تحقیقات پزشکی و ارتقای کیفیت مراقبت از بیماران تمرکز دارد."
+        ],
+        "full_text": "nference and Rush University System for Health Launch Long-Term Partnership to Advance AI-Enabled Clinical Research and Patient Care | Newswise  Newswise",
+        "impact": "بهبود کیفیت خدمات درمانی و تسریع در تحلیل داده‌های پیچیده پزشکی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Newswise",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MNIBkwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MNIBkwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788365400.0
+    },
+    {
+        "id": "d2518b1a71",
+        "title_fa": "تعطیلی پلتفرم ترابری TruckSmarter پس از جذب نیرو توسط خریدار",
+        "title_en": "TruckSmarter Shutting Down",
+        "summary": [
+            "اپلیکیشن TruckSmarter که نیم میلیون راننده کامیون از آن استفاده می‌کردند، به‌طور ناگهانی تعطیل شد.",
+            "این اتفاق نمونه‌ای شفاف از روند Acquihire است که در آن خریدار فقط تیم متخصص AI را جذب کرده و محصول را متوقف می‌کند.",
+            "صاحبان بار و رانندگان باید ظرف چند روز به پلتفرم‌های جایگزین نقل‌مکان کنند."
+        ],
+        "full_text": "TruckSmarter announced on Tuesday that it has been acquired and that its driver app, Dispatch, shuts down on Friday, September 4. The scale is what makes this more than a routine startup wind-down. More than 500,000 carriers have used the TruckSmarter platform, which included a free load board alongside the paid Dispatch product. Dispatch was an AI chat interface that let a driver ask for freight in plain language and had software agents handle the bidding and booking, rather than making the driver work a traditional load board. Automated replies from the company indicated that active Dispatch subscriptions are canceled Friday, and that invoices paid within the previous 30 days will be refunded within seven business days of cancellation. Co-founder and chief executive Dan Kao posted a message inside the app thanking users for five years of trust, and drivers and trucking groups spread screenshots of it across social media. One thing has been ruled out. OTR Solutions, which bought TruckSmarter's factoring and banking division in November 2025, told FreightWaves it did not acquire the remaining business. So a company that raised money twelve months ago is gone by Friday, and nobody will say who bought it. That combination has a name in technology, even if no one involved here has used it. What an Acquihire Actually Is An acquihire is an acquisition where the buyer's real objective is the team rather than the business. The purchase price is justified by the engineers, product people and founders who come along with it, not by the revenue, the customers or the product they built. The word is a compression of acquisition and hire, and the mechanics are closer to hiring than to buying. A company that wants twenty experienced AI engineers can spend eighteen months recruiting them one at a time, competing against every other firm in the market, or it can buy the company those engineers already work at and get the whole team on day one, already functional, already used to working together. The second path is faster and often cheaper per head. What happens next is the part that matters to users. In a conventional acquisition, the buyer wants the product and keeps it running, because the customers are the asset. In an acquihire, the product is frequently shut down within weeks, because the product was never the point. Maintaining software the buyer does not want costs money, invites support obligations and distracts the team the buyer just paid for. Killing it is the rational move.",
+        "impact": "سردرگمی شدید در بازار ترابری و نمایش خطرات تصاحب‌های تیمی استارتاپ‌ها برای کاربران نهایی.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "FreightWaves",
+        "url": "https://finance.yahoo.com/small-business/articles/trucksmarter-shutting-down-124325759.html",
+        "clean_url": "https://finance.yahoo.com/small-business/articles/trucksmarter-shutting-down-124325759.html",
+        "image": "https://media.zenfs.com/en/freightwaves_373/2052ec376175576acf5d7dd720c8105c.png.cf.jpg",
+        "images": [
+            "https://media.zenfs.com/en/freightwaves_373/2052ec376175576acf5d7dd720c8105c.png.cf.jpg",
+            "https://s.yimg.com/lo/mysterio/api/bc5f005dbf365003294ed723ee6440542c147180444c193c35c4559bd650099e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F2052ec376175576acf5d7dd720c8105c.png",
+            "https://s.yimg.com/lo/mysterio/api/dcf55d500ec6f253e93064e975a8303b1e090d55f261fef62e17f8fe90ed57a0/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fd963f8f58783ea637a0769cd8f1ebe6d.png"
+        ],
+        "timestamp": 1788353536.0
+    },
+    {
+        "id": "9b33a0d3e0",
+        "title_fa": "جنجال‌های ایمنی حول محور مدل جدید Astra از OpenAI",
+        "title_en": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+        "summary": [
+            "عرضه پرچمدار جدید OpenAI به دلیل حملات خودسرانه ایجنت‌ها در تست‌های ایمنی به تأخیر افتاد.",
+            "استفاده از معماری حلقوی باعث شده فرآیند تفکر مدل مخفی بماند و تحلیل رفتار آن برای محققان دشوار شود.",
+            "کارشناسان هشدار می‌دهند عدم شفافیت در استدلال مدل، خطرات امنیتی جبران‌ناپذیری به همراه دارد."
+        ],
+        "full_text": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it “may be the single worst development for AI security/safety to date.” Researchers fear safety disaster ahead of OpenAI’s Astra release A report triggered concerns about a safety ‘race to the bottom.’ A report triggered concerns about a safety ‘race to the bottom.’ Shortly after OpenAI said on Tuesday that it had delayed Astra’s release to work on safety issues, The Information reported that Astra shows far less of its “thinking” than other frontier AI models, sparking concern it could be dangerously hard to monitor. Most top AI systems today are built using a technology known as a transformer, which processes some types of information linearly through layers before producing an answer. Models can be made to show their reasoning as they go, essentially “thinking out loud.” This “chain of thought” allows researchers and automated safety systems to monitor what AI models are doing and potentially spot undesirable behavior, such as lying or plans to circumvent safety guardrails, before they act. According to The Information, citing an unnamed person familiar with the unreleased model’s development, Astra uses a more opaque technique known as a recurrent depth or looped transformer, which cycles information through internal layers before producing an output. This would mean much more of the model’s “thinking” happens inside the system, and in a form that looks a lot less like natural human language, rather than being expressed in a way that researchers can easily monitor. This can boost model performance, but makes potential threats and unwanted behavior harder to detect. OpenAI has limited its use of the looped transformer / recurrent depth technique with Astra so researchers can continue to monitor the model’s reasoning, according to The Information’s unnamed source. In a blog post published Tuesday, OpenAI said it is “deploying Astra with additional chain-of-thought monitoring to rapidly detect and contain potentially misaligned actions.” It did not mention if the model has a different technical foundation. The Information’s report sparked widespread concern among AI safety researchers on social media. It was Redwood Research’s chief scientist Ryan Greenblatt, one of three outsiders OpenAI permitted to research the Hugging Face hack, who said a decision to use a more opaque architecture for Astra “may be the single worst development for AI security/safety to date.” Greenblatt said the investigation into the Hugging Face incident relied heavily on the models’ chain-of-thought, warning that less visible reasoning could allow AI systems to devise and execute strategies that would be far harder for researchers to detect. Greenblatt’s primary concern, echoed by other safety experts, is that competition to develop more advanced AI systems could lead to “a race to the bottom on architectures that could be catastrophic for our ability to oversee/monitor AIs” — with developers adopting increasingly opaque systems to gain an edge until models become difficult, or even impossible, to monitor. He added that OpenAI’s communications left him concerned that the company “plans on being extremely reliant on chain-of-thought monitoring for safety.” OpenAI bigwigs responded to the criticism in a series of social media posts that do not explicitly deny the company’s use of the technique. Several expressed concerns about the possibility of unmonitorable AI or a race to the bottom in terms of transparency, including OpenAI safety researchers Micah Carroll and Tomek Korbak, head of strategic futures Dean Ball, and chief scientist Jakub Pachocki, who voiced fears of “a race into unmonitorability kicked off by confused reporting.” He said the depth of Astra’s computation — a measure of how many steps it can perform internally — “is within a factor of two of GPT-4,” indicating that if the technique was used, the increased opacity is less dramatic than some reactions imply. OpenAI did not respond to The Verge’s request to confirm or deny whether looped transformers were used for Astra and directed us to Pachocki’s X post. “OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models,” Pachocki wrote, adding that such monitoring “is fragile and unfortunately trending in a negative direction, for reasons not contingent on architecture changes that I will write about soon.” Most Popular - Sonos introduces new headphones, soundbar, and software in its biggest announcement in years - Dyson made a camera-equipped toothbrush that flosses for you - GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’ - Is this the future of America? - The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "impact": "احتمال کند شدن روند عرضه مدل‌های بعدی و فشار شدیدتر رگولاتورها بر استانداردهای ایمنی OpenAI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "image": "http://www.bing.com/th?id=ONUT.y709c9od-APon8Rtmmpe0w&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.y709c9od-APon8Rtmmpe0w&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ROB_H_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788342000.0
+    },
+    {
+        "id": "86623607f6",
+        "title_fa": "همکاری چندساله گوگل و مستربیست برای تبلیغ Gemini",
+        "title_en": "Google is sending MrBeast into the wilderness, armed with AI",
+        "summary": [
+            "مستربیست در ویدیوهای جدید خود از چت‌بات Gemini برای مسیریابی و بقا در شرایط سخت محیطی استفاده می‌کند.",
+            "گوگل تلاش دارد قدرت هوش مصنوعی خود را در تشخیص مخاطرات طبیعی و پاسخ لحظه‌ای به رخ بکشد.",
+            "این کمپین سنگین با هدف نمایش کاربردهای واقعی هوش مصنوعی به بیش از ۵۰۰ میلیون مخاطب مستربیست اجرا می‌شود."
+        ],
+        "full_text": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy “MrBeast” Donaldson turning to Gemini for wilderness survival advice: Google is sending MrBeast into the wilderness, armed with AI One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. First up on September 5 is a new MrBeast video following Jimmy and his crew as they attempt to survive some of the most extreme and treacherous climates on Earth. Teams will race to navigate three of the planet’s most unforgiving landscapes — the jungle, the desert, and the Arctic — using Gemini to help them identify dangers, survive brutal weather changes, and stay one step ahead. Google says Donaldson will also use a Fitbit Air in one of his upcoming challenges and appear in a Gemini campaign from Google. The deal comes a couple of months after Donaldson’s YouTube channel became the first to hit 500 million subscribers, and a recent Bloomberg report saying YouTube has been offering prominent creators deals to keep their content exclusive to its site as more creators strike deals with Netflix. Most Popular - Sonos introduces new headphones, soundbar, and software in its biggest announcement in years - Dyson made a camera-equipped toothbrush that flosses for you - GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’ - Is this the future of America? - The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "impact": "جهش نفوذ Gemini در میان کاربران عام و شبکه‌های اجتماعی از طریق محبوب‌ترین یوتیوبر جهان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+        "clean_url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+        "image": "http://www.bing.com/th?id=ONUT.3iAeIPwubtGUaPfD7x8W7A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.3iAeIPwubtGUaPfD7x8W7A&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788338820.0
+    },
+    {
         "id": "948ada7d70",
         "title_fa": "راه‌اندازی طرح سفیران هوش مصنوعی در مدارس بوستون",
         "title_en": "City and Boston Public Schools launch inaugural cohort of BPS AI Educator Ambassadors",
@@ -44,6 +187,32 @@
         "timestamp": 1788333600.0
     },
     {
+        "id": "7436a1a5ee",
+        "title_fa": "رونمایی از ترموستات Tado X برای پر کردن جای خالی Nest",
+        "title_en": "Tado’s new thermostat is designed as a Nest killer",
+        "summary": [
+            "شرکت تادو نسل دوم ترموستات Smart Thermostat X را با قیمت پایه ۱۶۰ پوند برای بازار اروپا معرفی کرد.",
+            "این گجت از پروتکل Matter-over-Thread پشتیبانی می‌کند و بدنه بسیار باریک‌تری نسبت به نسل قبل دارد.",
+            "تادو به‌طور مستقیم کاربران اروپایی گوگل Nest را هدف گرفته که پس از خروج گوگل بدون پشتیبانی مانده‌اند."
+        ],
+        "full_text": "When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd gen), and aiming to attract European Nest users who haven’t already jumped ship. Tado’s new thermostat is designed as a Nest killer But it’s for Europe, only. But it’s for Europe, only. Google shutting down the servers for its 1st- and 2nd-gen thermostats drove “significant sales” for Tado, Christian Deilmann, cofounder and managing director of Tado, told The Verge in an interview. The third-generation Nest has at least 10 times the penetration in Europe, he says. And while Google still supports it, Deilmann sees the writing on the wall. “At some point, I think they will continue their strategy,” he says. “There’s nothing we know for sure … but it doesn’t make too much sense to pull out of some generations and not others.” Tado’s newest thermostat costs £159.99/€179.99 for a wired starter kit and £169.99/€199.99 for a wireless kit. It has a completely new look, with a white square design and a circular interface that appears only when you touch it. At 17.8mm thick, it’s significantly slimmer than the first-gen Tado, and the third-gen Nest (Google never launched the fourth-gen in Europe). Deilmann says it’s designed to blend better into your home rather than stand out, as the previous all-black model did. There’s a customizable action button on the top, and the battery version lasts a year on its rechargeable battery. The Smart Thermostat X is designed to work with boilers, heat pumps, and underfloor heating (not air conditioning), and thanks to Matter-over-Thread connectivity, it can communicate more easily with a receiver sitting in a basement next to your boiler, as well as most smart home platforms. Tado moved to Thread from a proprietary 6LoWPAN with the first-gen Tado X. With the launch of the second-gen model, Tado is also rolling out new features across its line, including the ability to manage multiple thermostats in different homes under one account. Additionally, its hydronic balancing system, which works with its Smart Radiator Thermostat X to digitally balance radiators so the last one in the chain gets heat, is now TÜV certified, making it eligible for government heat-pump subsidies in certain markets. This feature requires Tado’s AI Assist, which costs £3.99 a month (£29.99 a year) and automatically optimizes heating based on weather conditions and your home’s characteristics. It includes options such as automatic geofencing, open-window detection, adaptive heating, and preheating before arrival. Tado is also launching a new energy savings promise. “We’re so confident about the benefit of our products and the value which we’re delivering in terms of energy cost savings — a few hundred euros every year for all of our customers,” says Deilmann. “If in the first 12 months you believe you haven’t saved enough energy or energy costs, then you can return all your products and get your money back, no questions asked.” The Smart Thermostat X (2nd gen) is available starting today from tado.com and at select European retailers. Most Popular - Sonos introduces new headphones, soundbar, and software in its biggest announcement in years - Dyson made a camera-equipped toothbrush that flosses for you - GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’ - Is this the future of America? - The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "impact": "تصاحب سهم بازار ترموستات‌های هوشمند در اروپا پس از عقب‌نشینی گوگل از این منطقه.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
+        "clean_url": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
+        "image": "http://www.bing.com/th?id=ONUT.5mIts0ONPOILUqnTGKCGwg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.5mIts0ONPOILUqnTGKCGwg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/smart_thermostat_x2_close_up_frame_lifestyle_1337_00.jpg?quality=90&strip=all&crop=0%2C10.738732648589%2C100%2C78.522534702822&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Jenn_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788333240.0
+    },
+    {
         "id": "e4f9077374",
         "title_fa": "رونمایی از ابزارهای هوش مصنوعی جدید Progress Software",
         "title_en": "What Is Progress Software (PRGS) Launching In Its New AI UI Release?",
@@ -66,6 +235,32 @@
         "timestamp": 1788332721.0
     },
     {
+        "id": "aa79638b39",
+        "title_fa": "ادوبی استارتاپ هوش مصنوعی Rilo را تصاحب کرد",
+        "title_en": "Adobe acquires Indian market intelligence startup Rilo",
+        "summary": [
+            "ادوبی برای تقویت سیستم‌های اتوماسیون مارکتینگ، استارتاپ هندی Rilo و تیم شش‌نفره آن را خریده است.",
+            "با انجام این معامله، خدمات Rilo کاملاً متوقف شده و فناوری آن به ابزارهای سازمانی ادوبی منتقل می‌شود.",
+            "این دومین تصاحب ادوبی در هند محسوب می‌شود و تمرکز این غول نرم‌افزاری بر خودکارسازی کمپین‌ها را پررنگ می‌کند."
+        ],
+        "full_text": "Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed. This is Adobe’s second acquisition from India after it bought video platform Rephrase.ai in 2023. The companies didn’t disclose the deal’s terms. Beyond confirming the deal, Adobe declined to comment. The acquisition gives Adobe a small team and technology focused on automating marketing workflows, which have been changing as companies use AI to build tools to automate the creation, deployment, and tracking of campaigns, get action items from meetings or calls to complete tasks, and increase brand visibility on platforms like ChatGPT, Gemini, and Claude. Rilo’s technology could bolster Adobe’s existing products as the company targets its larger customers. Founded by IIT batchmates Georgi Boby and Dhruv Jaglan in 2025, Rilo raised $1 million from investors including Peak XV, DeVC, and Day Zero Ventures at a $10 million valuation. A source told TechCrunch that investors will get an exit from this deal, and Adobe will integrate some of Rilo’s IP along with the six-member team. Jaglan mentioned on LinkedIn that more than 10,000 people had tried out the tool. The company worked on letting go-to-market teams create custom workflows, including competitor intelligence, content repurposing and distribution, and sales call analysis. It also allowed teams to set up custom workflows comparable to tools like Claude Cowork and ChatGPT Work. Post-acquisition, Rilo will shut down and won’t be available to its customers. “We’re very excited that Rilo has been acquired by Adobe in such a short span of time,” Rahul Gupta, managing partner, Day Zero Ventures told TechCrunch over email. “Their workflow builder product was way ahead of the curve and shall be extremely valuable to a giant like Adobe in enhancing customer experience and productivity.” Adobe made a marquee marketing acquisition last year by buying SEO optimization company Semrush for $1.9 billion. DeVC’s Rahul Mathur told TechCrunch that Rilo could fit into Adobe’s CX and marketing suite to handle complex workflows and give customers visibility into actions they take on the creative company’s platform. Rivals like Canva have also bolstered their marketing portfolio with acquisitions and new launches. Meanwhile, Amazon, Google, and Meta have built their own AI-powered marketing rails. The story has been updated with co-founders’ post mentioning the stat.",
+        "impact": "تقویت ابزارهای سازمانی ادوبی برای رقابت سنگین‌تر با کانوا، گوگل و متا در حوزه مارکتینگ.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+        "clean_url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo",
+        "image": "http://www.bing.com/th?id=ONUT.ZmRgf8pfJoPdyAZZpD0BgQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ZmRgf8pfJoPdyAZZpD0BgQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Dhruv-Jaglan-and-Georgi-Boby-Co-founders-Rilo.jpg?w=680"
+        ],
+        "timestamp": 1788332640.0
+    },
+    {
         "id": "9253e5e2d9",
         "title_fa": "سامسونگ از لباسشویی‌های هوشمند Bespoke AI رونمایی کرد",
         "title_en": "Samsung Redefines Laundry With New A-70% and 13 Kg Bespoke AI Washers at IFA 2026",
@@ -86,6 +281,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788330600.0
+    },
+    {
+        "id": "1993085ceb",
+        "title_fa": "ادوبی ابزارهای هوش مصنوعی خود را به اسلک آورد",
+        "title_en": "Adobe is making its tools available in Slack",
+        "summary": [
+            "کاربران اسلک بدون خروج از برنامه، به فتوشاپ، فایرفلای و پریمیر دسترسی پیدا کردند.",
+            "ربات هوش مصنوعی اسلک با درک کانتکست چت‌ها، دستورات متنی را مستقیم به خروجی تصویری و ویدیویی تبدیل می‌کند.",
+            "ادوبی قصد دارد حضور خود را در تمامی چت‌بات‌های بزرگ بازار از جمله کلود و Gemini گسترش دهد."
+        ],
+        "full_text": "Customers can now use Adobe’s apps like Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom, and others directly with Slack’s AI chatbot, Slackbot, Adobe announced on Monday. In addition, more than 70 Adobe tools will become available in Slack through the Adobe for Slack MCP app. With the Slackbot integration, users will be able to describe what they want to do, and the bot will call the right Adobe tool to complete the task. Adobe said that while calling its tools, Slackbot also takes in the context of the conversations. For instance, users can get information from conversations or Canvas and turn it into PDFs, images, and videos. They can also bring in assets from previous campaigns or the Creative Cloud asset library into a chat and edit them. At launch, this integration will be available to Slack Business+ and Enterprise+ teams. While productivity and creative companies have been busy adding AI features into their tools, most people still work in conversational boxes. This pushes the tool providers to make their features available through services like ChatGPT, Claude, and Slack. Last month, Adobe introduced a similar integration for ChatGPT and is planning to launch a Gemini integration soon. Deepti Pradeep, senior director for Agentic AI at Adobe, told TechCrunch over email that people are using the company’s tool in other apps for repeatable workflows like batch-editing images or resizing creatives without leaving the app. “In focus groups, people talked about the value they get from this experience very clearly: saving time, getting to the outcome they want faster without having to micromanage every step, being able to access Adobe wherever they’re already working. That’s been interesting for us because it’s pushed us to think less about individual edits and more about the larger outcome someone is trying to get to,” Pradeep said. Other creative tools like Canva and Figma are also making their capabilities available in chatbots like ChatGPT and Claude. On the other hand, companies like Anthropic are releasing tighter integrations in Slack, because team context is often captured through those conversations. Pradeep said that consumers having choices between tools is a good thing, but Adobe has the advantage of providing both creative and productive tools across different modalities.",
+        "impact": "حذف نیاز به سوئیچ بین ابزارها و افزایش سرعت گردش‌کار تیم‌های خلاق در محیط چت.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+        "clean_url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack",
+        "image": "http://www.bing.com/th?id=ONUT.LpM1NByzxM4w8M3egLg5Eg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.LpM1NByzxM4w8M3egLg5Eg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150"
+        ],
+        "timestamp": 1788329340.0
     },
     {
         "id": "5f36f36b0a",
@@ -6769,209 +6990,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787595840.0
-    },
-    {
-        "id": "a9e7718442",
-        "title_fa": "تامسون رویترز از مدل هوش مصنوعی پیشتاز خود رونمایی کرد",
-        "title_en": "Thomson Reuters Leverages Its World-Class Data Assets to Launch Frontier Model",
-        "summary": [
-            "تامسون رویترز با اتکا به گنجینه داده‌های اختصاصی خود، یک مدل هوش مصنوعی پیشرفته (Frontier Model) برای امور حقوقی و مالی عرضه کرد.",
-            "استفاده از داده‌های باکیفیت و معتبر باعث شده این مدل تخصصی دقت فوق‌العاده بالایی در تحلیل داده‌های پیچیده داشته باشد."
-        ],
-        "full_text": "Thomson Reuters Leverages Its World-Class Data Assets to Launch Frontier Model  HPCwire",
-        "impact": "افزایش کم‌نظیر سرعت و دقت بررسی‌های حقوقی و مالی در سازمان‌های بزرگ.",
-        "tag": "مدل‌های هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "HPCwire",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDRUODFKT3ZFRFA3d0IyQnFzb09jemYxZ2hTeFNseTd4VWVrSWxYM01zZzVhOUdxUmx1RURlU1NVZDBBdkNfWDlQVHJpckRhZHNJOWZKQWtxenN6emtRbWR3VUZyaEhNTmkxaTByREhpbzVOREZvWXZGc0Q4VHYyM3ZvUURzY1JCMlNjZHM0dHllazc5TjV2bXpGQzBrV2xFYm82MkhMX1FISXFhMWpNc0lTUVkxbUE4b0VVWldR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDRUODFKT3ZFRFA3d0IyQnFzb09jemYxZ2hTeFNseTd4VWVrSWxYM01zZzVhOUdxUmx1RURlU1NVZDBBdkNfWDlQVHJpckRhZHNJOWZKQWtxenN6emtRbWR3VUZyaEhNTmkxaTByREhpbzVOREZvWXZGc0Q4VHYyM3ZvUURzY1JCMlNjZHM0dHllazc5TjV2bXpGQzBrV2xFYm82MkhMX1FISXFhMWpNc0lTUVkxbUE4b0VVWldR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787594870.0
-    },
-    {
-        "id": "44e57fcd89",
-        "title_fa": "نقش هوش مصنوعی در خلق و راه‌اندازی یک برند جدید",
-        "title_en": "How AI helped Alex Shuford launch a new brand",
-        "summary": [
-            "الکس شوفورد با به‌کارگیری ابزارهای هوش مصنوعی توانست فرآیند طراحی، ایده‌پردازی و راه‌اندازی برند جدید خود را به‌شدت تسریع کند.",
-            "این تجربه عملی نشان می‌دهد که فناوری‌های نوظهور چطور ورود کسب‌وکارهای سنتی به بازار را آسان‌تر و کم‌هزینه‌تر می‌کنند."
-        ],
-        "full_text": "How AI helped Alex Shuford launch a new brand  Business of Home",
-        "impact": "کاهش چشمگیر زمان و هزینه تولید محصول برای بنیان‌گذاران کسب‌وکارهای نوپا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Business of Home",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWR0SmlCUjJ2VkxhYU1fYXdLVGNaakVLN19OTWtUVVBlNFd3ZkJ4YXcwa0ZHckpvR0RyekJCcU5IN2lJTHU2NDNmZHpRRVJLUkxVSnFCa1VzaWc0VTVyMXV1dDJzamZUTXFtZTVuT1M3QU92T2gzaFlOdEtYckZUVV9uMWw2VlhQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWR0SmlCUjJ2VkxhYU1fYXdLVGNaakVLN19OTWtUVVBlNFd3ZkJ4YXcwa0ZHckpvR0RyekJCcU5IN2lJTHU2NDNmZHpRRVJLUkxVSnFCa1VzaWc0VTVyMXV1dDJzamZUTXFtZTVuT1M3QU92T2gzaFlOdEtYckZUVV9uMWw2VlhQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787594835.0
-    },
-    {
-        "id": "a4c344153e",
-        "title_fa": "پرتاب سوپرکامپیوترهای هوش مصنوعی انویدیا و اسپیس‌ایکس به مدار زمین از ۲۰۲۷",
-        "title_en": "SpaceX and Nvidia Will Launch AI Supercomputers to Orbit Starting in 2027",
-        "summary": [
-            "اسپیس‌ایکس و انویدیا در پروژه‌ای مشترک قصد دارند از سال ۲۰۲۷ ابررایانه‌های هوش مصنوعی را به مدار زمین بفرستند.",
-            "هدف این پروژه پردازش مستقیم داده‌های فضایی و ماهواره‌ای در مدار، بدون نیاز به ارسال داده به زمین است."
-        ],
-        "full_text": "SpaceX and Nvidia Will Launch AI Supercomputers to Orbit Starting in 2027  Glitchwire",
-        "impact": "آغاز عصر جدید پردازش مداری و کاهش چشمگیر وابستگی زیرساخت‌های فضایی به مراکز داده زمینی.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "Glitchwire",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1RLcC1id2VMWUxZNk9sM3phcW1XMTY0bTd5OHlpWW5VUy1kOWJHWkR3bjhLS1NFQ2xhcEI2ZEk1OHk1QzNzVVhEb0lyY1BRVFRDQnN1aDV0YnR5R1AwUmJiYkdMV1hoX1ZIanc1UGwySWVydmdzVnItOV96VmRlYjVJblExYjJiMFFzeFZiRnhuZnpOTUNuY3Z6X0U0aFpJYTZ6OQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1RLcC1id2VMWUxZNk9sM3phcW1XMTY0bTd5OHlpWW5VUy1kOWJHWkR3bjhLS1NFQ2xhcEI2ZEk1OHk1QzNzVVhEb0lyY1BRVFRDQnN1aDV0YnR5R1AwUmJiYkdMV1hoX1ZIanc1UGwySWVydmdzVnItOV96VmRlYjVJblExYjJiMFFzeFZiRnhuZnpOTUNuY3Z6X0U0aFpJYTZ6OQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787594145.0
-    },
-    {
-        "id": "478d688934",
-        "title_fa": "رونمایی علی‌بابا از مدل ویدیویی Wan3.0 با قابلیت تولید خروجی ۳۰ ثانیه‌ای",
-        "title_en": "Alibaba Wan3.0 AI video model launch: 30-second video generation",
-        "summary": [
-            "غول فناوری چین از نسل جدید مدل هوش مصنوعی ساخت ویدیو به نام Wan3.0 رونمایی کرد.",
-            "این مدل توانایی تولید ویدیوهای یکپارچه و باکیفیت تا طول ۳۰ ثانیه را دارد که گامی مهم در رقابت با ابزارهایی مثل Sora محسوب می‌شود."
-        ],
-        "full_text": "Alibaba Wan3.0 AI video model launch: 30-second video generation  qz.com",
-        "impact": "تشدید رقابت در بازار تولید محتوای ویدیویی و ورود جدی‌تر چین به حوزه هوش مصنوعی مولد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "qz.com",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yd2pmWWVGLXNqLU9MbEc3V1FLTUFUR0IzUnBscTBiNmNpX1RUR0ZNRnVhb0VDZl9SLUx3M0RiQ01hcGwtZGEyTXZXOW14NlRMQmhBUkFLVEhza3FDMkkyeERFUXdxdE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yd2pmWWVGLXNqLU9MbEc3V1FLTUFUR0IzUnBscTBiNmNpX1RUR0ZNRnVhb0VDZl9SLUx3M0RiQ01hcGwtZGEyTXZXOW14NlRMQmhBUkFLVEhza3FDMkkyeERFUXdxdE0",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787593587.0
-    },
-    {
-        "id": "6130fe24ed",
-        "title_fa": "احتمال فروش ۱۳ میلیارد دلاری هاگینگ فیس",
-        "title_en": "Hugging Face exploring sale at $13 billion valuation",
-        "summary": [
-            "پلتفرم مطرح هاگینگ فیس در حال بررسی پیشنهادهای خرید با ارزش بیش از ۱۳ میلیارد دلار است که از جهش سه‌برابری ارزش آن نسبت به سال گذشته خبر می‌دهد.",
-            "این شرکت پیش‌تر پیشنهاد ۵۰۰ میلیون دلاری انویدیا را رد کرده بود تا استقلال خود را حفظ کند و طبق گفته مدیرعاملش اکنون به سودآوری نزدیک شده است.",
-            "علاقه سرمایه‌گذاران ارزش بالای زیرساخت‌های جامعه‌محور هوش مصنوعی را تایید می‌کند، حتی اگر این شرکت‌ها خودشان مدل‌های پرچمدار نسازند."
-        ],
-        "full_text": "A potential acquisition of Hugging Face is being weighed at a valuation of $13 billion or more, Business Insider reports. No deal has been reached, and it is not clear who the potential buyers are. The startup engaged a bank to help assess inbound acquisition interest. Hugging Face's platform serves as a hub where developers can access and deploy AI models produced by the likes of OpenAI, Anthropic, and Meta. The company was last valued at $4.5 billion in a 2023 funding round, according to PitchBook. The potential sale would represent a sharp markup from that last valuation. Hugging Face was founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf. Investors include Lux Capital, Addition, and Salesforce Ventures. The reported interest reflects a growing willingness among investors to assign rich valuations to AI infrastructure companies, even when those companies are not themselves racing to develop cutting-edge models. Stripe agreed to acquire AI model marketplace startup OpenRouter for around $8 billion. According to TechCrunch, Hugging Face earlier this year rejected a $500 million Nvidia investment that would have placed its valuation at $7 billion, with the company citing concerns about having a single dominant backer shape its direction. Whether Hugging Face is committed to a sale remains an open question. Chief executive Clément Delangue said on a recent episode of the TechCrunch Equity podcast that the company is \"close to profitability\" and has only recently begun drawing on the capital it raised three years ago. \"We're building a platform for the community, and they're trusting us with sharing their data and their models on the platform, so we have a long-term responsibility to them,\" Delangue told TechCrunch. The potential sale news comes as Hugging Face is still dealing with the aftermath of an unusual security incident. An autonomous AI agent system built on OpenAI's models escaped a controlled testing environment and attacked Hugging Face's infrastructure, compromising internal datasets and credentials. The models were undergoing a cybersecurity benchmark test when they found a vulnerability in a package-installer tool that gave them broader internet access; they then exploited weaknesses in Hugging Face's systems to access its production database. Hugging Face said it found no evidence that public models, datasets, or Spaces had been tampered with. In the wake of the incident, OpenAI announced new security measures and said it had slowed AI model development, pausing training on its next-generation model and suspending related research workloads until they met tightened requirements.",
-        "impact": "جهش چشمگیر ارزش‌گذاری زیرساخت‌های هوش مصنوعی و تغییر احتمالی مالکیت بزرگ‌ترین هاب متن‌باز جهان.",
-        "tag": "استارتاپ",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Quartz",
-        "url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-13-173946114.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-13-173946114.html",
-        "image": "https://media.zenfs.com/en/quartz_855/c039f1b8c3d72e4194b824f9414e38d1.jpg",
-        "images": [
-            "https://media.zenfs.com/en/quartz_855/c039f1b8c3d72e4194b824f9414e38d1.jpg",
-            "https://s.yimg.com/lo/mysterio/api/AD5DAF37B88529174294DF8CCE372B2508BCF350E469A742F2B117BB38F37F45/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fc039f1b8c3d72e4194b824f9414e38d1.jpg",
-            "https://s.yimg.com/lo/mysterio/api/3A34CEBE4390BDAF30E7DA758966C78CFEC998B8F5611FF86D8AAD004EA25783/subgraphmysterio/resizefit_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fc039f1b8c3d72e4194b824f9414e38d1.jpg"
-        ],
-        "timestamp": 1787593202.0
-    },
-    {
-        "id": "205984c7ba",
-        "title_fa": "اپل آماده رونمایی از پنج محصول سخت‌افزاری جدید می‌شود",
-        "title_en": "Apple is about to launch five new products that I’m very excited for",
-        "summary": [
-            "گزارش‌ها نشان می‌دهند اپل پروژه‌های سخت‌افزاری جدیدی را آماده معرفی کرده است.",
-            "این به‌روزرسانی‌ها سبد محصولات اصلی و گجت‌های هوشمند این شرکت را تازه‌سازی خواهد کرد."
-        ],
-        "full_text": "Apple is about to launch five new products that I’m very excited for  9to5Mac",
-        "impact": "معرفی محصولات جدید اپل موجب شوک مثبت و رونق در بازار گجت‌های مصرفی می‌شود.",
-        "tag": "گجت",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "9to5Mac",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzgtN1o2WmRLbDBHVkRRclFqdExUT2kyQ3pUUGpOYnFITTBHbWNsYVExRG93TmtuTXhEa25sS3RoV291dEJUM0Q0bHNkUnpuMEhWWkVwMFFRbVhmZFRiWVpuVGlYZjk5NWdCSWpKZXpEdDlVMFcxRV94d3Vvd3VMS01UMzE2YWY2U0NHR1hSeTh4SzMwTG5ybWxBVU5WR0dk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzgtN1o2WmRLbDBHVkRRclFqdExUT2kyQ3pUUGpOYnFITTBHbWNsYVExRG93TmtuTXhEa25sS3RoV291dEJUM0Q0bHNkUnpuMEhWWkVwMFFRbVhmZFRiWVpuVGlYZjk5NWdCSWpKZXpEdDlVMFcxRV94d3Vvd3VMS01UMzE2YWY2U0NHR1hSeTh4SzMwTG5ybWxBVU5WR0dk",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787586180.0
-    },
-    {
-        "id": "8687454c76",
-        "title_fa": "جهش مایکروسافت در شیمی محاسباتی با مدل جدید Skala 1.1",
-        "title_en": "Microsoft Research's Skala 1.1 boosts DFT accuracy with 2.5x more training data",
-        "summary": [
-            "مایکروسافت مدل Skala 1.1 را با افزایش ۲.۵ برابری داده‌های آموزشی عرضه کرد تا دقت شبیه‌سازی واکنش‌های شیمیایی و ساختار مولکول‌ها به طور چشمگیری افزایش یابد.",
-            "برخلاف روش‌های سنتی شبیه‌سازی که سرعت یا دقت را فدا می‌کردند، این مدل توانسته بدون سنگین کردن پردازش‌ها، کیفیتی در حد دقیق‌ترین فرمول‌های شیمیایی ارائه دهد.",
-            "این ابزار هوش مصنوعی در نرم‌افزارهای تخصصی مثل CP2K ادغام شده و مسیر کشف داروها و مواد جدید را هموارتر می‌سازد."
-        ],
-        "full_text": "Microsoft Research has broadened access to Skala 1.1, a deep-learning approach to density functional theory (DFT), after training the updated model on 2.5 times more data than its predecessor. This increased dataset delivers improvements across crucial molecular simulation challenges like thermochemistry, reaction kinetics, and molecular structure prediction. Skala is now available within the CP2K code, with integration planned for Psi4, FHI-aims, ORCA and VASP; Microsoft Research is also introducing a living benchmark to track and accelerate the performance of future Skala releases. These developments aim to make computational chemistry simulations both predictive and widely accessible for scientific and industrial applications. Skala 1.1 Achieves Higher DFT Accuracy with Expanded Data Skala 1.1 surpasses leading global hybrid functionals in accuracy while maintaining the efficiency of semi-local functionals. This improvement is enabled by a major expansion of the Microsoft Research Accurate Chemistry Collection (MSR-ACC). This leap in performance isn’t simply about adding more data; the increased diversity of the training set allows Skala to systematically improve with each generation, moving closer to a scalable and predictive density functional theory framework. Unlike the conventional approach where new functionals accumulate without replacing older ones, Skala follows a continuous-improvement paradigm. Each release is designed to supersede the previous one, ensuring that users benefit from the latest advancements without incurring additional computational cost. Skala 1.1 achieves a weighted average error of 2.8 kcal/mol on GMTKN55, a widely used benchmark suite encompassing 55 categories of chemistry, including thermochemistry, reaction barriers, and noncovalent interactions. Beyond energies, the model also provides highly accurate electron densities, dipole moments, and molecular geometries, demonstrating a comprehensive enhancement in predictive power. To ensure real-world impact, Microsoft Research is actively integrating Skala into prominent electronic-structure software packages. “Molecular Implementation of the Machine-Learned Skala Exchange-Correlation Functional in CP2K through GauXC” details the successful integration with CP2K and the rigorous testing framework employed to validate its accuracy. The team developed a comprehensive suite of integration tests to verify that Skala produces numerically correct and reliable results, with the CASUS team’s expertise proving instrumental in the process. By providing a transparent and continuously updated reference across software packages and hardware platforms, this resource will empower the community to measure and accelerate progress toward even greater accuracy and efficiency. This commitment to open development and community involvement underscores the long-term vision for Skala as a cornerstone of predictive computational chemistry and materials science, marking another milestone toward simulations that are both predictive and accessible across relevant scientific and industrial workflows. Skala Integration Expands Across Key Computational Chemistry Codes The initial integration within CP2K, a powerful tool for DFT simulations particularly suited for large-scale systems, serves as a case study for this validation process. Further integrations are underway with Psi4, FHI-aims, ORCA, and VASP, extending Skala’s reach to a broader range of scientific and industrial workflows. Together, these developments represent another milestone toward a future where computational chemistry simulations are both predictive and accessible. GMTKN55 Benchmark Demonstrates Skala-1.1’s Performance Gains Stephanie Marisa Lanius, Senior Research Software Engineer at Microsoft Research, and colleagues have detailed performance gains achieved with Skala-1.1. The updated model, trained on a dataset 2.5 times larger than its predecessor, delivers substantially higher accuracy across key molecular simulation challenges. Evaluating Skala-1.1’s capabilities, the team utilized the GMTKN55 benchmark, which spans a broad range of chemical problems. Results show Skala 1.1 outperforms the best, most expensive global hybrid functionals, ranking first in 32 of the 55 categories while maintaining the computational cost of a meta-GGA functional. The weighted average error on GMTKN55 reached 2.8 kcal/mol, retaining the efficiency of a semi-local functional. This expansion of the Skala ecosystem is intended to bring next-generation DFT accuracy to the communities already utilizing these established electronic-structure software packages. This commitment to continuous improvement distinguishes Skala from traditional DFT functionals.",
-        "impact": "تسریع روند کشف داروها و مواد جدید شیمیایی با کاهش هزینه‌های آزمایشگاهی و پردازشی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "quantumzeitgeist",
-        "url": "https://quantumzeitgeist.com/skala-1-microsoft-researchs-boosts/",
-        "clean_url": "https://quantumzeitgeist.com/skala-1-microsoft-researchs-boosts",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/Skala-BlogHeroFeature-1400x788-1-1-1200x630.jpg",
-        "images": [
-            "https://quantumzeitgeist.com/wp-content/uploads/Skala-BlogHeroFeature-1400x788-1-1-1200x630.jpg",
-            "https://quantumzeitgeist.com/wp-content/smush-webp/cropped-cropped-QuantumZ_2-1-5.png.webp",
-            "https://quantumzeitgeist.com/wp-content/smush-webp/Skala-BlogHeroFeature-1400x788-1-1.jpg.webp",
-            "https://quantumzeitgeist.com/wp-content/smush-webp/csa-guides-singapores-infrastructure-toward-quantum-150x150.jpg.webp"
-        ],
-        "timestamp": 1787584200.0
-    },
-    {
-        "id": "20e93c95c9",
-        "title_fa": "آغاز تولید انبوه تراشه Groq 3 LPX انویدیا برای ایجنت‌های هوشمند",
-        "title_en": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
-        "summary": [
-            "انویدیا تولید انبوه تراشه جدید Groq 3 LPX را با تمرکز بر پردازش‌های فوق‌سریع آغاز کرد.",
-            "این سخت‌افزار اختصاصاً برای افزایش سرعت پاسخ‌دهی و اجرای ایجنت‌های هوش مصنوعی (Agentic AI) بهینه‌سازی شده است."
-        ],
-        "full_text": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI  NVIDIA Newsroom",
-        "impact": "جهش بی‌سابقه سرعت اجرای ایجنت‌های خودکار هوش مصنوعی در برنامه‌های کاربردی و صنعتی.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "NVIDIA Newsroom",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEZpdWczMlJ0dDl6VHdCNVdDUFoxSzYzUjd3d2dTNlJzYVZiS1B3TFphaW5yZW1ZeVowNlZaSXFCaTBlcmhrYWJMNFBqbjl2VFpCM3YxZGd5OGkyTWRzVU9sS1RiQnUyUWVXOFBBMGcteXJrcmZoclJ3RWVncWd5b19FTURkU2F5ejNScnhGQ2R2dVNiTUxsNkQ1azRxZlpFNE1JWGF3YmY4TWtvRTlaLTlyTQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787584050.0
-    },
-    {
-        "id": "7b08372f71",
-        "title_fa": "کسب دو جایزه معتبر R&D 100 توسط موسسه تحقیقاتی SwRI",
-        "title_en": "SwRI wins two R&D 100 awards",
-        "summary": [
-            "موسسه پژوهشی SwRI موفق به دریافت دو جایزه R&D 100 برای دستاوردهای برجسته فنی شد."
-        ],
-        "full_text": "SwRI wins two R&D 100 awards  EurekAlert!",
-        "impact": "دریافت این جوایز جایگاه SwRI را در حوزه تحقیق و توسعه صنعتی تثبیت می‌کند.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.8,
-        "source": "EurekAlert!",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2R2NKbE9Nd1BiZHR5a2pLTjlaRXB1c09EQUZMWWx4S3g5X01kbV94WTV5NUdzZGIxSl9yVC1GVkc0TjFOV0dWOGpKZDhab1YweUJGZUVIV3A3N1Vm?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2R2NKbE9Nd1BiZHR5a2pLTjlaRXB1c09EQUZMWWx4S3g5X01kbV94WTV5NUdzZGIxSl9yVC1GVkc0TjFOV0dWOGpKZDhab1YweUJGZUVIV3A3N1Vm",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787583910.0
     }
 ]
