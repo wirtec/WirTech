@@ -1,5 +1,49 @@
 [
     {
+        "id": "ea69264d9a",
+        "title_fa": "پنج مرز آسیب‌ناپذیر حوزه پزشکی در برابر نفوذ هوش مصنوعی",
+        "title_en": "5 things AI can’t replace in health care",
+        "summary": [
+            "با وجود پیشرفت‌های چشمگیر الگوریتم‌های تشخیصی، کادر درمان در حوزه‌هایی مثل همدلی، تصمیم‌گیری‌های پیچیده اخلاقی و ارتباط عاطفی بی‌جایگزین باقی می‌مانند.",
+            "بررسی‌ها تاکید می‌کنند هوش مصنوعی صرفاً ابزاری مکمل برای کاهش بار کاری پزشکان است، نه جایگزینی برای دانش و حس انسانی."
+        ],
+        "full_text": "5 things AI can’t replace in health care  Chattanooga Times Free Press",
+        "impact": "تثبیت نقش هوش مصنوعی به عنوان دستیار مکمل و عدم جایگزینی کادر درمان در آینده نزدیک.",
+        "tag": "سلامت",
+        "urgency": 4,
+        "sentiment": 0.3,
+        "source": "Chattanooga Times Free Press",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWZjRG43MGVHQzB5R1hPbTZ2NC1MX3I3R2hBd1ZHaTFPZlc2SktoZ3B3TWJyWURjaXdpWVdWSXBZeUZKdGNtajRoX21xOGhWYmNwTURCN3VKWTE3c3dsY3E3b0lydk9VbEVSWDRxbVVMZmZ6aVM5M09ibzZiemdoUzRpdzJ6cnd4ZnMyVG5ERk9Cdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWZjRG43MGVHQzB5R1hPbTZ2NC1MX3I3R2hBd1ZHaTFPZlc2SktoZ3B3TWJyWURjaXdpWVdWSXBZeUZKdGNtajRoX21xOGhWYmNwTURCN3VKWTE3c3dsY3E3b0lydk9VbEVSWDRxbVVMZmZ6aVM5M09ibzZiemdoUzRpdzJ6cnd4ZnMyVG5ERk9Cdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788300000.0
+    },
+    {
+        "id": "60e285a8eb",
+        "title_fa": "ورود چت‌جی‌پی‌تی و گراک به گزینه‌های هوش مصنوعی وزارت جنگ آمریکا",
+        "title_en": "ChatGPT, Grok Added to War Department's AI System Options",
+        "summary": [
+            "وزارت جنگ ایالات متحده مدل‌های هوش مصنوعی چت‌جی‌پی‌تی و گراک را به فهرست ابزارهای پردازشی مجاز خود اضافه کرد.",
+            "این تصمیم ورود رسمی مدل‌های زبانی تجاری را به حساس‌ترین زیرساخت‌های دفاعی و نظامی کلید می‌زند."
+        ],
+        "full_text": "ChatGPT, Grok Added to War Department's AI System Options  U.S. Department of War (.gov)",
+        "impact": "تأیید رسمی کاربرد نظامی مدل‌های زبانی بزرگ تجاری در سطح پنتاگون.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "U.S. Department of War (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788299990.0
+    },
+    {
         "id": "791863662a",
         "title_fa": "جان ترنوس؛ چهره کلیدی و مدیرعامل جدید اپل",
         "title_en": "Who is John Ternus, Apple’s new CEO?",
@@ -223,6 +267,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788263280.0
+    },
+    {
+        "id": "9cde06b93b",
+        "title_fa": "حمله سنگین ویمو به تسلا؛ جنگ فناوری خودران اوج گرفت",
+        "title_en": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+        "summary": [
+            "ویمو با انتشار یادداشتی اعلام کرد ایمنی کامل خودروهای خودران بدون ترکیب لایدار، رادار و دوربین غیرممکن است و سیستم‌های صرفاً مبتنی بر دوربین تسلا امنیت کافی ندارند.",
+            "این ادعا درست یک هفته پیش از رویداد بزرگ تسلا برای معرفی «سایبرکب» و هم‌زمان با توسعه خدمات ویمو به سه شهر جدید مطرح شد.",
+            "تحلیل‌گران ورود ویمو به این چالش رسانه‌ای را ناشی از نگرانی این شرکت از تغییر بازی به نفع هوش مصنوعی یکپارچه تسلا می‌دانند."
+        ],
+        "full_text": "Waymo argued last week that fully autonomous vehicles are not possible without using a mix of sensors, and that “pure end-to-end” AI systems are not safe enough — shots at Tesla, despite the Alphabet-owned company not naming names. The company took these swings in a blog post and an interview with Axios just one week ahead of a September 3 event where Tesla is expected to formally introduce its two-seater Cybercab into its own small-but-growing robotaxi fleet. Waymo also announced three new markets on Tuesday morning, further extending its robotaxi network, which is serving customers in more than a dozen U.S. cities. Despite being technical and a bit wonky, Waymo’s claims kicked off a social media fight that lasted all weekend. “Arguments they bring forward are poor,” Pierre Ferragu, an analyst and managing partner at New Street Research who covers Tesla, wrote on X. “My read: Waymo built a driving gas plant that AI at scale makes irrelevant, and now falls into incumbent rhetoric. Innovator dilemma 101.” “How it feels to say your data and record of success leads you to believe driverless mileage, AI interpretability, and multiple sensor types are critical for safe, fully autonomous driving at scale,” wrote Ethan Teicher, a Waymo spokesperson, while sharing a John Wick promo image that depicts more than a dozen guns pointed at the head of Keanu Reeves’ character. The metaphorical knives — or guns, apparently — are out because if Tesla can prove the Cybercab is capable of performing at scale, it would set up a major fight between the two companies and their disparate approaches to developing autonomous vehicles. At stake is a market that could be worth hundreds of billions of dollars. For years, this fight was more academic or philosophical than anything. But last week Waymo flexed its real-world experience. “Cameras are incredible, but they aren’t enough,” Srikanth Thirumalai, a VP who oversees Waymo’s driving software, wrote in the company’s blog post. “For years, there’s been a debate over whether cameras alone could solve full autonomy. Now, after more than 200 million real-world miles, the data is clear: safe, fully autonomous operations at scale require more. By combining inputs from cameras, lidar, and radar, the Waymo Driver creates a rich, redundant world view that no single sensor can replicate.” Thirumalai also wrote that a pure end-to-end neural architecture that “takes in raw pixels and directly outputs steering commands” — which is Tesla’s approach to autonomy — will “run the risk of black box failures.” “Even the best AI models with trillions of parameters still hallucinate,” he told Axios. “There is no click reboot or reload or refresh [in] physical AI. You have to deal with the consequences of it.” Waymo has long taken the approach of integrating a mix of cameras, radar, and lidar sensors into vehicles built by other manufacturers. While it’s a more conservative technological approach, it has allowed the company to scale to a fleet of around 4,000 robotaxis across 14 U.S. cities, which provides 500,000 paid trips per week. At Tesla, Elon Musk has long derided the use of lidar, calling it a “crutch.” The company has instead put all its efforts into trying to make fully autonomous cars using just cameras and AI. And Tesla has spent the last few years developing the Cybercab, a purpose-built two-seater gold sedan designed to be autonomous from the get-go. The Cybercab has no steering wheel or pedals and a relatively small battery, and Tesla plans to pump out thousands of them — a recent filing shows the company aiming to build more than 125,000 annually. Of course, Tesla still needs to show that its self-driving software is capable of full autonomy. The company is years behind schedule; Musk once promised there would be 1 million robotaxis on the road in 2020 — though the company has spent the last year trialing its own Tesla Robotaxi network in a handful of cities in Texas and Florida using modified Model Y SUVs. Those trials have stayed small, with Tesla claiming it’s prioritizing safety over scale. It’s only within the last few weeks that Tesla has pulled safety monitors out of a majority of those cars. But that is likely about to change. Tesla has started registering Cybercabs with the Texas DMV ahead of the September 3 event. It’s unclear how quickly the company plans to scale the fleet after introducing the shiny two-seater, though social media users have spotted dozens of them sitting in parking lots around the country. If Tesla can show that its AI-first approach to self driving can work at scale, it would be a major accomplishment for the company and validation for its software engineers. The company will still have to demonstrate that it can solve all the other problems that come with operating a robotaxi network, though — problems that Waymo continues to discover as it operates thousands of self-driving cars. Those include navigating harsh weather, steering clear of emergency situations, and operating safely around school zones. But beyond the technological differences, there’s another fight brewing: cost. Waymo’s technological approach is naturally more expensive. It uses more sensors, and installs them on vehicles that other companies manufacture. That means Waymo has to buy those vehicles and, in the case of the Zeekr-made Ojai, pay import taxes on them before they’re even outfitted with self-driving technology. Tesla makes its own cars and is betting its AI will be capable enough to never need anything other than a few cameras to navigate the world. It’s a major gamble — one Waymo clearly thinks won’t pay off. But if it does, it gives Tesla the chance to outcompete Waymo, or possibly even Uber, on price.",
+        "impact": "شکل‌گیری جنگ تمام‌عیار میان دو استراتژی متفاوت در بازار چندصد میلیارد دلاری تاکسی‌های رباتیک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+        "clean_url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch",
+        "image": "http://www.bing.com/th?id=ONUT.ukAASP2gpryuRR5Yx9T8yQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ukAASP2gpryuRR5Yx9T8yQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2023/12/Sean-OKane.jpeg?w=150"
+        ],
+        "timestamp": 1788256140.0
     },
     {
         "id": "f35cf4015d",
@@ -6897,75 +6967,5 @@
             "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150"
         ],
         "timestamp": 1787569380.0
-    },
-    {
-        "id": "b6d4891bdd",
-        "title_fa": "برنامه ۶ میلیارد دلاری انویدیا برای ساخت مدل‌های متن‌باز و رقابت با چین",
-        "title_en": "Reports: Nvidia to use $6bn Poolside deal to build open-weight models",
-        "summary": [
-            "انویدیا با قرارداد ۶ میلیارد دلاری با استارتاپ Poolside و جذب ۱۰۹ کارمند آن، وارد عرصه ساخت مدل‌های هوش مصنوعی متن‌باز (Open-weight) می‌شود.",
-            "جن سن هوانگ هدف این اقدام را پاتک به پیشتازی مدل‌های چینی مانند DeepSeek و Qwen و ایجاد یک اکوسیستم باز در آمریکا اعلام کرده است.",
-            "این تصمیم، انویدیا را مستقیماً در برابر شرکای کلیدی‌اش یعنی OpenAI و Anthropic قرار می‌دهد."
-        ],
-        "full_text": "US AI leadership will be through an open ecosystem of models, not frontier dominance, Jensen Huang said. Nvidia is planning to use its $6bn deal with AI start-up Poolside to build open-weight AI models that can rival the likes made by China’s DeepSeek and Moonshot, the Wall Street Journal (WSJ) reported over the weekend. The reports come after the chipmaking giant promised a combined $7bn investment into the AI start-up, including $1bn in equity at a pre-money valuation of $12bn. This marks a four-fold jump from the company’s 2025 valuation of $3bn. Founded in 2023, Poolside is behind its Laguna series of open-weight models, small enough to run on a single Nvidia DGX GPU. Nvidia’s reported plans to make its own open-weight models also places it in direct competition with other US AI companies it backs, including OpenAI and Anthropic, as global businesses compete for dominance in the space. Open-weight models are generally far cheaper to run and allow developers to make customisations to suit their need. And China is by far the leader in this space according to data collected by Hugging Face, which found that Alibaba’s Qwen models were downloaded more than 3bn times over the past six months, placing it ahead of Google, OpenAI, Meta and other rivals by a large margin. Nvidia founder and CEO Jensen Huang, in a recently published letter, highlighted the importance of open-weights for AI leadership. “Our AI leadership will be judged not by one frontier AI model, but by whether the United States builds a strong, open ecosystem that diffuses into every sector,” he wrote. “Open weights expand access to the AI economy. Start-ups, established businesses, universities and public institutions can build on advanced models without training one from scratch or paying frontier model prices for every task. “Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk,” he added. Alongside its multibillion-dollar commitment to Poolside, Nvidia is also nabbing the start-up’s 109 employees. The non-exclusive nature of the deal means leadership will not be joining Nvidia and will continue working on their own projects. Deals like these give Nvidia access to a company’s technical prowess, including research and staff, while minimising the chipmaker’s overall efforts to develop its own technology. In 2025, the company signed US AI company Groq in a licensing deal that saw much of its talent hired away by the chipmaking giant. The same year, it spent more than $900m to hire Enfabrica CEO Rochan Sankar and other employees at the AI start-up and license the company’s technology. Nvidia is also reportedly in talks with South Korean chipmaker Rebellions for a similar partnership that could result in an investment or an acquisition. Poolside employees joining Nvidia will reportedly work on the company’s Nemotron project, which aims to develop open-weight models, sources told WSJ. Don’t miss out on the knowledge you need to succeed. Sign up for the Daily Brief, Silicon Republic’s digest of need-to-know sci-tech news.",
-        "impact": "تغییر موازنه قدرت به نفع مدل‌های متن‌باز و کاهش هزینه توسعه هوش مصنوعی برای شرکت‌ها.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.7,
-        "source": "Silicon Republic",
-        "url": "https://www.siliconrepublic.com/business/reports-nvidia-to-use-6bn-poolside-deal-to-build-open-weight-models",
-        "clean_url": "https://www.siliconrepublic.com/business/reports-nvidia-to-use-6bn-poolside-deal-to-build-open-weight-models",
-        "image": "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only.jpeg",
-        "images": [
-            "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only.jpeg",
-            "https://www.siliconrepublic.com/wp-content/uploads/2023/01/AdobeStock_472519341_Editorial_Use_Only-718x523.jpeg",
-            "https://www.siliconrepublic.com/wp-content/uploads/2026/08/nvidia-and-unitree-330x251.jpeg",
-            "https://www.siliconrepublic.com/wp-content/uploads/2024/08/a-4-330x251.jpeg"
-        ],
-        "timestamp": 1787567940.0
-    },
-    {
-        "id": "ec3c08c8db",
-        "title_fa": "انتروپیک در آستانه ورود به بورس؛ آماده‌سازی فرم عرضه اولیه سهام",
-        "title_en": "The One Line in Anthropic's S-1 That Amazon Investors Should Read First",
-        "summary": [
-            "شایعات بازار حاکی از آن است که انتروپیک، سازنده مدل Claude، تا پایان این ماه فرم رسمی عرضه اولیه سهام (S-1) را ثبت می‌کند.",
-            "سرمایه‌گذاران بزرگ از جمله آمازون منتظر انتشار این فرم هستند تا ارزش‌گذاری واقعی و وضعیت مالی این غول هوش مصنوعی شفاف شود."
-        ],
-        "full_text": "Anthropic is rumored to be filing its S-1 by the end of this month.",
-        "impact": "آغاز موج ورود غول‌های هوش مصنوعی به بازار بورس و شفاف‌سازی ابعاد مالی این صنعت.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "The Motley Fool",
-        "url": "https://www.msn.com/en-us/money/general/the-one-line-in-anthropic-s-s-1-that-amazon-investors-should-read-first/ar-AA2aNYdB",
-        "clean_url": "https://www.msn.com/en-us/money/general/the-one-line-in-anthropic-s-s-1-that-amazon-investors-should-read-first/ar-AA2aNYdB",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787567400.0
-    },
-    {
-        "id": "ee3f31163f",
-        "title_fa": "ورود رسمی اپل به بازار تاشوها با «آیفون اولترا» ۲۰۰۰ دلاری",
-        "title_en": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report",
-        "summary": [
-            "طبق گزارش‌های جدید، اپل قصد دارد در اوایل سپتامبر (شهریور) از اولین آیفون تاشو خود با نام احتمالی iPhone Ultra رونمایی کند.",
-            "قیمت پایه این گوشی بیش از ۲۰۰۰ دلار برآورد شده که آن را به گران‌ترین آیفون تاریخ تبدیل می‌کند."
-        ],
-        "full_text": "Apple to launch $2,000-plus foldable ‘iPhone Ultra’ in early September: report  Fortune",
-        "impact": "ایجاد شوک قیمتی در بازار پرچمداران و رقابت مستقیم با گوشی‌های تاشو سامسونگ.",
-        "tag": "گجت",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdwZjBaOENsOUIxX09QNWNfdUZ2OGlicnJiQ09HQU9aN0xNM19nczBFMDN6NmpUdHBqSkM2LUFKT0R3b1U5czlpdVl1N3hOMVBSRmlhRU16dDlhY2J2TDZ5UFlpRXdOelhBb0pXWlMyLURIcmgzaUtYV3h4M1E0Q0dqQVNnUUVs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdwZjBaOENsOUIxX09QNWNfdUZ2OGlicnJiQ09HQU9aN0xNM19nczBFMDN6NmpUdHBqSkM2LUFKT0R3b1U5czlpdVl1N3hOMVBSRmlhRU16dDlhY2J2TDZ5UFlpRXdOelhBb0pXWlMyLURIcmgzaUtYV3h4M1E0Q0dqQVNnUUVs",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787565900.0
     }
 ]
