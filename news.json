@@ -1,5 +1,27 @@
 [
     {
+        "id": "bd9d415a31",
+        "title_fa": "ورود رسمی به عصر AGI؛ رونمایی هوش مصنوعی GPT-6 Astra",
+        "title_en": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "summary": [
+            "اوپن‌ای‌آی با معرفی مدل جدید GPT-6 Astra، رسماً مدعی ورود دنیای فناوری به عصر هوش عمومی مصنوعی (AGI) شد.",
+            "این گام جدید، جهش جذابی در توانایی‌های استدلال و هوشمندی مدل‌های چت‌بات ایجاد کرده و رقابت غول‌های فناوری را وارد مرحله جدیدی می‌کند."
+        ],
+        "full_text": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts  Axios",
+        "impact": "نقطه عطفی در توسعه هوش عمومی مصنوعی که استانداردهای بازار ابزارهای مولد را به‌کلی تغییر می‌دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 10,
+        "sentiment": 0.9,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788458932.0
+    },
+    {
         "id": "31055d0729",
         "title_fa": "تحول هوش مصنوعی فیزیکی با ورود صندوق‌های سرمایه‌گذاری رباتیک",
         "title_en": "Humanoid Robot ETF KOID: Did We Just Witness A \"Move 37\" Moment For Physical AI?",
@@ -70,6 +92,28 @@
         "timestamp": 1788451200.0
     },
     {
+        "id": "690bc8a688",
+        "title_fa": "مقایسه ارزش سهام لوسید و ریویان؛ چالش کاهش ارزش سهامداران",
+        "title_en": "Better Stock: Lucid vs. Rivian (Hint: It's All About Shareholder Dilution)",
+        "summary": [
+            "بررسی وضعیت مالی دو خودروساز برقی نشان می‌دهد که نرخ رقیق‌شدن سهام (Dilution) پارامتر کلیدی در انتخاب سرمایه‌گذاران است.",
+            "ریویان و لوسید استراتژی‌های متفاوتی در قبال جذب سرمایه جدید و انتشار سهام دارند که ارزش دارایی سهامداران را مستقیماً تهدید می‌کند."
+        ],
+        "full_text": "Shareholder dilution is one of the major differences between Rivian and Lucid, and investors should note how it looks going forward.",
+        "impact": "آگاهی سرمایه‌گذاران بازار خودروهای برقی از خطرات کاهش ارزش دارایی به دلیل انتشار بی‌رویه سهام جدید.",
+        "tag": "خودروی برقی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Motley Fool",
+        "url": "https://www.msn.com/en-us/news/other/better-stock-lucid-vs-rivian-hint-its-all-about-shareholder-dilution/ar-AA2buLKX",
+        "clean_url": "https://www.msn.com/en-us/news/other/better-stock-lucid-vs-rivian-hint-its-all-about-shareholder-dilution/ar-AA2buLKX",
+        "image": "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/885913/rivian_r2_3.jpg&w=1200&op=resize",
+        "images": [
+            "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/885913/rivian_r2_3.jpg&w=1200&op=resize"
+        ],
+        "timestamp": 1788446700.0
+    },
+    {
         "id": "84cc107c9c",
         "title_fa": "عرضه Gemini 3.8 و تغییر توازن قدرت در بازار مدل‌های هوش مصنوعی",
         "title_en": "What Google’s Release of Gemini 3.8 Says About the AI Market",
@@ -134,6 +178,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788440681.0
+    },
+    {
+        "id": "2e4fe8f74a",
+        "title_fa": "جذب سرمایه ۱۷.۹ میلیون دلاری فین‌تک Nayla Finance",
+        "title_en": "Saudi's Nayla Finance Raises USD 17.9M to Expand AI-Powered Lending for Micro Businesses",
+        "summary": [
+            "فین‌تک عربستانی نایلا با ترکیب وام و سهام، ۱۷.۹ میلیون دلار برای توسعه سیستم‌های اعتبارسنجی هوشمند جذب کرد.",
+            "این پلتفرم با تحلیل داده‌های جایگزین و هوش مصنوعی، امکان دریافت تسهیلات برای کسب‌وکارهای بسیار کوچک را فراهم می‌کند."
+        ],
+        "full_text": "Saudi Arabia-based fintech Nayla Finance raised USD 17.9 million in a Pre-Series A round. The round combines equity and debt financing, as it looks to expand lending to the Kingdom’s micro businesses. The equity side of the round was led by Idrisi Ventures, with participation from Suhail Ventures and other investors. Meanwhile, Blominvest led the debt facility, which aims to support the expansion of Nayla’s lending portfolio. With the funding, it seeks to increase financing, expand into adjacent customer segments, and strengthen Nayla’s credit intelligence platform Why You Should Care Micro businesses make up the largest segment of Saudi Arabia’s private sector but continue to face limited access to financing. Nayla is targeting that gap with a digital lending model that uses alternative data and proprietary credit assessment capabilities to evaluate businesses that may not fit conventional lending criteria. The new capital gives Nayla room to increase financing for underserved businesses while investing further in the technology underpinning its underwriting process. For Saudi Arabia’s fintech ecosystem, the raise also points to growing institutional interest in financial infrastructure designed around smaller businesses and entrepreneurs. The Details Founded in 2025 by Shaqran Alyahya and Khalid Naili, Nayla is a fintech providing microfinancing solutions for micro businesses and entrepreneurs. It is a Saudi Central Bank SAMA licensed fintech. “ This capital enables us to significantly expand access to financing for Saudi Arabia’s micro businesses, continue investing in our technology and proprietary credit engine, and strengthen our position as the leading digital financing platform serving this vital segment of the economy,” Shaqran Alyahya, Co-Founder and CEO of Nayla Looking ahead, with the new funding, it aims to increase financing to underserved micro businesses across Saudi Arabia. Moreover, it seeks to expand into adjacent customer segments and further enhance its proprietary credit intelligence platform. It also aims to deepen its partnerships across the Kingdom’s SME ecosystem. The Ripple Nayla’s expansion comes as Saudi Arabia continues to push financial inclusion and entrepreneurship under Vision 2030. Its focus on alternative data could also have implications for how lenders assess smaller businesses that lack the audited financial statements or collateral typically required by traditional credit models. The combination of equity and debt gives Nayla both growth capital and additional financing capacity for its lending portfolio. Meanwhile, the participation of investors and a dedicated debt provider signals confidence in its early traction and underwriting model. What to Watch Nayla’s next phase will hinge on how quickly it can translate the new capital into a larger lending portfolio while maintaining disciplined credit performance. Its expansion into adjacent customer segments and continued development of its credit intelligence platform. This will also show whether its alternative-data approach can scale beyond its current micro business focus.",
+        "impact": "تسهیل دسترسی به منابع مالی برای کسب‌وکارهای خرد بدون نیاز به مدارک سنتی بانکی.",
+        "tag": "فین‌تک",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "WAYA",
+        "url": "https://waya.media/saudis-nayla-finance-raises-usd-17-9m-to-expand-ai-powered-lending-for-micro-businesses/",
+        "clean_url": "https://waya.media/saudis-nayla-finance-raises-usd-17-9m-to-expand-ai-powered-lending-for-micro-businesses",
+        "image": "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_.png",
+        "images": [
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_.png",
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_-1024x576.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-logo.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-en-white.png"
+        ],
+        "timestamp": 1788434520.0
     },
     {
         "id": "0995ba53df",
@@ -207,6 +276,31 @@
         "timestamp": 1788433200.0
     },
     {
+        "id": "55778c367d",
+        "title_fa": "خریده شدن استارتاپ AI توسط ادوبی و جذب سرمایه‌های جدید",
+        "title_en": "Startup news and updates: Daily roundup (September 3, 2026)",
+        "summary": [
+            "ادوبی با خرید استارتاپ هوش مصنوعی Rilo درصدد تقویت ایجنت‌های هوشمند خود در بخش مارکتینگ و تحلیل بازار است.",
+            "در کنار این معامله، استارتاپ‌هایی نظیر Cradlewise و Nextgen Finance موفق به جذب سرمایه‌های میلیون دلاری در بخش‌های سلامت و فین‌تک شدند."
+        ],
+        "full_text": "From Cradlewise’s Series A and Makr Microsystems’ seed round to Adobe’s acquisition of Rilo and AMD’s collaboration with Delhi University,YourStorybrings you today's headlines and the latest news across sectors. The Open Field is working with tribal and forest-dependent communities in Jharkhand and Chhattisgarh to formalise forest-produce value chains. It has deployed portable Ayan Hubs for decentralised processing and is building a data-led Forest OS to improve traceability and buyer linkages. Business Nextgen Finance has raised Rs 215 crore with prior RBI approval to scale its secured MSME lending beyond India’s top 100 locations. The round, led by Beams Fintech Fund and others, will support technology investments and geographic expansion. Cradlewise raised $12 million in Series A funding led by 3one4 Capital and Prudent Investment Management. The company said the capital will go towards growth, channel expansion, research and development, and entry into international markets for its smart infant sleep system. Global design software company Adobe has acquired Indian AI startup Rilo for an undisclosed amount. Rilo’s founders confirmed the acquisition in their LinkedIn posts. Founded in 2025 by IIT Bombay alumni Georgi Boby and Dhruv Jaglan, Rilo has developed AI agents designed to provide insights into enterprise go-to-market strategies. The acquisition is expected to add Rilo’s AI capabilities to Adobe’s customer experience and marketing offerings. Rilo had earlier raised $1 million from Peak XV, DeVC, and Day Zero Ventures. Homegrown beauty and wellness company VLCC has raised Rs 110 crore in funding from BlackSoil Capital to support its next phase of growth across its beauty, wellness, and personal care businesses. According to a statement, VLCC, which is backed by global private equity firm Carlyle, will utilise this funding to support its ongoing business requirements and growth opportunities, including strengthening its operating platform and supporting the expansion of its businesses and subsidiaries.",
+        "impact": "تقویت موقعیت ادوبی در ابزارهای هوش مصنوعی سازمانی و تزریق سرمایه جدید به استارتاپ‌های نوپا.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "YourStory",
+        "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
+        "clean_url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
+        "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+        "images": [
+            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+            "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/winniesingh7-1788418170891.png?fm=png&auto=format&w=800&blur=500",
+            "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Rilo-FINAL-1788413883942.png?fm=png&auto=format&w=800&blur=500",
+            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image4uze-1628144908028-1631094743679-1749187924112.jpg?fm=png&auto=format&blur=500"
+        ],
+        "timestamp": 1788432960.0
+    },
+    {
         "id": "afdde389b7",
         "title_fa": "راه‌اندازی سندباکس سلامت در منچستر برای تست فناوری‌های AI",
         "title_en": "Manchester NHS and MHRA launch health innovation sandbox to test AI and new technologies",
@@ -227,6 +321,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788430795.0
+    },
+    {
+        "id": "11e1a2bd9a",
+        "title_fa": "جذب سرمایه ۱.۵ میلیون دلاری استارتاپ بازی‌سازی تکاهوس",
+        "title_en": "Saudi Gaming Startup Takahouse Raises USD 1.5M to Expand Its Product Portfolio",
+        "summary": [
+            "استارتاپ عربستانی Takahouse مبلغ ۱.۵ میلیون دلار برای توسعه بازی‌های ویدئویی مبتنی بر تعاملات اجتماعی جذب کرد.",
+            "این سرمایه‌گذاری به این شرکت اجازه می‌دهد از تک‌محصولی بودن فاصله گرفته و پورتفولیو بازی‌های موبایلی خود را توسعه دهد."
+        ],
+        "full_text": "Saudi Arabia-based gaming startup Takahouse raised USD 1.5 million in an investment round from Impact46. The funding will support the development of new gaming products as the company looks to expand beyond its first title, WhistGame. The round will fund new product development as Takahouse looks to build on the early traction of its social card game, WhistGame. The round comes as Takahouse works toward its ambition of becoming a regional game developer and publisher. It focuses on mobile products that combine entertainment with social interaction. Why You Should Care Takahouse is building around a model where social interaction is part of the gaming experience rather than an additional feature. That approach places the company within a broader mobile gaming market where games increasingly seek to keep players engaged through interaction and community. For Saudi Arabia, the raise also adds fresh capital to the country’s growing gaming ecosystem. Takahouse’s focus on developing products locally while pursuing a regional publishing ambition reflects the potential for Saudi-based studios to build intellectual property for audiences beyond the domestic market. The Details Founded in 2018 by Salman S Nasser, Takahouse is a gaming startup. It develops electronic games and interactive applications designed to combine gameplay with communication between users. Its first title, WhistGame, is an interactive card game that has provided the company with an initial audience and data on player behavior. The new investment will primarily support the development of additional products. It also seeks to strengthen its position in the local gaming market. The strategy allows Takahouse to apply what it has learned from WhistGame across a broader product portfolio. It also creates a path to reduce reliance on a single title as the company works to establish itself as a developer and publisher. The Ripple Takahouse’s funding adds to the flow of investment into Saudi Arabia’s gaming sector, where local companies are seeking to develop products for both regional and international audiences. For the startup, expanding from one established title into multiple products will test whether its social gaming approach can translate across different concepts and audiences. It will also place greater demands on development resources as Takahouse moves from building an individual game toward a broader publishing model. What to Watch The key signal will be how Takahouse deploys the USD 1.5 million into its product pipeline. The company’s next stage will depend on whether it can turn the early user base of WhistGame into a foundation for new titles while maintaining player engagement. How quickly those products reach market, and whether they can gain traction beyond Saudi Arabia, will indicate how far Takahouse can advance its regional developer and publisher ambitions.",
+        "impact": "رونق بیشتر زیست‌بوم گیمینگ عربستان و حرکت به سمت ساخت بازی‌های بومی با قابلیت انتشار منطقه‌ای.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "WAYA",
+        "url": "https://waya.media/saudi-gaming-startup-takahouse-raises-usd-1-5m-to-expand-its-product-portfolio/",
+        "clean_url": "https://waya.media/saudi-gaming-startup-takahouse-raises-usd-1-5m-to-expand-its-product-portfolio",
+        "image": "https://waya.media/wp-content/uploads/sites/3/2026/09/Takahouse-Raises-USD-1.5M-_.png",
+        "images": [
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Takahouse-Raises-USD-1.5M-_.png",
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Takahouse-Raises-USD-1.5M-_-1024x576.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-logo.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-en-white.png"
+        ],
+        "timestamp": 1788429780.0
     },
     {
         "id": "0fdfec9d07",
@@ -6867,131 +6986,5 @@
             "https://cdn-res.keymedia.com/cdn-cgi/image/w=110,h=66,f=auto/https://cdn-res.keymedia.com/cms/images/wp/jean_639232557612508300.png"
         ],
         "timestamp": 1787639520.0
-    },
-    {
-        "id": "47e5766c50",
-        "title_fa": "جذب سرمایه ۸.۲ میلیون یورویی برای استارتاپ حسابرسی هوشمند Repodo",
-        "title_en": "Lunar founders raise €8.2m to launch AI-native audit startup Repodo",
-        "summary": [
-            "بنیان‌گذاران نئوبانک معروف Lunar موفق به جذب سرمایه اولیه ۸.۲ میلیون یورویی برای راه‌اندازی استارتاپ جدید خود با نام Repodo شدند.",
-            "این استارتاپ قصد دارد فرایندهای سنتی، سناریوهای پیچیده و زمان‌بر حسابرسی شرکت‌ها را به کمک هوش مصنوعی بومی خودکار کند."
-        ],
-        "full_text": "Lunar founders raise €8.2m to launch AI-native audit startup Repodo  Sifted",
-        "impact": "شتاب گرفتن اتوماسیون هوشمند و کاهش هزینه‌های عملیاتی در بخش حسابرسی و خدمات مالی.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "Sifted",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ad3RYYW9wdXd0OGpiOHhFZmROV3M5Z2JyUWJfbUcxTVktTXVuNl9rUWYtUGlLaklNemZ0UTNGYzBDSTRjYjI3RExvX0pVdzdhU2NLelZvOFBOMTBsNnc5Si1YMTd2eTZFMmd5eE01V3VpcFFIaGw2MGZB?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ad3RYYW9wdXd0OGpiOHhFZmROV3M5Z2JyUWJfbUcxTVktTXVuNl9rUWYtUGlLaklNemZ0UTNGYzBDSTRjYjI3RExvX0pVdzdhU2NLelZvOFBOMTBsNnc5Si1YMTd2eTZFMmd5eE01V3VpcFFIaGw2MGZB",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787639475.0
-    },
-    {
-        "id": "a2140492f6",
-        "title_fa": "رونمایی اپل از مک مینی و مک استودیو با تراشه‌های M6 و M5 اولترا",
-        "title_en": "Where to preorder the updated Mac Mini and Mac Studio",
-        "summary": [
-            "اپل در اقدامی غافلگیرکننده نسل جدید مک مینی را با پردازنده‌های M6 و M5 پرو با قیمت پایه ۸۹۹ دلار برای پیش‌فروش عرضه کرد.",
-            "مک استودیو نیز با تراشه‌های قدرتمند M5 مکس و M5 اولترا و پشتیبانی از ۵۱۲ گیگابایت رم با قیمت پایه ۲۴۹۹ دلار به‌روزرسانی شد.",
-            "تمرکز اصلی این کامپیوترها ارتقای جهشی قدرت پردازش هوش مصنوعی محلی، پشتیبانی از Wi-Fi 7، بلوتوث ۶ و پورت شبکه ۲.۵ گیگابیتی است."
-        ],
-        "full_text": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $899, $300 more than the M4-equipped base model from 2024, and the Mac Studio starts at $2,499, the same price as the current M4 Max model. Where to preorder the updated Mac Mini and Mac Studio Apple’s surprise Mac Mini and Mac Studio updates roll in new processor options, and they’re available for preorder. Apple’s surprise Mac Mini and Mac Studio updates roll in new processor options, and they’re available for preorder. The announcement comes just a few weeks ahead of Apple’s usual timing for an annual iPhone event. The upgraded macOS computers focus on AI performance and improved connectivity, with Apple making a variety of claims about performance gains compared to the previous models. Make sure to check out our full announcement posts for the Mac Mini and Mac Studio for all the details. How to preorder the Mac Mini The Mac Mini with the M6 chip starts at $899 at Apple, while the version with the M5 Pro starts at $1,699. The previous generation Mac Mini only featured the M4 and M4 Max chips, so this represents a big upgrade for Apple’s most compact desktop. Aside from the processor upgrades, the new Mini has improved connectivity, notably sporting 2.5Gb Ethernet as a baseline, as well as Bluetooth 6 and Wi-Fi 7. How to preorder the Mac Studio The updated Mac Studio with the M5 Max chip (plus 36GB of unified memory and 512GB of storage) starts at $2,499 at Apple, while the M5 Ultra version with 96GB of RAM and a 1TB SSD starts at $5,499. While the base models will start shipping on September 22nd, the configurations with a whopping 512GB of RAM (price not yet announced) won’t be available until late October. Most Popular - Android is getting its own weird dots to cure car sickness - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - Raspberry Pi shares its official tutorial for making a cyberdeck - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
-        "impact": "ارتقای جدی سخت‌افزاری اپل برای اجرای محلی مدل‌های سنگین هوش مصنوعی روی کامپیوترهای دسکتاپ.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-        "clean_url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-        "image": "http://www.bing.com/th?id=ONUT.rfFJtIvkGWwz5UgxZTOBag&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.rfFJtIvkGWwz5UgxZTOBag&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787637660.0
-    },
-    {
-        "id": "d0129d4fd7",
-        "title_fa": "اپل از مک استودیو جدید با غول M5 Ultra رونمایی کرد",
-        "title_en": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
-        "summary": [
-            "اپل بالاخره با معرفی تراشه M5 Ultra معماری پردازشی مک استودیو را یکپارچه کرد تا قوی‌ترین سیستم رومیزی خود را تحویل خوارزم‌دوستان دهد.",
-            "تراشه M5 Ultra از اتصال دو چیپ M5 Max ساخته شده و با ۸۰ هسته گرافیکی و ۱.۲ ترابایت بر ثانیه پهنای باند حافظه، تا ۴.۳ برابر پردازش AI سریع‌تری ارائه می‌دهد.",
-            "قیمت پایه مدل M5 Max از ۲۴۹۹ دلار و مدل قدرتمند M5 Ultra از ۵۴۹۹ دلار شروع می‌شود که امکان سفارش تا ۵۱۲ گیگابایت حافظه یکپارچه را دارد."
-        ],
-        "full_text": "Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra. This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings. (The older-sounding M3 Ultra was actually the more powerful one, and there was never an M4 Ultra chip.) The new Studios look identical to previous generations, utilizing the same small-form-factor chassis since its introduction in 2022 (right down to the USB-A ports on the rear), but inside are Apple’s most powerful SoCs. Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra The highest-end Mac desktop starts at $2,499 with an M5 Max or $5,499 with an M5 Ultra. The highest-end Mac desktop starts at $2,499 with an M5 Max or $5,499 with an M5 Ultra. The new Mac Studio with the existing M5 Max chip comes with 36GB of unified memory and 512GB of storage, starting at $2,499. That matches the current starting price of the M4 Max model after its $500 price hike in June. The new $5,499 M5 Ultra model starts with 96GB of memory and 1TB of storage. That’s only $200 more than the starting price of the outgoing M3 Ultra model, but keep in mind the M3 Ultra launched at a much lower $3,999 last year. These new Studios are set to arrive running macOS 27 Golden Gate on September 22nd, alongside the new Mac Minis. But its highest-end M5 Ultra configuration with a whopping 512GB of memory is coming in late October with pricing TBD for now — though it’s best we start bracing ourselves for the eventual sticker shock. These are chip bumps through and through, but what bumps they are. While the RAM and storage amounts for the new Mac Studios match their predecessors, like recent MacBooks, they have storage that’s twice as fast. In its press release, Apple describes the new Studios as “A monumental step for AI” with a claim of up 4.3x faster AI compute in the M5 Ultra. But even when it comes to raw CPU and GPU performance, the M5 Ultra and its up to 36-core CPU and 80-core GPU are said to have up to 1.8x faster graphics and 1.3x faster CPU speed than the M3 Ultra. The memory bandwidth of the M5 Ultra is now up to 1.2TB per second — as if the M3 Ultra’s 819GB per second didn’t sound fast enough. Apple achieved all this in the M5 Ultra by using its next-gen UltraFusion connection to merge two dual-die M5 Max chips together into a quad-die architecture. And it’s why Apple isn’t mincing words by advertising the M5 Ultra as “the most powerful chip ever.” But the Mac Studios also pack another, more pedestrian upgrade for a slight quality-of-life improvement: Wi-Fi 7 and Bluetooth 6 support. With the recent sunsetting of its Mac Pro line of desktops, these Mac Studios are as powerful as Apple computers get. And they’re small enough to fit under your monitor (or up to four of Apple’s 5K / 120Hz Studio Display XDR monitors running at full resolution). But thanks to RAMageddon, Apple’s most powerful chip and its fastest Macs ever are also much pricier than their predecessors were just a short while ago. Most Popular - Android is getting its own weird dots to cure car sickness - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra - Raspberry Pi shares its official tutorial for making a cyberdeck",
-        "impact": "جهش چشمگیر قدرت پردازش محلی مدل‌های سنگین هوش مصنوعی روی سیستم‌های رومیزی اپل.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
-        "clean_url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
-        "image": "http://www.bing.com/th?id=ONUT.RfrUOsLGDiHKA1815Yjd4A&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.RfrUOsLGDiHKA1815Yjd4A&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-STUDIOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195792/ANTONIO_DI_BENEDETTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787637600.0
-    },
-    {
-        "id": "74c61458b9",
-        "title_fa": "رونمایی اپل از تراشه‌های قدرتمند M6 و M5 Ultra برای پردازش‌های سنگین AI",
-        "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
-        "summary": [
-            "تراشه M6 به عنوان اولین چیپست ۲ نانومتری اپل، به موتور عصبی دوگانه ۱۶ هسته‌ای مجهز شده و پردازش‌های هوش مصنوعی روی دستگاه را بسیار سریع‌تر می‌کند.",
-            "اپل در کنار M6، از تراشه غول‌آسای M5 Ultra رونمایی کرد که با ۳۶ هسته پردازشی و پشتیبانی از ۵۱۲ گیگابایت حافظه یکپارچه، مخصوص اجرای مدل‌های پیشرفته هوش مصنوعی و رندرینگ سه‌بعدی است.",
-            "این چیپست‌های تازه در نسل جدید مک‌مینی و مک‌استودیو قرار می‌گیرند و به گفته اپل سریع‌ترین عملکرد تک‌هسته‌ای جهان را ارائه می‌دهند."
-        ],
-        "full_text": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its “most powerful chip ever,” designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple’s first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and it also has a Dual 16-core Neural Engine for on-device AI workloads. Apple’s new M6 chip gets more cores and more AI compute Apple is introducing the M6 chip with a new Mac Mini. It’s also launching a new M5 Ultra alongside an upgraded Mac Studio. Apple is introducing the M6 chip with a new Mac Mini. It’s also launching a new M5 Ultra alongside an upgraded Mac Studio. The M6 has a 12-core CPU, up from 10 in the M5, and it includes two super cores, four performance cores, and six efficiency cores. (Apple’s “super” core terminology used to refer to performance cores, but it introduced a new type of performance core starting with the M5 Pro and M5 Max.) The company says the CPU offers “the world’s fastest single-threaded performance” and up to 1.2x faster multithreaded performance in comparison to the M5. The chip also has a 12-core GPU, up from 10 cores in the M5, and includes a Neural Accelerator with each core, Apple says. It supports as much as 32GB of unified memory. Apple says that the M5 Ultra uses the company’s UltraFusion interconnect technology to connect two dual-die M5 Max chips together as one quad-die architecture. The M5 Ultra has an up to 36-core CPU with 12 super cores and 24 performance cores, an up to 80-core GPU, and a 32-core Neural Engine. It supports up to 512GB of “high-bandwidth” unified memory, which as usual with the M series isn’t upgradeable after purchase. The M6 chip will be available in a new Mac Mini, while the M5 Ultra will launch in a new Mac Studio. Both computers will be available for preorder beginning Tuesday ahead of a release on September 22nd. Most Popular - Android is getting its own weird dots to cure car sickness - Raspberry Pi shares its official tutorial for making a cyberdeck - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The cat-and-mouse game over 3D-printed guns has begun",
-        "impact": "جهش چشمگیر قدرت پردازش محلی هوش مصنوعی در رایانه‌های مک و خط‌ونشان کشیدن اپل برای رقبا در بازار تراشه‌های ۲ نانومتری.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.85,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-        "clean_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-        "image": "http://www.bing.com/th?id=ONUT.r1IGU1jKq0lflQt1ZREKKw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.r1IGU1jKq0lflQt1ZREKKw&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787637600.0
-    },
-    {
-        "id": "8ae7de0cee",
-        "title_fa": "رونمایی اپل از مک مینی جدید با چیپ ۲ نانومتری M6 و افزایش قیمت",
-        "title_en": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
-        "summary": [
-            "اپل مک مینی را با پردازنده‌ ۲ نانومتری M6 و مدل قوی‌تر M5 Pro به‌روزرسانی کرد؛ قیمت پایه با ۱۰۰ دلار افزایش به ۸۹۹ دلار رسیده است.",
-            "چیپ M6 با معماری ۱۲ هسته‌ای و لیتوگرافی ۲ نانومتری، تا ۴۰ درصد پردازش سریع‌تر و دو برابر عملکرد گرافیکی بهتر نسبت به نسل M4 ارائه می‌دهد.",
-            "حافظه رم پایه روی ۱۶ گیگابایت با سرعت حافظه ذخیره‌سازی دوبرابری تنظیم شده و پورت شبکه به ۲.۵ گیگابیت ارتقا یافته است."
-        ],
-        "full_text": "Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year’s MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with upgraded internals, faster performance, and speedier ethernet ports. Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices The compact desktop now starts at $899 with an M6 processor and $1,699 with an M5 Pro. The compact desktop now starts at $899 with an M6 processor and $1,699 with an M5 Pro. The M6 Mac Mini starts at $899, while the M5 Pro model starts at $1,699. Both cost $100 more than the most recent starting prices of the M4 generation. And while preorders start today, the new Mac Minis won’t ship until September 22nd — hopefully enough time for Apple to stock up on inventory, as the last-gen models became scarce due to higher than expected demand for running AI agents. Like last generation, the new entry-level Mac Mini with an M6 chip starts with 16GB of unified memory and 256GB of storage, and the M5 Pro Mac Mini starts with a 24GB / 512GB configuration. But the storage in all of these models is now twice as fast, just like the recent crop of MacBooks Air and Pro. In addition to the double-speed storage, both M6 and M5 Pro Mac Minis now sport 2.5 gigabit ethernet ports (with the same optional upgrade to 10 gigabit) and they use Apple’s N1 chip for Wi-Fi 7 and Bluetooth 6 support. The M6 Mac Mini now has a 12-core CPU and 12-core GPU along with 170GBps of memory bandwidth compared to the M4’s 10-core / 10-core setup and memory bandwidth of 120GBps. Its CPU consists of two super cores (a naming convention that began with the M5 Pro / Max chips), four performance cores, and six efficiency cores — and it’s Apple’s first chip on a 2nm process. Apple claims the M6’s more, faster cores lead to a 40 percent uplift in CPU performance over the M4 generation, and the new 12-core GPU with neural accelerators is up to twice as fast at graphics rendering with ray tracing than the M4 in some games. The M5 Pro of the new Mac Mini is configurable, much like it is on the MacBook Pro: it can be had with up to 18 CPU cores and 20 GPU cores, and it has the same 307GBps of memory bandwidth. Apple claims the Mac Mini with an M5 Pro has significant gains in AI compute and graphics over the outgoing M4 Pro model, thanks in part to the neural accelerator in each GPU core. This should permit heavier AI workloads, including photo and video upscaling, and running larger diffusion models. Some key things haven’t changed on the new Mac Minis — most notably, all the ports besides the upgraded ethernet. Both Minis maintain two front-facing 10Gbps USB-C ports and the three on the rear of the M6 are faster Thunderbolt 4, while the rear three of the M5 Pro are even speedier Thunderbolt 5 ports. But both the M6 and M5 Pro Mac Minis will ship with macOS 27 Golden Gate preloaded out of the box, offering full compatibility with Apple’s new Siri AI and new Apple Intelligence features. There’s no official launch date for the final public release of macOS 27, but with today’s Mac announcements, it should arrive no later than their September 22nd ship date. Most Popular - Android is getting its own weird dots to cure car sickness - Raspberry Pi shares its official tutorial for making a cyberdeck - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The cat-and-mouse game over 3D-printed guns has begun",
-        "impact": "افزایش قیمت ۱۰۰ دلاری اپل نشان می‌دهد سخت‌افزار پیشرفته ۲ نانومتری و تقاضای سنگین برای اجرای ایجنت‌های هوش مصنوعی، قیمت پایه مینی‌کامپیوترها را بالا برده است.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
-        "clean_url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
-        "image": "http://www.bing.com/th?id=ONUT.ORZ559mZTNyeJXHpMgSi3g&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.ORZ559mZTNyeJXHpMgSi3g&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-MINI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195792/ANTONIO_DI_BENEDETTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787637600.0
     }
 ]
