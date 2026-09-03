@@ -1,5 +1,118 @@
 [
     {
+        "id": "7172e8bce3",
+        "title_fa": "محدودیت و توقف گسترده استفاده از هوش مصنوعی مولد در مدارس نیویورک",
+        "title_en": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
+        "summary": [
+            "شهرداری نیویورک دستور توقف موقت و گسترده استفاده از ابزارهای AI مولد در مدارس این شهر را صادر کرد.",
+            "تمرکز مسئولان بر ارزیابی ریسک‌های اخلاقی، کیفیت آموزش و حریم خصوصی دانش‌آموزان قبل از ادغام کامل این فناوری است."
+        ],
+        "full_text": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools  NYC.gov",
+        "impact": "ایجاد الگوی جدید سیاست‌گذاری برای کنترل ورود هوش مصنوعی به سیستم‌های آموزشی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "NYC.gov",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788393046.0
+    },
+    {
+        "id": "5d30cc5e13",
+        "title_fa": "آغاز تست روبوتاکسی‌های اوبر و Wayve در خیابان‌های پیچیده لندن",
+        "title_en": "Uber, Wayve Unleash Supervised Robotaxis on London’s Winding Streets",
+        "summary": [
+            "اوبر با همکاری استارتاپ بریتانیایی Wayve آزمایش تاکسی‌های خودران همراه با راننده ناظر را در لندن آغاز کرد.",
+            "این پروژه چالش ناوبری هوش مصنوعی را در خیابان‌های باریک، متراکم و قدیمی اروپا به آزمون می‌گذارد."
+        ],
+        "full_text": "Uber, Wayve Unleash Supervised Robotaxis on London’s Winding Streets  Bloomberg.com",
+        "impact": "تسریع تجاری‌سازی خودروهای خودران در بریتانیا و اروپا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnhaakdxaWh4bWJXV1NwNTZMX0E4RFdpZGtDRDFJM1B4V0dpcXF3UFFvWWRpNTBtQVVNUUlXa0NtemdPT2NXTldEUGlraDAzd2VkT21UNG9yakZtYVZFREVVSmR1d1pUaF9IQURVOWY2WFRlTFdiSlN2X2YxQ3dIbThtaVg2STgwUHFUZ213Q2lsMGJEamJ5TGZHaXhqb0JJTUh1YnFiZzV0TXRHS3ZRa1dlSFBHUHVG?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZnhaakdxaWh4bWJXV1NwNTZMX0E4RFdpZGtDRDFJM1B4V0dpcXF3UFFvWWRpNTBtQVVNUUlXa0NtemdPT2NXTldEUGlraDAzd2VkT21UNG9yakZtYVZFREVVSmR1d1pUaF9IQURVOWY2WFRlTFdiSlN2X2YxQ3dIbThtaVg2STgwUHFUZ213Q2lsMGJEamJ5TGZHaXhqb0JJTUh1YnFiZzV0TXRHS3ZRa1dlSFBHUHVG",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788390003.0
+    },
+    {
+        "id": "4e679c218c",
+        "title_fa": "جزئیات استیج Builders در رویداد تک‌کرانچ دیسراپت ۲۰۲۶",
+        "title_en": "The Builders Stage brings practical strategies for scaling startups to...",
+        "summary": [
+            "ارائه استراتژی‌های کاربردی برای رشد استارتاپ‌ها، جذب سرمایه و عبور از مرحله بذری به سری A.",
+            "بررسی راهکارهای بقا برای استارتاپ‌هایی که با ورود مستقیم غول‌هایی مثل OpenAI به حوزه کاری‌شان مواجه می‌شوند."
+        ],
+        "full_text": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale successful companies. Hear from startup and venture leaders shaping the tech ecosystem, including Grant Lee, CEO and co-founder of Gamma; Leah Solivan, founder and general partner at Precedent.vc; Robby Stein, VP of Product at Google; and more. Through candid conversations and real-world case studies, speakers will share actionable insights on fundraising, hiring, go-to-market strategy, AI, and the operational decisions that fuel startup growth. Join more than 10,000 founders, investors, startup operators, and technology leaders at Moscone Center in San Francisco on October 13-15. Register today and save before our next ticket price increase. Built for founders who are ready to scale Building a startup is one thing. Building a company that can scale is another challenge entirely. The Builders Stage is one of six industry-focused stages at Disrupt 2026, dedicated to helping founders navigate the challenges of growth, from raising capital and hiring top talent to building go-to-market engines and preparing for the jump from seed to Series A. Every session delivers practical strategies you can put to work immediately, plus opportunities to engage directly with speakers during live Q&A. Secure your pass to Disrupt 2026 today and save up to $330 before rates increase. Without further ado, here's your first look at the Builders Stage agenda, with more speakers and sessions to be announced as we get closer to the event. Builders Stage agenda How to Win When You're Not Building AI With Shan Shan, Investment Manager, Baillie Gifford; and Yuri Sagalov, Managing Director at General Catalyst AI may dominate the world of venture, but many enduring companies won't be those that sell AI models or agents. This session is for founders competing for attention in an AI-obsessed market. Panelists break down what actually matters now: efficient growth, retention, revenue quality, and disciplined execution, and why fundamentals, not hype, still build breakout businesses. What Happens When OpenAI Ships Your Roadmap With Michel Tricot, CEO and Co-founder, Airbyte; Rob Toews, Partner, Radical Ventures; and Linda Tong, CEO, Webflow Nearly all AI founders have the same worry these days: What if OpenAI or Anthropic launches a product that competes with mine? Even strong products are at risk of becoming features of the larger players. This session explores where defensibility exists and what founders can do if they do face competition from rapidly evolving AI giants.",
+        "impact": "افزایش آمادگی بنیان‌گذاران برای مدیریت چالش‌های عملیاتی در بازار رقابتی هوش مصنوعی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://finance.yahoo.com/small-business/articles/builders-stage-agenda-revealed-practical-140000029.html",
+        "clean_url": "https://finance.yahoo.com/small-business/articles/builders-stage-agenda-revealed-practical-140000029.html",
+        "image": "https://media.zenfs.com/en/techcrunch_finance_785/ffe92890c362e96da72bfd9a0a30f772.jpg",
+        "images": [
+            "https://media.zenfs.com/en/techcrunch_finance_785/ffe92890c362e96da72bfd9a0a30f772.jpg",
+            "https://s.yimg.com/lo/mysterio/api/018ba0ebda99579bc73d4823e8031bc477aac0d044b1833ed5762595310203a4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fffe92890c362e96da72bfd9a0a30f772.jpg",
+            "https://s.yimg.com/lo/mysterio/api/d957fcea3458f665f24993a03f26768328823cd6ab238ea539993086cc3d9dc6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Fffe92890c362e96da72bfd9a0a30f772.jpg",
+            "https://s.yimg.com/lo/mysterio/api/12be14f54f43ed52f30ffe6936719f2185febbd25514eaecc6d2355bffcc8966/lightyear_networkapi/resizefill_w194_h109%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2Ffae58fd78e8bcc377d431fcf314ebb45"
+        ],
+        "timestamp": 1788388324.0
+    },
+    {
+        "id": "3f2cfa8725",
+        "title_fa": "راه‌اندازی چالش جهانی خلاقیت و هوش مصنوعی توسط گوگل و وان کلاب",
+        "title_en": "The One Club and Google launch global AI Creative Challenge",
+        "summary": [
+            "گوگل و مجموعه The One Club مسابقه‌ای بین‌المللی برای به‌کارگیری ابزارهای AI در پروژه‌های خلاقانه آغاز کردند.",
+            "این برنامه طراحان و ایده‌پردازان را به کشف ظرفیت‌های تازه فناوری‌های مولد در تبلیغات و هنر ترغیب می‌کند."
+        ],
+        "full_text": "The One Club and Google launch global AI Creative Challenge  Reel 360 News",
+        "impact": "افزایش ضریب نفوذ و پذیرش ابزارهای مولد در بین آژانس‌های خلاق و هنرمندان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.8,
+        "source": "Reel 360 News",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlozN2t6cmQ3S3FUZkRESWpWZ0NfNFhmcjdkU1ljSUNEQ3VrUW9ES2dQOVZKZkd3UFJ3Vnl0UVUwZDFZN0t3MWFoZWY4bm54TUJCVnlCVWlhZE5XcU8yLW1xY1A4clF6WXM5YnlZMmJqWHVuMXFKMVhPeGE5c3RsOHI3T1B1RHM1OXhlb21kZFlpdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlozN2t6cmQ3S3FUZkRESWpWZ0NfNFhmcjdkU1ljSUNEQ3VrUW9ES2dQOVZKZkd3UFJ3Vnl0UVUwZDFZN0t3MWFoZWY4bm54TUJCVnlCVWlhZE5XcU8yLW1xY1A4clF6WXM5YnlZMmJqWHVuMXFKMVhPeGE5c3RsOHI3T1B1RHM1OXhlb21kZFlpdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788387939.0
+    },
+    {
+        "id": "86a5592d32",
+        "title_fa": "ادغام گوپرو با استارمن اپتیکال و ورود به صنایع دفاعی و AI",
+        "title_en": "GoPro to Merge with Starman Optical, Expanding into AI & Defense",
+        "summary": [
+            "گوپرو با ادغام در شرکت Starman Optical رسماً دامنه فعالیتش را به سیستم‌های بینایی ماشین و صنایع دفاعی گسترش می‌دهد.",
+            "این تصمیم استراتژیک، گوپرو را از رکود بازار دوربین‌های اکشن نجات داده و وارد بازار پرسود تجهیزات نظامی می‌کند."
+        ],
+        "full_text": "GoPro to Merge with Starman Optical, Expanding into AI & Defense  motorcycle.com",
+        "impact": "تغییر کامل مدل درآمدی گوپرو و ورود بازیکنی تازه به فناوری‌های دیداری هوشمند نظامی.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "motorcycle.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tiSEpsb0hZOFk0VlVBbDNkM3lCb2RNeDZMM3NFQ1p3WjBkcVM1TUotRG1YVnZpMGxmYVNWblB2Y00tbHdDWWJvOG1nZzJFYVlnOXM4dnRYTFdva25LTmtqQ2xqeEg5R2VycEtmdEU5ZlA3RDVINTB0T1oxdEdiT2ZKb0tpN0xseEhaUURDeDd1MmtuSDNncm1JUlczVDYxWGtxM2d3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tiSEpsb0hZOFk0VlVBbDNkM3lCb2RNeDZMM3NFQ1p3WjBkcVM1TUotRG1YVnZpMGxmYVNWblB2Y00tbHdDWWJvOG1nZzJFYVlnOXM4dnRYTFdva25LTmtqQ2xqeEg5R2VycEtmdEU5ZlA3RDVINTB0T1oxdEdiT2ZKb0tpN0xseEhaUURDeDd1MmtuSDNncm1JUlczVDYxWGtxM2d3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788387346.0
+    },
+    {
         "id": "1b33090fd2",
         "title_fa": "طرح قانونی جدید آمریکا برای نظارت بر هوش مصنوعی مالی",
         "title_en": "Press Release: Bill Foster Introduces Bill to Expand Financial Sector Oversight Amid AI Risks",
@@ -42,6 +155,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788370800.0
+    },
+    {
+        "id": "77e4b4624b",
+        "title_fa": "پرتاب توربین بادی شناور چین به ارتفاع ۴۰۰۰ متری برای تولید برق",
+        "title_en": "Electric & new energy vehicles",
+        "summary": [
+            "استارتاپ چینی توربین بادی معلقی را برای بهره‌برداری از بادهای پرسرعت در ارتفاعات بالا با موفقیت آزمایش کرد.",
+            "این سازه هوایی ظرفیت تولید بسیار بالاتری نسبت به توربین‌های بادی معمولی روی زمین دارد."
+        ],
+        "full_text": "China sends airborne wind turbine up 4,000m to generate power The craft, developed by a Chinese start-up, uses winds at high altitude to produce electricity.",
+        "impact": "تحول در صنعت انرژی‌های پاک از طریق دستیابی به جریان‌های باد دست‌نخورده در ارتفاع بالا.",
+        "tag": "تکنولوژی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/topics/electric-cars",
+        "clean_url": "https://www.scmp.com/topics/electric-cars",
+        "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
+        "images": [
+            "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
+            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/09/02/61e7a43a-cddf-4728-a513-363c8fbda41d_4752187e.jpg",
+            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/09/01/44d7186a-a610-44a6-9e31-5b001d3744bd_8f9c604b.jpg",
+            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/08/31/5cbe5a17-56b7-46e2-9c55-45ad862e481e_42e78403.jpg"
+        ],
+        "timestamp": 1788369480.0
     },
     {
         "id": "777fc5c7b1",
@@ -6843,152 +6981,5 @@
             "https://i.pcmag.com/imagery/comparisons/02nPTUzQJNXScIN7wyAEw8p-item2.fit_lim.size_640x358.v1784901573.jpg"
         ],
         "timestamp": 1787603580.0
-    },
-    {
-        "id": "0a9d53742b",
-        "title_fa": "کاهش ۵۵ درصدی سود سهام تلوس برای تامین سرمایه هوش مصنوعی",
-        "title_en": "Can You Still Count on Telus's Dividend?",
-        "summary": [
-            "غول مخابراتی کانادایی تلوس با کاهش ۵۵ درصدی تقسیم سود، به دنبال ذخیره ۲.۷ میلیارد دلار تا سال ۲۰۲۸ است.",
-            "این صرفه‌جویی مالی برای توسعه شبکه فیبر نوری، کاهش بدهی‌ها و ورود به زیرساخت‌های هوش مصنوعی هزینه می‌شود.",
-            "تامین هزینه‌های سنگین سخت‌افزارهای هوش مصنوعی، این اپراتور را در برابر غول‌های پردازش ابری در موضع فشار شدید قرار داده است."
-        ],
-        "full_text": "After years of building its reputation around a steadily growing dividend, Telus (TSX:T) finally reset that payout on July 31. The quarterly dividend was cut from $0.42 to $0.19 per share, a reduction of roughly 55%. That was painful for existing shareholders, but it also accomplished something important: Telus is finally retaining substantially more cash instead of sending it out the door every quarter. Management expects the dividend reset to generate approximately $2.7 billion in cumulative cash savings through 2028, with that money helping the company reduce leverage. Telus is targeting net debt-to-EBITDA of 3 times or less by the end of 2028. So, can you count on the new dividend? I think the answer is probably yes. After such a substantial reset, the payout itself looks considerably more manageable. My bigger concern is whether I want to own Telus at all. The business still faces significant headwinds Cutting the dividend fixes one problem, but it does not solve the structural challenges facing Canada’s telecommunications industry. Population growth provided Canadian telecom companies with a relatively straightforward source of new customers for years. More people arriving in Canada meant more potential wireless plans, internet subscriptions, and home-service connections. With immigration targets (especially international students) being reduced, that growth engine becomes less powerful. Telus therefore needs to generate more growth from its existing customers and new business lines while competing in an already mature Canadian telecommunications market. At the same time, the company remains highly capital-intensive. Telus has spent heavily transitioning its network from legacy copper infrastructure toward fibre. Those investments can improve network quality and economics over time, but they require enormous amounts of capital upfront and tie up future free cash flow. The company is also pursuing artificial intelligence infrastructure opportunities. I understand the attraction, but Telus does not generate anything close to the free cash flow of the U.S. hyperscalers pouring capital into AI. Every dollar spent there competes with debt reduction, network investment, acquisitions, and shareholder returns. A dividend isn’t free money This is also where I think dividend investors need to reconsider what they’re actually receiving, because a dividend isn’t free money. When Telus pays you $0.19 per share every quarter, that cash leaves the company and comes to you. All else being equal, the value of the business falls by the amount distributed to shareholders. That raises an important question: why automatically send that money straight back into Telus? If I already owned the stock, I wouldn’t necessarily sell solely because the dividend was cut. But I also wouldn’t automatically enroll those payments in a dividend reinvestment plan and keep accumulating more shares. I’d rather take the cash and deploy it elsewhere. There are plenty of dividend-paying companies on the Toronto Stock Exchange with stronger balance sheets, better free cash flow characteristics, or more attractive long-term growth prospects. I’d take the dividend and move on The new Telus dividend looks much more sustainable to me than the old one. But a safer dividend does not automatically make the underlying company a better investment. If you already own Telus and don’t want to sell, collecting the dividend while directing that cash toward other investments is a reasonable approach. It gradually reduces your economic dependence on Telus without requiring you to call the exact bottom in its share price. If I didn’t already own the stock, though, I wouldn’t start a position simply because the post-cut yield looks attractive. For me, Canadian telecommunications remains an unattractive place to deploy new capital. Telus still faces slower population growth, substantial capital requirements, considerable leverage, and the challenge of finding new avenues for growth. You can probably count on the new dividend. I just wouldn’t count on Telus being the best place to reinvest it.",
-        "impact": "هزینه‌های گزاف زیرساخت هوش مصنوعی اپراتورهای مخابراتی را مجبور به کاهش شدید تقسیم سود و اصلاح مالی کرده است.",
-        "tag": "مخابرات",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Motley Fool Canada",
-        "url": "https://www.fool.ca/2026/08/24/can-you-still-count-on-teluss-dividend/",
-        "clean_url": "https://www.fool.ca/2026/08/24/can-you-still-count-on-teluss-dividend",
-        "image": "https://www.fool.ca/wp-content/uploads/2023/11/person-on-phone-leaning-against-outside-wall-with-scenic-view_AirBNB-1200x720.jpg",
-        "images": [
-            "https://www.fool.ca/wp-content/uploads/2023/11/person-on-phone-leaning-against-outside-wall-with-scenic-view_AirBNB-1200x720.jpg",
-            "https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg",
-            "https://www.fool.ca/wp-content/uploads/2025/07/REIT-coins-explaination-338x225.jpg",
-            "https://www.fool.ca/wp-content/uploads/2024/06/GettyImages-1195624894-338x225.jpg"
-        ],
-        "timestamp": 1787603400.0
-    },
-    {
-        "id": "31eb5f8e28",
-        "title_fa": "افشای مشخصات هدفون ۴۴۹ دلاری Sonos Ace Ultra با تمرکز بر AI",
-        "title_en": "Sonos Ace Ultra leaks point to a $449 headphone and an AI-first September",
-        "summary": [
-            "گزارش‌های لو رفته نشان می‌دهد سانوس در شهریورماه از هدفون پرچمدار Sonos Ace Ultra با قیمت ۴۴۹ دلار و ویژگی‌های هوش مصنوعی رونمایی خواهد کرد.",
-            "این هدفون قصد دارد با ترکیب پردازش هوشمند صدا و طراحی پریمیوم، رقبای بزرگی مثل سونی و اپل را چالش بکشد."
-        ],
-        "full_text": "Sonos Ace Ultra leaks point to a $449 headphone and an AI-first September  Gadget Flow",
-        "impact": "رقابت در بازار هدفون‌های رده‌بالا با ورود ویژگی‌های پردازش هوشمند وارد فاز تازه‌ای می‌شود.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "Gadget Flow",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdlJ6R2FWbERSbFpaYllGekJqa2ZDcmhZeGIyNXlOLXk2dzV5VGQwZFJnaHNRYVp2eXhHQ2dwYi1PSDlOT0VUX24wTElka3cxUXJ5YXdiSE4wUVB1Y2prc2JpMEJXVzQz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YdlJ6R2FWbERSbFpaYllGekJqa2ZDcmhZeGIyNXlOLXk2dzV5VGQwZFJnaHNRYVp2eXhHQ2dwYi1PSDlOT0VUX24wTElka3cxUXJ5YXdiSE4wUVB1Y2prc2JpMEJXVzQz",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787602090.0
-    },
-    {
-        "id": "e51feb020d",
-        "title_fa": "تراشه نوری به اندازه دانه برنج؛ گام بزرگ به سوی 6G",
-        "title_en": "This Grain-of-Rice-Sized \"Rainbow\" Chip Could Transform 6G Communications",
-        "summary": [
-            "محققان تراشه بسیار کوچکی ساختند که با تولید طیف نوری منظم، امواج میلی‌متری فوق‌العاده دقیق و پایداری می‌سازد.",
-            "این تراشه امکان ارسال هم‌زمان داده‌ها در چند کانال را فراهم می‌کند و پهنای باند شبکه را به‌شدت افزایش می‌دهد.",
-            "علاوه بر شبکه 6G، این فناوری در رادارهای پیشرفته و ابزارهای سنجش کوانتومی کاربرد حیاتی خواهد داشت."
-        ],
-        "full_text": "A tiny chip that produces a precisely organized “rainbow” of light could help enable faster, higher-capacity 6G communications and more precise timing for quantum technologies. A microchip about the size of a grain of rice can generate a carefully ordered spectrum of light and convert it into multiple high-frequency electromagnetic signals called millimeter waves. Physicists at Loughborough University and their international collaborators say the approach could eventually support technologies that require large amounts of bandwidth and exceptionally precise signals. Millimeter waves are especially attractive for future communications because they provide far more bandwidth, effectively creating additional capacity for transmitting data. The challenge has been producing these frequencies with the precision and stability required for advanced systems. “The world is becoming increasingly data hungry. We want to send and receive more information, faster and in higher resolution, and millimeter waves could help provide the capacity to do that,” said Dr. Luke Peters, of Loughborough University’s Emergent Photonics Research Center. “They could ultimately contribute to faster, higher capacity 6G networks, but the potential goes far beyond communications. These frequencies could also be used in radar systems as well as spectroscopy and astronomical instruments, helping scientists study materials and make extremely precise measurements of the universe. “These applications are still some way off, and there are challenges to overcome before the technology can be used in real-world systems – but our latest work has tackled a major one.” One chip generates many precise signals The researchers produced the millimeter waves using a microcomb, a precisely arranged set of light frequencies that resembles the colors of a rainbow but lies outside what the human eye can see. A specialized antenna can then convert those optical frequencies into millimeter waves. Earlier work showed that microcombs could produce one precise millimeter wave frequency. Generating many frequencies simultaneously could provide several channels for transmitting data at the same time, but achieving that requires a microcomb with unusually high stability and clarity. In a paper published in Nature Communications, the Loughborough-led researchers demonstrated a system capable of producing that type of stable, high-quality microcomb. Its optical frequencies could then be converted into several precisely spaced millimeter-wave frequencies simultaneously. The difference lies in how the microcomb is generated. Conventional systems typically direct laser light into a microresonator, a tiny structure fabricated on a chip that traps the light and allows it to circulate. The Loughborough system combines this chip-based microresonator with a much larger loop of optical fiber. Laser light repeatedly travels through both components, helping the desired optical states develop and remain stable. “We’ve essentially created an incredibly precise and stable ‘rainbow on a chip,’ where the loop keeps feeding the light back through the chip, allowing these states to build up efficiently, start on their own and remain stable even when the system is disturbed,” said Dr. Peters. “It’s remarkably robust too. We’ve even had people jumping up and down next to the system, and the microcomb remains stable.” Millimeter waves retain the original precision The researchers also showed that individual frequencies within the microcomb “rainbow” could be adjusted, allowing some to be strengthened while others were weakened. Importantly, the precision and stability of the optical microcomb remained intact after the frequencies were converted into millimeter wave signals. “Being able to make individual frequencies stronger or weaker gives us much more control over the signals we produce, because different applications will need different combinations of frequencies,” said Dr. Peters. “Just as importantly, we’ve shown that the precision of the microcomb carries through to the millimeter waves. That gives us a whole set of highly controlled signals, which is exactly what you need for applications where accuracy and stability matter. “That same level of precision is valuable for timing. Precision timing sits at the core of emerging quantum technologies, where extreme accuracy is a requirement.” The researchers are now investigating how the technology could move beyond laboratory experiments. Although the central microchip is only about the size of a grain of rice, the complete apparatus currently occupies a tabletop. Future versions could use less energy and take up considerably less space, potentially reducing the entire system to roughly the size of a shoebox. One possibility the researchers want to investigate is placing the technology on satellites, where minimizing size, weight, and power consumption is particularly important. The next challenge is shrinking the system The researchers are also testing the limits of the microcomb’s accuracy. Through collaborations with the National Physical Laboratory, they are comparing the system with precision clocks and investigating possible uses in timing, navigation, and positioning. The work also contributes to efforts involving the National Physical Laboratory and the UK Hub for Quantum Enabled Position, Navigation, and Timing (QEPNT). “We’re really excited to see how far we can take the precision and stability of these microcombs, particularly for technologies that rely on extremely accurate timing,” said Dr. Antonio Cutrona, who led the microcomb stability measurements. “We hope this study and our system open up new ways of bringing the extraordinary precision of atomic clocks into more compact technologies for timing, navigation, and position, and it is particularly exciting to explore these possibilities through our wider collaborations with the National Physical Laboratory and the UK Hub for Quantum Enabled Position, Navi",
-        "impact": "هموار شدن مسیر توسعه شبکه‌های پرسرعت 6G و زیرساخت‌های پردازش داده با حجم بالا.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "SciTechDaily",
-        "url": "https://scitechdaily.com/this-grain-of-rice-sized-rainbow-chip-could-transform-6g-communications/",
-        "clean_url": "https://scitechdaily.com/this-grain-of-rice-sized-rainbow-chip-could-transform-6g-communications",
-        "image": "https://scitechdaily.com/images/Rainbow-Chip-Electronics-777x518.jpg",
-        "images": [
-            "https://scitechdaily.com/images/Rainbow-Chip-Electronics-777x518.jpg",
-            "https://scitechdaily.com/images/Luana-Olivieri-Luke-Peters-and-Antonio-Cutrona-777x444.jpg",
-            "https://scitechdaily.com/images/Rainbow-and-Microcomb-Light-Frequencies-777x437.jpg",
-            "https://scitechdaily.com/images/Microcomb-Chip-Beside-One-Euro-Coin-777x437.jpg"
-        ],
-        "timestamp": 1787601420.0
-    },
-    {
-        "id": "b3a9565096",
-        "title_fa": "انقلاب ریپلیت در کدنویسی؛ ارزش‌گذاری ۹ میلیارد دلاری استارتاپ هوش مصنوعی",
-        "title_en": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-        "summary": [
-            "ارزش بازاری استارتاپ ریپلیت ظرف تنها ۶ ماه از ۳ میلیارد به ۹ میلیارد دلار رسیده و درآمد سالانه آن در آستانه ۱ میلیارد دلاری شدن است.",
-            "هوش مصنوعی مسیر نرم‌افزارسازی را دگرگون کرده و به افراد غیرفنی اجازه می‌دهد ایده‌های خود را سریع‌تر از همیشه به محصول نهایی تبدیل کنند.",
-            "امجد مسعد، مدیرعامل ریپلیت، معتقد است چالش اصلی برنامه‌نویسان حرفه‌ای و تازه‌کار در عصر جدید، حفظ سرعت و پایداری در توسعه نرم‌افزار است."
-        ],
-        "full_text": "The AI boom has made it possible for a significantly wider range of people to dip into development, create code, and launch software for the first time. There are pros and cons to this, even for established developers who are being pushed to use it to produce work faster. Replit sits at the center of this evolution, and when its CEO and co-founder, Amjad Masad, takes center stage at TechCrunch Disrupt 2026, he’ll speak about the future of programming and the wide-ranging implications of a world in which ideas can be easily turned into products. Join the audience to watch our wide-ranging discussion with Masad at San Francisco’s Moscone West from October 13–15. You’ll also catch the rest of our excellent Disrupt lineup across six stages that address the most pressing questions facing the startup community, including, most critically, how do you build a sustainable company in the AI era? Get your tickets now during our special promotional pricing extension — get up to $300 off your ticket until 11:59 p.m. PT Tuesday, August 25. Why Replit is joining the Disrupt Stage Replit’s rise has been explosive, mirroring the broader ascent of AI and the companies furthering its proliferation. Though Masad founded the company a decade ago, the past 18 months have marked the biggest changes, with the company’s current run-rate tracking toward a billion dollars annually, compared with just $2.8 million in reported revenue in 2024. But this conversation is about much more than Replit’s revenue. Masad’s conversation will dive into his perspective about the future of programming, entrepreneurship, and how Replit ensures that its service is doing more than helping users prototype their ideas — it helps fully flesh them out, too. Investors are convinced of Replit’s value to both nontechnical users and professional coders. They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation. Of course, the question is whether it can keep that momentum going — or whether its growth in 2026 will look quaint a year from now because it’s growing even faster. If you’re interested in building within the AI era, you can count on many sessions, in addition to Masad’s, across our other stages: - Builders Stage, which will be chock-full of VCs and corporate development pros who’ll dive deep, providing the kinds of insights every founder needs to have. - AI Stage, where we’ll examine the presumed SaaSpocalypse, career opportunities, emerging security challenges, and more. - Smart Systems Stage, for those working on the vital infrastructure underpinning this era and for those who need to learn more about it. - Real World AI Stage, where we’ll explore the sundry ways that new technologies are beginning to impact the physical world around us. To hear it first and in person, join the more than 10,000 founders, investors, and technologists who are heading to San Francisco for Disrupt 2026 on October 13–15. Grab your ticket today to make sure you get the best available price.",
-        "impact": "همه‌گیر شدن ابزارهای کدنویسی هوشمند، ساخت نرم‌افزار را از انحصار برنامه‌نویسان خارج کرده و هزینه راه‌اندازی استارتاپ‌ها را به شدت کاهش داده است.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.85,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-        "clean_url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
-        "images": [
-            "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026-2.png?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2015/09/ae1f79a1ec4335fb3af512a1c31d3f3f.jpg?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787601240.0
-    },
-    {
-        "id": "6e0ff8ddca",
-        "title_fa": "بررسی چالش‌های حقوقی هوش مصنوعی مولد برای شرکت‌های نوپا",
-        "title_en": "Dr. Ádám Miklós Sulyok",
-        "summary": [
-            "دفتر مالکیت فکری مجارستان روی تدوین قوانین جدید برای مدیریت تعارضات هوش مصنوعی مولد و حق‌نشر تمرکز کرده است.",
-            "سیاست‌گذاران اروپایی در تلاش‌اند چارچوب حقوقی یکپارچه‌ای برای استفاده آگاهانه کسب‌وکارهای کوچک از فناوری‌های جدید ایجاد کنند."
-        ],
-        "full_text": "Over the course of his nearly decade-long leadership career at HIPO, Mr Ádám Miklós Sulyok has been actively involved in the Office's awareness-raising and educational activities, regularly delivering lectures at courses and professional events. His educational work includes providing comprehensive guidance on copyright-related issues and challenges faced by small and medium-sized enterprises, thereby supporting their effective integration into the innovation ecosystem. During Hungary's Presidency of the Council of the European Union in 2024, Mr Sulyok played an active role as a member of the Council Working Party on Copyright in strategic discussions concerning the intersection of generative artificial intelligence and copyright regulation. He also contributed to the development of unified policy positions based on professional consensus. Through his significant professional support, he contributed to the successful organization of the high-profile international conference entitled \"Intellectual Property in the Age of Artificial Intelligence\". He is also a member of the Copyright Expert Body and the Hungarian Copyright Forum Association. 2nd–3rd December 2026 Siófok, Hotel Azúr Wellness **** The Portfolio Group's Agricultural Sector Conference is already the largest agribusiness event and summit in Hungary in terms of content. The aim of the conference is to summarize and analyze the year's outstanding domestic and international agribusiness events and to provide a forecast for the coming years to help agribusiness players make successful business and investment decisions. The conference offers a three-day professional programme: the event will start with a festive professional evening, followed by two further days of highly complex and exhaustively detailed professional content. The conference will feature top leaders from the national government, banking, corporate and advocacy sectors who will provide first-hand, relevant information that will be useful for all players in the agricultural economy - producers, food manufacturers and traders. It will also provide a wide range of showcasing and market-building opportunities for businesses serving the agricultural sector - input manufacturers, integrators, machinery distributors, finance and other service providers. In addition to a rich programme of events, the conference will provide an opportunity for professional networking, networking and business meetings, with high-quality technical presentations and round-table discussions, and an entertainment programme to keep participants energised and relaxed. The Portfolio Group will present the annual awards in eleven categories at the Agribusiness Conference, which recognize the most outstanding professional achievements and accomplishments in the agribusiness sector. The prizes are awarded by a jury of leading figures in the agricultural sector on the basis of applications submitted by the operators in the sector. Our lives—and with them, the way companies operate—are becoming digitized at an astonishing pace; paper-based processes are disappearing, and we only visit branch offices for in-person transactions when dealing with the most complex matters; and we communicate and handle matters via digital channels 24/7. But now, the AI revolution and the agentic AI trend are turning the digital world, internal operations, and customer-facing front-ends upside down. AI agents capable of acting autonomously, as well as AI tools and enterprise solutions that support specific business, compliance, and administrative processes, offer companies previously unimaginable speed and extraordinary potential for efficiency gains. What do we do with the hours of work we’ve gained and the labor we’ve saved? Is artificial intelligence disrupting core business as well? What is vibe coding good for? At our event for both large corporations and SMEs, we’ll be seeking and providing answers to these questions and more! The technological race of the coming decades will not be decided by who makes the best use of off-the-shelf solutions. Rather, it will be decided by who is able to create, manufacture, and own the technologies without which others will not be able to function. A new battery that stores energy longer. A material that is lighter, stronger, or cheaper to produce than its predecessors. A drug or diagnostic procedure that provides a solution to previously untreatable diseases. A robotic system, defense technology, a new manufacturing process, or a space industry advancement. None of these are created overnight: they require in-depth research, complex expertise, significant capital, and persistent development. This is what we call deep tech. Deep tech does more than just create new products or services. It can reshape the balance of power across entire industries and build knowledge, manufacturing capacity, and intellectual property that are difficult to replicate or replace after the fact. At Portfolio’s first Deep Tech conference, we will examine how a scientific or engineering breakthrough becomes a marketable company and then an exportable industrial capability. Where do Europe and Hungary stand in the technological competition between the United States and China? In which areas do we have genuine expertise and room to maneuver, where do we depend on others, and how can we move beyond the role of mere users or assembly plants? We’ll also discuss how breakthroughs actually come about. What kind of research environment, infrastructure, funding, and institutional collaboration are needed to ensure that a promising result does not get lost in a sea of publications or prototypes, but instead becomes usable knowledge, a company, and industrial capability. Researchers, university and corporate R&D leaders, founders, investors, banks, decision-makers, and international technology players discuss AI, robotics, biotech and medtech solutions, energy storage, new materials, as well as developments in the aerospac",
-        "impact": "شفاف‌سازی قوانین مالکیت فکری، ریسک‌های حقوقی استفاده از مدل‌های هوش مصنوعی را برای استارتاپ‌ها کاهش می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Portfolio.hu",
-        "url": "https://www.portfolio.hu/en/events/speaker/sulyok-adam-miklos/16652",
-        "clean_url": "https://www.portfolio.hu/en/events/speaker/sulyok-adam-miklos/16652",
-        "image": "https://eventscdn.portfolio.hu/portfolio/conferences/boost_your_business_2026_web_768x259-hu-2124-raqa.jpg",
-        "images": [
-            "https://eventscdn.portfolio.hu/portfolio/conferences/boost_your_business_2026_web_768x259-hu-2124-raqa.jpg",
-            "https://eventscdn.portfolio.hu/portfolio/conferences/boost_your_business_2026_web_620x620-hu-2124-rpxy.jpg",
-            "https://eventscdn.portfolio.hu/portfolio/conferences/asz_26_web_620x620-hu-1990-rlmr.jpg",
-            "https://eventscdn.portfolio.hu/portfolio/conferences/asz26_web_768x259-hu-1990-rfam.jpg"
-        ],
-        "timestamp": 1787597940.0
-    },
-    {
-        "id": "9088d1a330",
-        "title_fa": "برگزاری هفته «زنان در فناوری» در ایندیانا",
-        "title_en": "PRESS RELEASE: Indiana Women IN Tech Week Returns September 13–20, Celebrating Women Shaping the Future of Technology",
-        "summary": [
-            "رویداد هفته زنان در فناوری ایندیانا از ۲۳ تا ۳۰ شهریور با هدف برجسته‌سازی نقش زنان در توسعه تکنولوژی برگزار می‌شود.",
-            "تمرکز اصلی این رویداد بر ایجاد فرصت‌های جدید شغلی، شبکه‌سازی تخصصی و ارتقای مهارت‌های رهبری زنان در حوزه تک است."
-        ],
-        "full_text": "PRESS RELEASE: Indiana Women IN Tech Week Returns September 13–20, Celebrating Women Shaping the Future of Technology  Indiana Daily Student",
-        "impact": "افزایش تعاملات کاری و تقویت پایگاه متخصصان زن در اکوسیستم فناوری.",
-        "tag": "رویداد",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Indiana Daily Student",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadlJLS1pUcUg2VF9nOXBWZUJ6U1B3b1pLTEV3VGE2UTdtV2dqZDVGMHl3dzBIT3pTXzhuMzZGYzlmYk8wQTd6Nmt2ckhnblBRU2JOS19sT3dNSE9NMHAyZVo0WEhwNEx3Z2w0UXJkbFA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBadlJLS1pUcUg2VF9nOXBWZUJ6U1B3b1pLTEV3VGE2UTdtV2dqZDVGMHl3dzBIT3pTXzhuMzZGYzlmYk8wQTd6Nmt2ckhnblBRU2JOS19sT3dNSE9NMHAyZVo0WEhwNEx3Z2w0UXJkbFA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787595840.0
     }
 ]
