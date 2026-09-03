@@ -1,5 +1,123 @@
 [
     {
+        "id": "bf74920f65",
+        "title_fa": "پیش‌بینی ساعتی و دقیق آب‌وهوا با مدل هوش مصنوعی WeatherNext 3 گوگل",
+        "title_en": "Google's WeatherNext 3 Forecasts Every Hour at Higher Resolution",
+        "summary": [
+            "گوگل مدل جدید WeatherNext 3 را معرفی کرد که پیش‌بینی‌های جهانی آب‌وهوا را هر ساعت یک‌بار با تفکیک‌پذیری ۵ کیلومتری به‌روزرسانی می‌کند.",
+            "این مدل برخلاف روش‌های سنتی، داده‌ها را مستقیماً از ماهواره‌ها و ایستگاه‌های زمینی دریافت کرده و تغییرات ناگهانی دما و رطوبت را دقیق‌تر تحلیل می‌کند.",
+            "قابلیت ویژه این مدل، پیش‌بینی میزان تولید انرژی‌های تجدیدپذیر مانند سرعت باد در ارتفاع توربین‌ها و میزان تابش خورشید است."
+        ],
+        "full_text": "Get tech news that matters delivered weekly. Join 50,000+ readers. Google has unveiled WeatherNext 3, a global weather AI model that generates a new forecast every hour at up to 5-kilometer resolution, a step up from the six-hour data lag typical of models trainedon numerical weather prediction simulations. According to Google, the model draws on a continuously updating feed of geostationary satellite imagery worldwide and learns directly from scattered ground station readings, letting it reflect local features such as terrain. This approach aims to address rapid weather changes and local variations in temperature and humidity that traditional models miss. Google says the model is particularly beneficial for regions in Latin America, Africa, and Asia-Pacific that have historically lacked high-resolution forecasting due to the high supercomputing costs of traditional regional models. WeatherNext 3 also adds predictions aimed at renewable energy production, covering wind speeds 100 meters up, near turbine height, plus detailed cloud cover and incoming solar radiation. Google says that data should help grid operators and renewable energy developers line up expected output from wind and solar assets with demand. For precipitation, the model is trained on NASA's satellite-based IMERG data and Google's own global precipitation reanalysis. In medium-range forecasts, Google reports a Continuous Ranked Probability Score improvement of up to 60% against IMERG, 30% against MRMS, and 10% against rain gauge measurements for early lead times. The announcement follows Google's broader push into AI infrastructure, including its Project Suncatcher orbital data center initiative, which aims to network solar-powered satellitesequipped with Tensor Processing Units. At IFA 2026, Lenovo unveiled new PCs, tablets, and Motorola devices, expanding its Qira AI assistant to more products and apps. No pricing or availability was announced. NVIDIA and partners unveiled compact RTX Spark PCs from Lenovo and Acer, arriving in October, plus new local AI models and tools at IFA 2026. About 8,000 GIHNJSI Squeezy Dumplings toys sold on Amazon are recalled because water beads inside can expand and cause deadly ingestion and choking hazards. Full refunds offered. About 714 Cambridge Audio Yoyo (M) portable Bluetooth speakers sold in pairs are recalled because lithium-ion batteries can overheat and catch fire. Refund or store credit offered.",
+        "impact": "بهینه‌سازی مدیریت شبکه‌های برق و پیش‌بینی دقیق‌تر میزان تولید انرژی‌های پاک در سطح جهان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Technobezz",
+        "url": "https://www.technobezz.com/news/google-weathernext-3-hourly-forecasts",
+        "clean_url": "https://www.technobezz.com/news/google-weathernext-3-hourly-forecasts",
+        "image": "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162327_668_0c98035659.jpg",
+        "images": [
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162327_668_0c98035659.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162120_949_a705d8f39b.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T161022_084_e5a81ca5b4.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T160801_350_d7a5d4fea8.jpg"
+        ],
+        "timestamp": 1788470700.0
+    },
+    {
+        "id": "e9036c2497",
+        "title_fa": "رونمایی لنوو از گجت‌های هوشمند و توسعه دستیار Qira در نمایشگاه IFA",
+        "title_en": "Lenovo Unveils Hybrid AI Devices and Qira Expansion at IFA",
+        "summary": [
+            "لنوو در رویداد IFA برلین، از مجموعه تازه‌ای از لپ‌تاپ‌های Yoga، ThinkPad و گوشی motorola edge 70 plus رونمایی کرد.",
+            "دستیار هوش مصنوعی Qira اکنون روی لپ‌تاپ‌های ۱۶ گیگابایتی لنوو، ساعت‌های موتورولا و ابزارهایی مانند گوگل کCalendar و اسلک فعال می‌شود.",
+            "دو طرح مفهومی جالب شامل لپ‌تاپ بدون فن AeroBlade و لپ‌تاپ قابل‌توسعه Swan نیز به نمایش درآمدند."
+        ],
+        "full_text": "Get tech news that matters delivered weekly. Join 50,000+ readers. Lenovo used its Innovation World event at IFA 2026 in Berlin on September 3 to unveil a wave of personal and enterprise hardware, all tied to its hybrid AI strategyspanning devices, infrastructure, and services. The company also expanded its Lenovo & Motorola Qira assistant to more eligible PCs, Motorola devices, apps, and services. The moto watch ultra becomes the first Motorola wearable to support Qira, and eligible Lenovo PCs with 16GB of memory gain Qira support as well. Eligible edge, razr, and signature devices will get Qira when they upgrade to Android 17. A new collaboration with Workato extends Qira to Gmail, Google Calendar, Google Contacts, Slack, Outlook Mail, and Outlook Calendar. On the PC side, the Yoga Pro 9n and Yoga 9n 2-in-1 bring NVIDIA RTX Spark to the premium Yoga line, while the Yoga Tab Plus Gen 2 and Yoga Tab Gen 2 are pen-first Android tablets. The IdeaPad Vibe series comes in seven color options, and the IdeaCentre AIO i is a redesigned all-in-one for the home. For business, Lenovo introduced the ThinkCentre X Ultra and ThinkCentre M75 Series desktops for local AI, plus the ThinkBook 14 Gen 9 and ThinkBook 14x Gen 2 for on-device AI. New ThinkVision displays add conferencing, docking, eye-comfort, and management features. Security offerings include ThinkShield TraceLock, powered by Absolute Security, and Prompt Security, a SentinelOne company, for AI governance. Lenovo also showed two concepts: Project AeroBlade, a thin, fanless mobile PC, and Project Swan, a portable notebook that expands the workspace. The motorola edge 70 plus features a quad-curved design and a 200MP camera, running on the Snapdragon 7s Gen 3 Mobile Platform. The moto watch ultra includes Polar insights, Wear OS by Google, and LTE eSIM support, while the moto snap wireless charger adds wireless charging and works with magnetic cases on select devices. A motorola razr with Crystals by Swarovski sports a PANTONE Meteorite finish. Luca Rossi, President of Intelligent Devices Group at Lenovo, said, \"AI is changing the relationship between people and technology. People don’t wake up thinking about apps, they think about what they want to accomplish.\" Lenovo issuedseparate releases the same dayon its Think-branded business hardware, displays and security tools, and on theIdeaPad Vibe laptops and IdeaCentre all-in-one PCs. No pricing or availability dates were provided for any of the new products, and detailed specifications were largely absent. Google's new WeatherNext 3 AI model delivers hourly global forecasts at 5-kilometer resolution, trained on live satellite data and weather stations, with a focus on renewable energy and underserved re... NVIDIA and partners unveiled compact RTX Spark PCs from Lenovo and Acer, arriving in October, plus new local AI models and tools at IFA 2026. About 8,000 GIHNJSI Squeezy Dumplings toys sold on Amazon are recalled because water beads inside can expand and cause deadly ingestion and choking hazards. Full refunds offered. About 714 Cambridge Audio Yoyo (M) portable Bluetooth speakers sold in pairs are recalled because lithium-ion batteries can overheat and catch fire. Refund or store credit offered.",
+        "impact": "تثبیت موقعیت لنوو در بازار سخت‌افزارهای مجهز به پردازش محلی هوش مصنوعی و جذب کاربران اکوسیستم موتورولا.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Technobezz",
+        "url": "https://www.technobezz.com/news/lenovo-hybrid-ai-ifa",
+        "clean_url": "https://www.technobezz.com/news/lenovo-hybrid-ai-ifa",
+        "image": "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162120_949_a705d8f39b.jpg",
+        "images": [
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162120_949_a705d8f39b.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T162327_668_0c98035659.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T161022_084_e5a81ca5b4.jpg",
+            "https://cdn.technobezz.com/c/Technobezz_2026_09_03_T160801_350_d7a5d4fea8.jpg"
+        ],
+        "timestamp": 1788470520.0
+    },
+    {
+        "id": "67da302e88",
+        "title_fa": "برنامه‌ریزی گسترده OpenAI برای ورود به بازار خدمات حقوقی",
+        "title_en": "OpenAI is about to make its biggest push yet into the legal industry",
+        "summary": [
+            "OpenAI قصد دارد با ارائه ابزارها و مدل‌های تخصصی، بزرگ‌ترین نفوذ خود را به صنعت حقوق و وکالت آغاز کند.",
+            "این اقدام اتوماسیون تحلیل اسناد، بررسی قراردادها و پژوهش‌های حقوقی پیچیده را هدف گرفته است."
+        ],
+        "full_text": "OpenAI is about to make its biggest push yet into the legal industry  Business Insider",
+        "impact": "کاهش چشمگیر هزینه‌های عملیاتی در موسسات حقوقی و تغییر مدل‌های سنتی تحلیل پرونده‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5aU9hTHZ6NmlBSFZaYWUxTENYVGlfU0YzMGhyTjN3cGtGbXN4ckRsRFRNRDVqWGtjeldiNUd0YXBsMGpwWnpJaFlkRWtBUDR6eGtCSkxmWFhfcWlzbjJvelB4Z3daQk9RaEktdlBsaXpmTVVxYlB5RA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5aU9hTHZ6NmlBSFZaYWUxTENYVGlfU0YzMGhyTjN3cGtGbXN4ckRsRFRNRDVqWGtjeldiNUd0YXBsMGpwWnpJaFlkRWtBUDR6eGtCSkxmWFhfcWlzbjJvelB4Z3daQk9RaEktdlBsaXpmTVVxYlB5RA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788467364.0
+    },
+    {
+        "id": "eb13d063ac",
+        "title_fa": "ابتکار مشترک نهادهای دولتی آمریکا برای جذب سرمایه در فناوری‌های حیاتی",
+        "title_en": "DOE and SBA Launch the SBIC-E Initiative to Expand Private Capital for Energy and Critical Technology Small Businesses",
+        "summary": [
+            "وزارت انرژی آمریکا و سازمان کسب‌وکارهای کوچک (SBA) طرح SBIC-E را برای هدایت سرمایه‌های خصوصی به سمت شرکت‌های نوپای حوزه انرژی راه انداختند.",
+            "این برنامه روی حمایت از استارتاپ‌های فعال در زمینه انرژی‌های پاک و سخت‌افزارهای حیاتی تمرکز دارد."
+        ],
+        "full_text": "DOE and SBA Launch the SBIC-E Initiative to Expand Private Capital for Energy and Critical Technology Small Businesses  Foley Hoag",
+        "impact": "تسهیل ورود سرمایه‌گذاران خصوصی به حوزه فناوری‌های سخت و کاهش ریسک مالی استارتاپ‌های انرژی.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Foley Hoag",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWhfMi0tTFNENjlpUVc4Z1ROTEVzZms4Y0d0VTlxV1B6Z2tuVHg4aWpNckQ5S3lWY21aR0Q5eHNFOXdiUEpGQ3UtMXdpVFd6OXotNlMyMXRKZUFDTUoxcUd2YndiQ3pEejcxOWNobVZtSTZZZnU1MnN1MW5iSjZ2bVRycUZFT0xnd3Zleng5X2g2TlFyamphZ0tpQUxDVXdiaFR5WVlfRTNEcm9HYWtycUJGazIxNHY2dzRwdjZRLVhqMF9tRkRKdlAxS2J3c3cwWHVVTV9tX1ZOc3NiMEdVY0toZnhXSmwzQWktVlJOeWctMS1PNzB1Z0ktOFlVQk4zVWxRZWVJMFhyWEJ4bVZ5bQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWhfMi0tTFNENjlpUVc4Z1ROTEVzZms4Y0d0VTlxV1B6Z2tuVHg4aWpNckQ5S3lWY21aR0Q5eHNFOXdiUEpGQ3UtMXdpVFd6OXotNlMyMXRKZUFDTUoxcUd2YndiQ3pEejcxOWNobVZtSTZZZnU1MnN1MW5iSjZ2bVRycUZFT0xnd3Zleng5X2g2TlFyamphZ0tpQUxDVXdiaFR5WVlfRTNEcm9HYWtycUJGazIxNHY2dzRwdjZRLVhqMF9tRkRKdlAxS2J3c3cwWHVVTV9tX1ZOc3NiMEdVY0toZnhXSmwzQWktVlJOeWctMS1PNzB1Z0ktOFlVQk4zVWxRZWVJMFhyWEJ4bVZ5bQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788466787.0
+    },
+    {
+        "id": "c1c445f109",
+        "title_fa": "رونمایی OpenAI از مدل Astra و ادعای ورود به عصر AGI",
+        "title_en": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+        "summary": [
+            "OpenAI از مدل جدیدی به نام Astra رونمایی کرد و آن را سرآغاز دوره‌ای تازه در مسیر دستیابی به هوش عمومی مصنوعی (AGI) نامید.",
+            "این مدل با ارتقای توانایی‌های استدلال و پردازش چندوجهی، بنچمارک‌های قبلی این شرکت را بهبود می‌دهد."
+        ],
+        "full_text": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release  The Guardian",
+        "impact": "افزایش شدید فشار رقابتی بر گوگل و آنتروپیک برای رونمایی سریع‌تر از مدل‌های پرچمدار بعدی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788465900.0
+    },
+    {
         "id": "bd9d415a31",
         "title_fa": "ورود رسمی به عصر AGI؛ رونمایی هوش مصنوعی GPT-6 Astra",
         "title_en": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
@@ -6860,131 +6978,5 @@
             "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150"
         ],
         "timestamp": 1787644800.0
-    },
-    {
-        "id": "a82f186f99",
-        "title_fa": "هشدار اتحادیه اروپا درباره خطر از دست رفتن کنترل بر هوش مصنوعی",
-        "title_en": "هشدار اتحادیه اروپا درباره از دست رفتن کنترل انسانی بر هوش مصنوعی",
-        "summary": [
-            "معاون کمیسیون اروپا پیشرفت سریع هوش مصنوعی را خطری امنیتی دانست و بر ضرورت حفظ کنترل نهایی انسان تاکید کرد.",
-            "اتحادیه اروپا قصد دارد با اجرای دقیق «قانون هوش مصنوعی» شرکت‌ها را به ارزیابی مداوم ریسک‌ها و رعایت استانداردهای ایمنی ملزم کند."
-        ],
-        "full_text": "یک مقام ارشد فناوری اتحادیه اروپا میگوید: «این فناوریها چنان بهسرعت در حال پیشرفت هستند که وجود تدابیر حفاظتی، امری ضروری است.» فرارو- هنا ویرکونن، معاون اجرایی کمیسیون اروپا در امور حاکمیت فناوری، امنیت و دموکراسی، روز سهشنبه نسبت به خطرات خارج شدن هوش مصنوعی از کنترل انسان هشدار داد. به گزارش فرارو به نقل از آناتولی، ویرکونن به شبکه رادیو-تلویزیونی فنلاند (Yle) گفت که اتحادیه اروپا احتمال از دست رفتن کنترل انسان بر هوش مصنوعی را یکی از جدیترین خطرات امنیتی میداند. او اظهار داشت: «این فناوریها با چنان سرعتی پیشرفت میکنند که وجود تدابیر حفاظتی امری ضروری است.» ویرکونن بر لزوم تضمین فعالیت این فناوریها در چارچوب محدودیتهای امنیتی مشخص و حفظ کنترل نهایی توسط انسان تأکید کرد. وی همچنین با اشاره به «قانون هوش مصنوعی» اتحادیه اروپا که ارائهدهندگان را ملزم به ارزیابی مداوم خطرات و حفظ سازوکارهای ایمنی تعیینشده میکند بر اهمیت رسیدگی این اتحادیه به خطرات احتمالی از طریق وضع مقررات تأکید ورزید. ویرکونن گفت: «نمیگویم که از آن هراس دارم، اما قطعاً این خطری است که مد نظر قرار گرفته و باید همچنان مورد توجه باشد. ما باید اطمینان حاصل کنیم که مدلهای هوش مصنوعی ایمن هستند و بهطور مداوم از جمله پس از ورود به بازار ارزیابی و نظارت میشوند.» او ضمن تأکید مجدد بر ضرورت همکاریهای بینالمللی، خاطرنشان کرد که بازیگران بینالمللی مقررات اتحادیه اروپا را مد نظر قرار میدهند. وی افزود: «بدین ترتیب، اروپا در تعیین استانداردهای هوش مصنوعی نیز نقش ایفا میکند.»",
-        "impact": "تشدید نظارت‌های سخت‌گیرانه قانونی بر توسعه‌دهندگان بزرگ هوش مصنوعی در بازار اروپا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "فرارو",
-        "url": "https://fararu.com/fa/news/997163/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
-        "clean_url": "https://fararu.com/fa/news/997163/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%B1%D9%81%D8%AA%D9%86-%DA%A9%D9%86%D8%AA%D8%B1%D9%84-%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D8%B1-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C",
-        "image": "http://www.bing.com/th?id=ONUT.TwVF4uSTAWAx9MgaMFuHaA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.TwVF4uSTAWAx9MgaMFuHaA&pid=News",
-            "https://cdn.fararu.com/thumbnail/iyiuFFbHxqCR/Sn0L2nPUql70JvWKCSFhgjQBC30QpIQxLG2WtxSRrBVN8tMmtn3jTGta76qT6idvxEiGucHcHM0ItvAeZJjG8ruWcKv1QNQmtpkwzJHa1QH2vx8i4q2hgrnXiCkOoeOI/%D8%A2%DA%AF%D8%A7%D9%87%DB%8C+%D9%87%D9%88%D8%B4+%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C.jpg",
-            "https://cdn.fararu.com/servev2/fFTLRjWPzyj9/Hvt3sGUk0IC1J0NVn-vCYnANhkfemg62Xjy6doxg-bN9aSgWlx3-doJTu0qh1Z6K6KIVfKQCJY3dmejmyqlMvQ,,/%D8%A2%DA%AF%D8%A7%D9%87+%D8%B5%D9%81%D8%AD%D9%87+%D8%AE%D8%A8%D8%B1.gif",
-            "https://cdn.fararu.com/thumbnail/Aa3hEHP7IySK/LpKAQizaulsVHgXdpA1c0tcEGAoDGnp6m-_nw7gGS4V77hS2utrRsnmZVw1OLnllLK1KQuXpIeRSzMk_1x3Unyix0SSzsduErG1ZgNdblyIuL8lfXkiZfYqkaj6VmxzvFWEieLomEX6eUfVWxeX56fzMBxgNxykvAX-L4d6MhFNMtsGjDgkxyMBMTk47L1Or/%D8%AF%D8%B3%D8%B1+%D9%86%D8%A7%D9%BE%D9%88%D9%84%DB%8C.jpg"
-        ],
-        "timestamp": 1787642580.0
-    },
-    {
-        "id": "f093ffa6da",
-        "title_fa": "هشدار به سرمایه‌گذاران درباره حباب ارزش‌گذاری شرکت آرکیت کوانتوم",
-        "title_en": "Arqit Quantum: The Little Boat That Couldn't",
-        "summary": [
-            "تحلیل‌گران بازار سهام با صدور هشدار فروش، ارزش‌گذاری شرکت Arqit Quantum را به دلیل سوزاندن شدید نقدینگی و ریسک‌های عملیاتی بالا، غیرواقعی می‌دانند.",
-            "معامله سهام این شرکت با ضریب نزدیک به ۴۰۰ برابر فروش، نشان از حباب سنگین و عدم تناسب قیمت سهام با عملکرد مالی آن دارد."
-        ],
-        "full_text": "Arqit Quantum looks overvalued at 397.6x FY26 EV/Sales amid dilution, cash burn, and execution risks. Read why ARQQ stock is a Strong Sell.",
-        "impact": "بی‌اعتمادی سرمایه‌گذاران به شرکت‌های نوپای کوانتومی که فاقد مدل درآمدی پایدار هستند افزایش یافته است.",
-        "tag": "سخت‌افزار",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4939836-arqit-quantum-the-little-boat-that-couldnt",
-        "clean_url": "https://seekingalpha.com/article/4939836-arqit-quantum-the-little-boat-that-couldnt",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1476800280/image_1476800280.jpg?io=getty-c-w1536",
-        "images": [
-            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1476800280/image_1476800280.jpg?io=getty-c-w1536"
-        ],
-        "timestamp": 1787642520.0
-    },
-    {
-        "id": "bbdb3b4da8",
-        "title_fa": "تراشه اختصاصی OpenAI؛ خط‌ونشان جدی برای پادشاهی انویدیا",
-        "title_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "summary": [
-            "OpenAI از اولین تراشه اختصاصی خود با نام Jalapeño پرده برداشت؛ پردازنده‌ای که با همکاری برادکام ویژه پردازش‌های استنتاجی (Inference) طراحی شده است.",
-            "تست‌های بنچمارک نشان می‌دهند این تراشه در اجرای مدل‌های پیشرفته‌ای مثل DeepSeek R1 تا ۳.۶ برابر تاخیر کمتری نسبت به سوپرچیپ‌های GB200 انویدیا دارد.",
-            "بازده انرژی Jalapeño حدود ۱.۹ برابر بهینه‌تر از قدرتمندترین رقباست و هزینه برق دیتاسنترها را به‌شدت پایین می‌آورد.",
-            "عرضه محدود این پردازنده از امسال آغاز می‌شود و تا سال ۲۰۲۷ به تولید انبوه خواهد رسید."
-        ],
-        "full_text": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the “best of both worlds” with lower latency and higher throughput, as AI systems typically “have to make a trade-off between the two.” OpenAI says its Jalapeño chip can power faster AI responses than the competition Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. First introduced in June, Jalapeño is an Application-Specific Integrated Circuit (ASIC) made in partnership with Broadcom. It’s designed for AI inference — the process of running a trained AI model to complete a task or deploy an agent. To measure Jalapeño’s performance, OpenAI used InferenceX, a benchmarking platform that shows how well AI systems handle inference. The test compared Jalapeño’s performance against the best results recorded at the time, which were with Nvidia’s GB200 or GB300 superchips. OpenAI says Jalapeño delivered 1.5 to 1.9 times more AI work per watt across GPT-OSS 120B, DeepSeek R1, and Kimi K2.5 1T than the comparison systems, while offering 1.7 to 3.6 times lower end-to-end latency across the three models. That means the chip can provide users with “faster responses, more responsive agents, and more reliable access as the demand grows,” according to Ho. OpenAI plans to deploy Jalapeño in “small volumes” by the end of this year, but will begin to “ramp the volume up” into 2027, Ho added. The company doesn’t say how many chips it plans to deploy next year, however. Even with these performance improvements, Ho said OpenAI doesn’t expect to replace its entire chip lineup with Jalapeño, saying its overall compute strategy includes “very good partners,” like Nvidia. OpenAI will continue developing the second and third generations of the new chip.",
-        "impact": "آغاز پایان انحصار مطلق انویدیا و کاهش چشمگیر هزینه‌های عملیاتی سرورهای هوش مصنوعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-        "image": "http://www.bing.com/th?id=ONUT.nf4BYrmc570A046SyC3JQg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.nf4BYrmc570A046SyC3JQg&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787641200.0
-    },
-    {
-        "id": "60286dbeb5",
-        "title_fa": "میزبانی استانبول از جیتکس و جهش هوش مصنوعی در ترکیه",
-        "title_en": "ترکیه در نقشه هوش مصنوعی جهان کجاست؟",
-        "summary": [
-            "رویداد بین‌المللی GITEX در شهریور ماه با حضور بیش از ۵۰۰ شرکت و ۱۰۰ سرمایه‌گذار از ۷۰ کشور دنیا برای اولین بار در استانبول برگزار می‌شود.",
-            "ترکیه هم‌اکنون بیش از ۱۲۰۰ استارتاپ فعال در حوزه هوش مصنوعی دارد که حدود ۳۵ درصد آن‌ها تنها در دو سال اخیر تأسیس شده‌اند.",
-            "با وجود بازار مصرف ۸۰ میلیونی و نیروی جوان، کمبود زیرساخت‌های پردازشی سنگین چالش اصلی ترکیه برای رقابت با غول‌های فناوری است."
-        ],
-        "full_text": "رویداد بینالمللی GITEX بهعنوان یکی از بزرگترین و معتبرترین نمایشگاههای فناوری جهان، تصمیم گرفته است تا پای خود را به بازار ترکیه باز کند. جیتکس ترکیه در تاریخ ۹ و ۱۰ سپتامبر (۱۸ و ۱۹ شهریور) در محل Istanbul Expo Center شهر استانبول میزبان بیش از ۵۰۰ شرکت، ۱۵۰ سخنران و ۱۰۰ سرمایهگذار از بیش از ۷۰ کشور خواهد بود. جیتکس ترکیه صرفاً معرفی یک رویداد جدید نیست؛ بلکه نشانهای آشکار از تغییرات ساختاری عمیق در ژئوپلیتیک فناوری منطقه است. چرا به ترکیه نگاه کنیم؟ ترکیه امروز در نقطهای حساس از مسیر توسعه فناوری خود قرار گرفته است. از یک سو، مطابق آمار رسمی منتشرشده از سوی OECD این کشور مجهز به بازاری بزرگ با بیش از ۸۰ میلیون مصرفکننده دیجیتال بومی است که نیروی انسانی فوقالعاده جوان (با سهم ۲۲.۴ درصدی گروه سنی زیر ۱۴ سال از کل جمعیت)، صنایع سنتی قدرتمند، استارتاپهای پویا و حمایتهای دولتی متمرکز را در اختیار دارد. ازسویدیگر، وقتی صحبت از مؤلفههای کلیدی انقلاب هوش مصنوعی یعنی زیرساختهای پردازشی فوقسنگین، سرمایه در مراحل رشد و تولید فناوریهای پایه و مدلهای زبانی بزرگ به میان میآید، فاصله ترکیه با قدرتهای تراز اول هوش مصنوعی جهان مانند ایالات متحده و چین بسیار چشمگیر است. بنابراین، ورود GITEX به ترکیه را نباید صرفاً بهعنوان یک رویداد تجاری دید، بلکه باید آن را بهعنوان اعتراف سیستماتیک به پتانسیلهای جدی این کشور در اکوسیستم فناوری خاورمیانه و اوراسیا تحلیل کرد. اکنون سؤال کلیدی این نیست که آیا ترکیه در حوزه هوش مصنوعی فعال است یا خیر؛ چرا که پاسخ این سؤال بهوضوح مثبت است. سؤال واقعی این است: آیا ترکیه میتواند باتکیهبر مزیتهای نسبی خود، از یک «بازار جذاب برای مصرف و پیادهسازی هوش مصنوعی» عبور کرده و خود را بهعنوان یک «هاب منطقهای، صادرکننده و تولیدکننده محصولات مبتنی بر هوش مصنوعی» تثبیت کند؟ ترکیه امروز چه اکوسیستمی از هوش مصنوعی دارد؟ برای درک واقعیت اکوسیستم هوش مصنوعی ترکیه، باید فراتر از هیاهوهای رسانهای به سراغ آمار و ارقام رفت. دادههای سال ۲۰۲۴ و ۲۰۲۵ نشان میدهند که ترکیه با شتابی شگفتانگیز درحالتوسعه لایه اولیه اکوسیستم هوش مصنوعی خود است، هرچند که این رشد با ناهماهنگیهایی در ساختار تأمین مالی همراه بوده است. طبق آمار رسمی «دفتر سرمایهگذاری و امور مالی ریاستجمهوری ترکیه» در گزارش «The State of Turkish Startup Ecosystem 2025»: - تعداد استارتاپهای فعال حوزه هوش مصنوعی: بیش از ۱,۲۲۲ استارتاپ فعال هوش مصنوعی در ترکیه ثبت شدهاند. نکته قابلتوجه این است که نزدیک به ۳۵ درصد از این استارتاپها صرفاً در بازه زمانی دو ساله ۲۰۲۴ تا ۲۰۲۵ تأسیس شدهاند که نشاندهنده یک موج انفجاری در گرایش به کارآفرینی مبتنی بر هوش مصنوعی است. - جذب سرمایه در بخش هوش مصنوعی: در سال ۲۰۲۴، استارتاپهای حوزه هوش مصنوعی، کلانداده و تحلیل داده پیشتاز بلامنازع جذب سرمایه در ترکیه بودهاند و در مجموع موفق به جذب ۷۱۵.۸ میلیون دلار سرمایه شدند. - تعداد استارتاپهای تأمین مالی شده: در بازه زمانی ۲۰۲۴-۲۰۲۵، تعداد ۲۲۱ استارتاپ هوش مصنوعی موفق به دریافت سرمایه در مراحل اولیه (بیشتر در مراحل پیشبذری و بذری) شدهاند. - رشد کلان سرمایهگذاری استارتاپی: حجم کل سرمایهگذاری جسورانه (VC) در استارتاپهای ترکیه از ۴۹۷ میلیون دلار در سال ۲۰۲۳ با جهشی خیرهکننده و ۴۲۳ درصدی به حدود ۲.۶ میلیارد دلار در سال ۲۰۲۴ رسید. همچنین تعداد معاملات از ۲۹۷ مورد به ۳۳۱ معامله افزایش یافت. هرچند جهش ۴۲۳ درصدی سرمایهگذاری استارتاپی در نگاه اول یک پیروزی مطلق به نظر میرسد، اما تحلیل دقیقتر دادهها تضاد عمیقی را آشکار میسازد که یکی از ویژگیهای اصلی اکوسیستمهای نوظهور است. اگرچه ترکیه طبق آمار startups.watch در سال ۲۰۲۵ رتبه نخست اروپا را در تعداد معاملات مرحله پیشبذری (Pre-seed Deals) کسب کرده است، اما میانگین اندازه بلیتهای سرمایهگذاری (Ticket Size) همچنان زیر ۵۰۰ هزار یورو باقی مانده است. این تضاد به ما میگوید که ما با یک اکوسیستم هوش مصنوعی بسیار فعال در لایه استارتاپهای نوپا روبهرو هستیم که از لحاظ تعداد و پویایی مراحل اولیه بسیار قدرتمند است، اما هنوز ساختار سرمایه آن به پختگی کامل نرسیده تا بتواند این حجم عظیم از ایده را به طور یکنواخت به مراحل رشد و مقیاس جهانی برساند. ترکیه و بهویژه استانبول با داشتن ۷۵۷ استودیو بازیسازی فعال که رتبه دوم اروپا بعد از لندن را به خود اختصاص داده است؛ یک غول بازیسازی موبایل در جهان است. ازاینرو ترکیه نسل جدیدی از متخصصان رشد، محصول، بازاریابی دیجیتال و مهندسی نرمافزار تربیت کرده است. امروز این استعدادهای ورزیده حوزه گیمینگ، تخصص خود را به بخش هوش مصنوعی مصرفکننده (Consumer AI) منتقل کردهاند. نتیجه این جابهجایی، ظهور استارتاپهای پیشرو هوش مصنوعی در کلاس جهانی مانندFal AI ، پلتفرم زیرساخت پردازش تصویر مبتنی بر هوش مصنوعی است. مزیت پنهان ترکیه: AI فقط در استارتاپها نیست یک اشتباه متداول در تحلیل اکوسیستم ترکیه، ارزیابی آن صرفاً بر اساس متریکهای استارتاپی سیلیکونولی است. مزیت رقابتی واقعی ترکیه در رقابت برای ساخت بزرگترین مدلهای زبانی جهان یا توسعه ابزارهای هوش جامع مصنوعی (AGI) نیست. ساخت مدلهای پایهای نیازمند صدها میلیون دلار سرمایه و دسترسی به ابرکامپیوترهای عظیم است که فراتر از توان مالی فعلی ترکیه است و چندان هم نمیتوان توجیه منطقیای برای آن داشت. مزیت پنهان و بسیار کارآمد ترکیه در حوزه دیگری نهفته است؛ یعنی پیادهسازی صنعتی و کاربردی هوش مصنوعی. ترکیه دارای یک بخش صنعتی واقعی و بسیار توسعهیافته است که هوش مصنوعی میتواند بهعنوان یک کاتالیزور، بهرهوری آن را چند برابر کند. بهعنوانمثال، صنایع دفاعی ترکیه یکی از موفقترین و خودکفاترین بخشهای این کشور است (افزایش سهم قطعات و تکنولوژی بومی از ۲۰٪ به ۶۸٪ مطابق گزارش OECD). پهپادهای شناسایی و رزمی پیشرفته بومی ترکیه مانند «بیرقدار» (Bayraktar TB2) و موفقیت شرکتهای بزرگی نظیر Altınay Savunma نشاندهنده قدرت بالای مهندسی این کشور در پیادهسازی الگوریتمهای هوش مصنوعی لبهای (Edge AI)، بینایی ماشین، سیستمهای ناوبری خودکار و پردازش سیگنال در شرایط جنگی واقعی است. بنابراین، الگوی بهینه برای ترکیه، تبدیلشدن به یک هاب کاربردی هوش مصنوعی است؛ جایی که فناوری پیچیده به محصولات ملموس صنعتی و تجاری تبدیل میشود که بلافاصله قابلیت صادرات و درآمدزایی دارند. دولت ترکیه چه نقشی دارد؟ دولت ترکیه در اکوسیستم هوش مصنوعی خود نقشی بسیار فراتر از یک ناظر یا تنظیمکننده سنتی ایفا میکند؛ دولت عملاً بهعنوان یک معمار، هماهنگکننده و از همه مهمتر «خریدار اول» فناوری عمل میکند. دولت ترکیه با انتشار سند استراتژی ملی هوش مصنوعی مسیر حرکت کشور را مشخص کرده است. علاوه بر این، پروژههای بزرگی مانند برنامه Turcorn 100 برای پرورش تکشاخهای جدید و ویزای فناوری ترکیه برای جذب استعدادهای خارجی طراحی شدهاند. همچنین پروژه بلندپروازانه تبدیل فرودگاه قدیمی آتاتورک به Terminal Istanbul بهعنوان بزرگترین هاب کارآفرینی کشور با ظرفیت میزبانی از بیش از ۲,۰۰۰",
-        "impact": "تغییر جغرافیای جذب سرمایه فناوری در خاورمیانه و تلاش ترکیه برای تبدیل شدن به هاب منطقه‌ای AI.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "hooshio",
-        "url": "https://hooshio.com/ai-in-turkey-gitex/",
-        "clean_url": "https://hooshio.com/ai-in-turkey-gitex",
-        "image": "https://hooshio.com/wp-content/uploads/2026/08/AI-IN-Turkey-GITEX.webp",
-        "images": [
-            "https://hooshio.com/wp-content/uploads/2026/08/AI-IN-Turkey-GITEX.webp",
-            "https://hooshio.com/wp-content/uploads/2026/08/AI-IN-Turkey-GITEX-850x560.webp",
-            "https://hooshio.com/wp-content/uploads/2026/08/AI-IN-Turkey-GITEX-2.webp",
-            "https://hooshio.com/wp-content/uploads/2026/08/ai-bridge-banner-2026-ClOCd6Ie-819x1024.jpeg"
-        ],
-        "timestamp": 1787640720.0
-    },
-    {
-        "id": "f7affde3da",
-        "title_fa": "افت ۱۲ درصدی سرمایه‌گذاری خطرپذیر در کانادا و تسلط آمریکایی‌ها",
-        "title_en": "Canadian VC funding falls 12% in H1 2026 as global investors retreat",
-        "summary": [
-            "سرمایه‌گذاری خطرپذیر در کانادا طی نیمه نخست ۲۰۲۶ با افت ۱۲ درصدی به ۲.۴۸ میلیارد دلار رسید و تعداد معامله‌ها ۱۹ درصد کاهش یافت.",
-            "عقب‌نشینی سرمایه‌گذاران بین‌المللی باعث شد صندوق‌های آمریکایی ۵۶ درصد از کل بازار سرمایه کانادا را تسخیر کنند.",
-            "سرمایه‌ها بیشتر به سمت استارتاپ‌های مراحل اولیه رفت و شرکت‌های مرحله رشد با کمبود شدید منابع مواجه شدند."
-        ],
-        "full_text": "International venture capital participation in Canada hits its lowest mark since 2020 Canadian venture capital investment declined sharply in the first half of 2026, with total funding dropping 12 per cent year-over-year to $2.481 billion across 248 financings, according to the H1 2026 Canadian Venture Capital Report by CPE Analytics. The report also recorded a 19 per cent contraction in deal count compared to the same period in 2025, when 306 transactions were completed. The report highlights a collapse in non-US international participation with only 25 countries or regions participating in Canadian venture capital deals during H1 2026, down from 55 in 2025; a level CPE describes as the lowest since 2020. Richard Rémillard, president of Rémillard Consulting Group, flagged the growing dominance of American capital as a structural risk rather than a sign of strength. US investors captured 56 per cent of total funding in the second quarter of 2026, up from 40 per cent in the first quarter, with US private VC funds deploying $808 million and US mutual and hedge funds contributing a further $404 million. While American participation filled some of the void left by retreating global investors, the increasing concentration raises questions about the resilience of Canadian venture markets if that capital source pulls back. Growth-stage companies bearing the brunt The composition of investment shifted dramatically away from the maturing end of the startup spectrum. Early-stage companies absorbed 57 per cent of all capital deployed in H1 2026 ($1.616 billion) up from 45 per cent in 2025. Growth- and later-stage companies, by contrast, attracted just 12 per cent of the total, or $327 million, compared with 37 per cent the previous year. That compression matters to portfolio managers and limited partners who seek exposure to companies closer to monetisation or exit, as the pipeline of late-stage opportunities has thinned considerably. Geographically, Ontario continued to dominate, attracting $1.609 billion, or 57 per cent of all funding, with Toronto alone accounting for $1.41 billion. British Columbia followed at $508 million and Quebec at $491 million. On the sector side, ICT companies led with $1.566 billion (55 per cent of total investment) while cleantech captured $365 million and life sciences $273 million. One notable shift was the rise of aerospace and defence, which attracted $159 million, or six per cent of total funding, up from less than one per cent in 2025. Exit environment remains stalled No venture-backed initial public offerings have taken place in Canada since 2021, and no secondary transactions were reported in H1 2026. The sole notable liquidity event was GSK plc's acquisition of 35Pharma for US$950 million, which CPE's report characterised as \"a positive liquidity event in an otherwise muted exit environment.\" The absence of IPO activity over five years represents a meaningful drag on returns for institutional investors with private market allocations. VC fundraising on track for near-record low On the fundraising side, 29 Canadian VC funds raised a combined $917 million in H1 2026. Excluding the Business Development Bank of Canada's $450 million allocation, private fundraising was concentrated: Lumira Ventures and Version One Ventures each closed two funds, accounting for 66 per cent of private-sector activity. If the pace of the first half continues, 2026 would rank as the second-lowest VC fundraising year on record in Canada; a signal that fund managers themselves are finding it difficult to attract limited partner commitments. The fundraising contraction compounds the funding drop. As the pool of active Canadian VC funds narrows, so too does the domestic capital available to back early-stage companies, a dynamic with longer-term implications for innovation-focused investment strategies. Canadian VC's longer-term trajectory will depend partly on whether government-backed vehicles can offset the retreat of international capital and whether macroeconomic conditions in the second half of 2026 restore enough confidence to bring global investors back to the table.",
-        "impact": "وابستگی شدید استارتاپ‌های کانادایی به سرمایه آمریکایی، ریسک ساختاری جدیدی برای اکوسیستم فناوری این کشور ایجاد کرده است.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Wealth Professional",
-        "url": "https://www.wealthprofessional.ca/investments/alternative-investments/canadian-vc-funding-falls-12-in-h1-2026-as-global-investors-retreat/393361",
-        "clean_url": "https://www.wealthprofessional.ca/investments/alternative-investments/canadian-vc-funding-falls-12-in-h1-2026-as-global-investors-retreat/393361",
-        "image": "https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
-        "images": [
-            "https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
-            "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/wp/deni_639152937204407699.jpg",
-            "https://cdn-res.keymedia.com/cdn-cgi/image/w=110,h=66,f=auto/https://cdn-res.keymedia.com/cms/images/wp/deni_639232588699423483.jpg",
-            "https://cdn-res.keymedia.com/cdn-cgi/image/w=110,h=66,f=auto/https://cdn-res.keymedia.com/cms/images/wp/jean_639232557612508300.png"
-        ],
-        "timestamp": 1787639520.0
     }
 ]
