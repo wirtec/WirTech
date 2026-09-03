@@ -1,5 +1,93 @@
 [
     {
+        "id": "f466044203",
+        "title_fa": "رونمایی Navimow از چمن‌زن روباتیک H5 Pro در IFA",
+        "title_en": "Breakthrough in Garden Care: Navimow Redefines the Edge Cutting Experience with H5 Pro at IFA 2026",
+        "summary": [
+            "برند Navimow در نمایشگاه IFA از چمن‌زن روباتیک جدید H5 Pro رونمایی کرد که تمرکز ویژه‌ای بر برش دقیق لبه‌های چمن دارد.",
+            "این الگوریتم جدید لبه‌زنی، نیاز به اصلاح دستی حاشیه‌های حیاط و باغچه را به طور کامل از بین می‌برد."
+        ],
+        "full_text": "Breakthrough in Garden Care: Navimow Redefines the Edge Cutting Experience with H5 Pro at IFA 2026  Yahoo Finance Singapore",
+        "impact": "تسهیل و هوشمندسازی کامل نگهداری از فضای سبز خانگی بدون مداخله انسانی.",
+        "tag": "گجت",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTZsSElPQXdqQnFtajBLajMwdXJReWo5ZVZmZkV5WGY5Uml4dGNtVU9nVTJzY3BlTWh5YllvNFVCWXhUUzBGTXBtSnZWdkZlMjdTTDh5MVZQMjM1MzJrSkYwdWxuRnhFTFFHNTZNeVJUd25zRDd0RndwaTh2UXdYSG0tSnlBTjdWTE16VXM0b3ZRYmRMNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTZsSElPQXdqQnFtajBLajMwdXJReWo5ZVZmZkV5WGY5Uml4dGNtVU9nVTJzY3BlTWh5YllvNFVCWXhUUzBGTXBtSnZWdkZlMjdTTDh5MVZQMjM1MzJrSkYwdWxuRnhFTFFHNTZNeVJUd25zRDd0RndwaTh2UXdYSG0tSnlBTjdWTE16VXM0b3ZRYmRMNkE",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788415200.0
+    },
+    {
+        "id": "1d1727d2ba",
+        "title_fa": "موفقیت مدل زبانی بزرگ StartLux در ارزیابی‌های کلیدی چین",
+        "title_en": "StartLux's local large model passes key test",
+        "summary": [
+            "مدل زبانی بومی استارتاپ StartLux توانست با موفقیت از تست‌های استاندارد و نظارتی سخت‌گیرانه عبور کند.",
+            "پاس کردن این آزمون‌ها مجوز ورود این مدل زبانی را به سرویس‌های تجاری و صنعتی بزرگ چین صادر می‌کند."
+        ],
+        "full_text": "StartLux's local large model passes key test  China Daily",
+        "impact": "تسریع بکارگیری مدل‌های زبانی بومی در کسب‌وکارهای چین و تقویت اکوسیستم AI این کشور.",
+        "tag": "مدل‌زبانی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "China Daily",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zckVBZ3RCdGpaV0xRQlExcjhhdXJDeUtSQmpzNUt4V3RYc3pDclU3VV9BbmdhSW5SZFdrYjJac05qWDhfSHBiUDU3bmtCVEhibENEbmk1bmtxZGZOQ0NDMFVldHoxSm9qS0hua0FRdEZDX2tIOWVsZmtVN2t5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zckVBZ3RCdGpaV0xRQlExcjhhdXJDeUtSQmpzNUt4V3RYc3pDclU3VV9BbmdhSW5SZFdrYjJac05qWDhfSHBiUDU3bmtCVEhibENEbmk1bmtxZGZOQ0NDMFVldHoxSm9qS0hua0FRdEZDX2tIOWVsZmtVN2t5QQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788414498.0
+    },
+    {
+        "id": "b68de41451",
+        "title_fa": "تخصیص بودجه ملی برای آموزش سواد هوش مصنوعی به مدارس",
+        "title_en": "New Trier one of 9 schools to receive national grant for AI safety, literacy",
+        "summary": [
+            "مدرسه نیوتریر به همراه ۸ مرکز آموزشی دیگر در آمریکا، بودجه‌ای ملی برای تدوین برنامه‌های ایمنی و سواد هوش مصنوعی دریافت کردند.",
+            "هدف این طرح، آموزش استفاده مسئولانه از ابزارهای هوش مصنوعی و درک ریسک‌های آن به دانش‌آموزان است."
+        ],
+        "full_text": "New Trier one of 9 schools to receive national grant for AI safety, literacy  therecordnorthshore.org",
+        "impact": "آماده‌سازی نسل جدید برای استفاده ایمن و هوشمندانه از فناوری‌های مبتنی بر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.5,
+        "source": "therecordnorthshore.org",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUprOTVQNmRwdDRzV2hrU2RjV0VIemxQX29ZWHhhMXd3TGJ6MXNvRUdjZ0hITW0tdHI3aV9idmJEVVZtZFl2QXZJUkM0Nnl3R05lTkFqQlhoX2hDREFmcjh1RUYtZlZhckRNeTQxb2EwRzNnbk9HMUREMGxiYmhYWlE3UWhoVktCUXhQUmJRcDMtbEhiTVFsTXRKVGJFTjNRbXI4TmZaUjVpYkprSW42cF9UM1JLaGROa0NRaFIxMDA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUprOTVQNmRwdDRzV2hrU2RjV0VIemxQX29ZWHhhMXd3TGJ6MXNvRUdjZ0hITW0tdHI3aV9idmJEVVZtZFl2QXZJUkM0Nnl3R05lTkFqQlhoX2hDREFmcjh1RUYtZlZhckRNeTQxb2EwRzNnbk9HMUREMGxiYmhYWlE3UWhoVktCUXhQUmJRcDMtbEhiTVFsTXRKVGJFTjNRbXI4TmZaUjVpYkprSW42cF9UM1JLaGROa0NRaFIxMDA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788408710.0
+    },
+    {
+        "id": "187ddbcd52",
+        "title_fa": "ورود غول ژاپنی NEC به دفاع سایبری با هوش مصنوعی",
+        "title_en": "NEC to Launch Frontier AI Cyberdefense Service",
+        "summary": [
+            "شرکت NEC سرویس جدیدی بر پایه هوش مصنوعی پیشرفته برای مقابله با حملات پیچیده سایبری راه‌اندازی می‌کند.",
+            "این سیستم با پایش مداوم و شناسایی خودکار رفتارهای مشکوک، زمان واکنش به تهدیدهای دیجیتال را به حداقل می‌رساند."
+        ],
+        "full_text": "NEC to Launch Frontier AI Cyberdefense Service  nippon.com",
+        "impact": "افزایش قدرت دفاعی سازمان‌ها در برابر حملات سایبری ناشناخته و پیچیده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "nippon.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5heXZNZjRFWDI2SWl5X0ExdU81QUU1NDU0UF8xb3ZyZTRwLXNUVXJiOGVqbVdIUk9LZ3AwSGVEeHozbVFBd201VXVoVktQZGZzMWh6alhrQWl0eGM5?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5heXZNZjRFWDI2SWl5X0ExdU81QUU1NDU0UF8xb3ZyZTRwLXNUVXJiOGVqbVdIUk9LZ3AwSGVEeHozbVFBd201VXVoVktQZGZzMWh6alhrQWl0eGM5",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788405913.0
+    },
+    {
         "id": "7172e8bce3",
         "title_fa": "محدودیت و توقف گسترده استفاده از هوش مصنوعی مولد در مدارس نیویورک",
         "title_en": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
@@ -6886,100 +6974,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787607067.0
-    },
-    {
-        "id": "a01b7d3690",
-        "title_fa": "دستیابی به فرمول چاپ سه‌بعدی آلیاژهای موشکی با هوش مصنوعی",
-        "title_en": "AI finds six ways to print rocket-grade alloy on commercial 3D printers",
-        "summary": [
-            "محققان با کمک هوش مصنوعی و بدون نیاز به تست دستی ۱۰۰ میلیون حالت مختلف، ۶ روش برای چاپ آلیاژ پیشرفته ناسا روی پرینترهای سه‌بعدی معمولی پیدا کردند.",
-            "این نوآوری چاپ آلیاژ فوق‌مقاوم GRCop-42 را که قبلاً فقط با دستگاه‌های گران‌قیمت ممکن بود، برای عموم صنایع تجاری ممکن می‌کند."
-        ],
-        "full_text": "AI finds six ways to print rocket-grade alloy on commercial 3D printers Washington State University researchers used artificial intelligence to find a more efficient, less expensive way to 3D-print a high-performance metal alloy, saving researchers from needing to painstakingly test more than 100 million options. The findings could someday allow the alloy, which is common in the aerospace industry but has many other potential applications, to be printed using widely available commercial equipment. And the AI techniques used could be applied in a variety of fields, including drug discovery. The research team, from WSU's School of Electrical Engineering and Computer Science and the School of Mechanical and Materials Engineering, published their work in the Proceedings of the AAAI Conference on Artificial Intelligence and received the Innovative Deployed Application Award at the group's annual conference. \"Ninety percent of commercial printers cannot print this metal alloy, so given that we were able to find these feasible process parameters, it allows us to use those commercial printers, and we are essentially democratizing the printing of this alloy,\" said Jana Doppa, Huie-Rogers Endowed Chair Professor of Computer Science and Berry Distinguished Professor in Engineering who led the research. A costly material to test The alloy, called GRCop-42, is made of three metals—copper, chromium and niobium. Developed by NASA, it has high thermal conductivity and remains strong under extreme heat, so it is used in the aerospace industry, such as in liquid rocket engine combustion chambers. Although it's a highly desirable material with many potential applications, it's expensive and energy-intensive to print, requiring a significant amount of laser power. Researchers have tried unsuccessfully to print the alloy at the lower wattages and laser powers that are used by more common commercial printers, but testing different configurations requires expensive materials, specialized equipment and significant human labor. A single printing run can cost hundreds of dollars, while detailed post-print quality analysis can take days. \"Sometimes they printed a certain configuration, and the product just melted,\" said Azza Fadhel, first author of the paper and a Ph.D. student in computer science. \"It wasn't really printable, and even with time and money, they wouldn't be able to try all 100 million options. What we were doing in our collaboration was applying AI so that we could efficiently choose candidates from this very large search space.\" Teaching the model where to look For the study, the team began with results from 37 unsuccessful configurations previously tested in the School of Mechanical and Materials Engineering. They then developed an approach using those results to estimate the likelihood that an untested configuration would produce a successful print. Their model then selected small batches of new configurations that balanced two goals: testing promising options and exploring uncertain areas that could improve the AI model. Working with Nathaniel Zuckschwerdt, Susmita Bose and Amit Bandyopadhyay in the School of Mechanical and Materials Engineering, the team used the AI-selected process configurations to print GRCop-42 and evaluated the resulting samples. Aryan Deshwal from the University of Minnesota also collaborated on the project. \"They would give me back the results, and I liked all of them—even if they failed—because every result improved our AI model,\" said Fadhel. Six successful prints in 40 tries Printing at lower laser power could reduce energy use, equipment wear and post-processing costs while making GRCop-42 accessible to universities, small laboratories and companies that do not own specialized high-power equipment. The researchers knew that only a very small fraction of the more than 100 million configurations would be successful. \"It's a very challenging case for AI,\" said Doppa. \"Every time you try, you basically get a binary success or failure signal, and you are trying to minimize the number of tries that you have so that you get to those successful needles very quickly.\" Over three months and within a total budget of 40 experiments, the team identified six successful configurations over different laser power levels. The team successfully printed the alloy at 500 watts for the first time. The researchers believe the same AI-guided framework could be adapted to discover processing conditions for other metal alloys and additive manufacturing systems. More broadly, it could support scientific discovery problems in which successful outcomes are rare and experiments are too costly to test every possibility. \"There's always uncertainty when you are deploying something where real people, materials and physical costs are involved,\" said Doppa. \"We didn't know whether we would succeed or not, and there is always that risk. There are real stakes. I was very surprised that we were able to do this so well.\" More information Azza Fadhel et al, Discovery of Feasible 3D Printing Configurations for Metal Alloys via AI-Driven Adaptive Experimental Design, Proceedings of the AAAI Conference on Artificial Intelligence (2026). DOI: 10.1609/aaai.v40i47.41428",
-        "impact": "کاهش بی‌سابقه هزینه‌های تولید قطعات هوافضا و دموکراتیک‌سازی ساخت سخت‌افزارهای پیشرفته.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
-        "clean_url": "https://phys.org/news/2026-08-ai-ways-rocket-grade-alloy.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-ai-to-6.jpg",
-        "images": [
-            "https://scx2.b-cdn.net/gfx/news/2026/researchers-use-ai-to-6.jpg",
-            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
-            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg",
-            "https://phys.b-cdn.net/tmpl/v6/img/techX_w.svg"
-        ],
-        "timestamp": 1787607000.0
-    },
-    {
-        "id": "b1d24c26f0",
-        "title_fa": "چالش ارجاعات جعلی AI در دانشگاه‌ها و اسناد رسمی آفریقا",
-        "title_en": "African Researchers Tackle AI in Academic Publishing at TUT UNESCO Chair Seminar",
-        "summary": [
-            "پس از رسوایی وجود منابع ساختگیِ هوش مصنوعی در پیش‌نویس سند ملی AI جنوب آفریقا، دانشگاه‌ها در حال بازنگری قوانین پژوهشی هستند.",
-            "مراکز علمی آفریقایی به‌جای استفاده از ابزارهای نامطمئن تشخیص AI، به سمت الزام به شفاف‌سازی و ارتقای سواد هوش مصنوعی حرکت کرده‌اند."
-        ],
-        "full_text": "Researchers from across the continent gathered at Tshwane University of Technology for the UNESCO Chair on African Integration and Innovation Research Seminar, where the ethical use of artificial intelligence in academic publishing shared the programme with research on economic resilience, export diversification and AI-driven credit risk modelling. Hosted by TUT’s Department of Economics and supported by a grant from the African Union Development Agency, the seminar was designed to strengthen research capacity, exchange findings and identify publication opportunities. AI and the publication problem Professor Paul-Francois Muzindutsi, an NRF-rated finance expert from the University of KwaZulu-Natal, delivered a guest lecture titled “Writing for Publication in the Age of Artificial Intelligence.” He examined AI’s growing role in research and publication, addressing methodology, data analysis and writing structure — and emphasised the importance of using AI ethically and responsibly in academic work. That subject carries particular weight in South Africa this year. In April, the government gazetted an 86-page draft National AI Policy containing 67 references, several of them citations to academic journal articles that did not exist. Communications Minister Solly Malatsi withdrew the document on 26 April, saying the failure was not merely technical and had compromised the policy’s integrity and credibility. An expert panel chaired by Wits AI researcher Professor Benjamin Rosman is rebuilding it, and the World Bank subsequently excluded South Africa from its global map of countries with a national AI strategy. The episode made concrete what Muzindutsi’s lecture addresses in principle: that generative systems produce plausible-looking references, and that verification is the researcher’s responsibility rather than the tool’s. African universities have been building norms around this through the year. Makerere University held a webinar in June on adopting AI in research management, where participants raised questions on ethical use in academic writing, disclosure of AI-assisted editing and data privacy. South African institutions including UCT, Stellenbosch and the University of the Free State have moved away from AI detection software toward disclosure requirements and AI literacy, partly because detection tools show documented bias against second-language English writers. Deep learning applied to credit risk Dr Oluwatoyin Akinbowale, a postdoctoral fellow specialising in managerial accounting, finance and cyberfraud mitigation, presented findings from her study “Evaluating the Loan Default Rate Using Deep Learning AI Techniques,” investigating the use of AI to predict loan default patterns. That research sits in a category attracting both commercial and regulatory attention. Nigerian fintech Mathesis Analytics raised strategic investment this month to scale AI credit decisioning, having supported more than 8 million loans. Nigeria’s Artificial Intelligence Control and Regulation Bill, before the National Assembly, names credit scoring as a high-impact decision requiring disclosure of automated involvement and a route to challenge outcomes. Academic work on default prediction feeds directly into a field where explainability is becoming a legal requirement rather than a technical preference. The wider programme Professor Mulatu Zerihun, NRF C2-rated researcher, UNESCO Chair and Head of the Department of Economics, presented a paper on alternative thinking in economics, encouraging researchers to embrace diverse perspectives. “Diverse thinking strengthens research by encouraging new perspectives and innovative solutions,” he said. “Research is not a one-size-fits-all endeavour.” He argued that understanding historical context is essential to developing solutions for present challenges. Dr Kazeem Isah — ranked among the top 5% of economists in Nigeria and top 10% in Africa by the Research Papers in Economics network — presented research on how climate variability affects sectors of South Africa’s economy, and whether strong environmental, social and governance conditions contribute to economic resilience. Dr Olivier Ogbonna, lecturer at the University of Nigeria, Nsukka, presented “Moderating Effects of Exports Diversification on Economic Policy Uncertainty and Exports Nexus in Africa,” examining how trade disputes, conflict and policy uncertainty affect export performance across the continent. The seminar closed with a session led by Dr Mukhethwa Londani, senior biostatistician and statistical analyst at TUT, introducing researchers to QuestionPro, an online survey platform. Understanding such tools is critical, he said, because they bridge raw human sentiment and actionable, data-driven strategy, shaping how research data is gathered, protected and visualised. Postdoctoral fellows in the department also presented work for peer feedback.",
-        "impact": "افزایش سخت‌گیری روی راستی‌آزمایی خروجی‌های هوش مصنوعی در حوزه دانشگاهی و سیاست‌گذاری.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "iAfrica",
-        "url": "https://iafrica.com/african-researchers-tackle-ai-in-academic-publishing-at-tut-unesco-chair-seminar/",
-        "clean_url": "https://iafrica.com/african-researchers-tackle-ai-in-academic-publishing-at-tut-unesco-chair-seminar",
-        "image": "https://iafrica.com/wp-content/uploads/2026/08/UNESCO-Seminar-1.jpg",
-        "images": [
-            "https://iafrica.com/wp-content/uploads/2026/08/UNESCO-Seminar-1.jpg"
-        ],
-        "timestamp": 1787605200.0
-    },
-    {
-        "id": "5f6f9bad77",
-        "title_fa": "شناسایی قربانی جدید ۱۱ سپتامبر پس از ۲۵ سال با فناوری DNA",
-        "title_en": "New 9/11 Victim Identified Using ‘Breakthrough’ DNA Technology Nearly 25 Years After Attacks",
-        "summary": [
-            "پزشکی قانونی با به کارگیری تکنولوژی‌های نوظهور آنالیز DNA موفق شد هویت یکی دیگر از قربانیان حملات ۱۱ سپتامبر را تایید کند.",
-            "این موفقیت قدرت پیشرفت‌های اخیر در جهش‌شناسی و تحلیل نمونه‌های آسیب‌دیده قدیمی را به رخ می‌کشد."
-        ],
-        "full_text": "New 9/11 Victim Identified Using ‘Breakthrough’ DNA Technology Nearly 25 Years After Attacks  People.com",
-        "impact": "تحول در پرونده‌های قدیمی پزشکی قانونی و اثبات دقت بالای روش‌های جدید آنالیز ژنتیکی.",
-        "tag": "بیوتکنولوژی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "People.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlY4Y1pDZEZkYk1aQ2ZPbWpXbHlyVmE3RU00Nk91dDU4d3dObUFHdXBkc0N1Tl85dUhBMGxsZmpWZV9vanYxQUFRbUZET1d0am5wd0x5YS1tN3N1Q1Iyc0JpOFIzTHVlWXY5MXBOM3NvTGtQY2pwek4zQi1ReVVMbEZpazR0dUU0RkpxVGQ3aDA4NmtRdFVqanh5elVvTGN3RnVzazJEVWNGeTR0bll5bHppV1pub1BvRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlY4Y1pDZEZkYk1aQ2ZPbWpXbHlyVmE3RU00Nk91dDU4d3dObUFHdXBkc0N1Tl85dUhBMGxsZmpWZV9vanYxQUFRbUZET1d0am5wd0x5YS1tN3N1Q1Iyc0JpOFIzTHVlWXY5MXBOM3NvTGtQY2pwek4zQi1ReVVMbEZpazR0dUU0RkpxVGQ3aDA4NmtRdFVqanh5elVvTGN3RnVzazJEVWNGeTR0bll5bHppV1pub1BvRUE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787603629.0
-    },
-    {
-        "id": "afed6b40ae",
-        "title_fa": "دوئل ساعت‌های جان‌سخت: گلکسی واچ اولترا ۲ در برابر اپل واچ اولترا ۳",
-        "title_en": "Samsung Galaxy Watch Ultra 2 vs. Apple Watch Ultra 3: Which Is the Best Adventure Companion?",
-        "summary": [
-            "سامسونگ با قیمت ۶۹۹ دلار حدود ۱۰۰ دلار از رقیب ۷۹۹ دلاری اپل ارزان‌تر است و ارزش خرید اولیه بالاتری دارد.",
-            "تراشه جدید اسنپدراگون Wear Elite در ساعت سامسونگ در برابر چیپ S10 اپل عملکرد بسیار روانی ارائه می‌دهد و پردازش‌های هوش مصنوعی را به‌راحتی انجام می‌دهد.",
-            "در بحث شارژدهی، سامسونگ با ادعای ۶۰ ساعت نگهداری شارژ نسبت به تخمین ۴۲ ساعته اپل برتری میدانی دارد."
-        ],
-        "full_text": "Table of Contents The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are both designed to be rugged. If you need a watch that can take a beating during an outdoor adventure, these two models should be at the top of your list. You probably already know if you’re more of an Apple person or a Samsung person, but you could be considering a platform shift. Perhaps you just need to know which premium smartwatch with the Ultra moniker is most worthy of the title. I've tested both and am here to show you how they stack up against one another in every key category. Full Specs Price and Versions: Premium Specs for a Sub-Apple Price The $699.99 Samsung Galaxy Watch Ultra 2 comes in a single 47mm size with Bluetooth and LTE, in either gray or silver titanium. The $799 Apple Watch Ultra 3 has an even larger 49mm case, built-in Bluetooth, 5G cellular, and satellite connectivity, and is available in natural titanium or black. Both watches offer a range of band choices, including water-friendly and lightweight fabric designs. Neither model is available in a smaller case size, so if you like a petite watch, look elsewhere. The Galaxy Watch Ultra 2 got a $50 price hike from its predecessor, but it still costs almost $100 less than Apple's latest rugged model, so it wins this category. Winner: Galaxy Watch Ultra 2 Power: Highly Capable Chips Even though the Apple Watch Ultra 3 launched alongside the Apple Watch Series 11, it uses the older S10 chip from the Series 10. The Galaxy Watch Ultra 2 has a newer Qualcomm Snapdragon Wear Elite processor, the same one in the Galaxy Watch 9. The older chip in the Ultra 3 acquits itself admirably. Controls are snappy and responsive, and the Ultra 3 has no problems running multiple apps simultaneously. Likewise, the Galaxy Ultra 2 smoothly handles all tasks and powers both Samsung's and Google's AI, so the fresh architecture pays off. Winner: Tie Battery Life: Both Overdeliver, Samsung Wins The Galaxy Watch Ultra 2 promises longer battery life than the Apple Watch Ultra 3. On this front, Apple tends to underpromise and overdeliver, while recent Samsung watches have come up short of the company’s battery-life estimates in testing, so I was skeptical about the Ultra 2's real-world longevity. Lo and behold, the Ultra 2 came through. As far as estimates go, Apple puts the Ultra 3 at 42 hours on a single charge, while Samsung estimates the Ultra 2 at 60 hours. However, in the real world, the Apple Watch Ultra 3 lasted an impressive 63 hours with the always-on display enabled in testing, and the Galaxy Ultra 2 still managed to beat it under similar conditions, powering through 69.5 hours before needing to be plugged in. Winner: Galaxy Watch Ultra 2 Screen: Extreme Brightness Takes the Crown The Apple Watch Ultra 3 has a wide-angle LTPO3 OLED display measuring 1.9 inches. The wide-angle OLEDs make it easy to read from the side, and 3,000-nit brightness offers clear visibility even under direct sunlight. The Samsung Galaxy Watch Ultra 2 has a 1.52-inch Super AMOLED display that reaches 5,000 nits (up from 3,000 nits in the original). While Samsung’s brightness spec is impressive, it doesn't provide much benefit outside of extreme circumstances. I do appreciate the brightness bump when using the watch as a flashlight and when reading the screen in direct sunlight, though. Winner: Galaxy Watch Ultra 2 Durability: A Dead Heat for Rough Terrain The Galaxy Watch Ultra 2 has a 10ATM rating, meaning it can be submerged in water up to 328 feet, and a MIL-STD-810H rating, a military durability standard meaning it can withstand extreme temperature changes, blowing sand, and other environmental stressors, such as vibration and shock. Additionally, the Galaxy Watch Ultra 2 improves on its predecessor with an IP69K rating for dust and splash endurance, and a new EN13319 certification for diving. With those upgrades, the Galaxy Watch Ultra 2 catches up to Apple’s Ultra line, which has been suitable for diving and high-velocity water sports since the very first model. The Apple Watch Ultra 3 has the same EN13319 diving certification as the Galaxy Watch Ultra 2, and it’s rated for the same level of water immersion and dust resistance. Winner: Tie Fitness and Health: Precision Tracking Gives Apple the Edge Both premium adventure watches carry over numerous health and fitness features from their respective flagships. The Apple Watch Ultra 3 monitors for hypertension (high blood pressure) over a 30-day period and alerts you to check in with a doctor if needed. It has blood oxygen saturation (SpO2) and electrocardiogram (ECG) apps for on-demand breathing and heart health assessments. It also monitors your vitals and lets you know if something is amiss; it can warn you about an unusually high/low heart rate, irregular heart rhythm, and signs of sleep apnea. It's otherwise a highly accurate tracker for activity, exercise, sleep, and stress. The Galaxy Watch Ultra 2 is similarly loaded with wellness features. New to this generation, the Ultra 2 monitors your vitals like Apple Watches and provides a Heart Health score. A Fitness Index chart encompasses your body composition, cardio, endurance, flexibility, and strength into a single diagram to provide an overview of your well-being. It can also offer guidance on how hard to push your running workouts with its Daily Cardio Load metric. Like older Samsung watches, the Ultra 2 can monitor sleep apnea and snoring overnight and even measure body fat, like a smart scale. When adventuring, you can use the Apple Watch Ultra 3 to measure the depths of your dive or the altitude of your climb, and its Compass Backtrack feature can guide you back to your starting point if you get lost while hiking. The Galaxy Watch Ultra 2 has a diving mode that tracks depth, time, and water temperature while you're underwater. When you're hiking, the Galaxy Watch Ultra 2 can track your route, elevation, and monitor your sweat loss to offer real-time hydration guidance",
-        "impact": "برتری قیمتی و شارژدهی سامسونگ، اپل را برای جذب عاشقان ماجراجویی با چالش جدی مواجه می‌کند.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "PC Magazine",
-        "url": "https://www.pcmag.com/comparisons/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3-which-is-the-best-adventure",
-        "clean_url": "https://www.pcmag.com/comparisons/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3-which-is-the-best-adventure",
-        "image": "https://i.pcmag.com/imagery/comparisons/343.fit_lim.size_1200x630.v1784901573.png",
-        "images": [
-            "https://i.pcmag.com/imagery/comparisons/343.fit_lim.size_1200x630.v1784901573.png",
-            "https://i.pcmag.com/imagery/authors/04smPHZQBTUVlhROziBic0v.fit_lim.size_100x100.v1722455720.jpg",
-            "https://i.pcmag.com/imagery/reviews/02IcVeaJ17LEiTcahIqSmjZ-10.fit_lim.size_640x358.v1786046345.jpg",
-            "https://i.pcmag.com/imagery/comparisons/02nPTUzQJNXScIN7wyAEw8p-item2.fit_lim.size_640x358.v1784901573.jpg"
-        ],
-        "timestamp": 1787603580.0
     }
 ]
