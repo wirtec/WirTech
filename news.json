@@ -1,5 +1,237 @@
 [
     {
+        "id": "893a3f1aea",
+        "title_fa": "جهش سهام متا پس از معرفی مدل هوش مصنوعی Muse Spark",
+        "title_en": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model",
+        "summary": [
+            "رونمایی متا از مدل هوش مصنوعی جدید Muse Spark موجی از خوش‌بینی را میان سرمایه‌گذاران ایجاد کرد.",
+            "در پی انتشار این مدل، ارزش سهام متا در بازار بورس صعود قابل توجهی را تجربه کرد."
+        ],
+        "full_text": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model  TIKR.com",
+        "impact": "افزایش ارزش بازاری متا و تقویت اعتماد سرمایه‌گذاران به استراتژی هوش مصنوعی این شرکت.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0RyckFrM0ZZLVVqb3d2RGhxRy00V2huSk5Tby13Z3pmYXdsMlpoeHlaLVh3MDlaVlFBQVJRdm1COXpxTVZQaDI4TVlYRWplMDlaMFBDd0kwZ2pBZDBJZ2dMQWpkS09OUHZBbTBsVU8zbVBXLXljalQ4aUJFb3B2cA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0RyckFrM0ZZLVVqb3d2RGhxRy00V2huSk5Tby13Z3pmYXdsMlpoeHlaLVh3MDlaVlFBQVJRdm1COXpxTVZQaDI4TVlYRWplMDlaMFBDd0kwZ2pBZDBJZ2dMQWpkS09OUHZBbTBsVU8zbVBXLXljalQ4aUJFb3B2cA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788519336.0
+    },
+    {
+        "id": "2eac0f00f0",
+        "title_fa": "همکاری اپل و علی‌بابا برای عرضه هوش مصنوعی در چین",
+        "title_en": "AI Models Collaborations: Apple Teams with Alibaba to Launch Its China-Specific Language…",
+        "summary": [
+            "اپل برای بومی‌سازی و ارائه قابلیت‌های هوش مصنوعی خود در بازار چین با غول فناوری علی‌بابا وارد همکاری شد.",
+            "محدودیت‌های رگولاتوری دولت چین، اپل را ملزم به استفاده از مدل‌های بومی‌سازی‌شده داخل این کشور کرده است."
+        ],
+        "full_text": "AI Models Collaborations: Apple Teams with Alibaba to Launch Its China-Specific Language…  Trend Hunter",
+        "impact": "حفظ سهم بازار آیفون در چین از طریق هماهنگی کامل با قوانین محلی هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "Trend Hunter",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xQnpoODFQU3ZCTjVEMFJHcEJnSDhEdGZCTnB0aGQ5MjN5X2VYZktlTGZZa2JjZk1BbVppN0IwcGpQNm1vRF9SbTlxelA5c3RKZFNSel9EWGxyNmtBdjVyWXM4VE56WWlFQXU2SlQxajROUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xQnpoODFQU3ZCTjVEMFJHcEJnSDhEdGZCTnB0aGQ5MjN5X2VYZktlTGZZa2JjZk1BbVppN0IwcGpQNm1vRF9SbTlxelA5c3RKZFNSel9EWGxyNmtBdjVyWXM4VE56WWlFQXU2SlQxajROUQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788518354.0
+    },
+    {
+        "id": "6331b32fdb",
+        "title_fa": "انتشار قریب‌الوقوع macOS 27 با نام گلدن گیت",
+        "title_en": "macOS 27 Golden Gate is nearly here: Everything new coming to your Mac",
+        "summary": [
+            "اپل در حال آماده‌سازی نسخه جدید سیستم‌عامل مک با نام macOS 27 Golden Gate برای عرضه عمومی است.",
+            "این به‌روزرسانی شامل قابلیت‌های جدید، بهینه‌سازی‌های سیستمی و بهبود‌های بصری برای رایانه‌های مک خواهد بود."
+        ],
+        "full_text": "macOS 27 Golden Gate is nearly here: Everything new coming to your Mac  Macworld",
+        "impact": "ارتقای تجربه کاربری و بهبود عملکرد کلی رایانه‌های مک اپل.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "Macworld",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788515675.0
+    },
+    {
+        "id": "8ad6c6eb60",
+        "title_fa": "همکاری OpenAI و Tenable برای ارزیابی امنیتی ابزارهای AI",
+        "title_en": "Tenable, OpenAI Launch Security Review for Community-Built AI Components",
+        "summary": [
+            "شرکت‌های OpenAI و Tenable پروژه مشترکی را برای بررسی امنیت ابزارهای هوش مصنوعی توسعه‌یافته توسط جامعه کاربری آغاز کردند.",
+            "این اقدام با هدف شناسایی آسیب‌پذیری‌ها و ایمن‌سازی افزونه‌ها و مدل‌های مبتنی بر OpenAI انجام می‌شود."
+        ],
+        "full_text": "Tenable, OpenAI Launch Security Review for Community-Built AI Components  citybiz",
+        "impact": "ارتقای ضریب امنیت و کاهش ریسک‌های سایبری در زیست‌بوم برنامه‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "citybiz",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamVCMmZqckp3b1l0aWNCdnR5RUxUeThBUHN6RHF0cG1GTnRKWWkxX2FLSnFwamhna0c0WGhwOGthdTFNaXpKMWRhTWh6ZkFPcE83bWl3NEMta21DeURGNC02ME52Mmc4VXBIbGxrM0RBeklOV0xVak5WekJHZ3RzMnZ4Q2RvWVN5OGFQYTB0TjVzeGZQZWdMS2xBcE1VZlBlS3RVSGpHRzJQZEcxZWhr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamVCMmZqckp3b1l0aWNCdnR5RUxUeThBUHN6RHF0cG1GTnRKWWkxX2FLSnFwamhna0c0WGhwOGthdTFNaXpKMWRhTWh6ZkFPcE83bWl3NEMta21DeURGNC02ME52Mmc4VXBIbGxrM0RBeklOV0xVak5WekJHZ3RzMnZ4Q2RvWVN5OGFQYTB0TjVzeGZQZWdMS2xBcE1VZlBlS3RVSGpHRzJQZEcxZWhr",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788515616.0
+    },
+    {
+        "id": "84319158ff",
+        "title_fa": "مخالفت مستقیم زاکربرگ با تشکیل نهاد نظارت بر هوش مصنوعی",
+        "title_en": "Mark Zuckerberg makes it clear and directly tells President Donald Trump that it would be a mistake for America to…",
+        "summary": [
+            "مدیرعامل متا در تماس تلفنی با ترامپ، مخالفت صریح خود را با طرح مدیر دیپ‌مایند برای ایجاد رگولاتوری سخت‌گیرانه AI اعلام کرد.",
+            "طرح مدنظر گوگل دیپ‌مایند، تست اجباری مدل‌های پیشرو هوش مصنوعی را قبل از انتشار عمومی الزامی می‌کند.",
+            "این اقدام متا نشان‌دهنده تلاش غول‌های فناوری برای جلوگیری از کند شدن روند توسعه هوش مصنوعی است."
+        ],
+        "full_text": "Meta CEO Mark Zuckerberg told President Donald Trump in a private call last month that he opposes plans for a new US AI regulator. The FINRA-style body, proposed by Google DeepMind's Demis Hassabis, would test frontier AI models for risk before release.",
+        "impact": "تشدید تقابل غول‌های فناوری بر سر نحوه مقررات‌گذاری و سرعت توسعه هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/mark-zuckerberg-makes-it-clear-and-directly-tells-president-donald-trump-that-it-would-be-a-mistake-for-america-to/ar-AA2byDTQ",
+        "clean_url": "https://www.msn.com/en-in/news/other/mark-zuckerberg-makes-it-clear-and-directly-tells-president-donald-trump-that-it-would-be-a-mistake-for-america-to/ar-AA2byDTQ",
+        "image": "https://static.toiimg.com/thumb/msid-133758304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "images": [
+            "https://static.toiimg.com/thumb/msid-133758304,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        ],
+        "timestamp": 1788514200.0
+    },
+    {
+        "id": "79a4392fe3",
+        "title_fa": "دستبند هوشمند بنیان‌گذاران فیت‌بیت برای پایش سلامت خانواده",
+        "title_en": "Fitbit founders launch AI-powered wristband to track family health",
+        "summary": [
+            "بنیان‌گذاران فیت‌بیت از گجت پوشیدنی جدیدی مجهز به هوش مصنوعی برای تحلیل شاخص‌های سلامتی اعضای خانواده رونمایی کردند.",
+            "این دستبند با تمرکز بر پایش مداوم و هوشمند سلامت، تجربه تازه‌ای از حوزه سلامت دیجیتال ارائه می‌دهد."
+        ],
+        "full_text": "Fitbit founders launch AI-powered wristband to track family health  Dezeen",
+        "impact": "ورود نسل جدید گجت‌های سلامت هوشمند خانواده‌محور به بازار مصرف عمومی.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Dezeen",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnBvUUxDc2t4aFIyOGFpWFFCTmJRT1d6bTNNT2Z6MEhSR1plRWxCNmtyUDQ3dlZNLTFfNGJ0Tk1mRUl3Q0JFODA5SVNMX1kyaXFBOVh6YnpxYjdsdG90SXFzLV9oR1l0cm5BZ2M2YWxKZXphN2FWQ2E4NUlaS2hnaTVFSEk2X05sUjNacldWeDY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnBvUUxDc2t4aFIyOGFpWFFCTmJRT1d6bTNNT2Z6MEhSR1plRWxCNmtyUDQ3dlZNLTFfNGJ0Tk1mRUl3Q0JFODA5SVNMX1kyaXFBOVh6YnpxYjdsdG90SXFzLV9oR1l0cm5BZ2M2YWxKZXphN2FWQ2E4NUlaS2hnaTVFSEk2X05sUjNacldWeDY",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788508800.0
+    },
+    {
+        "id": "c372c8e22a",
+        "title_fa": "ورود یوگرین به خانه هوشمند با هاب مبتنی بر هوش مصنوعی محلی",
+        "title_en": "This NAS company wants to run your local smart home",
+        "summary": [
+            "برند یوگرین با معرفی HomeAgent پلتفرمی همه‌فن‌حریف شامل ذخیره‌سازی خانگی، کنترل خانه هوشمند و پردازش محلی ویدیوها رونمایی کرد.",
+            "این سیستم بدون نیاز به اشتراک ماهانه و با تمرکز بر حفظ حریم خصوصی، پردازش‌های هوش مصنوعی را کاملاً روی خود دستگاه انجام می‌دهد.",
+            "پیشرفته‌ترین نسخه این هاب با تراشه قدرتمند Nvidia Jetson Thor و قیمت نزدیک به ۱۰ هزار دلار عرضه می‌شود."
+        ],
+        "full_text": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home — in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally. This NAS company wants to run your local smart home Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. At the core of Ugreen’s HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each of which stores all data locally and processes video footage on-device, keeping it local and private and without monthly subscription fees. Albeit likely at a higher upfront cost. The big pitch is that your data never needs to leave your home, addressing two key smart-home concerns: privacy and recurring subscriptions. Ugreen says its powerful AI runs on the hub, providing features like cross-camera tracking, smart alerts for people, vehicles, pets, and packages, and live status questions such as “where is my pet now?” There’s also AI-powered video search and text descriptions of events, along with natural language voice control of smart home devices and automations. Along with local storage of your camera footage, the system can store personal files, including music, movies, and photos, just like a NAS. All this comes without monthly storage fees for video footage that are common with popular cloud-based solutions, such as Amazon’s Ring and Alexa and Google’s Nest cameras and Gemini for Home. The HomeAgent HA100 will launch with early bird pricing of $899 which increases to $2999 of the HA100 Pro, and a whopping $9999 for the Nvidia-powered MasterAgent MA100 model. The systems will launch on Kickstarter in October, after which Ugreen suggests that pricing will roughly double. The idea of combining your digital home and life on a single hub that uses local AI to store, manage, and run everything is fast gaining traction. Companies like SwitchBot, Reolink, and Aqara have made moves in this space, and this week at IFA, Anker launched a similar product called the Eufy MindBase. Both systems use the Matter smart home standard to incorporate smart home devices from different brands. I visited Ugreen’s booth at IFA and got a hands-on demo, where I controlled Nanoleaf lights alongside smart blinds with voice commands to Uliya via the HomeAgent hub. The HomeAgent hub is a Matter controller and will support third-party devices using Wi-Fi, Zigbee, Thread, Bluetooth, NFC, ONVIF/RTSP, and PoE. Ugreen says it will publish a device compatibility list, which is currently fairly small and includes devices from Aqara, ThirdReality, SwitchBot, and Eve. In theory, any Matter device should work, but the first phase supports only lights, switches, sensors, and curtains — and the company advises sticking with products it has approved. Ugreen is also launching a smart speaker to run Uliya, along with a line of security cameras: the SynCare Indoor Cam ID500 Pro, the SynCare POE Cam OD600 Pro, and a battery-powered SynCare Cam OD800 Pro. A unique integration is with Ugreen’s new E Ink Spectra-powered digital photo frame that can display your photos stored on the hub, which again need never go into the cloud. The three versions of the HomeAgent hub offer increasing levels of compute for more advanced processing and broader AI-powered features: The HomeAgent HA100 can execute simple, basic rule-based automation and control using specific voice commands; the HomeAgent HA100 Pro adds semantic and context-aware understanding; and the MasterAgent MA100 version brings the highest level of local compute power via an NVIDIA Jetson Thor T5000 platform. While everything can run locally on the HomeAgent, features such as push notifications and remote viewing of your security camera footage require internet access. There is also an option to use the cloud for the Uliya voice assistant. Keeping all your data inside your home, while still enjoying the benefits AI can bring to managing your smart home and digital life, is a compelling idea. Whether Ugreen’s Home Agent succeeds will depend on how well it integrates with what you already own and how easy it is to set up and use. Photos by Jennifer Pattison Tuohy / The Verge",
+        "impact": "تغییر الگوی بازار خانه هوشمند به سمت پردازش محلی و حذف هزینه‌های اشتراک ماهانه ابری.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "clean_url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "image": "http://www.bing.com/th?id=ONUT.QVnhutVs5dLNxqQR1kvjsg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.QVnhutVs5dLNxqQR1kvjsg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Jenn_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788489660.0
+    },
+    {
+        "id": "5139be8d3a",
+        "title_fa": "خرید ۱۲٫۹ میلیارد دلاری هاگینگ فیس توسط انویدیا",
+        "title_en": "NVIDIA (NVDA)’s Hugging Face Deal Tests the Next Phase of its AI Strategy",
+        "summary": [
+            "انویدیا با تصاحب ۱۲.۹ میلیارد دلاری هاگینگ‌فیس، جایگاه خود را در زیست‌بوم هوش مصنوعی متن‌باز فوق‌العاده تقویت کرد.",
+            "دسترسی به جامعه ۱۸ میلیونی توسعه‌دهندگان هاگینگ‌فیس، انویدیا را از یک تراشه‌ساز صرف به بازیگر اصلی لایه نرم‌افزار تبدیل می‌کند.",
+            "طبق اعلام انویدیا، این پلتفرم همچنان آزاد باقی خواهد ماند و از سخت‌افزارهای مختلف پشتیبانی خواهد کرد."
+        ],
+        "full_text": "NVIDIA Corporation (NASDAQ:NVDA) has agreed to acquire Hugging Face for approximately $12.93 billion, making it one of Nvidia's largest acquisitions. The deal gives Nvidia a much stronger position in open-source/open-weight AI, an area gaining traction because developers can customize models and potentially deploy them at lower costs than proprietary alternatives. Hugging Face has more than 18 million users and millions of models, datasets, and applications, giving NVIDIA Corporation (NASDAQ:NVDA) access to a large developer community. Nvidia says the platform will remain open and continue supporting models and hardware from different vendors. The acquisition also fits Nvidia's broader strategy of expanding beyond GPUs and becoming a more influential player across the AI ecosystem. The company has increasingly used investments and partnerships with AI companies to reinforce demand for its computing infrastructure. An Expanding AI Opportunity The acquisition could help NVIDIA Corporation (NASDAQ:NVDA) move beyond supplying the chips used to train and run AI models. Hugging Face gives Nvidia exposure to the developer and model layer, allowing it to participate more directly in how AI models are created, distributed, and deployed. That could strengthen Nvidia's strategic position as AI adoption expands. A larger open-model ecosystem could ultimately benefit Nvidia's core semiconductor business. Developers building, fine-tuning and deploying models require significant computing resources, and Nvidia could use its relationship with Hugging Face's large developer base to encourage more workloads on Nvidia-powered infrastructure. Reuters notes that the deal is intended partly to strengthen Nvidia's connections with developers and potentially increase demand for its processors. NVIDIA Corporation (NASDAQ:NVDA) is not betting exclusively on proprietary AI models from companies such as OpenAI and Anthropic. By owning Hugging Face, it gains exposure if open-weight models become an increasingly important part of the AI market. Barron's characterized the transaction as giving Nvidia exposure to the rapidly expanding open-model segment while positioning it alongside proprietary AI. Owning Hugging Face could prevent another major technology company from acquiring a platform that has become important to the AI developer ecosystem. It also gives Nvidia a stronger position against growing competition, including open-weight AI models emerging from China. Risks Behind the Expansion At nearly $13 billion, the acquisition is a significant investment for a platform that was valued at $4.5 billion in its last reported funding round in 2023. NVIDIA Corporation (NASDAQ:NVDA) will need to generate meaningful strategic and financial value from Hugging Face to justify the substantial premium. Hugging Face's appeal comes partly from its open nature. Nvidia's ownership could raise concerns that the platform may eventually favor Nvidia hardware or models. Reuters reported that some analysts and developers worry Nvidia could prioritize its own hardware at the expense of competing chip providers. Even if Nvidia maintains its current commitment to openness, perceptions of reduced neutrality could undermine Hugging Face's appeal.",
+        "impact": "تسلط بی‌سابقه انویدیا بر تمامی لایه‌های سخت‌افزار، نرم‌افزار و جامعه توسعه‌دهندگان هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Insider Monkey",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
+        "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
+        "images": [
+            "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
+            "https://s.yimg.com/lo/mysterio/api/32dd2fa9de4dbe23b0d31f98ab68088b1708abc71b20497759943281bc40561d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F07c0b7e7d56cc1de166e2a28043049b3.jpg",
+            "https://s.yimg.com/cv/apiv2/finance/article/fallback_thumb/opt/GuruFocus.png",
+            "https://s.yimg.com/lo/mysterio/api/2b1bb872c3a0dc0e27e51f0c36ac505cb38e7a30e134fa8c3d88a5c63a8546ec/lightyear_networkapi/resizefill_w194_h109%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fce92e7ae6d602b61807a836f4291633e.jpg"
+        ],
+        "timestamp": 1788485787.0
+    },
+    {
+        "id": "e98d84f236",
+        "title_fa": "فرمول ساده پل گراهام برای رشد و موفقیت استارتاپ‌ها",
+        "title_en": "Paul Graham Has a Surprisingly Simple Rule for Startups: Stop Trying to Build th...",
+        "summary": [
+            "هم‌بنیان‌گذار Y Combinator تاکید دارد استارتاپ‌ها نباید از ابتدا وقت خود را صرف ساخت یک محصول بی‌نقص کنند.",
+            "به باور گراهام، ساخت یک محصول اولیه ساده (MVP) و افزودن قابلیت‌هایی که مستقیماً باعث رشد می‌شوند، بهترین راه حل چالش‌های استارتاپ است."
+        ],
+        "full_text": "Paul Graham Has a Surprisingly Simple Rule for Startups: Stop Trying to Build the Perfect Product — ‘Add Whatever Will Make You Grow’ Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Y Combinator co-founder Paul Graham argued that startup growth can do more than eliminate business problems, helping founders determine what products and features to build. Paul Graham On Startup Growth On Tuesday, Graham made the comments in a post on X, explaining that growth could serve as a practical way for startups to work through difficult product and business decisions. \"Growth doesn't just solve a startup's problems in the sense of making them go away,\" Graham wrote on X. He added, \"It solves them like you solve a math problem.\" Don't Miss: - Think Your 'Safe' Stocks Protect You? You're Ignoring the Real Growth Triggers — Here's What to Add Now - Caught With Nothing Saved for Retirement? These 5 Game‑Changing Tips Could Still Save You Graham used product development as an example, noting that founders do not necessarily need to determine the perfect product from the beginning. \"It can design your product for you: start with something minimal, then add whatever will make you grow,\" Graham wrote. Growth doesn't just solve a startup's problems in the sense of making them go away. It solves them like you solve a math problem. For example, it can design your product for you: start with something minimal, then add whatever will make you grow. — Paul Graham (@paulg) September 2, 2026 Trending: Think you're saving enough for your kids? You might be dangerously off — see why Startup Advice From O'Leary, Cuban Last week, Investor Kevin O'Leary urged startup founders to recognize failure, cut losses and avoid pouring more money into bad ideas, calling the refusal to accept failure \"the worst mistake\" and noting that 80% of startups fail. Mark Cuban similarly advised entrepreneurs to prioritize bootstrapping, organic growth and customer acquisition over outside funding. Cuban said, \"The longer you can hold out before you raise money, the richer you are going to be,\" while stressing that fundraising was \"an obligation\" and that founders should keep costs low and focus on cash flow over sales. AI Investment and US Growth Andreessen Horowitz increased its fifth growth fund to $8.5 billion, targeting growth-stage technology companies scaling into global businesses. See Also: Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast The firm had focused on opportunities in AI, robotics, defense, health care and computing infrastructure, following its $1.1 billion Machine Age Fund for AI infrastructure.",
+        "impact": "تغییر تمرکز بنیان‌گذاران استارتاپی از کمال‌گرایی در محصول به سمت توسعه مبتنی بر رشد سریع.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Benzinga",
+        "url": "https://finance.yahoo.com/small-business/articles/paul-graham-surprisingly-simple-rule-003109038.html",
+        "clean_url": "https://finance.yahoo.com/small-business/articles/paul-graham-surprisingly-simple-rule-003109038.html",
+        "image": "https://media.zenfs.com/en/benzinga_79/42f506592ba323ca59d6b80c90453197.jpg",
+        "images": [
+            "https://media.zenfs.com/en/benzinga_79/42f506592ba323ca59d6b80c90453197.jpg",
+            "https://s.yimg.com/lo/mysterio/api/9b939287b473ded59b47196c20e6163299a4add913d792001ddacf0532e2193e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F42f506592ba323ca59d6b80c90453197.jpg",
+            "https://s.yimg.com/lo/mysterio/api/8d1ed2b165b067b99d1e28cf5f03bcee7d4aa938b0b3d0831cfd9521028148de/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F42f506592ba323ca59d6b80c90453197.jpg",
+            "https://s.yimg.com/lo/mysterio/api/11c98d342e7805b980e274206517d017218643926ef587dd425e52c0038e9d9c/lightyear_networkapi/resizefill_w194_h109%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc7c3cee1c13e6b2ca2a03631a7b7f3cd.jpg"
+        ],
+        "timestamp": 1788482187.0
+    },
+    {
+        "id": "1cb5e14dce",
+        "title_fa": "رشد ۵۸ درصدی درآمد پلنت با پرتاب ماهواره‌های جدید",
+        "title_en": "Planet Reports Financial Results for Second Quarter of Fiscal Year 2027",
+        "summary": [
+            "شرکت پلنت در گزارش مالی جدید خود از درآمد رکوردشکن ۱۱۶ میلیون دلاری و رشد سالانه ۵۸ درصدی خبر داد.",
+            "هم‌زمان ماهواره‌های جدید Tanager-2 و SuperDove برای پرتاب به پایگاه فضایی وندنبرگ ارسال شده‌اند."
+        ],
+        "full_text": "Delivered Record Quarterly Revenue of $116 Million, up 58% YoY Successfully Launched Pelican Tech Demo Shipped Tanager-2 & SuperDove Satellites to Vandenburg for Launch End of Period Cash, Cash Equivalents,",
+        "impact": "تقویت موقعیت اقتصادی و عملیاتی پلنت در بازار تصویربرداری ماهواره‌ای و داده‌های فضایی.",
+        "tag": "فناوری",
+        "urgency": 5,
+        "sentiment": 0.8,
+        "source": "01net",
+        "url": "https://www.01net.it/planet-reports-financial-results-for-second-quarter-of-fiscal-year-2027/",
+        "clean_url": "https://www.01net.it/planet-reports-financial-results-for-second-quarter-of-fiscal-year-2027",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788480000.0
+    },
+    {
         "id": "bf74920f65",
         "title_fa": "پیش‌بینی ساعتی و دقیق آب‌وهوا با مدل هوش مصنوعی WeatherNext 3 گوگل",
         "title_en": "Google's WeatherNext 3 Forecasts Every Hour at Higher Resolution",
@@ -6742,241 +6974,5 @@
             "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg"
         ],
         "timestamp": 1787654220.0
-    },
-    {
-        "id": "f2e5f5f280",
-        "title_fa": "تاکسی‌های بدون راننده وایمو به مونیخ می‌رسند",
-        "title_en": "Waymo robotaxis are headed to Munich",
-        "summary": [
-            "وایمو برنامه‌ریزی برای راه‌اندازی تاکسی‌های رباتیک خود در مونیخ را شروع کرده و آزمایش‌های اولیه را از سال ۲۰۲۷ کلید می‌زند.",
-            "آلمان به عنوان اولین کشور دارنده چارچوب قانونی سطح ۴ خودران، به میدان اصلی رقابت غول‌های فناوری و خودروسازان تبدیل شده است.",
-            "وایمو پیش از ارائه سرویس عمومی، ابتدا نقشه‌برداری خیابان‌ها و تست همراه با راننده ایمنی را انجام خواهد داد."
-        ],
-        "full_text": "Waymo said Tuesday it plans to launch a robotaxi service in Munich, months after the Alphabet-owned autonomous vehicle company set up an entity in Germany. The company still must weave its way through mapping and testing, as well as clear regulatory hurdles before it can launch commercial operations. Waymo will begin, as it has in other 11 cities where it has commercial robotaxi operations, by first manually driving its vehicles to map the streets of Munich. It will then test its autonomous vehicles with human safety drivers behind the wheel, before removing them. Waymo typically allows its employees, media, and other invited guests to ride in its driverless vehicles at this stage. The company will eventually open its robotaxis to limited service, and eventually to all riders once it receives the regulatory approval required to operate commercially. Waymo said in a blog post on Tuesday that it is working with Germany’s Federal Motor Transport Authority (KBA), state authorities and local officials, and expects to open commercial ride-hailing to the public towards the end of 2027. Waymo’s entry into Germany comes more than five years after the country’s lawmakers adopted legislation to allow driverless vehicles on public roads, and in that process making it the first country in the European Union to create a legal framework for Level 4 autonomous driving. Level 4 autonomy is a designation by the Society of Automobile Engineers (SAE) that means the self-driving system handles all the driving, with no expectation of a human taking over, in certain conditions or environments. This legal framework has made Germany a hotspot for autonomous vehicle testing. Today, several companies, including Mobileye and Volkswagen, hold permits to test their autonomous vehicles in the country, according to the KBA’s latest data. Waymo does not currently have any permits. However, the vast majority, including U.K. self-driving startup Wayve, and Israel-based Autobrains, hold Level 3 permits. Level 3, or conditional automated driving, is a system that can handle all the driving within specific operating conditions, such as low speeds on highways, but the driver must be able to take over when needed. Germany isn’t the only overseas hotspot for AV developers. The U.K., especially London, is shaping up as another robotaxi battleground. Waymo has said it plans to launch a commercial service in London in 2026, which will pit it against Wayve and its partner Uber. Chinese tech giant Baidu has also started testing autonomous vehicles in the city as part of its partnership with Lyft and Freenow.",
-        "impact": "ورود رسمی وایمو به بازار اروپا و تنگ‌تر شدن عرصه بر رقبای سنتی صنعت خودرو.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-        "clean_url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich",
-        "image": "http://www.bing.com/th?id=ONUT.ukAASP2gpryuRR5Yx9T8yQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.ukAASP2gpryuRR5Yx9T8yQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-18-at-12.33.03-PM.png?w=150"
-        ],
-        "timestamp": 1787653920.0
-    },
-    {
-        "id": "5f10f6f399",
-        "title_fa": "تأکید مجلس بر تمرکز سیاست‌گذاری هوش مصنوعی در یک سازمان واحد",
-        "title_en": "سازمان هوش مصنوعی باید مرجع سیاست‌گذاری این حوزه باشد/ وقت بهره‌گیری از هوش مصنوعی در اقتصاد است",
-        "summary": [
-            "عضو فراکسیون هوش مصنوعی مجلس اعلام کرد تشکیل سازمان هوش مصنوعی جلوی موازی‌کاری‌ها را می‌گیرد و برنامه‌ریزی ملی را منسجم می‌کند.",
-            "به گفته وی بیشترین پیشرفت‌های ملموس هوش مصنوعی ایران در صنایع دفاعی بوده و اکنون باید ارتباط صنعت و دانشگاه برای ورود AI به اقتصاد تقویت شود."
-        ],
-        "full_text": "«سیدعلی یزدیخواه» عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس شورای اسلامی، در گفتوگو با خبرنگار پارلمانی خبرگزاری آنا، در پاسخ به این سؤال که با توجه به درخشش نخبگان ایرانی در مسابقات هوش مصنوعی، وضعیت صنعت و تولید کشور از نظر استفاده از این فناوری چگونه است، اظهار کرد: استفاده از هوش مصنوعی در صنایع کشور از سالهای گذشته آغاز شده و اکنون در حال توسعه و گسترش است. وی افزود: اگر به خطوط تولید و همچنین حوزههای مطالعاتی و پژوهشی کشور مراجعه کنیم، مشاهده میشود که استفاده از هوش مصنوعی در بخشهای مختلف از سالهای گذشته مورد توجه قرار گرفته است و اکنون نیز تنوعبخشی به کاربردهای این فناوری در دستور کار قرار دارد. عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس با اشاره به توانمندی نخبگان ایرانی در عرصههای علمی گفت: جوانان ایرانی همواره در المپیادهای جهانی در رشتههای مختلف از جمله ریاضی، نجوم و رایانه توانمندی خود را به اثبات رساندهاند و در حوزه هوش مصنوعی نیز اخیراً شاهد درخشش و کسب جایگاههای برتر از سوی نخبگان کشور بودهایم. یزدیخواه با اشاره به اقدامات انجامشده برای ساماندهی حوزه هوش مصنوعی در کشور تصریح کرد: راهاندازی سازمان هوش مصنوعی میتواند از موازیکاری در این حوزه جلوگیری کند و زمینه را برای سیاستگذاری و برنامهریزی منسجمتر فراهم سازد. امیدواریم جمهوری اسلامی ایران همانگونه که در سطح منطقه و کشورهای اسلامی جایگاه قابل توجهی دارد، در حوزه هوش مصنوعی نیز بتواند با سرعت بیشتری مسیر پیشرفت خود را دنبال کند. وی همچنین درباره کاربردهای هوش مصنوعی در حوزههای دفاعی و نظامی تاکید کرد: یکی از عرصههایی که استفاده از فناوریهای نوین و هوش مصنوعی در آن مشهود است، حوزه تسلیحات نظامی است. بهعنوان نمونه، در موشکهای هایپرسونیک و مدلهای مختلف آن، قابلیتهایی از جمله تغییر مسیر پروازی و فریب سامانههای پدافندی دشمن مورد استفاده قرار میگیرد که نشاندهنده توانمندی متخصصان و نخبگان ایرانی در بهرهگیری از فناوریهای پیشرفته است. عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس ادامه داد: امیدواریم ارتباط میان بخشهای پژوهشی و حوزههای کاربردی بیش از گذشته تقویت شود تا کشور بتواند از ظرفیت هوش مصنوعی برای توسعه همهجانبه استفاده کند. ضرورت تقویت ارتباط دانشگاه و صنعت یزدیخواه در ادامه با اشاره به فاصله تاریخی میان دانشگاه و صنعت در کشور گفت: به نظر میرسد بخش قابل توجهی از پیشرفتهای ملموس در حوزه هوش مصنوعی تاکنون در عرصههایی مانند صنایع دفاعی و موشکی مشاهده شده است، اما برای بهرهگیری گستردهتر از این فناوری در سایر بخشها باید ارتباط میان دانشگاه و صنعت تقویت شود. وی تأکید کرد: همواره فاصلهای میان صنعت و دانشگاه در کشور وجود داشته است و باید اطلاعات و ظرفیتهای پژوهشی دانشگاهها بهگونهای به صنایع متصل شود که نتایج تحقیقات علمی مستقیماً در خدمت نیازهای صنعتی و توسعه کشور قرار گیرد. این نماینده مجلس افزود: این ارتباط نباید تنها به حوزه صنعت محدود شود، بلکه باید در بخشهای مختلف از جمله کشاورزی، خدمات، دامداری، دامپروری، باغبانی و سایر حوزههای اقتصادی نیز توسعه پیدا کند. وی خاطرنشان کرد: تقویت پیوند میان دانشگاه و صنعت امکانپذیر است و خوشبختانه این ارتباط روزبهروز در حال بهبود است. بسیاری از دانشگاهها نیز با توجه به نیازهای صنعتی و مسائل مرتبط با توسعه کشور، موضوعات پژوهشی خود را به سمت حل مسائل واقعی جامعه و صنایع هدایت میکنند. سازمان هوش مصنوعی باید مرجعیت این حوزه را تقویت کند عضو فراکسیون هوش مصنوعی و فناوریهای دانشبنیان مجلس درباره اقدامات مجلس برای تسریع در تصویب و ابلاغ سازوکارهای مربوط به سازمان هوش مصنوعی و جلوگیری از موازیکاری نیز گفت: یکی از موضوعات مهم، ایجاد یک مرجعیت مشخص برای سیاستگذاری و ارائه خدمات در حوزه هوش مصنوعی است تا دستگاههای مختلف بتوانند از ظرفیتهای موجود به شکل هماهنگ استفاده کنند. یزدیخواه اظهار کرد: باید بهگونهای برنامهریزی شود که سازمان هوش مصنوعی بتواند مرجعیت خود را در ارائه خدمات و سیاستگذاری این حوزه تقویت کند و دستگاههای اجرایی و مراکز علمی و پژوهشی نیز از این ظرفیت بهرهمند شوند. وی ادامه داد: مؤسسات پژوهشی و علمی، مجتمعهای دامداری و دامپروری، بخشهای کشاورزی و باغبانی و مجموعههای فعال در حوزه خدمات کشاورزی و همچنین صنایع مختلف میتوانند از ظرفیتهای هوش مصنوعی برای افزایش بهرهوری و حل مسائل خود استفاده کنند. یزدیخواه با اشاره به اهمیت بخش خدمات در اقتصاد کشور گفت: بخش قابل توجهی از حجم اقتصاد کشور به حوزه خدمات اختصاص دارد و لازم است ظرفیت هوش مصنوعی در این بخش نیز بیش از گذشته مورد استفاده قرار گیرد. وی در پایان تأکید کرد: یکی از مهمترین کارکردهای هوش مصنوعی میتواند ایجاد ارتباط و همافزایی میان ظرفیتهای دستگاههای مختلف باشد. اگر این ظرفیتها به شکل منسجم به یکدیگر متصل شوند، میتوان از هوش مصنوعی برای افزایش بهرهوری، توسعه اقتصادی و پیشرفت همهجانبه کشور استفاده کرد. انتهای پیام/",
-        "impact": "تمرکز بر یکپارچه‌سازی متولی هوش مصنوعی در کشور و تلاش برای ورود این فناوری به اقتصاد غیرنظامی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "آنا",
-        "url": "https://ana.ir/fa/news/1077795/سازمان-هوش-مصنوعی-باید-مرجع-سیاست-گذاری-این-حوزه-باشد-وقت-بهره-گیری-از-هوش-مصنوعی-در-اقتصاد-است",
-        "clean_url": "https://ana.ir/fa/news/1077795/سازمان-هوش-مصنوعی-باید-مرجع-سیاست-گذاری-این-حوزه-باشد-وقت-بهره-گیری-از-هوش-مصنوعی-در-اقتصاد-است",
-        "image": "http://www.bing.com/th?id=ONUT.X4BJpi5q-etW2GEtiNJOmw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.X4BJpi5q-etW2GEtiNJOmw&pid=News",
-            "https://ana.ir/media/50dcbb8eZTp3ZWJwfGY6MTE4MTk2MC5qcGd8ZnVpOjExNzEyMTN8bDpmYXx2OjE.webp"
-        ],
-        "timestamp": 1787652120.0
-    },
-    {
-        "id": "f959a4f887",
-        "title_fa": "پشتیبانی انویدیا زی‌فورس نا‌و از دسته استیم و ویژگی‌های جدید DLSS",
-        "title_en": "GeForce Now is getting support for the Steam Controller",
-        "summary": [
-            "سرویس گیمینگ ابری GeForce Now به‌زودی پشتیبانی رسمی از استیم کنترلر و استیم ماشین را آغاز می‌کند.",
-            "انویدیا کنترل‌های جدید DLSS 4.5 شامل بازسازی پرتو (Ray Reconstruction) و فریم‌سازی پویا را به این سرویس می‌افزاید."
-        ],
-        "full_text": "Nvidia’s GeForce Now cloud gaming service will officially support Valve’s Steam Controller and Steam Machine starting later this year. With Steam Controller support, you’ll be able to play games with Valve’s great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you’re using GeForce Now on Windows or macOS, support for the Steam Controller is coming “later,” Nvidia says. GeForce Now is getting support for the Steam Controller Later this year, you’ll be able to play games on Nvidia’s cloud gaming service using Valve’s new gamepad. Later this year, you’ll be able to play games on Nvidia’s cloud gaming service using Valve’s new gamepad. GeForce Now is getting a few other upgrades, too. Nvidia will soon add new DLSS 4.5 controls for DLSS Super Resolution, Dynamic Frame Generation, and Ray Reconstruction. (Ray Reconstruction is also officially launching for RTX GPUs in early access.) The previously-announced GOG single sign on is now available. The service will come to more of Amazon’s Fire TV Sticks “later this year,” and you’ll be able to buy a subscription through Amazon. And as of last week, you can officially use GeForce Now on Firefox. Nvidia’s Gamescom announcements also include news for its upcoming RTX Spark chip family: EA, Embark, and Ubisoft are planning to support the chip, which is set to launch this fall, with games like EA Sports F1 25, Apex Legends, Arc Raiders, and Anno 117: Pax Romana. EA is also working on native support for its Javelin Anticheat technology for the company’s “biggest multiplayer games.” Nvidia also shared details about 007 First Light’s path tracing update launching in September, upgrades to RTX Remix, and more, and you can read about everything that’s new in the company’s blog post. Most Popular - Raspberry Pi shares its official tutorial for making a cyberdeck - Android is getting its own weird dots to cure car sickness - The OLED Xbox Ally X20 officially starts at $1,300 - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The cat-and-mouse game over 3D-printed guns has begun",
-        "impact": "افزایش انعطاف‌پذیری گیمینگ ابری و ارائه کیفیت گرافیکی بالاتر روی دستگاه‌های مختلف از جمله استیم دک.",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-        "clean_url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
-        "image": "http://www.bing.com/th?id=ONUT.TeI1g7cD_gxzZKAS_XUAcQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.TeI1g7cD_gxzZKAS_XUAcQ&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787651220.0
-    },
-    {
-        "id": "4754761960",
-        "title_fa": "کالبدشکافی فناوری نانوسل در تلویزیون‌های ال‌جی",
-        "title_en": "نانوسل چیست؟ بررسی جامع تکنولوژی NanoCell در انواع تلویزیون‌ها",
-        "summary": [
-            "نانوسل نوع جدیدی از پنل نیست، بلکه لایه‌ای از ذرات یک‌نانومتری روی پنل‌های LED برای فیلتر کردن رنگ‌های ناخالص است.",
-            "این تکنولوژی با جذب طول‌موجهای اضافی نور زرد و نارنجی، شفافیت رنگ‌های اصلی سرخ و سبز را افزایش می‌دهد."
-        ],
-        "full_text": "نانوسل چیست؟ بررسی جامع تکنولوژی NanoCell در انواع تلویزیونها اما نانوسل دقیقا چیست؟ آیا این صرفا یک ترفند بازاریابی برای فروش بیشتر است یا واقعا با یک جهش تکنولوژیک در کیفیت تصویر روبرو هستیم؟ اگر در چند سال اخیر برای خرید تلویزیون به بازار یا فروشگاههای اینترنتی سر زده باشید، قطعا با بمبارانی از اصطلاحات فنی و نامهای تجاری مختلف روبرو شدهاید. از LED و LCD گرفته تا OLED و QLED، هر برند تلاش میکند با معرفی یک فناوری جدید، گوی سبقت را از رقبا برباید. در این میان، یکی از نامهایی که به ویژه توسط شرکت «الجی» (LG) بر سر زبانها افتاده، تکنولوژی نانوسل (NanoCell) است. اما نانوسل دقیقا چیست؟ آیا این صرفا یک ترفند بازاریابی برای فروش بیشتر است یا واقعاً با یک جهش تکنولوژیک در کیفیت تصویر روبرو هستیم؟ در این مقاله قرار است به زبانی ساده اما با نگاهی کاملاً حرفهای و موشکافانه، کالبدشکافی دقیقی روی فناوری NanoCell داشته باشیم. بررسی میکنیم که این پنلها چگونه کار میکنند، چه تفاوتی با رقبای سرسخت خود دارند و در نهایت آیا خرید آنها برای استفاده در خانههای ما منطقی و مقرونبهصرفه است یا خیر. با ما همراه باشید تا پرده از راز ذرات نانومتری برداریم. نانوسل (NanoCell) دقیقاً چیست؟ به زبان خیلی ساده، نانوسل یک فناوری انحصاری ارتقای تصویر است که توسط شرکت الجی برای بهبود کیفیت تلویزیونهای LED معرفی شد. دقت کنید که نانوسل یک دسته کاملاً جدید از تلویزیونها (مانند OLED که ساختار متفاوتی دارد) نیست، بلکه در واقع نسخه پیشرفتهتر، مدرنتر و تکاملیافتهتر همان تلویزیونهای LED/LCD محسوب میشود. کلمه NanoCell از دو بخش «نانو» (Nano) به معنای ذرات بسیار ریز و «سل» (Cell) به معنای سلول تشکیل شده است. این تکنولوژی از ذراتی با ابعاد حدود یک نانومتر استفاده میکند که روی پنل تلویزیون قرار میگیرند. وظیفه اصلی این ذرات، تصفیه کردن و فیلتر کردن رنگهایی است که روی صفحه نمایش داده میشوند تا در نهایت تصویری شفافتر، زندهتر و واقعیتر به چشم مخاطب برسد. تکنولوژی نانوسل چگونه کار میکند؟ (جادوی ذرات یک نانومتری) برای درک بهتر عملکرد نانوسل، باید بدانیم تلویزیونهای LED معمولی چگونه رنگ تولید میکنند. در نمایشگرهای استاندارد، نور پسزمینه (Backlight) از فیلترهای رنگی عبور میکند تا رنگهای اصلی یعنی قرمز، سبز و آبی (RGB) را بسازد. اما مشکل اینجاست که در این فرآیند، طول موجهای نوری گاهی با هم ترکیب میشوند. مثلاً رنگ قرمز ممکن است کمی با زرد یا نارنجی ترکیب شود و در نتیجه، قرمزی که شما روی صفحه میبینید، یک قرمز خالص و گوجهای نباشد، بلکه کمی کدر یا متمایل به نارنجی به نظر برسد. اینجاست که فناوری نانوسل وارد عمل میشود. ذرات نانومتری موجود در این پنلها، مانند یک فیلتر یا اسفنج جذبکننده نور عمل میکنند. این ذرات طول موجهای اضافی و ناخالص نور (به خصوص رنگهای زرد و نارنجی زائد که بین سبز و قرمز قرار دارند) را جذب کرده و از بین میبرند. نتیجه این فیلتراسیون دقیق، تولید رنگهای خالصِ قرمز، سبز و آبی (Pure Colors) است. وقتی رنگهای پایه با این خلوص بالا تولید شوند، میلیاردها رنگ ترکیبی دیگر نیز با نهایت دقت و درخشش روی صفحه ظاهر خواهند شد. تفاوت نانوسل با تلویزیونهای معمولی (LED) شاید از خود بپرسید چرا باید هزینه بیشتری برای فناوری نانوسل بپردازیم درحالیکه تلویزیونهای LED معمولی هم کار ما را راه میاندازند؟ تفاوت در دو بخش کلیدی خلاصه میشود: دقت رنگ و زاویه دید. در پنلهای معمولی، رنگها در روشنایی بالا ممکن است دچار رنگپریدگی شوند یا غنای خود را از دست بدهند. درحالیکه برای بسیاری از کاربرانِ با بودجه محدود، خرید مدلهای استاندارد بازار مانند یک تلویزیون سام یا سایر برندهای داخلی که از پنلهای LED باکیفیت اما پایهای استفاده میکنند، کاملاً پاسخگوی نیازهای روزمره، تماشای اخبار و سریال است؛ اما کاربرانی که به تماشای فیلمهای با کیفیت 4K HDR علاقه دارند یا گیمرهای حرفهای هستند، تفاوت خلوص رنگ در نانوسل را به شدت احساس خواهند کرد. علاوهبراین، تلویزیونهای نانوسل الجی معمولاً از پنلهای IPS بهره میبرند. ویژگی بارز پنلهای IPS زاویه دید بسیار گسترده آنهاست. یعنی اگر شما در گوشه پذیرایی نشسته باشید و از زاویه ۶۰ درجه به تلویزیون نگاه کنید، رنگها و روشنایی تصویر افت نمیکند. این درحالی است که در بسیاری از تلویزیونهای LED معمولی (که پنل VA دارند)، با کمی تغییر زاویه، تصویر تاریک و رنگها محو میشوند. نانوسل در برابر رقبا: رویارویی با QLED و OLED برای اینکه ارزش واقعی تکنولوژی نانوسل را بسنجیم، باید آن را با دو رقیب قدرتمند در بازار یعنی QLED (فناوری سامسونگ) و OLED مقایسه کنیم. ۱. نانوسل (NanoCell) در برابر کیولد (QLED) این دو تکنولوژی در واقع رقبای مستقیم یکدیگر هستند. هر دو بر پایه تلویزیونهای LED ساخته شدهاند و هدف هر دو افزایش کیفیت رنگ است. سامسونگ در QLED از تکنولوژی «نقاط کوانتومی» (Quantum Dots) استفاده میکند تا روشنایی و حجم رنگ را افزایش دهد. الجی در مقابل از ذرات نانو برای فیلتر کردن رنگها استفاده میکند. - برگ برنده نانوسل: زاویه دید وسیعتر (به لطف پنل IPS) و تولید رنگهای طبیعیتر. - برگ برنده QLED: روشنایی بسیار بالاتر صفحه نمایش و کنتراست بهتر (به دلیل استفاده از پنلهای VA).انتخاب بین این دو به محیط خانه شما بستگی دارد؛ اگر مبلمان خانه شما پراکنده است و افراد از زوایای مختلف تلویزیون میبینند، نانوسل بهتر است. اما اگر در محیطهای بسیار روشن تلویزیون میبینید و روبروی آن مینشینید، QLED جذابتر خواهد بود. ۲. نانوسل در برابر اولد (OLED) در اینجا باید گفت که OLED در لیگ کاملاً متفاوتی بازی میکند. تلویزیونهای OLED نور پسزمینه ندارند و هر پیکسل خودش نور تولید میکند و میتواند کاملاً خاموش شود. به همین دلیل رنگ مشکی مطلق و بینهایتی را ارائه میدهند. نانوسل هرچقدر هم پیشرفته باشد، نمیتواند به عمق رنگ مشکی OLED برسد. اما نانوسل دو مزیت بزرگ نسبت به OLED دارد: اول اینکه قیمت آن بسیار ارزانتر است و دوم اینکه خطر پیکسل سوختگی (Burn-in) که در OLEDها (در صورت نمایش طولانی مدت تصاویر ثابت) وجود دارد، در پنلهای نانوسل به صفر میرسد. تجربه گیمینگ؛ آیا تلویزیونهای نانوسل برای بازی مناسباند؟ برای گیمرها، تنها کیفیت رنگ مهم نیست، بلکه سرعت پاسخگویی و هماهنگی با کنسولهای نسل نهم (PS5 و Xbox Series X) نیز اهمیت بالایی دارد. خوشبختانه سازندگان در مدلهای میانرده به بالای نانوسل، امکانات گیمینگ فوقالعادهای قرار دادهاند. پشتیبانی از پورتهای HDMI 2.1، نرخ نوسازی تصویر ۱۲۰ هرتز (120Hz) و تکنولوژیهای رفرشریت متغیر (VRR) و حالت تاخیر ورودی پایین خودکار (ALLM) باعث شده تا تاخیر ورودی (Input Lag) در این تلویزیونها به حداقل برسد. ترکیب این سرعت بالا با رنگهای زنده نانوسل، تجربه بازیهای ویدیویی با گرافیک بالا را بسیار لذتبخش و غوطهورکننده میکند. مزایا و معایب تکنولوژی NanoCell در یک نگاه برای اینکه تصمیمگیری راحتتری داشته باشید، بیایید نقاط ضعف و قوت این فناوری را دستهبندی کنیم: مزایا: - خلوص رنگ بینظیر: نمایش",
-        "impact": "آگاهی‌بخشی به خریداران تلویزیون برای انتخاب دقیق‌تر میان فناوری‌های NanoCell، OLED و QLED.",
-        "tag": "گجت",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/smart-home-appliances/what-is-nanocell-in-tv",
-        "clean_url": "https://digiato.com/smart-home-appliances/what-is-nanocell-in-tv",
-        "image": "http://www.bing.com/th?id=ONUT.fNU3gQ_RhfAboN8TVsdtbg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.fNU3gQ_RhfAboN8TVsdtbg&pid=News",
-            "https://static.digiato.com/digiato/2026/08/TV-NanoCell-Category-Page-03-List-Desktop-4.jpg",
-            "https://static.digiato.com/digiato/2026/08/TV-NanoCell-Category-Page-03-List-Desktop-4.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/NanoCell-1.jpg"
-        ],
-        "timestamp": 1787651100.0
-    },
-    {
-        "id": "bbf2a1d978",
-        "title_fa": "جذب سرمایه ۳ میلیون دلاری استارتاپ Surge Games برای ساخت بازی با AI",
-        "title_en": "Surge Games raises $3m pre-seed to build AI-native mobile games",
-        "summary": [
-            "استارتاپ ترکیه‌ای Surge Games با جذب سرمایه پیش‌بذری ۳ میلیون دلاری، قصد دارد فرایند ساخت بازی‌های موبایلی پازل را کاملاً بر پایه هوش مصنوعی بازطراحی کند.",
-            "این استارتاپ از هوش مصنوعی در تمام مراحل از کدنویسی و طراحی هنری گرفته تا جذب کاربر استفاده می‌کند تا تیم‌های کوچک بتوانند با سرعت بالا بازی‌های باکیفیت تولید کنند."
-        ],
-        "full_text": "Surge Games raises $3m pre-seed to build AI-native mobile games - The Istanbul-based studio was founded in 2026 by four former Turkish game industry professionals. - Surge Games integrates AI across game development, art and user acquisition. - Surge Games has released its first game, Twin Tiles!, on iOS and Android. Istanbul-based Surge Games has secured $3 million in pre-seed funding to scale AI-native approach to mobile game development. Founded in 2026 by Muhammed Atlam, Onur Uras, Rabia Konuk Uras and Yiğit Yücel Neğiş, Surge Games integrates artificial intelligence across game development, art and user acquisition. Surge Games plans to use the new round to grow its team and scale its user acquisition processes while applying its production model to additional games. AI-first studio The round was led by Play Ventures, which described Surge Games as an AI-native mobile puzzle game company launched by four founders from a hacker house in Istanbul. Simya VC and Drilo Ventures also participated in the round. The startup believes advances in AI models and the growth of the hybrid-casual market can allow small teams to balance rapid production, high quality and innovative mechanics. Surge Games has already released its first matching puzzle game, Twin Tiles!, on iOS and Android. The founders have experience at Turkish companies including Dream Games, Good Job Games and Feraset.",
-        "impact": "استفاده گسترده از هوش مصنوعی در ساخت بازی، هزینه و زمان تولید را برای استودیوهای مستقل به‌شدت کاهش می‌دهد.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "Pocket Gamer.biz",
-        "url": "https://www.pocketgamer.biz/surge-games-raises-3m-pre-seed-to-build-ai-native-mobile-games/",
-        "clean_url": "https://www.pocketgamer.biz/surge-games-raises-3m-pre-seed-to-build-ai-native-mobile-games",
-        "image": "https://media.pocketgamer.biz/images/141068/89696/surge-games_l1200.jpg",
-        "images": [
-            "https://media.pocketgamer.biz/images/141068/89696/surge-games_l1200.jpg",
-            "https://media.pocketgamer.biz/images/130447/std/isa-muhammad-pocketgamer-staff_640.jpg"
-        ],
-        "timestamp": 1787650320.0
-    },
-    {
-        "id": "ec7ebdb1ea",
-        "title_fa": "راه‌اندازی آزمایشگاه گردشگری هوش مصنوعی در سنگاپور",
-        "title_en": "Exploring Singapore with AI! Singapore Tourism Board and Mafengwo Jointly Launch \"Singapore AI Inspiration Lab\" to Unlock the Many Facets of the Lion City for Seniors, Families, and New Workforce Entrants",
-        "summary": [
-            "سازمان گردشگری سنگاپور با همکاری پلتفرم Mafengwo ابزاری مبتنی بر AI برای برنامه‌ریزی سفرهای شخصی‌سازی‌شده معرفی کرد.",
-            "این سیستم توصیه‌های مسافرتی ویژه‌ای متناسب با نیازهای خانواده‌ها، سالمندان و نیروهای کاری جدید ارائه می‌دهد."
-        ],
-        "full_text": "Exploring Singapore with AI! Singapore Tourism Board and Mafengwo Jointly Launch \"Singapore AI Inspiration Lab\" to Unlock the Many Facets of the Lion City for Seniors, Families, and New Workforce Entrants  Yahoo Finance",
-        "impact": "توسعه کاربردهای هوش مصنوعی در صنعت گردشگری و جذب بیشتر مسافران با ابزارهای شخصی‌سازی‌شده.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFSenVmb2xxMXE3WWprbURkNV9RQ0lDUlBuWHJPMzM2N1ZaMFNaM1JBSGhiY2xJZGFWc19ORWhpeVhmb3JCdHlUeTFVY0k4Y08yVGFOR2pybEZqblZLcTBrMVpFODNOR0JfOG1sY1dWajJmSGhzN2pyOF9oR3BKLU8zUk02cWpFcFBRZjE3M2ExNnZKWWlvaWg5U3BvZnExVUJ6S09Ybw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGFSenVmb2xxMXE3WWprbURkNV9RQ0lDUlBuWHJPMzM2N1ZaMFNaM1JBSGhiY2xJZGFWc19ORWhpeVhmb3JCdHlUeTFVY0k4Y08yVGFOR2pybEZqblZLcTBrMVpFODNOR0JfOG1sY1dWajJmSGhzN2pyOF9oR3BKLU8zUk02cWpFcFBRZjE3M2ExNnZKWWlvaWg5U3BvZnExVUJ6S09Ybw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787649060.0
-    },
-    {
-        "id": "4c097c5f8b",
-        "title_fa": "راهنمای تماشای زنده پرتاب تلسکوپ فضایی رومن",
-        "title_en": "How to Watch the Roman Telescope Launch Aug 30",
-        "summary": [
-            "پوشش زنده رویداد پرتاب تلسکوپ فضایی رومن برای روز ۳۰ اوت برنامه‌ریزی شده است.",
-            "این تلسکوپ نسل جدید قرار است دید عمیق‌تری از کیهان و انرژی تاریک به دانشمندان بدهد."
-        ],
-        "full_text": "How to Watch the Roman Telescope Launch Aug 30  Technology Org",
-        "impact": "آغاز فاز تازه در ثبت تصاویر کیهانی و پردازش داده‌های نجومی.",
-        "tag": "سخت‌افزار",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Technology Org",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZMmdsTy1nSm5TV0pHdkp6TzJMOFM4ZXpMZmRLVnNsb1F1ai11TDJ4N2dIdkQxLUFGUXVjdXhtaURFbGFkWWtMaTZKel81MEZUMFF1VEU2aFZpYnRsdjdWTnkwdjh5cE9oMlJfTi1ock96N3FFRUpXNGpJYkxSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZMmdsTy1nSm5TV0pHdkp6TzJMOFM4ZXpMZmRLVnNsb1F1ai11TDJ4N2dIdkQxLUFGUXVjdXhtaURFbGFkWWtMaTZKel81MEZUMFF1VEU2aFZpYnRsdjdWTnkwdjh5cE9oMlJfTi1ock96N3FFRUpXNGpJYkxSZw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787647689.0
-    },
-    {
-        "id": "505f7edc3d",
-        "title_fa": "همکاری اسپیس‌ایکس و انویدیا برای ارسال هوش مصنوعی به فضا",
-        "title_en": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year",
-        "summary": [
-            "اسپیس‌ایکس و انویدیا در حال ساخت یک سیستم هوش مصنوعی بهینه‌شده برای شرایط مدار زمین هستند تا سال آینده پرتاب شود.",
-            "این پروژه پردازش داده‌های فضایی را به‌جای زمین، مستقیماً در خود فضا و روی ماهواره‌ها انجام می‌دهد."
-        ],
-        "full_text": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year  ET Manufacturing",
-        "impact": "تحول بزرگ در پردازش لبه‌ای (Edge Computing) فضایی و کاهش تأخیر در تحلیل داده‌های مداری.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "ET Manufacturing",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVG1QTmJBd2RVS1BtLS1PeWdwUTI1d0lQeWM5UVBUWjZCSy1renVsWVFjSWZVZHh2MnRSdXRxVW9ibzlWQWI3SlF0VlNOd0JYOFYtbXEwQ0RhZUNvS3pzYUtQOUR0eUxxRmkxUnJkVnQ5aWNlVy0tWVpsOEtwQUVHb0NnT3BCbjFDUmhQa1VWYUVmVS1sOEtVSl9zX2pKOF95NzkyRG02cDI2SmRCaVczN0dhcXhBQXBCaG5MX21LMzFkWmZ6Vm0tQXFIRFRSZVJLbl93bWJuZFV3ZldMUTFDQVFDYVEteFZwZFdnRlVHMHNEdU45a2dDS3lPNmtTZFB6QnFuemdjRElXSE1Rc0FmQTJHS1ltMG95MGxmQkllODnSAeoBQVVfeXFMUDhoaWtqQjZKSWZyOTU3Ukt6Unphc1hhalVFbVBTQi1EZGFLM3FlYmw4b2JFT0g1TWRrX0tEY0VuanNSWHF6RHRJRkdoM2NXcFBrNG05Qnc2Vks3d3BfMU91b2FUREdkZU56WlFHR05HNVlYTlAwMDBpdDkzTlhyWFZvejMzcjBWMk5KTHNQamZyRWFUTmMtektHb3ZZNDVqS2dxTlVyck80YlhieFBMYURCYU84bzQtUTlPQ0JjTmdMSi16QXFzb2RCMkVyNlVscUdWSThfd1B0c1VFUGd0VXB2YjdtUVRJTFpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVG1QTmJBd2RVS1BtLS1PeWdwUTI1d0lQeWM5UVBUWjZCSy1renVsWVFjSWZVZHh2MnRSdXRxVW9ibzlWQWI3SlF0VlNOd0JYOFYtbXEwQ0RhZUNvS3pzYUtQOUR0eUxxRmkxUnJkVnQ5aWNlVy0tWVpsOEtwQUVHb0NnT3BCbjFDUmhQa1VWYUVmVS1sOEtVSl9zX2pKOF95NzkyRG02cDI2SmRCaVczN0dhcXhBQXBCaG5MX21LMzFkWmZ6Vm0tQXFIRFRSZVJLbl93bWJuZFV3ZldMUTFDQVFDYVEteFZwZFdnRlVHMHNEdU45a2dDS3lPNmtTZFB6QnFuemdjRElXSE1Rc0FmQTJHS1ltMG95MGxmQkllODnSAeoBQVVfeXFMUDhoaWtqQjZKSWZyOTU3Ukt6Unphc1hhalVFbVBTQi1EZGFLM3FlYmw4b2JFT0g1TWRrX0tEY0VuanNSWHF6RHRJRkdoM2NXcFBrNG05Qnc2Vks3d3BfMU91b2FUREdkZU56WlFHR05HNVlYTlAwMDBpdDkzTlhyWFZvejMzcjBWMk5KTHNQamZyRWFUTmMtektHb3ZZNDVqS2dxTlVyck80YlhieFBMYURCYU84bzQtUTlPQ0JjTmdMSi16QXFzb2RCMkVyNlVscUdWSThfd1B0c1VFUGd0VXB2YjdtUVRJTFpB",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787646987.0
-    },
-    {
-        "id": "63f3c180c3",
-        "title_fa": "متا از ایجنت هوش مصنوعی Hatch در شهریور رونمایی می‌کند",
-        "title_en": "Meta Targets Early September for Hatch, Its Consumer AI Agent",
-        "summary": [
-            "متا برنامه‌ریزی کرده تا در اوایل سپتامبر (شهریور) از دستیار هوشمند جدید خود با نام Hatch برای کاربران عمومی رونمایی کند.",
-            "این ابزار قرار است به‌عنوان یک ایجنت خودمختار، انجام کارهای روزمره کاربران را بر عهده بگیرد."
-        ],
-        "full_text": "Meta Targets Early September for Hatch, Its Consumer AI Agent  BeInCrypto",
-        "impact": "ورود مستقیم متا به جنگ ایجنت‌های هوشمند شخصی و رقابت مستقیم با گوگل و OpenAI.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "BeInCrypto",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787645460.0
-    },
-    {
-        "id": "0a612dd613",
-        "title_fa": "تصاحب استارتاپ Lica توسط گاما برای ساخت آزمایشگاه طراحی AI",
-        "title_en": "Gamma acquires Accel-backed design startup Lica",
-        "summary": [
-            "گاما با تصاحب Lica قصد دارد ابزارهای ساخت پرزنتیشن خود را به قابلیت‌های پیشرفته تولید ویدیو و محتوای بصری مجهز کند.",
-            "بنیان‌گذاران Lica رهبری بخش جدید تحقیقات بصری گاما را بر عهده می‌گیرند تا تولید محتوا برای مخاطبان مختلف شخصی‌سازی شود.",
-            "این تصاحب دسترسی Lica به ۱۰۰ میلیون کاربر گاما را ممکن کرده و سرعت توسعه مدل‌های هوش مصنوعی مرتبط با ارتباطات بصری را بالا می‌برد."
-        ],
-        "full_text": "Presentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has exclusively learned. Lica’s co-founders will lead the effort. Lica started off as an app that could turn screenshots and recordings into project presentations and videos. Founded by Priyaa Kalyanaraman and Purvanshi Mehta in 2023, the company a year later raised $4 million from investors including Accel, South Park Commons, and Village Global. Over the past couple of years, it has focused on working with e-commerce sites to create marketing videos that adhere to brand guidelines. Kalyanaraman said Lica wanted to build AI models around communication methods, including video and design, and the founders were familiar with Gamma’s CEO, Lee Grant, as both companies are backed by Accel and South Park Commons. Those conversations eventually led to the acquisition. “We have a very similar North Star vision of wanting to make visual communication easy. We focused a lot on frontier research and making sure that became accessible to users. But that’s just one part of the solution. Gamma had focused a lot on building distribution, taking the application to 100 million-plus users. Given how fast things are moving, we decided to join forces,” Kalyanaraman told TechCrunch. Gamma will continue to focus on helping people build presentations, but like other design companies, it’s also started offering image generation. The company says it now wants to explore different formats of communication with the new research division. “Presentations for us are today a core use case, but how do we expand what presentations look and feel like, and how do people engage with them in the future? What visuals are possible? How interactive are they? These [questions] all require us to think deeply about the core responsibility of communication. This is why we’re excited to invest in this area, because we don’t think anybody else is thinking at that level,” Lee said. Lica’s Mehta said the new research division would work on customizing the presentation and communication styles of AI models for different audiences and tastes. “The point of the presentation is to communicate a large goal. We are thinking about building a platform where these two goals can be personalized to such an extent that you just get a really good output, and then you’re able to edit for different audiences,” she said. Gamma didn’t reveal what products it plans to build as a result of this acquisition, but it did say that it wants to create fluid, multimodal presentations and other communication modalities. AI presentation startups have received tons of investor attention and money over the last few years. Prezent raised $50 million in two rounds; Gamma raised $68 million at a $2.1 billion valuation; and Presentations.ai was also backed by Accel. We’re even starting to see some consolidation in this category: Earlier this month, OpenAI acquired NextSlide.",
-        "impact": "تقویت موقعیت گاما در بازار ابزارهای ارائه هوشمند و ورود جدی آن به حوزه تولید هوشمند ویدیو و گرافیک.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-        "clean_url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
-        "image": "http://www.bing.com/th?id=ONUT.aSZlcF9pCHSjPPgJKud0Cw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.aSZlcF9pCHSjPPgJKud0Cw&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
-            "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150"
-        ],
-        "timestamp": 1787644800.0
     }
 ]
