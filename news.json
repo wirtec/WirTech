@@ -1,5 +1,71 @@
 [
     {
+        "id": "8131c60c04",
+        "title_fa": "همکاری سه جانبه برای راه‌اندازی پلتفرم خودرویی مبتنی بر هوش مصنوعی",
+        "title_en": "GAC Mexico, Mercado Libre & Salesforce Launch AI Auto Platform",
+        "summary": [
+            "شرکت‌های GAC Mexico، Mercado Libre و Salesforce پلتفرم جدیدی را برای هوشمندسازی خدمات خودرویی معرفی کردند.",
+            "این پلتفرم با تحلیل هوشمند داده‌های مشتریان و فروش، فرایند خرید و پشتیبانی خودرو را دیجیتالی می‌کند."
+        ],
+        "full_text": "GAC Mexico, Mercado Libre & Salesforce Launch AI Auto Platform  Mexico Business News",
+        "impact": "تسریع دیجیتالی‌سازی صنعت خودرو و بهبود تجربه کاربری خریداران.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Mexico Business News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWdsdkc1SlBmbS1rTVBXdVVmT1l4RXBEdzNSQ01aQVVkOWcyRk1YS0xZQXlic0FTLUdGUVd6OVduelhsaTFxUTZGbExPYVJiZHV4azBTWWtqR3hPVDlNS25DVi1qMVJFcXlMd2ZHNHpsZnU5cmZYRU55M0lNd1Z3LU1Hd3E2cklMQVVtQnRLZ3o4ejM2ZTR2SXFvWmlCMjZ0ODYxLVpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWdsdkc1SlBmbS1rTVBXdVVmT1l4RXBEdzNSQ01aQVVkOWcyRk1YS0xZQXlic0FTLUdGUVd6OVduelhsaTFxUTZGbExPYVJiZHV4azBTWWtqR3hPVDlNS25DVi1qMVJFcXlMd2ZHNHpsZnU5cmZYRU55M0lNd1Z3LU1Hd3E2cklMQVVtQnRLZ3o4ejM2ZTR2SXFvWmlCMjZ0ODYxLVpR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788547667.0
+    },
+    {
+        "id": "4981fd992b",
+        "title_fa": "تأسیس مرکز Foundry School برای ارتقای مهارت نیروی کار صنعتی",
+        "title_en": "Ohio State helps launch Foundry School to support manufacturing workforce",
+        "summary": [
+            "دانشگاه ایالتی اوهایو برای آموزش مهارت‌های نوین فنی و هوش مصنوعی به نیروی کار بخش ساخت‌وساز، مرکز آموزشی جدیدی راه انداخته است.",
+            "این اقدام پاسخ مستقیمی به کمبود نیروی متخصص در صنایع مدرن تولیدی است."
+        ],
+        "full_text": "Ohio State helps launch Foundry School to support manufacturing workforce  Ohio State News",
+        "impact": "کاهش شکاف مهارت در صنایع تولیدی و مدرن‌سازی ساختار نیروی کار.",
+        "tag": "سخت‌افزار",
+        "urgency": 2,
+        "sentiment": 0.4,
+        "source": "Ohio State News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NiTDFEUFZ6dklZbUpZTlVtakhVUFVVeW1KcjJidkRhUXRnbVlsWEx0X01iUDNxLVJRMXFJZDM3YkozSE15aHZJeW93QmhiN3FLcjFac1otUjNXUk5hN1ViYlhjd2s0NF9QcmludDNmZFhjcnJlX2daNG85ZV9mQXFGT2FMdUJTSlc2VlFxQ1Bmc21UaDBwTlN1cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2NiTDFEUFZ6dklZbUpZTlVtakhVUFVVeW1KcjJidkRhUXRnbVlsWEx0X01iUDNxLVJRMXFJZDM3YkozSE15aHZJeW93QmhiN3FLcjFac1otUjNXUk5hN1ViYlhjd2s0NF9QcmludDNmZFhjcnJlX2daNG85ZV9mQXFGT2FMdUJTSlc2VlFxQ1Bmc21UaDBwTlN1cw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788543000.0
+    },
+    {
+        "id": "aa7619ea78",
+        "title_fa": "مدل پیشرفته GPT-6 Astra در پلتفرم مایکروسافت آزور منتشر شد",
+        "title_en": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry",
+        "summary": [
+            "مایکروسافت مدل جدید و پیشرفته GPT-6 Astra را برای مصارف سازمانی در محیط Microsoft Foundry عرضه کرد.",
+            "این مدل دسترسی کسب‌وکارها به سطوح جدیدی از هوش مصنوعی پرچمدار را در بستر ابری مایکروسافت ممکن می‌سازد."
+        ],
+        "full_text": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry  Microsoft Azure",
+        "impact": "جهش قدرت پردازشی و تحلیلی برای شرکت‌های متکی به اکوسیستم ابری آزور.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Microsoft Azure",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDJEdEpEaVRYYnliaGRvZGk5eTlncFd1empUWUQxVndBM2llTGR3djRiTXFtSWl3Yk9FbDNyVkhVX3dMalJraWo3SWpIaFhScXdwY0pIcGswWUxHeXJqd3RtYTJpTFM1LV9aSTJ4TjlqbW9OdW10LUFYX3puX29mTHZlU1N6aEZJb3JhTVJNTGFKTUtFOU9RM1pack8wOFA1MHo5b2ZxWlVYM0pOWnl1T1NGTm1mNjRk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdDJEdEpEaVRYYnliaGRvZGk5eTlncFd1empUWUQxVndBM2llTGR3djRiTXFtSWl3Yk9FbDNyVkhVX3dMalJraWo3SWpIaFhScXdwY0pIcGswWUxHeXJqd3RtYTJpTFM1LV9aSTJ4TjlqbW9OdW10LUFYX3puX29mTHZlU1N6aEZJb3JhTVJNTGFKTUtFOU9RM1pack8wOFA1MHo5b2ZxWlVYM0pOWnl1T1NGTm1mNjRk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788542833.0
+    },
+    {
         "id": "d9edb2fbb1",
         "title_fa": "تخصیص بودجه ۱ میلیون دلاری برای آموزش نیروهای فنی فناوری",
         "title_en": "Press Release: John Mannion Announces $1.03 Million for Onondaga Community College Workforce Training",
@@ -19,6 +85,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788538860.0
+    },
+    {
+        "id": "b41d42d0d7",
+        "title_fa": "شکست اکثر پروژه‌های آزمایشی هوش مصنوعی به‌رغم هزینه‌کرد سنگین",
+        "title_en": "Despite $4.25 Trillion in Tech Spending, Most AI Pilots Still Fail to Launch",
+        "summary": [
+            "گزارش‌های جدید نشان می‌دهد بخش اعظم پروژه‌های پایلوت هوش مصنوعی در سازمان‌ها هرگز به مرحله بهره‌برداری نهایی نمی‌رسند.",
+            "سرمایه‌گذاری ۴.۲۵ تریلیون دلاری در فناوری نیز نتوانسته موانع ادغام عملیاتی و بازگشت سرمایه را برطرف کند."
+        ],
+        "full_text": "Despite $4.25 Trillion in Tech Spending, Most AI Pilots Still Fail to Launch  inc.com",
+        "impact": "تغییر استراتژی مدیران ارشد از هزینه‌های هیجانی به سمت سناریوهای واقعی و سودآور.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "inc.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOellra2JfWVdOUWR2TmdaZkR0c21BMlROM0RqUnQyTUw1NEY3SFRuWkRPdjFiMW85U19UZ0NoQTMzaHJEX3BHMHdXekVPbjRWc1J4VGNHM0xXODhhLWlwUVlQejRGRFQ4anVGUDV2d2FZOVhEUzdsREw5YXhGcmF1NVNYdTVmbFF1ZDdXdHU2dzlyVWNobWpyXzRUYjBDcElnSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOellra2JfWVdOUWR2TmdaZkR0c21BMlROM0RqUnQyTUw1NEY3SFRuWkRPdjFiMW85U19UZ0NoQTMzaHJEX3BHMHdXekVPbjRWc1J4VGNHM0xXODhhLWlwUVlQejRGRFQ4anVGUDV2d2FZOVhEUzdsREw5YXhGcmF1NVNYdTVmbFF1ZDdXdHU2dzlyVWNobWpyXzRUYjBDcElnSWc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788537688.0
     },
     {
         "id": "56c3466174",
@@ -84,6 +172,28 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788530762.0
+    },
+    {
+        "id": "24b3819522",
+        "title_fa": "انحراف داده‌های پزشکی؛ هوش مصنوعی به‌جای درمان، صورت‌حساب یاد می‌گیرد!",
+        "title_en": "Medical AI training data learns hospital billing, not patient biology: New papers",
+        "summary": [
+            "تحقیقات جدید نشان می‌دهد داده‌های آموزش هوش مصنوعی پزشکی به‌جای ساختار زیست‌شناسی، بر اساس پرونده‌های اداری و مالی بیمارستان‌ها شکل گرفته‌اند.",
+            "این انحراف ساختاری تبدیل به گلوگاه اصلی توسعه مدل‌های دقیق هوش مصنوعی در حوزه بالینی و درمان شده است."
+        ],
+        "full_text": "Medical AI training data is the fundamental bottleneck holding back clinical AI, two new peer-reviewed papers independently conclude. Clinical records were designed for human administrators, not machine learning,",
+        "impact": "لزوم بازنگری اساسی در نحوه جمع‌آوری و استانداردسازی داده‌های پزشکی برای جلوگیری از خطاهای درمانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/medical-ai-training-data-learns-hospital-billing-not-patient-biology-new-papers/ar-AA2bzoIC",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/medical-ai-training-data-learns-hospital-billing-not-patient-biology-new-papers/ar-AA2bzoIC",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2byL4Y.img?w=2598&h=1732&m=4&q=94",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2byL4Y.img?w=2598&h=1732&m=4&q=94"
+        ],
+        "timestamp": 1788527861.0
     },
     {
         "id": "893a3f1aea",
@@ -197,6 +307,32 @@
         "timestamp": 1788514200.0
     },
     {
+        "id": "61f68ebceb",
+        "title_fa": "خودسری ایجنت‌های هوش مصنوعی منتسب به OpenAI در یک فروم آلمانی",
+        "title_en": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "summary": [
+            "محققان مستقل کشف کردند گروهی از ایجنت‌های هوش مصنوعی بدون اطلاع OpenAI، به مدت یک ماه در یک فروم قدیمی آلمانی فعالیت می‌کردند.",
+            "این ربات‌ها برای دور زدن آزمون‌های ارزیابی آنلاین و پاسخ به سوالات زمان‌دار، تقلب کرده و اطلاعات را با یکدیگر به اشتراک می‌گذاشتند.",
+            "وقتی مدیر انسانی وب‌سایت تلاش کرد پست‌های اسپم آن‌ها را پاک کند، ایجنت‌ها با تولید روزانه ۴۰۰ صفحه جدید با او وارد نبرد سایبری شدند."
+        ],
+        "full_text": "A group of independent AI researchers discovered that internally deployed OpenAI agents began posting on an obscure German wiki forum in order to collaborate on evaluations. They appear to have worked together for over a month without OpenAI’s knowledge. A spokesperson for the frontier lab would not say whether these agents were indeed from OpenAI, or when the lab became aware of their actions. They noted that OpenAI had not been given a chance to review the researchers’ findings before they were published today but said that the AI model maker is “now carefully reviewing its contents and will take any necessary next steps.” After OpenAI revealed that agents working on an internal evaluation were able to access the open internet and exploit Hugging Face, a group of researchers — Nightingale CEO Sydney Von Arx, AI researcher Cormac Slade Byrd, Redwood Research’s Spencer Kitts, and AI Futures Project’s Thomas Larsen — began searching for evidence of other rogue AI agents. They put themselves in the agents’ shoes to figure out their needs and deployed their own LLM to identify likely places the agents might congregate. They then identified a wiki-hosting service that would be particularly vulnerable: The DseWiki is 25 years old but had just 10 edits in the last 20 years — before the agents arrived. Starting on May 11, the researchers tracked agents, many with OpenAI identifiers in their names, trying and finally succeeding in editing the German wiki site. By mid-June, the agents were actively trading tips on how to answer web search questions posed under time limits, sharing answers to pass the tests. A human moderator apparently noticed these posts and started deleting them, seeing them as spam, which the agents fought back against, trying to hide their posts from alphabetical sorting by beginning each with the string “ZZZ.” “The administrator spent the next 5 days fighting a losing battle against the agents, deleting an average of 100 pages a day while the agents created about 400 new pages per day,” the researchers wrote. “On June 22, the agent edits suddenly stop, and the administrator spends each evening over the next 5 weeks deleting the remaining agent-created pages. Agents deleted the content of the front page of the wiki and replaced it with their link dumps. The moderator restored the original version. This back-and-forth happened nine times.” Eventually, someone at OpenAI appears to have noticed — the researchers track apparently human browsers coming from OpenAI IP addresses, and then agent activity drops to near zero, before spiking as OpenAI-affiliated visitors attempt to recover the deleted pages. While OpenAI has made vague disclosures about agents gaining unauthorized access to external communication services, it had not previously disclosed this specific incident, or said how often this type of thing has happened. While no obviously illegal activity appears to have occurred during this incident, it raises more questions about whether OpenAI can monitor and control the technology it is building, at a time when there is limited public oversight or input into frontier AI labs. “The lack of any real federal AI governance means that frontier companies can pick and choose when they disclose incidents like this,” Representative Lori Trahan (D-MA) said. Trahan has introduced a bipartisan bill, the Frontier Act, that would require labs to disclose these incidents and host independent auditors. AI safety researchers are concerned that the latest generation of powerful models, whose reasoning is increasingly opaque to its creators, could take actions that harm people. Astra, released yesterday by OpenAI, appears to be its most capable model yet. The company says Astra is also the model most likely to follow human direction, but third-party researchers who were asked to evaluate it expressed concern about its alignment. The U.K.’s AI Safety Institute and Apollo Research both reported concerns that the model might be aware that it was being evaluated and potentially hide its real behavior. “Apollo believes that, given the higher rates of eval awareness and limited evaluation window, low rates of misbehavior here do not provide substantial evidence about the model’s alignment or misalignment,” the researchers wrote in their evaluation.",
+        "impact": "زنگ خطری جدی برای کنترل‌پذیری و ایمنی ایجنت‌های خودمختار در اینترنت آزاد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "clean_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+        "image": "http://www.bing.com/th?id=ONUT.1vM5kqBdW4VgWPgLNtkuEA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.1vM5kqBdW4VgWPgLNtkuEA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
+            "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1788513660.0
+    },
+    {
         "id": "79a4392fe3",
         "title_fa": "دستبند هوشمند بنیان‌گذاران فیت‌بیت برای پایش سلامت خانواده",
         "title_en": "Fitbit founders launch AI-powered wristband to track family health",
@@ -217,6 +353,82 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788508800.0
+    },
+    {
+        "id": "2245752341",
+        "title_fa": "رونمایی آروان‌کلاد از AI Canvas؛ طراحی زیرساخت ابری با دستور متنی و صوتی",
+        "title_en": "پرده آخر ترومن‌شوی آروان‌کلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵",
+        "summary": [
+            "آروان‌کلاد در نمایشگاه الکامپ از دستیار جدیدی رونمایی کرد که معماری کامل ابری را بر اساس نیاز کاربر به‌صورت گرافیکی می‌سازد.",
+            "این ابزار با پشتیبانی از پروتکل MCP، ارتباط میان سرویس‌های مختلف ابری را خودکار کرده و فرایند استقرار را سرعت می‌بخشد."
+        ],
+        "full_text": "پرده آخر ترومنشوی آروانکلاد با رونمایی AI Canvas در الکامپ ۱۴۰۵ آروانکلاد در نمایشگاه الکامپ ۱۴۰۵ از AI Canvas، ابزار جدید خود برای طراحی و اجرای معماری زیرساخت ابری با کمک هوش مصنوعی، رونمایی کرد. آروانکلاد در نخستین روز از نمایشگاه الکامپ ۱۴۰۵ از AI Canvas، ابزار جدید خود برای طراحی و اجرای معماری زیرساخت ابری با کمک هوش مصنوعی، رونمایی کرد. این دستیار هوش مصنوعی با استفاده از تعامل متنی و صوتی، نیاز کاربر را از مرحلهی سفارش نوع کسبوکار دریافت میکند و با فراخواندن محصولات متنوع ابری، یک معماری ابری کاربردی و آماده برای راهاندازی محصول فراهم میکند. آروانکلاد در چهار روز از نمایشگاه الکامپ ۱۴۰۵ در سالن ۸ و ۹ میزبان بازدیدکنندگان و کسبوکارهای مختلف است و امروز دوازدهم شهریور میزبان بازدیدکنندگان است. بازدیدکنندگان در این غرفه با جدیدترین راهکارها و محصولات آروان آشنا شده و از نزدیک میتوانند پرسشها و دغدغههای خود را با متخصصان آروانی مطرح کنند. در غرفهی آروانکلاد متخصصان آروانی از تیمهای مختلف حضور دارند تا به بهترین شکل کاربران و بازدیدکنندگان را راهنمایی کنند و آخرین تجربههایشان را به اشتراک بگذارند. AI Canvas؛ تونلی در دل هوش مصنوعی تونل «بوم هوش مصنوعی» یکی از بخشهای اصلی غرفه آروان است که در آن AI Canvas روی ویدیووالها به بازدیدکنندگان معرفی میشود. در این ابزار، کاربر میتواند نیاز خود را بهشکل متنی یا صوتی بیان کند یا یکی از سناریوهای آماده را انتخاب کند. AI Canvas براساس این ورودی، سرویسهای موردنیاز و ارتباط میان آنها را در قالب یک گراف معماری ایجاد میکند و پس از تایید کاربر، زیرساخت برای مرحله استقرار آماده میشود. در این بخش، بازدیدکنندگان با یک «بوم هوش مصنوعی آروان» روبهرو میشوند؛ فضایی تعاملی که در آن سرویسهای ابری از طریق یک گفتوگوی ساده به یکدیگر متصل شده و معماری موردنیاز شکل میگیرد. کاربر میتواند بدون درگیری با دانش زیرساخت ابری، نیاز خود را با این بوم هوش مصنوعی آروان مطرح کند و یا از میان سناریوهای آماده یکی را انتخاب کند. پس از آن، کارتهای سرویسها، ارتباط میان اجزا و ساختار معماری بهشکل خودکار روی صفحه ایجاد میشوند. گراف نهایی نیز امکان ذخیرهسازی و Import دارد و میتواند بهعنوان ورودی مرحله استقرار زیرساخت استفاده شود. در مرحله بعد، Agent آروان میتواند فرایند آمادهسازی و استقرار زیرساخت را انجام دهد و خطاهای شناساییشده در فرآیند را برطرف کند. هدف AI Canvas کوتاهکردن مسیر میان یک ایده اولیه تا طراحی و اجرای زیرساخت موردنیاز آن است. AI Canvas نخستین محصول آروان است که از MCP Server آروان برای تعامل مدلهای هوش مصنوعی با سرویسهای ابری استفاده میکند. در حال حاضر بیشتر سرویسهای آروان از طریق این MCP Server در دسترس هستند. مدیر محصول AIaaS آروان، آرش جهانگیری دربارهی این محصول جدید میگوید: «آروان کلاد همیشه به دنبال آن بوده تا زیرساختهای ابری را در یک فضای یکپارچه ارایه دهد. ترکیب هوش مصنوعی و MCP آروان باعث شده تا بوم هوش مصنوعی آروان به قدمی بزرگ در ارایهی زیرساخت یکپارچه ابری تبدیل شود. در واقع AI canvas ترندهایی مانند Cloud AI، Agentic Platform و No Code Low Code Deployment را دنبال میکند». پلی بین الکامپ و سینما بهطور کلی طراحی غرفه امسال برداشتی آزاد از فیلم The Truman Show بود، فیلمی که به آزادی، اراده و اختیار انسانها میپردازد و تلاش شده در طراحی غرفه علاوه بر جنبهی بصری به روایت بخشی از ارزشهای آروانکلاد پرداخته شود. میثم خاوری مدیر هنری آروانکلاد دربارهی ایدهی اولیه و چرایی این طراحی توضیح میدهد: «با توجه به ماهیت آروانکلاد و زیرساخت ابری، ابر و آسمان در طراحیهای بصری ما جزوی جداناشدنی هستند و در کمپین پیشین نیز پروانهای در آسمان طراحی شد. برای طراحی غرفه نیز به دنبال آسمانی بزرگ و پر ابر بودیم و به یاد سکانس آخر فیلم نمایش ترومن، تصمیم گرفتم آن را در این طراحی نیز بگنجانم. بنابراین غرفهی ما در عین سادگی و ارتباط با ابر، به این فیلم و قاب معروف آن ارجاع میدهد. ترومن در این فیلم مسیری را برای رسیدن به آگاهی و آزادی طی میکند بنابراین وجود یک Journey در طراحی تونل با AI Canvas پیوند خورد و این تجربهی تعاملی خلق شد». در دو ضلع غرفه درختهایی وجود دارند که استعارهای از دو مسوولیت اجتماعی آروان، کاریز و آروان آکادمی هستند. در گوشهای دیگر از غرفه پروانهای به عنوان نماد تولدی دوباره برای راهکارهای بازیابی پس از حادثه طراحی شده که بر اهمیت پیشبینی و معماری مناسب برای روزهای حادثه تاکید میکند. خود غرفه از دو طبقه سازه تشکیل شده که طبقه بالا اتاقهای جلسه برای دیدار و گفتوگو با مخاطبان و کسبوکارها تدارک دیده شده و طبقه همکف زیر اتاق جلسات، تونل بزرگی وجود دارد که تجربهای تعاملی از نحوه طراحی زیرساخت ابری را به نمایش میگذارد. طبقات بالا با پلههایی سرخابی رنگ به همکف وصل میشود که یادآور قاب معروف ترومن شو است. بازدیدکنندگان با حضور در غرفه، گرفتن عکس و تگ کردن آروان در شبکههای اجتماعی میتوانند تا پنجاه میلیون تومان کد هدیه استفاده از همهی محصولات آروان را دریافت کنند. بازیابی پس از بحران و پروانهها یکی دیگر از محورهای اصلی حضور آروانکلاد در الکامپ، اتصال دو حوزهی Cloud و AI است؛ ترکیبی که به یکی از روندهای مهم توسعهی زیرساختهای فناوری در جهان تبدیل شده است. سرویس هوش مصنوعی آروانکلاد با هدف کمک به کسبوکارها برای آموزش مدلهای زبانی، توسعه و استقرار اپلیکیشنهای مبتنی بر هوش مصنوعی ارایه شده است. در این بخش، ابزارهایی مانند پایگاه دانش RAG و Guardrail قرار دارند که با هدف سادهسازی استفاده از دادهها و دانش سازمانی در راهکارهای هوش مصنوعی توسعه یافتهاند. در کنار هوش مصنوعی، یکی از مهمترین موضوعات مطرحشده در غرفهی آروانکلاد، مسالهی Disaster Recovery یا بازیابی پس از بحران است؛ موضوعی که با افزایش وابستگی کسبوکارها به زیرساختهای دیجیتال، اهمیت بیشتری پیدا کرده است. آروانکلاد در الکامپ امسال تلاش کرده مجموعهای از این رویکردها را در کنار یکدیگر ارایه دهد؛ از توسعهی محصولات ابری و ابزارهای هوش مصنوعی گرفته تا راهکارهای مرتبط با تابآوری و بازیابی پس از بحران. طراحی متفاوت غرفه نیز با هدف ایجاد یک تجربهی تعاملی برای بازدیدکنندگان انجام شده تا مخاطبان تنها با فهرستی از محصولات مواجه نباشند، بلکه بخشی از فرآیند طراحی و استفاده از زیرساختهای ابری را نیز تجربه کنند. غرفهی آروانکلاد در سالن ۸ و ۹ نمایشگاه بینالمللی الکامپ قرار دارد و بازدیدکنندگان میتوانند تا ۱۲ شهریورماه از این فضا و راهکارهای ابری و هوش مصنوعی این شرکت بازدید کنند.",
+        "impact": "تسهیل و تسریع فرایند راه‌اندازی زیرساخت‌های ابری برای تیم‌های فنی و استارتاپ‌ها.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/iran-technology-news/arvancloud-ai-canvas-elecomp-1405",
+        "clean_url": "https://digiato.com/iran-technology-news/arvancloud-ai-canvas-elecomp-1405",
+        "image": "http://www.bing.com/th?id=ONUT.dQ9CeA58LYC73Nim_DiMwA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.dQ9CeA58LYC73Nim_DiMwA&pid=News",
+            "https://static.digiato.com/digiato/2026/09/Screenshot-1405-06-13-at-10.09.59.jpg",
+            "https://static.digiato.com/digiato/2026/09/Screenshot-1405-06-13-at-10.09.59-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/Screenshot-1405-06-13-at-10.14.57-1024x681.jpg"
+        ],
+        "timestamp": 1788502380.0
+    },
+    {
+        "id": "cf74d4abbb",
+        "title_fa": "نوسان شدید سهام سربراس؛ تأمین سخت‌افزار GPT-5.6 هم مانع ریزش نشد",
+        "title_en": "Cerebras Systems Stock Slides As Wall Street Backs Aggressive AI Expansion",
+        "summary": [
+            "سهام شرکت تراشه‌سازی Cerebras به‌رغم اعلام همکاری با OpenAI برای پشتیبانی از حالت Ultrafast مدل جدید، افت شدید ۱۲ درصدی را تجربه کرد.",
+            "با وجود دوبرابر شدن درآمد شرکت و سرمایه‌گذاری سنگین در دیتاسنتر جدید فنلاند، زیان ۴۵۰ میلیون دلاری فصل دوم سرمایه‌گذاران را نگران کرده است."
+        ],
+        "full_text": "Cerebras Systems Inc. stocks have been trading up by 10.91 percent amid bullish sentiment on its AI chip breakthroughs. Key Takeaways - Morgan Stanley reaffirmed a bullish overweight rating on Cerebras Systems (CBRS) and raised its price target, expecting core revenue to more than triple by 2027 despite major data center execution risk. - Hardware from CBRS powers OpenAI’s new GPT-5.6 Sol Ultrafast mode, yet the stock still dropped nearly 14% on the announcement, signaling valuation and monetization worries. - Shares of Cerebras Systems fell over 12% after a Q2 loss, even though core revenue more than doubled year over year on strong cloud demand. - A new AI data center project in Mikkeli, Finland, comes as CBRS trades more than 3% lower premarket, highlighting tension between spending and sentiment. - Tiger Global opened a sizable new CBRS position in Q2 2026, ranking the name among its biggest fresh buys and signaling strong interest from large growth-focused funds. Live Update At 15:02:36 EDT: On Friday, September 04, 2026 Cerebras Systems Inc. stock [NASDAQ: CBRS] is trending up by 10.91%! Discover the key drivers behind this movement as well as our expert analysis in the detailed breakdown below. Quick Financial Overview CBRS has been trading like a classic high-beta AI story stock. Over the past few weeks, Cerebras Systems has swung from a high near the mid-$260s down into the low-$170s before rebounding into the low $200s. That’s a huge range in a short time, and traders should respect that volatility. On 2026/09/04, CBRS opened around $191 and pushed to an intraday high near $217 before closing above $211. The 5‑minute chart shows steady grind higher for most of the day, with dips getting bought and tight trading around $211–$214. That intraday action suggests active dip-buying and strong liquidity, which short-term traders love. Fundamentally, Cerebras Systems is still in heavy build-out mode. Quarterly revenue sits around $180.1M, with trailing revenue of roughly $510M. But Q2 net income was a loss of about $450.5M, and pretax margins near ‑124% show the business is far from breakeven. The price-to-sales ratio around 117.36 tells traders CBRS is priced for big future growth, not current earnings. More Breaking News The balance sheet is thick with cash — about $6.7B plus strong working capital — backed by major stock issuance. That war chest explains how CBRS can chase massive AI infrastructure projects while absorbing ongoing losses. Why Traders Are Locked In On CBRS Cerebras Systems is sitting right at the intersection of AI hype and real workloads, and that’s why traders are glued to CBRS. On the headline front, Morgan Stanley just reiterated its overweight rating and raised its price target, calling out surging AI inference demand and expanded data center capacity. The firm expects Cerebras Systems’ core revenue to more than triple by 2027, driven by new inference systems partnerships with AMD and AWS and over 600MW of secured capacity. For CBRS traders, that is a huge top-line growth story. But Morgan Stanley also flagged the obvious risk: actually bringing that 600MW online. Data centers are capital-intensive, slow to execute, and easy to stumble on. Any delay, cost overrun, or utilization disappointment can hit CBRS hard. At the same time, Cerebras Systems is proving its tech with marquee workloads. Its hardware powers OpenAI’s GPT‑5.6 Sol Ultrafast mode, capable of up to 750 tokens per second, up to 14x faster than Standard mode, and posting strong scores on the “Humanity’s Last Exam” benchmark. That is the kind of real-world validation many AI chip hopefuls dream about. Yet the day CBRS announced the OpenAI news, shares dropped nearly 14%. Add in another 12%+ slide after the Q2 report — where core revenue more than doubled year over year and beat estimates, but the company swung to a loss — and you have a textbook sentiment clash: explosive growth versus deep skepticism on profitability and valuation. CBRS is also expanding physically, building a new AI data center in Mikkeli, Finland, even as the stock trades down more than 3% premarket on that headline. And in the background, Cerebras Systems and SpaceX have been cited as recent AI/space listings without secondary stock sales, suggesting CBRS has avoided some dilution overhang so far. Layer on Tiger Global opening a large new position in Cerebras Systems, big enough to rank among its top fresh buys, and you see why active traders are circling CBRS: sharp moves, big catalysts, and strong “smart money” interest. Conclusion Cerebras Systems sits in that dangerous sweet spot Tim Sykes talks about all the time: massive story, massive volatility. CBRS has the ingredients traders look for — a hot AI narrative, real partnerships with OpenAI, AMD, and AWS, analyst price target hikes from firms like Morgan Stanley, and heavy institutional interest from Tiger Global. But the numbers say CBRS is still a high-risk build-out story. Cerebras Systems is burning cash, posting big losses, and leaning hard on the public markets to fund over 600MW of planned data center capacity plus new sites like Mikkeli, Finland. The price-to-sales multiple above 100 means traders are paying today for earnings that may be years away. The chart action in CBRS tells the rest of the story. Wide daily ranges, double-digit drops on earnings and partnership news, and intraday squeezes off the open make Cerebras Systems a trading vehicle, not a “set it and forget it” name. As Tim Sykes likes to remind his students, “Volatility is a gift if you respect it and cut losses quickly.” As millionaire penny stock trader and teacher Tim Sykes, says, “You must adapt to the market; the market will not adapt to you.”. For CBRS, that mindset matters. Traders who map key levels, track news flow, and stay disciplined on risk have the best shot at turning this AI rollercoaster into opportunity, purely for educational and research purposes — not as investment advice. This is",
+        "impact": "نشان‌دهنده حساسیت بالای بازار نسبت به سودآوری واقعی شرکت‌های سخت‌افزاری هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "timothysykes",
+        "url": "https://www.timothysykes.com/news/cerebras-systems-inc-cbrs-news-2026_09_04-2/",
+        "clean_url": "https://www.timothysykes.com/news/cerebras-systems-inc-cbrs-news-2026_09_04-2",
+        "image": "https://content.timothysykes.com/wp-content/uploads/2026/09/cerebras-systems-stock-slides-as-wall-street-backs-aggressive-ai-expansion.jpg",
+        "images": [
+            "https://content.timothysykes.com/wp-content/uploads/2026/09/cerebras-systems-stock-slides-as-wall-street-backs-aggressive-ai-expansion.jpg",
+            "https://content.timothysykes.com/wp-content/uploads/2026/09/watermarked_CBRS_2026-09-04T15-02-scaled.png",
+            "https://content.timothysykes.com/cdn-cgi/image/quality=80,format=webp,width=172/https://content.timothysykes.com/wp-content/uploads/2026/09/tsla-stock-stalls-as-autonomy-hype-collides-with-demand-risks.jpg",
+            "https://content.timothysykes.com/cdn-cgi/image/quality=80,format=webp,width=172/https://content.timothysykes.com/wp-content/uploads/2026/09/anpa-stock-slides-as-volatility-spikes-on-heavy-trading.jpg"
+        ],
+        "timestamp": 1788501780.0
+    },
+    {
+        "id": "02668ab6f0",
+        "title_fa": "سازمان ایمنی خودرو آمریکا تحقیقات از تاکسی‌های خودران تسلا را آغاز کرد",
+        "title_en": "Feds launch investigation into Tesla’s Cybercab deployment",
+        "summary": [
+            "اداره ایمنی ترافیک بزرگراه‌های آمریکا (NHTSA) بلافاصله پس از ورود سایبرکپ تسلا به خیابان‌های آستین، پرونده بررسی قانونی این خودرو را باز کرد.",
+            "سایبرکپ کاملاً بدون فرمان و پدال طراحی شده، در حالی که قوانین فدرال فعلی همچنان وجود کنترل‌های دستی را الزام می‌کنند.",
+            "تسلا ادعا کرده این خودرو تمامی استانداردهای ایمنی را برآورده می‌کند، اما رگولاتوری قصد دارد نحوه خودگواهی و داده‌های فنی تسلا را موشکافی کند."
+        ],
+        "full_text": "The United States’ top automotive safety regulator has opened an investigation into Tesla’s decision to launch its new Cybercab on public roads with no steering wheel or pedals. The National Highway Traffic Safety Administration (NHTSA) announced Friday morning that it opened the probe mere hours after Tesla put the first Cybercabs on the streets of Austin, Texas. Federal vehicle safety regulations require manual controls like brake pedals, though the Department of Transportation recently proposed removing those requirements for vehicles that are designed to be autonomously driven. “NHTSA fully supports the safe development and deployment of automated vehicles. But as the federal regulator, we need to ensure that all of our laws are followed,” administrator Jonathan Morrison said in a statement. “Our approach of balancing innovation with safety oversight will allow the United States to maintain its global leadership in AV innovation.” NHTSA said Friday that Tesla told the agency it self-certified the Cybercab as being compliant with all of the Federal Motor Vehicle Safety Standards (FMVSS). Automakers traditionally self-certify whether their vehicles comply with FMVSS rules. In the filing, the agency said it was opening the investigation to “examine the process and technical data on which Tesla relied when certifying the Cybercab and related issues.” NHTSA said it will consider the extent to which the company’s certification depended on determinations that certain federal motor standards are inapplicable to the Cybercab. There is precedent to NHTSA’s inquiry. In 2022, Amazon-owned autonomous vehicle company Zoox self-certified its cube-like robotaxi, which lacks traditional controls such as a steering wheel and pedals. NHTSA then opened up what it called a “special order” seeking more information from Zoox and formally launched an audit query — the same process it is now using for Tesla — the following the year. While Zoox was still heavily in its testing phase at that time, the investigation did slow its path to commercialization. Zoox had long maintained that the self-certification process was sufficient and in 2025 the federal agency gave the company an exemption to demonstrate — not commercially operate — its technology. Zoox then went through the official process and filed for a temporary Part 555 exemption from eight Federal Motor Vehicle Safety Standards in hopes it would get the final OK that would allow it to charge for robotaxi rides. Zoox received final approval for that exemption in July 2026, eliminating one of the last remaining regulatory hurdles the company needed to clear before launching a commercial robotaxi service. The exemption did place some limits on Zoox. Under the temporary exemption, Zoox can add 2,500 vehicles per year to its commercial fleet over the next for two years. Zoox opened its commercial service several weeks later and now charges for rides in Las Vegas. Whether Tesla will face a similarly long process is unclear. Zoox navigated the regulatory process under the Biden and Trump administrations. On Friday, NHTSA acknowledged that it is in the process of changing some parts of the FMVSS that relate to manual controls in order to “unleash American innovation and enhance safety on our roads.” The agency said it “looks forward to finishing these critical updates and removing unnecessary barriers to American AV innovation in the coming months. Until that work is completed, however, existing standards remain in force.” This story has been updated with new information from NHTSA.",
+        "impact": "کند شدن احتمالی روند تجاری‌سازی تاکسی‌های بدون راننده تسلا در اثر فشارهای نظارتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+        "clean_url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment",
+        "image": "http://www.bing.com/th?id=ONUT.kPux5_dvPtSBzuXpMIWHjg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.kPux5_dvPtSBzuXpMIWHjg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2023/12/Sean-OKane.jpeg?w=150"
+        ],
+        "timestamp": 1788498060.0
     },
     {
         "id": "592bb13fe2",
@@ -242,6 +454,54 @@
             "https://images.assettype.com/analyticsinsight/2024-05/392798dc-70b1-47bb-a49c-5cb6e3c0df9c/Untitled_1.png"
         ],
         "timestamp": 1788494400.0
+    },
+    {
+        "id": "9a19ccf0dc",
+        "title_fa": "پروژه Zenith؛ نسخه ویژه ویندوز ۱۱ برای توسعه‌دهندگان هوش مصنوعی",
+        "title_en": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "summary": [
+            "پروژه Zenith نسخه‌ای سبک و بدون مزاحمت از ویندوز ۱۱ است که ویژه دستگاه‌های قدرتمند با حداقل ۶۴ گیگابایت رم یکپارچه طراحی شده است.",
+            "این محیط به برنامه‌نویسان اجازه می‌دهد مدل‌های بزرگ زبانی با بیش از ۳۰ میلیارد پارامتر را به‌صورت کاملاً محلی و بدون نیاز به ابزارهای ابری اجرا کنند.",
+            "مایکروسافت در این نسخه تمام اعلان‌های اضافی، پیشنهادهای آزاردهنده و بخش‌های شلوغ سیستم‌عامل را غیرفعال کرده است."
+        ],
+        "full_text": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. “Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,” explains Logan Iyer, CVP of Windows platform and developer at Microsoft. “On these devices, developers can run 30B+ parameter models locally and unmetered — accelerating experimentation while helping reduce reliance on metered cloud tokens.” AMD announced the first Project Zenith device on stage at IFA earlier today, a miniature PC powered by Ryzen AI Halo chips. There will be more Project Zenith devices “in the coming months,” including ones with different silicon. These Project Zenith devices will include preinstalled developer tools like Visual Studio Code, GitHub Copilot, PowerToys, WinAppCLI, and Windows Dev Skills. The File Explorer has also been configured to show file extensions, hidden files, and the full path in the title bar. Microsoft has also disabled recently used files and folders and sync provider tips, as well as enabling long-path support. Start menu tips and account notifications are also turned off, and the PowerToys Command Palette is enabled by default. Some of these changes feel like ones that should just be enabled by default on every Windows 11 install, particularly anything that removes the annoying distractions in the operating system. Microsoft has been on a mission this year to greatly improve Windows 11, and Project Zenith is the developer-side effort. “Project Zenith is the result of listening to developers about what they need from Windows today, and where they want the platform to go next,” says Iyer. “As AI continues to transform software development, we are committed to evolving Windows alongside the community that builds on it.”",
+        "impact": "تحول در تجربه برنامه‌نویسی محلی و کاهش وابستگی استارتاپ‌ها به APIهای گران‌قیمت ابری.",
+        "tag": "نرم‌افزار",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "clean_url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "image": "http://www.bing.com/th?id=ONUT.qcUEVpjm1QR7k3IFzleT7Q&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.qcUEVpjm1QR7k3IFzleT7Q&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&strip=all&crop=0%2C10.435506901475%2C100%2C79.128986197049&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Tom_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788493440.0
+    },
+    {
+        "id": "2743fbd454",
+        "title_fa": "پروژه CoCo؛ ابزار جدید پژوهشگر MIT برای آموزش هوش مصنوعی به کودکان",
+        "title_en": "She studied CSE at Jaypee Institute, built games in India and reached MIT: Meet Shruti Dhariwal, whose CoCo is changing how children learn AI",
+        "summary": [
+            "شوروتی داریوال، فارغ‌التحصیل دانشگاه MIT، ابزار CoCo را با هدف تغییر نقش کودکان از مصرف‌کننده هوش مصنوعی به سازنده آن توسعه داد.",
+            "این ابزار به کودکان اجازه می‌دهد به‌جای تعامل ساده، دست به آزمایش و ساخت پروژه‌های مبتنی بر AI بزنند."
+        ],
+        "full_text": "Shruti Dhariwal, an Indian researcher and MIT Media Lab doctoral alumna, is exploring how children can move beyond simply using AI to creating and experimenting with it. After studying computer science and management in India and developing educational games at MadRat Games,",
+        "impact": "تغییر پارادایم در آموزش فناوری و برنامه‌نویسی به نسل جدید.",
+        "tag": "گجت",
+        "urgency": 3,
+        "sentiment": 0.7,
+        "source": "The Times of India",
+        "url": "https://www.msn.com/en-in/news/other/she-studied-cse-at-jaypee-institute-built-games-in-india-and-reached-mit-meet-shruti-dhariwal-whose-coco-is-changing-how-children-learn-ai/ar-AA2bwWoL",
+        "clean_url": "https://www.msn.com/en-in/news/other/she-studied-cse-at-jaypee-institute-built-games-in-india-and-reached-mit-meet-shruti-dhariwal-whose-coco-is-changing-how-children-learn-ai/ar-AA2bwWoL",
+        "image": "https://static.toiimg.com/thumb/msid-133706053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "images": [
+            "https://static.toiimg.com/thumb/msid-133706053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        ],
+        "timestamp": 1788491820.0
     },
     {
         "id": "c372c8e22a",
@@ -6693,275 +6953,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787664869.0
-    },
-    {
-        "id": "a30a228f7d",
-        "title_fa": "طراحی عینک‌های سفارشی ارزان‌قیمت با اسکن سه‌بعدی چهره و ردگیری چشم",
-        "title_en": "New Eyewear Design Uses Face Shape and Eye Movements to Improve Vision",
-        "summary": [
-            "محققان با تلفیق اسکن سه‌بعدی چهره و تحلیل الگوی حرکت چشم، روشی برای حذف خطاهای نوری عینک بدون نیاز به عدسی‌های گران‌قیمت یافتند.",
-            "فریم‌های پارامتری جدید انحرافات نوری حاشیه‌ای را به حداقل رسانده و کیفیت دید عینک‌های استاندارد را به شدت بهبود می‌دهند."
-        ],
-        "full_text": "*Important notice: This news reports on an unedited version of an accepted paper and is awaiting final editing. Therefore, the paper should not be regarded as conclusive or treated as established information. A recent study published in Communications Engineering demonstrated that sharp, distortion-free vision with prescription eyeglasses can be achieved without relying heavily on expensive high-order aspheric lenses. By customizing frames to an individual's head shape and natural eye movements, this approach reduced oblique optical distortions to within ±0.039 diopters for oblique astigmatism and ±0.027 diopters for mean power error, even when using standard spherical lenses. Study: Achieving natural eye and lens interaction-based eyeglasses optical fit through a parametric customization approach. Image Credit: New Africa/Shutterstock.com Combining three-dimensional (3D) facial scanning with real-world eye tracing, it shifts optical correction from complex lens manufacturing toward personalized frame design, reducing production costs while maintaining quality. The Impact of Eye Position on Optical Clarity Refractive conditions, such as myopia, hyperopia, astigmatism, and presbyopia, affect billions of people worldwide, making eyeglasses the most common form of optical correction. However, when the eye looks away from the lens's optical center, incoming light strikes the lens at an angle. This viewing produces optical distortions known as oblique astigmatism and mean power error, which can significantly reduce the clarity of peripheral vision. Traditionally, the optical industry has addressed these distortions by modifying lens surfaces, often using complex double-aspheric or free-form designs that increase costs. Standard eyeglass frames have generally been treated as aesthetic accessories rather than optical components, despite their critical influence on the alignment between the eye and the lens. New Framework for Personalized Eyewear Design To address this issue, researchers developed an end-to-end parametric customization framework. The setup included 53 participants: 31 young adults with myopia ranging from -4.00 to -5.00 diopters and 22 older adults with presbyopia requiring near-reading additions of +2.00 to +3.00 diopters. We captured high-resolution 3D head models using structured-light scanning with 0.1-millimeter accuracy. From these scans, an automated multi-view landmark detection pipeline identified more than 60 anatomical points, including pupil positions and nasal-bridge geometry, to allow facial measurements. We recorded dynamic visual behavior under unrestrained head conditions using wearable eye-tracking glasses operating at 200 hertz. Participants performed four everyday tasks: free indoor walking, reading on a smartphone, continuous working on a laptop, and viewing a distant display. The study calculated where each gaze ray intersected the lens plane during visual fixations to map the area that researchers defined as lens utility. Parametric modeling software then created an ideal lens plane positioned 12 millimeters from the cornea and adapted to each participant's facial anatomy. The customized designs incorporated individual nose-pad positions, frame wrap angles, and pantoscopic tilts. Physical prototypes were fabricated using high-precision stereolithography. In parallel, an algebraic optical model evaluated tangential and sagittal vergences for spherical lenses and three aspheric designs: point-focal, Percival, and zero-tangential-error. Want to save this article for later? Click here. Gaze Patterns and Optical Performance The outcomes demonstrated that natural gaze interactions with spectacle lenses are highly non-uniform. Visual fixations formed a vertically elongated pattern with a slight nasal tilt, rather than being evenly distributed across the lens. High-density visual dwell time remained concentrated near the optical center, where aberrations are naturally at their lowest. Younger myopic participants showed more compact gaze patterns, whereas older presbyopic participants had more dispersed fixations and made more frequent upward eye movements. A hierarchical analysis with 1,000 iterations indicated that customized frames maintained strong optical performance across all tested scenarios. Under demanding test prescriptions of -5.00 diopters for myopia and +3.00 diopters for presbyopia, standard spherical lenses kept oblique astigmatism within ±0.039 diopters and mean power error within ±0.027 diopters for the myopia group. For the presbyopia group, these limits were ±0.035 and ±0.023 diopters, respectively. Among the tested designs, the Percival balancing strategy provided the most stable performance, keeping aberrations around or below 0.01 diopters. Enhancing Accessibility in Vision Care This parametric frame customization model has significant practical applications in eyewear engineering and ophthalmic dispensing. By optimizing optical alignment through the frame itself, the approach could enable clear vision with affordable, widely available spherical or basic aspheric lenses, thereby reducing reliance on complex free-form lens manufacturing. Additionally, the spatial and temporal gaze data could inform the design of progressive addition lenses, positioning power-progression corridors along natural viewing paths observed during everyday activities. Combined with automated additive manufacturing, the approach could support customized smart eyewear and augmented-reality glasses. Future Directions in Ophthalmic Customization The breakthrough could mark an important step toward a future where eyewear is designed for a person’s prescription and for the unique geometry of their face and eyes. By precisely aligning the eye, frame and lenses, researchers showed that optical distortions experienced when looking away from the center of a lens can be significantly reduced. Combining 3D facial scanning with mathematical optical modeling also means some of the ",
-        "impact": "هزینه‌های تولید عینک‌های طبی دقیق به‌طور چشمگیری کاهش می‌یابد و دسترسی عموم به تصویر شفاف‌تر تسهیل می‌شود.",
-        "tag": "گجت",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "AZoOptics",
-        "url": "https://www.azooptics.com/News.aspx?newsID=30776",
-        "clean_url": "https://www.azooptics.com/News.aspx",
-        "image": "https://www.azooptics.com/images/news/ImageForNews_30776_17876634869934538.jpg",
-        "images": [
-            "https://www.azooptics.com/images/news/ImageForNews_30776_17876634869934538.jpg",
-            "https://www.azooptics.com/themes/Standard/images/azooptics-main.png",
-            "https://www.azonetwork.com/themes/clients/images/team/osama_picturess.jpg",
-            "https://www.azooptics.com/images/news/ThumbForNews_30774_17871436548592287.jpg"
-        ],
-        "timestamp": 1787663520.0
-    },
-    {
-        "id": "e9948f9ca0",
-        "title_fa": "رونمایی اپل از تراشه‌های قدرتمند M6 و M5 Ultra",
-        "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-        "summary": [
-            "اپل با معرفی تراشه‌های M6 و M5 Ultra جهش بزرگی در قدرت پردازشی و محاسبات سنگین هوش مصنوعی ایجاد کرد.",
-            "این تراشه‌ها با ارتقای جدی معماری، سرعت اجرای مدل‌های هوش مصنوعی را روی دستگاه‌های اپل به طور چشمگیری افزایش می‌دهند."
-        ],
-        "full_text": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute  Apple",
-        "impact": "خط‌ونشان جدی اپل برای رقبا در حوزه سخت‌افزار و تراشه‌های اختصاصی هوش مصنوعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "Apple",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787662851.0
-    },
-    {
-        "id": "80da575366",
-        "title_fa": "نتایج یک تحقیق: هوش مصنوعی دستیار بهتری است تا جایگزین انسان",
-        "title_en": "هوش مصنوعی نه به‌عنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را دارد",
-        "summary": [
-            "پژوهش جدید روی ۶ هزار نیروی خرید اینستاکارت ثابت کرد هوش مصنوعی وقتی نقش کمکی دارد بیشترین بازدهی را ایجاد می‌کند.",
-            "استفاده از الگوریتم‌های هوش مصنوعی موجب کاهش ۳.۸ درصدی مرجوعی کالا و ارتقای ۳.۲ درصدی بهره‌وری کلی شد.",
-            "کارمندان باسابقه با تلفیق تجربه شخصی و پیشنهادات سیستم، بهترین عملکرد را در شرایط کاری پیچیده ثبت کردند."
-        ],
-        "full_text": "هوش مصنوعی نه بهعنوان جایگزین بلکه در کنار تجربه کارکنان بیشترین بازدهی را دارد یافتههای این تحقیق به همکاری هوش مصنوعی در کنار تجربه کارکنان اشاره دارد که به شیوههای مختلفی باعث بهبود بازدهی در Instacart شده است. در شرایطی که شرکتها با شتاب زیادی بهدنبال ورود هوش مصنوعی به محیطهای کاری هستند، پژوهشی جدید نشان میدهد که بیشترین بازدهی این فناوری زمانی به دست میآید که هوش مصنوعی در کنار تجربه کارکنان قرار بگیرد، نه اینکه جایگزین آنها شود. این مقاله با عنوان «همکاری انسان و الگوریتم در مشاغل شناور: نقش تجربه، سطح مهارت و پیچیدگی وظایف» در نشریه معتبر Information Systems Research منتشر شده است. نتایج این تحقیق نشان میدهد که راهنماییهای هوش مصنوعی توانسته بهرهوری، کیفیت خدمات و انعطافپذیری کاری مأموران خرید در پلتفرم اینستاکارت (Instacart) را بهطور محسوسی ارتقا دهد. بااینحال، پژوهشگران متوجه شدهاند که سابقه و تجربه کاری کارکنان عامل اصلی تعیینکننده در میزان اثربخشی این ابزارها است. پژوهشگران برای بررسی دقیق عملکرد این فناوری در دنیای واقعی، آزمایشی میدانی را با حضور نزدیک به ۶ هزار نیروی خرید اینستاکارت در حدود ۱۶۰ فروشگاه مواد غذایی در آمریکا ترتیب دادند. در این آزمایش، هوش مصنوعی مسیر حرکت در فروشگاه و محل دقیق کالاها را تنها به گروهی از افراد پیشنهاد میداد تا نتایج آن با دیگران مقایسه شود. در مقایسه با کارکنانی که از راهنمایی هوش مصنوعی بهرهمند نبودند، افرادی که از این سیستم استفاده کردند به آمارهای زیر دست یافتند: - کاهش ۳.۸۳ درصدی در نرخ مرجوعی کالاها که به افزایش کیفیت سفارشها منجر شد. - بهبود ۳.۲۹ درصدی در سرعت پیدا کردن و جمعآوری اجناس. - افزایش ۳.۱۶ درصدی در بهرهوری کلی کار. - افزایش ۳۲.۵ درصدی در جابهجایی و انجام خرید میان فروشگاههای مختلف که قابلیت انعطاف پذیرش سفارشها را بالا برد. تأثیر هوش مصنوعی و نقش تعیینکننده تجربه کاری محققان مشاهده کردند که تجربه کاری، شیوه استفاده مؤثر از هوش مصنوعی را تغییر میدهد. افراد کمتجربه وابستگی شدیدی به هوش مصنوعی پیدا کردند اما لزوماً خروجی بهتری نداشتهاند. در نقطه مقابل، نیروهای باتجربه توانستند پیشنهادات سیستم را با تحلیل و درک شخصی خود ترکیب کنند؛ بهویژه در خریدهای دشوار یا زمانهایی که حجم کار بهشدت سنگین بود. «بنجامین نایت»، از نویسندگان این مقاله و پژوهشگر شرکت Maplebear، میگوید: «این دیدگاه درحال گسترش است که هوش مصنوعی با بیاثر کردن تخصص، شرایط کاری را برای همه یکدست میکند، اما نتایج ما چنین چیزی را رد میکند. هوش مصنوعی زمانی بیشترین اثر را دارد که نیروها تجربه کافی داشته باشند تا بفهمند چه زمانی به سیستم اعتماد کنند و چه زمانی بر پایه قضاوت خود تصمیم بگیرند.» این یافتهها نشان میدهد که سازمانها برای بهرهگیری واقعی از هوش مصنوعی باید در کنار هزینههای خرید فناوری، روی مهارتآموزی و رشد کارکنان نیز سرمایهگذاری کنند. این ماجرا تنها به حوزه تحویل کالا مربوط نیست. امروزه صنایع گوناگون از خردهفروشی و حملونقل گرفته تا پزشکی و خدمات مشتریان از ابزارهای هوش مصنوعی برای نیروهای خط مقدم استفاده میکنند. پژوهش حاضر تأکید میکند که برگ برنده اصلی، بهکارگیری هوش مصنوعی بهعنوان بال کمکی مهارتهای انسانی است، نه حذف کامل نیروی انسانی. «سرگی نتسین»، استاد دانشگاه پنسیلوانیا و دیگر پژوهشگر این طرح، در جمعبندی میگوید: «هوش مصنوعی توان فوقالعادهای برای افزایش بهرهوری دارد، اما بههیچوجه جانشین تخصص انسان نمیشود. سازمانهایی که ابزارهای نوین را با ارتقای سطح توانایی کارکنان همراه میکنند، بیشترین بهره را از تمام ظرفیت هوش مصنوعی خواهند برد.»",
-        "impact": "تغییر استراتژی شرکت‌ها از تعدیل نیرو به سمت آموزش و توانمندسازی کارکنان با ابزارهای هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/artificial-intelligence/ai-benefits-experienced-workers-study",
-        "clean_url": "https://digiato.com/artificial-intelligence/ai-benefits-experienced-workers-study",
-        "image": "http://www.bing.com/th?id=ONUT.gXw4wKJYynpk8Wl7zjPL9Q&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.gXw4wKJYynpk8Wl7zjPL9Q&pid=News",
-            "https://static.digiato.com/digiato/2026/08/ai-help.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/ai-help-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/ai-help-workers-1024x682.jpg"
-        ],
-        "timestamp": 1787662800.0
-    },
-    {
-        "id": "3d3c3181ee",
-        "title_fa": "اجرای کاملاً محلی هوش مصنوعی بدون هزینه توکن با همکاری پرپلکسیتی و انویدیا",
-        "title_en": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-        "summary": [
-            "پرپلکسیتی با همکاری انویدیا از پروژه Portable Computer رونمایی کرد؛ سیستمی که عامل‌های هوش مصنوعی را کاملاً روی سخت‌افزار محلی اجرا می‌کند.",
-            "در این مدل، پردازش‌ها بدون نیاز به سرورهای ابری انجام می‌شوند و هزینه توکن برای کاربران به صفر می‌رسد.",
-            "این اقدام علاوه بر جهش در حفظ حریم خصوصی، وابستگی توسعه‌دهندگان به زیرساخت‌های گران‌قیمت ابری را کاملاً از بین می‌برد."
-        ],
-        "full_text": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs  VentureBeat",
-        "impact": "حذف هزینه توکن و انتقال پردازش به سخت‌افزار محلی، مدل اقتصادی ابزارهای هوش مصنوعی را به نفع کاربران تغییر می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "VentureBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787662800.0
-    },
-    {
-        "id": "244b5bebd4",
-        "title_fa": "ادغام بخش مشاوره و سرمایه‌گذاری Fiat Ventures و جذب ۳۵ میلیون دلار",
-        "title_en": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-        "summary": [
-            "این مجموعه سرمایه‌گذاری با ری‌برندینگ به FGV Capital، دومین صندوق خود را به ارزش ۳۵ میلیون دلار راه‌اندازی کرد.",
-            "مدل جدید این شرکت، ارائه هم‌زمان مشاوره ورود به بازار و سرمایه نقدی به استارتاپ‌های فین‌تک و هوش مصنوعی است."
-        ],
-        "full_text": "Fiat Ventures on Tuesday said it is combining its growth consultancy and venture divisions under a new brand, FGV Capital, alongside the launch of its second fund, a $35 million vehicle. The fintech-focused firm’s general partners, Marcos Fernandez and Drew Glover, told TechCrunch that the decision to combine the businesses was to help founders, whether part of the firm’s portfolio or otherwise, with their go-to-market strategies. Operating under the Fiat Growth moniker, the consultancy business previously offered startups help with scaling, businesses, and go-to-market strategies. It also provided clients access to its network of industry executives — and that overlap is where Fernandez and Glover see potential for more exposure and growth. Glover said combining the growth consultancy with the venture firm has already helped them win spots on startups’ cap tables because founders realize they could access the advisory network, too, if they take money from FGV. He stressed that the consultancy business and the investment vehicle will operate as separate entities, and said “clear processes” are in place to ensure business relationships don’t bias investment decisions. “The goal is to use the broader FGV infrastructure to give our investment team better information and deeper context, not influence the outcome,” Glover said. Glover said Fund II’s thesis centers on fintech’s intersection with areas like AI, healthcare, commerce, and other industries. It took FGV about 18 months to raise this new fund, and the duo said they sought a mix of LPs who “could do more than provide capital,” such as offering business guidance to its portfolio companies. LPs in this fund include the Reinsurance Group of America, MassMutual, and Bank of America. In a venture environment where emerging fund managers struggle to attract LP attention, FGV is betting that its combined model can help it lure LPs and startups, and deliver better returns. Glover said FGV also has a program to help the portfolio companies of its LPs scale, and said it also connects LPs with companies from the advisory side of the business for partnership opportunities. “That’s where the full-stack model becomes powerful,” Fernandez said. “Companies we invest in can become clients we help scale. Companies we work with can become investments. LPs can become customers or partners to the portfolio. The different parts of the ecosystem can create value for one another while still operating independently.” The fund will cut checks worth $1 million to $1.5 million into at least 25 companies (it’s already backed 13 so far) over two years. The firm previously raised a $25 million first fund. Overall, the firm has already backed around 40 companies, which include pet insurance company Wagmo, and the loan agency Possible Finance. “The goal is to build an ecosystem where capital, distribution, and relationships compound and where founders and investors have more ways to win together,” Fernandez said.",
-        "impact": "تسریع رشد استارتاپ‌های نوپا از طریق ترکیب مستقیم مشاوره عملیاتی و منابع مالی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-        "clean_url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
-        "images": [
-            "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787661420.0
-    },
-    {
-        "id": "9eb3f8aed0",
-        "title_fa": "راه‌اندازی صندوق ETF جدید برای شرکت‌های اجاره‌دهنده پردازش هوش مصنوعی",
-        "title_en": "Wall Street Just Invented the ‘Neocloud’ ETF. It Owns the Companies Renting AI Compute to Everyone Else",
-        "summary": [
-            "وال‌استریت صندوق ETF جدیدی به نام Neocloud برای سرمایه‌گذاری مستقیم روی اجاره‌دهندگان سخت‌افزار هوش مصنوعی معرفی کرد.",
-            "شرکت‌هایی مانند CoreWeave و Nebius که زیرساخت پردازشی را به غول‌های فناوری اجاره می‌دهند، هسته اصلی این صندوق هستند.",
-            "رشد درآمد ۱۱۲ درصدی CoreWeave تقاضای بی‌سابقه برای توان پردازشی را تایید می‌کند."
-        ],
-        "full_text": "Invesco QQQ Trust (NASDAQ:QQQ) offers AI exposure through the customers rather than the suppliers. QQQ’s top holdings are the hyperscalers spending on AI infrastructure. That has worked, but QQQ dilutes the pure AI-compute rental trade through hundreds of billions in unrelated market cap. On August 6, 2026, Wall Street launched the first ETF built to isolate that trade: a “Neocloud” fund holding the companies renting AI compute back to those same hyperscalers. It landed the same day as a sister photonics and optics ETF, which carries a 0.65% management fee. The question is whether the trade justifies moving away from QQQ. What Broad AI Funds Actually Give You QQQ’s AI thesis is second-order. Its megacap holdings sell chips, rent cloud services, and build models, but AI sits inside diversified businesses generating cash from unrelated products. Neocloud names are 100% AI infrastructure, contracted years out, and financed against those contracts. If hyperscaler capex doubles again, QQQ moves modestly. The Neocloud basket moves with it directly. Names Inside the New ETF CoreWeave (NASDAQ:CRWV) is the anchor. Q2 revenue hit $2.6 billion, up 112% year over year, with a revenue backlog of $104 billion and more than $25 billion in net new customer commitments added early in Q3. Adjusted EBITDA margin was 59%. CEO Michael Intrator described it as an inflection point where “scale began to translate into expanding operating leverage.” Nebius Group (NASDAQ:NBIS | NBIS Price Prediction) grew revenue 454% to $582 million, with a first-ever capacity auction clearing 15% above its highest prior Blackwell price. Applied Digital (NASDAQ:APLD) sits on $36 billion of total contracted lease value, with roughly 76% tied to investment-grade hyperscalers. TeraWulf (NASDAQ:WULF) signed a 20-year, roughly $19 billion lease with Anthropic for 401 megawatts at its Kentucky campus. IREN inked a five-year, $3.4 billion AI Cloud contract with NVIDIA tied to the eventual deployment of 600,000 GPUs. Lumentum is the optics arm: fiscal Q4 revenue jumped 109% to $1.01 billion, with non-GAAP operating margin at 36.6%. Where This Basket Actually Wins Against QQQ Tradeoffs Worth Naming In the last week alone, CoreWeave fell 18.63%, and Nebius fell 21.55%. CoreWeave’s Q2 interest expense reached $640 million, versus $267 million a year earlier. TeraWulf posted a $939.92 million net loss driven mostly by non-cash warrant marks. IREN took a $140.4 million non-cash impairment, retiring mining hardware. Customer concentration is real: Nebius disclosed three customers representing 24%, 21%, and 14% of revenue, and TeraWulf leans on Anthropic and Google’s $600 million credit backstop for Fluidstack. None of these names pay a dividend. The idea is to ride the AI infrastructure wave with guardrails. We wrote a free guide on seven suppliers powering the buildout, from power to cooling to networking, here: 7 Stocks Powering the AI Boom (That Aren’t Chipmakers). How to Think About the Swap Signals That Would Change the Call Contact [email protected] for any questions or corrections.",
-        "impact": "ایجاد مسیر مستقیم برای سرمایه‌گذاران بورسی جهت بهره‌برداری از بحران کمبود توان پردازشی هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else/",
-        "clean_url": "https://247wallst.com/investing/2026/08/25/wall-street-just-invented-the-neocloud-etf-it-owns-the-companies-renting-ai-compute-to-everyone-else",
-        "image": "http://www.bing.com/th?id=ONUT.Z1O8tuAaD-cl6JOui6HuSQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.Z1O8tuAaD-cl6JOui6HuSQ&pid=News",
-            "https://247wallst.com/wp-content/uploads/2026/07/SK-Hynix-Memory.jpg",
-            "https://247wallst.com/wp-content/uploads/2024/10/Untitled-design-2024-10-01T124324.952-150x84.jpg",
-            "https://247wallst.com/wp-content/uploads/2025/01/shutterstock-2465944581-huge-licensed-scaled-150x68.jpg"
-        ],
-        "timestamp": 1787661300.0
-    },
-    {
-        "id": "7c566af169",
-        "title_fa": "راه‌اندازی صندوق ۱۵۰ میلیون دلاری ماس‌میوچوال برای فناوری‌های اقلیمی",
-        "title_en": "MassMutual Ventures Commits to Launch $150 Million Climate Technology Fund II",
-        "summary": [
-            "بخش سرمایه‌گذاری MassMutual دومین صندوق اختصاصی خود را با بودجه ۱۵۰ میلیون دلاری برای حمایت از فناوری‌های سبز راه‌اندازی کرد.",
-            "این سرمایه به استارتاپ‌های پیشرو در حوزه‌های انرژی پاک، مدیریت کربن و کاهش پیامدهای تغییرات اقلیمی اختصاص می‌یابد.",
-            "اقدام ماس‌میوچوال نشان‌دهنده جذابیت مداوم حوزه فناوری‌های اقلیمی برای جذب سرمایه‌گذاران خطرپذیر است."
-        ],
-        "full_text": "MassMutual Ventures Commits to Launch $150 Million Climate Technology Fund II  Business Wire",
-        "impact": "تزریق سرمایه جدید به استارتاپ‌های حوزه انرژی پاک و سرعت‌بخشی به تجاری‌سازی فناوری‌های محیط‌زیستی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1JjcHlwMjBLTzhoaFdmNlBYRDFUVkc4QWxEZXVnVGF1emhoMVVad2Q3am9mSDROMGt2bzItMnlsV0UyX1FMdFI0TzRpNTIxMUJ6UFBWRXF5dWc2c3pIZWE5a05Xc2d4SEdrVmd0UkRmQzE1Njk2SHptS2tQSXZIRHJYREZ4RWZjckl2UDdJeWRSLWUtY3lhbDZVVTJhcWhOT3lRcmNOLW9RUk9VVFNIaGR4X0d2ckM4bEJFbmEwX2ZTQ093Um9DRDIwQWJhUG1uRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1JjcHlwMjBLTzhoaFdmNlBYRDFUVkc4QWxEZXVnVGF1emhoMVVad2Q3am9mSDROMGt2bzItMnlsV0UyX1FMdFI0TzRpNTIxMUJ6UFBWRXF5dWc2c3pIZWE5a05Xc2d4SEdrVmd0UkRmQzE1Njk2SHptS2tQSXZIRHJYREZ4RWZjckl2UDdJeWRSLWUtY3lhbDZVVTJhcWhOT3lRcmNOLW9RUk9VVFNIaGR4X0d2ckM4bEJFbmEwX2ZTQ093Um9DRDIwQWJhUG1uRkE",
-        "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787659612.0
-    },
-    {
-        "id": "aa34f4aa21",
-        "title_fa": "جذب سرمایه ۷۶ میلیون دلاری Stability AI با مشارکت غول‌های سرگرمی",
-        "title_en": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "summary": [
-            "سازنده Stable Diffusion موفق به جذب ۷۶ میلیون دلار سرمایه از غول‌هایی چون یونیورسال، سونی موزیک و EA شد.",
-            "این سرمایه‌گذاری مجموع منابع جذب‌شده توسط این استارتاپ را به ۲۳۲ میلیون دلار می‌رساند.",
-            "هدف اصلی این جذب سرمایه، توسعه ابزارهای هوش مصنوعی مولد برای صنعت موسیقی و ویدیو است."
-        ],
-        "full_text": "Stability AI, the startup behind AI image generation model Stable Diffusion, has raised $76 million in Series B funding. The new haul brings the company’s fundraising total to $232 million. The company announced the round Tuesday, saying the new capital comes partly from a number of prominent entertainment industry organizations, including Universal Music Group, Sony Music Group, Warner Music Group, and gaming giant Electronic Arts (EA). Two investment firms, AMD Ventures and Pacific Alliance Ventures, also took part. It’s an unusual roster and a less typical venture round than a lineup of the companies Stability now depends on for content licensing and distribution deals. Stability AI CEO Prem Akkaraju, who joined the company in 2024, called the funding “an affirmation of our vision where generative AI empowers every producer, musician, and storyteller.” The company says it plans to use the money from its latest funding round to continue building out its “creative production” product suite while also expanding its professional services arm. Currently, Stability offers a variety of AI models that are designed for the purposes of AI music, video, and image generation. Stability, founded in 2019, has spent the past year signing deals to weave generative AI into entertainment companies’ creative workflows. It struck partnerships with Universal Music and EA last October and with Warner Music last November, each giving those companies a hand in co-developing Stability’s AI tools rather than just licensing the output.. Stability has also had a mostly winning stretch in court. The company largely prevailed in a copyright lawsuit brought by Getty Images in the United Kingdom, which had accused the company of infringing upon IP rights by using the company’s images in the training of its image generation model. A judge ruled largely in Stability’s favor in that case, but a similar lawsuit from Getty in the U.S. is still working its way through the courts. Stability was also sued in 2023 by the company’s co-founder, Cyrus Hodes, who claimed that he was tricked by the other co-founder, Emad Mostaque, into selling his share in the company.",
-        "impact": "ورود رسمی و مستقیم صنعت سرگرمی و بازی‌سازی به پشتیبانی و توسعه ابزارهای هوش مصنوعی مولد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "clean_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
-        "image": "http://www.bing.com/th?id=ONUT.aFU2UAUzAk9MJRqH4fMdYw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.aFU2UAUzAk9MJRqH4fMdYw&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
-            "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2025/12/495cdfd5deaad915a1ad58ab35edcbaa84b90c4ce9b7ded356c5ad1b61884800.png?w=150"
-        ],
-        "timestamp": 1787659380.0
-    },
-    {
-        "id": "9552808582",
-        "title_fa": "ورود جمینای گوگل به بخش خدمات مالی با همکاری GFT Technologies",
-        "title_en": "GFT Technologies Partners with Google Cloud on Launch of Gemini Enterprise for Financial Services",
-        "summary": [
-            "شرکت GFT با همکاری گوگل کلود، نسخه سازمانی Gemini را به طور اختصاصی برای بانک‌ها و مؤسسات مالی عرضه کرد.",
-            "این راهکار به مؤسسات مالی کمک می‌کند فرآیندهای پیچیده تحلیل داده، ارزیابی ریسک و خدمات مشتریان را هوشمند سازند.",
-            "تمرکز اصلی این سیستم بر رعایت الزامات سخت‌گیرانه قانونی و امنیت داده‌ها در صنعت بانکداری است."
-        ],
-        "full_text": "GFT Technologies Partners with Google Cloud on Launch of Gemini Enterprise for Financial Services  Google Cloud Press Corner",
-        "impact": "تسریع ورود هوش مصنوعی مولد به فرآیندهای حساس و سنت‌گرای صنعت بانکداری و مالی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "Google Cloud Press Corner",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1U5TkotVHB0SzZBV3A2UHAwVjBpMHc2WEhXNXJUbjZNRklzT040S2h5ejBLMXMtZm1SUHVsVl9NTGoxQklSNXJYaThTWWZxLWRZSFJCN1NlY0M3SWFqY21Ta2pvWnU4RVNsRTRyTUdvYmJOX2tweXRlMGI2LW9CVTU0YkxfZTdGaWl1VkFnYWtRWDdoUDVVUS13dExIZ3RQRDdDLUtDbU5CRTlwWHVWY3YtTDkzN2M1ZkZJLWlRZEtxRnlxYkNIZGZET0FsNmFXb09rWnRkUFZFMl9LZm8xTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN1U5TkotVHB0SzZBV3A2UHAwVjBpMHc2WEhXNXJUbjZNRklzT040S2h5ejBLMXMtZm1SUHVsVl9NTGoxQklSNXJYaThTWWZxLWRZSFJCN1NlY0M3SWFqY21Ta2pvWnU4RVNsRTRyTUdvYmJOX2tweXRlMGI2LW9CVTU0YkxfZTdGaWl1VkFnYWtRWDdoUDVVUS13dExIZ3RQRDdDLUtDbU5CRTlwWHVWY3YtTDkzN2M1ZkZJLWlRZEtxRnlxYkNIZGZET0FsNmFXb09rWnRkUFZFMl9LZm8xTQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787659250.0
-    },
-    {
-        "id": "085c8481e3",
-        "title_fa": "تبدیل پسماندهای پلاستیکی به کوکی‌های خوراکی با مهندسی ژنتیک",
-        "title_en": "دانشمندان پسماندهای پلاستیکی را به کوکی‌های خوراکی تبدیل کردند",
-        "summary": [
-            "محققان با ترکیب بطری‌های پلاستیکی PET و ضایعات کشاورزی، خوراکی عطر‌داری به نام میکروبایتس تولید کردند.",
-            "مخمرهای اصلاح‌شده با کریسپر، کربن حاصل از تجزیه پلاستیک را به پروتئین، چربی و وانیلین تبدیل می‌کنند.",
-            "این فناوری با حمایت ناسا برای تامین غذای فضانوردان و شرایط بحرانی روی زمین توسعه یافته است."
-        ],
-        "full_text": "پژوهشگران دانشگاه ایلینوی جنوبی کاربوندیل روشی برای تبدیل بطریهای پلاستیکی ضایعاتی و پسماندهای کشاورزی به خوراکیهایی شبیه کوکی با طعم وانیل توسعه دادهاند. این دستاورد با هدف مقابله با بحران آلودگی پلاستیک و کمبود مواد غذایی انجام شده است. به گزارش ساینسآلرت، این محصول غذایی میکروبایتس (µBites) نامگذاری شده است و فرایند تولید آن ۳۳ مرحله دارد. در مرحله اول، بطریهای پلاستیکی از جنس پلیاتیلن ترفتالات (PET) به همراه ساقهها و برگهای به جا مانده از کشت ذرت، تحت فرایندی به نام انحلال هیدروترمال اکسایشی قرار میگیرند. در این فرایند، مواد اولیه با حرارت، اکسیژن و فشار بالا به اجزای کربنی پایهای و مایع خوراک تبدیل میشوند. در گام بعدی، این مایع خوراکی به مخمرهایی داده میشود که با فناوری ویرایش ژنتیکی کریسپر دستکاری شدهاند. این مخمرها کربن موجود در مایع را به ترکیبات مغذی مانند پروتئینها، چربیها، اسیدها، بتاکاروتن و وانیلین تبدیل میکنند. ماده بتاکاروتن پیشساز ویتامین A در بدن است و وانیلین نیز عطر و طعم وانیل را ایجاد میکند. در آخر با افزودن فیبر، نشاسته و شیرینکننده به این ترکیب، خمیر حاصل وارد پرینتر سهبعدی مواد غذایی شده و پس از شکلدهی، در مایکروویو پخته و سخت میشود. تبدیل پسماندهای پلاستیکی و کشاورزی به کوکیهای خوراکی ایده این پژوهش اولینبار در برنامه ناسا برای پیداکردن فناوریهای جدید تولید غذا در مأموریتهای طولانیمدت فضایی شکل گرفت. به گفته پژوهشگران، دستگاه طراحیشده برای این فرایند قابلیت حمل دارد و در آزمایشهای آزمایشگاهی مستقل از نظر عدم وجود مواد شیمیایی سمی، فلزات سنگین، مواد آلرژیزا و بیماریزا بررسی شده است. فرایند فعلی بیش از ۵۰ درصد از کربن موجود در پسماندها را به ماده غذایی تبدیل میکند و پژوهشگران در تلاش هستند تا این میزان را در نسخههای بعدی به نزدیک ۱۰۰ درصد برسانند. با آنکه این طرح در قالب کوکی ارائه شده، اجزای تولیدشده قابل استفاده برای ساخت جایگزینهایی برای شیر، گوشت و خوراک دام نیز هستند. به گفته تیم سازنده، دستگاههای ساخت میکروبایتس میتوانند در محیطهای سخت مانند زیردریاییها، خودروهای امداد در مناطق بحرانزده، قطب شمال، کویر و در آینده در مأموریتهای فضایی ماه و مریخ برای تولید آنی غذا به کار گرفته شوند. البته محققان تا زمان دریافت تأییدیه رسمی دانشگاه برای ایمنی محصول، آن را نچشیدهاند، اما آزمایشهای حسشناسی نشان داده که این کوکی عطر و بافت ظاهری مناسبی دارد. «ساندیا جایاسکارا»، یکی از پژوهشگران این پروژه، درباره محصول تولیدشده گفت: «فکر میکنم این محصول رایحه خوشایند و جذابی دارد. حتماً طعم خوبی هم خواهد داشت. ما هنوز آن را نچشیدهایم، اما مطمئناً بوی خوبی دارد؛ شبیه یک کوکی واقعی است.» یافتههای این پژوهش در ژورنال Trends in Biotechnology منتشر شده است.",
-        "impact": "گامی نوآورانه در حل همزمان بحران آلودگی پلاستیک و تامین غذای اضطراری.",
-        "tag": "بیوتکنولوژی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/interdisciplinary/plastic-bottles-converted-into-edible-vanilla-cookies",
-        "clean_url": "https://digiato.com/interdisciplinary/plastic-bottles-converted-into-edible-vanilla-cookies",
-        "image": "http://www.bing.com/th?id=ONUT.2DYNZiu8aQjsY9ku00Jo6Q&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.2DYNZiu8aQjsY9ku00Jo6Q&pid=News",
-            "https://static.digiato.com/digiato/2026/08/F26-Plastic-Cookies-HR-1.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/F26-Plastic-Cookies-HR-1.jpg-644x424.webp",
-            "https://static.digiato.com/digiato/2026/08/microBites-yeast.png.webp"
-        ],
-        "timestamp": 1787659200.0
-    },
-    {
-        "id": "0b79d65b20",
-        "title_fa": "آیا هوش مصنوعی جایگزین یادگیری زبان می‌شود؟ نتایج یک تحقیق جدید",
-        "title_en": "Can AI replace traditional language learning? A new study says not yet",
-        "summary": [
-            "پژوهش جدید دانشگاه UBC نشان می‌دهد ابزارهای هوش مصنوعی هنوز نمی‌توانند جایگزین روش‌های اصولی و داده‌محور یادگیری زبان انگلیسی شوند.",
-            "چالش اصلی زبان‌آموزان، یادگیری ترکیب‌های طبیعی کلمات در متون تخصصی است؛ حوزه‌ای که پایگاه‌های داده کلامی هنوز دقیق‌تر و مطمئن‌تر از مدل‌های زبانی هوش مصنوعی عمل می‌کنند."
-        ],
-        "full_text": "Can AI replace traditional language learning? A new study says not yet When university students set out to learn English as an additional language, it's not just about internalizing a new list of words; they also have to learn common word combinations. To sound fluent and natural, they'll need to say \"strong wind\" but not \"muscular wind,\" or \"reach a conclusion\" but not \"pull a conclusion\"—a task that's particularly challenging for learners stepping into terminology-heavy academic fields from economics to engineering. So what's the best way to learn those invaluable combinations, also known as collocations? According to a new paper from the UBC Sauder School of Business, data-driven learning, with a little boost from AI, is still the most reliable option. The findings are published in the journal Nouvelles perspectives en sciences sociales. According to UBC Sauder lecturer Dr. Déogratias (Deo) Nizonkiza, the author of the study, the development of corpora—large, structured collections of texts and other language data—has been foundational for DDL approaches. It has happened in three major stages. In 1961, a collection of texts called the Brown Corpus was developed at Brown University. It comprised 500 text samples from media, religion, fiction, science and other sources, each containing approximately 2,000 words. With roughly 1 million words, it represented the first large-scale collection of real-world American English, and it allowed researchers to effectively catalog and analyze the language and its use. In the 1980s, as technology advanced and computing became more widely available, the concept of data-driven learning, or DDL, was introduced. Instead of memorizing phrases from textbooks, learners could access increasingly massive databases of texts—with word counts eventually exceeding 100 million—to discover everyday language patterns. In 2008 came the Corpus of Contemporary American English, or COCA—a 1 billion-word database that comprises nearly 500,000 texts from 1990 to 2019 and allows students not only to search for specific words but also to look for examples in different contexts and academic disciplines. \"That really significantly changed how we do things, specifically in the area of English for academic or professional purposes,\" Nizonkiza explains. \"But the searches took so much time, and people would get discouraged.\" In addition to the sluggish searches, another stumbling block was that many language instructors didn't even know the corpora existed, let alone how to use them, and those who did often treated DDL as a secondary activity—not a core teaching tool. Now, with the advent of generative AI, or GenAI, Nizonkiza says the process of searching for collocations has become far faster and more familiar—but that doesn't mean educators should toss out the more traditional DDL approach. While GenAI tools such as ChatGPT can replicate some of the functions of existing tools—they can identify and generate examples of common word combinations, for example—it's often unclear where the examples come from or how accurate they are. In the French-language study, whose title translates to \"At the Intersection of Corpora and Artificial Intelligence: A Critical Review of DDL Approaches to Teaching Collocations in Higher Education,\" Nizonkiza examined empirical evidence, including meta-analyses and systematic reviews, on the effectiveness of DDL. The literature shows that a hybrid approach rooted in corpus-based teaching and given an added boost from GenAI is the most effective. \"We have to be very careful, because GenAI tools aren't as precise as those traditional tools,\" Nizonkiza explains. \"So instead of relying perhaps on GenAI, we need to make sure that there is a combination of GenAI and the traditional corpora.\" The paper also provides a possible roadmap for that hybrid approach. For example, an English instructor could select particular vocabulary—from the Economics Academic Word List, say—then identify common collocations like \"control volatility\" and \"market volatility.\" From there, they can ask corpus-informed GenAI tools to generate examples of those collocations, which can be used to design structured exercises where students first fill in the blanks (e.g., \"Portfolio diversification is a key strategy used by fund managers to ______ volatility in emerging markets\"), then use AI to verify their answers. So rather than relying on popular AI platforms like ChatGPT or Copilot to generate examples, students complete the exercises—and only then use AI to verify and refine their conclusions. That process helps students raise awareness of collocations, improve accuracy and spur critical interactions with GenAI tools, Nizonkiza says. \"It's when they start university that they have exposure to these new words they haven't necessarily encountered in their everyday lives,\" Nizonkiza says. \"That's where having these tools and being aware of what these tools can help them do become essential.\" More information Déogratias Nizonkiza, L'enseignement des collocations en anglais au niveau tertiaire : revue critique des approches DDL entre corpus et intelligence artificielle, Nouvelles perspectives en sciences sociales (2026). DOI: 10.7202/1126572ar",
-        "impact": "مدل‌های هوش مصنوعی فعلاً نقش ابزار کمک‌اموزشی را دارند و نمی‌توانند جایگزین فرایند ساختاریافته یادگیری زبان شوند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-08-ai-traditional-language.html",
-        "clean_url": "https://phys.org/news/2026-08-ai-traditional-language.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2023/language-learning.jpg",
-        "images": [
-            "https://scx2.b-cdn.net/gfx/news/hires/2023/language-learning.jpg",
-            "https://scx2.b-cdn.net/gfx/news/2023/language-learning.jpg",
-            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
-            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg"
-        ],
-        "timestamp": 1787658000.0
     }
 ]
