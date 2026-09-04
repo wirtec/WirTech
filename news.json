@@ -1,5 +1,71 @@
 [
     {
+        "id": "61c56f6530",
+        "title_fa": "درخواست قانون‌گذاران آمریکایی برای تدوین پیمان فراملی ایمنی هوش مصنوعی",
+        "title_en": "Lawmakers Behind State AI Safety Laws Call For Industry-Wide AI Safety Pact to Protect the Public",
+        "summary": [
+            "توسعه‌دهندگان قوانین ایمنی AI خواستار توافق همه‌جانبه شرکت‌های بزرگ برای پایبندی به استانداردهای ایمنی شدند.",
+            "این پیشنهاد با هدف ایجاد جبهه‌ای واحد علیه خطرات بالقوه مدل‌های خودکار پیشرفته ارائه شده است."
+        ],
+        "full_text": "Lawmakers Behind State AI Safety Laws Call For Industry-Wide AI Safety Pact to Protect the Public  Senator Scott Wiener (.gov)",
+        "impact": "افزایش فشارهای سیاسی برای چارچوب‌مند کردن توسعه مدل‌های قدرتمند AI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Senator Scott Wiener (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0Y4SEY0NzRGNEZOTlZPODJ1VXR5dWVaWDNLN2pFOHMxY3hBc0sxdEtNLVNJTDhfUWVDQXdpQUY4eWJRN3JpNnZFaUlSZ0VVQW1aWE00TGRkSnJULXdmRldlLU9idzFTQk51UmRHcUNVWS1sblRRVU5tUy13cFdWay1aa3NyVTRmUWJMX2loNVFWVVhoZExzUUV1cG9FUGN6Q1pQbDJGMkpzcDRVWGFiMFFWWUxCWHdEU3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0Y4SEY0NzRGNEZOTlZPODJ1VXR5dWVaWDNLN2pFOHMxY3hBc0sxdEtNLVNJTDhfUWVDQXdpQUY4eWJRN3JpNnZFaUlSZ0VVQW1aWE00TGRkSnJULXdmRldlLU9idzFTQk51UmRHcUNVWS1sblRRVU5tUy13cFdWay1aa3NyVTRmUWJMX2loNVFWVVhoZExzUUV1cG9FUGN6Q1pQbDJGMkpzcDRVWGFiMFFWWUxCWHdEU3c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788555605.0
+    },
+    {
+        "id": "288d493b02",
+        "title_fa": "همکاری OpenAI برای ارتقای دفاع سایبری نهادهای عمومی",
+        "title_en": "OpenAI, MS-ISAC Launch AI Cyber Defense Pilot",
+        "summary": [
+            "اپن‌ای‌آی با همکاری مرکز MS-ISAC یک طرح آزمایشی برای استفاده از AI در دفاع سایبری زیرساخت‌های عمومی آغاز کرد.",
+            "هدف این پروژه شناسایی و خنثی‌سازی هوشمند حملات سایبری پیش از وقوع آسیب به بخش دولتی است."
+        ],
+        "full_text": "OpenAI, MS-ISAC Launch AI Cyber Defense Pilot  GovTech",
+        "impact": "ورود عملیاتی مدل‌های هوش مصنوعی به لایه امنیتی زیرساخت‌های حساس حکومتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGtZcjYtVTBpM3V2R3hYbU40WDg5MzZjXzBnZVJycVhtWXE3UldBSTNsVG1LSHJ2dzNSdFVud3c1RzBkOXZRdURLY2hoamFxeUdFTklYS0xnaE9abkxvWGtkczAtcFlrVksxbXVDV3JuNHp6WFNkZ1NOTGRBTWNMTXhxQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGtZcjYtVTBpM3V2R3hYbU40WDg5MzZjXzBnZVJycVhtWXE3UldBSTNsVG1LSHJ2dzNSdFVud3c1RzBkOXZRdURLY2hoamFxeUdFTklYS0xnaE9abkxvWGtkczAtcFlrVksxbXVDV3JuNHp6WFNkZ1NOTGRBTWNMTXhxQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788553912.0
+    },
+    {
+        "id": "d3f741948c",
+        "title_fa": "بودجه ۲۰ میلیون دلاری بنیاد ملی علوم آمریکا برای موسسه AI دانشگاه USC",
+        "title_en": "NSF Awards $20M to USC and Collaborators to Renew AI Institute",
+        "summary": [
+            "بنیاد ملی علوم آمریکا (NSF) اعطای گرنت ۲۰ میلیون دلاری به دانشگاه کالیفرنیای جنوبی را برای تمدید فعالیت موسسه پژوهشی AI تایید کرد.",
+            "این بودجه به توسعه تحقیقات بنیادی هوش مصنوعی و آموزش نیروی متخصص تمرکز دارد."
+        ],
+        "full_text": "NSF Awards $20M to USC and Collaborators to Renew AI Institute  USC Viterbi School of Engineering",
+        "impact": "تقویت زیرساخت‌های پژوهشی آکادمیک برای رقابت با بخش خصوصی در توسعه هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "USC Viterbi School of Engineering",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWptZmYxODlYZUhFY3ZtWWRkdmp1NFF1Zkl2NDNTd3FyYktvZHRTYXBYV1FIX2d2MG1ROGpTanJxVngtOGlOaHF4SjN0S3c3OHNwNW5uZmNTb2k5NVNMUkx6bFZ1UW56VGhKUFRCRnBfc1UybTNrQWxJYzlJRk1qYUZzTFRpcmZSNVIzVFVTTldYVGtvd3pZSnp4R2dibzhKb3VHSFU0ekY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWptZmYxODlYZUhFY3ZtWWRkdmp1NFF1Zkl2NDNTd3FyYktvZHRTYXBYV1FIX2d2MG1ROGpTanJxVngtOGlOaHF4SjN0S3c3OHNwNW5uZmNTb2k5NVNMUkx6bFZ1UW56VGhKUFRCRnBfc1UybTNrQWxJYzlJRk1qYUZzTFRpcmZSNVIzVFVTTldYVGtvd3pZSnp4R2dibzhKb3VHSFU0ekY",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788552730.0
+    },
+    {
         "id": "8131c60c04",
         "title_fa": "همکاری سه جانبه برای راه‌اندازی پلتفرم خودرویی مبتنی بر هوش مصنوعی",
         "title_en": "GAC Mexico, Mercado Libre & Salesforce Launch AI Auto Platform",
@@ -20,6 +86,30 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788547667.0
+    },
+    {
+        "id": "564eaf1be5",
+        "title_fa": "جذب سرمایه مولتی‌میلیاردی استارتاپ‌های زیرساخت AI با پیشتازی کروسو",
+        "title_en": "The Week's 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
+        "summary": [
+            "شرکت Crusoe با جذب ۳ میلیارد دلار سرمایه جدید، ارزش خود را به ۳۰ میلیارد دلار رساند تا دیتاسنترهای هوش مصنوعی را گسترش دهد.",
+            "استارتاپ Fluidstack نیز ۱.۵ میلیارد دلار برای تامین گره‌های پردازش گرافیکی (GPU) جذب کرد.",
+            "تمرکز بی‌سابقه سرمایه‌گذاران روی سخت‌افزار نشان می‌دهد چالش اصلی فعلی صنعت AI، کمبود شدید قدرت محاسباتی است."
+        ],
+        "full_text": "Want to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U.S. Check out last week’s biggest funding deal roundup here. AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe led with a massive $3 billion financing, followed by Fluidstack’s $1.5 billion raise. Further down the list, AI inference startup Gimlet Labs landed $300 million, joining a diverse group of big fundings spanning cybersecurity, robotics, food, HR software, payments and healthcare. 1. Crusoe, $3B, AI infrastructure: Denver-based Crusoe raised a $3 billion Series F co-led by Atreides Management and Valor Equity Partners, with Mubadala Capital also participating. Originally founded to use stranded natural gas to power cryptocurrency mining, Crusoe has transformed into a major AI cloud and data center provider serving customers including OpenAI, Microsoft and Meta. The company has raised nearly $7.2 billion to date, and the latest financing values it at $30 billion — triple its valuation less than a year ago — according to Crunchbase. 2. Fluidstack, $1.5B, AI infrastructure: New York-based Fluidstack raised $1.5 billion in a private equity round led by Jane Street Capital, bringing the AI infrastructure company’s total funding to just over $2.6 billion. Fluidstack provides large-scale GPU and data center infrastructure for demanding AI workloads and has emerged as one of a growing group of companies spending heavily to meet soaring compute demand for AI. The financing values the company at $18 billion. 3. (tied) Gimlet Labs, $300M, AI infrastructure: San Francisco-based Gimlet Labs raised a $300 million Series B led by Andreessen Horowitz, with investors including Sapphire Ventures, Menlo Ventures, Arm Holdings and M12 – Microsoft’s Venture Fund. Gimlet is building an AI inference cloud that distributes workloads across different types of chips, an approach aimed at making the increasingly compute-intensive process of running AI models faster and more efficient. The company has raised $392 million to date and was valued at $3 billion in the latest round, per Crunchbase. 3. (tied) Upwind Security, $300M, cybersecurity: San Francisco-based Upwind Security raised $300 million in new funding co-led by Bessemer Venture Partners and TCV. Other investors included Salesforce Ventures 1, Greylock, Craft Ventures and Cyberstarts. The company’s platform uses real-time cloud runtime data to identify threats and vulnerabilities, putting it at the intersection of two particularly well-funded areas: cloud security and AI. Upwind has raised $730 million to date and was valued at $3.8 billion in this latest deal. 5. David, $250M, food and nutrition: New York-based high-protein food company David raised a $250 million Series B co-led by Greenoaks and Valor Equity Partners. Iconiq Capital, Imaginary Ventures and company co-founder Peter Rahal also participated. Best known for its high-protein, low-calorie bars, David has expanded into other protein-focused foods as consumers continue gravitating toward products marketed around protein and metabolic health. The company has raised $335 million and was valued at $2.25 billion in the latest round. 6. HiBob, $166M, HR software: New York-based HiBob raised $166 million in a round led by Salesforce, with Farallon Capital Management also participating. HiBob’s Bob platform combines HR, payroll, benefits and employee-management tools, and the company is increasingly positioning its workforce data as a foundation for enterprise AI applications. The latest deal brings its total funding to $740 million and values the company at $3.2 billion. 7. Lyte AI, $165M, robotics and physical AI: Sunnyvale, California-based Lyte AI raised a $165 million Series C led by Maverick Silicon, with participation from Fidelity Management And Research Company, Atreides Management, Key 1 Capital and Ora Global. Founded by former Apple engineers, Lyte develops custom silicon, sensors and AI software that help robots perceive and understand their surroundings, the kind of technology that underpins the fast-growing physical AI sector. Lyte has now raised $272 million to date, per Crunchbase, and was valued at $1.6 billion in the Series C. 8. TabaPay, $155M, fintech and payments: Mountain View, California-based TabaPay secured $155 million in growth financing led by FTV Capital. The company provides money-movement infrastructure that helps banks and fintech companies instantly disburse, collect and transfer funds. The company announced the latest funding as it also pursues an acquisition of federally chartered Transact Bank, a move that could deepen its role in payments infrastructure. TabaPay’s new round follows a Series A of an undisclosed amount back in 2022. 9. Thyme Care, $125M, health care and oncology: Nashville, Tennessee-based Thyme Care raised a $125 million Series E led by Morgan Health, the healthcare investment arm of JPMorgan Chase. Other backers included CVS Health Ventures, Humana and Andreessen Horowitz, among others. Thyme Care works with health plans, employers and providers to coordinate cancer treatment and manage oncology care, part of a broader shift toward value-based specialty care. The company has now raised $399 million in total and was valued at $2 billion in the latest round. 10. HiddenLayer, $100M, AI cybersecurity: Austin-based HiddenLayer raised a $100 million Series B led by Delta-v Capital. Ten Eleven Ventures, M12, Booz Allen Ventures and Morgan Stanley also participated. HiddenLayer builds security tools designed specifically to protect AI models, agents and workflows from attacks and vulnerabilities, a category gaining urgency as enterprises move AI system",
+        "impact": "تغییر جهت ده‌ها میلیارد دلار سرمایه خطرپذیر به سمت زیرساخت‌های فیزیکی و تامین انرژی دیتاسنترها.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 8,
+        "sentiment": 0.85,
+        "source": "Crunchbase News",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
+        "clean_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure",
+        "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+        "images": [
+            "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+            "https://news.crunchbase.com/wp-content/uploads/2018/07/cb_news_logo_gradient-2x.png"
+        ],
+        "timestamp": 1788544740.0
     },
     {
         "id": "4981fd992b",
@@ -66,6 +156,76 @@
         "timestamp": 1788542833.0
     },
     {
+        "id": "c3f677821d",
+        "title_fa": "رکورد سرمایه‌گذاری خطرپذیر در کره جنوبی همزمان با قفل شدن بازار IPO",
+        "title_en": "Record Venture Funding Meets Frozen Exit Market in Korea",
+        "summary": [
+            "حجم سرمایه‌گذاری VC در کره جنوبی در نیمه اول سال به ۱۰ تریلیون وون رسید، اما ورود شرکت‌ها به بورس (IPO) با سقوط شدیدی مواجه شده است.",
+            "دولت کره قصد دارد تا سال ۲۰۳۰ بیش از ۲۰۰ تریلیون وون سرمایه به شرکت‌های خصوصی و استارتاپ‌های بومی تزریق کند.",
+            "تحلیل‌گران هشدار می‌دهند تزریق نقدینگی بدون وجود مسیر خروج سرمایه‌گذاران، موجب داغ شدن کاذب اکوسیستم خواهد شد."
+        ],
+        "full_text": "Record Venture Funding Meets Frozen Exit Market in Korea Short-Term Overheating in State Funds Such as the National Growth Fund IPOs, the Main Exit Route, Are Shrinking Secondary Funds Offer Some Relief Venture Firms Must Build Fundamental Competitiveness This article appeared on Signal, the capital markets compass, at 4:50 p.m. on September 4, 2026. Venture investment in South Korea has climbed to a record high, but the initial public offering market that serves as the main exit route has contracted sharply. The government plans to channel more than 200 trillion won into unlisted companies and other targets by 2030. Analysts say that to recover public money safely, the country must revive the exit market while concentrating support on promising companies with global potential, lifting the fundamental competitiveness of the ecosystem. Venture investment totaled 8.87 trillion won in the first half of this year, a record, according to the Ministry of SMEs and Startups and investment banking sources on the 4th. The figure counts only risk capital deployed by venture capital firms and excludes direct investments by state funds such as the National Growth Fund. Using National Growth Fund resources, the government this year made 1.12 trillion won in direct investments in five companies: Rebellions, Upstage, FuriosaAI, Ligachem Biosciences and Wonik Robotics. Including those, first-half venture investment is estimated to have exceeded 10 trillion won. While investment has boomed, the exit market has frozen. Only 27 companies have newly listed on the KOSDAQ market this year, excluding special purpose acquisition companies, according to the Korea Exchange. Twenty companies have won preliminary approval from the exchange, and given the remaining IPO steps — securities filings, demand forecasting and subscription schedules — the annual total is likely to fall below 50. Last year, 69 companies listed on KOSDAQ. For the 11 years since 2014, when there were 40, new KOSDAQ listings had topped 50 every year. Against that backdrop, the government is injecting public money on an unprecedented scale. The Financial Services Commission in July raised the National Growth Fund to 200 trillion won from an originally planned 150 trillion won. It plans to deploy 40 trillion won this year alone. The Ministry of SMEs and Startups and other agencies set this year's fund of funds, which invests in venture capital firms to spur venture investment, at 4.4 trillion won, and decided to put 2 trillion won into a regional growth fund for local venture firms over the next five years. Public money is flooding into the market even as exit routes remain blocked. Investment banking industry officials expect short-term overheating and difficulty recovering money over the medium to long term. FuriosaAI, which received 370 billion won in direct investment from the National Growth Fund in May at a valuation of about 3 trillion won, posted revenue of 5.74 billion won last year. Based on recent revenue and that valuation, its price-to-sales ratio works out to 522.6 times. Many say the valuation is high even allowing for the fact that it is a startup developing artificial intelligence chips, a field seen as promising, and that its business has yet to hit full stride. Other companies that received large public investments are in similar positions. The head of the IPO division at a large domestic securities firm said: \"If a company raises money at a 3 trillion won valuation before listing, it will have to target an even higher valuation when it goes public. If valuations are too high relative to earnings from the venture investment stage and the company cannot list, recovering public money could become a problem.\" Conditions are worse at companies that have gone years without earnings growth and cannot attempt an IPO. In March, U.S. venture capital firm Altos Ventures bought a 3% stake in Zigbang at a valuation of 300 billion won. That is far below the 2.5 trillion won valuation Zigbang received in its 2022 pre-IPO round. Yanolja, Ridi, Karrot and Kurly, whose investors are also struggling to exit, are in much the same position. Many of these companies took investment from venture capital funds seeded by the government's fund of funds. Solving the twin problems of short-term overheating and blocked exits requires both immediate steps and longer-term remedies, industry officials say. The securities industry has decided to pursue up to 1 trillion won in secondary fund investments over the next three years. Because secondary funds mainly buy stakes in unlisted companies held by existing venture funds, they can give breathing room to venture capital firms whose exit routes have narrowed with the IPO slowdown. The government also sees problems in the exit market and decided to use 200 billion won of this year's fund of funds resources to set up secondary funds. The longer-term remedy the industry proposes is a fundamental overhaul of the venture ecosystem. This year's IPO slowdown stems in part from regulators raising the bar for special listings by loss-making companies. That also means many companies were trying to list without the earnings strength to support it. If more venture firms generate solid profits, mergers and acquisitions could emerge as a main exit route for venture investment, as in the United States and other advanced capital markets. According to a Startup Alliance policy briefing for last year's parliamentary audit of government agencies, 94% of U.S. venture capital firms have recovered investments through M&A. With domestic M&A by large companies constrained by rules on affiliate designation and strict merger reviews, some argue that easing certain regulations would open exit routes. An investment banking industry official said: \"The existing approach of handing subsidies to most early-stage startups will only mass-produce marginal firms that keep losing money. Resources should go to promising companies with the potential",
+        "impact": "عدم تعادل شدید میان تزریق سرمایه دولتی و نقدشوندگی سرمایه‌گذاران در اکوسیستم استارتاپی شرق آسیا.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "en.sedaily",
+        "url": "https://en.sedaily.com/signal/article/record-venture-funding-meets-frozen-exit-market-in-korea",
+        "clean_url": "https://en.sedaily.com/signal/article/record-venture-funding-meets-frozen-exit-market-in-korea",
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/04/news-p.v1.20260107.92ace0200575471faaf4f9dbeecaa9cd_P1.jpg",
+        "images": [
+            "https://wimg.sedaily.com/news/cms/2026/09/04/news-p.v1.20260107.92ace0200575471faaf4f9dbeecaa9cd_P1.jpg",
+            "https://en.sedaily.com/sedaily-og-image.png",
+            "https://wimg.sedaily.com/news/cms/2026/08/28/news-p.v1.20260827.a620c1c439b74661a0f071a90d4be5e7_P1.jpg",
+            "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260902.179cc5f43487481bb0b09d27aece43d8_P1.png"
+        ],
+        "timestamp": 1788540600.0
+    },
+    {
+        "id": "b5db844478",
+        "title_fa": "ورود اپلیکیشن اکس‌باکس کلود به تلویزیون‌های هوشمند TCL",
+        "title_en": "Microsoft brings Xbox Cloud Gaming to TCL Smart TVs ahead of streaming caps",
+        "summary": [
+            "مایکروسافت سرویس اجرای ابری بازی‌های اکس‌باکس را روی تلویزیون‌های هوشمند TCL راه‌اندازی کرد.",
+            "این اقدام در حالی صورت می‌گیرد که محدودیت‌های ساعتی جدیدی برای استفاده از سرویس‌های استریمینگ در حال اعمال است."
+        ],
+        "full_text": "Microsoft is expanding its Xbox Cloud Gaming system by bringing the Xbox app to TCL Smart TVs, even as new hourly streaming caps loom.",
+        "impact": "گسترش دسترسی به بازی‌های کنسولی بدون نیاز به خرید سخت‌افزار مجزا روی تلویزیون‌های اقتصادی.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Neowin",
+        "url": "https://www.neowin.net/news/microsoft-brings-xbox-cloud-gaming-to-tcl-smart-tvs-ahead-of-streaming-caps/",
+        "clean_url": "https://www.neowin.net/news/microsoft-brings-xbox-cloud-gaming-to-tcl-smart-tvs-ahead-of-streaming-caps",
+        "image": "https://cdn.neowin.com/news/images/uploaded/2026/09/1788537754_xgp_tcl-partner-a9a894bf85566ec68565-1536x864_story.webp",
+        "images": [
+            "https://cdn.neowin.com/news/images/uploaded/2026/09/1788537754_xgp_tcl-partner-a9a894bf85566ec68565-1536x864_story.webp"
+        ],
+        "timestamp": 1788540300.0
+    },
+    {
+        "id": "6fffaecd28",
+        "title_fa": "رونمایی یوگرین از سرورهای خانگی پردازش محلی AI با سخت‌افزار انویدیا",
+        "title_en": "UGREEN unveils HomeAgent local AI hubs with Linux and Nvidia hardware",
+        "summary": [
+            "یوگرین در نمایشگاه IFA از سری HomeAgent رونمایی کرد؛ هاب‌های پردازش محلی هوش مصنوعی مبتنی بر لینوکس و انویدیا.",
+            "این دستگاه‌ها پردازش‌های هوش مصنوعی را کاملاً آفلاین و بدون ارسال داده به ابر در خانه انجام می‌دهند."
+        ],
+        "full_text": "Unveiled at IFA 2026, the series opens pre-orders today with a 50% discount ahead of an October Kickstarter campaign.",
+        "impact": "گامی جدی به سوی حفظ حریم خصوصی کاربران با انتقال پردازش هوش مصنوعی از ابر به سخت‌افزارهای خانگی.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.65,
+        "source": "Neowin",
+        "url": "https://www.neowin.net/news/ugreen-unveils-homeagent-local-ai-hubs-with-linux-and-nvidia-hardware/",
+        "clean_url": "https://www.neowin.net/news/ugreen-unveils-homeagent-local-ai-hubs-with-linux-and-nvidia-hardware",
+        "image": "https://cdn.neowin.com/news/images/uploaded/2026/09/1788530771_aiot-banner_3840x_story.webp",
+        "images": [
+            "https://cdn.neowin.com/news/images/uploaded/2026/09/1788530771_aiot-banner_3840x_story.webp"
+        ],
+        "timestamp": 1788539400.0
+    },
+    {
         "id": "d9edb2fbb1",
         "title_fa": "تخصیص بودجه ۱ میلیون دلاری برای آموزش نیروهای فنی فناوری",
         "title_en": "Press Release: John Mannion Announces $1.03 Million for Onondaga Community College Workforce Training",
@@ -107,6 +267,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788537688.0
+    },
+    {
+        "id": "03e5c3a416",
+        "title_fa": "تصاحب ۱۳ میلیارد دلاری هگینگ فیس توسط انویدیا و جهش درآمدی HPE",
+        "title_en": "Why Tech CEOs Are Backing Nvidia's Hugging Face Acquisition and HPE's Surge",
+        "summary": [
+            "خرید ۱۲.۹ میلیارد دلاری Hugging Face دسترسی مستقیم انویدیا به ۱۸ میلیون توسعه‌دهنده و بزرگ‌ترین مخزن مدل‌های باز را ممکن می‌کند.",
+            "درآمد سرورهای هوش مصنوعی شرکت HPE با رشد ۳۴ درصدی به ۱۲.۲ میلیارد دلار رسید که نشان‌دهنده تقاضای بی‌وقفه برای سخت‌افزار پردازشی است.",
+            "پیوند میان سازندگان سخت‌افزار و انجمن‌های متن‌باز، گام استراتژیک بعدی برای بهینه‌سازی تراشه‌های هوش مصنوعی است."
+        ],
+        "full_text": "Nvidia’s massive buyout of Hugging Face is a total game-changer for the tech world. It gives the chip giant a massive foothold in the software space as everyone scrambles to build out their own AI infrastructure. Antonio Neri, the CEO of Hewlett Packard Enterprise, is clearly a fan. He pointed out that this move hands Nvidia the keys to the most important developer hubs and live market data on the planet. By bringing Hugging Face into the fold, Nvidia just snagged the world’s biggest library of AI models, serving 18 million developers and over 200,000 businesses. Now, they can see exactly what tools coders are using in real-time. Meanwhile, HPE crushed their latest quarterly earnings, even if the Hugging Face news stole the spotlight. Revenue hit $12.21 billion, jumping 34% compared to this time last year. Earnings per share hit $1.11, smashing what Wall Street analysts expected. This growth happened because companies are buying AI servers and networking gear as fast as they can get their hands on them. Backlogs are at an all-time high. Neri mentioned that the demand for routers and high-end servers is relentless right now. Industry veterans know that modern tech stacks run on a mix of custom models, open-source projects, and weight-based architectures. Neri noted that China is a huge player in the open-source scene, making it vital for companies to stay involved in those communities to keep the industry healthy. Hardware makers are now laser-focused on how these models run on their chips to power the next generation of AI agents. More Update: Asian Stocks and US Markets Rally as Oil and Yields Ease Following Trump Statements Hardware and software are finally colliding. Global infrastructure depends on this marriage of silicon and code. Tech giants are constantly weighing the pros and cons of keeping things closed off versus leaning into open-source community efforts. When a hardware company knows exactly what developers are building, they can tweak their production lines to match actual market demand. Looking at the long game, HPE boosted their revenue growth forecast for 2027 to between 13% and 17%. Earnings should climb by roughly 16% over that same stretch. Neri remains confident that networking and server sales will stay strong, giving the company a clear path for growth over the next ten years.",
+        "impact": "تصاحب شریان حیاتی مدل‌های متن‌باز توسط انویدیا و تثبیت انحصار در بازار زیرساخت هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Ventureburn",
+        "url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge/",
+        "clean_url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge",
+        "image": "https://ventureburn.com/wp-content/uploads/2026/09/nvidia-hugging-face-hpe-surge_1788520243.jpg",
+        "images": [
+            "https://ventureburn.com/wp-content/uploads/2026/09/nvidia-hugging-face-hpe-surge_1788520243.jpg",
+            "https://ventureburn.com/wp-content/uploads/2026/09/Group-3896-1.png",
+            "https://ventureburn.com/wp-content/uploads/2025/10/Trade-Smarter-with-Our-Community.png",
+            "https://ventureburn.com/wp-content/themes/ventureburn/assets/svg/facebook.svg"
+        ],
+        "timestamp": 1788536640.0
     },
     {
         "id": "56c3466174",
@@ -153,6 +339,58 @@
         "timestamp": 1788536044.0
     },
     {
+        "id": "fe041b8035",
+        "title_fa": "رویداد بزرگ ۹ سپتامبر اپل؛ از آیفون تاشو تا افزایش قیمت پروها",
+        "title_en": "What to expect at Apple's September 9th launch event",
+        "summary": [
+            "رویداد پیش‌رو اولین مراسم اپل تحت مدیریت جان ترنوس است که احتمالاً با رونمایی از آیفون‌های سری ۱۸ همراه خواهد بود.",
+            "بر خلاف رویکرد همیشگی، نسخه پایه آیفون ۱۸ غایب بزرگ این مراسم است و عرضه آن به اوایل سال آینده میلادی موکول می‌شود.",
+            "معرفی احتمالی «آیفون اولترا تاشو» و افزایش قیمت مدل‌های پرو و پرو مکس به‌دلیل رشد هزینه‌های تولید، مهم‌ترین بخش‌های این رویداد هستند."
+        ],
+        "full_text": "Apple’s September 9th launch event could be one of its biggest in years. It will be Apple’s first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple’s iPhone 18 lineup. That could include the long-rumored foldable “iPhone Ultra,” coming just a couple months after Samsung debuted its own passport-style foldable, the Galaxy Z Fold 8. What to expect at Apple’s September 9th launch event Apple’s expected to announce a new lineup of iPhones, which could include its first foldable phone. Apple’s expected to announce a new lineup of iPhones, which could include its first foldable phone. Here’s how you can watch the event live, and a few possible highlights to keep an eye out for. How to watch Apple’s September launch event Apple’s “Surprise and shine” event kicks off on Wednesday, September 9th, at 1PM ET / 10AM PT at Apple Park in Cupertino, California. It will be livestreamed on Apple’s website, Apple TV, and YouTube. The iPhone 18 might be a no-show Apple usually announces new iPhones at its September event, but the base iPhone 18 might not make the cut this year. It’s reportedly being held until early next year, and it might end up launching alongside the iPhone 18E and an updated iPhone Air. So, if you’re looking to upgrade to one of Apple’s less expensive phones, you’ll likely need to wait a while longer. The iPhone 18 Pro and Pro Max could launch with a price hike While we might not get a new base iPhone, Apple is still expected to launch its new lineup of phones on September 9th with the iPhone 18 Pro and Pro Max. Both models are rumored to have larger batteries than their predecessors, and possibly a smaller Dynamic Island. They might even get a variable aperture camera upgrade that’s been rumored for years now. Leaked photos supposedly showing dummy models of the phone also hint at this year’s slate of colors, which could include black, silver, light blue, and a dark cherry purple. Unfortunately, there’s also a good chance the iPhone 18 Pro and Pro Max will get a price bump over last year’s models. Apple raised prices on nearly all of its products earlier this year, and those price hikes might finally reach the iPhone during the September 9th event. Apple might announce its first foldable phone One of the premium phones Apple launches on September 9th could be the rumored foldable “iPhone Ultra.” Images of an apparent dummy model of the folding phone leaked earlier this year, showing a passport-style design similar to Samsung’s Galaxy Z Fold 8 and the Xiaomi 18 Fold. The Galaxy Z Fold 8 has been well received so far, with The Verge’s Dominic Preston saying it “feels like the future.” Will Apple’s first foldable be able to compete, despite being fashionably late? The ceramic Apple Watch may finally return Last year’s September Apple event included the Apple Watch Series 11 and Ultra 3, and there’s a good chance both watches will get an update again this year. According to Bloomberg’s Mark Gurman, the Series 12 could bring back the premium ceramic case option. Gurman also says the Series 12 will have new band colors and configurations, but most likely won’t have any big redesign. Aside from new cases and colors, Apple might also announce new health features for its wearables, like always-on heart rate sensing. Apple could launch new AirPods, but probably not with cameras It’s been a couple of years since Apple released the AirPods 4, so they’re due for an upgrade and could make an appearance at Apple’s September 9th event. However, Gurman says the camera-equipped AirPods that leaked last month won’t be released until 2027. So, if Apple announces the AirPods 5 at its upcoming event, they’ll likely be an iterative upgrade, potentially including a new chip and some new health sensors.",
+        "impact": "تغییر استراتژی اپل در جدول زمانی عرضه محصولات و ورود رسمی به بازار رقابتی گوشی‌های تاشو.",
+        "tag": "گجت",
+        "urgency": 9,
+        "sentiment": 0.2,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+        "clean_url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266,0,90.158761061947,94.827045012242&w=1200",
+        "images": [
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266,0,90.158761061947,94.827045012242&w=1200",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-08-26-at-9.17.30-AM.webp?quality=90&strip=all&crop=2.4612831858407%2C0%2C95.077433628319%2C100&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788533520.0
+    },
+    {
+        "id": "61bdc44288",
+        "title_fa": "موج جدید سرمایه‌گذاری در اکوسیستم فناوری اروپا",
+        "title_en": "Wonderful raises $550M, Mykhailo Fedorov's new defencetech investment fund, and Londoners can now hail AVs (with safety drivers)",
+        "summary": [
+            "شرکت Nscale برای توسعه زیرساخت‌های پردازش ابری هوش مصنوعی موفق به دریافت پکیج مالی ۳ میلیارد دلاری شد.",
+            "استارتاپ هلندی Wonderful در یک دور سرمایه‌گذاری ۵۵۰ میلیون دلار جذب کرد و ارزشیابی خود را به ۵ میلیارد دلار رساند.",
+            "همکاری Uber و Wayve برای ارائه خدمات تاکسی خودران در لندن به طور رسمی آغاز شد."
+        ],
+        "full_text": "If email is more your thing, you can always subscribe to our newsletter and receive a more robust version of this round-up delivered to your inbox. ❗ Want to explore the data in more detail? The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends. Either way, let's get you up to speed. 💸 Notable and big funding rounds 🇬🇧 Nscale closes $3B debt package to power AI infrastructure buildout across the US 🇳🇱 AI startup Wonderful raises $550M at $5BN valuation 🇬🇧 FNZ raises $450M in funding 🏽🏻 Noteworthy acquisitions and mergers 🇫🇷 Nvidia confirms $12.93BN purchase of Hugging Face 🇩🇪 Factorial from Spain acquires Berlin AI startup Empion 🇸🇪 Fresh from €14.6 million Seed round, eComID acquires Nilum to push into recommerce 🇳🇴. Oslo-based Pistachio acquires Hugin.io to expand into cybersecurity compliance 🚀 Interesting moves from investors 💰 Former Ukraine defence minister Mykhailo Fedorov plans new defencetech investment fund 💵 British Business Bank commits up to £46M to Zinc’s new deeptech fund 💸. Uplift Ventures launches €100M fund to back European deeptech startups 💰 Cummins joins Emerald Technology Ventures as LP to accelerate industrial innovation 🗞️ In other (important) news 💸 August European tech funding falls 63% as dealmaking slows 🚗 Londoners can now hail Wayve autonomous vehicles through Uber 🇳🇱 The Netherlands' top-funded tech companies in H1 2026 📡 Recommended reads and listens 🤖 Human must not surrender cognition to AI 🔭 AIRMO takes aim at methane leaks from space 🎧 The scientist-founder using AI to make language learning ‘magical’ 🔭 European tech startups to watch 🇪🇪 Instarc raises €1.25M to scale its cloud-native compliance platform 🇸🇪 Drone cleaning startup Cleean raises €900,000 despite regulatory questions 🇬🇧 Rightcharge raises £500,000 to scale fleet EV charging payments across Europe 🇨🇭 Stellar Alpina secures €160,000 from Venture Kick for in-space propulsion 🇸🇪 Hiasynth raises angel funding to build a queryable synthetic model of Europe’s population",
+        "impact": "شتاب‌گیری بی‌سابقه توسعه زیرساخت‌های محاسباتی و حمل‌ونقل خودکار در قاره اروپا.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Tech.eu",
+        "url": "https://tech.eu/2026/09/04/wonderful-raises-550m-mykhailo-fedorov-s-new-defencetech-investment-fund-and-londoners-can-now-hail-avs-with-safety-drivers/",
+        "clean_url": "https://tech.eu/2026/09/04/wonderful-raises-550m-mykhailo-fedorov-s-new-defencetech-investment-fund-and-londoners-can-now-hail-avs-with-safety-drivers",
+        "image": "https://cdn.tech.eu/uploads/2026/09/this-week-in-65.png",
+        "images": [
+            "https://cdn.tech.eu/uploads/2026/09/this-week-in-65.png",
+            "https://tech.eu/img/techeu-color.svg",
+            "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg",
+            "https://sa-api.tech.eu/noscript.gif"
+        ],
+        "timestamp": 1788531780.0
+    },
+    {
         "id": "79913f9112",
         "title_fa": "بررسی سیر تحول و زمان‌بندی ابتکار عمل Pax Silica",
         "title_en": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Sep 4, 2026",
@@ -194,6 +432,30 @@
             "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2byL4Y.img?w=2598&h=1732&m=4&q=94"
         ],
         "timestamp": 1788527861.0
+    },
+    {
+        "id": "44921b3c61",
+        "title_fa": "جذب سرمایه ۱۲ میلیون دلاری استارتاپ گهواره هوشمند مبتنی بر AI",
+        "title_en": "Cradlewise raises $12 million to make AI cribs for newborns: What about DPDP compliance?",
+        "summary": [
+            "استارتاپ Cradlewise با جذب ۱۲ میلیون دلار سرمایه جدید قصد دارد تولید گهواره‌های مجهز به سنسور و هوش مصنوعی را توسعه دهد.",
+            "الگوریتم این گهواره با تحلیل حرکات و صدای نوزاد، قبل از بیدار شدن کامل او با حرکات ملایم مانع بیداری نوزاد می‌شود.",
+            "چالش‌های مربوط به حریم خصوصی و نحوه ذخیره‌سازی داده‌های رفتاری کودکان، مهم‌ترین ابهام موجود پیرامون توسعه این گجت است."
+        ],
+        "full_text": "Consumer health and wellness startup Cradlewise, which makes AI-powered cribs for toddlers, has raised $12 million (~Rs 113 crore) in its Series A funding round led by 3one4 Capital and Prudent Investment Management. The company plans to deploy the fresh capital towards growth initiatives, research and development (R&D), new sales channels and international expansion. Founded in 2017 by husband-and-wife duo Radhika Patil and Bharath Patil, Cradlewise describes itself as an AI-first consumer tech company that makes smart cribs designed to soothe babies and help improve family sleep. The company’s AI-enabled cribs use sensors to track a babyâs movements, sounds, sleep patterns and other contextual signals. Its system uses this data to predict when a baby is likely to wake up and intervene before the baby fully wakes up. Cradlewise says its technology has learnt from more than 75 hours of infant sleep. Its Pune facility can reportedly produce thousands of AI cribs each month. The company claims that its product can save parents as much as two hours of effort every day. The platform competes against the likes of SNOO, Elvie Rise and 4moms MamaRoo Sleep, among others. What’s next for the company?Over the next phase, Cradlewise intends to expand access through a broader set of online, retail, partnership, and international channels. The next set of initiatives will take the company beyond the crib with software-led sleep routines, related child sleep hardware, lower-priced entry points, and reusable sensing and electronics modules that can shorten future product development cycles. The roadmap is designed to extend relevance from the 0-24 month infant window into later childhood. Commenting on the fundraise, Anand Batra, Investments Team, 3one4 Capital said, “Cradlewise is solving an acute parenting problem with a rare combination of product depth, data, manufacturing control, and customer trust. Radhika and Bharath have built a differentiated sleep system with strong unit economics and a roadmap that can extend the customer relationship beyond infancy.” What remains unclear:Cradlewise has disclosed neither the valuation at which new investors joined the cap table nor the share of equity surrendered to them. What kind of child data Cradlewise collects for its AI cribs?Cradlewiseâsprivacy policystates that the platform can collect a babyâs name, profile image, date of birth and gender.Â",
+        "impact": "ورود هوش مصنوعی تخصصی به حوزه‌های حساس سبک زندگی و مراقبت از نوزادان.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "MediaNama",
+        "url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns/",
+        "clean_url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns",
+        "image": "https://www.medianama.com/wp-content/uploads/2026/09/22bc9570-0cc4-4169-abb1-6da9b5a67558.jpg",
+        "images": [
+            "https://www.medianama.com/wp-content/uploads/2026/09/22bc9570-0cc4-4169-abb1-6da9b5a67558.jpg",
+            "https://c.statcounter.com/6792882/0/4efe5883/1/"
+        ],
+        "timestamp": 1788527100.0
     },
     {
         "id": "893a3f1aea",
@@ -6701,257 +6963,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787673600.0
-    },
-    {
-        "id": "0b448f4302",
-        "title_fa": "ردیابی انقراض جغد خالدار با هوش مصنوعی و پایش صوتی",
-        "title_en": "Listening for extinction: Study finds areas of critical concern for northern spotted owls",
-        "summary": [
-            "پژوهشگران با ترکیب پایش صوتی غیرفعال و الگوریتم‌های یادگیری ماشین، وضعیت بحرانی جمعیت جغدهای خالدار را در مساحتی گسترده تحلیل کردند.",
-            "داده‌های هوش مصنوعی نشان می‌دهد گونه رقیب (جغد بارد) هشت برابر بیشتر شنیده شده و جغد خالدار در آستانه انقراض عملکردی قرار دارد."
-        ],
-        "full_text": "Listening for extinction: Study finds areas of critical concern for northern spotted owls Northern spotted owl populations are approaching or have already crossed functional extinction across large areas of the Pacific Northwest, a new study, published in Ecological Applications found. Researchers used artificial intelligence and advanced monitoring methods to assess long-term trends at an unprecedented scale. While northern spotted owl populations have declined for decades, this study identifies where populations are at or near functional extinction, meaning numbers are so low that they no longer play a meaningful ecological role or cannot reproduce enough to persist. It also provides detailed population data on barred owls, which outcompete northern spotted owls for prey and habitat. \"These findings demonstrate that passive acoustic monitoring and machine learning can be used for large-scale ecological monitoring,\" said Damon Lesmeister, a wildlife biologist at the U.S. Forest Service's Pacific Northwest Research Station and a courtesy faculty member at Oregon State University. \"Our hope is that they can help shape conservation strategies and improve conservation outcomes for the northern spotted owl.\" Study findings include: - Barred owl calls were heard eight times more often than spotted owl calls across the entire study area in Oregon, Washington and northwestern California. - Northern spotted owls are approaching functional extinction thresholds in Washington and on the Oregon Coast. - Northern spotted owls were not detected in the Washington Cascades at latitudes north of Seattle. The conservation and management of northern spotted owls became one of the largest and most visible wildlife conservation issues in U.S. history after the species was listed as threatened under the Endangered Species Act in 1990 because of rapid declines in the owl's old-forest habitats. Four years later, the Northwest Forest Plan was adopted and reduced the rate of logging of old-growth forests on federal lands. Despite more than 30 years of protection, northern spotted owl populations have continued to decline due to continued habitat loss from logging and wildfire and competition from barred owls, whose range in recent decades has increasingly intersected with spotted owl territory. For the new study, scientists led by teams at the U.S. Forest Service and Oregon State's Department of Fisheries, Wildlife, and Conservation Sciences divided more than 38,000 square miles (98,000 square kilometers) of federally managed northern spotted owl habitat in Oregon, Washington and northwestern California into 5-kilometer (3.1-mile) hexagon sampling units meant to replicate the typical territory of a northern spotted owl. They randomly selected 1,027, or 3%, of those hexagons and deployed four passive acoustic recording devices in each hexagon for a six- to eight-week period between February and September 2023. The devices collected more than 2.1 million hours of recordings. Using machine learning models the researchers developed, research computers at Oregon State's Center for Quantitative Life Sciences analyzed those recordings. Among the findings from that analysis: - Northern spotted owl calls were confirmed in 261 of the 1,027 hexagon sampling areas, and barred owl calls were confirmed in 891 of the sampling areas. - A total of 34,341 northern spotted owl and 279,439 barred owl clips were recorded, meaning barred owls were heard more than eight times more often than northern spotted owls. - Northern spotted owls were detected more often in samples from the southern portions of the range. Levels ranged from 13%–17% in Washington and the Oregon Coast to 44% in the Oregon and California Klamath Mountains and 91% on the California Coast. - Barred owls were heard more frequently in northern sampling areas. They were heard in 100% of sample areas on the Oregon Coast, 94% on the Washington Coast and Western Cascades, 72% in the Oregon and California Klamath Mountains and 45% on the California Coast. This monitoring has continued since the 2023 period analyzed in this paper, and preliminary findings from the additional monitoring mirror those outlined in the paper, Lesmeister said. Lesmeister believes the findings can help focus northern spotted owl conservation strategies on specific geographic areas. The authors cite several conservation strategies, including ongoing barred owl removal efforts, conserving landscapes well-suited for northern spotted owl nesting and bringing northern spotted owls into captivity for breeding, a strategy that has been adopted in Canada. \"Northern spotted owls are already functionally extinct in large swaths of their range. It's not a thing that's happening in the future, it has happened,\" Lesmeister said. \"That doesn't mean we can't do anything. There is still an opportunity for carefully considered management actions.\" Publication details Damon B. Lesmeister et al, Listening for extinction: Range‐wide occupancy highlights critical risks and priorities for northern spotted owls, Ecological Applications (2026). DOI: 10.1002/eap.70294",
-        "impact": "الگوریتم‌های پردازش صوت و هوش مصنوعی ابزاری حیاتی برای زیست‌شناسان در تصمیم‌گیری‌های فوری محیط‌زیستی فراهم کرده‌اند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-08-extinction-areas-critical-northern-owls.html",
-        "clean_url": "https://phys.org/news/2026-08-extinction-areas-critical-northern-owls.html",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/listening-for-extincti.jpg",
-        "images": [
-            "https://scx2.b-cdn.net/gfx/news/hires/2026/listening-for-extincti.jpg",
-            "https://scx2.b-cdn.net/gfx/news/2026/listening-for-extincti.jpg",
-            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
-            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg"
-        ],
-        "timestamp": 1787672400.0
-    },
-    {
-        "id": "8b1eae1792",
-        "title_fa": "ابتکار بزرگ آموزش هوش مصنوعی به ۵ میلیون نفر در آفریقا",
-        "title_en": "Slangit Technologies and GADEF International Launch Africa AI Literacy Initiative to Reach Five Million People",
-        "summary": [
-            "شرکت اسلنگ‌ایت با همکاری سازمان GADEF پروژه‌ای گسترده برای ارتقای سواد هوش مصنوعی در قاره آفریقا کلید زد.",
-            "هدف این برنامه توانمندسازی اقتصادی و آماده‌سازی پنج میلیون نیروی کار آفریقایی برای بازار کار دیجیتال آینده است."
-        ],
-        "full_text": "Slangit Technologies and GADEF International Launch Africa AI Literacy Initiative to Reach Five Million People  Yahoo Finance",
-        "impact": "توسعه سواد هوش مصنوعی در مناطق در حال توسعه، به جبران شکاف دیجیتالی و خلق فرصت‌های شغلی جدید کمک می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.8,
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1pCNTF1OXRzVURlQllVNDFjaWVRa0RVX3V2cldHV0tHNzExZm95S0FkN050ei15aUpFLTgyR09NeEl3UlI5aGttbzFUd003UHFYajJIVWlZbVdveGlleWlzTTN1ZWVSanp5RmkwM1E2a1VEY0pnbGxxY09zZm0yWFZjYlVBOURoWlBUYjhuX196RzRjdjNhNk5yZ05fSWpMVUpMekJFNTF6Z0JkSE9xLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1pCNTF1OXRzVURlQllVNDFjaWVRa0RVX3V2cldHV0tHNzExZm95S0FkN050ei15aUpFLTgyR09NeEl3UlI5aGttbzFUd003UHFYajJIVWlZbVdveGlleWlzTTN1ZWVSanp5RmkwM1E2a1VEY0pnbGxxY09zZm0yWFZjYlVBOURoWlBUYjhuX196RzRjdjNhNk5yZ05fSWpMVUpMekJFNTF6Z0JkSE9xLQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787671800.0
-    },
-    {
-        "id": "e007587af2",
-        "title_fa": "افت ۴۰ درصدی سرمایه‌گذاری روی فین‌تک‌های کانادا",
-        "title_en": "Canadian fintech investment falls more than 40% year over year as investors make fewer bets",
-        "summary": [
-            "حجم سرمایه‌گذاری در فین‌تک‌های کانادایی در نیمه نخست سال با افت شدید به حدود ۹۹۶.۷ میلیون دلار رسیده است.",
-            "کاهش تعداد قراردادها تغییر رفتار سرمایه‌گذاران به سمت گزینش‌گری سخت‌گیرانه‌تر و ریسک‌پذیری کمتر را تایید می‌کند."
-        ],
-        "full_text": "Canadian fintech funding has entered a more selective phase. Investment reached US$996.7 million across 47 deals in the first half",
-        "impact": "کند شدن فرآیند جذب سرمایه و اجبار استارتاپ‌های مالی به تمرکز روی سودآوری سریع‌تر.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Trendonomist",
-        "url": "https://www.msn.com/en-ca/money/investment/canadian-fintech-investment-falls-more-than-40-year-over-year-as-investors-make-fewer-bets/ar-AA2aUcGO",
-        "clean_url": "https://www.msn.com/en-ca/money/investment/canadian-fintech-investment-falls-more-than-40-year-over-year-as-investors-make-fewer-bets/ar-AA2aUcGO",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GnzxN.img?w=1600&h=900&m=4&q=79",
-        "images": [
-            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GnzxN.img?w=1600&h=900&m=4&q=79"
-        ],
-        "timestamp": 1787670104.0
-    },
-    {
-        "id": "dc4d3819bd",
-        "title_fa": "یکپارچه‌سازی ابزارهای سازمانی مایکروسافت در نقشه راه هوش مصنوعی",
-        "title_en": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
-        "summary": [
-            "مایکروسافت پلتفرم‌های Dynamics 365 و Power Platform و Dataverse را رسماً به نقشه راه AI at Work ملحق کرد.",
-            "این اقدام روند استفاده از عامل‌های هوشمند در فرایندهای کاری و داده‌های سازمانی را منسجم‌تر و سریع‌تر می‌کند."
-        ],
-        "full_text": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap  Microsoft",
-        "impact": "اتوماسیون سازمانی عمیق‌تر شده و ابزارهای مدیریتی مستقیماً به هوش مصنوعی مولد متصل می‌شوند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Microsoft",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY5RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk4TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI5XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U4VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY5RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk4TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI5XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U4VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787670000.0
-    },
-    {
-        "id": "4e60e7ea30",
-        "title_fa": "تداوم سرمایه‌گذاری‌های سنگین روی ابزارهای هوش مصنوعی برنامه‌نویسی",
-        "title_en": "Funding and M&A news for ISVs & Devs: Fall 2026",
-        "summary": [
-            "جذب سرمایه در حوزه ابزارهای برنامه‌نویسی مبتنی بر AI مانند دور ۱.۵ میلیارد دلاری Fireworks AI و ارزش‌گذاری ۲۹ میلیارد دلاری Cursor با سرعت ادامه دارد.",
-            "در بخش نرم‌افزارهای تخصصی (Vertical SaaS)، سرمایه‌گذاران بیشتر روی مراحل اولیه تمرکز کرده‌اند و اثبات درآمدزایی شرط اصلی ورود سرمایه شده است."
-        ],
-        "full_text": "If you build software for a living, the funding and M&A environment around you shapes what tools you’ll use, who might come knocking with an acquisition offer, and where your own investors’ heads are at. Here’s a look at what’s happened recently across vertical SaaS, AI developer tools, and software consolidation, along with what it might mean for your business. Vertical Insure raises new capital to expand embedded insurance for SaaS platforms Minneapolis-based Vertical Insure announced new financing in early August, led by Updata Partners, with the amount undisclosed. The company embeds white-label insurance products directly into the checkout, billing, and registration flows of vertical SaaS platforms, and already partners with more than 100 software companies including Blackbaud and Togetherwork. This is worth watching if you’re an ISV thinking about new revenue lines, since embedded financial products (insurance, payments, lending) continue to be one of the more reliable ways vertical software companies expand margin without adding headcount. Vertical SaaS funding stayed selective, with Series A leading the pack A rolling analysis of vertical SaaS funding between August 2025 and July 2026 found 32 disclosed equity rounds totaling just under a billion dollars, with no single deal dominating the total. Series A was the largest stage this year by both dollar volume and deal count, and seed plus Series A together account for 75% of all deals. Late-stage rounds still capture the majority of total capital, but deal count increasingly skews toward newer, often AI-native vertical software companies. If you’re an ISV evaluating your own next raise, this suggests investors haven’t lost interest in vertical software, they’ve just gotten more disciplined about proving out a workflow with real budget and compliance exposure before writing a large check. AI dev tools keep pulling in outsized rounds Investment in AI-assisted development tools hasn’t slowed down. Enterprise AI infrastructure startup Fireworks AI closed a $1.5 billion Series D in July, while a broader tally of pure-play AI dev tools companies found 23 disclosed equity rounds between August 2025 and July 2026, spanning code review, testing, DevOps, and coding security. Earlier rounds this year included Cursor’s $2.3 billion Series D at a $29.3 billion valuation and Cognition’s $400 million-plus raise following its Devin platform’s revenue growth. If you’re building software today, this is the category most likely to directly affect your own toolchain, since much of this capital is going toward the exact AI coding and testing tools your development team may already be evaluating or using. Vertical SaaS M&A multiples vary sharply by industry, and legal tech just proved it Legal technology platform Clio used its $850 million Series G, raised at a $5 billion valuation, to simultaneously acquire legal research platform vLex in a deal worth roughly a billion dollars. The combined company now spans practice management, client intake, and AI-powered legal research in a single suite. It’s a useful data point for any vertical ISV thinking about M&A as a growth lever rather than just an exit path: healthcare IT companies currently command close to twice the revenue multiple of education technology companies in M&A deals, a reminder that vertical matters as much as growth rate when it comes to what the market will pay. Strategic acquirers are using M&A as a growth engine, not just defense Strategic buyers accounted for 62% of lower-middle-market SaaS transactions in 2025, up from 55% in 2023, and the pattern is showing up across company sizes. Salesforce, HubSpot, and Microsoft have all used acquisitions to fill capability gaps quickly, and the same behavior is showing up at smaller scale too, with mid-market software companies acquiring niche AI or analytics startups to build out a platform before a competitor gets there first. If you’re a smaller ISV, this trend cuts both ways: it’s more plausible that a larger platform player wants to acquire your specific capability, but it also means you’re increasingly competing against companies who’d rather buy a feature than build it themselves. What this means for your business The throughline across all of this is that specialization keeps winning. Investors are rewarding vertical depth over horizontal breadth, acquirers are paying premiums for workflows with real switching costs, and the AI dev tools space is attracting capital fast enough that your own development stack is likely to look different a year from now than it does today. None of this demands an immediate response, but it’s worth revisiting your own roadmap and cap table conversations with this backdrop in mind, particularly if you’re in a vertical (healthcare, legal, financial services) where the multiples data suggests the market is paying close attention. If you’re weighing your own fundraising or exit timeline, the vertical-specific multiple data is worth a closer look, since a generic “software is hot right now” read on the market will miss real differences between what a healthcare ISV and an education ISV can expect to command.",
-        "impact": "تمرکز فوق‌العاده سرمایه‌گذاران روی دستیارهای هوشمند کدنویسی، ابزارهای توسعه نرم‌افزار را کاملاً دگرگون کرده است.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "DevPro Journal",
-        "url": "https://www.devprojournal.com/software-development-trends/mergers-acquisitions/funding-and-ma-news-for-isvs-devs-fall-2026/",
-        "clean_url": "https://www.devprojournal.com/software-development-trends/mergers-acquisitions/funding-and-ma-news-for-isvs-devs-fall-2026",
-        "image": "https://www.devprojournal.com/wp-content/uploads/2019/02/payments-MA-e1551303914750.jpg",
-        "images": [
-            "https://www.devprojournal.com/wp-content/uploads/2019/02/payments-MA-e1551303914750.jpg",
-            "https://www.devprojournal.com/wp-content/uploads/2020/01/DevProJournal-Logo-Small-2020.jpg",
-            "https://www.devprojournal.com/wp-content/uploads/2020/01/DevProJournal-Logo-Large-2020.jpg",
-            "https://www.devprojournal.com/wp-content/uploads/2025/02/DevPro_RSPA-Evergreen-Ad_728x90.png"
-        ],
-        "timestamp": 1787669580.0
-    },
-    {
-        "id": "b0769bb731",
-        "title_fa": "سرمایه‌گذاری ۴۵ میلیون دلاری برای توسعه آموزش‌های فنی و دفاعی",
-        "title_en": "New England Institute of Technology, Electric Boat launch $45M expansion project",
-        "summary": [
-            "این پروژه مشترک با هدف آموزش نیروهای متخصص برای صنایع دریایی و دفاعی کلید خورده است.",
-            "سرمایه‌گذاری فوق کارگاه‌ها و زیرساخت‌های آموزشی دانشگاه نیوانگلند را برای تأمین نیروی کار مورد نیاز گسترش می‌دهد."
-        ],
-        "full_text": "New England Institute of Technology, Electric Boat launch $45M expansion project  Providence Business News",
-        "impact": "تقویت زیرساخت‌های آموزشی صنعتی و جبران کمبود نیروی متخصص در بخش ساخت شناور و صنایع دفاعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Providence Business News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1QyWGVmbm9aeEhzWGNjeUlIeTZFMXlScHFoNHRrWWlybzNiT2JMVng5Yk5za19xS29RQlNFdHhJbU9hMHFyb1lNZUlqZmRuM3FvNU9KRFRPNngweDk4ZmlzVkdwVV9NN0hPNXFDeFFBSUZwSXgwNV9nZktnSERiV01DMGNKaW9KUi0tUEtmR1hZMms2Zzl6SnZjNNIBowFBVV95cUxOYjJLdmYzLUJ6bWNtYWQ4S3dHZHVYUHRONkEtVlh0ZXRiNXBlblFIOUNHaGxRRjlpZWpMRlU5emJaWUhFN0dBU3E3LTIzODUyUU1SQ3pjYmZpYTdLUzBpTmd3TW1CN1kxYldVZWJBSXM3Z0VZYWRLMnQ2Z2hMREExT2dPbkN3cXJBc2xfTG1pLXJyR0FMcUNwVVJvXzZkc1c2aWdF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1QyWGVmbm9aeEhzWGNjeUlIeTZFMXlScHFoNHRrWWlybzNiT2JMVng5Yk5za19xS29RQlNFdHhJbU9hMHFyb1lNZUlqZmRuM3FvNU9KRFRPNngweDk4ZmlzVkdwVV9NN0hPNXFDeFFBSUZwSXgwNV9nZktnSERiV01DMGNKaW9KUi0tUEtmR1hZMms2Zzl6SnZjNNIBowFBVV95cUxOYjJLdmYzLUJ6bWNtYWQ4S3dHZHVYUHRONkEtVlh0ZXRiNXBlblFIOUNHaGxRRjlpZWpMRlU5emJaWUhFN0dBU3E3LTIzODUyUU1SQ3pjYmZpYTdLUzBpTmd3TW1CN1kxYldVZWJBSXM3Z0VZYWRLMnQ2Z2hMREExT2dPbkN3cXJBc2xfTG1pLXJyR0FMcUNwVVJvXzZkc1c2aWdF",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787668311.0
-    },
-    {
-        "id": "88a83d71a5",
-        "title_fa": "رونمایی از پلتفرم هوشمند RISE برای مدیریت سازمان‌ها در عمان",
-        "title_en": "Otech and Remedy Launch AI-Powered RISE Talent Platform to Drive Enterprise Performance in Oman",
-        "summary": [
-            "شرکت‌های Otech و Remedy پلتفرم جدید RISE را برای ارتقای عملکرد سازمان‌ها در عمان راه‌اندازی کردند.",
-            "این سامانه مبتنی بر هوش مصنوعی، فرایند ارزیابی، جذب و ارتقای مهارت‌های نیروی انسانی را هوشمند می‌سازد."
-        ],
-        "full_text": "Otech and Remedy Launch AI-Powered RISE Talent Platform to Drive Enterprise Performance in Oman  TechAfrica News",
-        "impact": "تسریع دیجیتالی‌شدن منابع انسانی و اتوماسیون ارزیابی کارکنان در بازار خاورمیانه.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "TechAfrica News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjREd0txWDh2ODdROHdlWm5LeVJqQTJZWlRCR000enNDeDhZcHN3ZGZQSl90bWJxWUIySjZtclZwX1VhVUZwd04wbnNtNVk4UW5zeHZvN1dQeGVKNWNDZEFDNm0zbGVETlBwRTlELUxlejJhZUlVOU9Ya2JUamZMY3lyM01WQzVYNEFFS0JTNXZ1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjREd0txWDh2ODdROHdlWm5LeVJqQTJZWlRCR000enNDeDhZcHN3ZGZQSl90bWJxWUIySjZtclZwX1VhVUZwd04wbnNtNVk4UW5zeHZvN1dQeGVKNWNDZEFDNm0zbGVETlBwRTlELUxlejJhZUlVOU9Ya2JUamZMY3lyM01WQzVYNEFFS0JTNXZ1QQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787668147.0
-    },
-    {
-        "id": "1963c0d3c0",
-        "title_fa": "جذب سرمایه ۲ میلیارد دلاری استارتاپ‌های حقوقی هوش مصنوعی",
-        "title_en": "Legal AI Has Attracted $2 Billion But How Can Small Businesses Benefit",
-        "summary": [
-            "استارتاپ‌های فناوری حقوقی با ترکیب هوش مصنوعی و تایید وکلا، هزینه خدمات حقوقی را برای کسب‌وکارهای کوچک به‌شدت کاهش داده‌اند.",
-            "ورود بیش از ۲.۱ میلیارد دلار سرمایه در نیمه اول ۲۰۲۶، اقبال بی‌نظیر سرمایه‌گذاران به اتوماسیون امور حقوقی را ثابت می‌کند."
-        ],
-        "full_text": "Small businesses often struggle with the high cost of legal services, frequently foregoing essential protections. A new generation of legal technology companies is now leveraging AI to make routine legal work, such as contracts and incorporation, significantly more affordable and efficient. Firms like Soxton combine AI-generated documents with licensed attorney review, drastically cutting costs and turnaround times compared to traditional law firms. This innovative approach could democratize legal access for small businesses, potentially expanding the market rather than eliminating legal jobs. However, experts emphasize that human judgment remains critical; AI assists in execution, but attorneys must provide oversight, risk assessment, and final approval. The aim is to use AI for repeatable tasks, allowing lawyers to focus on complex issues and ensuring accessible, professionally sound legal support. For small business owners, AI is a conflicting topic. Several owners are weary of it, having built businesses that prize human connection and person-to-person customer service. Yet there’s one area that’s often been dicey for small businesses, and often priced them out entirely from pursuing it: legal issues. Legal work has traditionally presented an uncomfortable choice: either pay thousands of dollars for help from a law firm, attempt to navigate contracts and incorporation documents alone, or postpone the work altogether. A new generation of legal technology companies argues that artificial intelligence can offer another option, and this may be where it’s actually advantageous to small businesses who don’t have massive budgets. The clearest opportunity is not replacing attorneys in courtrooms or negotiating complex acquisitions. It is making routine legal work, such as incorporation, nondisclosure agreements, standard contracts and document review, faster and less expensive. Google is the latest technology giant racing into legal AI, and announced today morelegal AI features through Google Cloud. But another experiment is happening further down the market: entrepreneurs are using the same technology to build law firms from the ground up, promising to give small businesses access to legal services that have traditionally been prohibitively expensive. In fact, investors havereportedly put $2.1 billioninto legal-tech startups globally in the first half of 2026. Soxton, a legal platform for startups and small and medium-sized businesses, combines AI-generated documents with review by licensed attorneys. Founder and CEO Logan Brown said routine drafting, redlining, and contract-review requests begin with an AI system trained on the company’s legal template library. An experienced attorney reviews each AI-drafted contract before it reaches the client. Brown said that process allows Soxton to return contracts in under 24 hours, something that would not have been possible before. The company offers free Delaware C-Corporation incorporation through banking partners Rho and Mercury, while standard contracts such as NDAs generally cost between $200 and $500 per document. Brown estimates traditional large firms may charge between $1,000 and $10,000 for comparable work. For larger transactions, the gap can also be substantial. Soxton charges fixed fees of roughly $10,000 to $20,000 for matters including priced fundraising rounds and mergers and acquisitions. Brown said a funding round priced at $20,000 through Soxton might cost $50,000 to $100,000 at a large traditional law firm. “We use flat, fixed fees rather than the billable hour,” Brown says, describing it as a deliberate departure from her previous experience at Cooley, where she said they billed at much higher rates. Soxton claims that its clients save an average of $35,000 annually in legal costs. Those are company-supplied comparisons, and the nature and complexity of legal matters vary considerably. But they illustrate how AI could alter the economics of an industry still largely organized around billing for attorneys’ time. If software completes an initial draft or review in minutes, clients may become less willing to pay for several hours of junior lawyer work. Cat Casey, founder ofThe Techno Cat, says corporate legal departments are already challenging this model. “General counsel at leading corporations have stated in no uncertain terms they will not pay outside counsel the same number of billable hours for tasks that AI and automation deliver at a fraction of the cost.”",
-        "impact": "دسترسی ارزان و سریع کسب‌وکارهای کوچک به تنظیم قراردادها و خدمات حقوقی استاندارد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/eshachhabra/2026/08/25/legal-ai-has-attracted-2-billion-but-how-can-small-businesses-benefit/",
-        "clean_url": "https://www.forbes.com/sites/eshachhabra/2026/08/25/legal-ai-has-attracted-2-billion-but-how-can-small-businesses-benefit",
-        "image": "http://www.bing.com/th?id=ONUT.b31XTNb70T5NVYMmbGDvbA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.b31XTNb70T5NVYMmbGDvbA&pid=News",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
-            "https://imageio.forbes.com/specials-images/imageserve/6a8e033ca964795a0c01ea08/Services-and-legal-consultancy-concept--Business-legal-services--advice--justice-and/0x0.jpg?width=960"
-        ],
-        "timestamp": 1787667180.0
-    },
-    {
-        "id": "cf32cac78f",
-        "title_fa": "تغییر استراتژی سیلیکون‌ولی؛ زیرساخت فیزیکی، خندق جدید رقابتی استارتاپ‌ها",
-        "title_en": "Why Physical Infrastructure Is Becoming Silicon Valley’s Next Big Competitive Mo...",
-        "summary": [
-            "با سخت‌تر شدن شرایط جذب سرمایه، دوران رشد بی‌رویه شرکت‌های صرفاً نرم‌افزاری به پایان رسیده و سرمایه‌گذاران به دنبال مدل‌های باثبات‌تر هستند.",
-            "ترکیب هوش مصنوعی با زیرساخت‌های واقعی شهری و ناوگان‌های فیزیکی، مزیتی رقابتی ایجاد می‌کند که کپی‌برداری از آن برای رقبا تقریباً غیرممکن است."
-        ],
-        "full_text": "Entrepreneur Media LLC and Yahoo Finance LLC may earn commission or revenue on some products and services through the links below. Key Takeaways - Infrastructure creates lasting advantages as product companies build moats through operations and physical assets that are harder to replicate than software alone - Capital discipline drives stronger growth and shows that efficient execution can outperform, raising large amounts of venture capital - The future is hybrid, with the next generation of successful companies combining AI with real-world infrastructure For much of the past decade, Silicon Valley embraced a single formula for startup success. Build software, acquire users at breakneck speed, raise increasingly larger venture rounds and worry about profitability later. Scale became synonymous with software because code could be deployed instantly and replicated at virtually no cost. That playbook is beginning to change due to tighter venture funding and increased investor scrutiny. This has shifted attention from growth at all costs to businesses with durable economics, operational excellence and sustainable profitability. While software remains a powerful business model, founders building physical products and infrastructure are demonstrating that enduring companies often require a different approach, one rooted in execution rather than pure acceleration. Next generation of Moats New York-based mobility company JOCO illustrates why. Backed by approximately $7.5 million in venture funding, the company has created one of the country's largest urban e-bike infrastructure networks. They are serving enterprise customers, including Amazon, Uber Eats, Grubhub, Instacart, and Gopuff. Its model arrives as electric mobility is becoming a significant economic force. According to Grand View Research, the global e-bike market was valued at more than $61 billion in 2024 and is expected to reach $144 billion by 2033. This is being driven by urbanization, sustainability initiatives and growing commercial adoption. At the same time, Fortune Business Insights projects the last-mile delivery market will surpass $212.46 billion by 2034, fueled by e-commerce and demand for faster urban logistics. Those statistics underscore a broader economic transformation. Cities around the world are investing in cleaner transportation solutions while retailers continue searching for faster, lower-cost ways to move goods. Companies operating at the intersection of both trends are positioned to benefit from powerful long-term tailwinds.",
-        "impact": "استارتاپ‌های نوین برای بقا مجبورند نرم‌افزار را با سخت‌افزار و عملیات پیچیده دنیای واقعی گره بزنند تا ارزشی پایدار خلق کنند.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "Entrepreneur",
-        "url": "https://finance.yahoo.com/small-business/articles/why-physical-infrastructure-becoming-silicon-140000848.html",
-        "clean_url": "https://finance.yahoo.com/small-business/articles/why-physical-infrastructure-becoming-silicon-140000848.html",
-        "image": "https://media.zenfs.com/en/entrepreneur_869/ef6df5298dc0e6dea2aac4a7eb45e1be.jpg",
-        "images": [
-            "https://media.zenfs.com/en/entrepreneur_869/ef6df5298dc0e6dea2aac4a7eb45e1be.jpg",
-            "https://s.yimg.com/lo/mysterio/api/2d5ed29dabd58f43d092c48260e4d999a3a3f14e9e019adc313dab0c33ea7f6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentrepreneur_869%2Fef6df5298dc0e6dea2aac4a7eb45e1be.jpg"
-        ],
-        "timestamp": 1787666968.0
-    },
-    {
-        "id": "d0952b98be",
-        "title_fa": "ورود هوش مصنوعی به سرم‌های ضدآفتاب برند Ludient",
-        "title_en": "Ludient Brings AI Skin Intelligence to SPF with Launch of Day Glow Sun Serum",
-        "summary": [
-            "برند Ludient با عرضه سرم Day Glow، هوش تحلیل پوست را با محصولات ضدآفتاب ترکیب کرده است.",
-            "این اقدام گامی تازه در شخصی‌سازی محصولات مراقبت از پوست با الگوریتم‌های هوشمند به حساب می‌آید."
-        ],
-        "full_text": "Ludient Brings AI Skin Intelligence to SPF with Launch of Day Glow Sun Serum  PR Newswire",
-        "impact": "گسترش کاربرد هوش مصنوعی در صنعت زیبایی و محصولات مصرفی روزمره.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDdjdE5Hek9rTzNsWUFkN1hfY3lUeG5OVlFvRGw3MFBfOFdIajg1WFVfQm5HSDcyRmxWOGFvWkxCQVpCUVlTMTJGNWlxWEhMX3RMNFhIQkUxQTNMVTBUWmRSR283LXJOTi1meFJmSmVUUVhNU2NOMFBEWHFrNk1oLVNZSW1VN0REdUJDR0dBa2NKZExmY1VoX2NsTks4WnZDem9ieHRSSmFMaGpHNHFKaHc3am5xYS1SaVBVYjlwWE1sSWw5XzBzQmpTZ2Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVDdjdE5Hek9rTzNsWUFkN1hfY3lUeG5OVlFvRGw3MFBfOFdIajg1WFVfQm5HSDcyRmxWOGFvWkxCQVpCUVlTMTJGNWlxWEhMX3RMNFhIQkUxQTNMVTBUWmRSR283LXJOTi1meFJmSmVUUVhNU2NOMFBEWHFrNk1oLVNZSW1VN0REdUJDR0dBa2NKZExmY1VoX2NsTks4WnZDem9ieHRSSmFMaGpHNHFKaHc3am5xYS1SaVBVYjlwWE1sSWw5XzBzQmpTZ2Y",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787665020.0
-    },
-    {
-        "id": "815d3c66cc",
-        "title_fa": "راهنمای انتخاب بهترین دایرکتوری برای معرفی ابزارهای هوش مصنوعی",
-        "title_en": "How to Choose the Best AI Tools Directory for Your Launch",
-        "summary": [
-            "هکرنون در مقاله‌ای آموزشی به بررسی معیارهای کلیدی برای انتخاب دایرکتوری مناسب جهت عرضه محصولات AI پرداخته است.",
-            "بررسی ترافیک واقعی، اعتبار پلتفرم و ترکیب مخاطبان، اصلی‌ترین فاکتورها برای جلب توجه اولین کاربران به شمار می‌روند."
-        ],
-        "full_text": "How to Choose the Best AI Tools Directory for Your Launch  HackerNoon",
-        "impact": "کاهش هزینه‌های بازاریابی استارتاپ‌ها و افزایش شانس دیده شدن محصولات نوپا.",
-        "tag": "استارتاپ",
-        "urgency": 2,
-        "sentiment": 0.2,
-        "source": "HackerNoon",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVERxa19CNlRQOWhrQmwxbjY2UFhWcmZUcVVaWEVYWEFRTm9BQ2w0d2JWalVRZWdzRllTajFkd19JbDdQNkZUUWpKdXZWN0p3UGxGMEdqcF9lRTBXZEhwYnRYRlBJOEhnTnFyQTl6U2FBSEdtaFBHQWtVM05FbHl4WVlpUlo3aUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVERxa19CNlRQOWhrQmwxbjY2UFhWcmZUcVVaWEVYWEFRTm9BQ2w0d2JWalVRZWdzRllTajFkd19JbDdQNkZUUWpKdXZWN0p3UGxGMEdqcF9lRTBXZEhwYnRYRlBJOEhnTnFyQTl6U2FBSEdtaFBHQWtVM05FbHl4WVlpUlo3aUE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787664869.0
     }
 ]
