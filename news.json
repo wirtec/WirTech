@@ -1,5 +1,50 @@
 [
     {
+        "id": "8a4dc595ef",
+        "title_fa": "شایعات جدید ایرپاد: دوربین‌های داخلی و قابلیت‌های هوش مصنوعی",
+        "title_en": "The latest AirPods rumors ahead of the Apple event: AirPods 5, cameras, and AI",
+        "summary": [
+            "گزارش‌های جدید نشان می‌دهند اپل در رویداد بعدی خود علاوه بر معرفی نسخه‌های تازه ایرپاد، ویژگی‌های هوش مصنوعی متعددی را در آن‌ها ادغام می‌کند.",
+            "احتمال تجهیز هندزفری‌های جدید به دوربین‌های مادون قرمز برای تشخیص محیط و پردازش ژست‌های حرکتی وجود دارد.",
+            "این اقدامبخشی از برنامه‌ریزی اپل برای تبدیل هندزفری به یک گجت پوشیدنی هوشمند و آگاه از محیط است."
+        ],
+        "full_text": "The latest AirPods rumors ahead of the Apple event: AirPods 5, cameras, and AI  Mashable",
+        "impact": "تغییر کاربرد هندزفری‌های بی‌سیم از یک ابزار پخش صدا به گجت‌های پردازشی آگاه از محیط.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjVUVjhKN0hDTkhwMXdmQ2NQd1lLbGVHNF9PRmQ4NHVQdmlYZEJoVEd6RUZhc0dieVdkZzNpcG4ta2lfaFFiVDFWSEFSb0hjUDRQcXJpbEFUelRfdVhxUXFSTWxrNUFkYzZsTDNQT0tKb0owZFdmTTVESUpKeWQ5QTFYRDFoSGFDbWk4dUtPVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjVUVjhKN0hDTkhwMXdmQ2NQd1lLbGVHNF9PRmQ4NHVQdmlYZEJoVEd6RUZhc0dieVdkZzNpcG4ta2lfaFFiVDFWSEFSb0hjUDRQcXJpbEFUelRfdVhxUXFSTWxrNUFkYzZsTDNQT0tKb0owZFdmTTVESUpKeWQ5QTFYRDFoSGFDbWk4dUtPVQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788565280.0
+    },
+    {
+        "id": "ebe9799159",
+        "title_fa": "رونمایی از پلتفرم Assetara برای مدیریت دارایی‌های دیجیتال با AI",
+        "title_en": "Assetara Announces Public Launch of AI-Powered Digital Asset Technology Platform",
+        "summary": [
+            "استارتاپ Assetara پلتفرم مبتنی بر هوش مصنوعی خود را برای بهینه‌سازی و تحلیل فناوری‌های دارایی دیجیتال به صورت عمومی عرضه کرد.",
+            "این سیستم ابزارهای پردازشی پیشرفته‌ای را برای تحلیل هوشمند داده‌های مالی در اختیار فعالان بازار قرار می‌دهد."
+        ],
+        "full_text": "Assetara Announces Public Launch of AI-Powered Digital Asset Technology Platform  Yahoo Finance",
+        "impact": "افزایش سرعت و دقت اتوماسیون در تحلیل داده‌های بازار دارایی‌های دیجیتال.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWlEaFlHeGI0NG9ZMEphaUFfNkN3VFprRG1vR2UzVEFwTjVSaU1QdXRLLWdqalIzLXluRHpua2h3bU5lbi1wSy1yVmx6aXJHekJyY2FqdHJYcG9mc2xadFRCWVFUY1hYcUlkSHh0ZUlZMHBnM1FuQ2ZGR0xNZm50Ym4zOEVpb1d6cTlqMXM0bEpOaHYtSFdjUW5RNWlWUUNIS3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWlEaFlHeGI0NG9ZMEphaUFfNkN3VFprRG1vR2UzVEFwTjVSaU1QdXRLLWdqalIzLXluRHpua2h3bU5lbi1wSy1yVmx6aXJHekJyY2FqdHJYcG9mc2xadFRCWVFUY1hYcUlkSHh0ZUlZMHBnM1FuQ2ZGR0xNZm50Ym4zOEVpb1d6cTlqMXM0bEpOaHYtSFdjUW5RNWlWUUNIS3c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788555840.0
+    },
+    {
         "id": "61c56f6530",
         "title_fa": "درخواست قانون‌گذاران آمریکایی برای تدوین پیمان فراملی ایمنی هوش مصنوعی",
         "title_en": "Lawmakers Behind State AI Safety Laws Call For Industry-Wide AI Safety Pact to Protect the Public",
@@ -20,6 +65,50 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788555605.0
+    },
+    {
+        "id": "078c5dfb76",
+        "title_fa": "طرح دوحزبی کنگره آمریکا برای ورود هوش مصنوعی به مدارس",
+        "title_en": "RELEASE: Gottheimer Unveils Bipartisan Back-to-School Agenda for AI in K-12 Education",
+        "summary": [
+            "نمایندگان کنگره آمریکا دستور کار جدیدی را برای تدوین چارچوب‌های استفاده از هوش مصنوعی در آموزش مدارس (K-12) ارائه کردند.",
+            "هدف این طرح توسعه سواد دیجیتال دانش‌آموزان و ارائه راهنماهای حمایتی برای معلمان و خانواده‌ها است."
+        ],
+        "full_text": "RELEASE: Gottheimer Unveils Bipartisan Back-to-School Agenda for AI in K-12 Education  House.gov",
+        "impact": "تسریع تدوین قوانین و چارچوب‌های آموزشی برای ادغام ایمن هوش مصنوعی در مدارس.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "House.gov",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVERpMVhrMTVpYjFsaDgyeEVBbGJjTkF4SEp1ZHplU2w1VW83aE4yQTNNYU9RQ2R4QXFSZzZWdWR2ZkhibDRrR3E1VUkwVnZudDBpbEdrRWNGc2RyYlh2QVJvWXhuSjhUeTZtcnBoVy1RVkhMYlZkbFlTYVJwczJVdy0zX2JDTkstVkZ1NFl1MkMxZ1FjaDhOTmQ2dlhqaU92NkFhUnR5T1oxNjV5Si02V3pkX3E0ODVSNGt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVERpMVhrMTVpYjFsaDgyeEVBbGJjTkF4SEp1ZHplU2w1VW83aE4yQTNNYU9RQ2R4QXFSZzZWdWR2ZkhibDRrR3E1VUkwVnZudDBpbEdrRWNGc2RyYlh2QVJvWXhuSjhUeTZtcnBoVy1RVkhMYlZkbFlTYVJwczJVdy0zX2JDTkstVkZ1NFl1MkMxZ1FjaDhOTmQ2dlhqaU92NkFhUnR5T1oxNjV5Si02V3pkX3E0ODVSNGt3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788554925.0
+    },
+    {
+        "id": "bd4d548c30",
+        "title_fa": "برگزاری کارگاه ایمنی هوش مصنوعی برای خانواده‌های نشویل",
+        "title_en": "Nashville Schools Offer AI Safety Talk for Catholic Families",
+        "summary": [
+            "مدارس نشویل نشستی تخصصی برای بررسی ابعاد ایمنی و چالش‌های هوش مصنوعی برای خانواده‌ها برگزار کردند.",
+            "تمرکز اصلی این برنامه‌ها بر آگاهی‌بخشی در زمینه حریم خصوصی و استفاده اخلاقی کودکان از فناوری‌های جدید است."
+        ],
+        "full_text": "Nashville Schools Offer AI Safety Talk for Catholic Families  National Catholic Register",
+        "impact": "افزایش آگاهی والدین در سطح محلی برای کاهش مخاطرات ابزارهای هوش مصنوعی برای کودکان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "National Catholic Register",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpNHhIY2F3X09BSU40RjlraEFsYnhwMzZmQTZMTmM5Q3pFaEhHVkZfa2pjeVZxakFCRmJCR0F0bVBGcmVCbEVwRXFyaFNsVkxuUjVubFBQemZHd2MxX1otTURCR2xud9IBZkFVX3lxTFBpNHhIY2F3X09BSU40RjlraEFsYnhwMzZmQTZMTmM5Q3pFaEhHVkZfa2pjeVZxakFCRmJCR0F0bVBGcmVCbEVwRXFyaFNsVkxuUjVubFBQemZHd2MxX1otTURCR2xudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpNHhIY2F3X09BSU40RjlraEFsYnhwMzZmQTZMTmM5Q3pFaEhHVkZfa2pjeVZxakFCRmJCR0F0bVBGcmVCbEVwRXFyaFNsVkxuUjVubFBQemZHd2MxX1otTURCR2xud9IBZkFVX3lxTFBpNHhIY2F3X09BSU40RjlraEFsYnhwMzZmQTZMTmM5Q3pFaEhHVkZfa2pjeVZxakFCRmJCR0F0bVBGcmVCbEVwRXFyaFNsVkxuUjVubFBQemZHd2MxX1otTURCR2xudw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788554707.0
     },
     {
         "id": "288d493b02",
@@ -615,6 +704,33 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788508800.0
+    },
+    {
+        "id": "1da5408558",
+        "title_fa": "آغاز به کار تاکسی‌های بدون فرمان و پدال تسلا در تگزاس",
+        "title_en": "تسلا سفر با تاکسی‌های خودران Cybercab را در تگزاس آغاز کرد [تماشا کنید]تسلا سفر با تاکسی‌های خودران ...",
+        "summary": [
+            "تسلا ارائه خدمات سرویس تاکسی روباتیک دونفره سایبرکپ (Cybercab) را بدون فرمان و پدال در بخش‌هایی از شهر آستین آغاز کرد.",
+            "سایبرکپ نخستین خودروی تسلا محسوب می‌شود که به‌طور اختصاصی برای رانندگی خودکار بدون نیاز به ناظر انسانی طراحی شده است.",
+            "مقررات فعلی فدرال آمریکا فروش گسترده خودروهای بدون کنترل دستی را محدود کرده و نهادهای ایمنی در حال بررسی فعالیت جدید تسلا هستند.",
+            "با وجود حضور ۴۵ دستگاه سایبرکپ تسلا در تگزاس، رقیب اصلی آن یعنی وایمو نزدیک به ۱۰۰۰ خودروی فعال در این ایالت دارد."
+        ],
+        "full_text": "تسلا ارائه سفر با تاکسی خودران دونفره Cybercab را در مناطق محدودی از آستین تگزاس آغاز کرد. این خودرو برخلاف خودروهای معمولی فاقد فرمان و پدال است و اداره ملی ایمنی ترافیک بزرگراههای آمریکا (NHTSA) نیز اعلام کرده در حال بررسی این فعالیت تسلا است. تسلا اعلام کرده Cybercab درحالحاضر فقط در بخشهایی از آستین قابل استفاده است و هر فردی میتواند با آن سفر کند. مدیر بخش هوش مصنوعی تسلا در مراسم معرفی خودرو گفت: «این سرویس برای عموم مردم باز است.» تسلا هنوز زمان آغاز دریافت هزینه از مسافران را اعلام نکرده است. بااینحال، مدیران شرکت در مراسم گفتند قصد دارند از قیمتگذاری پویا استفاده کنند؛ به این معنا که هزینه سفر با افزایش تقاضا بیشتر خواهد شد. آنها همچنین وعده ارائه «تجربهای درجهیک با قیمت کلاس اقتصادی» را مطرح کردند. Cybercab بدون فرمان و پدال به گفته رویترز، Cybercab اولین خودروی تسلا است که برای استفاده کاملاً خودران و بدون نظارت انسانی طراحی شده است. «ایلان ماسک» در ویدیویی جدید آن را «اولین خودرویی که بهطور خاص برای رانندگی کاملاً خودران و بدون نظارت ساخته شده» توصیف کرد. تسلا در هفتههای اخیر مراسم رونمایی Cybercab را در آستین تبلیغ کرده بود. برخی سرمایهگذاران و چهرههای فعال در شبکههای اجتماعی برای شرکت در این رویداد به تگزاس رفتند و ویدیوهایی از سفر خود با خودرو منتشر کردند. تسلا درحالحاضر سرویس محدودی از تاکسیهای خودران را با ناوگانی از خودروهای Model Y ارائه میکند که برخی از آنها ناظر ایمنی انسانی دارند. این شرکت قصد دارد در ادامه Cybercab بدون فرمان را به مدل اصلی خودروهای بدون راننده در شبکه بزرگتر تاکسیهای خودرانش تبدیل کند. قوانین ایمنی فدرال آمریکا معمولاً وجود کنترلهای دستی برای خودروها را الزامی میکند. مقررات فعلی همچنین تعداد خودروهایی را که هر تولیدکننده میتواند بدون فرمان و پدال به فروش برساند، محدود کرده است. بااینحال، خودروسازان باسابقه میتوانند تعداد نامحدودی از چنین خودروهایی را برای آزمایش به کار بگیرند. مشخص نیست تسلا با چه سرعتی میتواند Cybercab را در مقیاس گسترده به کار بگیرد. در کالیفرنیا، که از بازارهای مهم آمریکا محسوب میشود، تسلا مجوز فعالیت بهعنوان تاکسی خودران یا آزمایش خودروهای بدون راننده را بدون حضور راننده ایمنی در صندلی جلو ندارد. بر اساس سوابق ایالت تگزاس، تسلا تا عصر چهارشنبه ۴۲۰ خودروی خودران در این ایالت ثبت کرده بود که ۴۵ دستگاه از آنها Cybercab هستند. تعداد ثبتشده خودروهای تسلا در همین روز در مقطعی ۳۱۴ دستگاه اعلام شده بود. در مقابل، Waymo، رقیب اصلی تسلا در تاکسیهای بدون راننده در آمریکا، ۹۸۸ خودروی خودران در تگزاس ثبت کرده است. خودروهای Waymo برخلاف Cybercab همچنان دارای کنترلهای دستی هستند، اما در هنگام استفاده از حالت خودران راننده انسانی ندارند.",
+        "impact": "گامی کلیدی اما پرچالش برای تجاری‌سازی تاکسی‌های تمام‌خودران تسلا و ورود به رقابت جدی با وایمو.",
+        "tag": "خودروی هوشمند",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/car-news/tesla-cybercab-rides-austin",
+        "clean_url": "https://digiato.com/car-news/tesla-cybercab-rides-austin",
+        "image": "http://www.bing.com/th?id=ONUT.To6xRMvhGUiuwZpAGormiw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.To6xRMvhGUiuwZpAGormiw&pid=News",
+            "https://static.digiato.com/digiato/2026/09/tesla-cybercab-rides-austin-۳.jpg",
+            "https://static.digiato.com/digiato/2026/09/tesla-cybercab-rides-austin-۳-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/tesla-cybercab-rides-austin-۲-1024x683.jpg"
+        ],
+        "timestamp": 1788506640.0
     },
     {
         "id": "2245752341",
@@ -6846,122 +6962,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787683998.0
-    },
-    {
-        "id": "ea746a9e77",
-        "title_fa": "آغاز طرح تحویل پهپادی قطعات خودرو در میشیگان با بودجه دولتی",
-        "title_en": "Michigan Dealership Group and Drone Technology Partners Launch State-Funded Autonomous Parts Delivery Program",
-        "summary": [
-            "گروه نمایندگی‌های میشیگان با همکاری شرکای فناوری پهپادی، برنامه‌ای پایلوت برای ارسال خودکار قطعات یدکی خودرو آغاز کردند.",
-            "این پروژه با حمایت مالی ایالت میشیگان و با هدف کاهش زمان خواب خودروها در تعمیرگاه‌ها اجرا می‌شود."
-        ],
-        "full_text": "Michigan Dealership Group and Drone Technology Partners Launch State-Funded Autonomous Parts Delivery Program  PR Newswire",
-        "impact": "اتوماسیون زنجیره تأمین قطعات خودرو وارد فاز عملیاتی شهری شده و هزینه‌های لاجستیک تعمیرگاهی را کاهش می‌دهد.",
-        "tag": "سخت‌افزار",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa1lkNXpaTHNMekx3YmgyT3BLVFRxNGZKbGRTLUREdWxTUElYNmNBa0gyNFUzTndacDQ5dDdLaGlCbHBzUjlWUGtfeGczUTN1ZW1yNVBqSHM1enJYenpnb1BFSnNTTXdPZXdJbWdyVTgxMmY2dHBWcmJza283V1JmdlEzOHpyM2ZIMjl3aW1qNy00UTJiNmJLNXBWbGRkUDdpUnZxaG5Ha19Pc3M2UmhoSUR4MDZFUW8xaTlKbUExMGhySS1JRGlyejdkdER3VzZkTDA0TFpiZTdaNTJyWlhOQy1nZEg2b1J5V2tzX1ViRFE0SXRBeVBKTw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa1lkNXpaTHNMekx3YmgyT3BLVFRxNGZKbGRTLUREdWxTUElYNmNBa0gyNFUzTndacDQ5dDdLaGlCbHBzUjlWUGtfeGczUTN1ZW1yNVBqSHM1enJYenpnb1BFSnNTTXdPZXdJbWdyVTgxMmY2dHBWcmJza283V1JmdlEzOHpyM2ZIMjl3aW1qNy00UTJiNmJLNXBWbGRkUDdpUnZxaG5Ha19Pc3M2UmhoSUR4MDZFUW8xaTlKbUExMGhySS1JRGlyejdkdER3VzZkTDA0TFpiZTdaNTJyWlhOQy1nZEg2b1J5V2tzX1ViRFE0SXRBeVBKTw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787681880.0
-    },
-    {
-        "id": "298f9e83e7",
-        "title_fa": "آخرین مهلت تخفیف ۳۰۰ دلاری رویداد تک‌کرانچ دیسراپ ۲۰۲۶",
-        "title_en": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
-        "summary": [
-            "فرصت ثبت‌نام با تخفیف ویژه برای بزرگ‌ترین رویداد استارتاپی سان‌فرانسیسکو امشب به پایان می‌رسد.",
-            "تمرکز اصلی رویداد امسال روی ابزارها و مدل‌های هوش مصنوعی با حضور مدیران ارشد OpenAI و Anthropic است."
-        ],
-        "full_text": "We heard the feedback, and we’ve extended the window for the lowest prices for TechCrunch Disrupt 2026 a bit further, with the current prices now ending at 11:59 pm PT Tuesday, August 25. Once that window closes, your chance to save up to $300 on your pass, or get an even larger discount on group pricing, will come to an end. For everyone who was looking for an extension, your chance is now! Start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West to learn from speakers from OpenAI, Anthropic, Replit, Amazon, Databricks and more. If Disrupt has been on your radar, now is the time to lock in your pass before tomorrow’s deadline. TechCrunch Disrupt: Where the startup ecosystem moves forward Each year, TechCrunch Disrupt brings together more than 10,000 founders, investors, and startup community members, driving innovation forward. And for our event this year, you’ll find a keen focus on building and developing in the AI era across all of our stages of programming. If you want to be on the cutting edge running into 2027, this is the event for you. And you don’t have to be a founder to get value out of Disrupt. Whether you’re raising capital, scouting investments, hiring talent, launching a startup, or building strategic partnerships, Disrupt puts you in the middle of the conversations shaping what’s next and can help you make the connections that propel your next year of growth. Here’s just a glimpse of what you gain by attending: - Actionable insights from founders, operators, and VCs actively building and investing in today’s market. Our agenda features a wide range of topics, curated to focus on insights that lead to action. - Direct access to investors looking for their next portfolio company and founders seeking the right partners. Plus, you can get AI-powered networking opportunities through our app or take deeper dives through our many Side Events. - Early visibility into emerging technologies and startups before they break into the mainstream through our Exhibit Hall. - High-value connections that lead to funding, partnerships, customers, and career opportunities. Disrupt is about growth, both for startups and yourself! What’s new at TechCrunch Disrupt 2026 Keeping that focus on building companies in the AI era in mind, we have a great slate of new stages and programming to inspire and educate: - Real World AI Stage: AI is moving beyond the screen and into the physical world. Explore how robotics, autonomous systems, manufacturing, healthcare, and defense are turning AI breakthroughs into real-world products and businesses. - Smart Money Stage: Follow the money. From fintech to stablecoins to payments, embedded finance, and AI-driven financial services, this stage explores how technology is reshaping the movement of capital. - Smart Systems Stage: Every AI breakthrough depends on the infrastructure behind it. Discover the innovations in chips, compute, energy, networking, and data centers that will determine the next generation of technology companies. Our Disrupt, AI, and Builders Stages are also returning this year, and we have excellent speakers joining us across them all: - Rivian CEO and founder RJ Scaringe - Amazon SVP of Devices, Alexa and Leo, Panos Panay - Bluesky CEO Toni Schneider and COO Rose Wang You can explore the rest of our extensive speaker lineup right here! Don’t miss out on the best TechCrunch Disrupt’s prices! This is your last chance to save before rates increase, so lock in your pass before Tuesday, August 25 at 11:59 p.m. PT to get the best prices, whether you’re a student looking to get their introduction to the community or an established investor in search of an untapped opportunity.",
-        "impact": "فرصتی کلیدی برای استارتاپ‌ها جهت شبکه‌سازی مستقیم با سرمایه‌گذاران خطرپذیر حوزه فناوری.",
-        "tag": "رویداد",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
-        "clean_url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
-        "images": [
-            "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2015/09/ae1f79a1ec4335fb3af512a1c31d3f3f.jpg?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787680860.0
-    },
-    {
-        "id": "0530f0d7b3",
-        "title_fa": "برنامه تازه لاکهید مارتین برای ادغام هوش مصنوعی در سامانه‌های فضایی",
-        "title_en": "What Could Lockheed Martin (LMT) New AI Airspace And Launch Push Signal?",
-        "summary": [
-            "لاکهید مارتین توسعه سیستم‌های خودکار مبتنی بر هوش مصنوعی را برای مدیریت حریم هوایی و عملیات پرتاب کلید زده است.",
-            "این پروژه توان تصمیم‌گیری لحظه‌ای را در ماموریت‌های پیچیده نظامی و فضایی افزایش می‌دهد."
-        ],
-        "full_text": "What Could Lockheed Martin (LMT) New AI Airspace And Launch Push Signal?  simplywall.st",
-        "impact": "تسریع اتوماسیون هوشمند در صنایع دفاعی و تغییر معادلات مدیریت حریم هوایی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTB0aVl4dkd0UllhZnRDLVkzUXNtbHcwUGQwVVRETmVheHkzSVl6Nm5WM1prOG1ERDF3Vk5ZX0xrOE5adXN4Y0JqWGNISXN1U0h4WWFMR1RreXd5TzItUUt5NUN6cmRkcDNJOXN0emMwOHFyOVBncjBIQmZ6ZFB0bmFydktLdmpvZzdPRzd6TVVDWVQzbUlVMjNRYjJKdlM1dUhYTFhHcS1hVVk5U0NTYnh4R2NYdkhxM1VackYwLVdpbmM5cnRGWEl6eVdxMDN2alHSAdcBQVVfeXFMT3BKUl9EeEVsT3BxOUhLc2p0VEVmaHhkdTdSczM1dk9BUFdlSHBsM0Fvak42R2xTbGxEMzd6Q29IWDBNR0FoSWVYbEY0ZHJMQzhiXzJlck5jNlRuQ05GY2FGNVpWcUoybmpUbXpMdzNfTWN1STBlT1huLURkMHNGMDlHOVlHWW1JclRtcUk4UjM4aWZIcnZFQmJuZjNnNHZsWVRCWUJjYzZiZktoMFFGTm9BMUQ3NkRaTmg1NzNVcFdPWmVyc2pUZW9GNkw3VnBOOEdLaFZ5Wnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTB0aVl4dkd0UllhZnRDLVkzUXNtbHcwUGQwVVRETmVheHkzSVl6Nm5WM1prOG1ERDF3Vk5ZX0xrOE5adXN4Y0JqWGNISXN1U0h4WWFMR1RreXd5TzItUUt5NUN6cmRkcDNJOXN0emMwOHFyOVBncjBIQmZ6ZFB0bmFydktLdmpvZzdPRzd6TVVDWVQzbUlVMjNRYjJKdlM1dUhYTFhHcS1hVVk5U0NTYnh4R2NYdkhxM1VackYwLVdpbmM5cnRGWEl6eVdxMDN2alHSAdcBQVVfeXFMT3BKUl9EeEVsT3BxOUhLc2p0VEVmaHhkdTdSczM1dk9BUFdlSHBsM0Fvak42R2xTbGxEMzd6Q29IWDBNR0FoSWVYbEY0ZHJMQzhiXzJlck5jNlRuQ05GY2FGNVpWcUoybmpUbXpMdzNfTWN1STBlT1huLURkMHNGMDlHOVlHWW1JclRtcUk4UjM4aWZIcnZFQmJuZjNnNHZsWVRCWUJjYzZiZktoMFFGTm9BMUQ3NkRaTmg1NzNVcFdPWmVyc2pUZW9GNkw3VnBOOEdLaFZ5Wnc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787678479.0
-    },
-    {
-        "id": "8757ffcf21",
-        "title_fa": "رونمایی از Nothing OS 5.0 مبتنی بر اندروید ۱۷",
-        "title_en": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-        "summary": [
-            "نسخه جدید سیستم‌عامل ناتینگ با اپلیکیشن اختصاصی Glyph Interface و تم‌های رنگی داینامیک معرفی شد.",
-            "امکانات جدید اندروید ۱۷ مانند ایموجی‌های سه‌بعدی و قابلیت شبیه Away Time برای مدیریت زمان استفاده از گوشی به آن اضافه شده است.",
-            "گوشی‌های قدیمی‌تر مانند Phone 1 و CMF Phone 1 این به‌روزرسانی را دریافت نخواهند کرد."
-        ],
-        "full_text": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android’s built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper “while Nothing’s predominantly monochrome character stays underneath.” Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen Android 17 features like enhanced quick share and new 3D emojis are also part of the update, but not if you’re using one of Nothing’s older phones. Android 17 features like enhanced quick share and new 3D emojis are also part of the update, but not if you’re using one of Nothing’s older phones. While I like Nothing’s simplified, monochrome app icons, it’s nice to get an option for adding some limited areas of color to the homescreen. Nothing’s launching it as “an additional theme,” so you can keep using the old design if you like. The Android 17-based update is launching in open beta on August 26th, starting with the Nothing Phone 3. It will eventually also roll out to most of Nothing’s other phones, but a few older devices aren’t getting this update, including the Phone 1, Phone 2, and CMF Phone 1 — the last of which I’ve been using, so unfortunately I won’t get to try out these new features myself. The latest version of Nothing OS also adds a slew of new homescreen customization options and quality-of-life tweaks that will let you track how long you spend away from your phone, or make better use of its Essential AI features. And if you have a Nothing phone with its glyph interface lighting, a new dedicated app pulls all the features and controls into one spot. Lockscreen clockfaces can also use colors from your wallpaper now. There are also a couple of new lockscreen clockfaces in Nothing OS 5.0, including a bubbly “Gooey” design and an information-dense “Micrographics” one. Since Nothing OS 5.0 is built on Android 17, it also includes platform updates like enhanced quick share, Android’s new Noto 3D emojis, and expanded dark theme support. Other new highlights include: - “Geist” system typeface - Away Time widget that tracks how long you haven’t been using your phone, and Collector widget that turns pictures of items into home or lock screen icons - Select multiple homescreen app icons to move them all at once - Status bar icons with animations to signify things like turning airplane mode on or off - Single-tap Bluetooth controls in Quick Settings - Essential AI updates including support for Model Context Protocol (MCP), cleaner transcriptions from Essential Voice, a Smart Collections feature for organizing Essential Space captures, and support for building Essential Apps on-device Most Popular - Android is getting its own weird dots to cure car sickness - Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices - The OLED Xbox Ally X20 officially starts at $1,300 - Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra - Gamescom Opening Night Live 2026: The biggest announcements and trailers",
-        "impact": "ارتقای تجربه کاربری گوشی‌های ناتینگ و تمایز بیشتر رابط بصری آن در بازار موبایل.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-        "clean_url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282&w=1200",
-        "images": [
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282&w=1200",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787677080.0
-    },
-    {
-        "id": "cefe1ffed9",
-        "title_fa": "رونمایی ATTOM از شاخص قیمت مسکن مبتنی بر هوش مصنوعی",
-        "title_en": "ATTOM EXPANDS AI-POWERED PROPERTY INTELLIGENCE WITH LAUNCH OF HYPERLOCAL HOME PRICE INDEX",
-        "summary": [
-            "شرکت داده‌های املاک ATTOM شاخص جدیدی برای تخمین دقیق‌تر قیمت مسکن در سطح محلی راه‌اندازی کرده است.",
-            "این سیستم با الگوریتم‌های هوش مصنوعی روند تغییرات قیمت خانه را در ابعاد جغرافیایی بسیار کوچک تحلیل می‌کند."
-        ],
-        "full_text": "ATTOM EXPANDS AI-POWERED PROPERTY INTELLIGENCE WITH LAUNCH OF HYPERLOCAL HOME PRICE INDEX  Yahoo Finance Singapore",
-        "impact": "افزایش شفافیت قیمت‌گذاری در بازار مسکن و کمک به تصمیم‌گیری دقیق‌تر خریداران و سرمایه‌گذاران.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzkyWDBEM1ZfQ3hWVmJTdUh4eGtyTEpvOGxwZUl0WUYwSFloOFAwYjNPY2x3RWNaYmRHVjkzRVI0QUxFcDcxM25SXzVOeHplYlZ4Z2dnc2RCWmQ0Z3lMWXI4dU1MNVVIaGhZVklGQkI2ajlWTmhJN2xtQ1YzcVMyejFjZWE5TE56d2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzkyWDBEM1ZfQ3hWVmJTdUh4eGtyTEpvOGxwZUl0WUYwSFloOFAwYjNPY2x3RWNaYmRHVjkzRVI0QUxFcDcxM25SXzVOeHplYlZ4Z2dnc2RCWmQ0Z3lMWXI4dU1MNVVIaGhZVklGQkI2ajlWTmhJN2xtQ1YzcVMyejFjZWE5TE56d2c",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787673600.0
     }
 ]
