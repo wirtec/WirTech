@@ -1,5 +1,93 @@
 [
     {
+        "id": "6a9fa92f79",
+        "title_fa": "همکاری اینتل و هند برای آموزش هوش مصنوعی عامل‌محور",
+        "title_en": "Indian Govt, Intel launch agentic AI skilling programme for future workforce",
+        "summary": [
+            "دولت هند با همکاری اینتل برنامه‌ای ملی برای آموزش توسعه هوش مصنوعی عامل‌محور (Agentic AI) کلید زد.",
+            "تمرکز اصلی این طرح، تربیت نیروی کار متخصص برای ساخت عامل‌های هوشمند و خودمختار است."
+        ],
+        "full_text": "Indian Govt, Intel launch agentic AI skilling programme for future workforce  varindia.com",
+        "impact": "ورود موج جدیدی از متخصصان Agentic AI به بازار کار و تقویت زیرساخت انسانی صنعت فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "varindia.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZE9GOVhmZ1dKc0VmVVpzRHFRTzIyeU80RGVvRGZ2c1p5M2E0dURma3EyM1RNQ2dBeHA1bnU0UnJ0b1QtRjRzZ3hZYUkzSE9UZl9tUWptMFpqWlVrb3N1ZnZROXc0TGJxMDIwbWl2VzVxNjFleExzaFRhSXNtM1lyYkI0QlhBV2lDX3lqc0VaVkZiQzFXQTBFbXpreFEyamJzSjZ3d0NiYTE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZE9GOVhmZ1dKc0VmVVpzRHFRTzIyeU80RGVvRGZ2c1p5M2E0dURma3EyM1RNQ2dBeHA1bnU0UnJ0b1QtRjRzZ3hZYUkzSE9UZl9tUWptMFpqWlVrb3N1ZnZROXc0TGJxMDIwbWl2VzVxNjFleExzaFRhSXNtM1lyYkI0QlhBV2lDX3lqc0VaVkZiQzFXQTBFbXpreFEyamJzSjZ3d0NiYTE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788596727.0
+    },
+    {
+        "id": "c59cc913c7",
+        "title_fa": "جنبش خانوادگی امنیت هوش مصنوعی در پی یک تراژدی انسانی",
+        "title_en": "Mother turns grief into national AI‑safety campaign for Catholic families",
+        "summary": [
+            "یک مادر بریتانیایی پس از مرگ آسیب‌زای فرزندش، کمپین ملی امنیت AI را برای خانواده‌های کاتولیک راه انداخت.",
+            "این کمپین روی آگاه‌سازی والدین از خطرات چت‌بات‌ها و تعاملات کنترل‌نشده کودکان تمرکز دارد."
+        ],
+        "full_text": "Mother turns grief into national AI‑safety campaign for Catholic families  EWTN Great Britain",
+        "impact": "افزایش فشارهای اجتماعی برای تدوین قوانین سخت‌گیرانه‌تر در خصوص تعامل کودکان با هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "EWTN Great Britain",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVndyNVcycnVzaWV4aHk3SkdFVFJiX01VZ0syTkpsNUppVlB1alI3bFRDWVRqcVF6TEhEQXJZbUpvcVkybjcxMkhWQTVEd0xBZ24zWUpLNkY1bHV1VjlNV1RXSVNsQldaT1ZVTmFpN1lmWm5sdk5UemExa3FTNWxGQi00YVhHVzdYdWplZTNrWmVmeUxadDRTc3JTOEsxMmstcms4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVndyNVcycnVzaWV4aHk3SkdFVFJiX01VZ0syTkpsNUppVlB1alI3bFRDWVRqcVF6TEhEQXJZbUpvcVkybjcxMkhWQTVEd0xBZ24zWUpLNkY1bHV1VjlNV1RXSVNsQldaT1ZVTmFpN1lmWm5sdk5UemExa3FTNWxGQi00YVhHVzdYdWplZTNrWmVmeUxadDRTc3JTOEsxMmstcms4",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788595545.0
+    },
+    {
+        "id": "4184f286a4",
+        "title_fa": "آلمان از کامپیوتر کوانتومی جدید JION رونمایی کرد",
+        "title_en": "Forschungszentrum Jülich And EleQtron Launch JION Trapped-ion Quantum Computer",
+        "summary": [
+            "مرکز تحقیقاتی یولیخ با همکاری EleQtron کامپیوتر کوانتومی JION مبتنی بر یون‌های به‌دام‌افتاده را راه‌اندازی کرد.",
+            "این پروژه گامی عملی برای پیشبرد سخت‌افزارهای محاسباتی بومی در اروپا محسوب می‌شود."
+        ],
+        "full_text": "Forschungszentrum Jülich And EleQtron Launch JION Trapped-ion Quantum Computer  Quantum Zeitgeist",
+        "impact": "تقویت زیرساخت‌های محاسباتی پیشرفته و کاهش وابستگی اروپا به سخت‌افزارهای کوانتومی خارجی.",
+        "tag": "تکنولوژی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Quantum Zeitgeist",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGg2NVFwZ0ZnaGxSbUlIYjJSczM4ei02Z0pRUTZVMTI4MjJQc3hPZVFyS0FWa3J5ckpmQmFoVU9NZXl3bzZZdkNPNW1TanZJS3lYSzJDdndiUEFranAzWTZlMFBjdGREMlAxdVp4Y0tfVHJBTW5Dc0FuMTFJSHdxVGhXSC1QaWR4a0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGg2NVFwZ0ZnaGxSbUlIYjJSczM4ei02Z0pRUTZVMTI4MjJQc3hPZVFyS0FWa3J5ckpmQmFoVU9NZXl3bzZZdkNPNW1TanZJS3lYSzJDdndiUEFranAzWTZlMFBjdGREMlAxdVp4Y0tfVHJBTW5Dc0FuMTFJSHdxVGhXSC1QaWR4a0E",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788595425.0
+    },
+    {
+        "id": "55fefbecd4",
+        "title_fa": "جنگ قیمت مایکروسافت؛ کاهش ۷۲ درصدی هزینه تبدیل گفتار به متن",
+        "title_en": "Microsoft slashes AI transcription prices 72% with new MAI-Transcribe-2",
+        "summary": [
+            "مایکروسافت با معرفی مدل MAI-Transcribe-2 قیمت پردازش صوت به متن را ۷۲ درصد پایین آورد.",
+            "این افت قیمت چشمگیر، فشار سنگینی به رقبایی مثل OpenAI و گوگل برای کاهش قیمت API وارد می‌کند."
+        ],
+        "full_text": "Microsoft slashes AI transcription prices 72% with new MAI-Transcribe-2  Startup Fortune",
+        "impact": "کاهش شدید هزینه‌های توسعه محصولات مبتنی بر صوت برای استارتاپ‌ها و شرکت‌های نرم‌افزاری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGRCdEQ5LU1yWlZLQnRvUEpTeGY0RmlySWliTUpSTmprczlKVGpUVVRuUUN2NHdQLW1rTllMeGJyT0xud0V5RFZUd2MtVUMxbDhLaWQ4eTZvWXB1RE9famV1dEMzSWI1bFdyajhSM3F1cncxSTB5WUU4Nk9keHlGRl9LeDZoUFgtN21OeVU0X3Z5NEpvUEx3Q0hWSzNKN00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGRCdEQ5LU1yWlZLQnRvUEpTeGY0RmlySWliTUpSTmprczlKVGpUVVRuUUN2NHdQLW1rTllMeGJyT0xud0V5RFZUd2MtVUMxbDhLaWQ4eTZvWXB1RE9famV1dEMzSWI1bFdyajhSM3F1cncxSTB5WUU4Nk9keHlGRl9LeDZoUFgtN21OeVU0X3Z5NEpvUEx3Q0hWSzNKN00",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788585882.0
+    },
+    {
         "id": "9c86bb1920",
         "title_fa": "ارتقای ابزار هوشمند XShift AI برای برنامه‌ریزی خودکار شیفت‌های کاری",
         "title_en": "XShift AI Expands AI Copilot and Autopilot for AI-Native Employee Shift Scheduling",
@@ -356,6 +444,28 @@
         "timestamp": 1788542833.0
     },
     {
+        "id": "9eb9365bbb",
+        "title_fa": "چرا برند محبوب توییتر و نماد پرنده آبی نابود شد؟",
+        "title_en": "The Baffling Twitter Startup Name Change: Why ‘Bluebird’ Had to Die",
+        "summary": [
+            "تغییر برند توییتر به X توسط ایلان ماسک، یکی از جنجالی‌ترین ری‌برندینگ‌های تاریخ شبکه‌های اجتماعی بود.",
+            "حذف پرنده آبی و جایگزینی آن، ارزش چند میلیارد دلاری برند و وفاداری نمادین کاربران را مخدوش کرد."
+        ],
+        "full_text": "Spread the loveWhen a beloved brand undergoes a dramatic transformation, it inevitably leaves a void. For many, that void was created when Elon Musk acquired Twitter and rebranded it to X. The little ...",
+        "impact": "افت شدید ارزش برند و تغییر مسیر استراتژیک یکی از بزرگ‌ترین پلتفرم‌های ارتباطی جهان.",
+        "tag": "تکنولوژی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The Tech Edvocate",
+        "url": "https://www.thetechedvocate.org/the-baffling-twitter-startup-name-change-why-bluebird-had-to-die/",
+        "clean_url": "https://www.thetechedvocate.org/the-baffling-twitter-startup-name-change-why-bluebird-had-to-die",
+        "image": "http://www.bing.com/th?id=ONUT.4L2YATTzD7JuXgAb-wh4CA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.4L2YATTzD7JuXgAb-wh4CA&pid=News"
+        ],
+        "timestamp": 1788541200.0
+    },
+    {
         "id": "c3f677821d",
         "title_fa": "رکورد سرمایه‌گذاری خطرپذیر در کره جنوبی همزمان با قفل شدن بازار IPO",
         "title_en": "Record Venture Funding Meets Frozen Exit Market in Korea",
@@ -517,6 +627,32 @@
         "timestamp": 1788536520.0
     },
     {
+        "id": "bf7eff84b9",
+        "title_fa": "جذاب‌ترین گجت‌های نمایشگاه IFA؛ از گوشی بدون حاشیه تا جاروی دوطبقه",
+        "title_en": "The best tech and gadgets announced at IFA so far",
+        "summary": [
+            "تکنو با پنهان‌کردن لبه‌های نمایشگر زیر فریم فلزی، گوشی مفهومی Bezelless را کاملاً بدون حاشیه طراحی کرد.",
+            "آی‌ربات با معرفی Roomba Duo مفهوم جاروهای روباتیک را تغییر داد؛ یک روبات بزرگ که درون خود یک جاروی کوچک‌تر برای کنج‌های تنگ حمل می‌کند.",
+            "پروژکتور سفری Aurzen Zip Pro با روشنایی ۲۰۰ لومن و کیفیت 1080p به‌روزرسانی شد."
+        ],
+        "full_text": "The doors to Europe’s largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you’re struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show — including a smartphone that attempts to finally rid the world of screen bezels and a powerful robovac that carries a smaller sidekick for cleaning spaces it can’t squeeze into. The best tech and gadgets announced at IFA so far Double-decker robovacs, a smartphone that eliminates the screen bezel, and another laptop with an expanding screen. To catch up on everything announced at IFA 2026 you can follow The Verge’s complete coverage right here. By tucking the edges of its 6.78-inch, 144Hz OLED panel underneath the phone’s thin metal frame, Tecno managed to create a smartphone that nearly entirely eliminates a visible bezel, maximizing screen real estate. The aptly-named Bezelless made its debut at IFA with a MediaTek Dimensity 7400e chipset paired with 8GB of RAM, 256GB of storage, a 6,000mAh battery, and a trio of front and back cameras including a 50-megapixel main shooter. The company hasn’t announced any plans to put the concept into production, but its unique design could eventually inspire other devices. Why build one robovac that can do it all when you can split the work between a pair of them? That’s the idea behind iRobot’s Roomba Duo concept. The main vacuum is the most powerful robovac the brand has ever made. It can suck up messes like spilled pasta, steam-mop hard floors, and vacuum and wash carpeting while navigating a home using a combination of lidar and cameras. But it’s big, so to reach and clean tighter spaces, the Roomba Duo carries a Roomba Plus 757 on top in a small garage it can raise and lower to deploy its robovac sidekick. One of the most portable projectors on the market is getting some welcome upgrades. The $579.99 Aurzen Zip Pro carries forward the same tri-fold design of the original including features like autofocus and automatic keystone adjustments but is getting a bump in brightness from 100 to 200 ANSI lumens and an increase in resolution to 1080P. It’s a bit bigger than its predecessor thanks in part to a battery that now offers up to 2.5 hours of runtime and added connectivity, including the ability to tether to the Nintendo Switch using only a USB-C cable. First announced at MWC 2026 earlier this year, the RugOne Xsnap 7 Pro is an extra durable $999 Android 16 smartphone with dust and water protection, a beefy 9,300mAh battery, a 6.67-inch 120Hz AMOLED screen, and four cameras. The three on the back include a 64MP night vision camera assisted by infrared LEDs and one that can be removed and used as a standalone action camera capable of capturing video at up to 2.7K/30fps. The pop-out camera module has a battery good for up to 40 minutes and 64GB of built-in storage. When either are depleted, you can reattach to the camera module to the phone where its battery will recharge and the footage will be copied over automatically. Lenovo continues to experiment with ways for laptops to take advantage of flexible OLED displays, but its latest concept feels a bit tame compared to the Legion Pro Rollable gaming laptop it debuted at CES 2026. The 14-inch Project Swan concept is much smaller by comparison with a display that unfurls horizontally to grow to 17 inches with a 16:9 aspect ratio. It keeps the laptop compact while boosting productivity with extra screen real estate, but accommodating the OLED panel and motors leaves the laptop’s lid feeling unusually heavy with a design that limits how far back it can be tilted. At its thickest point, the Muse measures around 3.8mm and will be available in 512GB or 1TB capacities with read and write speeds topping out at 1,050MB/s and 1,000MB/s, respectively. There’s not much compromise on performance, but there is with connectivity. To slim down the drive, Lexar skipped a standard USB-C port in favor of a magnetic pogo-pin connector and a proprietary USB-C cable. Not only do you have to keep tabs on a special cable, if you want to stick the Muse to the back of your smartphone while recording video you’ll need to use an included magnetic sleeve that negates the drive’s slim design. There are two new versions of Anker’s sleepbuds that can help quiet a snoring roommate, but the $349.99 Soundcore Sleep Earbuds 4 Pro introduce a new charging case with a round OLED display on the case. Without having to reach for your phone you can select a preset soundscape, browse your recent sleep stats, and set alarms. The sleepbuds also feature in-ear PPG sensors, so while you doze, they can keep tabs on the quality of your sleep, heart rate, HRV, and other health metrics that may provide insights if you wake up exhausted each morning. Borrowing an idea that Lenovo proposed in a laptop concept last year, Oukitel’s RG14-P features a solar panel on the lid that can recharge the laptop’s battery at up to 10W under “optimal sunlight conditions.” It would take approximately six hours to bring a dead battery up to a 50 percent charge, but you won’t have to be scrambling to find a power outlet. It’s expected to launch in November with a 14th gen Intel Core i7 processor, 16GB of RAM, and 512GB of storage. With most rope lighting solutions you can easily see the individual LEDs illuminating it from within, but Philips Hue’s new Liane 360-degree Rope Lights emit an even diffuse light in all directions using the company’s OmniGlow technology with the ability to adjust their color. The ropes can be used to line and illuminate architectural features, simply hung from a ceiling, or shaped using clear clips and mounts. But they’re not cheap. A 3-meter version is $399.99 while a 5-meter option is $549.99. At $5,999 when it launches later this year, Awol Vision’s latest ultra-short throw projector will strain budgets, but at a distance of just 7.5 inches from a wall it can p",
+        "impact": "نمایش مسیر آینده طراحی گجت‌های خانگی و موبایل در بزرگ‌ترین رویداد تکنولوژی اروپا.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "clean_url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0,7.6095947063689,100,84.780810587262&w=2400",
+        "images": [
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0,7.6095947063689,100,84.780810587262&w=2400",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/ANDREW_LISZEWSKI_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788536460.0
+    },
+    {
         "id": "acbce47311",
         "title_fa": "جدیدترین شایعات آیفون ۱۸؛ احتمال افزایش قیمت و رنگ‌های تازه",
         "title_en": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, new colors",
@@ -537,6 +673,32 @@
             "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788536044.0
+    },
+    {
+        "id": "ec7f441687",
+        "title_fa": "بحران تولید آیفون تاشو؛ اپل روزانه فقط چند صد دستگاه می‌سازد",
+        "title_en": "Apple reportedly making 'a few hundred' foldable iPhones per day",
+        "summary": [
+            "گزارش‌ها نشان می‌دهد اپل به دلیل استانداردهای سخت‌گیرانه کیفیت در لولا و نمایشگر، با چالش جدی تولید آیفون اولترا تاشو روبروست.",
+            "با وجود سفارش اولیه ۱۰ میلیون دستگاهی، بررسی‌های مجدد کیفی در ماه اوت روند تولید انبوه را عقب انداخته است.",
+            "احتمال دارد آیفون تاشو در مراسم ۹ سپتامبر معرفی شود، اما تحویل آن به مشتریان با تأخیر زیاد و به‌صورت مرحله‌ای انجام خواهد شد."
+        ],
+        "full_text": "Apple is expected to announce new iPhones at its Sept. 9 event, including the long-rumoured foldable iPhone Ultra. However, with the reveal just days away, the company is reportedly facing production hurdles with the foldable. According to details covered by Nikkei Asia (via MacRumors), Apple was only managing to produce “a few hundred units a day” of its foldable just last month. Nikkei cited supply chain sources, noting that Apple’s high quality standards are at least partially responsible. We’ve known that Apple has had foldable challenges for a while, particularly around the hinge and display. However, those problems were thought to be resolved after Apple raised its production order from around 7 to 8 million to 10 million units for the year, and the foldable was thought to be on track for September. But now, the company reportedly ordered additional verification in August to ensure the device can be mass-produced as specified, with continued concerns around the performance of the hinge. The additional verification reportedly pushed back commercial production, which could mean Apple will fall short of its production targets unless it can boost production. Reportedly, the company and its suppliers are working around the clock to do just that. All this could mean limited supplies of the iPhone Ultra at launch, though there’s some uncertainty around when, exactly, the Ultra will launch. Apple is expected to reveal the foldable iPhone on Sept. 9, but availability could come much later. Typically, we see iPhones become available about a week after the reveal, but the iPhone Ultra could take longer, especially for those outside the U.S. Other reporting indicates Apple could do a staggered launch, with the iPhone Ultra arriving in the U.S. first before expanding to other markets. Whatever happens, we’ll likely learn all the details on Sept. 9. Source: Nikkei Asia Via: MacRumors MobileSyrup may earn a commission from purchases made via our links, which helps fund the journalism we provide free on our website. These links do not influence our editorial content. Support us here.",
+        "impact": "کمبود شدید آیفون تاشو در زمان عرضه و تأخیر در ورود آن به بازارهای جهانی خارج از آمریکا.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "MobileSyrup",
+        "url": "https://mobilesyrup.com/2026/09/04/apple-iphone-ultra-foldable-production-issues/",
+        "clean_url": "https://mobilesyrup.com/2026/09/04/apple-iphone-ultra-foldable-production-issues",
+        "image": "https://production-static.mobilesyrup.com/uploads/2026/08/apple-event.jpg",
+        "images": [
+            "https://production-static.mobilesyrup.com/uploads/2026/08/apple-event.jpg",
+            "http://b.scorecardresearch.com/p?c1=2&c2=34948124&cv=2.0&cj=1",
+            "https://mobilesyrup.com/wp-content/themes/mobilesyrup2021/images/ms-logo.svg",
+            "https://mobilesyrup.com/wp-content/themes/mobilesyrup2021/assets/img/Newsletter-image.png"
+        ],
+        "timestamp": 1788535740.0
     },
     {
         "id": "fe041b8035",
@@ -6794,171 +6956,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787706658.0
-    },
-    {
-        "id": "8e9d737a92",
-        "title_fa": "حلقه‌های بازخورد؛ هوش مصنوعی چگونه یاد می‌گیرد؟",
-        "title_en": "AI Feedback Loops Explained: How Artificial Intelligence Learns, Improves",
-        "summary": [
-            "مدل‌های هوش مصنوعی پس از عرضه ثابت نمی‌مانند و با تحلیل مداوم بازخورد کاربران رفتار خود را اصلاح می‌کنند.",
-            "روش RLHF با اعمال ترجیحات انسانی، پاسخ‌های مدل‌ها را دقیق‌تر، طبیعی‌تر و ایمن‌تر می‌سازد.",
-            "برعکس نرم‌افزارهای قدیمی، سیستم‌های AI با شناسایی الگوهای متغیر، توانایی حل مسائل پیچیده را پیدا می‌کنند."
-        ],
-        "full_text": "AI feedback loops help systems improve by comparing actions with desired outcomes. Human feedback and AI evaluations guide models toward better, safer performance. Reliable feedback systems are essential for building future AI technologies. Artificial intelligence systems do not stay fixed after their first release. They change through feedback loops that help them understand results, find mistakes, and create better outcomes. A feedback loop gives an AI system a way to compare its actions with a desired result. This process helps modern AI tools become more useful, accurate, and reliable over time. A simple example shows how this works. A chatbot gives an answer to a question. A person rates that answer or corrects it. The system studies that signal and adjusts future responses. This cycle connects action, feedback, and improvement. It forms the base of many AI systems used today. An AI feedback loop follows a clear path. First, the system receives data or a task. Next, the AI creates a prediction, recommendation, or response. After that, a feedback signal shows whether the result meets the expected goal. The system then uses that information to adjust its future behavior. Feedback can come from many sources. Human ratings, user choices, task results, sensor information, and expert reviews can all guide an AI model. A recommendation system can study clicks to understand preferences. A robot can check whether it reached a target location. A language model can compare responses with quality standards. The feedback signal plays a key role. Raw feedback does not directly change an AI system. Instead, algorithms convert feedback into useful information, such as a reward score or an error value. The model uses these signals to improve its future results. This process differs from traditional software. Regular programs follow fixed instructions written by developers. AI systems use patterns from data and feedback to adjust their behavior. The result allows AI tools to handle complex tasks where clear rules may not exist. Reinforcement Learning from Human Feedback (RLHF) became an important method for improving large language models. This approach uses human preferences as a guide for AI behavior. People compare different answers, mark better options, and provide signals that help a model understand quality. RLHF helps AI systems produce responses that feel more useful and natural. It can reduce unwanted answers and help models follow instructions more closely. However, human feedback also has limits. Different people may have different opinions about the same response. Some reviewers may miss errors or prefer confident answers over accurate information. Researchers now explore methods that reduce the need for large amounts of human feedback. Active learning systems can select important examples that need review. Better preference models can help AI systems understand feedback with fewer examples. AI feedback also has a role in modern systems. One AI model can review another model’s output and provide a quality score. This method can support faster improvement when human review cannot cover every result. Also Read - AI Agent Loops Explained: How Autonomous AI Systems Think A major shift in AI comes from systems that can complete tasks and evaluate their own results. AI agents follow a cycle that includes setting a goal, creating a plan, taking action, checking results, and making changes. Coding agents offer a clear example. An AI tool can write code, test the result, find errors, and create a better version. Research agents can check information, compare results, and adjust their approach. Robotics systems can practice tasks inside simulations before they handle real situations. These feedback loops help AI move beyond simple answers. They allow systems to respond to outcomes instead of only relying on stored information. This approach supports more flexible AI tools that can handle changing conditions. However, feedback loops need careful design. A poor reward signal can lead an AI system toward the wrong goal. This problem, known as reward hacking, happens when a model finds a shortcut that increases its score without completing the real task. AI feedback loops decide how artificial intelligence improves, adapts, and becomes more useful. They help systems learn from mistakes understand human needs and deliver better results. As AI enters important areas such as healthcare, business, and research, reliable feedback loops become essential for creating safer, smarter, and more effective technology. The feedback systems used by future AI technologies will leverage human intelligence, physical results and AI evaluations. Privacy has to be ensured in the process. AI developers must find ways to obtain useful feedback without sacrificing personal information. Human intervention will still be vital in areas like medicine, finance, and self-driving cars. These industries require AI solutions to help human experts make valuable and timely decisions. The upcoming AI developments won’t come only from larger models. Improved feedback systems will allow AI to define objectives, fix errors and provide better results. A properly designed feedback system will allow AI to move from basic predictions to meaningful modifications. 1. What is an AI feedback loop? An AI feedback loop is a process where an AI system receives results, evaluates performance, and uses feedback to improve future decisions. 2. How does human feedback improve AI models? Human feedback helps AI understand preferences, correct mistakes, follow instructions better, and generate more useful responses. 3. What is Reinforcement Learning from Human Feedback (RLHF) RLHF is a technique where humans rate AI outputs and provide guidance that helps models produce higher-quality and safer responses. 4. Can AI systems improve without human feedback? Yes. AI can also learn from user behavior, sensor data, task outcomes, simulations, and AI-generated ev",
-        "impact": "افزایش چشمگیر دقت و قابلیت اعتماد مدل‌های هوش مصنوعی در کاربردهای واقعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "Analytics Insight",
-        "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-feedback-loops-explained-how-artificial-intelligence-learns-improves",
-        "clean_url": "https://www.analyticsinsight.net/artificial-intelligence/ai-feedback-loops-explained-how-artificial-intelligence-learns-improves",
-        "image": "http://www.bing.com/th?id=ONUT.DwJBP-LKFQR5GCXnLq6RIQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.DwJBP-LKFQR5GCXnLq6RIQ&pid=News",
-            "https://media.assettype.com/analyticsinsight%2F2026-08-26%2Ftwbv5ki9%2FAI-Feedback-Loops-Explained-How-Artificial-Intelligence-Learns-and-Improves.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png",
-            "https://media.assettype.com/analyticsinsight%2F2026-08-26%2Ftwbv5ki9%2FAI-Feedback-Loops-Explained-How-Artificial-Intelligence-Learns-and-Improves.jpg?w=480&auto=format%2Ccompress&fit=max"
-        ],
-        "timestamp": 1787703300.0
-    },
-    {
-        "id": "40bbd0a9e0",
-        "title_fa": "جذب سرمایه ۸۳ میلیون دلاری برای توسعه استارتاپ‌های آفریقا",
-        "title_en": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-        "summary": [
-            "صندوق ونچرز پلاتفرم با جمع‌آوری ۸۳ میلیون دلار، سرمایه‌گذاری در استارتاپ‌های نوپای آفریقا را کلید زد.",
-            "این مجموعه علاوه بر نیجریه، بازار کشورهای کنیا، آفریقای جنوبی و مصر را هدف گرفته است.",
-            "تمرکز اصلی این صندوق روی به‌کارگیری هوش مصنوعی برای کاهش هزینه‌های خدمات و تغییر مدل‌های کسب‌وکار منطقه است."
-        ],
-        "full_text": "Ventures Platform has raised an oversubscribed $83 million second fund as the Pan-African venture firm expands beyond its home market of Nigeria with a strategy shaped by a tougher, more selective venture market. The firm plans to back early-stage founders across a range of sectors, including fintech, healthcare, SaaS, and other areas “where technology can address essential needs and build large, enduring businesses,” Kola Aina, the firm’s founding partner, told TechCrunch. Of course, AI is part of that thesis. “We’re particularly interested in where AI changes the economics of serving African markets,” he said, pointing to its potential to reduce the cost of delivering services and help overcome labor shortages. “For us, AI is most interesting when it is not simply a feature, but an enabler of an entirely different cost structure, business model or market.” Ventures Platform, which is headquartered in Nigeria, previously raised a $46 million Fund I in 2022 with a similar, albeit more limited scope. The first fund focused primarily on pre-seed and seed rounds. “It allowed us to demonstrate that our approach to early-stage investing in Africa could work at an institutional scale and laid the foundation for Fund II,” Aina said. Now, Ventures Platform is back with a larger fund and wider geographic mandate. The firm is expanding its focus beyond Nigeria and has already written checks from Fund II to five companies based in Kenya, South Africa, and Egypt. Check sizes will be up to $3 million, and the firm hopes to deploy the capital over the next three to four years. “We are particularly interested in markets where technology can expand access to essential products and services, address critical infrastructure gaps, and create entirely new categories of consumption,” Aina said. The fundraising process took about a year and a half, with Aina describing the environment as more “selective” than it was when Ventures Platform raised Fund I. “LPs are asking harder questions about performance, portfolio construction, liquidity, manager discipline, and differentiation,” Aina said. From his perspective, the market is still cautious, as LPs demand more evidence that managers can turn portfolio value into realized returns. Capital is no longer assumed to be unlimited, especially after many LPs felt burned by the venture bust a few years ago. “The result is a much greater appreciation for capital efficiency, stronger fundamentals, governance, regulatory engagement, and the importance of building businesses that can survive different funding cycles,” he said. “There is a much clearer understanding that building valuable companies and generating venture returns require more than simply raising successive rounds of capital.” This year, African startups have raised around $930 million across more than 200 deals. Last year, startups on the continent raised $1.16 billion across 447 deals. As TechCrunch previously reported, the venture market is now a barbell — with LPs giving capital to a handful of firms at the top and to emerging managers with a track record they can trust. “Three years ago, there was still a significant amount of curiosity around the African opportunity. Today, LPs expect proof,” Aina said, adding that this discipline is actually healthy for the market. “The conversation has moved from ‘Why Africa’ to ‘Why you and how exactly are you going to generate returns,’” he said, adding that simply being a Pan-African fund is no longer a strategy. LPs want to know more about access to top talent, how funds are navigating individual markets, and “why you have the right to win,” Aina said. “That combination of local depth and global connectivity is increasingly important as the ecosystem matures.” In fact, he said that is the biggest edge his firm offers. This latest generation of founders and fund managers has seen what it is like to deal with both an abundance of capital and hardly any at all. He said it’s more important than ever to understand the institutional and market realities founders face while also connecting companies to regional and global networks as they scale. That pitch seems to have resonated with existing investors: 70% of Fund I’s LPs returned for Fund II. Backers include the European Bank for Reconstruction and Development, Norfund (Norway’s development finance institution), and Ghana’s Ashesi University Foundation. “We don’t take that for granted,” he said.",
-        "impact": "تزریق این منابع مالی رشد استارتاپ‌های هوش مصنوعی و فین‌تک را در بازارهای نوظهور سرعت می‌بخشد.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-        "clean_url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund",
-        "image": "http://www.bing.com/th?id=ONUT.XJGF1NJ0FjPD5VGvo_GW3w&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.XJGF1NJ0FjPD5VGvo_GW3w&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?resize=1200,778",
-            "https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
-        ],
-        "timestamp": 1787702460.0
-    },
-    {
-        "id": "bc82ae4916",
-        "title_fa": "جذب ۶.۸ میلیون دلار برای هوش مصنوعی فضایی Stellaria",
-        "title_en": "Adnoc L&S continues vessel-buying spree + Stellaria raises USD 6.8 mn",
-        "summary": [
-            "استارتاپ اماراتی Stellaria سرمایه اولیه‌ای ۶.۸ میلیون دلاری با ارزش‌گذاری ۱۱۴ میلیون دلاری جذب کرد.",
-            "مدل اختصاصی این شرکت به نام Meruem با تکنولوژی Super-resolution کیفیت تصاویر ماهواره‌ای و راداری را فوق‌العاده بالا می‌برد.",
-            "این پلتفرم تمرکز ویژه‌ای روی پایش هوشمند خطوط کشتیرانی و ارزیابی‌های محیط‌زیستی دارد."
-        ],
-        "full_text": "Adnoc L&S beefs up its fleet, again Adnoc L&S orders two more LNG carriers, pushing its fleet to 24 vessels: Adnoc Logistics & Services has exercised options for two additional next-generation LNG carriers from Jiangnan Shipyard in Shanghai for USD 444 mn, the company said in a disclosure (pdf). Each vessel has a capacity of 175k cbm, with delivery slated for 2029. Adnoc order rounds out record few weeks of fleet expansion: With this latest commitment, Adnoc L&S has now announced roughly USD 2.7 bn in vessel acquisitions and newbuild orders in 2026 alone. Half of that was locked in over the past few weeks, with the company adding 11 large carriers — five very large gas carriers (VLGCs) and six very large crude carriers (VLCCs) — for around USD 1.3 bn. Why it matters: Disruptions in the Red Sea and Hormuz have tightened tanker availability — pushing Adnoc to charter around 15 crude carriers to maintain shuttle movements and customer deliveries. Adnoc has also offered cargoes from Fujairah, Zirku Island, and Das Island, and through ship-to-ship transfers at Fujairah and Sohar, giving buyers more ways to lift barrels despite disruptions around Hormuz. Its LNG carrier fleet now stands at 24 vessels — four legacy ships, six next-generation carriers delivered since 4Q 2024, and 14 more under construction. Stellaria raises AED 25 mn to scale geospatial AI UAE-based AI and geospatial intelligence company Stellaria has raised AED 25 mn (USD 6.8 mn) in seed funding from angel investors, valuing the startup at AED 420 mn, according to a press release. The company uses AI to turn satellite and geospatial data into intelligence for areas including maritime activity and environmental monitoring. The funding will help Stellaria scale its team and expand across the UAE and into international markets. BACKGROUND- The company was formerly known as Farmin and is an alumnus of the Mohammed Bin Rashid Innovation Fund's Innovation Accelerator Program. It recently rebranded as Stellaria and was also building out its product line ahead of this raise. In June, the company launched an AI model called Meruem, aimed at improving satellite imagery quality across optical, SAR, and hyperspectral sensors through super-resolution — part of a broader industry shift toward extracting more value from existing satellite data rather than launching new sensors.",
-        "impact": "جهش پردازش داده‌های فضایی و پایش دریایی در خاورمیانه با استفاده از تحلیل هوشمند تصویر.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "enterpriseam",
-        "url": "https://enterpriseam.com/uae/2026/08/26/adnoc-ls-continues-vessel-buying-spree-stellaria-raises-usd-6-8-mn/",
-        "clean_url": "https://enterpriseam.com/uae/2026/08/26/adnoc-ls-continues-vessel-buying-spree-stellaria-raises-usd-6-8-mn",
-        "image": "https://i0.wp.com/ent.news/2026/8/976.jpg?fit=%2C&ssl=1",
-        "images": [
-            "https://i0.wp.com/ent.news/2026/8/976.jpg?fit=%2C&ssl=1",
-            "https://ent.news/internal/42998.svg",
-            "https://s3.amazonaws.com/resources.inktankir.com/internal/28583.png",
-            "https://ent.news/internal/86647.svg"
-        ],
-        "timestamp": 1787702340.0
-    },
-    {
-        "id": "fc4a6e0532",
-        "title_fa": "ناسا استفاده از هوش مصنوعی مولد را در مسابقات دانش‌آموزی ممنوع کرد",
-        "title_en": "NASA bans generative AI from 2027 Student Launch | ETIH EdTech News",
-        "summary": [
-            "ناسا اعلام کرد که از سال ۲۰۲۷ استفاده از هوش مصنوعی مولد در رقابت‌های مهندسی و موشکی دانش‌آموزی ممنوع خواهد بود.",
-            "این تصمیم با هدف حصول اطمینان از تفکر انتقادی، حل مسئله و یادگیری اصولی مهارت‌های مهندسی توسط دانش‌آموزان اتخاذ شده است."
-        ],
-        "full_text": "NASA bans generative AI from 2027 Student Launch | ETIH EdTech News  EdTech Innovation Hub",
-        "impact": "تأکید بر حفظ مهارت‌های پایه مهندسی و جلوگیری از اتکای بیش از حد نسل جدید به ابزارهای مولد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "EdTech Innovation Hub",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2lIZTVLTVQzd1RXZ1Bud0FDckNYdlNYLU8ycWIwT3hQSDA5X0liMlhWZmxINzRXMHlLU3pob2Roa25IOVNGZ3M1YUprNDJQc3NjTHhJXy1HenRXYVVvUGJBQWJYTG92ck5VM01EYl82aHd4RC0xbXI0Q2dzRUpjQVBtT19QaHUweEh2OHdudXFUemhqUUpHX19pNTFHQW9O?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2lIZTVLTVQzd1RXZ1Bud0FDckNYdlNYLU8ycWIwT3hQSDA5X0liMlhWZmxINzRXMHlLU3pob2Roa25IOVNGZ3M1YUprNDJQc3NjTHhJXy1HenRXYVVvUGJBQWJYTG92ck5VM01EYl82aHd4RC0xbXI0Q2dzRUpjQVBtT19QaHUweEh2OHdudXFUemhqUUpHX19pNTFHQW9O",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787699265.0
-    },
-    {
-        "id": "9b115297d4",
-        "title_fa": "متا دوباره انتشار مدل جدید هوش مصنوعی خود را به تعویق انداخت",
-        "title_en": "Meta Delays Its Next Big AI Launch – Again",
-        "summary": [
-            "متا برای چندمین بار رونمایی از مدل بزرگ بعدی هوش مصنوعی خود را عقب انداخت.",
-            "این تاخیر نشان‌دهنده چالش‌های فنی و حساسیت‌های ایمنی در رقابت سنگین با غول‌هایی مثل OpenAI و گوگل است."
-        ],
-        "full_text": "Meta Delays Its Next Big AI Launch – Again  TechRepublic",
-        "impact": "کند شدن موقت ریتم رقابت متا با رقبای اصلی در بازار مدل‌های بزرگ زبانی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "TechRepublic",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GSVQtZk9HRVQ2R1RQZms0dzg2aE1KV0R0M3dMT2NMNUI1cDRZNkptUUJoSHI0cHRxVlluSk9UaldmYmJ3dWczREplb0lGV2dDRXpubDk4YThzQ28teWFkb0NzNUU4b0tiekZ3Y09qSTFtODBCYkhQZU5lWlZ3QQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787698230.0
-    },
-    {
-        "id": "189df6ba48",
-        "title_fa": "ارزیابی توانایی هوش مصنوعی در بازتولید مقالات علمی",
-        "title_en": "Researchers presented 6000 papers at a major meeting. Could AI reproduce their findings?",
-        "summary": [
-            "در پژوهشی تازه مشخص شد هوش مصنوعی توانسته ادعای دست‌کم یک بخش از ۲۲۲۶ مقاله علمی را به‌صورت مستقل تأیید کند.",
-            "از این میان، تنها ۲۶۶ مقاله به‌طور کامل توسط AI بازتولید شدند و ۵۰۲ مقاله فقط شواهد مقیاس‌کوچک داشتند که نشان‌دهنده چالش‌های فعلی در تکرارپذیری است."
-        ],
-        "full_text": "Roughly half of the 2226 papers examined had at least one reported result that the AI independently verified, including 266 that had all their results reproduced. An additional 502 had only toy-scale evidence, whereas 280 papers were judged inconclusive because of factors such as unavailable data.",
-        "impact": "افزایش سرعت اعتبارسنجی پژوهش‌های علمی و کشف اختلال‌های متدولوژیک در مقالات.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "Science",
-        "url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
-        "clean_url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
-        "image": "https://www.science.org/cms/asset/145f54ad-6a62-44fc-a44b-734ca2b7c5f5/_20260825_on_ai_replication.jpg",
-        "images": [
-            "https://www.science.org/cms/asset/145f54ad-6a62-44fc-a44b-734ca2b7c5f5/_20260825_on_ai_replication.jpg"
-        ],
-        "timestamp": 1787696040.0
-    },
-    {
-        "id": "d03620f847",
-        "title_fa": "جهش بعدی هوش مصنوعی از علم فیزیک رقم می‌خورد",
-        "title_en": "Next AI Breakthrough Could Come From Physics, Says Max Welling",
-        "summary": [
-            "مکس ولینگ پیش‌بینی کرده که جهش بزرگ بعدی در هوش مصنوعی حاصل تلفیق قوانین فیزیک با شبکه‌های عصبی خواهد بود.",
-            "استفاده از مدل‌سازی‌های فیزیکی می‌تواند محدودیت‌های فعلی مدل‌های زبانی بزرگ را برطرف کند."
-        ],
-        "full_text": "Next AI Breakthrough Could Come From Physics, Says Max Welling  StartupHub.ai",
-        "impact": "تغییر مسیر تحقیقات هوش مصنوعی به سمت استفاده از مفاهیم فیزیک نظری.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "StartupHub.ai",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXBsVXZ2VlAwQk1TU1BsWDEyY1VudFBqdTdoUVoyT0c4OUJLNFdhTUVSbkUtTDBJT18zdW93S0NFb1BtTjRTQ09LeGgzOTdzeUdxM1htaTh5MUwxdWp3R29vM2gwYWZtUWN1VnZvdGNMbTd0djFUVi1UNVVFZFkwTy1GSFk1LTBYVm00aEN2Wlp6SFhCVnVwaHdQdm9UM1lMajVXVzkxVXQyeGFtR0VjZERR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXBsVXZ2VlAwQk1TU1BsWDEyY1VudFBqdTdoUVoyT0c4OUJLNFdhTUVSbkUtTDBJT18zdW93S0NFb1BtTjRTQ09LeGgzOTdzeUdxM1htaTh5MUwxdWp3R29vM2gwYWZtUWN1VnZvdGNMbTd0djFUVi1UNVVFZFkwTy1GSFk1LTBYVm00aEN2Wlp6SFhCVnVwaHdQdm9UM1lMajVXVzkxVXQyeGFtR0VjZERR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787692142.0
     }
 ]
