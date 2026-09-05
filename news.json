@@ -1,5 +1,93 @@
 [
     {
+        "id": "9c86bb1920",
+        "title_fa": "ارتقای ابزار هوشمند XShift AI برای برنامه‌ریزی خودکار شیفت‌های کاری",
+        "title_en": "XShift AI Expands AI Copilot and Autopilot for AI-Native Employee Shift Scheduling",
+        "summary": [
+            "استارتاپ XShift AI قابلیت‌های جدیدی به دستیار هوشمند مدیریت منابع انسانی خود برای اتوماسیون زمان‌بندی نیروها اضافه کرد.",
+            "این سیستم الگوریتمی با حذف مداخلات دستی، خطاهای زمان‌بندی شغلی را در مجموعه‌های بزرگ به حداقل می‌رساند."
+        ],
+        "full_text": "XShift AI Expands AI Copilot and Autopilot for AI-Native Employee Shift Scheduling  democratandchronicle.com",
+        "impact": "کاهش چشمگیر هزینه‌های عملیاتی و بهینه‌سازی زمان‌بندی نیروی کار در شرکت‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "democratandchronicle.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMTVMWVFWQjVuUGNXZHBGVHNTRFNMdTJ3OC1GRlE4VURJQk0xS0VkSGVSYU1WeE53NEI3S3d0TUZkeklibG50WndyOU1CQmI5M2J4dXFkdkpXM3F2dmhqaElnNEkxWl9VV2Z3UzdJSnlNMHVGckUyNFd0TC1mWlVjYkVKeDhKUmhKUVZmai1fbG9TeHZlelB6T2ZSRndlLW1ybnpFa2UxRHhWc3NCc3AtSXMtV1kzNGtybENudGNfRjZ3QU5mNU1xTXpQb2pERm0zUzMzSFB1c0I0OUxWMXl2bw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMTVMWVFWQjVuUGNXZHBGVHNTRFNMdTJ3OC1GRlE4VURJQk0xS0VkSGVSYU1WeE53NEI3S3d0TUZkeklibG50WndyOU1CQmI5M2J4dXFkdkpXM3F2dmhqaElnNEkxWl9VV2Z3UzdJSnlNMHVGckUyNFd0TC1mWlVjYkVKeDhKUmhKUVZmai1fbG9TeHZlelB6T2ZSRndlLW1ybnpFa2UxRHhWc3NCc3AtSXMtV1kzNGtybENudGNfRjZ3QU5mNU1xTXpQb2pERm0zUzMzSFB1c0I0OUxWMXl2bw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788578665.0
+    },
+    {
+        "id": "2c0edb0f33",
+        "title_fa": "هشدار مجدد کارشناسان درباره تهدیدات حیاتی توسعه هوش مصنوعی",
+        "title_en": "The Threat of AI Takeover Is Real",
+        "summary": [
+            "بحث و گفتگوها درباره ریسک‌های وجودی و از دست رفتن کنترل انسان روی سیستم‌های پیشرفته AI دوباره اوج گرفته است.",
+            "کارشناسان بر لزوم تدوین سریع‌تر چارچوب‌های امنیتی و سخت‌گیرانه برای جلوگیری از خطرات بالقوه تاکید دارند."
+        ],
+        "full_text": "The Threat of AI Takeover Is Real  The Free Press",
+        "impact": "افزایش فشار بر نهادهای قانون‌گذار برای محدودسازی نرخ توسعه مدل‌های ریسکی هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Free Press",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788573807.0
+    },
+    {
+        "id": "3c64ba97f7",
+        "title_fa": "توسعه فناوری انرژی پاک برای تامین برق دیتاسنترهای هوش مصنوعی",
+        "title_en": "Sacramento company develops clean energy technology for AI data centers",
+        "summary": [
+            "یک شرکت در ساکرامنتو راهکار تازه‌ای برای تولید انرژی تجدیدپذیر و بدون کربن برای مراکز داده پرمصرف AI ارائه کرد.",
+            "با رشد سریع مدل‌های غول‌پیکر، فشار روی شبکه‌های برق منطقه‌ای به یک چالش جدی زیست‌محیطی تبدیل شده است."
+        ],
+        "full_text": "Sacramento company develops clean energy technology for AI data centers  KCRA",
+        "impact": "تسهیل توسعه دیتاسنترهای بعدی هوش مصنوعی بدون آسیب به زیرساخت‌های انرژی و محیط‌زیست.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "KCRA",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk53SHhISTVkeGlDYUpnYzBpaXYzRlJRRzZiRVdwSTFPaUNSbGp4UnJJZmxwdFZWOVpKa3QtMkYxWWZFZWJVTnRjb0FlSW9FaFBlT3o0Vmt1RnhIRUxLSFZRVDE3Y1I0ZkJPd2JhZE1QMjBoNTNFODhxeWJ6UXRDR3ZyVGpSV3dncGZPRmNrSkp5OXF4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk53SHhISTVkeGlDYUpnYzBpaXYzRlJRRzZiRVdwSTFPaUNSbGp4UnJJZmxwdFZWOVpKa3QtMkYxWWZFZWJVTnRjb0FlSW9FaFBlT3o0Vmt1RnhIRUxLSFZRVDE3Y1I0ZkJPd2JhZE1QMjBoNTNFODhxeWJ6UXRDR3ZyVGpSV3dncGZPRmNrSkp5OXF4",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788572700.0
+    },
+    {
+        "id": "eaaa072f04",
+        "title_fa": "برنامه‌ریزی آنتروپیک برای عرضه عمومی سهام در اواسط اکتبر",
+        "title_en": "Anthropic IPO launch shifts toward mid-October",
+        "summary": [
+            "زمان‌بندی جدید آنتروپیک نشان می‌دهد این رقیب جدی OpenAI قصد دارد اواسط اکتبر وارد بازار بورس (IPO) شود.",
+            "این اقدام مسیر جذب سرمایه‌های سنگین عمومی را برای توسعه نسلهای بعدی مدل Claude هموار می‌کند."
+        ],
+        "full_text": "Anthropic IPO launch shifts toward mid-October  The Japan Times",
+        "impact": "تغییر بزرگ در معادلات مالی بازار هوش مصنوعی و تشدید رقابت سرمایه‌گذاری بین آنتروپیک و OpenAI.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3lYU0hDU1pXU2hFQ3J5MU5zQnhHZVExMUtBd2FiLTduTklmN0xfRGRXYkFJUFc1N2kxU2tvRFZyWlcxWUZwaGJaWkFEMzJnUjZRejBVMnJmcFNwM2tPWnBtZjBFWFd6TWxxeEZzckhIa1RHUmRSNHNfRFhER1YtaERmUkFTWGtTMlc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3lYU0hDU1pXU2hFQ3J5MU5zQnhHZVExMUtBd2FiLTduTklmN0xfRGRXYkFJUFc1N2kxU2tvRFZyWlcxWUZwaGJaWkFEMzJnUjZRejBVMnJmcFNwM2tPWnBtZjBFWFd6TWxxeEZzckhIa1RHUmRSNHNfRFhER1YtaERmUkFTWGtTMlc0",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788570480.0
+    },
+    {
         "id": "8a4dc595ef",
         "title_fa": "شایعات جدید ایرپاد: دوربین‌های داخلی و قابلیت‌های هوش مصنوعی",
         "title_en": "The latest AirPods rumors ahead of the Apple event: AirPods 5, cameras, and AI",
@@ -153,6 +241,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788552730.0
+    },
+    {
+        "id": "6a668daff7",
+        "title_fa": "چالش‌های زیرساختی و انقباض کسب‌وکارهای فناوری در اینوتکس",
+        "title_en": "اینوتکس ۱۴۰۵ | روایت فعالان فناوری از شرایط کسبوکار و چالشهای پیش رو + فیلم",
+        "summary": [
+            "فیلترینگ، اختلالات مداوم اینترنت و محدودیت‌های نرم‌افزاری به افت شدید بهره‌وری و کندی توسعه محصولات بومی منجر شده است.",
+            "انحصار در توزیع منابع سخت‌افزاری حیاتی مانند پردازنده‌های گرافیکی (GPU)، دسترسی استارتاپ‌های خصوصی هوش مصنوعی را مسدود کرده است.",
+            "پیچیدگی قوانین رگولاتوری و هزینه‌های سنگین حضور، بسیاری از شرکت‌ها را در فاز انقباضی و تلاش برای بقا قرار داده است."
+        ],
+        "full_text": "شهرآرانیوز؛ نمایشگاه اینوتکس ۱۴۰۵ که از ۱۱ تا ۱۴ شهریور در پارک فناوری پردیس و با حضور فعالان این حوزه برگزار میشود بازتابدهنده چالشهای عمیق زیرساختی، اقتصادی و مدیریتی در اکوسیستم فناوری کشور است. گزارشهای میدانی از گفتوگو با غرفهداران نشان میدهد که اگرچه این رویداد همچنان فرصتی برای شبکهسازی و معرفی دستاوردهای جدید است، اما بسیاری از فعالان این حوزه در وضعیت «انقباضی» برای بقا قرار دارند. بخش قابلتوجهی از شرکتهای حاضر در نمایشگاه، محدودیتهای اینترنتی، فیلترینگ سایتهای عمومی و اختلال در دسترسیهای نرمافزاری را به عنوان اصلیترین عوامل کاهش بهرهوری و کند شدن روند توسعه محصولات معرفی کردند. بسیاری از مجموعهها به دلیل این شرایط، مجبور به پذیرش مدلهای کاری دورکاری یا ترکیبی (هیبریدی) شدند که اگرچه مانع از توقف کامل فعالیتها شد، اما به گفته فعالان، رسیدن به بازارهای هدف را با تأخیر مواجه کرد. در برخی موارد، این وضعیت منجر به تعدیل نیرو یا کاهش سرعت توسعه محصول شد. برخی از غرفهداران، به فقدان حمایتهای مؤثر نهادی اشاره کردند. برخی شرکتکنندگان هم معتقدند که برخلاف تصور عمومی، حمایتهای دولتی محدود به شرکتهای خاص یا پروژههای دانشگاهیِ گزینش شده است. برای نمونه، توزیع منابع سختافزاری پیشرفته مانند واحدهای پردازش گرافیکی (GPU) برای هوش مصنوعی، به حوزههایی خاص محدود شده که دسترسی شرکتهای کوچکتر و خصوصی را دشوار کرده است. در این میان، شرکتهای نوپا نیز از پیچیدگی قوانین رگولاتوری و عدم تغییر سریع مقررات گلایه دارند و تأکید میکنند که حاکمیت بیش از آنکه نقش تسهیلگر داشته باشد، فضای کسبوکار را با چالش مواجه کرده است. در مقایسه با سالهای گذشته، انتقادات متعددی نسبت به کاهش وسعت فضای نمایشگاهی و کیفیت امکانات رفاهی از جمله تهویه و سرمایش مطرح شد. غرفهداران دلیل این کوچکشدن ابعاد نمایشگاه را ناتوانی بسیاری از کسبوکارها در تأمین هزینههای حضور به دلیل مشکلات مالی عنوان کردند. با این حال، برخی از مجموعههای جدید با وجود دشواریهای موجود، برای معرفی محصولات خود در اینوتکس حاضر شدند. فعالان حوزه فناوری، نظم چالشهای دولتی و زیرساختی، شرکتهای حوزه فناوری با آسیبهای درونصنفی نیز دستوپنج نرم میکنند. موضوعاتی نظیر تخریب محصولات رقبا و تلاشهای غیراخلاقی برای دسترسی به کدهای منبع (Source Code) دیگر شرکتها، به عنوان یکی از چالشهای جدی امنیتی در این بازار مطرح شده است. در نهایت، با وجود تمامی انتقاداتی که به کیفیت برگزاری اینوتکس ۱۴۰۵ و شرایط کلان اقتصادی وارد است، شرکتهای فناور همچنان حضور در چنین نمایشگاههایی را فرصتی برای لینکسازی و آشنایی با کارفرمایان و پروژههای جدید میدانند. با این حال، تداوم این وضعیت و عدم توجه به توزیع عادلانه منابع و تسهیل در دسترسیهای زیرساختی، بقای بسیاری از این استارتاپها را در هالهای از ابهام قرار داده است.",
+        "impact": "تداوم بحران‌های زیرساختی و عدم توزیع عادلانه امکانات، موج جدیدی از تعدیل نیرو و تعطیلی استارتاپ‌ها را در پی دارد.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "شهرآرانیوز",
+        "url": "https://shahraranews.ir/fa/news/442668/اینوتکس-۱۴۰۵-|-روایت-فعالان-فناوری-از-شرایط-کسب‌وکار-و-چالش‌های-پیش-رو-فیلم",
+        "clean_url": "https://shahraranews.ir/fa/news/442668/اینوتکس-۱۴۰۵-|-روایت-فعالان-فناوری-از-شرایط-کسب‌وکار-و-چالش‌های-پیش-رو-فیلم",
+        "image": "https://shahraranews.ir/files/fa/news/1405/6/13/3638556_956.jpeg",
+        "images": [
+            "https://shahraranews.ir/files/fa/news/1405/6/13/3638556_956.jpeg"
+        ],
+        "timestamp": 1788548340.0
     },
     {
         "id": "8131c60c04",
@@ -6849,118 +6960,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787692142.0
-    },
-    {
-        "id": "61df5033bf",
-        "title_fa": "جذب ۱۰ میلیون دلار سرمایه توسط استارتاپ هوش مصنوعی صوتی Ringg",
-        "title_en": "India's Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "summary": [
-            "استارتاپ هندی Ringg با دریافت سرمایه جدید از Peak XV، ارزش دور سری A خود را به ۱۵.۵ میلیون دلار رساند.",
-            "این شرکت پردازش بیش از ۲۰ میلیون تماس در ماه را بر عهده دارد و در حال حرکت به سمت اتوماسیون فرآیندهای پیچیده پزشکی و مالی است."
-        ],
-        "full_text": "More than 76% of consumers in India prefer talking to businesses over a phone call, according to a recent study from Truecaller. Since voice is still consumers’ preferred way to communicate, that leaves a big opportunity to automate support and outreach calls using voice AI in the country. Voice AI startup Ringg, which already processes 20 million call attempts a month, is betting that volume keeps climbing over the coming months, and it just raised more money on that belief. The company said today it has landed $10 million from Peak XV Partners as an extension of its Series A. It had previously raised $5.5 million in a Series A round earlier this year, bringing the round’s total to $15.5 million. Ringg started life as a text-to-speech startup called DesiVocal, but training its own speech models proved expensive, so the founders moved up the stack — building voice AI agents for enterprises instead. Indian fintech Cred became its first customer, and Ringg has since signed Indian startups like Flipkart, Practo, Groww, and PolicyBazaar. “At the start, we were doing high-volume, low-complexity use cases like outbound calling, lead qualification, loan collection, and more. We quickly realized these are not sticky use cases, and so it’s always going to be a price game,” the startup’s co-founder Siddharth Tripathi told TechCrunch. Ringg still serves some of those simpler use cases, but it has set its sights on more complex workflows: appointment booking for healthcare clinics, abandoned-cart recovery for e-commerce sites, and onboarding/KYC (“know your customer”) checks for fintech apps. Tripathi said Ringg’s voice agent now runs across 1,200 clinics for the healthcare app Practo, helping patients book visits or follow up on next steps post-visit. Voice calls still make up over 70% of Ringg’s business, but the startup has started branching into other channels, including chat and WhatsApp. For some clients like Shell, it’s also automating browser-based support requests. “We are trying to position ourselves as a platform for agents that bring outcomes or get things done rather than voice agents for enterprises,” Tripathi said. Most of Ringg’s customers are based in India, with a handful in the Middle East and the U.S. But the startup isn’t trying to sell directly to U.S. companies; instead, it wants to partner with so-called Global Capability Centers in India — the offshore hubs multinationals increasingly lean on for back-office and support work — to sell automation capacity alongside human support. Tripathi said the company builds its own speech recognition and generation models, and would eventually like to own the full voice stack, including infrastructure and deployment. For now, though, that remains too costly, so the product works as an orchestration layer, routing tasks to different models depending on the use case. Rishen Kapoor, a principal at Peak XV, said that because Ringg started as a research lab building its own models, that technical depth shows up in the complex use cases it’s now tackling. “Because of the technical capabilities, they can actually do these hard-won enterprise workflows end to end. They can complete these higher-value tasks like merchant onboarding, like L1 and L2 support, with quality and with consistency,” Kapoor told TechCrunch. Voice AI in India is a crowded field. Model makers including Deepgram, ElevenLabs, Cartesia, and local players like Sarvam and Smallest.ai, are all jockeying for pole position. Orchestration-focused startups like Bolna and Blue Machines are chasing the same layer Ringg occupies, while sector-focused players like Gnani and Arrowhead concentrate heavily on finance. That layered stack — model makers, orchestrators, and application-layer players all trying to lock in enterprise workflows — is itself the story. The money and the defensibility increasingly sit with whoever owns the customer relationship and the outcome. Ringg currently has 40 employees, with more than 15 hired in the last three months. The startup is hiring for forward-deployed engineer roles that combine technical chops with product management skills, along with researchers focused on bringing down the cost of running its models.",
-        "impact": "تحول در خدمات مشتریان هندوستان و جایگزینی عامل‌های هوش مصنوعی با اپراتورهای انسانی در مقیاس میلیون.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-        "clean_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-        "images": [
-            "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/09/723b22a81ff6a760c4520b963b43451e.png?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787689740.0
-    },
-    {
-        "id": "2c31ccc7aa",
-        "title_fa": "همکاری استارتاپ Tranquility AI برای حل پرونده‌های جنایی بایگانی‌شده",
-        "title_en": "Tranquility AI Partners With University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative",
-        "summary": [
-            "استارتاپ Tranquility AI با همکاری دانشگاه کارولینای جنوبی، نخستین برنامه آموزش عدلیه و کشف پرونده‌های راکد را با کمک هوش مصنوعی کلید زد.",
-            "این سامانه با تحلیل دقیق داده‌ها و سرنخ‌های قدیمی به کارآگاهان کمک می‌کند پرونده‌های جنایی حل‌نشده را دوباره به جریان بیندازند."
-        ],
-        "full_text": "Tranquility AI Partners With University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative  Police1",
-        "impact": "ورود عملیاتی هوش مصنوعی به سیستم‌های جنایی و حقوقی برای تسریع در تحلیل پرونده‌های معوقه.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "Police1",
-        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOckJ2d3ZUQ0luR0VXdllHV2tXRTVHSldrbVpoVWtTcWxQZy12WWJlY2ozeVdBbGlUOG4tUUgwQ2JOQ3pBZEFWMHZWQ1pWdzlTaS1MWUpNZ0VCZWo2eXAzZ2xWbmpfX0t1X1lhQmFDWm9peHVtYVFSc2V1Q09FaGdDUDVtWDNQWnZkLUNvWEVHcHhKMUtVSUZaZFE0YVV6Zzl3eG5oLUNGY19Cb2dEVE9UbGNzZUFRSDJ4eXlFTWJDMmhuUTQzYUJEaTFOT3JhS0FlOUc5WkdfZzFFRVlOWkUtTGpsZHNEb2JTSXZENUVvNWs2QXM5QnluY2pPdFR5ZVBsVDBpdVhSdUJ6ZnRDOGlZbTRlUV9uSUxnWDg3cmVjQkRPN2lVRHphMDNUVXFnTXgzei0zLU5OeEZiUDlyUzA3T0RR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOckJ2d3ZUQ0luR0VXdllHV2tXRTVHSldrbVpoVWtTcWxQZy12WWJlY2ozeVdBbGlUOG4tUUgwQ2JOQ3pBZEFWMHZWQ1pWdzlTaS1MWUpNZ0VCZWo2eXAzZ2xWbmpfX0t1X1lhQmFDWm9peHVtYVFSc2V1Q09FaGdDUDVtWDNQWnZkLUNvWEVHcHhKMUtVSUZaZFE0YVV6Zzl3eG5oLUNGY19Cb2dEVE9UbGNzZUFRSDJ4eXlFTWJDMmhuUTQzYUJEaTFOT3JhS0FlOUc5WkdfZzFFRVlOWkUtTGpsZHNEb2JTSXZENUVvNWs2QXM5QnluY2pPdFR5ZVBsVDBpdVhSdUJ6ZnRDOGlZbTRlUV9uSUxnWDg3cmVjQkRPN2lVRHphMDNUVXFnTXgzei0zLU5OeEZiUDlyUzA3T0RR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787688859.0
-    },
-    {
-        "id": "d29afbb481",
-        "title_fa": "اجرای رسمی قانون جامع هوش مصنوعی در اتحادیه اروپا",
-        "title_en": "PRESS RELEASE: European Union Begins Enforcing Sweeping Artificial Intelligence Act",
-        "summary": [
-            "اتحادیه اروپا چارچوب قانونی سخت‌گیرانه خود برای مهار و چارچوب‌بندی توسعه مدل‌های هوش مصنوعی را رسماً عملیاتی کرد.",
-            "شرکت‌های فعال در این حوزه اکنون ملزم به شفافیت کامل در داده‌های تمرینی و ارزیابی ریسک‌های ایمنی مدل‌ها هستند."
-        ],
-        "full_text": "PRESS RELEASE: European Union Begins Enforcing Sweeping Artificial Intelligence Act  The Heartland Institute",
-        "impact": "افزایش سنگین هزینه‌های انطباق حقوقی برای توسعه‌دهندگان هوش مصنوعی در بازار اروپا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "The Heartland Institute",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC1BbDVuT2RKZUp1X3RUWVVnZEFwaVY4STNYdTY3WWVuNmNQazRhREZEa3BRVTlta3lXZUpnN3QyMEwzMHowUXV1SlhjanptYnpIQkU1UWtFQ2gxRUg4U0o1VkU0Q2t4QUVyVkhUa3ZwencxUkVNcXdYTTJHNzd1YnNPUHF1SnBYeUtzZDZKYUNWZUprTjhraDVyY2dCRXA3Z1FWQ3ZrS3htQkNaOU96QnQ0RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOC1BbDVuT2RKZUp1X3RUWVVnZEFwaVY4STNYdTY3WWVuNmNQazRhREZEa3BRVTlta3lXZUpnN3QyMEwzMHowUXV1SlhjanptYnpIQkU1UWtFQ2gxRUg4U0o1VkU0Q2t4QUVyVkhUa3ZwencxUkVNcXdYTTJHNzd1YnNPUHF1SnBYeUtzZDZKYUNWZUprTjhraDVyY2dCRXA3Z1FWQ3ZrS3htQkNaOU96QnQ0RQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787687831.0
-    },
-    {
-        "id": "5d8ce69848",
-        "title_fa": "رونمایی اپل از مک مینی جدید با تراشه‌های M6 و M5 Pro",
-        "title_en": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-        "summary": [
-            "اپل نسل جدید کامپیوتر کوچک مک مینی را با ارتقای جهشی پردازنده و مجهز به تراشه‌های نسل جدید معرفی کرد.",
-            "این نسل جدید تمرکز ویژه‌ای روی بهبود توان پردازش گرافیکی و اجرای بومی مدل‌های هوش مصنوعی روی دستگاه دارد."
-        ],
-        "full_text": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro  Apple",
-        "impact": "تحول قدرت پردازشی کامپیوترهای کوچک دسکتاپ و خط‌ونشان تازه اپل برای بازار سیستم‌های رومیزی.",
-        "tag": "گجت",
-        "urgency": 8,
-        "sentiment": 0.9,
-        "source": "Apple",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnV5OXRDNXRyNUp1bUltLXBkSC1kMHFSWUJkem0tbjZ3YVhaOTQ5eWpBbWlBR0gwZkFTUnViU1pzOExTZjlhRS1kTmt5cjdXUGROT0ZXdnB2TzJVRGNIYTE4X1dBdG5LdXB4RjladGFOdlpheXBodGo3SmVTSXVnVC1xSXZ6ejJIVEROOW1OQ3l2VVN6cWIzbWxWNWp0MW9MdUVCV2t0NGI3czh5UjFXMHhTTkY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnV5OXRDNXRyNUp1bUltLXBkSC1kMHFSWUJkem0tbjZ3YVhaOTQ5eWpBbWlBR0gwZkFTUnViU1pzOExTZjlhRS1kTmt5cjdXUGROT0ZXdnB2TzJVRGNIYTE4X1dBdG5LdXB4RjladGFOdlpheXBodGo3SmVTSXVnVC1xSXZ6ejJIVEROOW1OQ3l2VVN6cWIzbWxWNWp0MW9MdUVCV2t0NGI3czh5UjFXMHhTTkY",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787685436.0
-    },
-    {
-        "id": "9582b64a19",
-        "title_fa": "تاییدیه سازمان FDA برای نخستین سنسور دوگانه قند و کتون جهان توسط شرکت Abbott",
-        "title_en": "Abbott receives FDA authorization for world's first dual glucose-ketone sensing technology for people with diabetes",
-        "summary": [
-            "شرکت Abbott موفق به دریافت مجوز رسمی از سازمان غذا و داروی آمریکا برای حسگر جدیدی شد که می‌تواند میزان قند و کتون خون را هم‌زمان سنجش کند.",
-            "این حسگر پایش مداوم، ابزاری حیاتی برای بیماران مبتلا به دیابت است تا پیش از بروز اختلالات شدید مانند کتوآسیدوز، هشدار دریافت کنند."
-        ],
-        "full_text": "Abbott receives FDA authorization for world's first dual glucose-ketone sensing technology for people with diabetes  Abbott MediaRoom",
-        "impact": "تحول مهم در سلامت دیجیتال و پیشگیری از بحران‌های حاد پزشکی برای میلیون‌ها بیمار دیابتی در سراسر جهان.",
-        "tag": "پزشکی",
-        "urgency": 7,
-        "sentiment": 0.9,
-        "source": "Abbott MediaRoom",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkM3NVlyYnE1Vk9RZlhTS20zdDFzNkVHZ0k2UDBlYmtMRGN0VVE3Z3dBMjhEc0s1QlVob19rMzl3emxHX2NoQmhCejNqUmdYSjZrd0VXZFVGUVZXSktrOEhrMGl5QkxGSEN6NmgtaVd3WHp0aW5PbVp4UWNYR1ZmWEwtR094VFRnVmJtMXZqVDZjOHNUTG53UFRuZnprNGIxdFU2WUtJWmg2R2s4RWY2YTBQTmxzMWRSZG9uZG83STE4T2JSZ3BlMHdPN2taQXlUSG42Yy1KTTZidUtwVGYxdlhLbXJ3SnVwaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSkM3NVlyYnE1Vk9RZlhTS20zdDFzNkVHZ0k2UDBlYmtMRGN0VVE3Z3dBMjhEc0s1QlVob19rMzl3emxHX2NoQmhCejNqUmdYSjZrd0VXZFVGUVZXSktrOEhrMGl5QkxGSEN6NmgtaVd3WHp0aW5PbVp4UWNYR1ZmWEwtR094VFRnVmJtMXZqVDZjOHNUTG53UFRuZnprNGIxdFU2WUtJWmg2R2s4RWY2YTBQTmxzMWRSZG9uZG83STE4T2JSZ3BlMHdPN2taQXlUSG42Yy1KTTZidUtwVGYxdlhLbXJ3SnVwaXc",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787683998.0
     }
 ]
