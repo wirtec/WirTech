@@ -1,5 +1,115 @@
 [
     {
+        "id": "4d5e1c4d4b",
+        "title_fa": "تغییر استراتژی زاکربرگ و چشم‌انداز سودآوری جدید متا",
+        "title_en": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
+        "summary": [
+            "تصمیمات جدید مارک زاکربرگ برای تغییر اولویت‌ها، توجه بازارهای مالی را جلب کرده است.",
+            "کاهش هزینه‌های متاورس و تمرکز مستقیم بر زیرساخت‌های درآمدزای هوش مصنوعی، موقعیت مالی شرکت را تقویت می‌کند."
+        ],
+        "full_text": "Meta stands to gain as Mark Zuckerberg makes shocking decision  thestreet.com",
+        "impact": "رشد ارزش سهام متا و تثبیت جایگاه آن در رقابت غول‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTjBBOHBQZURvbkZJUVdCQUR2aF96Y203aUx1cDRLQ0lBU2gwY2QzSUFySklmZDlsTHR4bU94VDFUcmJ1R183Z3lnODVYTlNpNFN0SV9zNHRSaXJZTVhRYllQYUN2UFdaazZHRDk1bmxTOC1UTUZ5b1ExMUdsdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CTjBBOHBQZURvbkZJUVdCQUR2aF96Y203aUx1cDRLQ0lBU2gwY2QzSUFySklmZDlsTHR4bU94VDFUcmJ1R183Z3lnODVYTlNpNFN0SV9zNHRSaXJZTVhRYllQYUN2UFdaazZHRDk1bmxTOC1UTUZ5b1ExMUdsdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788611580.0
+    },
+    {
+        "id": "9c8a251070",
+        "title_fa": "چرا برخی کاربران از انویدیا به AMD مهاجرت می‌کنند؟",
+        "title_en": "The Unexpected Reasons Why Some Users Switch From Nvidia To AMD",
+        "summary": [
+            "با وجود سلطه انویدیا بر بازار گرافیک، حافظه VRAM بیشتر و قیمت مناسب‌تر AMD کاربران حرفه‌ای را جذب کرده است.",
+            "پشتیبانی بهتر AMD از درایورهای متن‌باز و سیاست‌های قیمتی منصفانه‌تر از دلایل اصلی این تغییر جهت است."
+        ],
+        "full_text": "The Unexpected Reasons Why Some Users Switch From Nvidia To AMD  bgr.com",
+        "impact": "افزایش رقابت در بخش کارت‌های گرافیک میان‌رده و فشار بر انویدیا برای تعدیل قیمت‌ها.",
+        "tag": "سخت‌افزار",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "bgr.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Uc2E0bFpJMUtpX0xFczBpbURwUUlscERDVFNxMFhlZlYtUFNCTnFaQ2NiRVd0c1FuN1BZZkNCbkhCNGZWR1VwVHpvekowOGdRVzFFaVpGS3lDeE96eUV4Ny1kSXFETUllZ0FSZzJsTUhWX096T1Y3M1pJbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Uc2E0bFpJMUtpX0xFczBpbURwUUlscERDVFNxMFhlZlYtUFNCTnFaQ2NiRVd0c1FuN1BZZkNCbkhCNGZWR1VwVHpvekowOGdRVzFFaVpGS3lDeE96eUV4Ny1kSXFETUllZ0FSZzJsTUhWX096T1Y3M1pJbw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788608820.0
+    },
+    {
+        "id": "69329e62e0",
+        "title_fa": "جهش در ساخت واکسن‌های سرطان و رقابت داغ در ژنتیک",
+        "title_en": "Personalized Cancer Vaccine Breakthrough Ignites Sequencing Sector, Tempus AI's Personalis Bid Faces Rivalry Speculation",
+        "summary": [
+            "موفقیت‌های تازه در توسعه واکسن‌های شخصی‌سازی‌شده سرطان، توجه سرمایه‌گذاران را به بخش توالی‌یابی ژنتیکی جلب کرده است.",
+            "پیشنهاد خرید شرکت Personalis توسط Tempus AI رقابت فشرده‌ای را میان غول‌های بیوتکنولوژی ایجاد کرده است."
+        ],
+        "full_text": "Personalized Cancer Vaccine Breakthrough Ignites Sequencing Sector, Tempus AI's Personalis Bid Faces Rivalry Speculation  finance.biggo.com",
+        "impact": "تسریع تجاری‌سازی درمان‌های مبتنی بر هوش مصنوعی و ورود سرمایه‌های سنگین به بیوتکنولوژی.",
+        "tag": "پزشکی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQaUtFM2JxQjFabkE1MHZaX1lHOTJSYXVzcW5HSFM1QVE3ay1CWmk3anZwNUhab19MZnd1U3FXXzgxZzhncldnU0pYcGtZTHg3dFItS01vS044bHhZWUxZSTZ5U2p4Z0ZYRVVjVnVFVF9GRDl0aEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQaUtFM2JxQjFabkE1MHZaX1lHOTJSYXVzcW5HSFM1QVE3ay1CWmk3anZwNUhab19MZnd1U3FXXzgxZzhncldnU0pYcGtZTHg3dFItS01vS044bHhZWUxZSTZ5U2p4Z0ZYRVVjVnVFVF9GRDl0aEE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788606300.0
+    },
+    {
+        "id": "8051e9c5db",
+        "title_fa": "استارتاپ جدید برای سوژه‌یابی اخبار محلی با هوش مصنوعی",
+        "title_en": "TV newsman’s startup aims to help local stations use AI to find stories",
+        "summary": [
+            "یک مجری سابق تلویزیون استارتاپی راه انداخته تا به شبکه‌های خبری محلی در پیدا کردن سوژه‌های داغ و تحلیل داده‌ها کمک کند.",
+            "این سیستم ابری داده‌های منطقه‌ای را تحلیل کرده و موضوعات پرمخاطب را در اختیار خبرنگاران قرار می‌دهد."
+        ],
+        "full_text": "TV newsman’s startup aims to help local stations use AI to find stories  The Boston Globe",
+        "impact": "افزایش سرعت سوژه‌یابی و کاهش هزینه‌های تولید خبر در رسانه‌های محلی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUtJU2JncTFNbkZITkFnVTl4czBwcW5jUWZaS3VGSS1MNE1sanFEOXBaREJubGI4ZkZaLTd1QTBGcjMycl93YmVQcHhHYkxIOFZUM0F1WXdBTnF5UF9CTXRqOWNJZUdLVlhBMXdsa080MWRQQUI1SFNwa3hVVENERVBaUVZWdnhMT1dZWEQ3eDZQcVN2OUZVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUtJU2JncTFNbkZITkFnVTl4czBwcW5jUWZaS3VGSS1MNE1sanFEOXBaREJubGI4ZkZaLTd1QTBGcjMycl93YmVQcHhHYkxIOFZUM0F1WXdBTnF5UF9CTXRqOWNJZUdLVlhBMXdsa080MWRQQUI1SFNwa3hVVENERVBaUVZWdnhMT1dZWEQ3eDZQcVN2OUZVZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788602784.0
+    },
+    {
+        "id": "db035f6026",
+        "title_fa": "افشای زمان عرضه عمومی سهام OpenAI و معرفی نسل بعدی AI",
+        "title_en": "OpenAI IPO: Sam Altman Reportedly Reveals Timeline, Hints At Major AI Upgrade",
+        "summary": [
+            "سام آلتمن برنامه‌زمانی ورود OpenAI به بازار بورس (IPO) را مشخص کرده است.",
+            "هم‌زمان نشانه‌های جدی از معرفی یک جهش بزرگ در مدل‌های هوش مصنوعی این شرکت به چشم می‌خورد."
+        ],
+        "full_text": "OpenAI IPO: Sam Altman Reportedly Reveals Timeline, Hints At Major AI Upgrade  Stocktwits",
+        "impact": "تحرک شدید در بازارهای مالی و جذب سرمایه‌های سنگین جدید در حوزه هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUdTX1ZYX0k0eTRldC04NTdKTFVyaDRNblF4eDRSaDdEbXNXTkRBME1QWjQwRFZqX3RaM21SX1dENHp0eDY2ZjkxTVlFRkNOZXFzZ2NHc0NWZndQSXJaSlBkNDZlQkpOVi05dGVlVHhZWUU2TnJnU2J2Y0JwdUxydFZFS1JUbzJIZkNkd1F3dGxrdGhvNnJDVkhWa3hHLXVYYk12aUFGa3dYUHdvYW54NU9HTWozTmNfY0Q0MmQzRDgtY2doWHZpMUpPSk9YSXA4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUdTX1ZYX0k0eTRldC04NTdKTFVyaDRNblF4eDRSaDdEbXNXTkRBME1QWjQwRFZqX3RaM21SX1dENHp0eDY2ZjkxTVlFRkNOZXFzZ2NHc0NWZndQSXJaSlBkNDZlQkpOVi05dGVlVHhZWUU2TnJnU2J2Y0JwdUxydFZFS1JUbzJIZkNkd1F3dGxrdGhvNnJDVkhWa3hHLXVYYk12aUFGa3dYUHdvYW54NU9HTWozTmNfY0Q0MmQzRDgtY2doWHZpMUpPSk9YSXA4",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788602068.0
+    },
+    {
         "id": "6a9fa92f79",
         "title_fa": "همکاری اینتل و هند برای آموزش هوش مصنوعی عامل‌محور",
         "title_en": "Indian Govt, Intel launch agentic AI skilling programme for future workforce",
@@ -130,6 +240,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788573807.0
+    },
+    {
+        "id": "fb34f257fb",
+        "title_fa": "استاندارد MCP: تحول اتصال ابزارها به هوش مصنوعی و تهدید استارتاپ‌ها",
+        "title_en": "How Does the Model Context Protocol Work, and What It Kills for Startups",
+        "summary": [
+            "پروتکل MCP که آنتروپیک معرفی کرد، مثل پورت USB-C برای هوش مصنوعی عمل می‌کند و امکان اتصال یکپارچه مدل‌ها به ابزارهای مختلف را فراهم کرده است.",
+            "پذیرش سریع این استاندارد توسط گوگل، مایکروسافت و OpenAI، مدل درآمدی استارتاپ‌های میانجی یکپارچه‌سازی مثل Merge را به‌شدت تهدید می‌کند.",
+            "با وجود رشد چشمگیر سرورهای عمومی MCP، چالش‌های امنیتی جدی نظیر آسیب‌پذیری بیش از ۴۰ درصد سرورها در برابر تزریق دستورات وجود دارد."
+        ],
+        "full_text": "MCP is the open standard that lets any AI agent plug into any tool the same way, and two years after Anthropic built it, that standardization is quietly wiping out the business model of a whole generation of AI integration startups. - Anthropic open-sourced the Model Context Protocol in November 2024, and by December 2025 had handed its governance to the Linux Foundation, with OpenAI, Google, and Microsoft as co-sponsors - MCP works on a host-client-server model, where a host app like Claude Desktop or the ChatGPT desktop app runs a client that keeps a one-to-one connection with each MCP server, and that server exposes tools, resources, and prompts through a shared schema - An independent census by research group Nerq counted 17,468 public MCP servers by the first quarter of 2026, up from roughly 10,000 when Anthropic donated the protocol months earlier - Unified API companies like Merge and Paragon built businesses on normalizing SaaS integrations, exactly the layer MCP now lets any vendor, including Stripe and Cloudflare, replicate for free - A 2026 report from Practical DevSecOps found 43% of tested MCP servers vulnerable to command injection and 36.7% of more than 7,000 scanned servers open to server-side request forgery - The NSA's Cybersecurity Collaboration Center published MCP security design guidance in June 2026, a sign the protocol is now load-bearing in production systems attackers care about Every major AI lab has agreed on one piece of plumbing, and almost nobody outside engineering teams has stopped to ask how the Model Context Protocol actually works, or what happens to the startups that built their whole pitch around being that plumbing. Anthropic open-sourced MCP in November 2024, describing it in its own launch post as something like a USB-C port for AI applications: one standard connector instead of a custom cable for every device. Two years later, that description has held up better than most product analogies do. OpenAI added full support across its Agents SDK, Responses API, and ChatGPT desktop app in March 2025. Google DeepMind confirmed Gemini support the following month. By December 2025, Anthropic had handed the protocol's governance to the Linux Foundation, with OpenAI, Google, and Microsoft signed on as co-sponsors. Companies that compete for the same enterprise contracts rarely agree on anything. They agreed on this within about thirteen months of each other. Strip away the acronym and MCP is a conversation between three roles. The host is the application you actually open, Claude Desktop, Claude Code, Cursor, the ChatGPT desktop app. Inside that host sits a client, a small piece of code that keeps one dedicated, stateful connection open to a single server. The server is the part doing real work: a lightweight program that tells the client exactly what it can do. A server describes itself through three primitives. Tools are functions the model can call, like create an invoice or search a ticket queue. Resources are data the model can read, a file, a row in a database, a customer record. Prompts are reusable templates a server hands the model so it doesn't have to guess the right phrasing for a recurring task. All of that gets passed back and forth as JSON-RPC 2.0 messages, over stdio if the server is running as a local process on your machine, or over Streamable HTTP if it's sitting somewhere remote. What is MCP model context protocol? It's the open standard Anthropic released in November 2024 that lets AI models plug into tools and data without custom integrations for each one. OpenAI and Google DeepMind have both adopted it, and it's fast becoming the default way AI agents connect to the real world. - model context protocol for AI agents - MCP integration with external tools and Servers aren't the only side with capabilities. The client exposes three primitives back to a server. Roots tell a server which file system directories or workspaces it's allowed to see, so a coding assistant can't wander outside your project folder. Sampling lets a server ask the client's own model to generate a completion, which sounds circular until you realize it means a small, dumb server can borrow the reasoning of a large model instead of running its own. Elicitation lets a server pause mid-task and ask a human a direct question, like confirming a payment amount, rather than guessing and hoping. All three exist for the same reason: an agent calling arbitrary tools with nobody watching is a liability, not a feature. The spec keeps moving. The July 28, 2026 release, according to the Model Context Protocol Blog, rebuilt the core around a stateless design so a server can scale behind ordinary load balancers instead of holding a persistent connection open per user, added support for multi round-trip requests and header-based routing, made list results cacheable, and tightened authorization to align with standard OAuth 2.1 and OpenID Connect deployments. It also formalized an extensions framework, including MCP Apps for rendering a server's own interface inside a host, and a Tasks extension for work that runs longer than a single request. Walk through what actually happens when you ask an agent to check whether a Stripe invoice is overdue and open a Linear ticket if it is. The host passes your request to its client, which already holds open connections to both the Stripe and Linear MCP servers from earlier in the session. The model decides it needs Stripe's invoice-listing tool first, the client sends that as a JSON-RPC call over the connection to Stripe's server, gets a structured result back, and hands it to the model. The model reads that result, decides the invoice is thirty days overdue, and calls Linear's issue-creation tool the same way, through a completely separate connection the client is holding to a server it has never combined with Stripe in this exact way before. Neither Stripe nor Linear had to know the other existed. Nobody wrote a line of code connecting the two. ",
+        "impact": "حذف شرکت‌های رابط میان‌افزاری و اجبار توسعه‌دهندگان به رعایت استانداردهای امنیتی جدید در اتصال هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "Startup Fortune",
+        "url": "https://startupfortune.com/how-does-the-model-context-protocol-work-and-what-it-kills-for-startups/",
+        "clean_url": "https://startupfortune.com/how-does-the-model-context-protocol-work-and-what-it-kills-for-startups",
+        "image": "https://startupfortune.com/wp-content/uploads/2026/09/sf-20162-1788572646225.jpg",
+        "images": [
+            "https://startupfortune.com/wp-content/uploads/2026/09/sf-20162-1788572646225.jpg",
+            "https://startupfortune.com/wp-content/uploads/2026/07/sf-15311-1783604476937.jpg",
+            "https://startupfortune.com/wp-content/uploads/2026/08/sf-18388-1786523194631.jpg",
+            "https://startupfortune.com/wp-content/uploads/2026/09/sf-20201-1788610500548.jpg"
+        ],
+        "timestamp": 1788572700.0
     },
     {
         "id": "3c64ba97f7",
@@ -6819,142 +6955,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787711800.0
-    },
-    {
-        "id": "cb542caf19",
-        "title_fa": "یکپارچه‌سازی حافظه کلود؛ پایان تکرار خسته‌کننده جزئیات برای هوش مصنوعی",
-        "title_en": "حافظه جدید کلود، پایان نیاز به تکرار مداوم جزئیات برای هوش مصنوعی",
-        "summary": [
-            "آنتروپیک با ادغام سیستم حافظه در چت و بخش کوورک، مشکل فراموشی داده‌ها در گفتگوهای مختلف کلود را برطرف کرد.",
-            "این هوش مصنوعی حالا اطلاعات پروژه را در حین مکالمه ذخیره می‌کند تا انتقال از مرحله تحقیق به اجرا کاملاً یکپارچه شود.",
-            "برای امنیت بیشتر، اطلاعات حساس به طور پیش‌فرض ذخیره نمی‌شوند و کنترل کامل حذف و ویرایش حافظه دست کاربر است."
-        ],
-        "full_text": "به گزارش شهرآرانیوز؛ تغییر در سیستم حافظه هوش مصنوعی «کلود» (Claude)، یکی از آزاردهندهترین ویژگیها را در استفاده از عوامل هوش مصنوعی از بین میبرد که نیاز مداوم به یادآوری کردن چتهای پیشین به آنهاست. به نقل از تککرانچ، شرکت «آنتروپیک» (Anthropic) روز سهشنبه اعلام کرد که سیستم حافظه مورد استفاده در چت و «کلود کوورک» (Claude Cowork) را ادغام میکند؛ به این معنی که کلود همیشه آنچه را درباره یک محتوا آموخته است حتی زمانی که درباره محتوای دیگری با او صحبت میشود به خاطر خواهد داشت. هوش مصنوعی شرکت آنتروپیک آنچه را که کلود در حافظه خود نگه داشته است نیز آشکار میکند و به کاربران امکان میدهد تا اطلاعات مربوط به هر موضوعی را بخوانند و ویرایش یا حذف کنند. این بهروزرسانی، تجربه کاربران کلود را بهبود میبخشد، زیرا به آنها امکان میدهد تا به طور یکپارچهتری بین مرحله تحقیق و اقدام حرکت کنند. پیش از این ممکن بود کاربران در طول گفتوگو با کلود، به مرور زمان ایدههایی را برای پروژهها پرورش دهند، اما وقتی زمان اجرای تغییرات فرا میرسید باید با گفتن همه جزئیات به کوورک، از نو شروع میکردند و این فوقالعاده ناامیدکننده بود. این بهروزرسانی باعث میشود کلود اکنون به جای دو محصول جداگانه، مانند یک دستیار دائمی به نظر برسد. علاوه بر این، کلود اکنون به جای خلاصه کردن گفتوگو در پایان، موضوعات را هنگام چت کاربر به حافظه خود اضافه میکند. این امر باعث میشود که رفت و آمد بین چت و کوورک آسانتر شود، زیرا خاطرات جدید سریعتر بهروزرسانی میشوند و در هر دو بخش قرار میگیرند؛ حتی اگر چت در حال انجام شدن باشد. شرکت آنتروپیک میگوید که کلود به طور پیشفرض اطلاعات شخصی یا حساس مانند دادههای مربوط به سلامتی، نژاد، قومیت، باورهای مذهبی، سیاست، هویت جنسیتی و موارد دیگر را ذخیره نمیکند. با وجود این، کاربران در صورت تمایل میتوانند با فعال کردن گزینه «include sensitive topics in memory» این موارد را فعال کنند. همچنین، این برنامه هر زمان که موضوع حساسی در حافظه ذخیره شود، به کاربران اطلاع میدهد. با وجود این، آنتروپیک میگوید که کلود هرگز موارد خاصی مانند شمارههای شناسایی و تأمین اجتماعی صادرشده توسط دولت، سابقه کیفری، وضعیت مهاجرت یا موارد دیگری که سیاست استفاده قابل قبول آن را نقض میکنند، ذخیره نخواهد کرد. ویژگی حافظه به طور پیشفرض در نسخههای Free، Pro و Max در وب، دسکتاپ و گوشی فعال است. در iOS و اندروید، کاربران باید اپلیکیشن خود را به جدیدترین نسخه بهروزرسانی کنند. منبع: ایسنا",
-        "impact": "افزایش محسوس بهره‌وری کاربران با تبدیل کلود به یک دستیار هوشمند و همیشگی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "شهرآرانیوز",
-        "url": "https://shahraranews.ir/fa/news/440710/حافظه-جدید-کلود-پایان-نیاز-به-تکرار-مداوم-جزئیات-برای-هوش-مصنوعی",
-        "clean_url": "https://shahraranews.ir/fa/news/440710/حافظه-جدید-کلود-پایان-نیاز-به-تکرار-مداوم-جزئیات-برای-هوش-مصنوعی",
-        "image": "http://www.bing.com/th?id=ONUT.aMeLxxF5LkDO5hueAw536A&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.aMeLxxF5LkDO5hueAw536A&pid=News",
-            "https://shahraranews.ir/files/fa/news/1405/6/4/3628478_769.png"
-        ],
-        "timestamp": 1787711400.0
-    },
-    {
-        "id": "bcc1b81f16",
-        "title_fa": "عرضه حافظه فلش ۲ ترابایتی سن‌دیسک برای پردازش‌های هوش مصنوعی",
-        "title_en": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
-        "summary": [
-            "سن‌دیسک از حافظه جدید ۲ ترابایتی خود مخصوص سیستم‌ها و بارکاری هوش مصنوعی رونمایی کرد.",
-            "این سخت‌افزار سرعت انتقال داده در پردازش‌های سنگین یادگیری ماشین را به میزان چشمگیری بهبود می‌دهد."
-        ],
-        "full_text": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?  Yahoo Finance",
-        "impact": "برطرف‌کردن گلوگاه ذخیره‌سازی و افزایش سرعت انتقال داده‌ها در زیرساخت‌های پردازشی.",
-        "tag": "سخت‌افزار",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN296WG4wejBJckpMR0tCTTAyRlI2MmxBRmxNeDF4djRxbzJtcV8weklhc1NSbEozc0MwWE9uVDBYLTU1dkcxXzV1WWhaNFZBSFczaUMzb0luLUtGOHU3TldlMU52elMzMXdsY1BKWVF4aWdfalFoTldBOXBCaWJaY2wxOHVJaG9qcW5oQjdYVGVULWdpenc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN296WG4wejBJckpMR0tCTTAyRlI2MmxBRmxNeDF4djRxbzJtcV8weklhc1NSbEozc0MwWE9uVDBYLTU1dkcxXzV1WWhaNFZBSFczaUMzb0luLUtGOHU3TldlMU52elMzMXdsY1BKWVF4aWdfalFoTldBOXBCaWJaY2wxOHVJaG9qcW5oQjdYVGVULWdpenc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787710500.0
-    },
-    {
-        "id": "3eaf26e006",
-        "title_fa": "جذب ۲.۵ میلیون دلار سرمایه توسط صرافی غیرمتمرکز مبتنی بر هوش مصنوعی",
-        "title_en": "Is AlphaPepe Legit? Two Audits, Live AlphaSwap AI DEX and $2.5M Raised Put ALPE Under the Spotlight Before Launch",
-        "summary": [
-            "پروژه AlphaPepe پیش از عرضه رسمی و با پشت سر گذاشتن دو ممیزی امنیتی، موفق به جذب سرمایه ۲.۵ میلیون دلاری شد.",
-            "این پروژه در حال راه‌اندازی صرافی غیرمتمرکزی به نام AlphaSwap است که از قابلیت‌های AI برای بهینه‌سازی معاملات استفاده می‌کند."
-        ],
-        "full_text": "Is AlphaPepe Legit? Two Audits, Live AlphaSwap AI DEX and $2.5M Raised Put ALPE Under the Spotlight Before Launch  StreetInsider",
-        "impact": "گسترش کاربرد هوش مصنوعی در معاملات کریپتو و صرافی‌های غیرمتمرکز نسل جدید.",
-        "tag": "استارتاپ",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNkpOMDFOc0pmUnRmTlVCMW1BWWNpU1U3bWV4Z29neHF5bnF5c2lyQ3oxRnVzRm1nT3JReHYwaG0wWEZCbmxkX3lYUl9SRG4zalhBRkpxaktYWDdPRVJNNDZCa0RwV1cxYXJEdzFORFNTR19sMmZvQVk1ZEFIaFFPcFhIWWlUU2E3bVhtQk51bTFTWmZOOGo0Z201aHhLZ2pxZkFISjFNYXh0TUdENXcweVBVaGhWTV9DUy1GVnU1UHJrNE5qYUdzQmpzTTNZNzBZVEZFa09kQUp0X0x0cmFWZ0tEa1ZjUnl1bkllR3ZPTF9sU3ZTNWRfSjNtR1ZQUE1fWGJoUE9CQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNkpOMDFOc0pmUnRmTlVCMW1BWWNpU1U3bWV4Z29neHF5bnF5c2lyQ3oxRnVzRm1nT3JReHYwaG0wWEZCbmxkX3lYUl9SRG4zalhBRkpxaktYWDdPRVJNNDZCa0RwV1cxYXJEdzFORFNTR19sMmZvQVk1ZEFIaFFPcFhIWWlUU2E3bVhtQk51bTFTWmZOOGo0Z201aHhLZ2pxZkFISjFNYXh0TUdENXcweVBVaGhWTV9DUy1GVnU1UHJrNE5qYUdzQmpzTTNZNzBZVEZFa09kQUp0X0x0cmFWZ0tEa1ZjUnl1bkllR3ZPTF9sU3ZTNWRfSjNtR1ZQUE1fWGJoUE9CQQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787710381.0
-    },
-    {
-        "id": "ab5d058892",
-        "title_fa": "رکوردشکنی اروپایی‌ها در جذب سرمایه صنایع فضایی",
-        "title_en": "Iceye's mega-round redraws the global space tech funding map",
-        "summary": [
-            "جذب سرمایه استارتاپ‌های فضایی اروپا برای اولین‌بار از آسیا پیشی گرفت و به ۲.۴ میلیارد دلار رسید.",
-            "استارتاپ ماهواره‌ای Iceye با جذب سرمایه ۱.۲ میلیارد دلاری، نیمی از این رقم را به خود اختصاص داد.",
-            "تلاش اروپا برای کاهش وابستگی دفاعی به آمریکا، موج جدیدی از سرمایه‌گذاری را در حوزه فضایی ایجاد کرده است."
-        ],
-        "full_text": "VCG/Getty Images Space tech startup funding in Europe has inched past Asia for the first time as defence and sovereignty spending push funding to new levels. In the first half of this year, European space tech startups secured $2.4 billion in VC funding, according to PitchBook's 2026 Vertical Snapshot: Space Tech, blowing past last year's total by almost $1 billion. Europe has now moved into second place for global deal value, but still sits significantly behind North America. The continent claimed 21.1% of funding in H1, up from 15.1% in 2025. North America's share has dropped from 65.9% to 56.9%. Much of Europe's record deal value comes down to just one company: satellite startup Iceye. In June, the Finnish company raised more than €1 billion (about $1.2 billion) for its Series F at a €10 billion-plus valuation. The round is the largest deal to have closed in the space globally and accounts for half of European funding this year. However, even excluding the Iceye round, deal value is tracking for a record year. Furthermore, Europe isn't just attracting more capital; it is also closing more deals. At the halfway point, 46 rounds had closed, putting the year on track for its best annual total since 2021's peak. SpaceX's $2 trillion debut injected significant confidence into the space tech market, and its success is expected to lift the tide for startups everywhere. Europe, with its recent push to reduce dependency on the US, including in areas such as space and defence, could see dealmaking accelerate further, particularly as new investors enter the market in search of the next SpaceX. Globally, space tech investments are following a trajectory similar to Europe's. More than $11 billion has been invested across 245 deals, according to the report. Commercial launch, satellites, geospatial intelligence and space infrastructure led activity with significant rounds for startups, including reusable rocket maker Stoke Space and in-space mobility company Impulse Space. This article originally appeared on PitchBook News",
-        "impact": "تغییر جغرافیای سرمایه‌گذاری فضایی و ظهور رقبای قدرتمند برای اسپیس‌ایکس.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 8,
-        "sentiment": 0.9,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/small-business/articles/iceyes-mega-round-redraws-global-091031266.html",
-        "clean_url": "https://finance.yahoo.com/small-business/articles/iceyes-mega-round-redraws-global-091031266.html",
-        "image": "http://www.bing.com/th?id=ONUT.JvBdv6mn9LFTOKroSL7WBA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.JvBdv6mn9LFTOKroSL7WBA&pid=News",
-            "https://s.yimg.com/lo/mysterio/api/da7461777fae8b599cbd3076380ed215476203160283d3afe5bcc6f7e37fcade/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2Ff5ecebc2dbd387f8eaa906a3fc8c9e1b.jpg",
-            "https://s.yimg.com/lo/mysterio/api/f938f6a2bd778d74fede842a904d2bcb576d911eb8fd71862463760f173783e6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2Ff5ecebc2dbd387f8eaa906a3fc8c9e1b.jpg"
-        ],
-        "timestamp": 1787710200.0
-    },
-    {
-        "id": "78a0d34eae",
-        "title_fa": "عرضه نیروی کار هوش مصنوعی برای مشاوران مالی در آسیا",
-        "title_en": "Growhill Wealth Launches AI Workforce to Power Independent Advisors Across Asia",
-        "summary": [
-            "شرکت Growhill Wealth دستیار هوشمند جدیدی برای خودکارسازی دستیار مالی مشاوران مستقل در بازار آسیا معرفی کرد.",
-            "این ابزار سرعت تحلیل داده‌های بازار و مدیریت سبد دارایی مشتریان را به شدت بالا می‌برد."
-        ],
-        "full_text": "Growhill Wealth Launches AI Workforce to Power Independent Advisors Across Asia  Yahoo! Finance Canada",
-        "impact": "تسریع اتوماسیون فرایندهای مالی و افزایش نفوذ ابزارهای هوشمند در مدیریت ثروت.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlh5WmhtTXIzblduOXFVYjkwNmVIX0hRbXZxajZoWXc5YVpUeWFqQW9Qa21NLVV4YVI0ZnhDZzlwVkllaW9fdDZoUkh6ZXVtazVCTWMzZHhZZlNnNlpMcFRaNjI2VkticGJ1WWUyWWdpS1RKdHdlR0lQTXMzckVSTFpRbGdIQVpVdUFQbmc2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlh5WmhtTXIzblduOXFVYjkwNmVIX0hRbXZxajZoWXc5YVpUeWFqQW9Qa21NLVV4YVI0ZnhDZzlwVkllaW9fdDZoUkh6ZXVtazVCTWMzZHhZZlNnNlpMcFRaNjI2VkticGJ1WWUyWWdpS1RKdHdlR0lQTXMzckVSTFpRbGdIQVpVdUFQbmc2MA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787709600.0
-    },
-    {
-        "id": "72b3e71981",
-        "title_fa": "چشم‌انتظاری بازار برای گزارش مالی تعیین‌کننده انویدیا",
-        "title_en": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves",
-        "summary": [
-            "وال‌استریت در آستانه انتشار گزارش مالی جدید انویدیا، روند تاریخی نوسانات سهام این غول فناوری را زیر ذره‌بین برده است.",
-            "نتایج مالی انویدیا به عنوان شاخص اصلی رشد صنعت هوش مصنوعی، مسیر حرکت کل بازار تک را مشخص می‌کند."
-        ],
-        "full_text": "Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves  The Motley Fool",
-        "impact": "تعیین سمت‌و‌سوی کوتاه‌مدت ارزش سهام شرکت‌های بزرگ فناوری و سخت‌افزار هوش مصنوعی.",
-        "tag": "کسب‌وکار",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVBqazVZNnhKWVBNams1X3FVcmNmOG5WTVZvX055TDlHZ2pJSFFmb3JLTVc4YlRTZ3pWWG94Yy1NUmVsc3UyTWdxWWM2MUpfMVBELXRRLUllQ0h4YnBqdU42NV9lUVk4VDBMNGpWOUY5X3YxbVJ4c1N4aXJuNm02dVVnUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVBqazVZNnhKWVBNams1X3FVcmNmOG5WTVZvX055TDlHZ2pJSFFmb3JLTVc4YlRTZ3pWWG94Yy1NUmVsc3UyTWdxWWM2MUpfMVBELXRRLUllQ0h4YnBqdU42NV9lUVk4VDBMNGpWOUY5X3YxbVJ4c1N4aXJuNm02dVVnUQ",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787706658.0
     }
 ]
