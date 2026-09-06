@@ -1,5 +1,97 @@
 [
     {
+        "id": "d0dc965e95",
+        "title_fa": "راه‌اندازی مرکز تحقیقات تخصصی هوش مصنوعی در دانشگاه کالیفرنیا",
+        "title_en": "AI research center coming to Cal State San Bernardino",
+        "summary": [
+            "دانشگاه ایالتی کالیفرنیا در سن برناردینو از برنامه‌ریزی برای احداث یک مرکز پژوهشی پیشرفته در حوزه AI خبر داد.",
+            "این مرکز بر آموزش عملی دانشجویان و بکارگیری مدل‌های هوشمند برای حل چالش‌های منطقه‌ای تمرکز دارد."
+        ],
+        "full_text": "AI research center coming to Cal State San Bernardino  San Bernardino Sun",
+        "impact": "توسعه زیرساخت‌های آکادمیک و پرورش نیروهای متخصص برای ورود به بازار کار فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "San Bernardino Sun",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYV9qaC05bkZMODBOV2MyMjlSQTFFQldwcUhzNGpfcEctY1RNY2xiS3RVSWJyY1FtM2dna01NWHRfXzlhLVFEMDlRNndxQ0tGY1kybE1MbWRIdzJ5MXZpNDhfSG9lbzVvekRIU2dBWW5KMkxTM1ZjOEdBU3ZOUklJSlRhd3ZLdlpCS3lQd19GcXU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYV9qaC05bkZMODBOV2MyMjlSQTFFQldwcUhzNGpfcEctY1RNY2xiS3RVSWJyY1FtM2dna01NWHRfXzlhLVFEMDlRNndxQ0tGY1kybE1MbWRIdzJ5MXZpNDhfSG9lbzVvekRIU2dBWW5KMkxTM1ZjOEdBU3ZOUklJSlRhd3ZLdlpCS3lQd19GcXU",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788701517.0
+    },
+    {
+        "id": "f05cc86215",
+        "title_fa": "رونمایی گلوبانت از ابزار هوشمند MuleSoft AI Pod",
+        "title_en": "Globant (GLOB) Following MuleSoft AI Pod Launch Looks Undervalued According To One Narrative",
+        "summary": [
+            "شرکت نرم‌افزاری Globant با انتشار ابزار جدید MuleSoft AI Pod توانمندی‌های جدیدی در خودکارسازی پردازش داده‌ها ارائه داده است.",
+            "تحلیل‌گران با توجه به رونمایی از این محصول مبتنی بر هوش مصنوعی، ارزش سهام این شرکت را در بازار زیر قیمت واقعی ارزیابی می‌کنند."
+        ],
+        "full_text": "Globant (GLOB) Following MuleSoft AI Pod Launch Looks Undervalued According To One Narrative  simplywall.st",
+        "impact": "افزایش رقابت در ارائه راهکارهای هوشمند سازمانی برای بهینه‌سازی فرآیندهای کاری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVlTZVlzOFVMYnFid3BRcFdyQUVMc3NlRktIU0FhN0poc3JMcVh5dE9kTVFOdFkySllOUVFtblR5cXY2LXdTYV8ybFpLYk9iTl9NVU9QVTFLZGotbEU1bGVFeVVtNW1yYmpDcjRLdFlaNy1zVFBySzZLTHVISlplb3N1SnJIUF8tTEQ5b0pOcVpBTl9MbGxxbUV5c2tqd3ZDZW9iVlRKbzZkM09JZ3lMTEZ1Sm9ZZzJqcjB2TlRNemhFZ9IBxwFBVV95cUxPbUd5dDdjSU95dlBvcExWTzFHSWZEcVYwb0k1YUdVZHBtNTh3NnlBaXNkZXQtRmljd3YzaU1BS3pNNmhMd3NoLXZtcWFDdXF3T3VSalJxMjNHSGE2OFd2U1RLYzdGb3JNNEdqS2pqcnVmVzROLV93Ry1XU3pDNzJKa3Y4VGJwRnpyWEY0djI0aTh0WVpCb2V4aElHWFZZUGhSZDE2bTlGTEZCSVZFaVpGWFBSbXVlbE1aSHRVUF9RbFJXdldPc3J3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVlTZVlzOFVMYnFid3BRcFdyQUVMc3NlRktIU0FhN0poc3JMcVh5dE9kTVFOdFkySllOUVFtblR5cXY2LXdTYV8ybFpLYk9iTl9NVU9QVTFLZGotbEU1bGVFeVVtNW1yYmpDcjRLdFlaNy1zVFBySzZLTHVISlplb3N1SnJIUF8tTEQ5b0pOcVpBTl9MbGxxbUV5c2tqd3ZDZW9iVlRKbzZkM09JZ3lMTEZ1Sm9ZZzJqcjB2TlRNemhFZ9IBxwFBVV95cUxPbUd5dDdjSU95dlBvcExWTzFHSWZEcVYwb0k1YUdVZHBtNTh3NnlBaXNkZXQtRmljd3YzaU1BS3pNNmhMd3NoLXZtcWFDdXF3T3VSalJxMjNHSGE2OFd2U1RLYzdGb3JNNEdqS2pqcnVmVzROLV93Ry1XU3pDNzJKa3Y4VGJwRnpyWEY0djI0aTh0WVpCb2V4aElHWFZZUGhSZDE2bTlGTEZCSVZFaVpGWFBSbXVlbE1aSHRVUF9RbFJXdldPc3J3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788697742.0
+    },
+    {
+        "id": "933773639e",
+        "title_fa": "پدیده‌ی «خستگی از مدل‌ها»؛ شتاب گیج‌کننده آزمایشگاه‌های هوش مصنوعی",
+        "title_en": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "summary": [
+            "رقابت نفس‌گیر غول‌های فناوری برای عرضه مداوم نسخه‌های جدید هوش مصنوعی، کاربران و توسعه‌دهندگان را دچار دل‌زدگی کرده است.",
+            "سرعت بالای انتشار مدل‌های جدید اجازه نمی‌دهد ظرفیت نسخه‌های قبلی به درستی استخراج شود و تغییرات ملموسی هم در تجربه کاربری دیده نمی‌شود."
+        ],
+        "full_text": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace  CNBC",
+        "impact": "احتمال کاهش هیجان اولیه بازار و کند شدن روند پذیرش واقعی به‌روزرسانی‌های جدید AI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788696001.0
+    },
+    {
+        "id": "eed5dcec44",
+        "title_fa": "جذب سرمایه ۲ میلیون دلاری استارتاپ آموزش پزشکی دوراتی",
+        "title_en": "Kuwaiti EdTech Dawraty Raises USD 2M to Scale Medical Education",
+        "summary": [
+            "استارتاپ کویتی دوراتی (Dawraty) که پلتفرم آموزشی دو زبانه مبتنی بر AI برای علوم پزشکی است، سرمایه‌گذاری جدیدی از بانک توسعه قطر جذب کرد.",
+            "این پلتفرم به‌جای فروش مستقیم به افراد، با دانشگاه‌ها، بیمارستان‌ها و مراکز درمانی برای ارتقای دانش کادر درمان همکاری می‌کند.",
+            "برنامه اصلی این استارتاپ توسعه زیرساخت‌های آموزشی هوشمند در سراسر کشورهای حوزه خلیج فارس است."
+        ],
+        "full_text": "Kuwait-based education technology startup Dawraty secured an investment from Qatar Development Bank as part of a USD 2 million seed round. The round will close at the end of November 2026. Moroever, it aims to support its expansion across healthcare education, professional certification, and exam preparation. Why You Should Care Dawraty’s raise is significant because it combines cross-border Gulf capital with cross-border expansion. Qatar Development Bank’s investment makes it an institutional backer of a Kuwaiti startup, while Dawraty is simultaneously establishing its commercial presence in Qatar. The deal points to a broader opportunity for MENA education technology: building learning infrastructure that can move across markets while serving institutions and learners in both Arabic and English. For Dawraty, the focus on medical and professional education also puts the company in a segment where demand extends beyond traditional education. Healthcare institutions and professional bodies need continuous training, certification, and exam preparation, creating recurring use cases for digital learning platforms. The company’s next phase will test whether this combination of institutional partnerships, bilingual content, and regional capital can support expansion beyond its existing markets. The Details Founded by Dr. Ryan Dougherty and Hamad AlThunayan, Dawraty is a Kuwait-based bilingual education technology company. Moreover, it is an AI learning platform focusing on healthcare education, professional certification, and exam preparation. Rather than selling directly to individual learners, the company works with institutions. This includes universities, medical colleges, professional training academies, hospital groups, school networks, and government training bodies. Its platform allows these organizations to deliver and track accredited learning in Arabic and English. Additionally, it enters new markets through master partnership and reseller agreements. The company secured its first contracted institutional revenue in Qatar after signing a master partnership. It also secured its reseller agreement with the Qatar Finance and Business Academy (QFBA) in September 2026. The agreement will bring Dawraty’s platform to students and professionals in Qatar’s business sector. The company operates across Kuwait, Qatar, Bahrain, and Jordan. Its institutional partners include Kuwait University, the University of Bahrain, Bahrain Institute of Banking and Finance, Belvedere Group, and Johns Hopkins for continuing medical education. The USD 2 million seed round values Dawraty at USD 10 million. Qatar Development Bank’s investment followed due diligence through its 2026 Accelerator Program, while the round remains open to additional co-investors until the end of November 2026. The Ripple Dawraty’s expansion comes as education and training providers across the region increasingly operate across borders. This creates demand for platforms that can support learners in both Arabic and English. Its partnership-led model gives the company a route into new markets through established institutions rather than relying entirely on direct consumer acquisition. The Qatar agreement is an example of that strategy, combining a new institutional customer with a new geographic market. The investment from QDB also highlights the potential for development institutions in the Gulf to play a role in financing technology companies beyond their home markets. Dawraty is the only Kuwaiti startup in the Digital Cooperation Organization ecosystem, according to the company, and now has commercial operations across three DCO founding member states. What to Watch Dawraty’s next phase will center on converting its regional institutional partnerships into further revenue growth while expanding its learning platform across healthcare and other professional education markets. The seed round is expected to close at the end of November, leaving Dawraty with the remaining period to bring additional co-investors into the round.",
+        "impact": "مدرن‌سازی آموزش‌های تخصصی پزشکی و رشد سرمایه‌گذاری‌های فرامرزی روی استارتاپ‌های EdTech در خاورمیانه.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "WAYA",
+        "url": "https://waya.media/kuwaiti-edtech-dawraty-raises-usd-2m-to-scale-medical-education/",
+        "clean_url": "https://waya.media/kuwaiti-edtech-dawraty-raises-usd-2m-to-scale-medical-education",
+        "image": "https://waya.media/wp-content/uploads/sites/3/2026/09/Kuwaiti-EdTech-Dawraty-closes-QDB-investment-in-USD-2M-seed.png",
+        "images": [
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Kuwaiti-EdTech-Dawraty-closes-QDB-investment-in-USD-2M-seed.png",
+            "https://waya.media/wp-content/uploads/sites/3/2026/09/Kuwaiti-EdTech-Dawraty-closes-QDB-investment-in-USD-2M-seed-1024x576.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-logo.png",
+            "https://waya.media/wp-content/themes/waya/assets/img/waya-en-white.png"
+        ],
+        "timestamp": 1788688260.0
+    },
+    {
         "id": "9c5bf0493a",
         "title_fa": "پیشتازی تاریخی حزب راست افراطی در انتخابات محلی آلمان",
         "title_en": "Germany’s far-right AfD eyes historic breakthrough in Saxony-Anhalt election",
@@ -134,6 +226,32 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788657930.0
+    },
+    {
+        "id": "905cc6b7b0",
+        "title_fa": "رشد بی‌سابقه‌ی ادغام و تملک شرکت‌ها در عربستان سعودی",
+        "title_en": "Mergers and acquisitions drive Saudi growth, competitiveness",
+        "summary": [
+            "موج جدید ادغام و تملک شرکت‌ها (M&A) به موتور پیشران توسعه اقتصادی و رقابت‌پذیری در عربستان تبدیل شده است.",
+            "شورای رقابت عربستان در یک سال گذشته به ۲۶۹ پرونده ادغام چراغ سبز نشان داده که رشد ۳۳ درصدی را نسبت به سال قبل ثبت می‌کند.",
+            "نمونه‌های بارزی مثل ادغام بانک‌های NCB و Samba یا خرید ۷۰ درصد سهام سابک توسط آرامکو، مدل جدید این کشور برای مقیاس‌پذیری و تقویت زنجیره تامین است."
+        ],
+        "full_text": "Amid considerable uncertainty over global economic growth, the prospect of higher interest rates and long-term government bond yields, and volatile energy prices, business activity worldwide has come under pressure. Trade disruptions resulting from higher customs duties, supply chain disruptions caused by geopolitical conflicts, and mounting challenges facing major international institutions have further compounded these pressures. These conditions underscore the need for resilient businesses that are not only financially strong but also supported by robust supply chains and capable of navigating challenging market conditions. Against this backdrop, mergers and acquisitions have emerged as powerful drivers of growth, competitiveness and economic transformation. Yet their success depends on far more than agreeing on valuations and commercial terms. Regulatory complexity, cultural integration, corporate governance, due diligence, and the alignment of people and strategy can ultimately determine whether a transaction creates lasting value or falls short of its objectives. Global M&A activity strengthened significantly in 2025, with announced deal value reaching approximately SR17.3 trillion ($4.6 trillion), an increase of 49 percent from 2024 and the strongest annual performance since 2021. Saudi Arabia also recorded substantial transaction activity. The General Authority for Competition, which originated as the Competition Council in 2004, received 427 economic concentration applications valued at approximately SR2 trillion in 2025. It issued a record 269 no-objection decisions, up 33 percent from 2024. Several major transactions illustrate the growing role of M&A in Saudi Arabia’s economic transformation. In the financial sector, the 2021 merger of the National Commercial Bank and Samba Financial Group created Saudi National Bank, combining two leading institutions to achieve greater scale, operational efficiency and competitiveness. In the industrial sector, Saudi Aramco completed its $69.1 billion acquisition of a 70 percent stake in SABIC from the Public Investment Fund. Together, these transactions demonstrate how M&A can help consolidate industries, achieve economies of scale, integrate supply chains, develop strategic capabilities and support the Kingdom’s economic diversification objectives. Against this backdrop, the Riyadh Chamber organized the “Legal Aspects of Corporate Mergers and Acquisitions and Investment Opportunities Forum” on Aug. 31, bringing together representatives from public- and private-sector entities. The forum provided a valuable platform for regulators, investors, business leaders, legal advisers, compliance officers, board members, governance professionals and SMEs to exchange perspectives, enhance regulatory awareness and explore ways to reduce transaction risks and support sustainable corporate growth in line with Saudi Vision 2030. I had the privilege of moderating the forum’s third session, titled “The Regulatory and Supervisory Framework for Mergers and Acquisitions in the Kingdom.” The session examined the role of regulatory authorities in reviewing M&A transactions and promoting competition, the regulatory framework governing transactions involving listed companies, and the support provided by relevant authorities for investment deals. It also explored M&A as a strategic tool for driving the growth and long-term sustainability of small and medium-sized enterprises. Ultimately, an M&A transaction should not be pursued simply to achieve expansion or increase market share. Companies should first establish a clear strategic rationale and determine whether the transaction can create sustainable economic value, improve operational efficiency, foster innovation, strengthen competitiveness and build more resilient supply chains. Expected synergies should be realistic, measurable and supported by a credible post-transaction integration plan. Thorough due diligence is equally important. It should extend beyond financial performance and valuation to cover legal obligations, regulatory approvals, tax exposure, operational risks, contractual commitments, governance arrangements, workforce implications, corporate culture, cybersecurity, data protection, intellectual property, and environmental and social responsibilities. Companies should also assess whether they have the financial and managerial capacity to complete the transaction and integrate the businesses effectively without disrupting existing operations. Particular attention must be paid to the transaction’s impact on market competition. A deal that creates economic value for the parties involved may nevertheless harm consumers or the broader market if it creates or reinforces a dominant position, restricts market access, raises barriers to entry, reduces consumer choice or weakens competitive pricing. Early engagement with relevant regulatory authorities can help identify such concerns, clarify notification and approval requirements, and reduce the risk of delays or legal challenges. Supply chain considerations should also form part of the assessment. While an M&A transaction may improve security of supply, increase access to essential inputs and reduce operational vulnerabilities, companies must ensure that it does not create excessive dependence on a single supplier, market, technology or distribution channel. Ultimately, a successful M&A transaction requires more than regulatory approval and financial completion. It should deliver tangible and sustainable benefits to shareholders, employees, customers and the wider economy. Clear governance, transparent decision-making, full compliance with the applicable legal and regulatory framework, and continuous monitoring of post-transaction outcomes are therefore essential to ensuring that a deal achieves its strategic objectives while supporting fair competition and long-term market development. Talat Zaki Hafiz is an economist and financial analyst. X: @TalatHaf",
+        "impact": "تسریع در پویایی بازار و شکل‌گیری غول‌های اقتصادی جدید در منطقه خاورمیانه.",
+        "tag": "کسب‌وکار",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/business/mergers-and-acquisitions-drive-saudi-growth-competitiveness-3000672",
+        "clean_url": "https://www.arabnews.com/business/mergers-and-acquisitions-drive-saudi-growth-competitiveness-3000672",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788692214290-54f9534385803c3f.jpeg",
+        "images": [
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788692214290-54f9534385803c3f.jpeg",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/proxies/ea278d69-a5d0-4a7a-b91c-bd89e2bb1e15.webp",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2026/05/shutterstock_2080576477.jpg",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2023/03/3748821-514376235.png"
+        ],
+        "timestamp": 1788652620.0
     },
     {
         "id": "f1aa353938",
@@ -6847,115 +6965,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787758082.0
-    },
-    {
-        "id": "ad4402b688",
-        "title_fa": "آماده‌سازی تلسکوپ فضایی رومن برای پرتاب به فضا",
-        "title_en": "Roman Space Telescope equipped with technology from Heidelberg set for launch",
-        "summary": [
-            "تلسکوپ فضایی نانسی گریس رومن نسا به تجهیزات نوری و حسگرهای پیشرفته هایدلبرگ آلمان مجهز شد.",
-            "این پروژه علمی گام مهمی برای بررسی انرژی تاریک، ماده تاریک و کشف سیارات فراخورشیدی به شمار می‌رود."
-        ],
-        "full_text": "Roman Space Telescope equipped with technology from Heidelberg set for launch  EurekAlert!",
-        "impact": "جهش چشمگیر توانایی بشر در تصویربرداری از عمق کیهان و مطالعه سیارات مشابه زمین.",
-        "tag": "فضا",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "EurekAlert!",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdGNEb2J2cllLNEpadGwwQzA5aHM1Mm9uZnRza1lMblpaUm43VXFEVGRveHNtcm9KeGYycnVySm9vNHpfMFBZT1hJM2lEdmk2c19IU0gzYWxQdVdN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NdGNEb2J2cllLNEpadGwwQzA5aHM1Mm9uZnRza1lMblpaUm43VXFEVGRveHNtcm9KeGYycnVySm9vNHpfMFBZT1hJM2lEdmk2c19IU0gzYWxQdVdN",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787755856.0
-    },
-    {
-        "id": "1b11e5d529",
-        "title_fa": "انتصاب مدیر جدید فروش در اسمارتر لانتچ",
-        "title_en": "Smarter Launch Adds Lee Thompson as Account Executive",
-        "summary": [
-            "شرکت اسمارتر لانتچ لی تامپسون را به عنوان مدیر حساب‌های تجاری خود منصوب کرد.",
-            "این تغییر مدیریتی با هدف توسعه سهم بازار و جذب مشتریان شرکتی بزرگ انجام شده است."
-        ],
-        "full_text": "Smarter Launch Adds Lee Thompson as Account Executive  Pest Control Technology",
-        "impact": "تقویت بخش فروش و توسعه ارتباطات تجاری این شرکت.",
-        "tag": "کسب‌وکار",
-        "urgency": 2,
-        "sentiment": 0.3,
-        "source": "Pest Control Technology",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXdnVGNHWHloVWF5dmplb1JOS0pRV1gyTTlmcG5OTHBlZXBsa2FGelppdFprYXFKeWJweVlCdGQ4djdRZm0xbHowQWxfLVlwRzR6N0xKazhTZF9jT2VVLVc5VjQxV2VXS3NyTFMxQ3VuZ2dleU85SDdjc1RtRTh2VXBHUG9UUmFCRFBLcDB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXdnVGNHWHloVWF5dmplb1JOS0pRV1gyTTlmcG5OTHBlZXBsa2FGelppdFprYXFKeWJweVlCdGQ4djdRZm0xbHowQWxfLVlwRzR6N0xKazhTZF9jT2VVLVc5VjQxV2VXS3NyTFMxQ3VuZ2dleU85SDdjc1RtRTh2VXBHUG9UUmFCRFBLcDB3",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787755800.0
-    },
-    {
-        "id": "71c8006281",
-        "title_fa": "تحول نقش بیانیه‌های خبری در عصر پاسخ‌های هوشمند",
-        "title_en": "PR News | The Press Release’s Role in the Age of AI Answers - Wed., Aug. 26, 2026",
-        "summary": [
-            "با بازنویسی اخبار توسط موتورهای جستجوی هوشمند، فرمت سنتی بیانیه‌های مطبوعاتی کارایی قبلی را ندارد.",
-            "تیم‌های روابط عمومی اکنون باید محتوای خود را برای درک بهتر توسط الگوریتم‌های AI بهینه‌سازی کنند."
-        ],
-        "full_text": "PR News | The Press Release’s Role in the Age of AI Answers - Wed., Aug. 26, 2026  O'Dwyer's PR",
-        "impact": "تغییر کامل استراتژی‌های روابط عمومی و سئو در عصر مدل‌های زبانی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "O'Dwyer's PR",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG5fMkhNWGdSUDZEYjRyUjcwWjVFRm9JYjU2UkcwOW1BQUpVeVVvTVJ6SjFjSXMtWnh6cC1hSnBUUnk1X0hJTTNNc05ld0JJQkRkSi1OaFFzS1dKOTM1a25ET01SSjlNaWl0QkR1WE1Md0NDX2JHT3pBdGtFOG8zbFNVTUFSMzI5X2VjLThnVFVMcThxbGoybmlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVG5fMkhNWGdSUDZEYjRyUjcwWjVFRm9JYjU2UkcwOW1BQUpVeVVvTVJ6SjFjSXMtWnh6cC1hSnBUUnk1X0hJTTNNc05ld0JJQkRkSi1OaFFzS1dKOTM1a25ET01SSjlNaWl0QkR1WE1Md0NDX2JHT3pBdGtFOG8zbFNVTUFSMzI5X2VjLThnVFVMcThxbGoybmlR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787752817.0
-    },
-    {
-        "id": "63f46236d7",
-        "title_fa": "رونمایی 3CLogic از ابزار سنجش و ارزیابی ایجنت‌های هوش مصنوعی",
-        "title_en": "3CLogic Announced the Release of AI Agent Evaluator",
-        "summary": [
-            "شرکت 3CLogic ابزار کاربردی AI Agent Evaluator را برای بررسی کیفیت عملکرد ایجنت‌های هوشمند معرفی کرد.",
-            "این سیستم با شبیه‌سازی مکالمات و بررسی رفتارهای ایجنت‌ها، میزان دقت، امنیت و بازدهی آن‌ها را پیش از انتشار نهایی ارزیابی می‌کند."
-        ],
-        "full_text": "3CLogic Announced the Release of AI Agent Evaluator  MarTech Cube",
-        "impact": "افزایش اطمینان شرکت‌ها از عملکرد درست ایجنت‌های هوش مصنوعی در پاسخ‌دهی به مشتریان و کاهش ریسک‌های عملیاتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "MarTech Cube",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGIydm5LelBtcXdJV3RzMGJkd3U3d3dmRERhVlZRZEVqMy1EWG5YTzI2NFhHUHQ3Qzh1NjZnZFY3MTZnSXZINFI0dGpaQ2pOUVVmaFpNRmVhT1RmeEg2TUVUeU1mQzlGTkVPVUhCYzNIekhuUmJESE41NzFab1V0SUxsWENnNkU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGIydm5LelBtcXdJV3RzMGJkd3U3d3dmRERhVlZRZEVqMy1EWG5YTzI2NFhHUHQ3Qzh1NjZnZFY3MTZnSXZINFI0dGpaQ2pOUVVmaFpNRmVhT1RmeEg2TUVUeU1mQzlGTkVPVUhCYzNIekhuUmJESE41NzFab1V0SUxsWENnNkU",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787751237.0
-    },
-    {
-        "id": "fcfbc41250",
-        "title_fa": "چهار سناریوی آکسفورد اکونومیکس درباره آینده اقتصاد هوش مصنوعی",
-        "title_en": "The economic impact of AI: four future pathways",
-        "summary": [
-            "مؤسسه آکسفورد اکونومیکس در گزارشی جامع، چهار مسیر متفاوت برای آینده اقتصاد جهانی تحت تأثیر هوش مصنوعی ترسیم کرده است.",
-            "این تحلیل تمرکز اصلی خود را بر سرعت جایگزینی مشاغل، نرخ رشد بهره‌وری و توانایی جوامع در پذیرش ابزارهای جدید قرار داده است."
-        ],
-        "full_text": "The economic impact of AI: four future pathways  Oxford Economics",
-        "impact": "مشخص‌شدن نقشه راه سرمایه‌گذاری کلان دولت‌ها و شرکت‌های بزرگ برای مواجهه با تحولات اقتصادی هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "Oxford Economics",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk5TnhNVHI4UnkxNWRWNE5kOWxqM3M5N0gzeHNYZXBwT1dXYlYxbFZUd2dSdlFuT19hM3NEc2pZRUZBRnBjcjFESEo2T1FrM2FyQmJiWXRUTkpHSDlWTWRTMGFsLXlpYl8zTTBXV19RbWtpYUROSHR4aV9LS29RcUJYVVhQNlNnWVJaSDE3T3hVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVk5TnhNVHI4UnkxNWRWNE5kOWxqM3M5N0gzeHNYZXBwT1dXYlYxbFZUd2dSdlFuT19hM3NEc2pZRUZBRnBjcjFESEo2T1FrM2FyQmJiWXRUTkpHSDlWTWRTMGFsLXlpYl8zTTBXV19RbWtpYUROSHR4aV9LS29RcUJYVVhQNlNnWVJaSDE3T3hVZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787750001.0
     }
 ]
