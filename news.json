@@ -1,5 +1,93 @@
 [
     {
+        "id": "9c5bf0493a",
+        "title_fa": "پیشتازی تاریخی حزب راست افراطی در انتخابات محلی آلمان",
+        "title_en": "Germany’s far-right AfD eyes historic breakthrough in Saxony-Anhalt election",
+        "summary": [
+            "حزب AfD آلمان در آستانه ثبت یک موفقیت انتخاباتی کم‌سابقه در استان زاکسن-آنهالت قرار گرفت.",
+            "تغییر وزنه قدرت در ایالت‌های شرقی آلمان می‌تواند بر سیاست‌های اقتصادی و مهاجرتی کل کشور اثر بگذارد."
+        ],
+        "full_text": "Germany’s far-right AfD eyes historic breakthrough in Saxony-Anhalt election  RFI",
+        "impact": "افزایش نااطمینانی‌های سیاسی در فضای کسب‌وکار و جذب نیروی متخصص در آلمان.",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "RFI",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC1HOTFPQms2YWFyT2ozd1FLRnhtNGlkZ2JDcjR2SnZsUk83Y2VWV0FqdVY5VzVGWUFBZFhTWWROQUFmazNWUmZuR1JjSDNPMGtxcGd2QXcwZXRUd0RfR1BOY1JlOWQzbHN4cmpyb2dKUGNVNHlnMmFpSS1hSFF4bUdZV2NZVU5QUEM3QVV2X09XV1hTRkVybVJfZXppakxER0hjdnkyeTh0QkxLdFd0WEFxTGVCajZBRU1pbS1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcC1HOTFPQms2YWFyT2ozd1FLRnhtNGlkZ2JDcjR2SnZsUk83Y2VWV0FqdVY5VzVGWUFBZFhTWWROQUFmazNWUmZuR1JjSDNPMGtxcGd2QXcwZXRUd0RfR1BOY1JlOWQzbHN4cmpyb2dKUGNVNHlnMmFpSS1hSFF4bUdZV2NZVU5QUEM3QVV2X09XV1hTRkVybVJfZXppakxER0hjdnkyeTh0QkxLdFd0WEFxTGVCajZBRU1pbS1R",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788682366.0
+    },
+    {
+        "id": "7473298235",
+        "title_fa": "انتشار جزئیات جدید از برنامه عرضه اولیه (IPO) جنجالی Anthropic",
+        "title_en": "More details of the mega Anthropic IPO are coming out: here’s what we know",
+        "summary": [
+            "جزییات تازه نشان می‌دهد آنتروپیک در حال زمینه‌سازی برای یکی از بزرگ‌ترین عرضه‌های اولیه سهام در حوزه هوش مصنوعی است.",
+            "ورود آنتروپیک به بازار عمومی بورس فشار بر بقیه رقبای بازار از جمله OpenAI را دوچندان می‌کند."
+        ],
+        "full_text": "More details of the mega Anthropic IPO are coming out: here’s what we know  TradingView",
+        "impact": "شفاف‌تر شدن ارزش‌گذاری واقعی سازندگان مدل‌های بزرگ هوش مصنوعی در بازار عمومی سهام.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3p5cEdNTlNseENLbUVHVjFOcWRtVzZrUTRGazIwSWlBbk9lNm9hNVpsS3J2NVptamtsTzh0Q3VkYnktQTdlb0wzWkJNYXNnRzF2Yk1mNFVwVTQ5eExuVVEtUldCc1VoanpUNW1KX0VsMGlYNHRFZTF4LWM1WVFhVTl4eTRSc0czdG1melc5Njh1T044TU5Ga21mSWpuZWZFVnlaUTFXbFlXanpPQ2R1d09fYVpGUXo5ck45MzRlbmRWTVVGRmtMb1ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3p5cEdNTlNseENLbUVHVjFOcWRtVzZrUTRGazIwSWlBbk9lNm9hNVpsS3J2NVptamtsTzh0Q3VkYnktQTdlb0wzWkJNYXNnRzF2Yk1mNFVwVTQ5eExuVVEtUldCc1VoanpUNW1KX0VsMGlYNHRFZTF4LWM1WVFhVTl4eTRSc0czdG1melc5Njh1T044TU5Ga21mSWpuZWZFVnlaUTFXbFlXanpPQ2R1d09fYVpGUXo5ck45MzRlbmRWTVVGRmtMb1ZR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788681383.0
+    },
+    {
+        "id": "038ad6fe55",
+        "title_fa": "تصاحب ۱۰۰ میلیون دلاری بخش پرداخت آمازون توسط PayTabs",
+        "title_en": "Saudi's PayTabs Acquires Amazon Payments MENA in USD 100M+ Deal",
+        "summary": [
+            "شرکت پرداختی PayTabs برای خرید عملیات منطقه‌ای خدمات پرداخت آمازون در خاورمیانه به توافق رسید.",
+            "این معامله با ارزش بیش از ۱۰۰ میلیون دلار، سهم این شرکت را در بازار فین‌تک منطقه به شدت افزایش می‌دهد."
+        ],
+        "full_text": "PayTabs agreed to acquire Amazon Payment Services' regional payments operations in a transaction valued at more than USD 100M.",
+        "impact": "تغییر کامل چیدمان بازیگران فین‌تک و خروج مستقیم آمازون از مدیریت پرداختی منطقه.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "WAYA",
+        "url": "https://waya.media/saudis-paytabs-acquires-amazon-payments-mena-in-usd-100m-deal/",
+        "clean_url": "https://waya.media/saudis-paytabs-acquires-amazon-payments-mena-in-usd-100m-deal",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788680220.0
+    },
+    {
+        "id": "3e68d69896",
+        "title_fa": "دانشگاه برکلی از پلتفرم متن‌باز CUA-Lite رونمایی کرد",
+        "title_en": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+        "summary": [
+            "پلتفرم جدید CUA-Lite تمام ابزارهای لازم برای ساخت، آزمایش و ارزیابی ایجنت‌های هوش مصنوعی کنترل‌کننده رایانه را یکپارچه می‌کند.",
+            "این ابزار به محققان اجازه می‌دهد مدل‌های یادگیری تقویت‌شده را روی محیط‌های کامپیوتر واقعی ارزیابی کنند."
+        ],
+        "full_text": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents  marktechpost.com",
+        "impact": "سرعت گرفتن روند توسعه عامل‌های هوش مصنوعی خودکار برای انجام وظایف رایانه‌ای.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.9,
+        "source": "marktechpost.com",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb2ptQW1OVU5xYzBvYzdTUDNVSGZXQm40cjBHWUlRaXdtYXpvX1k2R1l1ZWY3c2ZXMENEODkxY1A2OEhMWWVYdU5sZ1NHWGZxdG83WjdtXy14SmFLY1c3MXRqMmFFZnNwOXYtNUxUUm5Sa1hfeVNkSjBfbnNVaFg3NVJ6R0JpcW9IM0t2QVQ2OVktNE5Vd3ZaNjBaN3RJdUFRNDJodjRqd0FaYjVYUWtNTk1QeWdwQ0NuNGV2YXVpeXBNdGVGdi1mS3pOeTZlRmRvTjRDQnJJZ0pCaU5LTDViQkFEeEtrd2h2VW1RSUNRTHdJSEtULUM3RXE0bFHSAfwBQVVfeXFMT29qbUFtTlVOcWMwb2M3U1AzVUhmV0JuNHIwR1lJUWl3bWF6b19ZNkdZdWVmN3NmVzBDRDg5MWNQNjhITFllWHVObGdTR1hmcXRvN1o3bV8teEphS2NXNzF0ajJhRWZzcDl2LTVMVFJuUmtYX3lTZEowX25zVWhYNzVSekdCaXFvSDNLdkFUNjlZLTROVXd2WjYwWjd0SXVBUTQyaHY0andBWmI1WFFrTU5NUHlncENDbjRldmF1aXlwTXRlRnYtZkt6Tnk2ZUZkb040Q0JySWdKQmlOS0w1YkJBRHhLa3dodlVtUUlDUUx3SUhLVC1DN0VxNGxR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb2ptQW1OVU5xYzBvYzdTUDNVSGZXQm40cjBHWUlRaXdtYXpvX1k2R1l1ZWY3c2ZXMENEODkxY1A2OEhMWWVYdU5sZ1NHWGZxdG83WjdtXy14SmFLY1c3MXRqMmFFZnNwOXYtNUxUUm5Sa1hfeVNkSjBfbnNVaFg3NVJ6R0JpcW9IM0t2QVQ2OVktNE5Vd3ZaNjBaN3RJdUFRNDJodjRqd0FaYjVYUWtNTk1QeWdwQ0NuNGV2YXVpeXBNdGVGdi1mS3pOeTZlRmRvTjRDQnJJZ0pCaU5LTDViQkFEeEtrd2h2VW1RSUNRTHdJSEtULUM3RXE0bFHSAfwBQVVfeXFMT29qbUFtTlVOcWMwb2M3U1AzVUhmV0JuNHIwR1lJUWl3bWF6b19ZNkdZdWVmN3NmVzBDRDg5MWNQNjhITFllWHVObGdTR1hmcXRvN1o3bV8teEphS2NXNzF0ajJhRWZzcDl2LTVMVFJuUmtYX3lTZEowX25zVWhYNzVSekdCaXFvSDNLdkFUNjlZLTROVXd2WjYwWjd0SXVBUTQyaHY0andBWmI1WFFrTU5NUHlncENDbjRldmF1aXlwTXRlRnYtZkt6Tnk2ZUZkb040Q0JySWdKQmlOS0w1YkJBRHhLa3dodlVtUUlDUUx3SUhLVC1DN0VxNGxR",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788675062.0
+    },
+    {
         "id": "9defe9e37f",
         "title_fa": "داستان کارآفرینی که ۴ شرکت ساخت و ثروتش را وقف دانشگاه‌ها کرد",
         "title_en": "In 1979, Rahul Mehta's parents sold their gold and silver to fund his first semester in America; decades later, he helped establish eight schools across six IITs",
@@ -48,6 +136,28 @@
         "timestamp": 1788657930.0
     },
     {
+        "id": "f1aa353938",
+        "title_fa": "چالش‌های ورود سرمایه‌گذاران خرد به بازار شرکت‌های فضایی خصوصی",
+        "title_en": "How to Invest in Private Space Companies in 2026",
+        "summary": [
+            "با وجود جذابیت بالا، خرید سهام استارتاپ‌های فضایی خصوصی همچنان محدود به سرمایه‌گذاران تاییدشده است.",
+            "ریسک بالا و قوانین سخت‌گیرانه عدم نقدشوندگی باعث شده جذب سرمایه عمومی در این حوزه کند باشد."
+        ],
+        "full_text": "Private space companies are on the radar of investors. What are the main obstacles to owning those companies, and why those shares are often restricted to accredited investors?",
+        "impact": "انحصار سودآوری صنایع فضایی آینده در دست صندوق‌های بزرگ سرمایه‌گذاری.",
+        "tag": "سخت‌افزار",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Cryptopolitan",
+        "url": "https://www.msn.com/en-us/news/other/how-to-invest-in-private-space-companies-in-2026/ar-AA2bDutI",
+        "clean_url": "https://www.msn.com/en-us/news/other/how-to-invest-in-private-space-companies-in-2026/ar-AA2bDutI",
+        "image": "https://www.cryptopolitan.com/wp-content/uploads/2026/09/How-a-US-China-space-war-would-start-and-who-holds-the-orbital-high-ground-1-768x432.webp",
+        "images": [
+            "https://www.cryptopolitan.com/wp-content/uploads/2026/09/How-a-US-China-space-war-would-start-and-who-holds-the-orbital-high-ground-1-768x432.webp"
+        ],
+        "timestamp": 1788637012.0
+    },
+    {
         "id": "f635447e3b",
         "title_fa": "ورود اپل به بازار دوربین‌های امنیتی خانگی مبتنی بر AI",
         "title_en": "Apple Developing AI-Powered Home Security Camera and Service for Launch in 2027",
@@ -92,6 +202,82 @@
         "timestamp": 1788630614.0
     },
     {
+        "id": "9fccd6107f",
+        "title_fa": "تزریق ۲۹۲ میلیون دلار سرمایه به اکوسیستم رمزارز و پرداخت",
+        "title_en": "Crypto VC funding: Félix lands $200M, Cari raises $32.5M",
+        "summary": [
+            "استارتاپ فیلیکس ۲۰۰ میلیون دلار برای توسعه خدمات مالی بر پایه استیبل‌کوین در واتس‌اپ جذب کرد.",
+            "شبکه کاری (Cari) با حمایت مستقیم بانک‌های بزرگ آمریکا ۳۲.۵ میلیون دلار برای توکنایز کردن سپرده‌های بانکی تامین مالی شد.",
+            "تمرکز اصلی سرمایه‌گذاران روی شبکه‌های پرداخت بین‌المللی و توکنایز کردن دارایی‌های بانکی قرار گرفته است."
+        ],
+        "full_text": "Crypto and blockchain companies disclosed $292.35 million across 10 funding deals between Aug. 31 and Sep. 5, 2026. Félix led the week with a $200 million financing package that combined equity and debt, while bank-backed digital money network Cari secured $32.5 million. OpenReserve and Diameter Pay also attracted funding for regulated banking and stablecoin payment infrastructure. The weekly total includes Félix’s $113 million credit facility and therefore represents disclosed financing rather than pure venture capital. Data from DeFiLlama’s crypto raises database, CryptoRank, and company announcements showed that investors concentrated most of the week’s capital in stablecoin payments, remittances and tokenized banking infrastructure. The total excludes acquisitions and unconfirmed reports, including Polymarket’s reported $1 billion round. Félix secures $200 million for stablecoin remittances Miami-based Félix secured $200 million in Series C financing to expand its WhatsApp-based financial platform for Latino customers in the United States. The package included an $87 million equity investment led by Andreessen Horowitz. QED Investors, Castle Island Ventures, Switch Ventures, Contour Venture Partners, and Endeavor Catalyst also participated. General Catalyst’s Customer Value Fund separately committed to a $113 million credit facility. Félix plans to expand beyond remittances into savings, lending and AI-supported financial services. The company uses USDC on Stellar to help settle cross-border transfers and works with Bitso to move funds between digital assets and local currencies. Félix said it has processed more than $8 billion in transactions across 11 Latin American markets and served more than six million people. The financing brought the company’s total capital raised to nearly $300 million. Félix did not disclose its latest valuation, although it said the figure had tripled since its $75 million Series B in 2025. Cari raises $32.5 million from U.S. banks Washington, D.C.-based Cari raised $32.5 million in the first tranche of its initial external funding round. All of the capital came from banking institutions. First Horizon Bank, Huntington Bank, KeyBank, M&T Bank, Old National Bank, SouthState Bank and Glacier Bank participated in the financing. Cari is developing a bank-governed network that allows chartered institutions to issue and transfer tokenized commercial bank deposits. Its permissioned Layer 2 network is anchored to Ethereum, while participating banks remain responsible for issuing and managing their own deposits. The company said the funds would support product development, bank onboarding, and network integration. Cari has signed 30 banks and is holding discussions with another 40 institutions, according to its announcement. Unlike stablecoins backed by separate reserve assets, tokenized deposits represent liabilities of the banks that issue them. Cari’s structure is designed to let regional and community banks use programmable payment rails without handing control of deposits to nonbank issuers. OpenReserve announces $25 million seed round OpenReserve announced a $25 million seed round led by a16z crypto as it works to establish a full-service U.S. national bank built around continuous settlement. Jump Crypto, Acrew Capital, Coinbase Ventures, Wintermute Ventures, Clocktower Technology Ventures, Quona Capital, AAF Management, and Zero Knowledge participated. The announcement followed preliminary conditional approval from the Office of the Comptroller of the Currency. OpenReserve must still raise at least $210 million in initial paid-in capital, secure Federal Deposit Insurance Corporation coverage and meet the OCC’s preopening requirements before beginning banking operations. The proposed Utah-based bank plans to offer deposits, lending, digital asset custody, tokenized deposits, and stablecoin payment services. OpenReserve said its infrastructure would support settlement outside the operating hours of conventional U.S. payment systems. Diameter Pay adds $10 million for stablecoin payments Jersey City-based Diameter Pay raised $10 million in a Series A co-led by CMT Digital and Lightspeed Faction. SixThirty Ventures, the Stellar Development Foundation, Onigiri Capital, Tech Council Ventures, and BitRock Capital also joined the equity round. Diameter provides financial institutions with U.S. dollar virtual accounts, domestic and international payment rails, stablecoin access, and compliance tools through an application programming interface. The company said it processed more than $10 billion in payments during 2026 before announcing the financing. The funds will support additional banking connections, stablecoin settlement services, foreign exchange products and compliance infrastructure. Projects raising between $3 million and $8 million - Firelight raised an $8 million seed round led by gumi Cryptos Capital. Maven 11, Metalayer Ventures, Joint Effects, and Tribe Capital participated. The protocol uses staked digital assets to provide cover against smart contract exploits and other DeFi risks. - MemeBitcoin secured an $8 million strategic round from Gemhead Capital, Archer Capital, M2M Capital, and Mayer Venture. The Bitcoin-based project said it would use the funds for its public launch, community campaign, and preparations for centralized exchange listings. - GAEA raised $3.6 million in strategic financing from MH Venture, CGV FOF, K24 Ventures, and M2M Capital. The decentralized AI project plans to develop infrastructure connecting users, data, computing resources, and AI agents. - Colombian fintech Plenti closed a $3 million seed round led by Tether, with participation from Verda Ventures. Plenti plans to strengthen its Colombian business and expand its multicurrency accounts and investment platform into Peru and Bolivia. Funding rounds below $3 million - Prediction market infrastructure company ParlayX raised $1.25 million in a pre-seed round led by Dreamcra",
+        "impact": "ادغام عمیق‌تر زیرساخت‌های بلاکچین با سیستم بانکی سنتی و تسریع جابه‌جایی ارز.",
+        "tag": "رمزارز",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "cryptonews",
+        "url": "https://cryptonews.net/news/finance/33401515/",
+        "clean_url": "https://cryptonews.net/news/finance/33401515",
+        "image": "https://cnews24.ru/uploads/d38/d3896626bca39d91edd721d2d34efd2f9138e26a.jpg",
+        "images": [
+            "https://cnews24.ru/uploads/d38/d3896626bca39d91edd721d2d34efd2f9138e26a.jpg",
+            "https://cnews24.ru/uploads/logo-resources/2/2938.png"
+        ],
+        "timestamp": 1788630300.0
+    },
+    {
+        "id": "d5d4927dfb",
+        "title_fa": "جهش استارتاپ‌های خاورمیانه؛ از جذب سرمایه تا توسعه AI حاکمیتی",
+        "title_en": "Startup wrap: MENA firms raise funds and expand across regional markets",
+        "summary": [
+            "استارتاپ‌های منطقه شامل سیرداب (۱۰ میلیون دلار) و فلای‌آکید (۲۵ میلیون دلار) دورهای جدید جذب سرمایه را به سرانجام رساندند.",
+            "همکاری استراتژیک OmniOps و HPE با هدف بومی‌سازی کامل زیرساخت‌های هوش مصنوعی در عربستان کلید خورد.",
+            "استارتاپ کویتی کافه‌تک با ارزش‌گذاری ۱۷۸ میلیون دلاری برای عرضه عمومی در بورس عربستان تا ۲۰۲۹ آماده می‌شود."
+        ],
+        "full_text": "RIYADH: Startups and technology companies across the Middle East and North Africa announced funding rounds, acquisitions, appointments and partnerships led by deals in Saudi Arabia and the UAE. Sirdab raises $10m for GCC expansion Saudi logistics startup Sirdab raised $10 million in a series A round co-led by Public Investment Fund-backed Elm and BECO Capital, with participation from Y Combinator, COTU Ventures and D Global Ventures. Founded in 2022 by Naif Al-Zahri and Abdulrahman Al-Namlah, Sirdab will expand its warehousing and transport network across Saudi Arabia and the Gulf Cooperation Council and develop AI-based logistics tools. FlyAkeed secures $25.15m in growth funding Saudi corporate travel platform FlyAkeed secured SR94.3 million ($25.15 million) through equity and Murabaha sukuk financing. Sanabil Investments led the equity portion, joined by Artal Capital, tali ventures and Aljazira Capital, while Artal led the sukuk component. The company will develop an embedded deferred-payment service for large enterprises and currently serves more than 150 Saudi corporate clients. OmniOps and HPE agree sovereign AI partnership Saudi AI infrastructure company OmniOps signed a memorandum of understanding with Hewlett Packard Enterprise at LEAP 2026 to combine HPE’s locally produced servers with OmniOps’ Saudi-developed platforms. The planned stack will support in-country deployment for government and enterprise customers, including cloud, on-premises and isolated environments, while keeping infrastructure, data and AI management within Saudi jurisdiction. COFE Tech closes pre-IPO round at $178m valuation Kuwait-founded COFE Tech closed an undisclosed pre-IPO round at a $178 million valuation, co-led by Wa’ed Ventures, Aditum Investment Management, Masarrah Investment Company and Alyasra Foods. The company, founded by Ali Al-Ebrahim in 2018, plans further regional expansion and is targeting a Saudi Exchange listing by 2029. It serves more than 1,000 clients across 3,000 Gulf outlets. BitOasis appoints Jonathan Rigg as CEO Digital asset platform BitOasis appointed Jonathan Rigg CEO, succeeding co-founder Ola Doudin. Rigg previously held roles at HSBC, Deutsche Bank and Fuze Finance. The CoinDCX-owned business said it has recorded about $8.5 billion in spot trading volume and served more than one million customers. Its regulated operations include the UAE and Bahrain, where it launched in 2025. Enhance raises $18.2m for US expansion GCC fitness technology company Enhance raised $18.2 million in equity and venture debt, with Global Ventures providing equity and Stride Ventures supplying debt. Founded in Dubai in 2018 by Tarek Mounir, the software company will accelerate its US expansion. Enhance said its platform operates in more than 700 US clubs and supports 15,000 trainers and over 500,000 monthly bookings globally. 3C Coding School raises $3m seed round Egyptian education technology startup 3C Coding School raised $3 million in a seed round led by MRG Economic Group, with Amr Saad and angel investors participating. Founded in 2015 by Hossam Hosny and Ahmed Khallaf, the company will enter Saudi Arabia and develop an AI-powered personalised learning platform. It said it has reached 120,000 students and recorded 230 percent revenue growth. Abwaab acquires Egyptian edtech Eduact Jordan-based Abwaab acquired Egyptian education technology startup Eduact for an undisclosed amount. Eduact provides independent teachers and learning centres with tools for content, grading, payments and online-offline workflows. Abwaab will integrate the software and expand it across its six MENA markets. The transaction follows its 2026 acquisition of Egyptian university admissions platform Apex Education. Ibtikar Fund invests in Churn Solution Ibtikar Fund made an undisclosed seed investment in Palestinian AI customer-retention startup Churn Solution. Founded in 2025 by Abdulhafeth Salah, Mahdi Washha and Walaa Kashou, the platform helps subscription companies manage cancellations, reactivation and failed payments. The funds will support product development, commercial hiring, MENA expansion and possible e-commerce integrations. The company reports paying customers across eight countries. Remedium raises $1.5m pre-seed round Saudi climate tech startup Remedium raised $1.5 million in a pre-seed round led by Kaltaire Investments. Founded in 2021 by Fawaz Abu-Ghazaleh, the company will develop AI-based risk modelling, forecasting and document generation, add water, waste and energy accounting modules, and expand Saudi computing infrastructure to keep client data inside the Kingdom. Arada forms $7bn Syrian development venture UAE developer Arada formed a joint venture with the Syrian Sovereign Fund for a $7 billion mixed-use development in New Damascus. The 4-million-square-metre site is planned to include 11,000 homes, 500 hotel rooms, 1,000 serviced apartments, a hospital, schools and commercial space. The project lifts Arada’s pipeline across the UAE, UK, Australia and Syria to $42 billion. Arabic.AI receives investment from Humain Arabic.AI secured an undisclosed strategic investment from Humain, a Public Investment Fund company. The partnership combines Arabic.AI and Tarjama’s language technology with Humain’s AI infrastructure and models. Initial work will cover Arabic-first translation management, archive digitisation and document intelligence for contracts, tenders, filings and compliance, with the first products scheduled to be unveiled at LEAP 2026. Aajil Capital obtains Saudi investment management licence Aajil Capital received a Capital Market Authority licence to manage investments but will begin regulated activity only after completing commencement requirements. The firm plans Shariah-compliant strategies offering exposure to Saudi industrial small and medium-sized enterprises, using transaction data from sister company Aajil. The financing platform said it had supplied SR600 million of materials by Au",
+        "impact": "تثبیت موقعیت خاورمیانه به‌عنوان مرکز جدید جذب سرمایه و بومی‌سازی زیرساخت‌های فناوری.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Arab News",
+        "url": "https://www.arabnews.com/business/startup-wrap-mena-firms-raise-funds-and-expand-across-regional-markets-3000387",
+        "clean_url": "https://www.arabnews.com/business/startup-wrap-mena-firms-raise-funds-and-expand-across-regional-markets-3000387",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788443159593-eaf12040d1a77f2c.jpg",
+        "images": [
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1788443159593-eaf12040d1a77f2c.jpg",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/proxies/a249c1c2-685f-45b7-8e48-6bca29deeff3.webp",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/proxies/3a243a12-f317-4205-b674-7e338ff5e771.webp",
+            "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/proxies/69381752-0a96-44cc-9f96-109ccd95776c.webp"
+        ],
+        "timestamp": 1788629400.0
+    },
+    {
+        "id": "b482c9fc44",
+        "title_fa": "مهاجرت بنیان‌گذاران اروپایی به آمریکا؛ بحران کمبود سرمایه عمیق‌تر شد",
+        "title_en": "Swiss Founders Bet on Zurich for Aluere as Europe Tackles Its Funding Problem",
+        "summary": [
+            "کمبود شدید سرمایه ریسک‌پذیر بومی در اروپا بنیان‌گذاران استارتاپ‌های پیشرفته را مجبور به کوچ به بازار آمریکا می‌کند.",
+            "آمارها نشان می‌دهد ۹ مورد از ۱۰ خرید بزرگ استارتاپ‌های فناوری عمیق اروپا توسط شرکت‌های آمریکایی انجام شده است.",
+            "تا زمانی که بازار سرمایه اروپا عمیق‌تر نشود، شانس خلق شرکت‌های میلیاردی هوش مصنوعی در این قاره بسیار پایین است."
+        ],
+        "full_text": "From ETH to Harvard to a startup back home Clara Lepsius finished at ETH Zurich, then moved to Harvard University to complete her thesis. While in the US, she and another ETH alumnus, Ben Chen, launched Aluere, a company marrying technology with infant nutrition. Both have since returned to Zurich and opted to build the business in Switzerland instead of growing it in Boston or Silicon Valley. Lepsius said the energy stateside is different. \"The motto there is 'faster, farther, higher',\" she said. Aluere's work focuses on tools that use technology to assess and improve infant nutrition. Lepsius said the concept crystallized after studies indicated that infants who miss out on breastfeeding face a higher risk of chronic disease. The money hurdle that sends founders west Across Europe, taking startups from idea to scale runs into one recurring blocker: capital. That shortage sends many founders across the Atlantic to tap America's larger public and private markets. Ashwin Lalendran, who co-founded IndustriousAF - a nonprofit that produces research for policymakers and funders - said, \"The gap is capital, and it is structural rather than cultural.\" He added, \"The number of billion-dollar Swiss AI companies will stay at roughly zero until domestic and European venture capital, as a share of funding, moves materially off its current floor.\" When founders navigate different paths, steady investing matters for everyone, so download the free Always Be Buying E-Book today The data back that pull to US money. Dealroom reports that US buyers accounted for nine of the top 10 acquisitions of European deep tech startups between 2019 and 2025 when ranked by deal value, with the remaining deal led by a Japanese medical technology company. Over the same period, US acquisitions of deep tech firms reached $23 billion. And when European deep tech companies do make it to public markets, they often do so abroad: since 2015, among the 22 VC-backed European deep tech firms that listed with valuations above $500 million, only four picked a European exchange. The policy backdrop is not helping. A 2024 review by former European Central Bank President Mario Draghi described a loop where fast-growing firms depart, the pipeline at home becomes too thin to attract investors, and capital markets fail to deepen. The Technical University of Denmark has similarly described Europe's venture ecosystem as \"underpowered.\" Meanwhile, US giants such as Meta Platforms Inc. and Apple Inc. feature prominently among the top acquirers of European deep tech outfits, based on deal value. ETH's playbook to keep talent nearby ETH Zurich, founded in 1855 and once home to student Albert Einstein, is leaning into entrepreneurship. The state-backed school launches dozens of companies annually and, according to Dealroom, has generated more deep tech spinouts from 2022 onward than any other higher-education institution in Europe. Five of those companies carry valuations exceeding $1 billion. The school has launched its Student Project House inside a repurposed power plant, providing teams with free access to 3D printers and to the latest AI models, along with workspace. More than 600 projects are currently in motion. ETH also engages roughly a dozen successful alumni founders to share hard-won lessons with students. A recent venture report notes that the school tracks both spinoffs and startups, with a formal distinction in place since 2025. Frank Floessel, who leads entrepreneurship at ETH, said the university benefits from strengths in fields like AI and robotics, yet argued that scaling requires significant funding and policy support. \"It needs to be as easy as possible to start and grow a business,\" he said. What this means for your portfolio The takeaway for anyone watching European innovation is simple: the ideas are there, but the financing stack often is not. That is why you see US buyers leading on big-ticket deals and European listings lagging. If you are tracking where value may accrue, pay attention to who supplies late-stage capital and who ultimately writes the acquisition checks. ETH and peers are building the pipeline, but the exit routes still tend to run through larger markets.",
+        "impact": "از دست رفتن استقلال فناوری اروپا و تصاحب نوآوری‌های برتر توسط غول‌های آمریکایی.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "briefs",
+        "url": "https://www.briefs.co/news/swiss-founders-bet-on-zurich-for-aluere-as-europe-tackles-it/",
+        "clean_url": "https://www.briefs.co/news/swiss-founders-bet-on-zurich-for-aluere-as-europe-tackles-it",
+        "image": "https://www.briefs.co/wp-content/uploads/2026/09/swiss-founders-bet-on-zurich-for-aluere-as-europe-tackles-it-1024x683.png",
+        "images": [
+            "https://www.briefs.co/wp-content/uploads/2026/09/swiss-founders-bet-on-zurich-for-aluere-as-europe-tackles-it-1024x683.png",
+            "https://www.briefs.co/wp-content/uploads/2026/09/swiss-founders-bet-on-zurich-for-aluere-as-europe-tackles-it.png",
+            "https://www.briefs.co/wp-content/uploads/2025/12/BriefsFinance-logo-dec-2025.png",
+            "https://www.briefs.co/wp-content/uploads/2026/04/DSC00007-scaled.jpg"
+        ],
+        "timestamp": 1788629400.0
+    },
+    {
         "id": "3a0dd5ec1c",
         "title_fa": "عرضه مدل Fable 5.1 انتروپیک هم‌زمان با نگرانی‌های امنیتی",
         "title_en": "Anthropic launches Fable 5.1 as AI security worries mount",
@@ -134,6 +320,29 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788625425.0
+    },
+    {
+        "id": "8323a83307",
+        "title_fa": "رشد ۷۶ درصدی صندوق زیست‌فناوری XBI تحت تاثیر خروج پتنت‌ها",
+        "title_en": "XBI: Big Pharma Can Keep The 76% Rally Going",
+        "summary": [
+            "صندوق سرمایه‌گذاری SPDR Biotech جهش ۷۵.۷ درصدی را در یک سال اخیر تجربه کرده است.",
+            "پایان مهلت گواهی اختراع داروهای پرفروش با ارزش ۳۰۰ میلیارد دلار فرصت نوسازی بزرگی برای شرکتهای بیوتک ایجاد کرده است."
+        ],
+        "full_text": "The State Street SPDR S&P Biotech ETF (XBI) has returned 75.75% over the past year, which would normally make me cautious about chasing another leg higher. More than $300 billion of branded drug revenue is Analystâs Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Seeking Alpha's Disclosure:Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
+        "impact": "سرازیر شدن سرمایه‌های جدید به سمت شرکت‌های زیست‌فناوری توسعه‌دهنده داروهای نسل جدید.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4943368-xbi-big-pharma-can-keep-the-76-percent-rally-going",
+        "clean_url": "https://seekingalpha.com/article/4943368-xbi-big-pharma-can-keep-the-76-percent-rally-going",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962515/image_1386962515.jpg?io=getty-c-w1536",
+        "images": [
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962515/image_1386962515.jpg?io=getty-c-w1536",
+            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962515/image_1386962515.jpg?io=getty-c-w630"
+        ],
+        "timestamp": 1788623160.0
     },
     {
         "id": "5b1db78639",
@@ -6748,219 +6957,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787750001.0
-    },
-    {
-        "id": "557ab10830",
-        "title_fa": "سایت‌ساز اختصاصی پلتفرم Playlist برای مجموعه‌های ورزشی و تناسب اندام",
-        "title_en": "Playlist Launches Custom Website Builder for Fitness & Wellness Operators",
-        "summary": [
-            "پلتفرم Playlist ابزار جدیدی برای طراحی سریع و آسان وب‌سایت‌های حوزه سلامت و ورزش عرضه کرد.",
-            "این وب‌سایت‌ساز بدون نیاز به کدنویسی، امکاناتی مثل سیستم رزرو آنلاین کلاس‌ها و مدیریت اشتراک مشتریان را در اختیار مربیان می‌گذارد."
-        ],
-        "full_text": "Playlist Launches Custom Website Builder for Fitness & Wellness Operators  Athletech News",
-        "impact": "تسهیل دیجیتالی شدن کسب‌وکارهای ورزشی مستقل و کاهش هزینه‌های راه‌اندازی زیرساخت آنلاین.",
-        "tag": "فناوری",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Athletech News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczc1ekFtSDJReTVFS256VGZWaE5mSEpoX2lBbjlreUd0blpQcjg4M1AwSHhRTEVCVEVtT25mNTkxZTQ0NDktZE42RXpXTnVscU5Nb1J3NmZlVzl1MkdXTHZmUU5qVUZLNDQwVmk5aFdzcmpZQ0Z0QjJzdmdTTU85MXRXSUc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczc1ekFtSDJReTVFS256VGZWaE5mSEpoX2lBbjlreUd0blpQcjg4M1AwSHhRTEVCVEVtT25mNTkxZTQ0NDktZE42RXpXTnVscU5Nb1J3NmZlVzl1MkdXTHZmUU5qVUZLNDQwVmk5aFdzcmpZQ0Z0QjJzdmdTTU85MXRXSUc",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787749443.0
-    },
-    {
-        "id": "2c151aad8d",
-        "title_fa": "سردرگمی کاربران در میان نام‌گذاری‌های چندگانه هوش مصنوعی گوگل",
-        "title_en": "Google’s Gemini has a branding problem, and so does the rest of AI",
-        "summary": [
-            "گوگل ابزارهای مختلف دستیار Gemini مثل Spark و Daily Brief را با برندهای مجزا عرضه کرده که باعث سردرگمی کاربران معمولی شده است.",
-            "ویژگی Daily Brief هنوز توانایی تشخیص پیام‌های ضروری از پیشنهادات غیرضروری را ندارد و رفتاری مشابه اسپم از خود نشان می‌دهد.",
-            "کارشناسان معتقدند گوگل به جای پیچیده‌تر کردن رابط کاربری، باید ساختار فنی را پشت یک تجربه ساده‌تر پنهان کند."
-        ],
-        "full_text": "Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands. But there’s a ridiculousness here: Google has given every Gemini AI feature under the sun its own branding, which undercuts that very message. In the Gemini app, users can switch between chat, Spark, and Daily Brief — three separate features, each with its own icon and place in the app’s navigation. This clutters up what could otherwise be a more straightforward consumer experience, and it suggests that Gemini is still struggling to find a killer feature. Take Daily Brief, for example. The feature comes across as the kind of thing an AI engineer, not an everyday user, would think is clever. It’s essentially an AI-enabled agenda that offers “proactive, personalized updates” using data pulled from Google’s apps, like Gmail and Calendar. In practice, though, the Brief can’t tell the difference between information that’s urgent or actionable and unsolicited nudges to follow up on other things — like prompting you to continue research you started in the chatbot, or worse, resurfacing your prior Google searches. That second part doesn’t feel useful; it feels creepy. So what if I had been researching college scholarships or animal rescues on Google? That doesn’t mean I want an AI tapping me on the shoulder about them later. Spark has the opposite problem. It’s one of the more useful aspects of Gemini’s app — an AI agent that can take action on your behalf — but Google has packaged it as its own standalone brand, which it doesn’t need to be. Sure, internally, Google engineers may want to be on the Spark team, and that’s fine — but a mainstream AI app user definitely does not need to think about which “side” of the AI app they need to be in for a given task. They should just be able to type their request, and the AI figures out how to handle it, spinning up an agent if the task calls for one. In fairness, the problem isn’t limited to Gemini. The AI industry at large seems to expose its internal architecture directly to consumers rather than hiding it behind a simpler interface. Today, people have to think about whether they want to “chat” with Anthropic’s Claude or “Cowork” with its help. (Until this week, those two modes inside the Claude app didn’t even share a memory of past conversations.) ChatGPT is the same, requiring you to swap between “Chat” and “Work.” This is the kind of engineering-minded design that makes engaging with AI feel unnatural. Consumers are being asked to learn the brand names for what are essentially interaction modes or surfaces, powered by a company’s AI model. This may be why Apple’s somewhat anticlimactic approach to Siri could ultimately win over consumers. iPhone and Apple device owners don’t have to change any of their existing behavior to take advantage of it. Apple simply makes the apps and features that people already use — like Spotlight Search, the Photos app, the iPhone’s Camera, and Siri voice requests — smarter without asking users to learn a new interface. This same principle may explain the rise of text-based AI services, where users simply text a chatbot — like Poke, Ollie, Lindy, Orchid, Lucas, Folk, Tomo, Instinct, or others — and the assistant just does what’s asked. Text messaging is a clean and simple, well-understood user interface, and it doesn’t require extra mental effort to figure out which feature or product inside a larger app you’re supposed to use. As a16z investment partner Justine Moore recently wrote, “People don’t want to open an app every time they need help – they want a contact they can text like a friend. And the gold standard is iMessage.”",
-        "impact": "کاهش نرخ رضایت کاربران از تجربه کاربری چت‌بات Gemini و کند شدن روند همه‌گیری آن.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-        "clean_url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
-        "image": "http://www.bing.com/th?id=ONUT.S1cBE-osW41QWe1iTCNxmQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.S1cBE-osW41QWe1iTCNxmQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787747820.0
-    },
-    {
-        "id": "c39f071577",
-        "title_fa": "ارتقای چهار بخش اصلی پلتفرم Specright با تمرکز بر هوش مصنوعی",
-        "title_en": "Specright Doubles Down on AI, Launching Four Major Platform Advances Across the Product Lifecycle",
-        "summary": [
-            "شرکت Specright چهار قابلیت مبتنی بر هوش مصنوعی را در پلتفرم مدیریت چرخه حیات محصول خود ادغام کرد.",
-            "این به‌روزرسانی‌ها به برندها کمک می‌کنند داده‌های مربوط به بسته‌بندی، تامین‌کنندگان و مشخصات فنی کالا را هوشمندانه تحلیل کنند."
-        ],
-        "full_text": "Specright Doubles Down on AI, Launching Four Major Platform Advances Across the Product Lifecycle  Business Wire",
-        "impact": "بهینه‌سازی زنجیره تأمین و کاهش چشمگیر زمان توسعه محصولات جدید برای شرکت‌های تولیدی.",
-        "tag": "کسب‌وکار",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNTRQY3NQTjAxRzFhZC1YNVhxd0ZkYmxFY253Y1E0dTkxWWQwdHFXSWtTY0R2VGNXelVMT0xqdFA2ckwzV3d5Z3NnSF8xYW9EbUExUWdpN0pyY2YwWFRfeEthbEZ1aF9odkYzU3JJcHdXTDk1ems4bmZOQVBIYUFUTEZheWVYcGNSNzRXNTZjLUxERXAyWlUxX0h6YmNyWHVaRU9SenU3dFUwWmpKY3Y2UmpReXEyTGxDMGVTZktMTG1YMklBRWc5ZUVSTTVtbDVxUXBwTGN5NnRVM0FRaGd2b1JROEFoUVBU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNTRQY3NQTjAxRzFhZC1YNVhxd0ZkYmxFY253Y1E0dTkxWWQwdHFXSWtTY0R2VGNXelVMT0xqdFA2ckwzV3d5Z3NnSF8xYW9EbUExUWdpN0pyY2YwWFRfeEthbEZ1aF9odkYzU3JJcHdXTDk1ems4bmZOQVBIYUFUTEZheWVYcGNSNzRXNTZjLUxERXAyWlUxX0h6YmNyWHVaRU9SenU3dFUwWmpKY3Y2UmpReXEyTGxDMGVTZktMTG1YMklBRWc5ZUVSTTVtbDVxUXBwTGN5NnRVM0FRaGd2b1JROEFoUVBU",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787745600.0
-    },
-    {
-        "id": "abc30829c9",
-        "title_fa": "آغاز فاز آزمایشی هوش مصنوعی فوجیتسو در مدیریت پروژه‌های ساخت‌وساز",
-        "title_en": "Fujitsu, Tokyu Construction, and Kitano Construction Launch Field Trial for AI That Supports Construction Process Management and Risk Reduction",
-        "summary": [
-            "فوجیتسو با همکاری دو شرکت بزرگ ساختمانی، تست میدانی سیستم هوشمند کنترل روند پروژه‌های عمرانی را آغاز کرد.",
-            "این مدل هوش مصنوعی با تحلیل روند کارگاه، ریسک‌های ایمنی را تشخیص داده و اختلالات در زمان‌بندی را پیش‌بینی می‌کند."
-        ],
-        "full_text": "Fujitsu, Tokyu Construction, and Kitano Construction Launch Field Trial for AI That Supports Construction Process Management and Risk Reduction  AZoBuild",
-        "impact": "کاهش خطاهای انسانی، افزایش امنیت کارگران و جلوگیری از زیان‌های مالی ناشی از تأخیر در پروژه‌های بزرگ عمرانی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "AZoBuild",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZWJDLTYtdmpwMW5kR1hzczYzRjZEZTUyNnZmVHV0R3VuX1h1WUVxYWNoRkx4QlNKNjRGdk03R09QYVZQczVDdUhUT2NSVHlsOTRaeGpjUUpIalk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZWJDLTYtdmpwMW5kR1hzczYzRjZEZTUyNnZmVHV0R3VuX1h1WUVxYWNoRkx4QlNKNjRGdk03R09QYVZQczVDdUhUT2NSVHlsOTRaeGpjUUpIalk",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787745000.0
-    },
-    {
-        "id": "eaedfd54cd",
-        "title_fa": "اختلال جهانی در تولید تجهیزات پزشکی بوستون ساینتیفیک پس از حمله سایبری",
-        "title_en": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
-        "summary": [
-            "غول تجهیزات پزشکی بوستون ساینتیفیک هدف حمله سایبری سنگینی قرار گرفته که سیستم‌های IT و زنجیره توزیع جهانی آن را مختل کرده است.",
-            "هنوز ابعاد دقیق حادثه و میزان آسیب احتمالی به دسترسی بیماران یا عملکرد دستگاه‌های حساس نظیر ضربان‌سازها شفاف‌سازی نشده است.",
-            "این اتفاق بار دیگر آسیب‌پذیری زیرساخت‌های حیاتی درمان و وابستگی بالای آن‌ها به ابری مانند مایکروسافت را برجسته می‌کند."
-        ],
-        "full_text": "A cyberattack on U.S. medical device maker Boston Scientific is causing an ongoing “global disruption” to its operations, according to a federal regulatory filing on Wednesday. This is the latest health tech giant to face a cyberattack in recent weeks. The Massachusetts-based company, which makes medically implanted devices like pacemakers and defibrillators, confirmed in a filing with the U.S. Securities and Exchange Commission that on Tuesday it began experiencing “disruptions and limitations of access” to its IT systems and business applications critical for its operations. Boston Scientific said the cyberattack has affected its ability to ship and process orders, but has not said whether the disruption extends to customers with medical devices and implants. When asked by TechCrunch, Boston Scientific spokesperson Chanel Hastings shared the company’s public statement but would not comment on whether patients are affected by the cyberattack, say what steps patients should take, or answer questions about the nature of the incident. Boston Scientific treats around 48 million patients a year, according to its website. The company’s public statement said that its investigation is ongoing and that a timeline for its restoring its systems is not yet known. It’s not clear what caused the cyberattack at Boston Scientific. Local media in Ireland reported that thousands of staff across Boston Scientific’s campus in Cork were sent home on Tuesday after network communications were cut across the company. Boston Scientific is the latest health technology company to have been hacked this year, including medical device makers Abbott Laboratories and Medtronic. Earlier this year, Iranian-backed hackers were blamed for a cyberattack on U.S. medical device maker Stryker, which allowed the hackers to remotely wipe tens of thousands of employee devices across its Windows network by abusing a centralized device management portal provided by Microsoft. According to public internet records, Boston Scientific relies largely on Microsoft and Amazon Web Services for its corporate infrastructure. Do you know more about Boston Scientific’s cyberattack? Do you work at Boston Scientific or have you received communications from the company or the hackers? Contact this reporter via encrypted message at zackwhittaker.1337 on Signal.",
-        "impact": "توقف در پردازش و ارسال سفارش‌های حیاتی بیمارستانی و احتمال بروز زیان مالی سنگین برای شرکت.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
-        "clean_url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations",
-        "image": "http://www.bing.com/th?id=ONUT.biKlyxg1JvAJnZxAoP4ewg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.biKlyxg1JvAJnZxAoP4ewg&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772",
-            "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/10/whittaker_headshot_disrupt2024.jpg?w=150"
-        ],
-        "timestamp": 1787743380.0
-    },
-    {
-        "id": "911908df71",
-        "title_fa": "ادعای جنجالی OpenAI: تراشه جدید ما از بلک‌ول انویدیا سریع‌تر است",
-        "title_en": "OpenAI Says Its New Chip Outperforms Nvidia's Blackwell As Nvidia Prepares Earnings Release",
-        "summary": [
-            "رونمایی OpenAI از تراشه اختصاصی جدیدش که مدعی است معماری بلک‌ول انویدیا را شکست می‌دهد، توجه بازار سخت‌افزار را جلب کرد.",
-            "هم‌زمانی این ادعا با انتشار گزارش مالی انویدیا، فشار رقابتی را روی پادشاه تراشه‌های هوش مصنوعی دوچندان می‌کند."
-        ],
-        "full_text": "OpenAI Says Its New Chip Outperforms Nvidia's Blackwell As Nvidia Prepares Earnings Release  24/7 Wall St.",
-        "impact": "آغاز چالش جدی برای انحصار قدرتمند انویدیا در بازار تراشه‌های پردازش هوش مصنوعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 9,
-        "sentiment": 0.2,
-        "source": "24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZWVUxZkNiRElNOVJaYTUtQ1pibG9DbmdRcEhNN0haZ3Zna1hDN2lOaVlvekVGOTR3eklNUHVjWGFMX3NwblNoUEJFMTY0N29jbktvVlNyeFh6WlVBQ3FTNTJqT05tSUdCczRkRUJLbmJDcTh4XzlXQmRxMENhRnd1cjlNc25fZTZFWlkyT2JBMnVJd2RtZ0dzTC1DOVpFcklGalZGTHhMaVg4VS1EU1NBS2stcDRMbjVVNG1hc3A0cWUxaFI3bWF1VHZVRGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZWVUxZkNiRElNOVJaYTUtQ1pibG9DbmdRcEhNN0haZ3Zna1hDN2lOaVlvekVGOTR3eklNUHVjWGFMX3NwblNoUEJFMTY0N29jbktvVlNyeFh6WlVBQ3FTNTJqT05tSUdCczRkRUJLbmJDcTh4XzlXQmRxMENhRnd1cjlNc25fZTZFWlkyT2JBMnVJd2RtZ0dzTC1DOVpFcklGalZGTHhMaVg4VS1EU1NBS2stcDRMbjVVNG1hc3A0cWUxaFI3bWF1VHZVRGs",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787739473.0
-    },
-    {
-        "id": "caf53c7f55",
-        "title_fa": "توقیف شبکه‌ بات‌نت چینی مسئول حمله به ناسا و سنای آمریکا",
-        "title_en": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-        "summary": [
-            "اف‌بی‌آی دامنه شبکه بوت‌نت بزرگ QTFY وابسته به دولت چین را مسدود و زیرساخت‌های آن را از کار انداخت.",
-            "این شبکه برای پنهان کردن هک‌های گسترده علیه ناسا، وزارت دادگستری و سنای آمریکا استفاده می‌شده است.",
-            "عملیات نفوذ این گروه از سال ۲۰۱۸ فعال بوده و سخت‌افزارهای متصل به اینترنت را هدف قرار داده بود."
-        ],
-        "full_text": "The FBI has seized a series of domains that were used by a large-scale botnet to coordinate and launch China-backed cyberattacks against American targets. According to the Justice Department’s statement on Wednesday, the seizures of the botnet’s domains deny the operators access to the platforms. The botnet was allegedly used by the Chinese government to break into computers across the United States, including systems at hospitals, defense contractors, and several federal government departments. Prosecutors said the China state-sponsored group, known as QTFY, was run by a Chinese company called Nanjing Xinjiuwei Network Tech, which created and operated the botnet of thousands of compromised internet-connected devices. The botnet aimed to serve as obfuscation networks, which hide the malicious traffic of hackers to make their activity more difficult to detect. Per the Justice Department, QTFY offers computer hacking services to its customers, who include Chinese government hackers working for the Ministry of State Security, and allows them to use the botnet. The hacks date back to 2018 and affected NASA, the Federal Reserve, and the Departments of Energy, Justice, and Health and Human Services. The U.S. Senate was compromised as recently as 2026, according to the government’s affidavit seeking a court order to seize the botnet’s domains filed earlier this week. The Justice Department said that the domain seizures made the botnet and its command and control servers “inoperable,” as the domains were hardcoded into the botnet’s code and were critical for the botnet’s communication and essential operations. Network giant Lumen said in a blog post that it had observed the hackers profiling and targeting government agencies, the defense and aerospace sectors, and others for the past year, and shared threat intelligence with the FBI.",
-        "impact": "قطع موقت دسترسی هکرهای دولتی چین به زیرساخت‌های حساس ایالات متحده.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-        "clean_url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate",
-        "image": "http://www.bing.com/th?id=ONUT.RX-Aht13Is9BzBKS1zweIw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.RX-Aht13Is9BzBKS1zweIw&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-            "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2026/08/qt-seizure-screenshot-rocks.jpeg"
-        ],
-        "timestamp": 1787738460.0
-    },
-    {
-        "id": "e0ce8bb07a",
-        "title_fa": "صندوق ۱۷ میلیون دلاری Capital F برای توسعه اقتصاد زنان",
-        "title_en": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-        "summary": [
-            "صندوق سرمایه‌گذاری Capital F با مدیریت ۱۰۰ درصد زنانه، ۱۷ میلیون دلار برای پشتیبانی از استارتاپ‌های حوزه سلامت زنان، تجارت دیجیتال و ابزارهای هوش مصنوعی جمع‌آوری کرد.",
-            "بیش از ۸۰ درصد سرمایه‌گذاران این صندوق را زنان مدیر در برندهای بزرگی مثل Old Navy و Pottery Barn تشکیل می‌دهند.",
-            "هدف اصلی این مجموعه ایجاد شبکه‌ای پایدار از مشاوران و خریداران برای رشد واقع‌بینانه استارتاپ‌های هدف است."
-        ],
-        "full_text": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunch — women’s health, digital commerce, and AI tools. The latter is increasingly important since “women are disproportionately the victims of trust and safety violations,” Dawn Dobras, the co-founder of Capital F, added. Coblentz and Dobras spent the last 30 years running companies together. Dobras was notably the CEO of the clean beauty retailer Credo Beauty and spent a decade at Gap before moving on to the clothing retailer Charlotte Russe. Coblentz also worked at Charlotte Russe before launching her own luxury knitwear brand, which eventually exited. Coblentz said she and Dobras decided to come together and launch a firm after spending years at the executive top ranks and realizing that “there weren’t a lot of women there.” “If you had asked me maybe 15 years ago, ‘Are you going to go into venture?’ I don’t know that I would have said yes,” Coblentz said. She and Dobras started angel investing after their corporate careers and always knew that “who writes the check and who owns the company matters quite a bit.” They first worked together almost 17 years ago at Charlotte Russe and figured, well, second time was the charm. The result was Capital F, named after their favorite F words, Dobras said. “Things like future, fund, fantastic, and, you know, fill in the blank.” During the fundraising process, they hosted salon events across the country for the “VC curious” to bring more women into investing, and as a result, almost 80% of the fund’s LPs are women, including Jenny Ming, the CEO of Rothys and former head of Old Navy; Marta Benson, former CEO of Pottery Barn; and Linnea Roberts and her firm Gingerbread Capital. “We realized that many times women aren’t invited into the rooms to invest in funds,” Dobras said. Dobras said Capital F doesn’t back a founder until they’ve spoken to at least two of their LPs. “We’ve seen those relationships move into advisor, into board members, into additional investments,” she continued, “and most importantly, lots and lots of sales introductions.” The journey to raise this fund had its ups and downs. “We always say we’re going to write a book,” Dobras said. They were working with the disadvantage of essentially being new fund managers. “Really, the people who supported us and wrote those checks came out of those salons,” Dobras said. Over the past decade, there has been a lot of talk about the importance of investing in more technology that centers on women’s issues, such as women’s health, which has long been underfunded and underfocused. Coblentz said that, in many ways, those conversations have led to some innovations that are starting to have an impact. They also mentioned companies in their portfolio, like Malama, which offers doula support for people on Medicaid. The firm has cut checks to 13 companies. It backs early-stage companies, writing checks between $250,000 and $1 million. Portfolio companies include the telemedicine startup Hey Jane, the period-and-cycle-tracking platform Stardust, and Big Sur AI, which Google acquired last year. “That was a fun LP letter to write because we hadn’t even closed the fund and we’ve already had an exit,” Dobras said. They expect to finish deploying the fund by the end of 2027. This article was updated.",
-        "impact": "افزایش سهم زنان در جذب سرمایه و هدایت بازار هوش مصنوعی به سمت ابزارهای ایمن‌تر برای کاربران.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-        "clean_url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy",
-        "image": "http://www.bing.com/th?id=ONUT.ky_8br_g88hRVYzjUHkERQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.ky_8br_g88hRVYzjUHkERQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
-            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150",
-            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
-        ],
-        "timestamp": 1787738400.0
-    },
-    {
-        "id": "cd5f4857f1",
-        "title_fa": "همکاری Perplexity با Flanks برای تحول در مدیریت هوشمند سرمایه‌گذاری",
-        "title_en": "Flanks Partners with Perplexity to Launch AI-Driven Wealth Management Data Connector",
-        "summary": [
-            "استارتاپ Perplexity با همکاری Flanks ابزار هوشمندی برای اتصال و تحلیل داده‌های مالی و مدیریت ثروت عرضه کرد.",
-            "این قابلیت جدید استخراج داده‌های پیچیده سرمایه‌گذاری را برای مشاوران و موسسات مالی بسیار سریع‌تر می‌کند."
-        ],
-        "full_text": "Flanks Partners with Perplexity to Launch AI-Driven Wealth Management Data Connector  FF News",
-        "impact": "تسریع اتوماسیون داده‌های مالی و اتخاذ تصمیمات دقیق‌تر در حوزه سرمایه‌گذاری.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "FF News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lpM3VEQU9aemRoSGdnQWZqclRKb1h2QXUxX2RfMHVZWVJ3OHJiN0hONFJDd0lIaWZaTExRLW9EQThRdTF3dWZPclhwWTNTRlJFRmxXenNxb2VnUE54WVRpbmlCMlNuS3dmRVlQQmtUajM3ZGxkaGppdWlRQTBOTUlKcldIZ3BWR0l1cW9qTHVIOF9vX3o1a3FCZGludDVZRmltRmNsODBCU3hSVWZFQU5UTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lpM3VEQU9aemRoSGdnQWZqclRKb1h2QXUxX2RfMHVZWVJ3OHJiN0hONFJDd0lIaWZaTExRLW9EQThRdTF3dWZPclhwWTNTRlJFRmxXenNxb2VnUE54WVRpbmlCMlNuS3dmRVlQQmtUajM3ZGxkaGppdWlRQTBOTUlKcldIZ3BWR0l1cW9qTHVIOF9vX3o1a3FCZGludDVZRmltRmNsODBCU3hSVWZFQU5UTQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787735160.0
     }
 ]
