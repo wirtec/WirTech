@@ -1,5 +1,72 @@
 [
     {
+        "id": "a47827e042",
+        "title_fa": "سردرگمی خریداران در پی عرضه هم‌زمان ۴ مدل هوش مصنوعی بزرگ",
+        "title_en": "Four AI Labs Released Major Models in One Week and Buyers Can't Keep Up",
+        "summary": [
+            "تنها در طول یک هفته، چهار آزمایشگاه پیشرو AI مدل‌های اصلی خود را معرفی کردند؛ اتفاقی که سرعت بی‌سابقه این صنعت را نشان می‌دهد.",
+            "تنوع بالای گزینه‌ها و فاصله زمانی کم بین انتشار مدل‌ها، شرکت‌ها و خریداران سازمانی را در انتخاب گزینه مناسب دچار چالش کرده است.",
+            "شتاب بی‌رویه در معرفی محصولات جدید، روند تصمیم‌گیری کسب‌وکارها برای سرمایه‌گذاری طولانی‌مدت را کندتر از قبل کرده است."
+        ],
+        "full_text": "Four AI Labs Released Major Models in One Week and Buyers Can't Keep Up  Startup Fortune",
+        "impact": "پیچیده‌تر شدن فرآیند انتخاب و اتخاذ ابزارهای هوش مصنوعی در شرکت‌ها به دلیل اشباع سریع بازار.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzBOMHU1QzB2VUlkdWFUUFhNd2k2Z0JwNm9oX2QyenRvdWx6NG9WSnFLZ2xsT3ZITmRHMVZucmpfZVBnaXh4ZnFDX0FmM0ctNGRXNUFSZlNTNmpMY0Y4dU5mWW9IYWx3b1lBVjhzWkFuTl91TEwyN3lMRXdLNm02M3h6NmJhV2hTbks2bDgzdkZKcmp1alczcFAxMGZsUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzBOMHU1QzB2VUlkdWFUUFhNd2k2Z0JwNm9oX2QyenRvdWx6NG9WSnFLZ2xsT3ZITmRHMVZucmpfZVBnaXh4ZnFDX0FmM0ctNGRXNUFSZlNTNmpMY0Y4dU5mWW9IYWx3b1lBVjhzWkFuTl91TEwyN3lMRXdLNm02M3h6NmJhV2hTbks2bDgzdkZKcmp1alczcFAxMGZsUlE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788713734.0
+    },
+    {
+        "id": "5d562208e0",
+        "title_fa": "۵ قابلیت مورد انتظار برای تحول دستیار سیری و نسخه‌های آینده iOS",
+        "title_en": "5 Siri AI and iOS 27 features we’re looking forward to",
+        "summary": [
+            "بررسی انتظارات اصلی کاربران و کارشناسان نشان می‌دهد ادغام عمیق‌تر هوش مصنوعی مولد اولویت اول اپل در به‌روزرسانی‌های پیش‌رو است.",
+            "افزایش قدرت فهم متنی سیری و توانایی اجرای دستورات چندمرحله‌ای پیچیده، مهم‌ترین خواسته از سیستم‌عامل بعدی آیفون به شمار می‌رود."
+        ],
+        "full_text": "5 Siri AI and iOS 27 features we’re looking forward to  Mashable",
+        "impact": "شفاف‌شدن انتظارات بازار از اپل برای جبران عقب‌ماندگی در مسابقه دستیارهای هوشمند.",
+        "tag": "اپل",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUxsdmJKVm1SVVNES3pHVWxGa0U4RWllanN4Mjd1MnN1a19uaXNUQVNSa3d3LTIxS2llN3RoQ1FpZjJKRjFyNFh4aVNVQWpBaE81YXloNGNpcmdDMjRIU2JnY0doT1ZJZ2RqSk1Ya2U4cjNtT2NmY09vclBURkk2REtsbk9JNE9DSHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUxsdmJKVm1SVVNES3pHVWxGa0U4RWllanN4Mjd1MnN1a19uaXNUQVNSa3d3LTIxS2llN3RoQ1FpZjJKRjFyNFh4aVNVQWpBaE81YXloNGNpcmdDMjRIU2JnY0doT1ZJZ2RqSk1Ya2U4cjNtT2NmY09vclBURkk2REtsbk9JNE9DSHc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788707188.0
+    },
+    {
+        "id": "4fbfd2cbe9",
+        "title_fa": "همایش یک‌ساله کالج اگنس اسکات درباره همزیستی با هوش مصنوعی",
+        "title_en": "Agnes Scott to launch yearlong symposium on living well with AI",
+        "summary": [
+            "کالج اگنس اسکات سلسله‌نشست‌هایی یک‌ساله با محوریت بررسی تأثیر هوش مصنوعی بر زندگی روزمره و چالش‌های اخلاقی آن برگزار می‌کند.",
+            "تمرکز اصلی این رویداد، آموزش تعامل مسئولانه و کاربردی با فناوری‌های هوشمند برای دانشجویان و جامعه علمی است."
+        ],
+        "full_text": "Agnes Scott to launch yearlong symposium on living well with AI  Rough Draft Atlanta",
+        "impact": "افزایش آگاهی آکادمیک درباره تبعات اجتماعی و اخلاقی نفوذ هوش مصنوعی در زندگی روزمره.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "Rough Draft Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3a1Q2ZFh2MFlfWXlFOXZRY3dvYW1lMWtfeW1YOFVSb3hES3pSLWtKMndZVjR0RDJyUTN5cFVtMFNMTEtrNG9sOUdhU1BDaXI4Rk1acVBFdldCVVYzenpkS09lVWlTMFhzeXExQ1MwV3JUUkkx?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3a1Q2ZFh2MFlfWXlFOXZRY3dvYW1lMWtfeW1YOFVSb3hES3pSLWtKMndZVjR0RDJyUTN5cFVtMFNMTEtrNG9sOUdhU1BDaXI4Rk1acVBFdldCVVYzenpkS09lVWlTMFhzeXExQ1MwV3JUUkkx",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788703200.0
+    },
+    {
         "id": "d0dc965e95",
         "title_fa": "راه‌اندازی مرکز تحقیقات تخصصی هوش مصنوعی در دانشگاه کالیفرنیا",
         "title_en": "AI research center coming to Cal State San Bernardino",
@@ -6899,71 +6966,5 @@
             "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787761477.0
-    },
-    {
-        "id": "40750f1106",
-        "title_fa": "درس‌های رشد کسب‌وکار از زبان مدیران خلاق تبلیغات",
-        "title_en": "The Smartest Growth Strategy I Learned Didn't Come From an MBA — It Came From an Advertising Creative",
-        "summary": [
-            "نوآوری بعدی در توسعه کسب‌وکار لزوماً از ابزارهای بهره‌وری حاصل نمی‌شود، بلکه از تفکر خلاق برمی‌خیزد.",
-            "نگاه خلاقانه به پروژه‌ها می‌تواند مسیرهای تازه‌ای برای حل مسائل پیچیده مدیریتی باز کند."
-        ],
-        "full_text": "The next breakthrough for your business may not come from another productivity tool or another trend report, it may begin exactly where a creative director started years ago.",
-        "impact": "تغییر زاویه دید مدیران از ابزارهای سخت‌افزاری به تکنیک‌های تفکر خلاق.",
-        "tag": "کسب‌وکار",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "Entrepreneur",
-        "url": "https://www.msn.com/en-us/money/general/the-smartest-growth-strategy-i-learned-didn-t-come-from-an-mba-it-came-from-an-advertising-creative/ar-AA2aYHDf",
-        "clean_url": "https://www.msn.com/en-us/money/general/the-smartest-growth-strategy-i-learned-didn-t-come-from-an-mba-it-came-from-an-advertising-creative/ar-AA2aYHDf",
-        "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/smartest-growth-strategy-0826-g-1163753891.jpg?resize=1024,655",
-        "images": [
-            "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/smartest-growth-strategy-0826-g-1163753891.jpg?resize=1024,655"
-        ],
-        "timestamp": 1787760000.0
-    },
-    {
-        "id": "f00f811ea2",
-        "title_fa": "ابزار جدید آویوا برای ارتقای ایمنی محیط کار با AI",
-        "title_en": "Aviva and Cardinus launch AI tool for workplace safety",
-        "summary": [
-            "شرکت‌های آویوا و کاردینوس از ابزار هوشمندی برای پایش و ارزیابی مخاطرات سلامت شغلی رونمایی کردند.",
-            "این سیستم با تحلیل داده‌های محیطی، ریسک حوادث کاری را پیش از وقوع شناسایی و هشدار می‌دهد."
-        ],
-        "full_text": "Aviva and Cardinus launch AI tool for workplace safety  FinTech Global",
-        "impact": "کاهش هزینه‌های بیمه و جراحات شغلی به کمک پایش هوشمند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "FinTech Global",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQi1ORHJuN19PMVpWWDgtYk9rSXd6N1RERDBqemZuVlNkaDcyLTZ5dk9xVEJzdkxLbm00bjJ2ODNQRkI2b1dObGMzZXNsTHN3RVdXOFpHS3dNSEdHMmdtRDVYeWlwSnQ2eHN5UGxpNWdlV1VXM09UbzJrLWlkS3FUcVlJcFBMRl9qYWF2TFV4aG1TODQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQi1ORHJuN19PMVpWWDgtYk9rSXd6N1RERDBqemZuVlNkaDcyLTZ5dk9xVEJzdkxLbm00bjJ2ODNQRkI2b1dObGMzZXNsTHN3RVdXOFpHS3dNSEdHMmdtRDVYeWlwSnQ2eHN5UGxpNWdlV1VXM09UbzJrLWlkS3FUcVlJcFBMRl9qYWF2TFV4aG1TODQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787758169.0
-    },
-    {
-        "id": "5274938ca7",
-        "title_fa": "خیز سرویس‌ناو برای جهش بزرگ در بازار هوش مصنوعی",
-        "title_en": "ServiceNow: A Loaded Rocket On The AI Launch Pad (NYSE:NOW)",
-        "summary": [
-            "تحلیل‌گران وال‌استریت، سرویس‌ناو را یکی از آماده‌ترین شرکت‌ها برای رشد جهشی در زیرساخت‌های ابری و AI می‌دانند.",
-            "یکپارچه‌سازی ابزارهای هوشمند در پلتفرم این شرکت، موقعیت رقابتی آن را میان مشتریان سازمانی تثبیت کرده است."
-        ],
-        "full_text": "ServiceNow: A Loaded Rocket On The AI Launch Pad (NYSE:NOW)  Seeking Alpha",
-        "impact": "افزایش اقبال سرمایه‌گذاران به پلتفرم‌های ابری مبتنی بر هوش مصنوعی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUNRSUtESm9nbm02R0tiYjZkRWVZUTlqODRseFV4VmlVdUh2Vzd5ZzAwbzhiMXZnXzJMYmNYUmdZSXZFTk1wYUhmVlp3aTZwY1VVU01ybHZDcXdnNzVlaWtRYjBCdWQ2VGZDOXpRQUxYamU5dzN4TW1oRmlTbjhrdU9FUVJvVUU4Rnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUNRSUtESm9nbm02R0tiYjZkRWVZUTlqODRseFV4VmlVdUh2Vzd5ZzAwbzhiMXZnXzJMYmNYUmdZSXZFTk1wYUhmVlp3aTZwY1VVU01ybHZDcXdnNzVlaWtRYjBCdWQ2VGZDOXpRQUxYamU5dzN4TW1oRmlTbjhrdU9FUVJvVUU4Rnc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787758082.0
     }
 ]
