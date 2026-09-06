@@ -1,5 +1,53 @@
 [
     {
+        "id": "9defe9e37f",
+        "title_fa": "داستان کارآفرینی که ۴ شرکت ساخت و ثروتش را وقف دانشگاه‌ها کرد",
+        "title_en": "In 1979, Rahul Mehta's parents sold their gold and silver to fund his first semester in America; decades later, he helped establish eight schools across six IITs",
+        "summary": [
+            "راهول مهتا پس از تاسیس و فروش موفق ۴ شرکت تکنولوژی بدون جذب سرمایه‌گذار، بخش اعظم دارایی خود را صرف توسعه آموزش عالی در هند کرد.",
+            "او با تاسیس بنیاد خانوادگی خود، ۸ دانشکده تخصصی در حوزه هوش مصنوعی، بیوتکنولوژی و علوم داده ایجاد کرده است.",
+            "مهتا فلسفه کمک‌های خیریه را اولویت‌دهی به «زمان و مهارت» پیش از سرمایه مالی می‌داند."
+        ],
+        "full_text": "For Rahul Mehta, the answer was not another company, a bigger home or greater wealth. Instead, he chose to invest his time, expertise and resources in something he believed could create a lasting impact: education. Mehta left India for the US at 17, after his parents sold their gold and silver to fund his first semester. He went on to build and sell four technology companies in the US. Years later, he returned to India with a very different ambition — helping strengthen the country's intellectual capital. Through the Bhupat and Jyoti Mehta Family Foundation, named after his parents, he has supported schools and academic programmes at several IITs, with a focus on areas including biotechnology, artificial intelligence, data science, health sciences and sustainability. His parents sold their gold to send him to America Mehta grew up in a lower-middle-class family in Mumbai. His parents had no formal education, while his father was involved in small textile businesses.Those early struggles, however, shaped his relationship with money and work — and eventually influenced the way he approached philanthropy. Four companies, four exits — without venture capital After completing his education, Mehta chose entrepreneurship over a conventional corporate career.He founded his first technology company, which developed an interface between Oracle and SAS. The business grew to around 80 employees, but Mehta deliberately chose to bootstrap it rather than borrow money or raise venture capital. He sold the company in 1996. But the exit did not mark the end of his entrepreneurial journey. Mehta went on to build three more companies, which were eventually acquired by major technology firms including HP, Veritas and Brocade. By 2006, he felt he had reached his financial “enough number”. And that was when his definition of success began to change. “Money is not the answer” Mehta believes there comes a point when accumulating more wealth loses its significance.“At some point, you realise you aren’t going to spend it all,” he said in an interview with YourStory. For him, the more precious resource was time. “What you don’t have in life is time,” he said. That belief became central to his approach to philanthropy. Mehta describes his philosophy through three words: Time, Talent and Treasure — in that order. The idea is simple: philanthropy does not have to begin with a large cheque. Even those without significant wealth can create an impact by contributing their time, knowledge and expertise. Why IITs became central to his education mission Mehta's education journey in India gained momentum after a visit to IIT Madras.A conversation with the institute's leadership eventually contributed to the creation of the Bhupat and Jyoti Mehta School of Biosciences and Bioengineering at IIT Madras, named after his parents. The experience also reinforced a lesson that would become central to his philanthropy: meaningful educational change takes time. Building an academic institution requires recruiting faculty, creating infrastructure, developing curricula and, ultimately, waiting for students to graduate and enter the workforce. For Mehta, that long-term nature of education was not a drawback. It was the attraction. Since then, his foundation has backed academic initiatives at multiple IITs, spanning data science, artificial intelligence, health sciences and sustainability. One of its more recent areas of focus is sustainability education, including a BTech programme at IIT Indore. He was thinking about AI before the AI boom Mehta's education strategy has also focused on anticipating the skills India will need in the future.He had been advocating for greater emphasis on data science and artificial intelligence before they became mainstream. In 2018, he reportedly proposed dedicated schools in these fields, but the idea initially received limited interest. Then generative AI transformed the conversation. The rapid rise of tools such as ChatGPT made the importance of artificial intelligence impossible for universities and students to ignore. But for Mehta, the fundamental question had not changed: What skills will India need a decade from now? The bigger bet: India's intellectual capital Mehta's vision goes beyond individual IIT campuses.He believes nations become economically stronger when they invest in intellectual capital — people equipped with the knowledge and skills to build businesses, develop technologies and solve complex problems. His foundation has set a target of producing 12,000 graduates by 2031, with many expected to come from smaller towns and families without a long history of higher education. The idea is that the impact of education can extend far beyond an individual student. A degree can improve employment opportunities, raise household incomes and potentially change the economic trajectory of an entire family. For a first-generation college student, higher education can therefore represent more than an academic qualification. It can become a turning point for generations. What Mehta's journey says about success Mehta's story ultimately goes beyond entrepreneurship, wealth or philanthropy.For Mehta, the answer changed from building companies to building opportunities. His journey — from a 17-year-old whose parents sold their jewellery to finance his first semester in America, to an entrepreneur who built and sold four companies, and eventually to a philanthropist investing in India's educational institutions — reflects a different way of measuring achievement. Perhaps the most striking part of his story is not simply how much money he has given away. And in education, where the returns on an investment may take years or even decades to emerge, those may be the resources that matter most.",
+        "impact": "تقویت زیرساخت‌های آموزشی هوش مصنوعی و فناوری در دانشگاه‌های برتر هند با مدل سرمایه‌گذاری شخصی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.9,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/in-1979-rahul-mehtas-parents-sold-their-gold-and-silver-to-fund-his-first-semester-in-america-decades-later-he-helped-establish-eight-schools-across-six-iits/articleshow/133824709.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/new-updates/in-1979-rahul-mehtas-parents-sold-their-gold-and-silver-to-fund-his-first-semester-in-america-decades-later-he-helped-establish-eight-schools-across-six-iits/articleshow/133824709.cms",
+        "image": "https://img.etimg.com/thumb/msid-133824822,width-1200,height-630,imgsize-106590,overlay-economictimes/articleshow.jpg",
+        "images": [
+            "https://img.etimg.com/thumb/msid-133824822,width-1200,height-630,imgsize-106590,overlay-economictimes/articleshow.jpg",
+            "https://img.etimg.com/thumb/msid-133824822,width-650,height-488,imgsize-106590,resizemode-75/mehta-rahul-008.jpg",
+            "https://img.etimg.com/photo/118783427.cms",
+            "https://img.etimg.com/photo/123467569.cms"
+        ],
+        "timestamp": 1788667140.0
+    },
+    {
+        "id": "95d2aef505",
+        "title_fa": "دریافت کمک مالی دانشگاه FAMU از بنیاد گلف شهری",
+        "title_en": "FAMU Receives Donation from Urban Golf Foundation",
+        "summary": [
+            "دانشگاه FAMU کمک مالی جدیدی را از سوی بنیاد شهری گلف دریافت کرده است.",
+            "این بودجه صرف توسعه برنامه‌های ورزشی و حمایتی دانشگاه خواهد شد."
+        ],
+        "full_text": "FAMU Receives Donation from Urban Golf Foundation  famuathletics.com",
+        "impact": "تأثیر محدود و محلی بر تقویت برنامه‌های ورزشی این دانشگاه.",
+        "tag": "متفرقه",
+        "urgency": 2,
+        "sentiment": 0.5,
+        "source": "famuathletics.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1NMdlJIQnIydVAyZml3MWhONlRCY3h6LUwxVXJhaGtheEpzTDNuUGlJYVJ6Y1lRUzFURU9MT21EQXJaaWhfSVlnMTlFNFhiMjFJWmtoanFjWHFSUndXbDVEYzJKUExudlFaNVR4emhpdnpGdG5SU1M5TlF6M1hXVHJ1SHlERm85LUtiVjF5ZFdBdmtUUFlFMnllangwM0hvcUNNR0tsQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1NMdlJIQnIydVAyZml3MWhONlRCY3h6LUwxVXJhaGtheEpzTDNuUGlJYVJ6Y1lRUzFURU9MT21EQXJaaWhfSVlnMTlFNFhiMjFJWmtoanFjWHFSUndXbDVEYzJKUExudlFaNVR4emhpdnpGdG5SU1M5TlF6M1hXVHJ1SHlERm85LUtiVjF5ZFdBdmtUUFlFMnllangwM0hvcUNNR0tsQQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788657930.0
+    },
+    {
         "id": "f635447e3b",
         "title_fa": "ورود اپل به بازار دوربین‌های امنیتی خانگی مبتنی بر AI",
         "title_en": "Apple Developing AI-Powered Home Security Camera and Service for Launch in 2027",
@@ -110,6 +158,32 @@
         "timestamp": 1788616800.0
     },
     {
+        "id": "2add6851b9",
+        "title_fa": "قابلیت جدید iOS 27: استفاده هم‌زمان از یک شماره روی دو آیفون",
+        "title_en": "iPhone Handoff will seamlessly share one number between two phones",
+        "summary": [
+            "اپل در iOS 27 از ویژگی جدیدی به نام iPhone Handoff رونمایی می‌کند که امکان همگام‌سازی یک شماره تلفن را روی دو آیفون مجزا فراهم می‌سازد.",
+            "کاربران می‌توانند یک آیفون اصلی و یک آیفون جانبی داشته باشند؛ قابلیتی کاربردی برای کسانی که نمی‌خواهند گوشی تاشو یا گران‌قیمت خود را به همه جا ببرند.",
+            "فعال‌سازی این ویژگی نیازمند پشتیبانی مستقیم اپراتورهای مخابراتی خواهد بود."
+        ],
+        "full_text": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there’s a demo clip showing how to set up the feature running in Xcode 27’s Device Hub. It lets you pair two iPhones, using one as your main device and the other as its “companion.” iPhone Handoff will seamlessly share one number between two phones The feature is expected to launch as part of iOS 27 later this month. The feature is expected to launch as part of iOS 27 later this month. Launching the feature now makes sense with the expected launch of the foldable iPhone Ultra right around the corner. People might not always want to take a chunky and extremely expensive device out with them. So Handoff would let users temporarily switch over to a cheaper, smaller device — like that cracked iPhone 13 you’ve been stubbornly refusing to upgrade. The feature will require carrier support, however. References to T-Mobile US and Telekom.de were found in the code, but support beyond that is unknown.",
+        "impact": "تسهیل استفاده هم‌زمان از چند دستگاه و کاهش ریسک حمل آیفون‌های گران‌قیمت یا تاشو در محیط‌های پرخطر.",
+        "tag": "اپل",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "clean_url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "image": "http://www.bing.com/th?id=ONUT.U9yHpGi7V7L1NPpGxeZLfA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.U9yHpGi7V7L1NPpGxeZLfA&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&strip=all&crop=0%2C10.742788791498%2C100%2C78.514422417005&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/TERRENCE_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788616380.0
+    },
+    {
         "id": "4d5e1c4d4b",
         "title_fa": "تغییر استراتژی زاکربرگ و چشم‌انداز سودآوری جدید متا",
         "title_en": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
@@ -174,6 +248,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788606300.0
+    },
+    {
+        "id": "3d79aacc1e",
+        "title_fa": "جهش در محاسبات کوانتومی با الگوریتم جدید تویوتا و میتسوبیشی",
+        "title_en": "Four extra qubits enough for some quantum simulations",
+        "summary": [
+            "پژوهشگران ژاپنی الگوریتم کوانتومی تصادفی جدیدی ساخته‌اند که شبیه‌سازی سیستم‌های پیچیده فیزیکی را تنها با ۷ کیوبیت ممکن می‌کند.",
+            "این روش جدید نیاز به کیوبیت‌های کمکی متعدد را از بین برده و سرعت محاسبات را به‌طور چشمگیری افزایش می‌دهد.",
+            "دستاورد تازه، مسیر را برای اجرای شبیه‌سازی‌های پیشرفته روی نسل فعلی کامپیوترهای کوانتومی هموار می‌سازد."
+        ],
+        "full_text": "Researchers at Mitsubishi UFJ Financial Group, Inc., alongside colleagues at Keio University and Toyota Motor Corporation, have developed quantum algorithms achieving exponentially accurate open quantum simulations with a surprisingly limited resource requirement. The work details methods for simulating complex physical phenomena using either four plus the base-2 logarithm of a parameter ‘M’, representing the maximum number of Pauli strings in a single jump operator, or seven qubits total, a substantial reduction compared to previous approaches. These new randomized algorithms achieve logarithmically short circuit depth, scaling accuracy without being limited by the parameters of the simulated system, though with specific conditions for parameter independence as detailed in Theorems 2 and 3. This contribution promises to make open quantum system simulations more feasible on early fault-tolerant quantum computing devices. Randomized Dissipation for Accurate Open Quantum Simulation Open quantum system simulations can now be achieved with a remarkably small increase in qubit count; specifically, four plus the base-2 logarithm of a parameter ‘M’, representing the maximum number of Pauli strings in a single jump operator, or seven qubits total are needed. The team’s approach minimizes gate counts while preserving a circuit depth that scales logarithmically with desired accuracy, an improvement over previous methods where computational time scaled as O(T^2/ε). These algorithms address a longstanding challenge in simulating open quantum systems, where accurately representing the loss of quantum coherence, known as dissipation, typically demands a substantial number of ancillary qubits. Previous methods often prioritized efficient circuit depth, demanding a larger number of ancilla qubits for comparable accuracy, hindering progress toward simulations of complex physical phenomena. This is accomplished through a novel random circuit compilation method that uses dissipative processes with a single jump operator. The researchers further refined their approach by concatenating random compilation with an alternative encoding of jump operators, effectively removing dependence on some parameters specifying the Lindbladian. Instead of directly encoding these operators, they utilized randomized Hamiltonian simulation, treating the real and imaginary parts as Hamiltonians. This technique achieves high accuracy due to the inherent randomness, and when combined with quantum singular value transformation, further optimizes the circuit complexity. “We can concatenate this alternative encoding and the random compilation of Lindblad dynamics,” the paper explains, detailing how this process minimizes the remaining parameters influencing the simulation. Notably, the team draws a connection between their algorithm and the stochastic Schrödinger equation (SSE), a widely used method for simulating open quantum systems. While both approaches employ stochastic applications of unitary and jump operations, the new method’s dissipative process differs from SSE as it relies on a composition of minimal dissipation and potentially non-physical superoperators. This distinction highlights a unique characteristic of the randomized dissipation technique, offering a potentially advantageous pathway for future quantum simulations and contributing to the feasibility of open quantum system simulations on early fault-tolerant quantum computing devices. Lindblad Dynamics and Open Quantum System Analysis The work demonstrates that these algorithms can achieve a desired accuracy with minimal ancilla qubits, 4 + ⌈ log_2M⌉ in the first case and 7 in the other, offering flexibility in modeling complex scenarios. The researchers numerically confirmed the practical advantages of their method through detailed analysis of gate and ancilla counts, revealing a clear benefit over existing approaches. This analysis indicates a potential for significant speedups and resource savings in simulating complex quantum phenomena, such as those found in many-body quantum systems and reservoir engineering. “We presented a randomized quantum algorithm for estimating the physical properties of the general Lindblad dynamics,” the paper states, highlighting the algorithm’s exponentially short circuit depth and near-constant ancilla qubit requirements. Further investigation will focus on improving the gate complexity and potentially achieving even higher-order scaling while maintaining minimal ancilla usage, though constructing such efficient higher-order schemes for Lindblad dynamics presents a conceptual hurdle, unlike the established product formula used in unitary dynamics. Logarithmic Scaling of Accuracy in Quantum Simulation This represents a departure from approaches demanding a large number of ancilla qubits to coherently encode all possible jump operators, a hurdle for scaling simulations. These algorithms achieve a circuit depth that scales logarithmically with desired accuracy, and either partial or complete independence from the parameters specifying the Lindbladian. While recent randomization techniques for simulating Lindblad dynamics share some characteristics, they have not yet achieved this logarithmic gate complexity concerning accuracy, or ‘ε’. The work details a decomposition of the dissipative process using a single jump operator, enabling simulation of the resulting superoperators with quantum circuits. This approach uses a transfer matrix representation of superoperators, building on Taylor expansion of the dynamical map, and allows for a more efficient use of quantum resources. Numerical analysis confirms the improvements in practical parameter regions, demonstrating the impact of reducing both gate and ancilla counts. The algorithms rely on a process of repeated applications, achieving a 1 + O(t/r) scaling, where ‘r’ represents the number of repetitions, providing an upper bound on simulation error. Although the remaining dependence on ",
+        "impact": "کاهش هزینه و سخت‌افزار مورد نیاز برای شبیه‌سازی‌های پیچیده کوانتومی در صنایع خودروسازی و مالی.",
+        "tag": "کوانتوم",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "quantumzeitgeist",
+        "url": "https://quantumzeitgeist.com/lindblad-dynamics-quantum-simulations-four-extra/",
+        "clean_url": "https://quantumzeitgeist.com/lindblad-dynamics-quantum-simulations-four-extra",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/four-extra-qubits-enough-quantum-simulations-1200x630.jpg",
+        "images": [
+            "https://quantumzeitgeist.com/wp-content/uploads/four-extra-qubits-enough-quantum-simulations-1200x630.jpg",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/cropped-cropped-QuantumZ_2-1-5.png.webp",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/four-extra-qubits-enough-quantum-simulations.jpg.webp",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/nvidia-speeds-up-financial-clustering-gpu-150x150.jpg.webp"
+        ],
+        "timestamp": 1788606120.0
     },
     {
         "id": "6ffce125dc",
@@ -6862,102 +6962,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787735160.0
-    },
-    {
-        "id": "23859d590c",
-        "title_fa": "جهش ۱۳.۳ میلیارد دلاری استارتاپ سوئدی Lovable و رونق اکوسیستم نوردیک",
-        "title_en": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-        "summary": [
-            "استارتاپ برنامه نویسی هوشمند Lovable با جذب ۴۰۰ میلیون دلار سرمایه جدید، ارزش خود را در ۸ ماه دو برابر کرد.",
-            "رشد سریع شرکت‌هایی مثل Legora و Neko Health نشان‌دهنده جریان سنگین سرمایه‌گذاری آمریکایی‌ها در استارتاپ‌های سوئدی است.",
-            "حمایت‌های اجتماعی قوی در کشورهای نوردیک، ریسک‌پذیری بنیان‌گذاران فناوری را به شدت افزایش داده است."
-        ],
-        "full_text": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it. On this episode of TechCrunch’s Equity podcast, Dominic-Madori Davis is joined by Sophia Bendz, a partner at Cherry Ventures and longtime fixture of Europe’s startup scene, to unpack what’s driving startup growth in the Nordic ecosystem, from Sweden’s social safety net to the wave of U.S. capital flowing in. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify, and all the casts. You can also follow Equity on X and Threads at @EquityPod.",
-        "impact": "تبدیل شدن سوئد به یکی از قطب‌های اصلی توسعه ابزارهای کدنویسی و فناوری‌های پیشرفته در اروپا.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-        "clean_url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora",
-        "image": "http://www.bing.com/th?id=ONUT.w2YJ3clRR0gug-B2EPkxAg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.w2YJ3clRR0gug-B2EPkxAg&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2022/08/TheresaL-Profile-pic.jpg?w=150",
-            "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=668"
-        ],
-        "timestamp": 1787734800.0
-    },
-    {
-        "id": "ecce016a94",
-        "title_fa": "مدل مخفیانه Ox Alpha؛ رقیب تازه دیپ‌سیک از دل چین",
-        "title_en": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
-        "summary": [
-            "استارتاپ چینی Z.AI بدون سر و صدا از مدل هوش مصنوعی Ox Alpha رونمایی کرد.",
-            "این مدل قدرتمند مستقیماً بنچمارک‌ها و عملکرد مدعی قدرتمند چین یعنی دیپ‌سیک (DeepSeek) را هدف گرفته است."
-        ],
-        "full_text": "China’s Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek  Bloomberg.com",
-        "impact": "داغ‌تر شدن جنگ مدل‌های هوش مصنوعی بومی در چین و فشار بیشتر بر رقبای غربی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.5,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFAzZElBMXB2bzloV0FDMnV0ZGE3QjBKb1RTT3JMWVNZTEJaUzdoY0dFM2lGWFRoejJWMUhWcS1kSHpSbG5YVjh5VElENTVOZW82ODQ3SW1heHc2cUhOVHBxOFJTd0JLaXFnT3kyRXVjUmlJSWhDWEhnREZSdWxydHB1MjdFQXJEQXlEQVFhZ1dobWtNVkEzT3c5VDJaanoxbkduWHRFTGd4bzBQa0dNdmd3",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787734800.0
-    },
-    {
-        "id": "32354d9322",
-        "title_fa": "سرمایه‌گذاری ۷۶ میلیون دلاری غول‌های سرگرمی در Stability AI",
-        "title_en": "Stability AI Raises $76 Million Series B Backed by Universal, Sony, Warner, and Electronic Arts: how 10 outlets framed it",
-        "summary": [
-            "شرکت Stability AI موفق شد ۷۶ میلیون دلار سرمایه جدید از سونی، یونیورسال، وارنر و الکترونیک آرتز جذب کند.",
-            "ورود رسمی کمپانی‌های بزرگ موسیقی و بازی نشان می‌دهد غول‌های دنیای رسانه به جای شکایت قانونی، به سمت مشارکت اقتصادی با هوش مصنوعی حرکت کرده‌اند.",
-            "این تامین مالی موقعیت متزلزل Stability AI را تثبیت کرده و راه را برای مدلسازی قانونی محتوا هموار می‌سازد."
-        ],
-        "full_text": "Stability AI Raises $76 Million Series B Backed by Universal, Sony, Warner, and Electronic Arts: how 10 outlets framed it  NewsCord",
-        "impact": "تغییر موضع صنف موسیقی و بازی از تقابل قضایی به سمت تجاری‌سازی مشترک مدل‌های مولد.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWWNLU1hISzA4RUFraEhsb0x2cEk5VWdMWnF5d0h0VG9EcGI3ZV9HVDlKY2Jvd3lQYWFQTV9ValkzS1M0V0JHd1YwZGVKT0ZBTDZuSDkzS29hM3ZKT3NramxUeVNrLWxSTnp5Y0Y3eU1mRWRiSUJrZHlDNHc1R0tySlFkckd5azU1VWRrTGJTMWYydGEtcU85SUZVb3B2UndWVng0a05yd3pWc3FzU3lJYmtNNzJSRk9CTWpKb05kbUdKLVNtWER4cUZja0ZuY1RKRXltWE10OFVOZmpNQlloazFoNUlXT2FuTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWWNLU1hISzA4RUFraEhsb0x2cEk5VWdMWnF5d0h0VG9EcGI3ZV9HVDlKY2Jvd3lQYWFQTV9ValkzS1M0V0JHd1YwZGVKT0ZBTDZuSDkzS29hM3ZKT3NramxUeVNrLWxSTnp5Y0Y3eU1mRWRiSUJrZHlDNHc1R0tySlFkckd5azU1VWRrTGJTMWYydGEtcU85SUZVb3B2UndWVng0a05yd3pWc3FzU3lJYmtNNzJSRk9CTWpKb05kbUdKLVNtWER4cUZja0ZuY1RKRXltWE10OFVOZmpNQlloazFoNUlXT2FuTGc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787729156.0
-    },
-    {
-        "id": "e038dccfb7",
-        "title_fa": "جذب سرمایه ۱۰ میلیون دلاری استارتاپ سلامت Superhealth",
-        "title_en": "Healthcare startup Superhealth in talks to raise $10 million from UpGrad's Ronnie Screwvala",
-        "summary": [
-            "استارتاپ هندی Superhealth در حال نهایی‌سازی سرمایه ۱۰ میلیون دلاری با ارزشیابی ۱۰۰ میلیون دلار است.",
-            "بیمارستان‌های این برند توسط سیستم‌عامل هوش مصنوعی اختصاصی SuperOS و ایجنت‌های خودمختار اداره می‌شوند.",
-            "هم‌زمان با روند جذب سرمایه، برگزاری حواشی مانند اجرای موسیقی زنده در بیمارستان انتقادهای زیادی را علیه مدیریت آن برانگیخته است."
-        ],
-        "full_text": "Superhealth, a Bengaluru-based healthcare provider, is in advanced stages of raising around $10 million in fresh funding from veteran entrepreneur and investor Ronnie Screwvala, people familiar with the matter told Moneycontrol. Other investors are also likely to participate in the round that is expected to value the startup at $100 million, up from $30 million in 2025, sources said. The investment comes as Superhealth prepares to expand its hospital network. This will be the startup’s fourth round of capital infusion since being founded in 2024 after funding rounds in December 2024, May 2025, and August 2025, as per Tracxn, a private markets data provider. Superhealth counts former India cricket captain Mahendra Singh Dhoni among its backers along with venture capital firm Sparrow Capital, Boundless Ventures, Panthera Peak and other angel investors. This development comes amid significant backlash the startup is facing over a late-night ‘live music night’ it organised on the non-clinical floors of its hospital premises on August 22. In the past few days, users have questioned the appropriateness of the event, with some calling the move “tone-deaf” and “insensitive”. Superhealth founder and CEO Varun Dubey defended the event, saying the idea was to make hospitals a place “that doesn't scare people”. Dubey, a former Chief Revenue Officer at Apollo Hospitals and Chief Marketing Officer at Ola Electric and Practo, founded Superhealth in 2024. The startup also counts former Practo chief strategy officer Alexander Kuruvilla, and Practo founding member Manoj Kumar as co-founders. Superhealth opened its first hospital in Bengaluru's Koramangala in September 2025. The company offers fixed-price medical procedures across its Superbirth, Superskin, Supersmile, and Supersurgery programmes, and says it operates on a zero-commission clinical model. The hospital is powered by SuperOS, an in-house agentic AI operating system designed to manage the day-to-day clinical and operational workflows across a range of processes, including outpatient consultations, inpatient care, diagnostics, surgery scheduling, pharmacy, and discharge processes. It also offers an annual Rs 3,999 subscription covering up to four family members and offering unlimited consultations and diagnostic services. Last week, Superhealth hired Dunzo co-founder Dalvir Singh Suri as its Head of Operations. Moneycontrol has reached out to Superhealth and Ronnie Screwvala for comments and will update the copy once we hear back. Screwvala’s growing startup portfolio For Screwvala, the investment adds a healthcare bet to a portfolio spanning consumer, artificial intelligence (AI), edtech, deeptech, spacetech, and other sectors. In November, Moneycontrol reported that Screwvala had carved out a $50 million personal corpus to back early-stage startups in AI, deeptech and spacetech. He said he expected to back around 15 startups over the following 12–15 months, with cheque sizes of $1 million to $3 million. His investments include Digantara, SpeakX, ZuAI, CuePilot AI, Round1 (Grapevine) and TrueFan. Screwvala, an early investor in eyewear retailer Lenskart, also recently invested Rs 300 crore in his edtech venture upGrad as part of a Rs 360 crore internal funding round. The fundraise came ahead of the proposed acquisition of Unacademy and as upGrad expands its investments across test preparation, study abroad, AI, and enterprise skilling. Find the best of Al News in one place, specially curated for you every weekend. Stay on top of the latest tech trends and biggest startup news.",
-        "impact": "نفوذ ایجنت‌های هوش مصنوعی به فرایندهای واقعی درمان و اداره بیمارستان‌ها.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/news/business/funding/healthcare-startup-superhealth-in-talks-to-raise-10-million-from-upgrad-s-ronnie-screwvala-14015796.html",
-        "clean_url": "https://www.moneycontrol.com/news/business/funding/healthcare-startup-superhealth-in-talks-to-raise-10-million-from-upgrad-s-ronnie-screwvala-14015796.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg",
-        "images": [
-            "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg",
-            "https://sb.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1",
-            "https://images.moneycontrol.com/static-mcnews/2026/08/20260826065009_Varun-Dubey.jpg?impolicy=website&width=770&height=431",
-            "https://images.moneycontrol.com/mcnews/images/tech3/tech3_articles.png"
-        ],
-        "timestamp": 1787728860.0
     }
 ]
