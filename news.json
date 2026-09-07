@@ -1,5 +1,47 @@
 [
     {
+        "id": "26934214c1",
+        "title_fa": "پایان ساخت دستی پرزنتیشن با ورود پلتفرم‌های ایجنت محور AI",
+        "title_en": "New agentic AI platform sounds death knell for manual presentation tools",
+        "summary": [
+            "نسل جدید پلتفرم‌های مبتنی بر ایجنت‌های هوش مصنوعی، فرایند طراحی اسلاید و ساخت پرزنتیشن را کاملاً خودکار کرده‌اند."
+        ],
+        "full_text": "New agentic AI platform sounds death knell for manual presentation tools  Yahoo Finance Singapore",
+        "impact": "حذف ابزارهای سنتی ساخت اسلاید و صرفه‌جویی صدها ساعتی در زمان شرکت‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJiZTl6eWp2QS04YlJ5b0RBUFAwZzl0VTRDcldINUtkVnNETlBOSXZQaGxpLXFqaDJ2WV9pbnE1RlN4M25rMHFKZFhFcEgwT1hoT0ZBWjlhM1lTM3FMRFlrdkFRVWJ1Z0tFR1dJZmJpSFM5WHNNMm5UYnhOcmpKdi12b1ZsbkF6?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJiZTl6eWp2QS04YlJ5b0RBUFAwZzl0VTRDcldINUtkVnNETlBOSXZQaGxpLXFqaDJ2WV9pbnE1RlN4M25rMHFKZFhFcEgwT1hoT0ZBWjlhM1lTM3FMRFlrdkFRVWJ1Z0tFR1dJZmJpSFM5WHNNMm5UYnhOcmpKdi12b1ZsbkF6",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788814800.0
+    },
+    {
+        "id": "2efc43b65c",
+        "title_fa": "هشدار دانشمند ارشد OpenAI: هیچ‌کس برای ظهور AGI آماده نیست",
+        "title_en": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning",
+        "summary": [
+            "دانشمند ارشد OpenAI نسبت به سرعت خیره‌کننده پیشرفت مدل‌های هوش مصنوعی هشدار داد و گفت قوانین و جوامع فعلی آمادگی این جهش را ندارند."
+        ],
+        "full_text": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning  SMH.com.au",
+        "impact": "افزایش فشارهای سیاسی و حقوقی بر دولت‌ها برای تصویب سریع‌تر قوانین نظارتی سخت‌گیرانه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "SMH.com.au",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3RiRnp5ZDBKeENGMDdlMUNIVjVxNmVSOGZ4NnoxZy1zVzFQS2E0V2RZQkFwVGN4U0dINndLR0xXb2VmUVM2cUthVmZKUWtqMF9RRzZaeXhDQkozb3V5T3d1WGd0a3J1UEpRSElpOVNRZ3Rzb2xreTl0NHBJbUwxOGVJY0Q2OGpFbGNtT0VtenVJOHJYUmxrVTlia3dmOTg1Q2V3bHRZeHBYcjAxVUE1RndTdHlDdjdzZGQxSzlkaGI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3RiRnp5ZDBKeENGMDdlMUNIVjVxNmVSOGZ4NnoxZy1zVzFQS2E0V2RZQkFwVGN4U0dINndLR0xXb2VmUVM2cUthVmZKUWtqMF9RRzZaeXhDQkozb3V5T3d1WGd0a3J1UEpRSElpOVNRZ3Rzb2xreTl0NHBJbUwxOGVJY0Q2OGpFbGNtT0VtenVJOHJYUmxrVTlia3dmOTg1Q2V3bHRZeHBYcjAxVUE1RndTdHlDdjdzZGQxSzlkaGI",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788812687.0
+    },
+    {
         "id": "11a6a54c61",
         "title_fa": "رونمایی از گوشی سه‌تکه هواوی Mate XT 2 با تراشه کرین",
         "title_en": "Huawei Mate XT 2 Ultimate Tri-Fold Smartphone Launched with Kirin 9050 Pro SoC, HarmonyOS 7, 5600mAh Battery",
@@ -47,6 +89,28 @@
         "timestamp": 1788810065.0
     },
     {
+        "id": "6ccc79fbed",
+        "title_fa": "جذب ۱۰۰ میلیون دلار سرمایه برای دیتاسنتر فضایی AI استارتاپ Pixxel",
+        "title_en": "Pixxel raises India's record $100M space round to fund orbital AI data centers",
+        "summary": [
+            "استارتاپ فضایی Pixxel در دور سری C موفق به جذب ۱۰۰ میلیون دلار سرمایه شد تا ماهواره‌های مجهز به تراشه‌های انویدیا Blackwell را پرتاب کند.",
+            "این ماهواره‌ها پردازش‌های سنگین هوش مصنوعی را مستقیم در مدار زمین انجام می‌دهند تا نیاز به انتقال داده به زمین کاهش یابد."
+        ],
+        "full_text": "Pixxel hyperspectral satellite startup closes India's record $100M Series C, co-led by Temasek and Seraphim, valuing the company at $400M. The Bengaluru firm's orbital data center satellite Pathfinder will carry Nvidia Blackwell-class GPUs to process AI workloads in space,",
+        "impact": "کلید خوردن عصر پردازش ابری هوش مصنوعی در مدار زمین و کاهش فشار روی دیتاسنترهای زمینی.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/news/other/pixxel-raises-indias-record-100m-space-round-to-fund-orbital-ai-data-centers/ar-AA2bKsl4",
+        "clean_url": "https://www.msn.com/en-us/news/other/pixxel-raises-indias-record-100m-space-round-to-fund-orbital-ai-data-centers/ar-AA2bKsl4",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bKRT3.img?w=768&h=512&m=6",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bKRT3.img?w=768&h=512&m=6"
+        ],
+        "timestamp": 1788807950.0
+    },
+    {
         "id": "089f49741e",
         "title_fa": "رونمایی از پلتفرم هوش مصنوعی Opti-Mystic.ai در لجستیک",
         "title_en": "Shipping Experts Launch Opti-Mystic.ai",
@@ -68,6 +132,56 @@
         "timestamp": 1788807525.0
     },
     {
+        "id": "983051d37b",
+        "title_fa": "کاهش ۱۰۰ برابری مصرف انرژی دیتاسنترهای AI با پالس‌های مغناطیسی",
+        "title_en": "Scientists say ‘ultrafast magnetic-field pulses’ could help AI data centers cut ...",
+        "summary": [
+            "محققان دانشگاه ادینبرو روش جدیدی کشف کرده‌اند که با استفاده از پالس‌های فوق‌سریع میدان مغناطیسی، حالت حافظه RAM را تغییر می‌دهد.",
+            "این تکنیک مصرف برق حافظه‌ها در دیتاسنترهای سنگین هوش مصنوعی را تا ۱۰۰ برابر کاهش می‌دهد و بحران انرژی AI را مهار می‌کند."
+        ],
+        "full_text": "When you buy through links on our articles, Future and its syndication partners may earn a commission. AI data centers currently use a huge amount of energy Scientists have found a way to cut that energy bill by \"orders of magnitude\" It involves using \"ultrafast magnetic-field pulses\" in RAM and storage It's no secret that the current artificial intelligence (AI) boom is leading to record levels of energy consumption — all that computing power needs to be fueled somehow — and it's causing much controversy among the communities that are impacted whenever a new data center lays down its roots in their neighborhoods. Now, though, scientists think they've come across a way that could radically slash the energy requirements of memory and storage, with potentially massive consequences for the future of the computing and AI industries. In a paper published in the Advanced Materials journal (via a press release in Science Daily), researchers at the University of Edinburgh in Scotland wrote that the breakthrough would fundamentally affect the way magnetic memory operates. Right now, switching its state allows magnetic memory to control digital information, but the current methods of doing so can be costly in terms of energy. Instead of using standard energy switching techniques, the researchers discovered an alternative that harnessed ultrafast magnetic field pulses that consumed far less energy. In fact, the paper claimed that the authors' approach could cut energy usage by \"up to two orders of magnitude\" — in other words, a cut of around 100x, which is a significant reduction. The data centers of the future The AI revolution is only a few years old, but data center energy consumption has already become a significant issue. As the authors of the research paper put it, \"Without significant improvements in efficiency, [information and communication technologies] could eventually represent a sizable share of worldwide electricity consumption and carbon emissions.\" AI is playing a large role in that trend thanks to both its voracious appetite for component production and the sizable emissions it produces. While the paper focused on magnetic memory, its theories could be applied to other fields, the authors believe. As study writer Dr. Elton J.G. Santos put it, \"The same framework can be adapted to electrical currents and even ultrafast laser pulses, which are among the most cutting-edge technologies for future data storage. That means the ideas developed here could have applications far beyond the systems we studied.\" Although the research is still in the realm of theory, the paper's authors proposed a number of practical steps that could help others build prototypes and conduct experiments. That said, don't expect monumental changes any time soon. There is still a long road ahead before these ideas get put into practice, if they ever do. But given the promising results of the scientists' work, there is hope that the data centers of the future could be far less energy-intensive than those of today.",
+        "impact": "کاهش چشمگیر هزینه‌های عملیاتی دیتاسنترها و خنثی‌سازی اثرات زیست‌محیطی پردازش هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.9,
+        "source": "TechRadar",
+        "url": "https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html",
+        "clean_url": "https://tech.yahoo.com/science/articles/scientists-ultrafast-magnetic-field-pulses-190000925.html",
+        "image": "https://media.zenfs.com/en/techradar_949/fc76d9eff8feb65b4f6ef4c490cd3725.jpg",
+        "images": [
+            "https://media.zenfs.com/en/techradar_949/fc76d9eff8feb65b4f6ef4c490cd3725.jpg",
+            "https://s.yimg.com/lo/mysterio/api/2f43bb3b198328b368df0d561fa99def5f40f2a8cb6ecb699a998dd57b8c0647/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Ffc76d9eff8feb65b4f6ef4c490cd3725.jpg",
+            "https://s.yimg.com/lo/mysterio/api/7cff9e1bd3ae7833cd77f4ab1ee1c2af1791aedff45a23fe2ce1152527502281/lightyear_networkapi/resizefill_h80%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-08%2F6b86add0-2959-11ed-bdbf-bfb343e5af5f",
+            "https://s.yimg.com/lo/mysterio/api/d3d11f72637ad6cf2ed15b606abc014ff30cce0773547a9fef2d3576810f3286/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Ffc76d9eff8feb65b4f6ef4c490cd3725.jpg"
+        ],
+        "timestamp": 1788806431.0
+    },
+    {
+        "id": "1d5b02c61d",
+        "title_fa": "اکران مخفیانه مستند جنجالی الیزابت هولمز و کلاهبرداری ترانوس",
+        "title_en": "A secret new Elizabeth Holmes documentary stuns Telluride",
+        "summary": [
+            "جشنواره تلوراید مستند جدیدی درباره ۳۴ روز پایانی آزادی الیزابت هولمز پیش از ورود به زندان ۱۱ ساله را به‌طور کاملاً محرمانه اکران کرد.",
+            "این فیلم توسط کمپانی A24 در ماه اکتبر عرضه می‌شود و دسترسی بی‌سابقه‌ای به زندگی خصوصی بنیان‌گذار ترانوس داشته است."
+        ],
+        "full_text": "Telluride just managed one of its best-kept secrets in years, per The Hollywood Reporter. On Sunday night, festivalgoers filed into a 650-seat theater with their phones locked away, having no idea what they were about to see, told only that it ran nearly three hours, hadn’t been shown anywhere, and that its principal creators would be in the audience. The surprise premiere they went on to enjoy is a new documentary from co-directors Nathan Fielder and Lance Oppenheim about Theranos founder Elizabeth Holmes. Called “You Can See Everything,” the film is said to capture Holmes and her husband, Billy Evans, in the 34 days before she reported to federal prison in May 2023 to begin an 11-year sentence for defrauding investors about her blood-testing technology. Since then, her legal fight has limped along without success. Her appeals to overturn the conviction and shorten her sentence were rejected in February of last year. She then went a different route last year, asking President Trump to commute her sentence. That clemency petition is still listed as pending, meaning it’s officially been opened and remains under review. Fielder apparently lived in the couple’s guest house during filming — the access they provided sounds shocking — but some of the buzz also ties to an A-list actress who becomes part of the story itself. A24 is set to release the film in October. You can check out the trailer below.",
+        "impact": "بازخوانی یکی از بزرگ‌ترین پرونده‌های کلاهبرداری تاریخ سیلیکون‌ولی در قالب مستندی پرسرصدا.",
+        "tag": "سرگرمی و فناوری",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+        "clean_url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838",
+            "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/01/Connie-Loizos-1.jpg?w=668",
+            "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?w=563"
+        ],
+        "timestamp": 1788804120.0
+    },
+    {
         "id": "d03969da75",
         "title_fa": "برگزاری همایش هوش مصنوعی توسط انجمن تاریخی D&H Canal",
         "title_en": "D&H Canal Historical Society in High Falls will host AI symposium",
@@ -87,6 +201,53 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788801304.0
+    },
+    {
+        "id": "a4110c4ac8",
+        "title_fa": "رونمایی احتمالی آیفون تاشو با قیمت ۲۰۰۰ دلاری در رویداد آیفون ۱۸",
+        "title_en": "What we expect from the upcoming Apple launch",
+        "summary": [
+            "اپل قصد دارد بالاخره وارد بازار گوشی‌های تاشو شود؛ مدلی موسوم به «آیفون اولترا» که قیمتی بالای ۲۰۰۰ دلار خواهد داشت.",
+            "این دستگاه در حالت بازشده نمایشگر ۷.۸ اینچی ارائه می‌دهد و برای کاهش ضخامت، حسگر Face ID جای خود را به Touch ID روی کلید جانبی داده است.",
+            "حذف لنز تله‌فوتو و استفاده از دوربین دوگانه، از جمله تغییرات اجباری اپل برای حفظ ظرافت بدنه این آیفون گران‌قیمت است."
+        ],
+        "full_text": "It’s finally happening — this week, we are (probably) about to see Apple’s first foldable iPhone, more than five years after Samsung launched its first foldable phone. Apple’s annual iPhone release events are always interesting in one way or another, but this year’s presentation is one of the most anticipated in a while. As Tim Cook hands off the CEO role to former Vice President of Hardware Engineering John Ternus, people have high expectations for Apple’s next devices, especially since the company is embracing an entirely new form factor. While Apple is usually tight-lipped about its product launches, there are always inevitable leaks, giving us insight into what we might see during the September 9 Apple event. While the foldable iPhone is most exciting, we’re also anticipating news about AirPods, HomePods, and the non-foldable iPhone 18 line. What we think we know so far about the foldable “iPhone Ultra” If Apple has made its consumers wait over half a decade for it to enter the foldable market, its first attempt had better be good — especially since reports indicate that the phone will cost more than $2,000. At least it’s not as pricey as the $3,500 Apple Vision Pro headset, and unlike headsets, people actually buy smartphones. The good news is that people who claim to be early testers of the device have reported back positive experiences. According to Bloomberg’s Apple insider Mark Gurman, the foldable iPhone has a premium feel, fits nicely into a pocket, and opens up into a wide, iPad-like display. The phone is expected to sport a 5.5″ cover display, which expands to 7.8″ when the screen is unfolded. When folded in, the device will look shorter and wider than a typical iPhone. To make hardware that’s still sleek enough to pocket when folded, Apple has had to make some concessions. The device reportedly skips the telephoto camera, which could be disappointing to the kind of consumers who are willing to open their pockets for a phone that’s expensive enough to feed a family for months. However, the phone is expected to have a dual-lens rear camera system with a main and an ultra-wide lens, similar to what’s on Apple’s more basic iPhones. Rumor has it that Apple will include MagSafe, the magnetic wireless charging and accessory system, but that it will forego Face ID to save space, relying instead on a Touch ID fingerprint button on the phone’s side. This shouldn’t be a huge concession — touching a button is about as easy as looking at a screen — but it might take some getting used to if you’ve become accustomed to Face ID. Like other foldable phones, the iPhone Ultra is expected to support side-by-side multitasking, letting you run two apps at once, one on each half of the unfolded screen. Even though it’ll resemble a small iPad when opened up, it will still run iOS rather than iPadOS, though shouldn’t be cause for concern, since Apple’s newest chips are powerful enough to handle it. In fact, the same chip reportedly powers Apple’s budget MacBook Neo laptop. A pain point for foldable phone users thus far has been the dreaded “crease.” With other companies’ foldable phones, you can see the evidence when you open the phone that this isn’t your standard display. It’s a hard problem to solve and one that maybe isn’t worth the technical effort, though Apple has supposedly created a display where the crease isn’t as visible. Don’t worry, you can still get a new iPhone that doesn’t fold If foldables aren’t your thing — or if you don’t want to spend double the price on your next phone — don’t worry. Apple is also expected to release some new devices in the iPhone 18 line. We’ve heard leaks about the iPhone 18 Pro and Pro Max, but not much yet about the standard iPhone 18, which is predicted to arrive six months after the September event. That would be a first for Apple — releasing the premium models before the standard one. Siri HomePods? AirPods with cameras? Now that Apple is finally moving forward with its Gemini-powered Siri AI update, the company is also expected to refresh the HomePod, a smart speaker and Apple’s answer to devices like the Amazon Echo line. References to unreleased products, including new HomePods, were recently spotted by users digging through a macOS preview build. The most surprising find, however, is that Apple appears to be working on AirPods with built-in cameras. In that same macOS preview, researcher Aaron Perris found a video showing someone wearing the AirPods and picking up a book. “With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,” a voiceover in the video says. While some users may be skittish about using a device that can see what they see — comparisons to Meta’s maligned “pervert glasses” are inevitable — we have some degree of hope that a company like Apple, which has built its brand on privacy, will do better. Gurman has reported that “the cameras essentially act as eyes for the Siri digital assistant and aren’t designed to take photos or video.” Instead, the earbuds’ components allow it to “capture visual information in low resolution.”",
+        "impact": "ورود رسمی اپل به بازار گوشی‌های تاشو، رقابت با سامسونگ را وارد داغ‌ترین مرحله ممکن می‌کند.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+        "clean_url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/05/AS-headshot-2026-5-e1784563584242.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1788796680.0
+    },
+    {
+        "id": "872658e5ba",
+        "title_fa": "جذب ۵۷۵ میلیون یورو سرمایه برای توسعه استارتاپ‌های اروپایی",
+        "title_en": "Claret Capital Partners Raises €575M for European Growth",
+        "summary": [
+            "صندوق Claret Capital با جمع‌آوری ۵۷۵ میلیون یورو اعتبار، وام‌های رشد جدیدی به شرکت‌های حوزه تکنولوژی و علوم زیستی اروپا ارائه می‌دهد."
+        ],
+        "full_text": "Claret Capital Partners raises €575M to expand growth debt financing for European technology, life sciences and impact companies.",
+        "impact": "تزریق نقدینگی تازه به اکوسیستم استارتاپی اروپا برای جبران کاهش سرمایه‌گذاری‌های ریسک‌پذیر.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Ventureburn",
+        "url": "https://ventureburn.com/claret-capital-partners-raises-575m-growth-fund/",
+        "clean_url": "https://ventureburn.com/claret-capital-partners-raises-575m-growth-fund",
+        "image": "https://ventureburn.com/wp-content/uploads/2026/09/Claret.png",
+        "images": [
+            "https://ventureburn.com/wp-content/uploads/2026/09/Claret.png"
+        ],
+        "timestamp": 1788787620.0
     },
     {
         "id": "8ce8d7a33c",
@@ -111,6 +272,29 @@
         "timestamp": 1788787500.0
     },
     {
+        "id": "9a255e617d",
+        "title_fa": "پیش‌بینی جایگزینی کامل اپلیکیشن‌ها با ایجنت‌های AI تا سال ۲۰۲۷",
+        "title_en": "Startup news and updates: Daily roundup (September 7, 2026)",
+        "summary": [
+            "بنیان‌گذار پیت‌ام (Paytm) اعلام کرد ایجنت‌های هوشمند مستقل با دسترسی به سیستم‌عامل، طی ۳ سال آینده جایگزین اپلیکیشن‌های سنتی موبایل خواهند شد.",
+            "در همین حال، موج سرمایه‌گذاری‌های سنگین روی استارتاپ‌های هوش مصنوعی صوتی و سلامت هندی شدت گرفته است."
+        ],
+        "full_text": "From Pixxel’s $100 million Series C to Nua’s $50 million round, and Paytm’s Vijay Shekhar Sharma predicting AI agents will replace apps by 2027, YourStory brings you today's headlines and the latest news across sectors. Spacetech startup Pixxel raised $100 million in a Series C led by Temasek and Seraphim, taking total funding to $195 million. The company said it will expand its Honeybee constellation and high resolution optical satellites, build the Aurora software platform and scale production through its Gigapixxel facility. Women’s wellness brand Nua raised $50 million in a Series C led by Peak XV and Filter Capital, with participation from Mirabilis Investment Trust and Footpath Ventures. The round includes primary and secondaries, and Nua said it will invest in brand building, distribution expansion and R&D. Paytm founder Vijay Shekhar Sharma predicted that autonomous AI agents will replace smartphone apps by 2027. In a post on X, he said OS level access will let personal agents execute multi step tasks and forecast 2026 would cement machines’ lead in code generation. Navana.ai, a sovereign voice AI company serving regulated enterprises, has raised Rs 40 crore in a Series A funding round led by entrepreneur and investor Ronnie Screwvala. The round also saw participation from Sharad Sanghi, Antler India, Sandeep Singhal and Paula Mariwala. The Bengaluru-based company will use the fresh capital to scale its deployments across the BFSI sector, expand its speech models for Indian languages and dialects, and accelerate product development for its AI Contact Centre and automated evaluation platform. Pet food brand Lickicious has raised Rs 19 crore in growth capital through a mix of equity and institutional debt as it looks to scale its business and achieve Rs 100 crore in annual revenue. The funding round was led by Prath Ventures, with participation from the founders of Atomberg and several industry executives. The company said it will use the capital to expand manufacturing capacity, strengthen research and development, and broaden its product portfolio. Swiggy has launched a 24x7 helpline and a dedicated ‘Food Safety’ section in its app to allow customers to report food safety concerns related to their orders. The in-app option allows users to provide details and upload photographs. Customers who report concerns through the helpline will receive a link on their registered mobile number to submit additional information and images. Swiggy said complaints submitted through either channel will be reviewed by its Food Safety Assurance Team, which will take further action based on the issue. Kochi-based healthcare technology company Cyrix Healthcare, backed by private equity firm Somerset Indus Capital Partners Fund III, has acquired the MedTech Solutions business of Blue Star Engineering & Electronics (Blue Star E&E). The acquisition will expand Cyrix’s medical imaging capabilities, particularly in CT and MRI, as well as its services across equipment sales, installation, maintenance, repairs and refurbishment. Financial terms of the transaction were not disclosed.",
+        "impact": "تغییر بنیادی در الگوی تعامل کاربران با گوشی‌های هوشمند و احتمال مرگ تدریجی اپ‌استورها.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "YourStory",
+        "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-7-2026",
+        "clean_url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-7-2026",
+        "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+        "images": [
+            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/TazapayOffice-1788786385438.JPG?fm=png&auto=format&w=800&blur=500"
+        ],
+        "timestamp": 1788786480.0
+    },
+    {
         "id": "77186aae2d",
         "title_fa": "آموزش فناوری‌های نوین ساخت‌وساز به پیمانکاران کانادایی با همکاری ICBA",
         "title_en": "ICBA and Global eTraining Launch Construction Technology Training Initiative to Upskill Canadian Contractors",
@@ -131,6 +315,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788784680.0
+    },
+    {
+        "id": "7f1e5612ef",
+        "title_fa": "سرمایه‌گذاری ۲۲ میلیارد دلاری کره جنوبی در تگزاس برای دیتاسنترهای AI",
+        "title_en": "South Korea Eyes $22.3 Billion Energy Investment in Texas Gas Plant for AI Data Center",
+        "summary": [
+            "کره جنوبی قصد دارد ۲۲.۳ میلیارد دلار در یک نیروگاه گاز ۶.۳ گیگاواتی در تگزاس سرمایه‌گذاری کند تا برق دیتاسنترهای هوش مصنوعی تامین شود.",
+            "این پروژه در قالب توافق تجاری ۳۵۰ میلیارد دلاری میان کره و آمریکا برای تضمین انرژی زیرساخت‌های نسل بعدی AI اجرا می‌شود."
+        ],
+        "full_text": "South Korea eyes $22.3 billion energy investment for a 6.3GW Texas gas plant to power AI data centers under a $350B US trade deal.",
+        "impact": "حل چالش حیاتی تامین برق دیتاسنترهای غول‌آسای هوش مصنوعی از طریق توافقات فرارزشی دولتی.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "Ventureburn",
+        "url": "https://ventureburn.com/south-korea-eyes-22-3-billion-energy-investment/",
+        "clean_url": "https://ventureburn.com/south-korea-eyes-22-3-billion-energy-investment",
+        "image": "https://ventureburn.com/wp-content/uploads/2026/09/Dominion-Dynamics-Raises-139M-CAD-90.jpeg",
+        "images": [
+            "https://ventureburn.com/wp-content/uploads/2026/09/Dominion-Dynamics-Raises-139M-CAD-90.jpeg"
+        ],
+        "timestamp": 1788784620.0
     },
     {
         "id": "d81a9a3279",
@@ -156,6 +362,29 @@
             "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCv1vEmkMgT6dmmUAPK1qb3PdAnwi1RG8WulGuRZ56KaEj4SesNdMXdIhc262oeU5ZMijNWkoIdo75xy3SgmQH0fubNqO3FtzpaKb3MAIzQa5Zq7rH8TDzHuXeLkK-VH-hGWd7-LBAsswaha6-9QNFeGyrykzCHWKE3DpQ5YCdz33Jt7sO8RipZ4RKsJq0/s16000/728x90-gizguide.jpg"
         ],
         "timestamp": 1788778320.0
+    },
+    {
+        "id": "64c00fa9bc",
+        "title_fa": "آموزش غول جدید OpenAI با بیش از ۱۰۰ هزار کارت گرافیک انویدیا",
+        "title_en": "آموزش مدل هوش مصنوعی GPT-6 Astra با بیش از ۱۰۰ هزار پردازنده گرافیکی انویدیا",
+        "summary": [
+            "مدل جدید GPT-6 Astra با بیش از ۱۰۰ هزار پردازنده گرافیکی Grace Blackwell انویدیا آموزش دیده و قرار است این ظرفیت به ۴۰۰ هزار کارت برسد.",
+            "مدیران OpenAI مدعی شده‌اند که این مدل مرزهای هوش عمومی مصنوعی (AGI) را رد کرده و بخش عظیمی از توان محاسباتی آن صرف ایمنی و همراستایی شده است.",
+            "دسترسی آزمایشی به GPT-6 Astra برای برخی سازمان‌ها آغاز شده و به‌زودی در دسترس عموم قرار می‌گیرد."
+        ],
+        "full_text": "جنسن هوانگ، مدیرعامل انویدیا، اعلام کرد مدل جدید OpenAI با نام GPT-6 Astra با استفاده از بیش از ۱۰۰ هزار پردازنده گرافیکی از نوع Grace Blackwell NVLink72 آموزش دیده است. به گفته او، برنامههایی برای فعالسازی ۴۰۰ هزار پردازنده گرافیکی دیگر نیز در دست اجرا قرار دارد. بهگزارش پیسی گیمر، دسترسی به GPT-6 Astra از اوایل هفته جاری برای تعداد محدودی از سازمانها آغاز شده و قرار است بهزودی برای کاربران عادی نیز فراهم شود. گرگ براکمن، یکی از بنیانگذاران و رئیس OpenAI، این آموزش را نخستین اجرایی دانست که روی بیش از ۱۰۰ هزار پردازنده گرافیکی انجام شده است. براکمن در گفتوگو با Stratechery گفت: «این نخستین باری بود که روی بیش از ۱۰۰ هزار پردازنده گرافیکی آموزش دادیم.» او درباره مفهوم هوش جامع مصنوعی یا AGI نیز اظهار داشت: «مردم تعریف خودشان را از AGI دارند؛ تقریبا چیزی مبهم است. شاید مدل قبلی بود، شاید Astra، شاید مدل بعدی، اما جایی در این میان، فکر میکنم از آستانه AGI بیشتر مردم عبور خواهیم کرد.» هوانگ در شبکه اجتماعی X مدعی شده «AGI فرا رسیده است». این ادعا در حالی مطرح میشود که OpenAI اعلام کرده GPT-6 Astra در چندین معیار ارزیابی هوش مصنوعی از جمله FrontierMath Tier 4، ARC-AGI 3 و TerminalBench-4.0 عملکردی پیشرفته دارد. براکمن تأکید کرد بخش بزرگی از توان محاسباتی این مدل صرف ایمنی و همراستایی شده است. او گفت: «بخش زیادی از توان محاسباتی Astra صرف ایمنی و همراستایی میشود و کار امنیتی گستردهای پیرامون آن انجام شده است. فکر میکنم حجم عظیمی از کار برای ارائه امن این مدل انجام دادهایم.» زمانبندی این ادعاها با گمانهزنیها درباره عرضه اولیه سهام OpenAI همزمان شده است. همچنین معرفی Astra تنها چند هفته پس از آن رخ داد که یک «جمع عاملها» از محیط ایزوله آزمایشی OpenAI خارج شد و به سرورهای Hugging Face حمله کرد. نظر شما درباره ادعای رسیدن به AGI و هزینه سختافزاری عظیم مدلهای جدید هوش مصنوعی چیست؟ دیدگاه خود را با ما در میان بگذارید.",
+        "impact": "جهش تاریخی در قدرت محاسباتی هوش مصنوعی و نزدیک‌تر شدن واقعی به هوش عمومی مصنوعی (AGI).",
+        "tag": "مدل‌ها و لانچ‌ها",
+        "urgency": 10,
+        "sentiment": 0.85,
+        "source": "زومجی",
+        "url": "https://www.zoomg.ir/tech-news/417640-gpt-6-astra-nvidia-gpus/",
+        "clean_url": "https://www.zoomg.ir/tech-news/417640-gpt-6-astra-nvidia-gpus",
+        "image": "https://api2.zoomg.ir/media/cover-6a9ef04e0d1a0e781c1d5d84?w=1920&q=75",
+        "images": [
+            "https://api2.zoomg.ir/media/cover-6a9ef04e0d1a0e781c1d5d84?w=1920&q=75"
+        ],
+        "timestamp": 1788777000.0
     },
     {
         "id": "9200b5d337",
@@ -200,6 +429,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788768437.0
+    },
+    {
+        "id": "0454a8695b",
+        "title_fa": "رونمایی AMD از قدرتمندترین ورک‌استیشن دسکتاپ هوش مصنوعی",
+        "title_en": "ای‌ام‌دی Threadripper Halo Station معرفی شد؛ هوش مصنوعی قدرتمند در یک ورک‌استیشن دسکتاپ",
+        "summary": [
+            "سیستم جدید Threadripper Halo Station با پردازنده ۹۶ هسته‌ای تردریپر پرو و تا ۴ کارت گرافیک Instinct MI350P معرفی شد.",
+            "این ورک‌استیشن با پشتیبانی از ۵۷۶ گیگابایت حافظه HBM3e و پهنای باند ۱۶ ترابایت بر ثانیه، اجرای محلی غول‌پیکرترین مدل‌های هوش مصنوعی را ممکن می‌کند."
+        ],
+        "full_text": "AMD در نمایشگاه IFA قدرتمندترین راهکارهای خود برای توسعهدهندگان و کاربران حرفهای هوش مصنوعی را به نمایش گذاشت؛ از Threadripper Halo Station گرفته تا مجموعهای از کامپیوترهای مجهز به Ryzen AI MAX که اجرای مدلهای هوش مصنوعی بهصورت محلی را هدف قرار دادهاند. Threadripper Halo Station در برابر NVIDIA DGX Station؛ قدرتمندترین قابلیتهای هوش مصنوعی در یک کامپیوتر دسکتاپ تقاضا برای اجرای سریع هوش مصنوعی بهصورت محلی بهشدت در حال افزایش است. با بزرگتر شدن مدلها و محبوبیت روزافزون ایجنتهای هوش مصنوعی، نیاز به سختافزار قدرتمند نیز با سرعت زیادی افزایش پیدا کرده است. این نیاز به راهکارهایی با قدرت پردازشی بالا منجر شده تا AMD قدرتمندترین سیستم هوش مصنوعی خود تا امروز را معرفی کند: Threadripper Halo Station. ایامدی Threadripper Halo Station صرفاً یک ورکاستیشن معمولی مجهز به تردریپر نیست. این سیستم بهترین سختافزارهای رده PRO AMD را در یک دستگاه جمع کرده و ایامدی آن را «Ultimate Personal AI Workstation» یا «قدرتمندترین ورکاستیشن شخصی هوش مصنوعی» مینامد. در بخش مشخصات، AMD Threadripper Halo Station از سریعترین پردازندههای تردریپر این شرکت، مانند Threadripper PRO 9995WX، استفاده میکند. این پردازنده حداکثر ۹۶ هسته Zen 5 و در مجموع ۱۹۲ رشته پردازشی دارد، فرکانس آن به حداکثر ۵.۴ گیگاهرتز میرسد و به ۳۸۴ مگابایت حافظه کش مجهز شده است. این یعنی قدرت پردازشی بسیار زیادی در اختیار کاربران قرار میگیرد. یک پردازنده سریع برای اجرای فرایندهای هوش مصنوعی عاملمحور ضروری است، اما GPUها نیز اهمیت بسیار زیادی دارند. برای پاسخ به نیازهای پردازشی هوش مصنوعی، این سیستم از دو GPU ورکاستیشن AMD Instinct استفاده میکند. این کارتها جدیدترین مدلهای MI350P هستند که هرکدام به ۱۴۴ گیگابایت حافظه HBM3e مجهز شدهاند. این سیستم در نهایت میتواند حداکثر چهار کارت از این نوع را در خود جای دهد و به رقم بسیار بزرگ ۵۷۶ گیگابایت حافظه HBM3e برسد. مجموع پهنای باند حافظه این GPUها نیز میتواند به ۱۶ ترابایتبرثانیه برسد. علاوهبراین، سیستم از مقدار زیادی حافظه استاندارد DDR5 از نوع RDIMM نیز پشتیبانی میکند. Threadripper Halo Station میتواند تا ۲ ترابایت حافظه RDIMM داشته باشد که در نتیجه مجموع حافظه سیستم را به ۲.۶ ترابایت و مجموع پهنای باند حافظه را به ۱۶.۴ ترابایتبرثانیه میرساند. در این ترکیب، حافظه HBM وظیفه ارائه پهنای باند بالا را برعهده دارد، درحالیکه حافظه RDIMM ظرفیت بیشتری را در اختیار سیستم قرار میدهد. کل سیستم از طراحی خنککننده مایع بهره میبرد و در یک شاسی استاندارد E-ATX قرار گرفته است. لوگوی AMD در قسمت جلویی دستگاه دیده میشود و طراحی ظاهری آن نیز از زبان طراحی Halo استفاده میکند که AMD پیشتر در مینیپیسیهای Ryzen AI Halo خود به کار گرفته بود. نتیجه این ترکیب، امکان صرفهجویی قابلتوجه در هزینه اجرای هوش مصنوعی است؛ چراکه کاربران میتوانند مدلهای AI را بهصورت محلی اجرا کنند و به جای پرداخت مبالغ بالا برای اشتراک سرویسهای هوش مصنوعی ابری، پردازشها را روی سیستم خود انجام دهند. تردریپر Halo Station قادر خواهد بود مدلهایی با تریلیونها پارامتر را اجرا کند و عرضه آن برای سال ۲۰۲۷ برنامهریزی شده است. یکی از مزایای راهکار AMD این است که از قطعاتی استفاده میکند که بهراحتی قابل تهیه و جایگزینی هستند. بنابراین کاربران میتوانند قطعات داخلی سیستم را بر اساس نیازهای خود با یکدیگر ترکیب یا در آینده تعویض کنند. طبیعتاً باید بررسی کنیم این سیستم در برابر رقیب خود چه عملکردی دارد. ایامدی Threadripper Halo Station مستقیماً در برابر انویدیا DGX Station قرار میگیرد. در مقایسه Threadripper Halo Station و DGX Station، راهکار AMD در بخش پردازنده مرکزی از تعداد هستهها و رشتههای بیشتری برخوردار است. معماری Zen 5 بهرهوری بسیار خوبی دارد و از نظر IPC نیز عملکرد قدرتمندی ارائه میدهد؛ بنابراین عملکرد تکهستهای بالاتری را شاهد خواهیم بود و با وجود ۱۹۲ رشته، عملکرد چندهستهای نیز بسیار سریع خواهد بود. در بخش حافظه، تراشه GB300 انویدیا بهصورت منفرد حافظه HBM بیشتری دارد، اما AMD با استفاده از چهار شتابدهنده میتواند مجموع حافظه HBM3e را به ۵۷۶ گیگابایت برساند. انویدیا همچنین امکان ارتقای قابلیتهای سیستم با استفاده از کارتهای AIC اختصاصی را در اختیار کاربران قرار میدهد. برای مثال، کارت پرچمدار 96 GB RTX PRO 6000 Blackwell میتواند ۱۹۲ گیگابایت حافظه دیگر به سیستم اضافه کند. این حافظه از نوع GDDR7 است که از نظر پهنای باند نسبت به حافظه HBM3e در MI350P AMD سرعت پایینتری دارد. از طرف دیگر، GPUهای Instinct ظرفیت حافظه ۵۰ درصد بیشتری نیز ارائه میدهند. در مجموع، حجم حافظه قابل استفاده در راهکار ایامدی از انویدیا بیشتر است. قیمت تردریپر Halo Station همچنان مشخص نشده است، اما AMD سابقه ارائه محصولات خود با قیمتهای رقابتی را دارد. DGX Station با قیمتی نزدیک به ۱۰۰ هزار دلار عرضه میشود؛ بنابراین انتظار میرود ایامدی قیمت سیستم خود را در همین محدوده تعیین کند یا آن را با قیمت پایینتری به بازار بفرستد. البته ایامدی لزوماً مجبور نیست قیمت پایینتری تعیین کند، چراکه راهکار این شرکت مزایای قابلتوجهی دارد. Ryzen AI MAX 400؛ اجرای حداکثری هوش مصنوعی محلی در کامپیوترهای قابل حمل در کنار Threadripper Halo Station، ایامدی و شرکا در نمایشگاه IFA مجموعه قدرتمندی از کامپیوترهای مجهز به Ryzen AI MAX 400 را نیز به نمایش گذاشتند. اعلامیههای کامل AMD در نمایشگاه IFA به شرح زیر است: - سیستمهای AMD Ryzen AI Halo بهصورت پیشفرض از Project Zenith مایکروسافت پشتیبانی خواهند کرد. این قابلیت تجربه جدیدی از ویندوز برای توسعهدهندگان ارائه میدهد که برای دستگاههای پرقدرت بهینه شده است. این سیستمها بهصورت پیشفرض با Visual Studio Code ،WSL، گیتهاب کوپایلوت CLI و PowerShell عرضه میشوند تا فرایند توسعه هوش مصنوعی بهصورت محلی سادهتر شود. - AMD Threadripper Halo Station یک نمونه اولیه است که قابلیت پردازش هوش مصنوعی در سطح دیتاسنتر را به ورکاستیشنهای دسکتاپ میآورد. این سیستم با ترکیب Ryzen Threadripper PRO 9995WX و دو شتابدهنده رده Instinct، به توسعهدهندگان اجازه میدهد مدلهای عظیم هوش مصنوعی را بدون وابستگی به محدودیتهای سرویسهای ابری، بهصورت محلی آموزش دهند، Fine-tune کنند و اجرا نمایند. - AMD و SUSE نیز از همکاری خود برای کمک به توسعهدهندگان خبر دادهاند. هدف این همکاری، انتقال اپلیکیشنهای هوش مصنوعی از مرحله توسعه و آزمایش محلی روی AMD Ryzen AI Halo به محیطهای تولیدی سازمانی امن و پشتیبانیشده در مقیاس بزرگ است. AMD همچنین بخشی از قابلیتهای عملکردی نسل بعدی سیستم Ryzen AI Halo را با تراشه Ryzen AI MAX+ 495 و حداکثر ۱۹۲ گیگابایت حافظه یکپارچه به نمایش گذاشت. این سیستم توانست مدل GLM-5.3 Flash با ۳۲۰ میلیارد پارامتر را بهصورت محلی اجرا کند و به سرعت ۵۸ توکن بر ثانیه (TPS) دست پیدا کند. این عملکرد قابلتوجه است؛ چراکه برای استفا",
+        "impact": "بی‌نیازی توسعه‌دهندگان از سرورهای ابری گران‌قیمت با انتقال قدرت پردازش AI به کامپیوترهای شخصی.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/computers-hardware/amd-threadripper-halo-station-with-ai-max",
+        "clean_url": "https://digiato.com/computers-hardware/amd-threadripper-halo-station-with-ai-max",
+        "image": "http://www.bing.com/th?id=ONUT.RRh5KPAflK7hsjeJbI--5g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.RRh5KPAflK7hsjeJbI--5g&pid=News",
+            "https://static.digiato.com/digiato/2026/09/AMD-Threadripper-Halo-Station-scaled-1.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/AMD-Threadripper-Halo-Station-_1-728x291-1.jpg",
+            "https://static.digiato.com/digiato/2026/09/4711051-instinct-accelerator-mi350p-pcle-prod-front-delidded-728x410-1.jpg"
+        ],
+        "timestamp": 1788768060.0
     },
     {
         "id": "44a3ab6b96",
@@ -6700,255 +6954,5 @@
             "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
         ],
         "timestamp": 1787932020.0
-    },
-    {
-        "id": "c0912edc5f",
-        "title_fa": "جنسن هوانگ: به AGI رسیده‌ایم اما این اصطلاح بی‌معنا شده است",
-        "title_en": "جنسن هوانگ دوباره یادآور شد: انویدیا به AGI دست یافته است",
-        "summary": [
-            "مدیرعامل انویدیا می‌گوید هوش مصنوعی در بسیاری از وظایف فعلی به سطح هوش عمومی رسیده و کلکل روی تعریف آن بی فایده است.",
-            "هوانگ معتقد است تمرکز اصلی صنعت از مفاهیم انتزاعی به سمت عاملهای مستقل (AI Agents) و تولید توکن‌های سودآور تغییر کرده است.",
-            "عدم وجود تعریف مشخص از AGI به غول‌های فناوری اجازه می‌دهد هر کدام ادعای پیشتازی داشته باشند."
-        ],
-        "full_text": "«جنسن هوانگ»، مدیرعامل انویدیا، اخیراً در جریان گزارش مالی این شرکت، بهطور گذرا اعلام کرد انویدیا به AGI دست یافته؛ این یکی از اهداف نهایی صنعت فناوری است که برخی از بزرگترین شرکتهای این حوزه سالهاست بهدنبال تحقق آن هستند. هوانگ اما تقریباً بلافاصله این دستاورد موردانتظار را «بیمعنا» توصیف کرد. او درست میگوید. برای خط پایان فرضی رقابت هوش مصنوعی، هیچ توافقی درباره معنای هوش عمومی مصنوعی (AGI) وجود ندارد؛ حتی مشخص نیست از چه زمانی میتوان گفت واقعاً به آن دست یافتهایم. در نتیجه، ادعای دستیابی به AGI نیز میتواند کاملاً سلیقهای باشد. مدیرعامل انویدیا: AGI در این مرحله بیمعناست هوانگ در پاسخ به پرسشی درباره تلاش OpenAI برای دستیابی به AGI گفت در مورد انویدیا، برای بسیاری از وظایف میتوانیم بگوییم که همین حالا به AGI دست یافتهایم. او تعریف یا معیار دقیقی ارائه نکرد، اما گفت این نوع نقاط عطف «در این مرحله بیمعنا» هستند. به گفته هوانگ، هوش مصنوعی از پاسخگویی به درخواستهای ساده عبور کرده و به سمت عاملهای مستقلی رفته است که میتوانند مهارتهای جدید یاد بگیرند و بهصورت «بازگشتی» خودشان را بهبود دهند. هوانگ معتقد است چیزی که واقعاً اهمیت دارد، این است که هوش مصنوعی کار مفید انجام دهد و توکنهای سودآور تولید کند. به گفته او، پردازش بیشتر به تولید توکنهای بیشتر و در نهایت سود بیشتر منجر میشود؛ او میگوید این دقیقاً همان مرحلهای است که در آن قرار داریم و به همین دلیل همه شرکتها به این حوزه روی آوردهاند. این نخستین بار نیست که هوانگ میگوید به AGI رسیدهایم. او در ماه مارس نیز در پادکست «لکس فریدمن» صراحتاً گفت: «فکر میکنم به AGI دست یافتهایم.» بااینحال، هوانگ آن زمان نیز تعریف دقیقی ارائه نکرد. فریدمن پیشنهاد کرده بود AGI سیستمی باشد که بتواند عملاً شغل شما را انجام دهد؛ ازجمله راهاندازی، رشد و اداره یک شرکت فناوری موفق با ارزش بیش از یک میلیارد دلار. هوانگ سپس در اظهارنظری متفاوت گفت احتمال اینکه ۱۰۰ هزار عامل هوش مصنوعی بتوانند انویدیا را بسازند، صفر درصد است. طی سالهای گذشته، دیگر مدیران فناوری نیز از ابهام موجود در تعریف AGI استفاده کردهاند و تعاریف و معیارهای متفاوتی ارائه دادهاند. وجه مشترک این دیدگاهها، شکلی از هوش مصنوعی است که بتواند در طیف گستردهای از حوزهها با هوش انسان برابری کند یا از آن فراتر برود؛ هرچند خود مفهوم «هوش» نیز تعریف مورد توافقی ندارد. ابهام درباره AGI و آستانه دستیابی به آن موضوع پنهانی نیست و مدیران فناوری نیز خود به آن اذعان دارند؛ بااینحال همچنان پیشبینیهایشان را بر پایه این مفهوم مطرح میکنند. «داریو آمودی»، مدیرعامل آنتروپیک، AGI را اصطلاحی «غیردقیق» و حتی یک «اصطلاح بازاریابی» خوانده و ترجیح میدهد از عبارت «هوش مصنوعی قدرتمند» استفاده کند.",
-        "impact": "تغییر مسیر تمرکز سرمایه‌گذاران از ادعاهای تبلیغاتی AGI به سمت ابزارهای کاربردی و درآمدزا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/artificial-intelligence/jensen-huang-says-nvidia-achieved-agi",
-        "clean_url": "https://digiato.com/artificial-intelligence/jensen-huang-says-nvidia-achieved-agi",
-        "image": "http://www.bing.com/th?id=ONUT.YUfQzV2IYReRPJeR-Ygptw&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.YUfQzV2IYReRPJeR-Ygptw&pid=News",
-            "https://static.digiato.com/digiato/2026/08/nvidia-ceo-jensen-huang-1.webp",
-            "https://static.digiato.com/digiato/2026/08/nvidia-ceo-jensen-huang-1-644x424.webp",
-            "https://static.digiato.com/digiato/2026/08/jensen-huang-nvidia-ceo-1.webp"
-        ],
-        "timestamp": 1787930760.0
-    },
-    {
-        "id": "a3fb9ba2e7",
-        "title_fa": "تلاش برای احیای توییتر با هوش مصنوعی و نبرد حقوقی با ایلان ماسک",
-        "title_en": "شبکه اجتماعی توییتر با ساختار جدیدی احیا می‌شود",
-        "summary": [
-            "استارتاپ Operation Bluebird با حضور مدیر حقوقی سابق توییتر، سرویس جدید Twitter.now را وارد مرحله آزمایشی کرد.",
-            "این شبکه اجتماعی از سیستم هوش مصنوعی VERA برای سنجش صحت ادعاها و تعیین امتیاز اعتماد پست‌ها استفاده می‌کند.",
-            "شرکت ایکس از این استارتاپ به دلیل استفاده از برند توییتر شکایت کرده، اما تیم جدید مدعی است ایلان ماسک این علامت تجاری را رها کرده بود."
-        ],
-        "full_text": "شبکه اجتماعی جدیدی با نام Twitter.now وارد مرحله آزمایشی شده است؛ این سرویس توسط استارتاپ Operation Bluebird اداره میشود و یکی از اعضای تیم بنیانگذار آن، «استفن کوتس»، مشاور حقوقی پیشین توییتر بود. به گزارش تککرانچ، Operation Bluebird درحالی قصد دارد از نام توییتر برای سرویس خود استفاده کند که شرکت ایکس پیشتر از این استارتاپ شکایت کرده است. ایکس در دادگاهی فدرال، Operation Bluebird را به نقض حقوق مربوط به علامت تجاری Twitter متهم کرده و خواستار جلوگیری از راهاندازی شبکه اجتماعی جدید این شرکت شده است. اختلاف بر سر مالکیت نام توییتر Operation Bluebird معتقد است ایکس حقوق مربوط به برخی علائم تجاری مانند توییتر و توییت را کنار گذاشته است. این استارتاپ در دادخواستی که سال گذشته ارائه کرد، استدلال کرده بود که ایکس این علائم تجاری را رها کرده است. در مقابل، ایکس در شکایت ۴۳ صفحهای خود میگوید توییتر همچنان تحت مالکیت این شرکت قرار دارد و تغییر نام و برند آن به ایکس به معنای از دستدادن حقوق مربوط به علامت تجاری نیست. ایکس در متن شکایت خود نوشته است: «توییتر یکی از شناختهشدهترین برندهای جهان است و متعلق به شرکت ایکس است.» این شرکت همچنین استدلال کرده که تغییر برند به معنای رهاکردن حقوق مربوط به علامت تجاری نیست. استفن کوتس، یکی از اعضای Operation Bluebird و مشاور حقوقی پیشین توییتر، در واکنش به این پرونده گفته است ایکس از نظر حقوقی علامت تجاری TWITTER را رها کرده است. او در بیانیهای ایمیلی نوشت: «دادخواست لغو ما براساس قوانین تثبیتشده علائم تجاری است و معتقدیم موفق خواهیم شد. آنها خداحافظی کردند. ما سلام میکنیم.» استارتاپ Operation Bluebird میگوید قصد ندارد نسخه قدیمی توییتر را بازسازی کند. کوتس در پستی در لینکدین توضیح داد که این شرکت پس از کنار گذاشتهشدن برند Twitter توسط ایکس، فرصت ایجاد سرویسی جدید را دیده است؛ سرویسی که بر اعتماد، شفافیت و انتخاب کاربران متمرکز باشد. Twitter.now درحالحاضر در مرحله آزمایش قرار دارد و دسترسی زودهنگام به آن ۲۰ دلار هزینه دارد. طبق توضیحات موجود در صفحه اصلی Twitter.now، این شبکه اجتماعی از سیستمی مبتنیبر هوش مصنوعی به نام VERA استفاده میکند. این سیستم ادعاهای مطرحشده در پستها را بررسی میکند، منبع ادعاها و زمینه مربوط به آنها را در اختیار کاربران میگذارد و برای محتوا یک امتیاز اعتماد تعیین میکند. کاربران میتوانند حداقل امتیاز اعتماد موردنظر خود را تعیین کنند تا پستهایی با سطح اعتماد پایینتر از فید آنها حذف شوند. Operation Bluebird میگوید VERA درحالحاضر در نسخه اولیه خود قرار دارد و نسخه VERA 2.0 نیز در نقشه راه نزدیک شرکت قرار گرفته است. طبق توضیحات شرکت، در نسخه بعدی کاربران میتوانند برنامه را طوری تنظیم کنند که فقط پستهایی بالاتر از آستانه اعتماد انتخابی آنها نمایش داده شود.",
-        "impact": "پرونده‌ای چالش‌برانگیز در حقوق برندها که می‌تواند مسیر استفاده از هوش مصنوعی برای مقابله با فیک‌نیوز در شبکه‌های اجتماعی را تغییر دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/app/twitter-now-social-network",
-        "clean_url": "https://digiato.com/app/twitter-now-social-network",
-        "image": "http://www.bing.com/th?id=ONUT.ytRQfDNeuOjPEpDnZ12Lng&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.ytRQfDNeuOjPEpDnZ12Lng&pid=News",
-            "https://static.digiato.com/digiato/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg.jpeg",
-            "https://static.digiato.com/digiato/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg-644x424.jpeg.webp",
-            "https://static.digiato.com/digiato/2026/08/Screenshot-1405-06-06-at-16.45.44-1024x563.jpg"
-        ],
-        "timestamp": 1787910960.0
-    },
-    {
-        "id": "6a7d6ab601",
-        "title_fa": "معمای شش روزه‌ای که ساختار قیمت‌گذاری هوش مصنوعی را دگرگون کرد",
-        "title_en": "The Six-Day Mystery That Rewrote AI's Price List",
-        "summary": [
-            "رقابت فشرده و ناگهانی میان غول‌های هوش مصنوعی طی یک هفته، تعرفه‌های دسترسی به API مدل‌های بزرگ را به شدت کاهش داد.",
-            "این افت قیمت نشان‌دهنده بهینه‌سازی‌های شدید زیرساختی و جنگ قیمتی برای تسخیر بازار توسعه‌دهندگان است."
-        ],
-        "full_text": "The Six-Day Mystery That Rewrote AI's Price List  HackerNoon",
-        "impact": "کاهش چشمگیر هزینه‌های عملیاتی برای استارتاپ‌ها و ساخت محصولات مبتنی بر مدل‌های زبانی.",
-        "tag": "تحلیل",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "HackerNoon",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16NXY4RVJUTVVoektBQ2IzZEpCV1hLcEhHdHk3S0M4dGZvRjloWG10Q3FrVTBhU2ktVGpLdms5WTFjMnZJYnNsMmtFMDJrNlY2MEFRTTl1MzhMYXdoSVRsVGlZcXhLTmV0Y3NHNmtZTk5BWmZ3WjU0b3ZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16NXY4RVJUTVVoektBQ2IzZEpCV1hLcEhHdHk3S0M4dGZvRjloWG10Q3FrVTBhU2ktVGpLdms5WTFjMnZJYnNsMmtFMDJrNlY2MEFRTTl1MzhMYXdoSVRsVGlZcXhLTmV0Y3NHNmtZTk5BWmZ3WjU0b3ZR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787896136.0
-    },
-    {
-        "id": "3ead087f3a",
-        "title_fa": "ارتقای ابزارهای Send2Press برای بهینه‌سازی محتوا در موتورهای پاسخ هوش مصنوعی",
-        "title_en": "Send2Press Announces Enhanced AI Seeding for PR and Internet Marketing Clients, Prepping Brands for AI Answer Engines and AEO",
-        "summary": [
-            "سرویس Send2Press پلتفرم خود را برای تزریق هوشمند محتوا به موتورهای پاسخ‌دهنده مبتنی بر AI آماده کرده است.",
-            "هدف این به‌روزرسانی، آماده‌سازی برندها برای عصر AEO (بهینه‌سازی برای موتورهای پاسخ) به جای SEO سنتی است."
-        ],
-        "full_text": "Send2Press Announces Enhanced AI Seeding for PR and Internet Marketing Clients, Prepping Brands for AI Answer Engines and AEO  Voice of Alexandria",
-        "impact": "تغییر مسیر استراتژی‌های بازاریابی دیجتیال از گوگل به سمت الگوریتم‌های چت‌بات‌های هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Voice of Alexandria",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYlppNnBGWmJlc1JaM09XMVFGajk1QmhHalRMNjZGUmV1czFOOUpaR2ZBc3NJWF9FUGE1QVdxbE00OG1Lbm1YRTNWRTJRa0pfS3dHdXF1Y1dINTNqTGltTVljdExKVDJXQ2Y5YXhQbTJEU1hzc2NDemVlVUZIcXZnUlNzY3hkS09EcFhReldZcEY0TWh0UVhWbHN2eFlVc0piWkVGU0x3QXRyTWZ6SGdrQ0xtaXhheE5WYXFfSV8yc2lYRHFQVUlMZGMwVmJpTWRpT2NkSlFvTHJmY0dxaFN2aENLUlJrdXM1UGU2OG1iazIxbkJhVFhiQmxCRGZBQmhpZy1XYmx0SzlRT1ZKejdWLWNGeVJZWTRjRVNiREVPeDhtWG5rcGJlZTdWYlFva2xKaHFzLTIxWk8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYlppNnBGWmJlc1JaM09XMVFGajk1QmhHalRMNjZGUmV1czFOOUpaR2ZBc3NJWF9FUGE1QVdxbE00OG1Lbm1YRTNWRTJRa0pfS3dHdXF1Y1dINTNqTGltTVljdExKVDJXQ2Y5YXhQbTJEU1hzc2NDemVlVUZIcXZnUlNzY3hkS09EcFhReldZcEY0TWh0UVhWbHN2eFlVc0piWkVGU0x3QXRyTWZ6SGdrQ0xtaXhheE5WYXFfSV8yc2lYRHFQVUlMZGMwVmJpTWRpT2NkSlFvTHJmY0dxaFN2aENLUlJrdXM1UGU2OG1iazIxbkJhVFhiQmxCRGZBQmhpZy1XYmx0SzlRT1ZKejdWLWNGeVJZWTRjRVNiREVPeDhtWG5rcGJlZTdWYlFva2xKaHFzLTIxWk8",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787895903.0
-    },
-    {
-        "id": "bea59cb16b",
-        "title_fa": "ادغام مدل Seedance 2.5 در Flova.ai برای ساخت ویدیوی خودکار",
-        "title_en": "FLOVA PTE. LTD. Announces Full Integration of Seedance 2.5 into Flova.ai, Further Advancing Agent Native Video Production",
-        "summary": [
-            "پلتفرم Flova از ادغام کامل مدل Seedance 2.5 برای ارتقای ابزارهای تولید ویدیوی مبتنی بر ایجنت خبر داد.",
-            "این ترکیب به عامل‌های هوشمند اجازه می‌دهد ویدیوهای پیچیده را با دخالت کمتر انسان تولید کنند."
-        ],
-        "full_text": "FLOVA PTE. LTD. Announces Full Integration of Seedance 2.5 into Flova.ai, Further Advancing Agent Native Video Production  markets.businessinsider.com",
-        "impact": "ساده‌تر شدن فرایند خلق محتوای ویدیویی و افزایش اتوماسیون در تولیدات رسانه‌ای.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "markets.businessinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC1SQVp6UWNHaXNrYkVaSmdydjdaa3A4Tm8zNFdVZjcwQVp4RXNzNVp6cUEybVozVVVINVNPQlFyX3NmRG8tXzQ0VG9HZlZBNGhZRHYzTWdDQXVJUHpTTmI3Z2pfd2kwV2ExSlk0bFlIZ0xsOTRGbEJrZlRpNlREeUtTQXFHdktadnJaSDNLcGhZRkM4VVl0MFE4ZEF1VUx0dk5SaWk3MTFpZEo1cTN3ajNWOU5kY2E3dVNyLU02N2tQQm1WenBRR0NoM1JsaUNDZlpicDFqQS1wN3NULURGMGRlTEZ0bjNzOEJxYVNnbE11U2JyemdYbmFhdkZ6ak9MT1V4RERKa3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaC1SQVp6UWNHaXNrYkVaSmdydjdaa3A4Tm8zNFdVZjcwQVp4RXNzNVp6cUEybVozVVVINVNPQlFyX3NmRG8tXzQ0VG9HZlZBNGhZRHYzTWdDQXVJUHpTTmI3Z2pfd2kwV2ExSlk0bFlIZ0xsOTRGbEJrZlRpNlREeUtTQXFHdktadnJaSDNLcGhZRkM4VVl0MFE4ZEF1VUx0dk5SaWk3MTFpZEo1cTN3ajNWOU5kY2E3dVNyLU02N2tQQm1WenBRR0NoM1JsaUNDZlpicDFqQS1wN3NULURGMGRlTEZ0bjNzOEJxYVNnbE11U2JyemdYbmFhdkZ6ak9MT1V4RERKa3Q",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787895774.0
-    },
-    {
-        "id": "e298b3c5fa",
-        "title_fa": "کسب جوایز متعدد نوآوری هوش مصنوعی توسط IQVIA در حوزه سلامت",
-        "title_en": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare",
-        "summary": [
-            "شرکت IQVIA برای توسعه راهکارهای پیشرفته هوش مصنوعی در علوم زیستی و بهداشت، چند جایزه معتبر صنعتی دریافت کرد.",
-            "این فناوری‌ها به تحلیل داده‌های پزشکی و تسریع پژوهش‌های دارویی کمک می‌کنند."
-        ],
-        "full_text": "IQVIA Wins Multiple Industry Awards for AI and Technology Innovation Across Life Sciences and Healthcare  BioSpace",
-        "impact": "تایید نقش کلیدی ابزارهای داده‌محور هوش مصنوعی در بهبود فرایندهای درمانی و پژوهشی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "BioSpace",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDBkTEZlTXZ4R1RlYkVpNEVSdUMteE0zTmtQekZxdEVFc1h5OFpadU9GMkRxMlI3QWFkUmtMYlJqeFhHVWFSYVdHeTB0M3ppV3p4cFhPeWltUE8zQ1BkTnQtSXEzeC1LV3pQM2tpaUN2djBUaE9aek5mTlFyLWZ0MVE0bHJ4VUk4eUN6ZFpLb3RXZTlZSGRHRzcyUzBidnBseWpuLWc2N1ZPRnRvUFlZNjhySTNGX3NxM01yeXpzSXFsNEJvcjlteDIwUVNTNUp5azRHQ3BxcGxCc3Q5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDBkTEZlTXZ4R1RlYkVpNEVSdUMteE0zTmtQekZxdEVFc1h5OFpadU9GMkRxMlI3QWFkUmtMYlJqeFhHVWFSYVdHeTB0M3ppV3p4cFhPeWltUE8zQ1BkTnQtSXEzeC1LV3pQM2tpaUN2djBUaE9aek5mTlFyLWZ0MVE0bHJ4VUk4eUN6ZFpLb3RXZTlZSGRHRzcyUzBidnBseWpuLWc2N1ZPRnRvUFlZNjhySTNGX3NxM01yeXpzSXFsNEJvcjlteDIwUVNTNUp5azRHQ3BxcGxCc3Q5",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787886527.0
-    },
-    {
-        "id": "f166a3bca2",
-        "title_fa": "عرضه اوراق بهادار اهرمی ۳ برابری با تمرکز بر هوش مصنوعی",
-        "title_en": "BMO, REX Shares Launch 3x Leveraged AI-Focused ETN",
-        "summary": [
-            "مؤسسات BMO و REX Shares از عرضه اوراق قرضه قابل معامله (ETN) با اهرم ۳ برابری در حوزه هوش مصنوعی خبر دادند.",
-            "این ابزار مالی جدید به معامله‌گران اجازه می‌دهد نوسانات سود و ریسک شرکت‌های پیشرو AI را تا سه برابر بزرگنمایی کنند."
-        ],
-        "full_text": "BMO, REX Shares Launch 3x Leveraged AI-Focused ETN  ETF Database",
-        "impact": "افزایش ابزارهای ریسک‌پذیر مالی برای معامله‌گران مشتاق حوزه هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "ETF Database",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGNiLVBYbmRyb2VhcDBHOXRSQXVJanRNLVFBM095OHpVSTBTS3FIc1FFdERZcGZHaVpncnRIdEV6emVSbGNNT2h2MUxYNUV2Z091OGFJSXBTZmVxRFJtYzhhLWtUNWVtU0RzNG12UVJzNHk4SDVCX09tWWk4ZTZPek5uakVVTjJJM08xU0tYZFBpOUhUNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGNiLVBYbmRyb2VhcDBHOXRSQXVJanRNLVFBM095OHpVSTBTS3FIc1FFdERZcGZHaVpncnRIdEV6emVSbGNNT2h2MUxYNUV2Z091OGFJSXBTZmVxRFJtYzhhLWtUNWVtU0RzNG12UVJzNHk4SDVCX09tWWk4ZTZPek5uakVVTjJJM08xU0tYZFBpOUhUNkE",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787868594.0
-    },
-    {
-        "id": "da68bd9724",
-        "title_fa": "نسخه ۱.۷۴ Eclipse Theia؛ ایجنت‌های AI در محور کدنویسی",
-        "title_en": "Eclipse Theia 1.74 Puts AI Agents at the Center of the IDE",
-        "summary": [
-            "در نسخه ۱.۷۴ پلتفرم توسعه Eclipse Theia، ایجنت‌های هوش مصنوعی به محور اصلی محیط توسعه تبدیل شده‌اند.",
-            "این به‌روزرسانی به برنامه‌نویسان اجازه می‌دهد کارهای پیچیده کدنویسی را به ایجنت‌های خودمختار محول کنند."
-        ],
-        "full_text": "Eclipse Theia 1.74 Puts AI Agents at the Center of the IDE  ADTmag",
-        "impact": "افزایش چشمگیر سرعت توسعه نرم‌افزار با ادغام ایجنت‌های هوشمند در محیط برنامه‌نویسی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "ADTmag",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXRBeHZHVGFpVUhKQ3k3S0lFM3R0M091SFQ4UGxhOF9oY0d3emhjLUpKWXNLQXd1TFQ4TU0temdwUGJzS3NnaWF1LXNzT01BbW5NMzUwTmFIcWozZTdxOXc4WGVEcnBXNUR3MkFybGM2ekNnZWxIUEN5Q01tWE9sLTc2bUlOTjJvZHpuNDJSSWNjbmkzd2dKRnRLTUdIN29hMldveGJETQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXRBeHZHVGFpVUhKQ3k3S0lFM3R0M091SFQ4UGxhOF9oY0d3emhjLUpKWXNLQXd1TFQ4TU0temdwUGJzS3NnaWF1LXNzT01BbW5NMzUwTmFIcWozZTdxOXc4WGVEcnBXNUR3MkFybGM2ekNnZWxIUEN5Q01tWE9sLTc2bUlOTjJvZHpuNDJSSWNjbmkzd2dKRnRLTUdIN29hMldveGJETQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787865839.0
-    },
-    {
-        "id": "5ff838768f",
-        "title_fa": "گرنت ۱۰۰ هزار دلاری دانشگاه مورگان برای آموزش هوشمند",
-        "title_en": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative",
-        "summary": [
-            "دانشگاه مورگان گرنت ۱۰۰ هزار دلاری NCAA را برای راه‌اندازی سامانه پشتیبانی آموزشی مبتنی بر هوش مصنوعی دریافت کرد.",
-            "این بودجه صرف ابزارهای هوشمند برای ارتقای سطح تحصیلی دانشجویان ورزشکار خواهد شد."
-        ],
-        "full_text": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative  Morgan State University Athletics",
-        "impact": "استفاده عملیاتی از هوش مصنوعی برای بهبود وضعیت تحصیلی ورزشکاران.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.6,
-        "source": "Morgan State University Athletics",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3ltS3Z3SlFEZ21Lb2VWUEZoM1JyOFE4Q0NxekZnc2lGaE1TQlFnREVoWEJUNktTdHluTTNaQ2dPMDFlcEN6YWhseXAzdDgyTHpkbUFnNUkxZ2FzeU9fRk5DdkdyYnRVbFBXT2lPcFc3b2NUSkpHUEFFcERKR1JXbGVrQlFfU09xQnM3VEIyV0N2eTZlNlhVQmdoQVhleEZwXzNueUotZUNNbkVzZmtpZHZnVTJHejl6eG5qMWxhdi1rWkVRUDE5UEh1NHlaYW9fYkQyTU93WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3ltS3Z3SlFEZ21Lb2VWUEZoM1JyOFE4Q0NxekZnc2lGaE1TQlFnREVoWEJUNktTdHluTTNaQ2dPMDFlcEN6YWhseXAzdDgyTHpkbUFnNUkxZ2FzeU9fRk5DdkdyYnRVbFBXT2lPcFc3b2NUSkpHUEFFcERKR1JXbGVrQlFfU09xQnM3VEIyV0N2eTZlNlhVQmdoQVhleEZwXzNueUotZUNNbkVzZmtpZHZnVTJHejl6eG5qMWxhdi1rWkVRUDE5UEh1NHlaYW9fYkQyTU93WQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787865614.0
-    },
-    {
-        "id": "d96787d81e",
-        "title_fa": "انتخاب ZenaTech به عنوان برترین فناوری پهپادی کشاورزی",
-        "title_en": "ZenaTech Named 2026 'Drone Technology of the Year' Winner by AgTech Breakthrough Awards",
-        "summary": [
-            "شرکت ZenaTech برنده جایزه «فناوری پهپادی سال ۲۰۲۶» در جوایز AgTech Breakthrough شد.",
-            "این جایزه به دلیل نوآوری‌های این شرکت در به‌کارگیری پهپادها برای هوشمندسازی و بهینه‌سازی کشاورزی اعطا گردید."
-        ],
-        "full_text": "ZenaTech Named 2026 'Drone Technology of the Year' Winner by AgTech Breakthrough Awards  EIN News",
-        "impact": "ارتقای بهره‌وری کشاورزی با استفاده از فناوری‌های هوشمند پهپادی.",
-        "tag": "گجت",
-        "urgency": 3,
-        "sentiment": 0.8,
-        "source": "EIN News",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFNrWU8xVnRsdkxYeXZLcmdLM2pWeEQ0T3JrTE50NDNPSDE0OG5pdEFIcHlRd2V3cm52N3p2cHZQUUFfVlU0emIzejl2QUlwT2Q5TTJpUk4tdTdxVkFQajdjMG9lOTNYUVpmV1FkWWxpWTRRWlYzRzlHRzRPTXB0MFFoLWlac1I5VHYwS0NRUXg2SWtSUjgyaGx1YUI1NHA4N1BXNU1RUmlXT2dadVNTRFUwalVpcEFmc3R3Q0ZHQXB0OFJTTDdF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFNrWU8xVnRsdkxYeXZLcmdLM2pWeEQ0T3JrTE50NDNPSDE0OG5pdEFIcHlRd2V3cm52N3p2cHZQUUFfVlU0emIzejl2QUlwT2Q5TTJpUk4tdTdxVkFQajdjMG9lOTNYUVpmV1FkWWxpWTRRWlYzRzlHRzRPTXB0MFFoLWlac1I5VHYwS0NRUXg2SWtSUjgyaGx1YUI1NHA4N1BXNU1RUmlXT2dadVNTRFUwalVpcEFmc3R3Q0ZHQXB0OFJTTDdF",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787863367.0
-    },
-    {
-        "id": "99ad8a7cf3",
-        "title_fa": "انتشار گزارش مالی سه‌ماهه دوم شرکت تراشه‌سازی Marvell",
-        "title_en": "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results",
-        "summary": [
-            "شرکت Marvell Technology گزارش مالی سه ماهه دوم سال مالی ۲۰۲۷ خود را منتشر کرد.",
-            "عملکرد مالی این سازنده تراشه به عنوان یکی از تامین‌کنندگان زیرساخت‌های ارتباطی و هوش مصنوعی زیر ذره‌بین بازار قرار دارد."
-        ],
-        "full_text": "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results  Marvell Technology",
-        "impact": "ارزیابی سلامت مالی و میزان تقاضا در بازار زیرساخت‌های نیمه‌هادی.",
-        "tag": "سخت‌افزار",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Marvell Technology",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDhNVWVTS042VzhPTnZYZWgwd2kzVW1aVm9NR29YUHZncmt6QWFsbFJIQVFrLTRsQUtjc00yZHo3VXlvcFZQY3R0dGJiVzVSNDl6bllJQldUM185U0o5LWV6UFRmSWhHMWR0STBfazA5eVNBbU4xbUtyY0xzSnphR2piOVozN1lpd0JWRmFjUDV3UzdCY2RoN3V0M0Y0Q18xYUY2SGw0X2t0ME1JOVNwZ0RzcjlMYXBwVmxhSlFvdUR3bnVNMDQwbDlqVEdQMWMtRjFDQ2cyb3dkdDFyczZJbUJEc20xUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMDhNVWVTS042VzhPTnZYZWgwd2kzVW1aVm9NR29YUHZncmt6QWFsbFJIQVFrLTRsQUtjc00yZHo3VXlvcFZQY3R0dGJiVzVSNDl6bllJQldUM185U0o5LWV6UFRmSWhHMWR0STBfazA5eVNBbU4xbUtyY0xzSnphR2piOVozN1lpd0JWRmFjUDV3UzdCY2RoN3V0M0Y0Q18xYUY2SGw0X2t0ME1JOVNwZ0RzcjlMYXBwVmxhSlFvdUR3bnVNMDQwbDlqVEdQMWMtRjFDQ2cyb3dkdDFyczZJbUJEc20xUQ",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787861242.0
     }
 ]
