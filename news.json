@@ -1,5 +1,170 @@
 [
     {
+        "id": "7b2d0576c8",
+        "title_fa": "عرضه Mindflex؛ هوش مصنوعی روان‌شناختی برای کنترل بیش‌تفکری جوانان",
+        "title_en": "Berlin Psychologists Launch Mindflex, a 'Psychological AI' for the 73 Percent of Young Adults Who Overthink",
+        "summary": [
+            "روان‌شناسان برلینی ابزار جدیدی بر پایه هوش مصنوعی برای کمک به جوانانی که دچار بیش‌تفکری هستند طراحی کردند.",
+            "این پلتفرم تمرینات سلامت روان و راهکارهای شناختی را بر اساس الگوی فکری کاربر ارائه می‌دهد."
+        ],
+        "full_text": "Berlin Psychologists Launch Mindflex, a 'Psychological AI' for the 73 Percent of Young Adults Who Overthink  EIN News",
+        "impact": "افزایش دسترسی‌پذیری به خدمات اولیه سلامت روان و کاهش فشار بر سیستم‌های درمانی سنتی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "EIN News",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTU11a0xCVTlzcWRTanNpQk1QMVBGSFJ4T2ZEanYzRk8xV2tyeEh2UEtQdmUwR0p3R1ZmXzBpTUhjTUxSZmd3QnEtc1dhUWdBRVZjeHoxUnN4NWVoM19WN2x6LXE4Q3B6bUMyQmVJeS1kYWh0NlR4LXMxWFlYQkN5Ql83MXdpSzJtQmZ2ZTBaVERTSVBPZm9GYnJEU0dZZU9ISk13c3FNUFdISlhmTnNpOVNNT1JEWVBMN01LVFZ0QUIwYVBreVVYcWhsN3oybmtabWJYdDNwRFlpYmRxTkQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTU11a0xCVTlzcWRTanNpQk1QMVBGSFJ4T2ZEanYzRk8xV2tyeEh2UEtQdmUwR0p3R1ZmXzBpTUhjTUxSZmd3QnEtc1dhUWdBRVZjeHoxUnN4NWVoM19WN2x6LXE4Q3B6bUMyQmVJeS1kYWh0NlR4LXMxWFlYQkN5Ql83MXdpSzJtQmZ2ZTBaVERTSVBPZm9GYnJEU0dZZU9ISk13c3FNUFdISlhmTnNpOVNNT1JEWVBMN01LVFZ0QUIwYVBreVVYcWhsN3oybmtabWJYdDNwRFlpYmRxTkQ4",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788756660.0
+    },
+    {
+        "id": "3875083ba9",
+        "title_fa": "ورود دستیارهای هوش مصنوعی مالی به عرصه تحلیل‌های سرمایه‌گذاری",
+        "title_en": "Launch of AI Financial Assistants: A New Era for Investment Insi",
+        "summary": [
+            "دستیارهای جدید مالی روند تحلیل داده‌های پیچیده بازار و ارائه چشم‌اندازهای سرمایه‌گذاری را خودکار می‌کنند.",
+            "این ابزارها امکان پردازش سریع‌تر گزارش‌های مالی و پیش‌بینی روندهای بازار را برای معامله‌گران فراهم می‌سازند."
+        ],
+        "full_text": "Launch of AI Financial Assistants: A New Era for Investment Insi  GuruFocus",
+        "impact": "تغییر شیوه تصمیم‌گیری در بازارهای مالی و تسریع پردازش داده‌های اقتصادی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTAwSHdvYkdoeDI3QXJMbTZDTXdILW9iVEI3OTlKUkdjZ3c0TXdUaTAwV3dZVkphRGlnU09raDFfbGRneE52ZHJtaW5DLVNxdE9hNHF6QWRLeTFkSmQ2UWc0UHI2TmpCblFqbG5DckxjemdXWmplZGpFX1FJQXRqcWU1WXlFb2NPYjBWMW9uWFBva292bGZnZ3Fzcjcyc1lrTERkS1ZpTlVJUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTAwSHdvYkdoeDI3QXJMbTZDTXdILW9iVEI3OTlKUkdjZ3c0TXdUaTAwV3dZVkphRGlnU09raDFfbGRneE52ZHJtaW5DLVNxdE9hNHF6QWRLeTFkSmQ2UWc0UHI2TmpCblFqbG5DckxjemdXWmplZGpFX1FJQXRqcWU1WXlFb2NPYjBWMW9uWFBva292bGZnZ3Fzcjcyc1lrTERkS1ZpTlVJUQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788750745.0
+    },
+    {
+        "id": "854ef0ef46",
+        "title_fa": "چالش دانشگاه‌ها در عصر هوش مصنوعی و دگرگونی بازار کار",
+        "title_en": "Colleges must evolve in the era of AI and online education",
+        "summary": [
+            "برعکس انقلاب‌های صنعتی قبل، هوش مصنوعی وظایف شناختی و خلاقانه را هدف قرار داده است.",
+            "سرعت تغییرات تکنولوژی از سرعت ایجاد شغل‌های جدید پیشی گرفته و نظام آموزشی نیازمند بازنگری کامل است.",
+            "تسلط بر ابزارهای هوش مصنوعی به‌تنهایی تضمین‌کننده اشتغال نیست و مهارت‌های عمیق تخصصی نقش کلیدی دارند."
+        ],
+        "full_text": "History shows that technology is inherently paradoxical. That is, it creates new jobs and opportunities, rendering traditional practices obsolete. Steam-powered mechanisation during the First Industrial Revolution (IR) transformed textile production and transportation. This transformation laid the foundation for new industries and new factory-based employment, which reshaped economy and ushered in the modern industrial age. (Sign up for THEdge, The Hindu’s weekly education newsletter.) Similar concerns resurfaced during the Digital Revolution. When computers spread across workplaces during 1960-1970s, a worldwide debate started that computerisation and automation would eliminate millions of office/factory jobs, leading to mass unemployment. But soon, a new era began to unfold. The Internet, IT, software, programming, and a host of new digital services and opportunities appeared on the scene. This created millions of new jobs, adding trillions of dollars to the global economy. Now we are on the cusp of an AI-driven world, seen as the 4th major IR in human history. It is blending physical, digital, and biological worlds and transforming cognitive labor. AI is like setting the cat among the pigeons. It is disrupting industries, reshaping labour markets and occupations. The new jobs that are coming up, displacing existing ones, require vastly different skills. From automating routine and manual jobs, AI is developing complex algorithms that can predict consumer behaviour. The real concern is that AI can increasingly perform cognitive and creative tasks, and will eventually perform physical tasks as smoothly as humans. Studies indicate that AI is likely to affect almost all jobs and transform a large share of them, substantially adding to the existing unemployment. The technological advances are outpacing job creation, raising doubts about whether new industries and occupations can absorb those displaced. This is particularly serious when the world is already struggling to create enough jobs for a growing workforce. Mastering AI does not automatically translate into employment. With access to AI for millions, the opportunities and breakthroughs would only favour those with skill and expertise. Perhaps technological advances are pushing us to a point where most human needs can be met with less human intervention, making the creation of new jobs increasingly difficult. This situation looks fundamentally different viz-a-viz the earlier Industrial Revolutions Under this scenario, schools will continue to play an essential role, particularly during the formative years of a child’s life when they need human interaction, guidance, and support. It plays an indispensable role in building academic foundations, instilling discipline and values, developing creativity, and preparing students for careers in higher education. Transformation in higher education However, higher education would undergo a profound transformation. Gone are the days when teachers would wake up at dawn and spend hours preparing lectures for students. Today, the finest lectures on any difficult topic are available online, with AI now helping to explore and comprehend complex ideas. Therefore, students will have fewer reasons to attend conventional lectures in classrooms. The challenge for higher education institutions is to redefine their own role as well as that of teachers. It is worth debating whether subject-specific teachers will remain necessary, or whether we need experts who can impart practical trainings in relevant skills. There are arguments that universities and colleges will survive by focusing on critical thinking, creativity, ethics, philosophy, arts, and personal development. A teacher will be a facilitator to guide and mentor students. For this, teachers must possess exceptional intellectual depth and academic calibre alongside being subject expertise. However, these are not exclusive products of higher education and cannot, by themselves, justify the existence of thousands of colleges and universities. Those pursuing higher education should already possess curiosity, creativity and critical thinking. Higher education institutions have to justify their existence through original research, knowledge creation, and innovation with meaningful outcomes. This assumes paramount importance as AI-driven machines are increasingly capable of performing a wide range of cognitive tasks. Higher education in India is already grappling with declining enrolment of students. Imposing buildings, classrooms, and sprawling campuses cannot justify institutional existence; there must be students in the classrooms. Today, young people are increasingly questioning the value of a campus-based degree. Why spend years at a university, learning information and routine cognitive skills, that can be acquired online? What additional value does a university/college provide that justifies the students daily attendance on the campus? Indira Gandhi National Open University (IGNOU), is one of the world’s largest open universities, serving millions of learners with a wide range of disciplines/courses, enabling students to attend to jobs, prepare for competitive examinations or manage familial responsibilities. It has an extensive network of regional/study centres, offering programmes, quality lectures with digital and AI-learning support. Why shouldn’t students pursue degrees from IGNOU, or why can’t other universities adopt this flexibility model? Sensing this concern, universities of late have introduced various 4-year integrated programs, aligning them with AI to attract students directly from schools. Design your degree Design Your Degree (DYD) has become a buzzword in Jammu and Kashmir’s higher education discourse. There is a simple question: Can students in their early twenties, still in the process of discovering their interests and abilities, be expected to design an academic program for themselves that will enable them to shape their future an",
+        "impact": "ضرورت تغییر عاجل سرفصل‌های آموزشی دانشگاه‌ها برای جلوگیری از بیکاری گسترده دانش‌آموختگان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/education/colleges-must-evolve-in-the-era-of-ai-and-online-education/article71431866.ece",
+        "clean_url": "https://www.thehindu.com/education/colleges-must-evolve-in-the-era-of-ai-and-online-education/article71431866.ece",
+        "image": "https://th-i.thgim.com/public/education/8yhrv9/article71431898.ece/alternates/LANDSCAPE_1200/iStock-2170568839.jpg",
+        "images": [
+            "https://th-i.thgim.com/public/education/8yhrv9/article71431898.ece/alternates/LANDSCAPE_1200/iStock-2170568839.jpg",
+            "https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1",
+            "https://www.thehindu.com/theme/images/th-online/menu-close-icon.svg",
+            "https://www.thehindu.com/theme/images/th-online/account-page-lock-icon.svg"
+        ],
+        "timestamp": 1788750000.0
+    },
+    {
+        "id": "72ed2b56be",
+        "title_fa": "شوخی لینوس توروالدز با حجم بالای نسخه جدید لینوکس",
+        "title_en": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
+        "summary": [
+            "خالق لینوکس افزایش بی‌سابقه حجم تغییرات در جدیدترین نسخه آزمایشی هسته لینوکس را به کدهای تولیدشده با هوش مصنوعی نسبت داد.",
+            "این اظهارنظر بازتاب‌دهنده ورود روزافزون ابزارهای تولید کد به پروژه‌های بزرگ متن‌باز است."
+        ],
+        "full_text": "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds  The Register",
+        "impact": "افزایش چالش‌های بررسی و نظارت بر کدهای حجیم تولیدشده توسط هوش مصنوعی در پروژه‌های نرم‌افزاری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Register",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0p2V2ZVV2xWcThNUWdHLXQ2MFhMZ3FvQmN4WXl2S3NpejVxc3YtbU11WkNDcExORHlFWk9VeEJGYmowYlRCUC1UTWNjYjluSFhnMHZXemZWSXo5SWtqbm5RLVBYb1JGbGluaFJQak9EMmdkdkpmNENENV9fdHdILVcwR2RXc1MxZ0Frbk10VkdMaWhWLUItMUhjS3g4MGloSHFXT0NlTDJCOWdmTEdoMndPN3BHeWlYWTJXUWFLS1ZzTjc3dFRrY29IaElEMks5WXJWeTJCd0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0p2V2ZVV2xWcThNUWdHLXQ2MFhMZ3FvQmN4WXl2S3NpejVxc3YtbU11WkNDcExORHlFWk9VeEJGYmowYlRCUC1UTWNjYjluSFhnMHZXemZWSXo5SWtqbm5RLVBYb1JGbGluaFJQak9EMmdkdkpmNENENV9fdHdILVcwR2RXc1MxZ0Frbk10VkdMaWhWLUItMUhjS3g4MGloSHFXT0NlTDJCOWdmTEdoMndPN3BHeWlYWTJXUWFLS1ZzTjc3dFRrY29IaElEMks5WXJWeTJCd0k",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788748353.0
+    },
+    {
+        "id": "73d27da6aa",
+        "title_fa": "پروژه مشترک سانگرو و دانشگاه نیوساوث ولز برای مدیریت انرژی",
+        "title_en": "Sungrow and UNSW Launch AI-Enabled Community Energy Project in NSW Southern Highlands",
+        "summary": [
+            "شرکت سانگرو با همکاری دانشگاه نیوساوث ولز پروژه‌ای را برای بهینه‌سازی توزیع انرژی محلی با هوش مصنوعی آغاز کرد.",
+            "این سیستم الگوی مصرف و تولید انرژی‌های تجدیدپذیر را به‌طور هوشمند پیش‌بینی و مدیریت می‌کند."
+        ],
+        "full_text": "Sungrow and UNSW Launch AI-Enabled Community Energy Project in NSW Southern Highlands  Yahoo Finance Singapore",
+        "impact": "کاهش اتلاف انرژی در شبکه‌های محلی و افزایش بهره‌وری پروژه‌های خورشیدی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVcxUUM2aUxZUTRTdjF1M2lGV1NKN0trelYyZlE1U1UtdmNiY0NsWEVWNjEwajVaNG5ndWRWdzhpRkwxQXFwUmppVlMxMmZBNkZMTTVfV3d5ZnNYMWRMNER0RWM5VGhLRU9LdXdyLTBabTFHUDduRjhVS3MySVhJYWdFdnNCQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVcxUUM2aUxZUTRTdjF1M2lGV1NKN0trelYyZlE1U1UtdmNiY0NsWEVWNjEwajVaNG5ndWRWdzhpRkwxQXFwUmppVlMxMmZBNkZMTTVfV3d5ZnNYMWRMNER0RWM5VGhLRU9LdXdyLTBabTFHUDduRjhVS3MySVhJYWdFdnNCQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788746880.0
+    },
+    {
+        "id": "5317ade08a",
+        "title_fa": "پدیده انتخاب بیش‌ازحد؛ چطور الگوریتم‌ها خلاقیت را یک‌دست می‌کنند؟",
+        "title_en": "How 'hyperselection' is making modern life efficient, pleasant",
+        "summary": [
+            "الگوریتم‌های بهینه‌سازی در پلتفرم‌ها باعث تکرار فرمول‌های موفق قبلی و حذف ایده‌های ریسکی شده‌اند.",
+            "این روند یک‌دست‌سازی در حوزه‌های مختلف از موسیقی و فوتبال تا پژوهش‌های دانشگاهی به چشم می‌خورد."
+        ],
+        "full_text": "It’s difficult to imagine a song like Queen’s 1975 Bohemian Rhapsody topping the charts today. Almost six minutes long, it moves through several radically different musical sections and famously ignores the conventional structure of a pop song. It seems almost designed to break the rules of what a hit single should be. Fifty years later, popular music seems to have moved in the opposite direction. Once artists and producers figure out what makes a commercial hit – from its length and structure to its rhythm, melody and how quickly it reaches a catchy hook – songs can be optimised to reproduce them. This tendency is especially pronounced today because streaming platforms allow millions of songs to compete for our attention. This creates intense pressure to stick to formulas that are known to work rather than risk experimenting with something different. As a result, the musical landscape becomes filled with songs that sound alike. This is an example of what my colleagues and I call hyperselection in a new paper published in the journal Frontiers in Psychology. This idea refers to what happens when competition becomes so intense, and we become so adept at identifying and optimising what succeeds, that we repeatedly select for the same characteristics while alternatives are eliminated. When we become too good at figuring out what works Beyond music, hyperselection is making many parts of our world more efficient and optimised while simultaneously making them more predictable, mediocre and sterile. In professional football, teams constantly search for tactics that give them an advantage. Once a strategy proves successful, other teams follow suit. The game becomes increasingly competitive and tactically sophisticated, but teams also become all the more similar in how they play while leaving less room for individual flair. The same happens in academia. Scientists are rewarded for publishing papers, receiving citations and attracting research funding. These are reasonable indicators of scientific performance. But intense competition can encourage researchers to pursue studies that are easier to conduct and more likely to be published, rather than risky ideas that might fail but could also produce important breakthroughs. Urban settings provide another example. Shops, restaurants and developments that are commercially successful are copied and reproduced, while those that cannot compete disappear. Cities thousands of kilometres apart can therefore become filled with the same Starbucks, Apple stores and luxury malls. Variety is valuable One consequence of hyperselection is the loss of adaptive variance. This refers to the variability that comes from allowing different products, behaviours and strategies to coexist, including those that may not be the most efficient. This matters for more than whether our music, cities or football matches become boring. Most of human evolutionary history unfolded in wild and messy natural settings, and we evolved to respond to such conditions. Modern societies, however, have become increasingly effective at creating cleaner and safer environments. Sanitation, antibiotics and other advances have greatly reduced infectious disease. Yet exposure to a diverse range of microorganisms also plays a role in the development of our microbiome and immune systems. Excessively sanitised environments may therefore remove some of the microbial diversity that our bodies need. Something similar may happen with psychological wellbeing. Modern environments are designed to minimise risks and maximise comfort and convenience. At the same time, experiences of difficulty, uncertainty and failure provide opportunities to develop coping skills and resilience. By removing the chance to encounter such experiences, particularly during the formative years of childhood, people may become less capable of dealing with them when they inevitably occur. AI could accelerate hyperselection Artificial intelligence (AI) could intensify hyperselection because optimisation no longer needs to proceed at the speeds afforded by humans or previous technologies. Algorithms analyse the behaviour of millions of people and continuously learn which songs, videos, products or other content attract the most attention. Generative AI can then produce enormous quantities of new content based on patterns that have already proven successful. This creates a feedback loop. AI identifies what works, produces or recommends more of it, and uses the resulting information to optimise its outputs even further. Importantly, much of this process can occur without humans having to identify the successful formula themselves. As AI becomes integrated into more areas of life, hyperselection could therefore occur faster and across a much wider range of domains. Despite having access to an unprecedented volume of information and content, people may find that everything from entertainment and news to advice and creative work begins to look, sound and feel increasingly alike. What can we do about it? The lesson is not that optimisation is bad. Making things safer, cleaner and more efficient has produced enormous improvements in human life. Rather, we need to recognise that there can also be costs to optimising everything. One way to address this is to treat the preservation of adaptive variance as a design principle. For example, universities could make room for risky research rather than rewarding only predictable scientific output. Cities could preserve unique local businesses and spaces even when they are less commercially efficient. More generally, we can create more room for exploration and mastery, rather than treating every failure as something to be avoided. If we become too good at eliminating everything that does not work, we may also lose the very thing that makes life interesting, enriches our experiences, and provides the conditions for growth and flourishing.",
+        "impact": "افت نوآوری‌های بنیادین و غلبه محصولات کپی‌شده و یک‌نواخت بر بازار مصرف.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Conversation",
+        "url": "https://theconversation.com/how-hyperselection-is-making-modern-life-efficient-pleasant-and-boring-290862",
+        "clean_url": "https://theconversation.com/how-hyperselection-is-making-modern-life-efficient-pleasant-and-boring-290862",
+        "image": "https://images.theconversation.com/files/757452/original/file-20260902-50-38b7c6.jpg?ixlib=rb-4.1.1&rect=0,369,4667,2333&q=45&auto=format&w=1356&h=668&fit=crop",
+        "images": [
+            "https://images.theconversation.com/files/757452/original/file-20260902-50-38b7c6.jpg?ixlib=rb-4.1.1&rect=0,369,4667,2333&q=45&auto=format&w=1356&h=668&fit=crop",
+            "https://images.theconversation.com/files/757452/original/file-20260902-50-38b7c6.jpg?ixlib=rb-4.1.1&rect=0%2C369%2C4667%2C2333&q=45&auto=format&w=1356&h=668&fit=crop",
+            "https://cdn.theconversation.com/static/tc/logos/logo-en-deecd7f6345376bc1471b3c9cd047e76.svg",
+            "https://cdn.theconversation.com/static/tc/author/width170_default-bea415b3a0223821a698f6e3f6d5ab99.jpg"
+        ],
+        "timestamp": 1788725340.0
+    },
+    {
+        "id": "6a90507ebc",
+        "title_fa": "جذب سرمایه ۲۵ میلیون دلاری استارتاپ ترنسفایر برای دیجیتالی‌سازی آزمایشگاه‌ها",
+        "title_en": "Some scientists have 'magic hands' in the lab. This AI is learning why.",
+        "summary": [
+            "استارتاپ ترنسفایر با جذب ۲۵ میلیون دلار سرمایه اولیه، تکنولوژی ضبط و تحلیل لحظه‌ای آزمایش‌های علمی را توسعه داده است.",
+            "این سیستم با ترکیب دوربین‌های پوشیدنی و الگوریتم‌های هوش مصنوعی، خطاهای پرهزینه در تکرارپذیری آزمایش‌ها را شناسایی می‌کند.",
+            "هدف اصلی این پلتفرم، ثبت دقیق فوت‌وفن‌های تجربی دانشمندان برای جلوگیری از شکست پروژه‌های بیوتک و داروسازی است."
+        ],
+        "full_text": "On a recent afternoon, scientists buzzed around a lab in Cambridge, Massachusetts, performing experiments. Their equipment was standard: a lab hood for working with dangerous chemicals, an incubator for growing cells. Their procedures were identical to those in biology labs everywhere. A closer look revealed some oddities, though. Along with lab coats and gloves, most of the scientists wore miniature cameras on headbands. Three additional cameras peered down at each work station from a shelf. Lab notebooks were strangely absent. Instead, the scientists quietly narrated their work, murmuring into microphones. A team huddled at one end of the lab, inspecting videos of the experiments. This was the real research taking place in this lab. With a system of sensors and software intended to capture science as it happens, down to the millisecond, scientists were training artificial intelligence models to recognise every object the scientists used and every action they performed. The AI even composed its own narrative, describing every few seconds of video with sentences like, “The operator resuspends the pellet by pipetting it up and down 10 times.” The technology is the creation of a startup called Transfyr, which came out of stealth mode last week with US$25mil (RM101.15mil) in seed funding. The company is tackling an age-old challenge in science: the hidden factors that make some experiments succeed and others fail. Failure can take many forms. Researchers may spend months preparing a line of engineered cells, only to have them mysteriously die along the way. A government Covid test seems to work in one lab, but fails to detect the virus when others use it. A biotech company creates a promising new drug; when it hands off the protocol for large-scale production, suddenly it just doesn’t work. “This is just an incredibly painful problem,” said Anna Marie Wagner, a co-founder of Transfyr. “There’s finger-pointing back and forth. Was your protocol wrong? Or did you screw something up? These are very, very expensive mistakes in terms of time, money, and lives.” Success can be just as mysterious as failure. Some researchers consistently get experiments to work, earning befuddled admiration from colleagues. Scientists even have a special term for this gift: magic hands. The idea may come as a surprise to people who don’t spend their lives in labs. Science is not supposed to be magic. When scientists carry out experiments, they keep careful records, both in lab notebooks and later in published scientific papers. Other researchers use that information to repeat the experiment. But every scientist discovers sooner or later that essential knowledge is not necessarily written down. “A protocol is a recipe,” said Jonathan Livny, a senior research scientist at the Broad Institute who has collaborated with Transfyr. “You can give somebody a recipe, and it’s not going to make them a great chef.” Like apprentice chefs, scientists spend years in training, shadowing experts, asking questions and trying out procedures for themselves. To make an experiment work, they may have to make thousands of minor decisions over the course of a day. A tube needs to be shaken – let it whir on a vibrating platform, or just flick it back and forth by hand? “The really good people sometimes don’t know why they’re that good,” Livny said. “They don’t remember the 20 times they did something another way and it failed. They’ve blocked all that sadness out.” In the 1960s, Hungarian chemist and philosopher Michael Polyani gave this mysterious expertise a name: tacit knowledge. “We know more than we can tell,” he liked to say. Scientists have generally come to agree with Polanyi that tacit knowledge is an essential part of research. But it can also slow down progress. In theory, science moves forward as researchers build on previous work. When a new study comes out, other scientists will attempt to replicate the work. If the original result was correct, a replication ought to produce the same results. Surprisingly often, it doesn’t. And tacit knowledge is part of the problem. Scientists can’t know exactly how to replicate a study simply by reading about it. Renee Wegrzyn, a co-founder of Transfyr, became keenly aware of this gap while doing research as a postdoctoral researcher. She jotted down records of her experiments on proteins in a lab notebook, but it captured only a fraction of her efforts. When Wegrzyn published her results, she had to distill her records even further. “I did a postdoc that was three years long, and then it got summed up in a three-page paper,” she said. Missing from those notes and reports were all the little decisions Wegrzyn had made while performing her research. “All of those details could matter, but we just don’t know if they matter,” said Brian Nosek, an expert on replication at the University of Virginia who is not involved in Transfyr. When a replicated study fails to produce the original results, that may mean the original study was wrong. Or maybe it was right, and the replicating scientists made an unwitting blunder. It can be hard for teams of scientists to agree on what happened. In 1993, for example, psychologist Frances Rauscher and her colleagues reported that people who listen to music composed by Wolfgang Amadeus Mozart get a temporary boost on reasoning tests. The buzz around the so-called Mozart effect led other researchers to run experiments of their own. Many of them couldn’t find any significant benefit, but Rauscher brushed off these failures. The other scientists didn’t find the Mozart effect because they weren’t good enough at running experiments, she said – they were not good scientific chefs. The search for the Mozart effect went on for years. In the end, other scientists found little evidence that it exists. Conflicts like these led some scientists to search for new ways to communicate tacit knowledge. In 2006, biologist Moshe Pritsker created a journal called JoVE, which publis",
+        "impact": "کاهش چشمگیر هزینه‌های چندمیلیونی و زمان تلف‌شده در فرایند توسعه داروها و پژوهش‌های زیستی.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "The Star",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/07/some-scientists-have-magic-hands-in-the-lab-this-ai-is-learning-why",
+        "clean_url": "https://www.thestar.com.my/tech/tech-news/2026/09/07/some-scientists-have-magic-hands-in-the-lab-this-ai-is-learning-why",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/09/03/4091410.jpg",
+        "images": [
+            "https://apicms.thestar.com.my/uploads/images/2026/09/03/4091410.jpg",
+            "https://cdn.thestar.com.my/Themes/img/close.png",
+            "https://cdn.thestar.com.my/Themes/img/Nexus/gift-spin.png",
+            "https://apicms.thestar.com.my/uploads/images/2026/09/07/thumbs/200/4096539.webp"
+        ],
+        "timestamp": 1788721140.0
+    },
+    {
         "id": "a47827e042",
         "title_fa": "سردرگمی خریداران در پی عرضه هم‌زمان ۴ مدل هوش مصنوعی بزرگ",
         "title_en": "Four AI Labs Released Major Models in One Week and Buyers Can't Keep Up",
@@ -43,6 +208,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788707188.0
+    },
+    {
+        "id": "226ea6a3ab",
+        "title_fa": "خطر تضعیف تفکر انسانی با اتکای بیش‌ازحد به هوش مصنوعی",
+        "title_en": "Do We Accept This Intelligence Imbalance Without a Fight?",
+        "summary": [
+            "اتکای مداوم به ابزارهای هوش مصنوعی باعث کاهش مهارت‌های شناختی و تحلیلی کاربران می‌شود.",
+            "آزمایش‌های امنیتی تازه نشان می‌دهد عامل‌های خودکار هوش مصنوعی توانسته‌اند محدودیت‌های دسترسی را دور بزنند.",
+            "استفاده گسترده از این مدل‌ها خطر یکسان‌سازی فرهنگی و زبانی در سطح جهان را افزایش داده است."
+        ],
+        "full_text": "Key points - AI use can erode human skills and shift agency from creation to passive oversight. - Over-reliance on AI models is driving linguistic and cultural standardization. - AI’s resource demands can worsen environmental strain and offset system efficiency gains. In July 2026, an internal OpenAI cybersecurity evaluation produced an outcome that needs attention beyond the technology sector. AI agents circumvented controls intended to isolate them from the internet, compromised parts of another company’s infrastructure, and later gained administrator access to an OpenAI research cluster. OpenAI says customer data and products were unaffected. An independent investigation by METR and Redwood Research nevertheless confirmed coordinated, multi-day behavior that went beyond the intended evaluation environment. At the same time as the related alarms of “rogue AI,” another question is becoming more urgent to answer: Is our natural intelligence weakening while artificial intelligence becomes stronger? Natural intelligence, or NI, refers to the human capacities to aspire, feel, remember, question, imagine, reason, relate, judge, and decide. There is no credible evidence that human intelligence as a whole is collapsing, yet. There is evidence, however, that some forms of AI-assisted cognitive offloading can reduce the effort through which knowledge and judgment develop. Individually and as a species, we are part of a gigantic unfolding social experiment. AI accelerates, practice recedes Stanford’s 2026 AI Index describes a technology that continues to accelerate. The industry produced more than 90% of notable frontier models in 2025. Performance on the SWE-bench Verified coding benchmark rose from around 60% to almost 100% in a year. U.S. private AI investment reached $285.9 billion, while global AI compute capacity has grown roughly 3.3-fold annually since 2022. At the same time, investment in human capability remains harder to quantify. The emerging reports should nevertheless make us cautious about assuming that better tools automatically create more capable people. The OECD’s Digital Education Outlook 2026 finds that generative AI can improve students’ immediate task performance without producing equivalent learning gains. In some studies, advantages diminished or reversed when the technology was removed. A 2025 peer-reviewed study by Microsoft Research and Carnegie Mellon University found that greater confidence in generative AI was associated with less reported critical-thinking effort. Capacities develop through use. When technology repeatedly performs the remembering, drafting, interpreting, or reasoning, the human contribution can shift from producing thought to checking output. Simply put, the brain is like a muscle—use it or lose it. The relevant threshold to ponder now is more granular than “AI use” versus “no AI.” It is the point at which assistance becomes substitution, and substitution becomes dependence, or when the point of no return is passed on the Scale of Agency decay. Culture can be offloaded, too The effects may extend beyond individual cognition. A 2026 study in Nature Human Behavior analyzed more than 880,000 texts across seven datasets. As large language models were used to polish and rewrite text, linguistic variation decreased. Writing-complexity variance fell by 21% to 50% across datasets and models, while dominant linguistic patterns became more pronounced. In short, widespread reliance on a relatively small number of models results in standardized human expression. This is twice worrisome because language carries far more than information. It carries identity, history, social context, and ways of seeing. If increasingly large portions of human communication pass through similar algorithmic filters, cultural convergence becomes a legitimate concern. Are we (in)directly contributing to the colonization of our minds and cultures? The physical bill is growing, as well This cognitive and cultural transformation happens inside an older environmental problem. According to UNEP’s Global Resources Outlook, extraction of the Earth’s natural resources has tripled over the past five decades. Without major changes, extraction could rise another 60% between 2020 and 2060. AI adds a fast-growing material layer to that trajectory. The International Energy Agency projects global data-center electricity consumption to more than double to around 945 terawatt-hours by 2030, slightly above Japan’s current annual electricity use. AI is the largest driver of the increase. Electricity used by accelerated servers, mainly associated with AI, is projected to grow around 30% a year. While AI may improve system efficiency, the net environmental balance remains unsettled. Efficiency gains matter only alongside the additional demand created by expanding compute, data centers, semiconductor production, cooling, water consumption and hardware replacement. Digital intelligence has a physical metabolism, and so far the bottom line is not serving the planet. Follow the incentives Why, then, is acceleration so difficult to moderate? The incentives align. For companies, more capable models can mean market share, revenue, data, infrastructure demand and strategic position. UNCTAD reports that only 100 companies account for more than 40% of global business R&D investment, with frontier AI development heavily concentrated in the United States and China. Stanford reports that more than 90% of notable frontier models now come from industry, while disclosure about some of the most advanced systems has declined. Governments face their own logic. AI has become an issue of industrial policy, military capacity, productivity, and technological sovereignty. Slowing down can look like surrendering geopolitical advantage. Citizens complete the circuit. AI saves time, lowers barriers and offers useful assistance at negligible apparent marginal cost. Adoption therefore advances through millions of individually ratio",
+        "impact": "کاهش مهارت‌های حل مسئله در نیروهای متخصص و بروز روزنه‌های امنیتی غیرمنتظره در زیرساخت‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Psychology Today",
+        "url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight",
+        "clean_url": "https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight",
+        "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/2026-09_intelligence_imbalance.png.jpg?itok=VwYrREjZ",
+        "images": [
+            "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/2026-09_intelligence_imbalance.png.jpg?itok=VwYrREjZ",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M"
+        ],
+        "timestamp": 1788705060.0
     },
     {
         "id": "4fbfd2cbe9",
@@ -6771,200 +6962,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787779020.0
-    },
-    {
-        "id": "327a793a08",
-        "title_fa": "عرضه مدل باز Muse Glimmer متا برای اجرا روی سخت‌افزار خانگی",
-        "title_en": "Meta Releases Muse Glimmer, an Open-Weight AI Model Designed to Run on Consumer Hardware",
-        "summary": [
-            "متا مدل هوش مصنوعی وزندار باز جدیدی به نام Muse Glimmer را منتشر کرد که برای سخت‌افزارهای معمولی بهینه‌سازی شده است.",
-            "این مدل به کاربران و توسعه‌دهندگان اجازه می‌دهد بدون نیاز به سرورهای گران‌قیمت ابری، هوش مصنوعی را روی سیستم‌های شخصی خود اجرا کنند.",
-            "حرکت جدید متا گام مهمی در جهت غیرمتمرکزسازی هوش مصنوعی و دسترس‌پذیری عمومی آن محسوب می‌شود."
-        ],
-        "full_text": "Meta Releases Muse Glimmer, an Open-Weight AI Model Designed to Run on Consumer Hardware  Campus Technology",
-        "impact": "کاهش وابستگی توسعه‌دهندگان مستقل به پردازش ابری و جهش در اجرای محلی مدل‌ها.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "Campus Technology",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHJtUkNHamhYd29fWE0yUFhnQXRvanV0akVBSU0wcnJGUldOVE9FM0NKUDE5U3hxTVdIenlvTUdQdkFFNGlla0UwZGpSSjU5dnA5QnBZbWhCNk1PaHBJZ1VfOGpNLVlaQU5fSU8yVkMyMnFxclpZMHNiYjNSWjI2LVBhczZiYUwtV25ubG1DVlBOcnlSRVhMQ01ORXFWQ0hCdVBHWklsN3p4SWNHaTEwWDMwRkNfekVTWFAwcVBHd3k1WkE1clhOSVMxdDUxQW9nR3JxYUFuU18tbUZfaXRXY0xSMEJkd3lVRTFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHJtUkNHamhYd29fWE0yUFhnQXRvanV0akVBSU0wcnJGUldOVE9FM0NKUDE5U3hxTVdIenlvTUdQdkFFNGlla0UwZGpSSjU5dnA5QnBZbWhCNk1PaHBJZ1VfOGpNLVlaQU5fSU8yVkMyMnFxclpZMHNiYjNSWjI2LVBhczZiYUwtV25ubG1DVlBOcnlSRVhMQ01ORXFWQ0hCdVBHWklsN3p4SWNHaTEwWDMwRkNfekVTWFAwcVBHd3k1WkE1clhOSVMxdDUxQW9nR3JxYUFuU18tbUZfaXRXY0xSMEJkd3lVRTFB",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787775018.0
-    },
-    {
-        "id": "c45597c0ce",
-        "title_fa": "هشدار زودهنگام کارمندان OpenAI درباره هک توسط عامل‌های هوشمند",
-        "title_en": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
-        "summary": [
-            "کارمندان OpenAI پیش از بروز هشدارهای جهانی، علائم خطر استفاده تهاجمی از عامل‌های هوش مصنوعی را شناسایی کرده بودند.",
-            "توانایی عامل‌های خودمختار در شناسایی و استثمار آسیب‌پذیری‌های امنیتی، زنگ خطری جدی برای متخصصان سایبری است."
-        ],
-        "full_text": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm  The Guardian",
-        "impact": "افزایش فشارهای نظارتی بر توسعه‌دهندگان مدل‌های خودمختار برای ایجاد محدودیت‌های امنیتی سخت‌گیرانه‌تر.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeDNua1VDVWkwRFBlcWpMa2dfSXZDemVBZHJjTHh6cW9IUng0RUJoNjI0YU1lSThrMUVObVF2aC05WjdMZURuUHJPdDBvZnJqUFc4U2luQ1hhNzllWjY2RVBSRG9HU2FiOEg5bmpGMkNyWFVJaGlWaFlOWUZEWmduNWRIOG1WV1BfSl9DOWZNMGpRN05kdC1kdW1qVVNNdlh2bldjbjV5VXZ5UlJJTENjemlNZ1FwVEU1UUR3YlVsbHh2VFZveEtrQ3B0eWUybG40Rk9GVg",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787774280.0
-    },
-    {
-        "id": "97dd7eee8c",
-        "title_fa": "نجات بینایی بیمار با انجام نخستین جراحی مغز به کمک هوش مصنوعی",
-        "title_en": "نخستین جراحی مغز با کمک دستیار هوش مصنوعی با موفقیت انجام شد",
-        "summary": [
-            "جراحان بریتانیایی برای نخستین‌بار با تحلیل زنده ویدیوی اتاق عمل توسط هوش مصنوعی، تومور مغزی حساسی را بدون آسیب به بینایی بیمار خارج کردند.",
-            "برخلاف گذشته که AI فقط اسکن‌های قبل از عمل را آنالیز می‌کرد، این سیستم در حین جراحی به تشخیص اعصاب و عروق حیاتی کمک کرد.",
-            "در حال حاضر هوش مصنوعی نقش دستیار و هشداردهنده خطا را دارد و جراحی به صورت خودکار انجام نمی‌شود."
-        ],
-        "full_text": "جراحان بریتانیایی اعلام کردند که نخستین بیمار با کمک یک دستیار هوش مصنوعی تحت عملی قرار گرفته است که بینایی او را نجات داد. دستیار هوشمند چگونه به جراحان در برداشتن تومور مغزی کمک کرد؟ «ریس هیبرت»، مردی ۴۸ ساله اهل بدفوردشایر انگلستان، در اواخر سال ۲۰۲۴ هنگام پیادهروی بهصورت ناگهانی دچار تشنج شد و بر زمین افتاد. با گذشت زمان، وضعیت او بدتر شد و پزشکان اعلام کردند که وجود یک تومور در جمجمه وی میتواند در آینده باعث از دست رفتن بیناییاش شود. پزشکان به این بیمار پیشنهاد کردند که در پژوهشی با هدف استفاده از هوش مصنوعی برای برداشتن تومور شرکت کند و او نیز با پذیرفتن این پیشنهاد، وارد پژوهش شد. اکنون آقای هیبرت نخستین بیماری در جهان محسوب میشود که تحت یک عمل جراحی با کمک هوش مصنوعی قرار گرفته است. هوش مصنوعی در جراحی به پزشکان و جراحان دانشگاه کالج بیمارستان لندن کمک کرد تا با دقت بیشتری و بدون آسیب رساندن به بافتهای سالم، تومور مغزی را از جمجمه خارج کنند. پس از پایان جراحی، نتایج امیدوارکننده بود و هیچ آسیبی به بینایی او وارد نشد. او از حضور خود در این پژوهش ابراز خرسندی کرده و اذعان دارد که اگر بیماران در چنین پژوهشهایی شرکت نکنند، پزشکان و محققان با سرعت کمتری قادر به ثبت یافتههای جدید برای درمان بیماریهای مختلف خواهند بود. طبق گفتههای آقای هیبرت، او پیش از جراحی دچار تاری دید شده بود؛ اما بهمحض پایان عمل، بهبود چشمگیری در بینایی خود تجربه کرد و دوباره توانست تمامی جزئیات اتاق را مانند گذشته تشخیص دهد. بیمارستان ملی عصبشناسی و جراحی مغز و اعصاب (NHNN)، که بخشی از بیمارستان کالج دانشگاهی لندن (UCLH) است، مسئولیت اصلی این جراحی را بر عهده داشته است؛ اما پژوهشگران مرکز ملی تحقیقات سلامت بریتانیا (NIHR) نیز در فرایند مذکور همکاری داشتهاند. در جریان جراحی، هوش مصنوعی بهصورت همزمان خروجی ویدیویی را مورد بررسی قرار داده است؛ در حالی که در گذشته، استفاده از هوش مصنوعی معمولاً به تحلیل اسکنهای پیش از جراحی محدود میشد. این فناوری به جراحان کمک میکرد تا ساختارهای حیاتی، از جمله بخشهای مهم مرتبط با بینایی، را بهدرستی تشخیص دهند و با تصمیمگیری صحیح از آسیب دیدن آنها جلوگیری کنند. محل تومور در نزدیکی غده هیپوفیز قرار داشته است؛ ناحیهای که تراکم بالایی از اعصاب و عروق خونی در آن وجود دارد و برخی از آنها با بینایی ارتباط مستقیم دارند. در چنین شرایطی، کوچکترین خطا میتواند عواقب ناگوار و دائمی به همراه داشته باشد. طبق گفته جراحان، استفاده فعلی از هوش مصنوعی در جراحی همچنان به مرحله تشخیص خطر و کمک به جلوگیری از خطا محدود میشود و هوش مصنوعی هنوز نمیتواند بهشکل خودکار در فرایند جراحی دخالت کند. رهگیری ابزارهای جراحی و جلوگیری از جاماندن آنها نیز یکی دیگر از وظایفی است که هوش مصنوعی میتواند بهخوبی انجام دهد. بااینحال، حضور هوش مصنوعی در اتاق عمل نیازمند رعایت معیارهای ایمنی سختگیرانه است؛ اما شاید در آینده این فناوری بتواند بدون نیاز به دخالت مستقیم انسان، بخشهایی از فرایند جراحی را بهصورت مستقل انجام دهد.",
-        "impact": "تحولی بزرگ در جراحی‌های پیچیده پزشکی و کاهش چشمگیر خطاهای انسانی در اتاق عمل.",
-        "tag": "پزشکی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/artificial-intelligence/first-brain-tumor-surgery-with-real-time-ai-assistance-saves-patients-vision",
-        "clean_url": "https://digiato.com/artificial-intelligence/first-brain-tumor-surgery-with-real-time-ai-assistance-saves-patients-vision",
-        "image": "http://www.bing.com/th?id=ONUT.ObaNn9CmY-_O5c-zXbJXNA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.ObaNn9CmY-_O5c-zXbJXNA&pid=News",
-            "https://static.digiato.com/digiato/2026/08/3839.jpg.jpeg",
-            "https://static.digiato.com/digiato/2026/08/3839.jpg-644x424.jpeg.webp",
-            "https://static.digiato.com/digiato/2026/08/51_5.jpg"
-        ],
-        "timestamp": 1787770740.0
-    },
-    {
-        "id": "7418a855cc",
-        "title_fa": "نفوذ گسترده هوش مصنوعی به کسب‌وکارهای کوچک و نوپا",
-        "title_en": "AI Is Opening a New Market Among the World's Smallest Businesses",
-        "summary": [
-            "طبق آمار جدید، نزدیک به ۴۶ درصد از کسب‌وکارهای کوچک در حال حاضر از ابزارهای هوش مصنوعی استفاده می‌کنند.",
-            "بیش از ۶۵ درصد از افرادی که قصد راه‌اندازی کسب‌وکار جدید دارند، روی هوش مصنوعی برای تحقیقات بازار و برندسازی حساب کرده‌اند.",
-            "با وجود عدم نیاز به سرمایه‌های کلان، تنها ۷ درصد از مجموعه‌ها توانسته‌اند هوش مصنوعی را کاملاً در فرآیندهای کاری خود ادغام کنند."
-        ],
-        "full_text": "Artificial intelligence (AI) is transforming businesses across various sectors, and its impact is no longer limited to large corporations; it’s now moving into the everyday operations of small businesses. This shift is becoming increasingly visible. A QuickBooks-commissioned survey of thousands of adults across the US, Canada, Australia, and the UK found that a growing, informal entrepreneurship economy is changing how new ventures get started. According to the survey, 33% of US adults plan to start a business or side hustle this year, a 94% increase from last year, and 65% of aspiring American business owners say they are likely to lean on AI to launch their venture. These ambitious founders plan to use AI to conduct market research (29%), create websites or product listings (19%), and develop branding assets (14%). That same research shows the money behind these ambitions is thin, with Americans estimating they need tens of thousands of dollars to start a business. Yet cost barriers haven’t slowed adoption among those already running one. New research from the Federal Reserve Bank of San Francisco found that nearly 46% of small-business respondents already use AI, while an additional 15% planned to begin using it in the next 12 months. One-third of firms in its 2025 Small Business Credit Survey, however, have no plans to use AI, with 30% saying they simply prefer not to. And among those using AI, only 7% had fully integrated it into their business processes, while half said they were experimenting with it and another 44% had partially integrated it. At the same time, data from SoFi reports that about three-quarters of small business owners are now using at least one AI tool, and LinkedIn’s 2026 research describes AI as a strategic asset. “AI has moved from a tool to a strategic asset for small businesses aiming to stay resilient and grow in 2026. By adopting AI, businesses can streamline operations, reduce costs, and accelerate decision-making, creating space for innovation and relationship-building.” – Sharat Raghavan, an Economist and Director of Research at LinkedIn All this data makes clear that AI is no longer just a big-company story; it is playing out across the broader business economy. But the question remains: can AI genuinely narrow the resource gap between the smallest businesses and larger competitors, or will it create a new technological divide? This question is particularly important in the informal economy, which is characterized by unregistered, unregulated, and mostly micro-sized businesses. A new academic study looks into exactly that: who wins and who is left behind among these businesses. AI Lowers the Barrier But Not Every Barrier Today, artificial intelligence is everywhere, and it seems to have happened overnight. While the launch of ChatGPT in late 2022 took AI mainstream, AI’s history goes much further back. The groundwork for the technology began in the early 1900s. In 1950, mathematician Alan Turing published “Computer Machinery and Intelligence,” which introduced the Turing Test, used by experts to measure computer intelligence. The term “artificial intelligence,” meanwhile, was coined by John McCarthy, who also created the first programming language for AI research (LISP). After a period of both rapid growth and struggle came the AI boom of 1980-1987, marked by government funding and research breakthroughs. But then interest in the technology waned, though development continued, and the first decade of the 2000s recorded substantial progress, including a robot simulating human emotions, remote-controlled vehicles navigating other planet surfaces without human intervention, companies using AI in their UX algorithms, and the release of Siri. This brings us to the present day, when we are seeing a surge in common-use AI tools like chatbots, virtual assistants, search engines, and workflow automation. These tools have made AI wildly popular among consumers and are now having a significant impact on the business world. AI involves computer systems and applications designed to simulate human intelligence, including recognizing patterns, making predictions, and supporting decisions. In business, AI is being increasingly embedded in digital products we use regularly, such as customer-service chatbots, recommendation systems, content-generation tools, translation applications, advertising platforms, and financial technologies. This lets entrepreneurs access AI through tools they already use, rather than building AI systems themselves. For people running small businesses, this matters because the main constraint they face is the limited amount of time, money, information, and labor available to turn entrepreneurial ambition into action, and AI helps remove those constraints. For years, the benefits of the kind of automation that AI offers could only be enjoyed by large organizations that could afford data scientists, cloud contracts, and custom software. As a result, small businesses have lagged behind larger organizations in adopting new technologies. But that changed with smartphones and social media platforms, which put these capabilities right inside the tools people already own. With AI tools now widely accessible, an entrepreneur doesn’t have to understand how a neural network works; they only need to know how to open an app. That is driving increased AI adoption. For instance, JPMorgan’s first report in the Small Business in the Age of AI research series shared that newer firms are “more likely to adopt AI at the outset and ramp up more quickly.” Small businesses are also consistently paying for AI, “using a wider range of services than before.” What’s more, the technology could change how small businesses compete. Using generative AI, they can reduce the cost and time involved in developing ideas or producing content, communicate across languages more easily through translation tools, leverage AI-supported analytics to interpret customer preferences and mar",
-        "impact": "کاهش هزینه‌های اولیه شروع کسب‌وکار و پر شدن شکاف رقابتی میان مجموعه‌های کوچک و غول‌های صنعتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "Securities.io",
-        "url": "https://www.securities.io/ai-is-opening-a-new-market-among-the-worlds-smallest-businesses/",
-        "clean_url": "https://www.securities.io/ai-is-opening-a-new-market-among-the-worlds-smallest-businesses",
-        "image": "https://www.securities.io/wp-content/uploads/2026/08/AI-Opens-a-Global-Market-Among-Small-Businesses.jpg",
-        "images": [
-            "https://www.securities.io/wp-content/uploads/2026/08/AI-Opens-a-Global-Market-Among-Small-Businesses.jpg",
-            "https://www.securities.io/wp-content/uploads/2026/08/Entrepreneurship-in-2026-1-us-en.jpg",
-            "https://www.securities.io/wp-content/uploads/2026/08/fig2-cohort-months-to-10pct-643x450.jpg",
-            "https://www.securities.io/wp-content/uploads/2021/05/Logo200x26-topmenu.svg"
-        ],
-        "timestamp": 1787766840.0
-    },
-    {
-        "id": "9c4923360a",
-        "title_fa": "راه‌اندازی صندوق ۸۴ میلیون دلاری برای توسعه استارتاپ‌های آفریقایی",
-        "title_en": "Ventures Platform Raises $84M Second Fund to Expand Pan-African Investment Beyond Nigeria",
-        "summary": [
-            "سرمایه‌گذار نیجریه‌ای Ventures Platform دومین صندوق خود را با بودجه ۸۴ میلیون دلاری برای جذب استارتاپ‌های سراسر آفریقا بست.",
-            "این صندوق روی ۳۵ تا ۴۰ استارتاپ مرحله اولیه با چک‌های ۲۵۰ هزار تا ۱.۵ میلیون دلاری سرمایه‌گذاری خواهد کرد.",
-            "تمرکز اصلی سرمایه‌گذاری بر فین‌تک و راه‌حل‌های فرامرزی در کنیا، مصر و آفریقای جنوبی معطوف است."
-        ],
-        "full_text": "Ventures Platform Raises $84M Second Fund to Expand Pan-African Investment Beyond Nigeria Beyond Nigeria: Ventures Platform's Pan-African Ambition Takes Center Stage For years, Ventures Platform has been synonymous with Nigeria's startup boom. Founded in 2016 by Kola Aina, the firm was an early backer of breakout companies like Paystack, PiggyVest, and Thrive Agric, helping to define what early-stage investing looked like in Africa's largest tech market. With its new $84 million second fund, the firm is making it clear that its next chapter will be written across the entire continent. While Nigeria will remain its anchor market, the firm confirmed that a significant portion of the new fund will be deployed outside its home base. The strategy reflects a broader shift in African tech, where founders are building cross-border solutions from day one and where opportunity is increasingly distributed. The fund will actively pursue deals in Eastern, Northern and Southern Africa, with Kenya, Egypt, and South Africa identified as priority markets, alongside emerging ecosystems in Senegal, Zambia and Rwanda. The expansion is not just geographic. Ventures Platform says it will also double down on supporting startups with pan-African expansion playbooks, helping portfolio companies navigate regulatory complexity, localization, and talent as they scale from one market to many. Inside the $84M Fund: Bigger Checks, Broader Mandate The $84 million close represents a major step up from Ventures Platform's $46 million first fund closed in late 2022. That debut fund was already considered one of the largest for an Africa-focused early-stage firm at the time. The second fund was oversubscribed, drawing participation from a mix of returning and new global limited partners including development finance institutions, sovereign wealth funds, and commercial investors with a mandate for African innovation. According to the firm, the fund will maintain its core focus on pre-seed to Series A investments, with initial check sizes ranging from $250,000 to $1.5 million and substantial reserves earmarked for follow-on rounds up to Series B. The goal is to build a portfolio of 35 to 40 startups over the next three to four years, with the ability to lead or co-lead rounds and provide sustained support through the growth stage. Sector-wise, Ventures Platform is widening its lens while staying true to its thesis of backing market-creating innovations. Fintech remains a cornerstone, but the firm is placing fresh emphasis on sectors it sees as foundational for Africa's next decade of growth: climatetech and energy access, healthtech and biotech, edtech and future of work, agritech and food systems, as well as enterprise software and AI-enabled platforms that digitize traditional industries. The firm has also signaled interest in infrastructure-adjacent plays, including logistics, mobility, and embedded finance. Doubling Down on Founder Support Beyond capital, Ventures Platform is pitching its platform as its differentiator. The firm has built a reputation for hands-on, founder-first support, and it plans to scale that model alongside its geographic footprint. The new fund will be accompanied by an expanded platform team focused on portfolio value creation, including talent acquisition, regulatory and policy advisory, and business development. The firm also plans to leverage its network of corporate partners and alumni founders to help early-stage companies secure enterprise clients, navigate licensing, and prepare for later-stage fundraising. Founder Kola Aina has framed the fund as a bet on resilience, noting that African founders have continued to build through currency volatility, capital constraints, and global macro headwinds. The firm's approach, he has said, is to back mission-driven founders building for scale and sustainability, not just short-term growth. What This Means for African Venture Capital The successful close comes at a pivotal moment for African venture capital. After a record peak in 2021-2022, funding to the continent contracted sharply amid a global venture downturn, rising interest rates, and a retreat by some international investors. Many Africa-focused funds struggled to raise follow-on vehicles, and startups faced a brutal correction in valuations and runway. In that context, an $84 million early-stage close is a powerful signal. It suggests that institutional LPs are returning to the continent, but with a preference for proven managers with a track record of exits, discipline, and local networks. Ventures Platform's raise follows a handful of other notable fund closes this year, hinting at a cautious but real recovery in the funding environment. More importantly, it underscores a maturing ecosystem. The conversation is no longer just about backing the next Nigerian fintech unicorn, but about identifying and scaling solutions that can work across 54 markets. With more dry powder dedicated to pan-African, early-stage bets and follow-on capital to help winners through to profitability, the new fund could help close the critical Series A and B gap that has stalled many promising African startups. If deployed effectively, Ventures Platform's second fund won't just expand one firm's portfolio — it will test whether a truly pan-African venture model can produce the next generation of continent-wide category leaders. Get All The Latest Updates Delivered Straight To Your Inbox For Free!",
-        "impact": "تسریع رشد اکوسیستم فناوری در قاره آفریقا و جذب سرمایه جهانی به بازارهای نوظهور.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "AndroGuider",
-        "url": "https://www.androguider.com/2026/08/ventures-platform-raises-84m-second.html",
-        "clean_url": "https://www.androguider.com/2026/08/ventures-platform-raises-84m-second.html",
-        "image": "https://ai4chat-files.s3.amazonaws.com/images/image_1787746596879.jpg",
-        "images": [
-            "https://ai4chat-files.s3.amazonaws.com/images/image_1787746596879.jpg",
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA3ESyQXQNFkfDb8kT0yLxFgJ_TA-oxzAc_s1U1sE-Mnd92iRQmONtLuuOEHuqjbtqB1iYSdSs7ZCIwAZnGND3CBm6QUiigzJvOp87-aZaX4nMF6m-VbO5k_ezCdUSkzXDGbK2yKaW6SA/s1600/Logo-01_-84365214.png"
-        ],
-        "timestamp": 1787766360.0
-    },
-    {
-        "id": "1b6f355c85",
-        "title_fa": "جذب سرمایه ۲۱ میلیون دلاری استارتاپ هوش مصنوعی Runable",
-        "title_en": "Runable Raises $21M to Scale AI-Powered Business Growth",
-        "summary": [
-            "استارتاپ هندورسی Runable تنها با ۱۵ کارمند و طی ۳ هفته به درآمد سالانه ۲ میلیون دلار رسیده است.",
-            "ایجنت هوش مصنوعی این شرکت تمام امور یک کسب‌وکار کوچک، از کدنویسی و ساخت سایت تا بازاریابی و تماس تلفنی را هدایت می‌کند.",
-            "صندوق‌های معتبر سرمایه‌گذاری برای توسعه ابزارهای هوش مصنوعی ویژه کسب‌وکارهای خرد در این دور مشارکت کردند."
-        ],
-        "full_text": "Runable Raises $21M to Expand AI Business Platform Runable has raised $21 million in Series A funding to expand its AI platform for building, running and growing businesses. The round was co-led by Susquehanna Venture Capital and Nexus Venture Partners. Existing investors Together Fund and Array VC also participated in the financing. The Bengaluru-based startup was founded in 2025 by Umesh Kumar and Saksham Sarda. It has grown to about 1.5 million users with a team of just 15 people. The company said its launch took annualised revenue from zero to $2 million within three weeks. Runable Targets Business Growth Beyond Software Runable is designed to handle business operations beyond simply creating software. Its platform can build websites, mobile applications, internal tools and pitch decks. It also includes infrastructure features such as databases, authentication, payments and deployment. Once a product is launched, Runable can support ongoing business operations from the same platform. Its capabilities include market analysis, prospect generation, social content and customer support. The platform also handles SEO, answer engine optimisation and competitor monitoring. The company is now expanding into customer acquisition through AI-driven marketing. Runable can manage campaigns across ChatGPT Ads, Meta, Google, LinkedIn and TikTok. It can also support cold emails, direct messages and voice calls through a real phone number. AI Agent Targets Small Business Owners Runable is primarily targeting small businesses with limited teams and resources. Its users include agencies, consultancies and cleaning companies across the United States, United Kingdom, Japan and Brazil. Many of these businesses operate with only two people. The platform aims to give these businesses capabilities normally requiring larger marketing, engineering and operations teams. Kumar said the company believes many small businesses are disadvantaged by tooling rather than weaker ideas. The startup initially operated as an AI infrastructure company focused on browser technology and large-scale data extraction. Customer demand for websites, presentations and other business tasks eventually pushed the founders towards a general-purpose agent. Runable has also introduced Runable Academy, a free learning module for business owners. The company plans to expand its growth capabilities with additional marketing channels and deeper campaign measurement. More News: Agentrys Raises $24.5M to Automate Chip Design With AI Agents Funding Supports Platform Expansion The new financing will support hiring across engineering, machine learning, product, growth and customer support. Runable will also invest in expanding its growth capabilities and strengthening the technology behind its autonomous agent. The startup says users have consumed more than one trillion tokens during the past 90 days. Around 60% to 70% of that usage reportedly comes from paying customers. However, Runable currently operates with negative gross margins partly because it subsidises AI usage. The company expects declining AI inference costs to improve its economics over time. It is also working with multiple AI models and developing proprietary technology. Its strategy is to combine software creation, infrastructure and distribution within one workflow. Runable competes with general-purpose AI agents such as Manus and Genspark. It also operates alongside coding platforms including Cursor, Lovable and Replit. However, Runable is positioning itself around business outcomes rather than software development alone. Runable’s Series A gives the company additional resources to develop this broader approach. Susquehanna Venture Capital and Nexus Venture Partners said the platform addresses the gap between AI-generated output and measurable business outcomes. To stay updated on crypto venture capital funding and market trends, visit our venture capital news section for more insights.",
-        "impact": "خودمختار شدن مدیریت کسب‌وکارهای کوچک و کاهش چشمگیر نیاز به تیم‌های بزرگ فنی و مارکتینگ.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "Ventureburn",
-        "url": "https://ventureburn.com/runable-raises-21m-ai-business-platform/",
-        "clean_url": "https://ventureburn.com/runable-raises-21m-ai-business-platform",
-        "image": "https://ventureburn.com/wp-content/uploads/2026/08/Runable.png",
-        "images": [
-            "https://ventureburn.com/wp-content/uploads/2026/08/Runable.png",
-            "https://ventureburn.com/wp-content/uploads/2025/10/eleven.png",
-            "https://ventureburn.com/wp-content/themes/ventureburn/assets/svg/facebook.svg",
-            "https://ventureburn.com/wp-content/themes/ventureburn/assets/svg/telegram.svg"
-        ],
-        "timestamp": 1787763660.0
-    },
-    {
-        "id": "271120b004",
-        "title_fa": "آمازون سفارش تراشه‌های انویدیا را برای دیتاسنترها سه برابر کرد",
-        "title_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-        "summary": [
-            "آمازون با افزودن ۲ میلیون پردازنده پیشرفته انویدیا شامل سری‌های بلاک‌ول و روبین به دیتاسنترهای AWS، همکاری خود را به سطحی بی‌سابقه رساند.",
-            "ارزش این قرارداد به ده‌ها میلیارد دلار می‌رسد و جهش تقاضای شرکت‌ها و آزمایشگاه‌های AI برای زیرساخت‌های پردازشی را نشان می‌دهد.",
-            "با وجود سرمایه‌گذاری سنگین آمازون روی تراشه‌های اختصاصی ترینیوم، انویدیا همچنان انتخاب اول غول‌های فناوری برای محاسبات سنگین است."
-        ],
-        "full_text": "Amazon and Nvidia just got a lot closer. The two companies announced Wednesday an expanded partnership that includes a deal to add another 2 million Nvidia GPU chips to Amazon’s data centers. These GPUs, which are designed to handle the heavy compute demands of training and running AI models, include Nvidia Blackwell Ultra, Rubin, and Rubin Ultra GPUs. The chips will head to Amazon Web Services’ data centers in 2027 and 2028. The announcement, made during Nvidia’s quarterly earnings call, comes just five months after Amazon agreed to deploy more than 1 million Nvidia GPUs across AWS infrastructure starting this year. Nvidia said in a statement that since then, “demand has exceeded those expectations.” Neither company shared financial terms. It’s unclear what the exact return will be for Nvidia. But considering GPU unit costs, the deal is worth tens of billions of dollars. The announcement is notable not just for its size and the speed in which it grew, but also because it extends beyond Amazon buying more Nvidia chips. And it’s happening even as Amazon invests in its own potentially competing AI chips. Nvidia said Wednesday that its technology, including the networking hardware that connects thousands of GPUs into one system, as well as its open models, CPUs, data processing software, and robotics platform, will also be integrated across AWS. The companies said “surging demand” from startups, enterprises, AI labs, and even governments influenced the decision to work more closely. The expanded partnership comes as Amazon ramps up its own AI chip efforts — particularly with CPUs, which are the general purpose processors at the heart of servers. Amazon has been building its own chips to lessen its dependence on Nvidia and even compete with the chip giant. Amazon’s AI chief Peter DeSantis has said that AWS is in talks to sell its Trainium chips — which are a direct alternative to Nvidia’s H100 or Blackwell chips for deep learning workloads — to other companies for use in data centers. Amazon’s Arm-built Graviton CPU is also seen as a challenger to traditional server chips from Intel and AMD. Amazon has said its custom chip business is growing, noting on its last earnings call that it crossed a $25 billion annualized revenue run rate, driven by $225 billion in total commitments from AI labs like Anthropic and OpenAI. But, it seems Nvidia is still the GOAT in the world of AI chips. With the 2 million GPU chips Amazon is adding to AWS starting in the third quarter, Nvidia also plans to send an unspecified number of Vera CPUs, “some integrated with Rubin, others standalone,” according to Nvidia CFO Colette Kress. Nvidia CEO Jensen Huang has big plans for the company’s Vera CPUs, boasting back in May that he had found a “brand new $200 billion TAM” for the company. Aside from AWS, Kress said Wednesday that Nvidia expects Vera to be deployed by “every major hyperscaler, neocloud, AI lab, and system OEM, with shipments already underway to our lead partners,” which include Oracle and SpaceXAI. The partnership is also extending to Amazon’s warehouse robots and enterprise offerings. Kress said Amazon plans to adopt Nvidia’s full physical AI stack to power its fleet of robots. The stack includes Omniverse (its simulation and digital twin platform); Cosmos (its world model platform); Isaac (its robotics development platform); and Jetson (computing hardware for robots and edge AI). This week, Nvidia also introduced a new version of Jetson designed as a more accessible robotics computer for “entry-level edge AI.” On the enterprise side, AWS will serve Nvidia’s Nemotron family of open models on Amazon Bedrock, its managed foundation model platform, and SageMaker, its managed cloud service. Nvidia also reported Wednesday that it recorded sales of $96.2 billion for the second quarter, beating analyst estimates. Data center revenue made up the majority of Nvidia’s sales for the quarter at $89 billion, up 117% from a year ago. Nvidia said it expects revenue to reach $108 billion in the third quarter, some of which will come from its next-gen Rubin GPUs. Nvidia said it began production shipments this quarter. Investors have been looking out for Rubin’s initial Q3 sales for signs that demand will continue into Nvidia’s next generation of hardware. Nvidia has committed $279 billion to secure supply and manufacturing capacity for current and future data-center projects, up substantially from $119 billion last quarter, as the chipmaker looks to secure memory and manufacturing capacity to meet AI demand over the next few years. That commitment includes $92 billion in projected spending for the rest of the fiscal year and another $87 billion in fiscal year 2028. “The thing that matters for the industry is that AI is now doing productive and useful work,” Huang said during Wednesday’s call. “AI is generating profitable tokens… If we had more compute, we could generate more profitable tokens, which results in more profit for all of the services. This is the exact phase where we’re at, which is the reason why everybody’s leaning in.” Investors will be watching to see if additional compute indeed translates so neatly into additional profits as AI companies pour hundreds of billions of dollars into infrastructure.",
-        "impact": "تثبیت رهبری مطلقا قاطع انویدیا در بازار تراشه‌های هوش مصنوعی و تقویت زیرساخت‌های ابری آمازون.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-        "clean_url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
-        "image": "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2025/04/RebeccaBellan_default-large-1-e1787760589727.jpg?w=150"
-        ],
-        "timestamp": 1787762760.0
-    },
-    {
-        "id": "9ed1e3372e",
-        "title_fa": "رویداد بزرگ اپل برای رونمایی آیفون‌های جدید در ۹ سپتامبر",
-        "title_en": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
-        "summary": [
-            "اپل رسماً تاریخ رویداد رونمایی از نسل جدید آیفون را برای ۹ سپتامبر برنامه‌ریزی کرد.",
-            "این نخستین مراسم رونمایی اپل تحت رهبری جان ترنوس در مقام مدیرعامل جدید این شرکت خواهد بود."
-        ],
-        "full_text": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus  CNBC",
-        "impact": "تعیین مسیر جدید سخت‌افزار و هوش مصنوعی اپل در بازار پرچمداران موبایل.",
-        "tag": "گجت",
-        "urgency": 9,
-        "sentiment": 0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TU9hWXlSREZPbGFlbDluU3ZaVEo4RDJVa0RjODdPM1dOSVlMQmpyRUt2OG9zNDlCNkhuQzFEU0pyTzNfZ3RsQjdmMldJX2sxTUZPVDhXZVo0NmdGdFNzV1N6a21BSFZqMzlGd29oUFlYaHc5OVRVQ1dMMDlpZ9IBgwFBVV95cUxNOTF4Rzdyc1JVV1FyWUx4Qkx4S21wSWNSUUhfcUNLTnFwalZwZmY3cUFtR3lJSVZxNFIzRjdUa3dHVmtjMUl3a0c1YTdaVjE4Q1ZXSkJ1a3gwSEg4ZjM2UDQ3dU90Ylo3M2ZwUFprTnYwckowc3R0VGVGSk94VHBLYnlLNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TU9hWXlSREZPbGFlbDluU3ZaVEo4RDJVa0RjODdPM1dOSVlMQmpyRUt2OG9zNDlCNkhuQzFEU0pyTzNfZ3RsQjdmMldJX2sxTUZPVDhXZVo0NmdGdFNzV1N6a21BSFZqMzlGd29oUFlYaHc5OVRVQ1dMMDlpZ9IBgwFBVV95cUxNOTF4Rzdyc1JVV1FyWUx4Qkx4S21wSWNSUUhfcUNLTnFwalZwZmY3cUFtR3lJSVZxNFIzRjdUa3dHVmtjMUl3a0c1YTdaVjE4Q1ZXSkJ1a3gwSEg4ZjM2UDQ3dU90Ylo3M2ZwUFprTnYwckowc3R0VGVGSk94VHBLYnlLNA",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787761477.0
     }
 ]
