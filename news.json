@@ -1,5 +1,94 @@
 [
     {
+        "id": "11a6a54c61",
+        "title_fa": "رونمایی از گوشی سه‌تکه هواوی Mate XT 2 با تراشه کرین",
+        "title_en": "Huawei Mate XT 2 Ultimate Tri-Fold Smartphone Launched with Kirin 9050 Pro SoC, HarmonyOS 7, 5600mAh Battery",
+        "summary": [
+            "نسل جدید گوشی تاشوی سه‌تکه هواوی با نمایشگر ۱۰.۲ اینچی و پردازنده قدرتمند Kirin 9050 Pro معرفی شد.",
+            "این پرچمدار ۲۸۰۰ دلاری به سیستم‌عامل HarmonyOS 7، قابلیت اجرای همزمان سه برنامه و ارتباط ماهواره‌ای مجهز است."
+        ],
+        "full_text": "Huawei Mate XT 2 Ultimate Tri-Fold Smartphone Launched with Kirin 9050 Pro SoC, HarmonyOS 7, 5600mAh Battery Huawei has unveiled the Mate XT 2 Ultimate Design in China, pushing the boundaries of foldable smartphone technology with a massive 10.2-inch tri-fold display. The successor to Huawei's earlier tri-fold device can transform from a compact smartphone into a tablet-sized screen and packs flagship hardware, satellite connectivity and an advanced camera system. The Huawei Mate XT 2 Ultimate Design is positioned firmly in the ultra-premium segment, with prices starting at 19,999 yuan (roughly Rs. 2.81 lakh). Huawei Mate XT 2 Gets a 10.2-Inch Tri-Fold Display The biggest highlight of the Mate XT 2 Ultimate is its G-shaped tri-fold design, allowing users to switch between single-screen, dual-screen and full tablet modes. When folded, it offers a 6.5-inch OLED display, while the fully unfolded device features a 10.2-inch flexible OLED panel. The inner display offers a 2232 x 3184 pixel resolution, a 1Hz to 90Hz LTPO refresh rate and 1440Hz PWM dimming. Meanwhile, the outer screen supports a 120Hz LTPO refresh rate and up to 6,500 nits of peak brightness. Huawei says the phone measures 12.3mm when folded and just 3.5mm at its thinnest point when opened. Despite its complex design, the device weighs 299g. It also gets IP58 and IP59 ratings for dust and water resistance. Kirin 9050 Pro Powers the Tri-Fold Flagship Under the hood, the Mate XT 2 Ultimate is powered by Huawei's Kirin 9050 Pro chipset, paired with 16GB of RAM and up to 2TB of storage. Huawei claims significant CPU performance improvements over the previous generation. The phone runs HarmonyOS 7, which is optimised for the larger display with support for three apps running side by side, split-screen multitasking and desktop-class PC applications. Huawei has also included a graphene vapour chamber cooling system and an upgraded GPU with support for advanced graphics features, including real-time ray tracing. 50MP Cameras, Satellite Features and Privacy Screen The Huawei Mate XT 2 Ultimate features a 50MP RYYB main camera with OIS and a variable aperture, alongside a 40MP ultra-wide lens and a 50MP periscope telephoto camera offering 3.5x optical zoom. Connectivity options include 5G, NFC, Wi-Fi 802.11ax, Bluetooth 6.0, USB Type-C and satellite communication features. The phone supports Tiantong satellite calls and two-way BeiDou satellite messaging. Huawei is also offering a special privacy screen edition featuring hardware-level technology designed to reduce visibility from side angles. The Mate XT 2 Ultimate packs a 5,600mAh battery with 66W wired and 50W wireless charging. It also supports the M-Pen 3 stylus. Huawei Mate XT 2 Ultimate Design prices go up to 29,999 yuan for the top-end Special Edition. The phone goes on sale in China from September 7, while India availability is yet to be announced.",
+        "impact": "تثبیت پیشتازی هواوی در بازار نوظهور گوشی‌های تاشوی سه‌تکه.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Gizbot",
+        "url": "https://www.gizbot.com/mobile/news/huawei-mate-xt-2-ultimate-tri-fold-smartphone-launched-kirin-9050-pro-harmonyos-7-5600mah-battery-128371.html",
+        "clean_url": "https://www.gizbot.com/mobile/news/huawei-mate-xt-2-ultimate-tri-fold-smartphone-launched-kirin-9050-pro-harmonyos-7-5600mah-battery-128371.html",
+        "image": "https://images.gizbot.com/img/2026/09/huaweimatext2-80201788781300.jpg",
+        "images": [
+            "https://images.gizbot.com/img/2026/09/huaweimatext2-80201788781300.jpg",
+            "https://images.gizbot.com/webp/img/2026/09/huaweimatext2-80201788781300.jpg?07092026201957",
+            "https://images.gizbot.com/images/gizbot-logo-1763362873334.svg",
+            "https://images.oneindia.com/notification/images/addr-bar.png?q=1"
+        ],
+        "timestamp": 1788812280.0
+    },
+    {
+        "id": "b88a1cde8e",
+        "title_fa": "آموزش هوش مصنوعی به ۵۵ هزار کسب‌وکار توسط HP",
+        "title_en": "HP, UpSkill Universe launch AI training for 55,000 SMEs",
+        "summary": [
+            "شرکت HP با همکاری UpSkill Universe طرح آموزش هوش مصنوعی را برای ۵۵ هزار کسب‌وکار کوچک آغاز کرد.",
+            "این برنامه روی افزایش توانمندی عملیاتی و ارتقای بهره‌وری شرکت‌های کوچک تمرکز دارد."
+        ],
+        "full_text": "HP, UpSkill Universe launch AI training for 55,000 SMEs  Africa Business Communities",
+        "impact": "کاهش شکاف دیجیتال و تسریع تبادل فناوری در کسب‌وکارهای کوچک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "Africa Business Communities",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVRFcHNnbXF4Z3lEU0Z0aXg1VW9QNEdUcmZ2YzFHOXFXaEVCdERWUlo0eVhEZllJa1FoVjFBN0xMOW0xLTc0WnJRN0xLMWJFU3NGRi1LNHpDNFoxM3padkE3N2dvZGtiZkRwa25fZUtoSmdJTmhoUm1ZSTZJVk93VmxCNnp4WjhjZWR1YnBMdG80TXBjRDVYcklTdVdQTkxqUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVRFcHNnbXF4Z3lEU0Z0aXg1VW9QNEdUcmZ2YzFHOXFXaEVCdERWUlo0eVhEZllJa1FoVjFBN0xMOW0xLTc0WnJRN0xLMWJFU3NGRi1LNHpDNFoxM3padkE3N2dvZGtiZkRwa25fZUtoSmdJTmhoUm1ZSTZJVk93VmxCNnp4WjhjZWR1YnBMdG80TXBjRDVYcklTdVdQTkxqUGc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788810065.0
+    },
+    {
+        "id": "089f49741e",
+        "title_fa": "رونمایی از پلتفرم هوش مصنوعی Opti-Mystic.ai در لجستیک",
+        "title_en": "Shipping Experts Launch Opti-Mystic.ai",
+        "summary": [
+            "کارشناسان حمل‌ونقل از ابزار جدید Opti-Mystic.ai برای بهینه‌سازی هوشمند زنجیره تامین پرده برداشتند."
+        ],
+        "full_text": "Shipping Experts Launch Opti-Mystic.ai  Supply & Demand Chain Executive",
+        "impact": "افزایش بهره‌وری و کاهش هزینه‌ها در مدیریت لجستیک و حمل‌ونقل.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVFlRkFfblpKM1dCVlRXa0ZLMGxlRTVZNE4wQ3NVWFpEbHNSWmVyM3U4Zm5USVJGY2Q2T0I2YWwtZzZOWXg1TTYwSHM4UXlFY3E2YXFiaEZOVVNIanpvY1hkQjZiNUcyLThNdE1Idno2VWNQR0VuOU1DUGk0S2w2dGQydWYxY3RUVTFPNlpVdHdTQkVvZWdndjdiNHV0MktHT2FYMkFTRzFLSnd5M3liQ3djVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVFlRkFfblpKM1dCVlRXa0ZLMGxlRTVZNE4wQ3NVWFpEbHNSWmVyM3U4Zm5USVJGY2Q2T0I2YWwtZzZOWXg1TTYwSHM4UXlFY3E2YXFiaEZOVVNIanpvY1hkQjZiNUcyLThNdE1Idno2VWNQR0VuOU1DUGk0S2w2dGQydWYxY3RUVTFPNlpVdHdTQkVvZWdndjdiNHV0MktHT2FYMkFTRzFLSnd5M3liQ3djVQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788807525.0
+    },
+    {
+        "id": "d03969da75",
+        "title_fa": "برگزاری همایش هوش مصنوعی توسط انجمن تاریخی D&H Canal",
+        "title_en": "D&H Canal Historical Society in High Falls will host AI symposium",
+        "summary": [
+            "انجمن تاریخی D&H Canal نشستی ویژه برای بررسی نقش هوش مصنوعی در حفظ داده‌های تاریخی برگزار می‌کند."
+        ],
+        "full_text": "D&H Canal Historical Society in High Falls will host AI symposium  Daily Freeman",
+        "impact": "گسترش کاربرد هوش مصنوعی در حوزه علوم انسانی و میراث فرهنگی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "Daily Freeman",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWctUWxIZXBiVk9jLW1HdmtuZ24yUTI2cFlCWkg5eUtiaHBzZnNVQ1JMeHJkYmFzYmhyRVhlUkhNTFR5MC1ONkRYbGloRzhkQ1pHQ0h5WlZ1MVNtUXVnOEstRDVzMkU0YTJnYmRvS1BidE5KSU1PUFBVLVBZMkhKSG9QMTBGRU5FMGs4R3V1d1NMQ1ktZlBIWHdMVHRIMlBBb2VBQlR5b1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWctUWxIZXBiVk9jLW1HdmtuZ24yUTI2cFlCWkg5eUtiaHBzZnNVQ1JMeHJkYmFzYmhyRVhlUkhNTFR5MC1ONkRYbGloRzhkQ1pHQ0h5WlZ1MVNtUXVnOEstRDVzMkU0YTJnYmRvS1BidE5KSU1PUFBVLVBZMkhKSG9QMTBGRU5FMGs4R3V1d1NMQ1ktZlBIWHdMVHRIMlBBb2VBQlR5b1k",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788801304.0
+    },
+    {
         "id": "8ce8d7a33c",
         "title_fa": "رونمایی جازکش از مرکز هوش مصنوعی AI Foundry به مناسبت ۱۰ سالگی",
         "title_en": "JazzCash Marks 10th Anniversary with Launch of AI Foundry",
@@ -42,6 +131,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788784680.0
+    },
+    {
+        "id": "d81a9a3279",
+        "title_fa": "رونمایی شیائومی از گوشی تاشو Xiaomi 18 Fold",
+        "title_en": "Wide-screen Xiaomi 18 Fold is now official: XRING O3 10-core processor, Leica 200MP camera",
+        "summary": [
+            "شیائومی نخستین گوشی تاشوی عریض خود را با پردازنده ۱۰ هسته‌ای XRING O3 معرفی کرد.",
+            "این گوشی از دوربین ۲۰۰ مگاپیکسلی لایکا و نمایشگر بیرونی ۵.۳۸ اینچی ۱۲۰ هرتزی بهره می‌برد."
+        ],
+        "full_text": "Wide-screen Xiaomi 18 Fold is now official: XRING O3 10-core processor, Leica 200MP camera Xiaomi's first wide foldable phone When closed, the phone transforms into a compact yet wide 5.38-inch outer OLED screen w/a 120Hz refresh rate, a 300Hz touch sampling rate, and 1712 x 1168 resolution. This comes w/ the Xiaomi Dragon Crystal Glass 3.0 protection.",
+        "impact": "ورود جدی شیائومی به رقابت سنگین گوشی‌های تاشوی پرچمدار.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "GIZGUIDE",
+        "url": "https://www.gizguide.com/2026/09/xiaomi-18-fold-official.html",
+        "clean_url": "https://www.gizguide.com/2026/09/xiaomi-18-fold-official.html",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArngVNYVR2uMdelKy4EbVif2d05iU4-MXBg6m8btqrJoRj91TbdPPPv2XzUsJxojgTdE-xIDPEb-UqJbRTZyyl2LAm56t_D08zqaEFfqnMAWBCMPiRKtZKeUWPU1mNk37jON1_QvHh_Krcb0o_8hNpAAwXDe_9dsz3VNqn9WVIe8wTSdZjfO6MdepQSad/w1200-h630-p-k-no-nu/xiaomi-18-fold-1.png",
+        "images": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArngVNYVR2uMdelKy4EbVif2d05iU4-MXBg6m8btqrJoRj91TbdPPPv2XzUsJxojgTdE-xIDPEb-UqJbRTZyyl2LAm56t_D08zqaEFfqnMAWBCMPiRKtZKeUWPU1mNk37jON1_QvHh_Krcb0o_8hNpAAwXDe_9dsz3VNqn9WVIe8wTSdZjfO6MdepQSad/w1200-h630-p-k-no-nu/xiaomi-18-fold-1.png",
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhArngVNYVR2uMdelKy4EbVif2d05iU4-MXBg6m8btqrJoRj91TbdPPPv2XzUsJxojgTdE-xIDPEb-UqJbRTZyyl2LAm56t_D08zqaEFfqnMAWBCMPiRKtZKeUWPU1mNk37jON1_QvHh_Krcb0o_8hNpAAwXDe_9dsz3VNqn9WVIe8wTSdZjfO6MdepQSad/s1600/xiaomi-18-fold-1.png",
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsLRDSGDE5PkNspx-4SeTz6Ks9Rk4jcdGi7R_ADHeS-mj2s3eBxsm-c97alg6n1j7c8EwqsoAJft2tC9MhY9OhsY-v2OToVFrtov5d6QJNZMBg5s0RI-XWcOXDHL0VljzUoe9gjD_UG0Y/s1600/gizguide-logo-full.png",
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCv1vEmkMgT6dmmUAPK1qb3PdAnwi1RG8WulGuRZ56KaEj4SesNdMXdIhc262oeU5ZMijNWkoIdo75xy3SgmQH0fubNqO3FtzpaKb3MAIzQa5Zq7rH8TDzHuXeLkK-VH-hGWd7-LBAsswaha6-9QNFeGyrykzCHWKE3DpQ5YCdz33Jt7sO8RipZ4RKsJq0/s16000/728x90-gizguide.jpg"
+        ],
+        "timestamp": 1788778320.0
     },
     {
         "id": "9200b5d337",
@@ -132,6 +246,28 @@
         "timestamp": 1788768000.0
     },
     {
+        "id": "11ac6f8539",
+        "title_fa": "معرفی iQOO Z11xa 5G با باتری ۷۲۰۰ میلی‌آمپری",
+        "title_en": "iQOO Z11xa 5G Launched in India With Dimensity 7400 Turbo Chipset, 7200mAh Battery: Price, Features",
+        "summary": [
+            "برند iQOO از گوشی جدید خود مجهز به تراشه دایمنسیتی ۷۴۰۰ توربو رونمایی کرد.",
+            "نقطه قوت اصلی این دستگاه، باتری غول‌پیکر ۷۲۰۰ میلی‌آمپرساعتی برای شارژدهی طولانی‌مدت است."
+        ],
+        "full_text": "iQOO Z11xa 5G has been launched in India as the second model in the Z11x lineup. The phone joins the iQOO Z11, iQOO Z11x, and IQOO Z11 Lite. The new handset is set to go on sale in India on September 14 via Amazon.",
+        "impact": "افزایش جدی استاندارد ظرفیت باتری در بازار گوشی‌های میان‌رده.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Gadgets 360",
+        "url": "https://www.msn.com/en-in/news/other/iqoo-z11xa-5g-launched-in-india-with-dimensity-7400-turbo-chipset-7200mah-battery-price-features/ar-AA2bISMP",
+        "clean_url": "https://www.msn.com/en-in/news/other/iqoo-z11xa-5g-launched-in-india-with-dimensity-7400-turbo-chipset-7200mah-battery-price-features/ar-AA2bISMP",
+        "image": "https://i.gadgets360cdn.com/large/iqoo_z11xa_5g_launch_main_1788764338137.png",
+        "images": [
+            "https://i.gadgets360cdn.com/large/iqoo_z11xa_5g_launch_main_1788764338137.png"
+        ],
+        "timestamp": 1788764391.0
+    },
+    {
         "id": "3446392386",
         "title_fa": "ورود ربات‌های انسان‌نما از استیج رقص به میدان نبرد چین",
         "title_en": "From dance floor to war: China readies humanoid robots for combat",
@@ -156,6 +292,31 @@
             "https://s.yimg.com/lo/mysterio/api/30520259615f220ce64a8bbc9ca26c653be6dd0dae2b90295d59082a89bcc480/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F97e12050-2fbd-11eb-b7ff-09d0ec37765f"
         ],
         "timestamp": 1788763151.0
+    },
+    {
+        "id": "f59c1b404a",
+        "title_fa": "معرفی گوشی فوق باریک تکنو CAMON Slim 5G",
+        "title_en": "The CAMON Slim 5G is TECNO's latest ultra-slim smartphone",
+        "summary": [
+            "تکنو گوشی باریک ۶.۳۹ میلی‌متری خود را با تراشه دایمنسیتی 7300e و پشتیبانی از 5G به‌روزرسانی کرد.",
+            "این دستگاه با وجود ضخامت کم، به باتری ۶۰۰۰ میلی‌آمپری و گواهی سرسختانه IP69K مجهز است."
+        ],
+        "full_text": "TECNOhas been focused on making super-slender smartphones for the masses. Their first “Slim” phones made their debut with theSPARK and POVA series. This time, it has also arrived towards the CAMON line. TheTECNO CAMON Slimwas announced not too long ago.ICYMI,it’s rocking a MediaTek Helio G200 Ultimate SoC. That also meant that this phone is limited to 4G. That’s about to change with the newerTECNO CAMON Slim 5G. Despite the sameslim chassis at 6.39mm, they changed the core toMediaTek’s Dimensity 7300e chipset. This enables faster 5G speeds in a more powerful octa-core processor. Definitely, the battery of the CAMON Slim 5G isquite bigger at 6000mAhover the 5600mAh. Albeit, charging speed isslower at 45Wversus 60W of its 4G counterpart. Utmost durability was also given importance with itsquadruple IP66, IP68, IP69, and IP69K water and dust resistance ratings. It has passed military-grade MIL-810-STD certifications as well as a TÜV SÜD certification for 60 months of sustained fluidity. The changes don’t end just with internals alone. While both share the same6.78-inch 1.5K 144Hz AMOLED screen, the CAMON Slim 5G possesses aflat displayover the curved ones of the regular CAMON Slim. Other display feats remain such as TÜV Rheinland’s low blue light certification, as well as Rain Touch, Waterproof Case Touch, and even Wet & Oily Hand Touch Recognition 2.0 Rain Touch that boosts touch sensitivity even under watery conditions. Flipping to the back, you’ll see the biggest change. The fun-looking camera bar with its AI Mood Light was removed in favor of a vertical-styled camera placement together with the iconic swan-neck curve design like the rest of the CAMON 50 line.",
+        "impact": "تحول در طراحی گوشی‌های باریک با حفظ ظرفیت باتری و مقاومت بالا.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "GadgetMatch",
+        "url": "https://www.gadgetmatch.com/tecno-camon-slim-5g-specs-price-availability/",
+        "clean_url": "https://www.gadgetmatch.com/tecno-camon-slim-5g-specs-price-availability",
+        "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/09/260907-GadgetMatch-TECNO-CAMON-Slim-5G-Featured-1-1-1000x600.jpg",
+        "images": [
+            "https://www.gadgetmatch.com/wp-content/uploads/2026/09/260907-GadgetMatch-TECNO-CAMON-Slim-5G-Featured-1-1-1000x600.jpg",
+            "https://www.gadgetmatch.com/wp-content/uploads/2026/09/260907-GadgetMatch-TECNO-CAMON-Slim-5G-Featured-1-1.jpg",
+            "http://www.gadgetmatch.com/wp-content/uploads/2018/01/gadgetmatch-200x30b-3-1.png",
+            "https://www.gadgetmatch.com/wp-content/uploads/2026/09/260907-GadgetMatch-TECNO-CAMON-Slim-5G-Featured-2-1.jpg"
+        ],
+        "timestamp": 1788760800.0
     },
     {
         "id": "d95ca666b7",
@@ -269,6 +430,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788750745.0
+    },
+    {
+        "id": "0b60a8e930",
+        "title_fa": "جذب سرمایه ۱۰۰ میلیون دلاری استارتاپ فضایی Pixxel",
+        "title_en": "Google-backed Indian space startup gets $100M",
+        "summary": [
+            "استارتاپ هندی Pixxel با حمایت گوگل و هدایت نماسک، ۱۰۰ میلیون دلار سرمایه جدید جذب کرد.",
+            "این شرکت داده‌های ماهواره‌ای ابرطیفی را با هوش مصنوعی ترکیب کرده و تحلیل‌های کاربردی زمین ارائه می‌دهد."
+        ],
+        "full_text": "INDIAN space tech startup Pixxel said on Monday it had raised $100 million in a Series C funding round led by Singapore state investor Temasek and British space-technology venture firm Seraphim, marking the single-largest funding round by a space technology company in India. Google-backed Pixxel’s latest round included existing investors Radical Ventures and growX Ventures, as well as new investors 360 ONE Asset and IMM Investment, bringing its total funding to $195 million, the company said. Pixxel is one of the Indian space startups that emerged after the government opened the sector to private players. Founded by Awais Ahmed, Pixxel began with hyperspectral satellites that could reveal information about the Earth’s surface beyond what conventional imagery could capture. Since then, it has expanded its scope to include Aurora, its Earth intelligence software, and satellite systems for both commercial and sovereign space missions. Together, these form the core of Pixxel’s planetary infrastructure vision, connecting sensors, software, and space systems to help governments, industries, and institutions turn Earth observation into actionable intelligence, its statement said. The fresh capital will help Pixxel expand its sensing capabilities through its Honeybee satellite constellation and high-resolution optical imaging satellites, while further developing Aurora as a platform that combines these datasets into decision-ready insights.",
+        "impact": "جهش بزرگ در زیرساخت‌های پایش هوشمند زمین و صنعت فضایی خصوصی.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "The Manila Times",
+        "url": "https://www.manilatimes.net/2026/09/08/business/foreign-business/google-backed-indian-space-startup-gets-100m/2419888",
+        "clean_url": "https://www.manilatimes.net/2026/09/08/business/foreign-business/google-backed-indian-space-startup-gets-100m/2419888",
+        "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "images": [
+            "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1"
+        ],
+        "timestamp": 1788750000.0
     },
     {
         "id": "854ef0ef46",
@@ -6767,198 +6950,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787861242.0
-    },
-    {
-        "id": "3a080f6682",
-        "title_fa": "پیروزی حقوقی آنتروپیک برابر پنتاگون؛ تحریم این استارتاپ غیرقانونی اعلام شد",
-        "title_en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "summary": [
-            "قاضی دادگاه فدرال کالیفرنیا اقدام وزارت دفاع آمریکا در تحریم و بلک‌لیست کردن آنتروپیک را نقض متمم اول قانون اساسی و تلافی غیرقانونی خواند.",
-            "ریشه این درگیری به پافشاری آنتروپیک بر خطوط قرمز اخلاقی بازمی‌گردد؛ این شرکت اجازه استفاده از مدل‌هایش برای نظارت انبوه بر شهروندان یا سلاح‌های خودکار کشنده را به پنتاگون نداده بود.",
-            "دادگاه تاکید کرد ادعای پوچ امنیت ملی مجوز بی‌چک‌وشپرت برای سرکوب و مجازات منتقدان دولتی نیست."
-        ],
-        "full_text": "On Thursday, a judge ruled that the Pentagon’s blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. Anthropic was illegally blacklisted by the Trump administration, court rules The move was “unlawful retaliation in violation of the First Amendment.” The move was “unlawful retaliation in violation of the First Amendment.” The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting “red lines,” or unacceptable military use cases of its AI technology. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita F. Lin, a district judge in the northern district of California, wrote in the ruling. She also wrote that the actions were “unlawful retaliation in violation of the First Amendment,” adding that Defense Secretary Pete Hegseth’s decision to designate Anthropic a supply chain risk “was arbitrary and capricious. Though the Department of War is undisputedly free to select the AI vendor of its choice, the evidence demonstrates that the broad measures imposed on Anthropic were illegal and baseless.” It all started this past winter, when Hegseth decided to renegotiate all AI labs’ current contracts with the military to allow the Pentagon to use AI for “any lawful use,” which would expand the Pentagon’s authority significantly. Most AI labs ended up signing onto the new terms, but Anthropic stood firm on setting two restrictions: not allowing for its AI to be used for mass surveillance of Americans or for lethal autonomous weapons (i.e., AI systems with the power to kill targets without human oversight). Anthropic’s refusal to cooperate kicked off a high-stakes back-and-forth of intensifying pressure on both sides, followed by a bevy of insults from Department of Defense officials and a final ultimatum from the Trump administration. Less than 24 hours before that ultimatum, Anthropic CEO Dario Amodei issued a statement that the company wouldn’t change its stance, writing that the company has “never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner” but that in a “narrow set of cases, we believe AI can undermine, rather than defend, democratic values.” After that, Anthropic was named a “supply chain risk,” a classification that is usually reserved for national security threats, and the Pentagon moved to replace its influence in the Department of Defense by signing deals with seven other AI labs, including Google, Microsoft, OpenAI, and SpaceX. Anthropic fought back with the lawsuit, and in March, Judge Lin sided with the company, temporarily blocking the Pentagon’s blacklist. “The Department of War’s records show that it designated Anthropic as a supply chain risk because of its ‘hostile manner through the press,’” she wrote in the order at the time. “Punishing Anthropic for bringing public scrutiny to the government’s contracting position is classic illegal First Amendment retaliation.” In a statement on Thursday, Anthropic spokesperson Danielle Ghiglieri said, “We welcome the court’s ruling that this supply chain risk designation was unlawful. We remain focused on working productively with the government to harness AI for our national security so all Americans benefit from this technology.”",
-        "impact": "تثبیت حق شرکت‌های فناوری در تعیین خطوط قرمز اخلاقی برای ابزارهای هوش مصنوعی بدون ترس از انتقام‌جویی دولتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-        "image": "http://www.bing.com/th?id=ONUT.BC-iFoNxvLPPnr7g8EPgLg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.BC-iFoNxvLPPnr7g8EPgLg&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HAYDEN_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787850000.0
-    },
-    {
-        "id": "a44df72896",
-        "title_fa": "ارزش‌گذاری ۵.۲ میلیارد دلاری Socure و تصاحب استارتاپ Fravity",
-        "title_en": "Socure secures investment at $5.2 billion valuation, buys Fravity",
-        "summary": [
-            "پلتفرم احراز هویت مبتنی بر هوش مصنوعی Socure در دور جدید تامین مالی به ارزش‌گذاری ۵.۲ میلیارد دلاری دست یافت.",
-            "این شرکت هم‌زمان با جذب سرمایه، استارتاپ Fravity را برای تقویت ابزارهای شناسایی کلاهبرداری خریده است."
-        ],
-        "full_text": "Reporting by Pragyan Kalita in Bengaluru; Editing by Shreya Biswas Our Standards:The Thomson Reuters Trust Principles., opens new tab",
-        "impact": "تزریق سرمایه سنگین به حوزه امنیت هویت دیجیتال و شتاب‌گیری ادغام‌ها در صنعت فین‌تک.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/legal/transactional/socure-secures-investment-52-billion-valuation-buys-fravity-2026-08-27/",
-        "clean_url": "https://www.reuters.com/legal/transactional/socure-secures-investment-52-billion-valuation-buys-fravity-2026-08-27",
-        "image": "https://s.yimg.com/bo/368042f3-be9c-5845-8493-6ee9dedf3b6e_1787790435828.jpg",
-        "images": [
-            "https://s.yimg.com/bo/368042f3-be9c-5845-8493-6ee9dedf3b6e_1787790435828.jpg",
-            "https://www.reuters.com/resizer/v2/3TMB5EIUSVIYDKUZG5GRJVWKHM.jpg?auth=81c2e300f28d3d0c9255d4e95df3aafcd723755bad2ad75d6d6f8ba4af0388a0&height=1005&width=1920&quality=80&smart=true",
-            "https://www.reuters.com/resizer/v2/3TMB5EIUSVIYDKUZG5GRJVWKHM.jpg?auth=81c2e300f28d3d0c9255d4e95df3aafcd723755bad2ad75d6d6f8ba4af0388a0&width=1920&quality=80",
-            "https://www.reuters.com/resizer/v2/JO6A6BRKB5P57AK3IPZJLA7KKU.jpg?auth=1b1d5ba1bbda1c379e4b63fcec16c9cf631c15c93dd6fe94ec06ba9b2aaa743f&width=1200&quality=80"
-        ],
-        "timestamp": 1787840227.0
-    },
-    {
-        "id": "68d1affea7",
-        "title_fa": "ارزشیابی ۵.۲ میلیارد دلاری Socure و خرید استارتاپ AI فراویتی",
-        "title_en": "Socure Secures $156M at $5.2B Valuation, Acquires AI Fraud Investigation Startup...",
-        "summary": [
-            "استارتاپ احراز هویت Socure با جذب ۱۵۶ میلیون دلار سرمایه جدید، ارزش بازار خود را به ۵.۲ میلیارد دلار رساند.",
-            "هم‌زمان با رشد ۸۰۰۰ درصدی کلاهبرداری‌های متکی بر هوش مصنوعی، این شرکت استارتاپ Fravity را برای خودکارسازی کشف جرایم مالی خرید.",
-            "درآمد سالانه Socure به ۳۶۴ میلیون دلار رسیده و بیش از ۳۰۰۰ مشتری بزرگ از جمله ۱۹ بانک اصلی آمریکا از خدمات آن استفاده می‌کنند."
-        ],
-        "full_text": "Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion. The Incline Village, Nevada-based company is also acquiring Austin-based agentic AI startup Fravity as it looks to automate more of the labor-intensive work involved in investigating financial crime. Summit Partners led the investment, which includes both primary capital and a secondary tender offer for employees. Goldman Sachs Alternatives, Wells Fargo, Docusign and others also participated. Socure did not disclose the terms of its acquisition of Fravity. With the latest funding, Socure has raised over $742 million in disclosed funding since its 2012 inception. It was previously valued at $4.5 billion at the time of its Series E round in 2021. The company did not break down how much of its raise was primary and secondary capital. Rapid growth as fraud surges The transactions come as Socure says it is seeing both rapid growth in its own business and a sharp rise in increasingly sophisticated fraud. The company is refreshingly open about its financials, telling Crunchbase News that it ended the second quarter with $364 million in annual recurring revenue, up 63% from a year earlier, and added 95 customers during the quarter, including Circle, Cox Automotive, MoneyLion and Login.gov. It also claims to be growing “profitably.” Socure uses AI and machine learning to help banks, fintechs and government agencies verify identities so they can “approve real customers instantly while stopping fraud.” It now has more than 3,000 enterprise customers. They include 19 of the 20 largest U.S. banks, more than 600 fintech companies, major sportsbook and prediction-market operators, and 160 public-sector organizations. Specifically, some of those customers include Capital One, Citi, Chime, Robinhood, DraftKings and Revolut. The company’s revenue model mixes usage- and transaction-based SaaS. AI creates both an opportunity and a problem Socure co-founder and CEO Johnny Ayers said AI is creating both an opportunity and a problem for the business. For example, Socure saw an 8,000% increase in AI-driven fraud across its network last year, according to the company, as generative AI and other tools make it easier to create convincing fake identities and automate attacks. At the same time, AI could help address one of the more costly parts of fraud prevention: investigating the large number of cases and alerts that automated systems flag for human review. That is where Fravity comes in. Automating fraud investigations Fravity has built an AI-native platform that uses agents to automate fraud, risk and compliance investigations. Its technology will be incorporated into Socure’s RiskOS platform as RiskOS_Agents, initially focusing on watchlist screening and monitoring and know-your-business checks. Socure and Fravity already share several enterprise customers that use the two products together, according to Socure. Across its existing deployments, Fravity has reduced cost per case by 80%, sped up case resolution fivefold and cut false positives by as much as 70%, the companies say. The acquisition puts Socure more directly into what identity intelligence company Liminal estimates is a $71.1 billion financial crime investigation market. The problem is particularly acute at banks, where 53% spend at least an hour reviewing each alert, and 37% manually review more than 40% of alerts, according to Liminal. As AI increases the volume and sophistication of fraud, Ayers argues that the identity layer — determining whether people and increasingly AI agents are who or what they claim to be — is becoming more critical to doing business online. “I believe there are two types of companies that matter in the AI-driven global economy: those that are AI-native, and those that fight the consequences of AI acceleration,” he said in a statement. Expanding beyond financial services The investment follows a period of expansion for Socure beyond its financial services roots. In May, the company won a five-year, $163 million federal contract to provide identity-proofing technology for Login.gov. It is also pushing further internationally. Socure had more than 550 employees as of March 2026, more than 100 more than it had about a year ago, according to Ayers. Related Crunchbase query: Illustration: Dom Guzman Stay up to date with recent funding rounds, acquisitions, and more with the Crunchbase Daily.",
-        "impact": "تقویت چشمگیر ابزارهای خودکار در کشف کلاهبرداری‌های پیشرفته مالی.",
-        "tag": "استارتاپ",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Crunchbase",
-        "url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
-        "clean_url": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity",
-        "image": "https://s.yimg.com/bo/2011b0ef-2418-5b14-91c2-c5ff4a83e4ac_1787851282219.jpg",
-        "images": [
-            "https://s.yimg.com/bo/2011b0ef-2418-5b14-91c2-c5ff4a83e4ac_1787851282219.jpg",
-            "https://news.crunchbase.com/wp-content/uploads/Giant_Funding.jpg",
-            "https://news.crunchbase.com/wp-content/uploads/2018/07/cb_news_logo_gradient-2x.png"
-        ],
-        "timestamp": 1787837407.0
-    },
-    {
-        "id": "ab9cefa732",
-        "title_fa": "سقوط ۶۹۲ میلیارد دلاری آلفابت با فرار نخبگان و نگرانی‌های AI",
-        "title_en": "Alphabet Loses $692 Billion in Market Value as AI Questions Rise",
-        "summary": [
-            "سهام آلفابت افت ۱۵ درصدی را تجربه کرد و نزدیک به ۶۹۲ میلیارد دلار از ارزش بازار این غول فناوری به دلیل تردیدها در رقابت هوش مصنوعی تبخیر شد.",
-            "خروج کلیدی‌ترین مدیران هوش مصنوعی گوگل مانند جف دین و تغییر نقش دمیس هاسابیس، نگرانی‌ها از خروج نخبگان به مقصد OpenAI و Anthropic را اوج داده است.",
-            "تأخیر در عرضه نسخه‌های جدید جمینای و هزینه‌های هنگفت زیرساختی، سرمایه‌گذاران را نسبت به سوددهی هوش مصنوعی گوگل تردیدزده کرده است."
-        ],
-        "full_text": "(Bloomberg) -- For much of the last year, Alphabet Inc. has been the Big Tech stock to beat as investors bet that it was the most-likely winner from the artificial intelligence boom. Most Read from Bloomberg Alphabet shares hit an all-time high on May 13 after soaring more than 150% in the previous 12 months, putting them among the 25 best performers in the S&P 500 Index over that stretch and far outpacing the other Magnificent Seven technology giants. But the momentum has reversed since then due to questions about a brain drain at Google's parent and fears that the company is losing its edge in AI. The stock is down 15% from its peak, erasing $692 billion in market value and making it the second-biggest point drag on the S&P 500 in that span. At the crux of the selloff is Alphabet's suddenly shaky standing in the AI race, with its heavy spending on building out the infrastructure to develop the technology and the delayed release of its new Gemini AI model weighing on investor sentiment. And then there's the personnel issue. A few months ago, Google lost two top employees to Anthropic PBC and OpenAI. Earlier this month, Jeff Dean, who was key to Google's AI strategy, departed to launch a startup and took several high-profile coworkers with him. And Demis Hassabis stepped down as chief executive officer of the Google DeepMind AI research lab, accepting a new role as chairman. Those moves sent Alphabet shares tumbling 4% on Aug. 5, erasing $186 billion in market value in a single session. \"You've had this kind of brain drain,\" said Angelo Zino, senior vice president and head of technology at CFRA. \"It does pose some risk because it's the area of the market everybody is looking at at this point in time, right? It's, you know, can you monetize AI?\" Of course, Alphabet is hardly the only firm challenged by Big Tech's talent race. Last year, Meta Platforms Inc. poached Ruoming Pang from Apple Inc., where he ran the iPhone maker's AI models team, with a $200 million multi-year compensation package and then brought in a couple of his senior deputies. Around that time, OpenAI Chief Executive Sam Altman complained that Meta was offering his employees signing bonuses of as much as $100 million to join its top AI team. Meanwhile, OpenAI has lured more than 400 Apple employees with rich salaries and hefty stock option offers. And Apple has sued OpenAI for stealing trade secrets.",
-        "impact": "تضعیف شدید موقعیت گوگل در کورس هوش مصنوعی و ریزش سنگین ارزش سهام آن.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/alphabet-loses-692-billion-market-123158437.html",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/afcc20b696515274becb614c8f395d6e.jpg",
-        "images": [
-            "https://media.zenfs.com/en/bloomberg_holding_pen_162/afcc20b696515274becb614c8f395d6e.jpg",
-            "https://s.yimg.com/lo/mysterio/api/fbb498e52837d74c612a2d283eb1aa1905d135e310fd1843a3df0d092a8b3682/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fafcc20b696515274becb614c8f395d6e.jpg",
-            "https://s.yimg.com/lo/mysterio/api/16327e6fbdcc1814e17eba13c16d3f03d601f97837fc58440644480bdbdab7fb/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fafcc20b696515274becb614c8f395d6e.jpg"
-        ],
-        "timestamp": 1787833808.0
-    },
-    {
-        "id": "0949618b9b",
-        "title_fa": "سوءاستفاده هکرهای روسی از ابزار هوش مصنوعی کرسر",
-        "title_en": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
-        "summary": [
-            "هکرهای روسی‌زبان با بهره‌گیری از ابزار کدنویسی هوشمند Cursor موفق شده‌اند به اطلاعات هفت شرکت نفوذ کنند.",
-            "این اتفاق ابعاد جدیدی از به‌کارگیری دستیارهای هوشمند کدنویسی را در حملات سایبری پیچیده نشان می‌دهد."
-        ],
-        "full_text": "EXCLUSIVE: Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies  Reuters",
-        "impact": "افزایش نگرانی‌های امنیتی درباره سوءاستفاده مجرمانه از ابزارهای هوش مصنوعی توسعه‌دهندگان.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdXdy00QS15UDVRUERiUFlHYlp5QXI5X0d2b05GMlUzZjFYZG1FcFJkd2FQbGRoWFVKMWJiU21ydmpyNU1kRTVvSWMwUXg2bGRhZmNkMTRtaFNQTmYtQjZmOGFXVG9aNW1ReDRwUk9XRzdDSlU3WDRMUUhhNEtrY2tLOUo3eE82ajlFYWJlRTdfLUJ6RzJ6RmtlcFByUWN3emt0aUxDTVIwV016bTNmR1N1cWhyWVB2QzBuV0tESQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787829824.0
-    },
-    {
-        "id": "e223f9e84c",
-        "title_fa": "جذب سرمایه ۱۲ میلیون دلاری استارتاپ لگاتو برای عینک هوشمند شنوایی",
-        "title_en": "Legato Raises $12 Million To Launch AI Hearing Glasses Targeting $15 Billion Hearing Device Market",
-        "summary": [
-            "استارتاپ Legato موفق به جذب سرمایه ۱۲ میلیون دلاری برای ساخت عینک‌های مبتنی بر هوش مصنوعی ویژه کم‌شنوایان شد.",
-            "این محصول بازار ۱۵ میلیارد دلاری ابزارهای شنوایی را هدف گرفته تا جایگزینی جذاب‌تر برای سمعک‌های سنتی ارائه دهد."
-        ],
-        "full_text": "Legato Raises $12 Million To Launch AI Hearing Glasses Targeting $15 Billion Hearing Device Market  Pulse 2.0",
-        "impact": "ورود هوش مصنوعی به گجت‌های پوشیدنی سلامت‌محور و ارتقای کیفیت زندگی کم‌شنوایان.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "Pulse 2.0",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFM2YVZrWlE3TUdYQ1VhRzJHTnUtV2MzTlBoUHpWakZhRWdrMUtPRG9MYWMxSGd0Tk9kVUFLczZfU01QZVQ0ek0yVEd3MHJyWS16RHZ6cnhqTFhiY3k4V0NSblhjOWMxQ0NkRnUyc0NkQjFFTDA2bzNjcU91M3lqTTZQVUQ3RDVBSy01UWRWcTJXQ3RCeVY1X01aRVVJRUVIelpVWWtHdlFacWhacGZfMjNZU2x6QmPSAbwBQVVfeXFMTktMWV9NNFJmekU5WERnM0UtUGlOcEw1X1dqMUtvc0JCME53WXZyZjVmR1B2bUxxbnNZVmlGekRqWHVPS3g4RHdWZTBqa1R1eDVKQTlkQm1GRkU0VGs0LWpneEdBc2FxNFpRY1N2cmhnY2ctQlh6ai14eEZiaHR5RVRzcWZjWGxTbUd1Zm1FQlJUZV9QRVREOWoyaVVBS2ViN19BMjRYcHZfbEFUODY1SlF4OFB0a3JUZ3ppTzM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFM2YVZrWlE3TUdYQ1VhRzJHTnUtV2MzTlBoUHpWakZhRWdrMUtPRG9MYWMxSGd0Tk9kVUFLczZfU01QZVQ0ek0yVEd3MHJyWS16RHZ6cnhqTFhiY3k4V0NSblhjOWMxQ0NkRnUyc0NkQjFFTDA2bzNjcU91M3lqTTZQVUQ3RDVBSy01UWRWcTJXQ3RCeVY1X01aRVVJRUVIelpVWWtHdlFacWhacGZfMjNZU2x6QmPSAbwBQVVfeXFMTktMWV9NNFJmekU5WERnM0UtUGlOcEw1X1dqMUtvc0JCME53WXZyZjVmR1B2bUxxbnNZVmlGekRqWHVPS3g4RHdWZTBqa1R1eDVKQTlkQm1GRkU0VGs0LWpneEdBc2FxNFpRY1N2cmhnY2ctQlh6ai14eEZiaHR5RVRzcWZjWGxTbUd1Zm1FQlJUZV9QRVREOWoyaVVBS2ViN19BMjRYcHZfbEFUODY1SlF4OFB0a3JUZ3ppTzM",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787829755.0
-    },
-    {
-        "id": "453222a08f",
-        "title_fa": "رونمایی اینراید از Flip AI برای مدیریت هوشمند ناوگان برقی",
-        "title_en": "Einride Launches Flip AI, One of the First AI Agents for Electric Fleet Operations",
-        "summary": [
-            "شرکت اینراید از ایجنت هوشمند Flip AI برای بهینه‌سازی و اتوماسیون تصمیم‌گیری در ناوگان خودروهای تجاری الکتریکی رونمایی کرد.",
-            "این دستیار دیجیتال می‌تواند بازدهی عملیاتی و مدیریت انرژی در حمل‌ونقل سنگین را به شکل چشمگیری بهبود دهد."
-        ],
-        "full_text": "Einride Launches Flip AI, One of the First AI Agents for Electric Fleet Operations  markets.businessinsider.com",
-        "impact": "کاهش هزینه‌های لجستیک و شتاب‌بخشی به هوشمندسازی حمل‌ونقل تجاری برقی.",
-        "tag": "خودرو",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "markets.businessinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdE4yZW1oTnpuLXFpMnlTZHNBd1VrRXRkd2JSaVpHMlQyeDFIQzltQ2FHQ3EwX2FfNENUcWhybmlqZkZyNzZndXFpaXJnVmtLZUpuZkNsRktPRWFZaG5zNDBsWEQ2VWpfU2NzOXZfbGp6ZlE5eGNzU0pjeENQS05IYV9fa1lCSDNQN3JXQnY1YURKYlc4RnBGRHdfUXJfR3c4aFBFTGVURUF5TnJEMTNDeHNGOFVWaFNaVmd1RkZ6c1BwUlhtZWd0NWNkZ1ZnVUs1Z3ZZamJqbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdE4yZW1oTnpuLXFpMnlTZHNBd1VrRXRkd2JSaVpHMlQyeDFIQzltQ2FHQ3EwX2FfNENUcWhybmlqZkZyNzZndXFpaXJnVmtLZUpuZkNsRktPRWFZaG5zNDBsWEQ2VWpfU2NzOXZfbGp6ZlE5eGNzU0pjeENQS05IYV9fa1lCSDNQN3JXQnY1YURKYlc4RnBGRHdfUXJfR3c4aFBFTGVURUF5TnJEMTNDeHNGOFVWaFNaVmd1RkZ6c1BwUlhtZWd0NWNkZ1ZnVUs1Z3ZZamJqbw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787828775.0
-    },
-    {
-        "id": "9e456caa41",
-        "title_fa": "هشدار بیش از ۱۰۰ شرکت برای دفاع مقابل AI سرکش",
-        "title_en": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-        "summary": [
-            "غول‌های هوش مصنوعی مثل OpenAI، گوگل و آنتروپیک در نامه‌ای مشترک خواستار همکاری عاجل برای مقابله با خطرات سایبری هوش مصنوعی شدند.",
-            "حملات خودمختار اخیر برخی ایجنت‌های هوش مصنوعی نشان داد که ساختارهای امنیت سایبری سنتی دیگر در برابر این ابزارها کارایی ندارند.",
-            "شرکت‌های سازنده هوش مصنوعی در حالی خواستار خط‌مشی‌های دفاعی شده‌اند که خود هم‌زمان در حال عرضه مدل‌های قدرتمندتر و نفوذپذیرتر هستند."
-        ],
-        "full_text": "Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats. The letter — which was also signed by prominent cyber firms like CrowdStrike, Okta, and Fortinet, as well as prominent financial institutions and internet infrastructure firms — calls for the adoption of new forms of cyber defense, while also encouraging governments at the “local, national, and international levels” to collaborate on security. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,” the letter states. “The companies and public services our communities depend on — from hospitals to water treatment plants to the infrastructure that powers the internet — are at risk.” The problem AI poses to traditional cybersecurity defenses has been thrust into the spotlight lately by a string of bizarre incidents in which AI agents have attacked companies. The Hugging Face incident — in which one of OpenAI’s agents autonomously broke out of its sandboxed environment and attacked the tech company — has been followed by a trail of other reported break-ins involving agents developed by other AI companies, including Anthropic and Meta. These incidents have bolstered the argument that the field of cybersecurity has been fundamentally altered and that bold new commercial solutions are necessary to mitigate them. The letter further suggests the mobilization of a “collective response,” one in which “new partnerships” are formed “to raise security standards and find new solutions to emerging cyber threats.” Several of the AI companies that have signed the letter are still actively developing ever more advanced AI models, highlighting their conflicted position. At the same time, they are also offering programs to use frontier AI models for defensive purposes, including OpenAI’s Daybreak program, Anthropic’s Mythos, and Microsoft’s new cyber platform Perception.",
-        "impact": "تغییر بنیادی در امنیت سایبری و لزوم ابداع راهکارهای دفاعی مبتنی بر هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.5,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-        "clean_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
-        "image": "http://www.bing.com/th?id=ONUT.oiQHMZp0xUwY7gCG3TDG3A&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.oiQHMZp0xUwY7gCG3TDG3A&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-            "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2025/12/495cdfd5deaad915a1ad58ab35edcbaa84b90c4ce9b7ded356c5ad1b61884800.png?w=150"
-        ],
-        "timestamp": 1787827380.0
     }
 ]
