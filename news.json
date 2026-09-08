@@ -1,5 +1,122 @@
 [
     {
+        "id": "e57329c665",
+        "title_fa": "چالش هوش مصنوعی در تشخیص نیاز واقعی کسب‌وکارها به بازاریابی",
+        "title_en": "AI Can Launch the Campaign. Does It Know If Your Restaurant Needs One?",
+        "summary": [
+            "مدل‌های هوش مصنوعی می‌توانند کمپین‌های تبلیغاتی را اجرا کنند اما در تشخیص اولویت واقعی کسب‌وکار دچار چالش هستند.",
+            "تحلیل عمیق داده‌های مشتریان توسط انسان پیش از واگذاری کامل فرآیندها به ابزارهای خودکار ضروری است."
+        ],
+        "full_text": "AI Can Launch the Campaign. Does It Know If Your Restaurant Needs One?  QSR Magazine",
+        "impact": "لزوم حفظ نظارت انسانی بر استراتژی‌های کلان بازاریابی مبتنی بر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "QSR Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclRXSjZSRHc1dHowN0RyYUpzNW9hZVc4WmpyTTJqUFJGYnJsblQ2OE83MDdzWGxycDNHX1VDeDVGcGpkcmxzWUdUQ1FGQ1FmQmxnRzVFcFNEemJITzNqVC1lUU1xS2lWQWZPMzQ3YTlqdngyUklQZE9rS3NfcWxrdlc2cTVFZmxEVENoNkF5b2tfR1R3MnBwOEtHRnJpNVg3SUhWWEVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclRXSjZSRHc1dHowN0RyYUpzNW9hZVc4WmpyTTJqUFJGYnJsblQ2OE83MDdzWGxycDNHX1VDeDVGcGpkcmxzWUdUQ1FGQ1FmQmxnRzVFcFNEemJITzNqVC1lUU1xS2lWQWZPMzQ3YTlqdngyUklQZE9rS3NfcWxrdlc2cTVFZmxEVENoNkF5b2tfR1R3MnBwOEtHRnJpNVg3SUhWWEVn",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788886637.0
+    },
+    {
+        "id": "fd2f261e93",
+        "title_fa": "ادعای جنجالی OpenAI در حل مساله‌ای ریاضی و دینامیک سیالات",
+        "title_en": "OpenAI claims blockbuster math breakthrough amid swirl of controversy",
+        "summary": [
+            "اوپن‌ای‌آی مدعی پیشرفتی شگرف در حل یک مسئله پیچیده ریاضی و دینامیک سیالات به کمک هوش مصنوعی شده است.",
+            "این ادعا همزمان با استقبال برخی دانشمندان، با ابهامات و حواشی زیادی درباره صحت ارزیابی‌ها همراه است."
+        ],
+        "full_text": "OpenAI claims blockbuster math breakthrough amid swirl of controversy  Scientific American",
+        "impact": "اثبات توانایی مدل‌های هوش مصنوعی در حل مسائل پیچیده علوم پایه در صورت تایید نهایی جامعه علمی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Scientific American",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHY1aG82Qkh1TXlnZmo4OUVTZFlCaENZMFp4RVFCOEtDUWNoV3BaU1NzMWtEaHVUVzVob21XZ08tZ09XU25ZWmVDelZzNUZWQVBzN2VQQjhIX0hJNmxWMjBaWUdNLW5rU0FKbzlnQkpqUmNDYmJob2FFVzBFcTNKXzZUTTdFTHEycUVQMURpR0o3MG5vQUZMZjhPMVhtNHFSWHRNR0hWcnZEZVNsbE5kZ0dvWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHY1aG82Qkh1TXlnZmo4OUVTZFlCaENZMFp4RVFCOEtDUWNoV3BaU1NzMWtEaHVUVzVob21XZ08tZ09XU25ZWmVDelZzNUZWQVBzN2VQQjhIX0hJNmxWMjBaWUdNLW5rU0FKbzlnQkpqUmNDYmJob2FFVzBFcTNKXzZUTTdFTHEycUVQMURpR0o3MG5vQUZMZjhPMVhtNHFSWHRNR0hWcnZEZVNsbE5kZ0dvWQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788885000.0
+    },
+    {
+        "id": "2e6280d289",
+        "title_fa": "همکاری گوگل کلود و اکستنچر برای اعزام مهندسان AI به شرکت‌ها",
+        "title_en": "Exclusive | Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers",
+        "summary": [
+            "گوگل کلود با همکاری اکستنچر واحد جدیدی برای استقرار مستقیم مهندسان هوش مصنوعی در محل سازمان‌ها ایجاد کرد.",
+            "هدف این طرح، حل چالش‌های فنی و عملیاتی پیاده‌سازی مدل‌های هوش مصنوعی در شرکت‌های بزرگ است."
+        ],
+        "full_text": "Exclusive | Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers  WSJ",
+        "impact": "تسریع ورود هوش مصنوعی به فرآیندهای عملیاتی شرکت‌ها و افزایش سهم بازار گوگل کلود.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlp6U3FkM1JYbjNMN3FBbjJjUGt5eTJCaF9qSklnNzUtOFYtTk1taDJkQk1zUU5XelU2MGU3V2djQ0owbk92Y2YzQ3I4WkpqaWJGOGFRVWxQRldiTWpTYnpkZU9jazFKWnVISVVCc1NNVWIyV3NiR2dmWVVYMjNIOXdSbkFjbTBJcGFpU2pmMmN6b1B3aVZiYUNMbWk2U1k5Z0JVeUxwNGI4ZnRCbUEtbGxRVXhHRVFzTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdlp6U3FkM1JYbjNMN3FBbjJjUGt5eTJCaF9qSklnNzUtOFYtTk1taDJkQk1zUU5XelU2MGU3V2djQ0owbk92Y2YzQ3I4WkpqaWJGOGFRVWxQRldiTWpTYnpkZU9jazFKWnVISVVCc1NNVWIyV3NiR2dmWVVYMjNIOXdSbkFjbTBJcGFpU2pmMmN6b1B3aVZiYUNMbWk2U1k5Z0JVeUxwNGI4ZnRCbUEtbGxRVXhHRVFzTmc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788881760.0
+    },
+    {
+        "id": "e524c6bf4f",
+        "title_fa": "سرمایه‌گذاری مشترک NTT و انویدیا روی ارتباطات نوری هوش مصنوعی",
+        "title_en": "NTT's optical AI tech fund picks Spanish startup as first target",
+        "summary": [
+            "صندوق فناوری‌های نوری NTT استارتاپ اسپانیایی iPronics را به عنوان نخستین هدف سرمایه‌گذاری خود انتخاب کرد.",
+            "انویدیا نیز در این دور سرمایه‌گذاری برای توسعه تراشه‌های سوئیچ نوری مشارکت دارد.",
+            "هدف اصلی، تجاری‌سازی انتقال داده نوری برای کاهش شدید مصرف برق در دیتاسنترهای هوش مصنوعی است."
+        ],
+        "full_text": "TOKYO -- An optical communications fund created by NTT has selected its first investment, a Spanish startup, as the Japanese company seeks outside partners to promote its technology for artificial intelligence. Japan telecom's IOWN fund joins Nvidia in funding round for switch maker iPronics NTT aims to commercialize its optical communications technology for AI. (Photo by Marie Yoshimura) TOKYO -- An optical communications fund created by NTT has selected its first investment, a Spanish startup, as the Japanese company seeks outside partners to promote its technology for artificial intelligence.",
+        "impact": "رفع گلوگاه‌های مصرف انرژی و افزایش سرعت ارتباطات در زیرساخت‌های سخت‌افزاری پردازش هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Nikkei Asia",
+        "url": "https://asia.nikkei.com/business/telecommunication/ntt-s-optical-ai-tech-fund-picks-spanish-startup-as-first-target",
+        "clean_url": "https://asia.nikkei.com/business/telecommunication/ntt-s-optical-ai-tech-fund-picks-spanish-startup-as-first-target",
+        "image": "http://www.bing.com/th?id=ONUT.pDrPu7uX4lt7JjTzJvJ3Rw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.pDrPu7uX4lt7JjTzJvJ3Rw&pid=News",
+            "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F9%2F6%2F13066929-2-eng-GB%2F0a6cdfe5277b-photo_SXM2026090800006989.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
+            "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F2%2F9%2F6%2F13066929-2-eng-GB%2F0a6cdfe5277b-photo_SXM2026090800006989.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780",
+            "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F6%2F1%2F13031617-1-eng-GB%2Fb61591f4855e-20260829N-Okinawa-radar.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=700&height=394"
+        ],
+        "timestamp": 1788866940.0
+    },
+    {
+        "id": "b60588e37b",
+        "title_fa": "شکایت دسته‌جمعی از آنتروپیک به دلیل تبلیغات گمراه‌کننده اشتراک Claude",
+        "title_en": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+        "summary": [
+            "کاربران پلن‌های ۱۰۰ تا ۲۰۰ دلاری Max مدعی شده‌اند که محدودیت‌های مصرف واقعی بسیار کمتر از تبلیغات «۵ تا ۲۰ برابر پلن پرو» است.",
+            "سقف‌های مصرف در قالب محدودیت‌های ۵ ساعته و هفتگی پیچیده مابین قوانین مخفی شده‌اند و خریداران تنها پس از پرداخت متوجه آن می‌شوند."
+        ],
+        "full_text": "Anthropic says power users are key to its business — it’s prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they’d get more out of a top-tier pricing subscription than they did. A new class action lawsuit questions whether Anthropic broke the law by misleading power users Subscribers of Anthropic’s Max plan ($100-$200 per month) say they didn’t get what they thought they were paying for. A new class action lawsuit questions whether Anthropic broke the law by misleading power users Subscribers of Anthropic’s Max plan ($100-$200 per month) say they didn’t get what they thought they were paying for. In an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It’s a rare attempt to legally penalize AI companies for a widely held point of frustration: the industry’s growing money squeeze. Anthropic’s Max plan for Claude is an upgrade to the $20/month Pro plan. It has two pricing options: $100 per month for “5x” the usage limits of Pro or $200 per month for “20x”. But the lawsuit alleges that these numbers, advertised in Anthropic’s marketing graphics, are misleadingly couched in fine print. Anthropic actually says you’ll get 20x or 5x the usage that the Pro plan offers, but it’s only promised for five-hour chunks of time that are subject to a weekly limit — which the complaint alleges adds up to a much smaller total increase in usage capacity. To understand this, “you’ve got to dive deep,” Vaca said. It requires clicking two different hyperlinks to see the word “session,” and then to see what “session” meant, you’d need to separately go to the Pro plan webpage for an expanded definition. Complaints about Max’s terms have cropped up online. One Reddit user wrote, “The weekly allowance is what the pricing page makes you think you’re buying. The rolling 5-hour window is what actually controls whether you can work … It’s like giving someone a bigger gas tank while keeping the fuel pump limited to one gallon every five hours.” Vaca said in an interview that Claude users often will upgrade on the fly if they encounter limits while working on a project, then are often frustrated after they pay. “People see that they are going to get this dramatically expanded usage … What we hear from people, though, is that when they sign up, they are surprised that they’re not getting the usage that they thought they were getting.” Over the past eight months or more, as pressures to turn a profit increase, AI customers have frequently complained that top labs are passing on their steep operating costs. Although Anthropic announced the Max plan in April 2025, it didn’t impose the allegedly deceptive weekly limits until a few months later in August, as the company pushed to compete with OpenAI. In Anthropic’s latest model release, Fable 5.1, the company hinted at broader cost concerns among customers, writing that it was “addressing the feedback we’ve received from customers on price” in the new model’s pricing. The complaint was filed in July before being withdrawn and refiled as an expanded class action. In a motion to dismiss the earlier case, Anthropic argued that it didn’t necessarily omit the session limits from its marketing; rather, it says it’s technically available to the consumer if they know where to look. “Accessing this clarifying information … required nothing more than clicking hyperlinks available in the purchase process—the digital equivalent of flipping a product over to read the back label,” Anthropic wrote in the motion to dismiss. Anthropic did not respond to a request for comment. Vaca disagrees that it’s that easy to understand the terms. “This is hard for consumers — they don’t know what’s in that black box,” she said. “They have to rely on the claims the marketer is giving. There’s no way for them to audit it. There’s no way for them to know exactly what it is they’re going to get… They’re basically taking a leap, and they’re believing in an honest marketplace.” She added that another reason the case was “compelling” for her is that she and Daffan started hearing from people who felt they needed to pay high-priced subscription costs for AI services in order to avoid becoming irrelevant in the job market. But oftentimes, she said, they felt they weren’t getting what they paid for, which was frustrating for a service that costs between $100 and $200 per month. “[Daffan] and I worked at the Federal Trade Commission for 38 years combined,” Vaca said, adding, “There is a long line of precedent on false advertising. It’s commercial speech. You can’t lie when you’re marketing a product.” Even if Anthropic has the stipulations somewhere on its website, Vaca said, it shouldn’t be up to the consumer to have to seek that out. “It’s a ‘buyer beware’ approach,” she said. “And that’s really not fair to people.”",
+        "impact": "افزایش فشارهای حقوقی بر شرکت‌های هوش مصنوعی جهت شفاف‌سازی هزینه‌ها و محدودیت‌های پنهان اشتراک‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "clean_url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "image": "http://www.bing.com/th?id=ONUT.KaKfOG7pW5xXhckKZppPWA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.KaKfOG7pW5xXhckKZppPWA&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HAYDEN_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788863280.0
+    },
+    {
         "id": "d4ebe02aed",
         "title_fa": "همکاری گوگل و کثی پاسیفیک برای کاهش ردپای کربنی پروازها با AI",
         "title_en": "Alphabet's Google, Cathay Pacific Launch AI-Powered Contrail Avoidance Trials",
@@ -92,6 +209,32 @@
         "timestamp": 1788857501.0
     },
     {
+        "id": "cd75cd6f99",
+        "title_fa": "تغییر استراتژی گوگل؛ انتشار بروزرسانی‌های کروم دو هفته‌ای شد",
+        "title_en": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "summary": [
+            "گوگل چرخه آپدیت کروم را از چهار هفته به دو هفته کاهش داد تا به تهدیدات امنیتی عصر هوش مصنوعی سریع‌تر پاسخ دهد.",
+            "این اقدام فاصله زمانی انتشار وصله‌های امنیتی (N-day gap) را برای بستن منافذ نفوذ به حداقل می‌رساند.",
+            "سرعت بالای عرضه فیچرهای جدید به کروم کمک می‌کند در برابر مرورگرهای هوشمند جدید بازار رقابت کند."
+        ],
+        "full_text": "Chrome has officially switched from a four- to a two-week release schedule, as Google promised earlier this year, with Tuesday’s launch of Chrome 153 on desktop, iOS, and Android. The shift to faster releases is tied to Chrome’s evolving security strategy in the AI era, the company explained. As automated AI tools and community bug reports have pushed up the volume of patches and updates, Google says that a shorter release cycle makes it easier to manage security fixes. This is also critical because faster-moving threats, some of which can also be attributed to AI, can be better addressed by shrinking the window between landing a fix in the public codebase and getting that fix to end users, the company notes. A shorter release schedule would help keep the “N-day” patch gap — the gap between when a security vulnerability is known and when it gets patched — as small as possible. Faster releases have another benefit, too: They can help Chrome ship features faster. This is also key in the AI era, as AI-assisted software development has enabled a host of new browser competitors to emerge. While OpenAI’s web browser, ChatGPT Atlas, has been shut down, there are still plenty of other alternative browsers looking to carve out a piece of Chrome’s market for themselves, including Brave, Dia, Opera Neon, Perplexity’s Comet, DuckDuckGo’s browser, and more. Plus, Google is experimenting with adding more AI features to Chrome and then rapidly iterating on those additions, which also demands faster updates. The move to a two-week release schedule benefits the broader web as well. Because of Chrome’s position as the most-used browser globally, such changes can help set the standard for the industry. Mozilla, Microsoft, and Brave have already begun adopting a faster two-week schedule, following Chrome’s lead. This is not the first time Chrome has adjusted its release schedule to enable faster patch management. The company first moved to a four-week release cycle in 2021, down from six weeks, after establishing its principles of “release early, release often” over a decade prior.",
+        "impact": "ارتقای سطح امنیت صدها میلیون کاربر و بازتعریف استاندارد بروزرسانی در کل صنعت مرورگرها.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "clean_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+        "image": "http://www.bing.com/th?id=ONUT.S69qpLYkAoIqjn6ZowzOTQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.S69qpLYkAoIqjn6ZowzOTQ&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/lwzxxnshgj71bonwbik3.jpg.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1788854580.0
+    },
+    {
         "id": "d097e5023a",
         "title_fa": "نِور بخش ویژه سلامت تأسیس می‌کند؛ تجاری‌سازی هوش مصنوعی پزشکی",
         "title_en": "Naver to launch dedicated healthcare division to commercialize medical AI",
@@ -112,6 +255,81 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788852369.0
+    },
+    {
+        "id": "00157bd840",
+        "title_fa": "جذب سرمایه ۵۰ میلیون دلاری استارتاپ نیروگاه‌های هسته‌ای شناور",
+        "title_en": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+        "summary": [
+            "استارتاپ Bluecore Energy دو ماه پس از اعلام حضور، ۵۰ میلیون دلار سرمایه جدید جذب کرد.",
+            "این شرکت رآکتورهای هسته‌ای کوچک را روی بارج‌های شناور می‌سازد تا برق پاک بنادر و مراکز داده ساحلی را تامین کند.",
+            "ارزیابی طرح توسط نهادهای تنظیم‌کننده آمریکا آغاز شده تا زمان احداث نیروگاه از چند سال به چند روز کاهش یابد."
+        ],
+        "full_text": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth. As TechCrunch previously reported, the company, founded earlier this year by Kofi Asante, builds small nuclear reactors (SMRs) on floating barges, rather than fixed locations, to generate clean energy for ports and nearby infrastructure. This means that energy can be transported to wherever it is needed, an idea Asante hopes can bring clean power to those who need it most. “The Navy is doing this as we speak, for the last 70 years, and has never had an accident,” Asante said about the use of portable technology in a new interview with TechCrunch. “We just made it smaller, so you can actually move things around in a way that doesn’t take years” — or a new set of infrastructure — ”but days.” Asante wasn’t planning on fundraising this year, but calls kept coming after their pre-seed launch. Many of their pre-seed investors, including Slauson & Co., Harlem Capital, and Ripple co-founder Chris Larsen, doubled down on this new round, with new capital coming from investors like Collab Capital, Kevin Hart’s HartBeat Ventures, and angel investors from Tesla, Uber, Amazon, and Google. Silverton Partners led this new seed round, and it took eight weeks to close. “I just kept having to figure out a way to make more room” — on the cap table, Asante said. “I wasn’t anticipating us raising that level of capital in that period of time, but really fortunate that we have so many investors and partners who are excited.” When it emerged from stealth in July, it became the first nuclear company headquartered at a major port: the Port of Long Beach. It has since launched two floating barges and has struck a partnership with the Department of Transportation Maritime Division, the U.S. Nuclear Regulatory Commission (NRC), and the U.S. Coast Guard. Bluecore Energy is now undergoing review with the NRC and the Coast Guard on its product design, which, if successful, will lead to certification of its floating nuclear power plant. “We have been talking to them both since the inception of the company and design, but officially started the formal engagement in August,” Asante said. The fresh capital will fund continued product development, regulatory work, nuclear fuel purchases, and hiring. Asante anticipates the biggest challenge to be the supply chain, securing hardware to build the right portable electricity infrastructure at a pace that can match consumer demand. He said that Bluecore Energy has seen inbound interest from “multiple ports, AI data centers and communities that need clean energy and water.” “Our team comes from SpaceX, Rivian, and Toyota, so we are applying similar strategies to be able to secure critical parts,” he said. “We already have barges and a reactor and are now about to order nuclear fuel to go to our partner at a national nuclear lab.” It all goes back to the core mission, Asante said, “to democratize access to clean energy.” “My philosophy is that access to clean energy and also clean water should be a human right,” he said.",
+        "impact": "تحول در تامین انرژی پاک و سیار برای زیرساخت‌های بزرگ بدون نیاز به تملک زمین و ساخت‌وساز طولانی.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+        "clean_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch",
+        "image": "http://www.bing.com/th?id=ONUT.zPn6IM0E3OJn0kvZ6BzJWA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.zPn6IM0E3OJn0kvZ6BzJWA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
+        ],
+        "timestamp": 1788851400.0
+    },
+    {
+        "id": "926902b984",
+        "title_fa": "ادغام کامل هوش مصنوعی در پریمیر؛ ساخت ویدیو و صدا روی تایم‌لاین",
+        "title_en": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "summary": [
+            "ابزار جدید Generative Media در پریمیر امکان ساخت ویدیو، موزیک و افکت صوتی را بدون خروج از تایم‌لاین فراهم کرده است.",
+            "تدوین‌گران می‌توانند مستقیماً از مدل‌های پیشرفته‌ای چون Google Veo، Runway، Luma، Kling و Firefly استفاده کنند.",
+            "ابزارهای صوتی هوشمند جدید امکان تفکیک گویندگان و تنظیم خودکار صدای پس‌زمینه را میسر می‌سازند."
+        ],
+        "full_text": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren’t entirely new; the big change is how easily you can access them without breaking your workflow. Adobe is trying to make its AI generators idiot-proof in Premiere A dedicated Generative Media interface can now be accessed right from the project timeline. A dedicated Generative Media interface can now be accessed right from the project timeline. Instead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the video or audio track and generate context-aware, fully editable clips without leaving the project. Editors can choose from multiple underlying models directly in the timeline — including Adobe Firefly, Google Veo, Runway, Luma, and Kling — to best match their project’s style. Premiere is also getting new AI audio tools (in beta) that can separate overlapping speakers, automatically duck music under speech, and independently adjust dialogue and ambience. And Adobe is bringing its AI Assistant to After Effects (also in beta) that lets editors use plain-language commands to reorganize projects, fix technical problems, and create effects without writing expressions themselves.",
+        "impact": "تسریع چشمگیر فرآیند تدوین ویدیو و بی‌نیاز شدن تدوین‌گران از ابزارهای خارجی.",
+        "tag": "نرم‌افزار",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "clean_url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "image": "http://www.bing.com/th?id=ONUT.sHn2_xbahMkjELEKyivTRA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.sHn2_xbahMkjELEKyivTRA&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/thomas-headshot-purple.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788847200.0
+    },
+    {
+        "id": "362a60e3c7",
+        "title_fa": "ثبت پتنت فناوری تصویربرداری ماهواره‌ای استارتاپ هندی در آمریکا",
+        "title_en": "GalaxEye Becomes First Indian Startup to Secure US Patent for Satellite Imaging Technology",
+        "summary": [
+            "استارتاپ GalaxEye موفق به ثبت پتنت اختصاصی برای سیستم تصویربرداری OptoSAR خود در ثبت اختراعات آمریکا شد.",
+            "این نخستین‌بار است که یک استارتاپ فضایی هندی دست به ثبت چنین پتنت کلیدی در آمریکا می‌زند."
+        ],
+        "full_text": "Indian space-tech startup GalaxEye has announced that it has secured a US patent for the core technology behind its OptoSAR imaging system, becoming the first Indian startup to receive a US patent for ...",
+        "impact": "تثبیت جایگاه استارتاپ‌های فضایی هند در بازار جهانی تصویربرداری پیشرفته ماهواره‌ای.",
+        "tag": "فضایی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Analytics India Magazine",
+        "url": "https://analyticsindiamag.com/ai-news/galaxeye-becomes-first-indian-startup-to-secure-us-patent-for-satellite-imaging-technology",
+        "clean_url": "https://analyticsindiamag.com/ai-news/galaxeye-becomes-first-indian-startup-to-secure-us-patent-for-satellite-imaging-technology",
+        "image": "http://www.bing.com/th?id=ONUT.yay3T3xIt1KeW9DGGycbug&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.yay3T3xIt1KeW9DGGycbug&pid=News",
+            "https://storage.googleapis.com/gpt-engineer-file-uploads/XW65pun0vjQL3xcUmVglEg4ZrsL2/social-images/social-1763560217027-Expert-Panel-discussion-768x512.webp"
+        ],
+        "timestamp": 1788841500.0
     },
     {
         "id": "9fc988b01d",
@@ -6766,205 +6984,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788032604.0
-    },
-    {
-        "id": "6b3542d3f8",
-        "title_fa": "اولین بازخوردها از عملکرد خیره‌کننده فناوری DLSS 5 انویدیا",
-        "title_en": "I tried NVIDIA's DLSS 5 before its release—it's incredible",
-        "summary": [
-            "تست‌های اولیه نسخه جدید DLSS 5 انویدیا نشان‌دهنده جهش بزرگ در بازسازی تصویر و افزایش نرخ فریم است.",
-            "الگوریتم‌های جدید هوش مصنوعی در این نسخه، فشار پردازشی روی کارت‌های گرافیک را به طرز چشمگیری کاهش می‌دهند."
-        ],
-        "full_text": "I tried NVIDIA's DLSS 5 before its release—it's incredible  How-To Geek",
-        "impact": "تحول جدی در کیفیت و سرعت اجرای بازی‌های نسل بعدی با تکیه بر پردازش هوشمند.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "How-To Geek",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONld4cUtVNFh4bG1CN1pwdk1rX0J6RXVxaTMweUJHU0dkTndrNFZqamdSR0ZZa1lteTRManllNVNzLTg0VXNaNnVtNDFmOHlkVF9PS2FQZndzSW1yS2Jwc2hWTDJFN2lRYWVhWlRYaG11TjJhd0NWNVRTMDNVVFVhSUNYcjRFNlgzWkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONld4cUtVNFh4bG1CN1pwdk1rX0J6RXVxaTMweUJHU0dkTndrNFZqamdSR0ZZa1lteTRManllNVNzLTg0VXNaNnVtNDFmOHlkVF9PS2FQZndzSW1yS2Jwc2hWTDJFN2lRYWVhWlRYaG11TjJhd0NWNVRTMDNVVFVhSUNYcjRFNlgzWkE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788028213.0
-    },
-    {
-        "id": "55368e8a15",
-        "title_fa": "حمایت قانونی جدید از توسعه مشاغل گیمینگ و واقعیت مجازی",
-        "title_en": "Press Release: Pablo José Hernández Rivera backs bill to support gaming and virtual reality jobs",
-        "summary": [
-            "لایحه جدیدی با هدف حمایت مالی و ایجاد فرصت‌های شغلی در صنعت بازی‌سازی و واقعیت مجازی ارائه شد.",
-            "این طرح به دنبال جذب سرمایه‌گذاران و کاهش هزینه‌های توسعه‌دهندگان فناوری‌های نوین است."
-        ],
-        "full_text": "Press Release: Pablo José Hernández Rivera backs bill to support gaming and virtual reality jobs  Quiver Quantitative",
-        "impact": "تسهیل رشد اقتصادی و ایجاد فرصت‌های شغلی جدید در حوزه واقعیت مجازی.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdl92NXNkR0dRWWtKaW1VNE05bTdDVXY4VVFLYkJvMVZkclNsQU1GRTQtNE1hRlI0VjZ5bDlXQWV4Ykc1eHlRQ3prdlpnNjhWelBhRzF2TkVtZm1sY0kzOExrVzFNUl9kUFF4ZHJIVWlrYV9UNlFCU0hZS2p2UWdOOGVWaFFJZTJsVVo1S2tlNVZGUW96V2ZCYzdPcERkUWU4MGQ5dnhRX2d1OG5zcjFhLWJyeXhzd0xYMEJic2FKR1pBbFJXYTJJekVMWHFaUEpZOFRSX01yc20?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdl92NXNkR0dRWWtKaW1VNE05bTdDVXY4VVFLYkJvMVZkclNsQU1GRTQtNE1hRlI0VjZ5bDlXQWV4Ykc1eHlRQ3prdlpnNjhWelBhRzF2TkVtZm1sY0kzOExrVzFNUl9kUFF4ZHJIVWlrYV9UNlFCU0hZS2p2UWdOOGVWaFFJZTJsVVo1S2tlNVZGUW96V2ZCYzdPcERkUWU4MGQ5dnhRX2d1OG5zcjFhLWJyeXhzd0xYMEJic2FKR1pBbFJXYTJJekVMWHFaUEpZOFRSX01yc20",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788027600.0
-    },
-    {
-        "id": "a2c87da7c9",
-        "title_fa": "راه‌یابی شرکت ایده‌نوا به فینال جوایز معتبر استریمینگ مدیا",
-        "title_en": "Press Release: IdeaNova named a finalist in Streaming Media categories",
-        "summary": [
-            "شرکت IdeaNova به عنوان یکی از فینالیست‌های جوایز سالانه حوزه رسانه و استریمینگ انتخاب شد.",
-            "این موفقیت به دلیل توسعه راهکارهای نوآورانه در پخش ویدیو و سرگرمی‌های دیجیتال به دست آمده است."
-        ],
-        "full_text": "Press Release: IdeaNova named a finalist in Streaming Media categories  Runway Girl",
-        "impact": "تقویت اعتبار تجاری ایده‌نوا در بازار پخش آنلاین ویدیو.",
-        "tag": "فناوری",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "Runway Girl",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3k5NjZHVjNva2FFM2xrQmNwQUttTC1TV09aeVpBT0JPbV9xMVg1WWJSZDlvUDZuLUtweFdmajdjcHZzQ2JRak9tV3RTQWF5eGkzUlhISXV5cFRHdDlaR1NuM1V6YXZYSm55ei1DMTIxZUdXNzdWSWZvczV5OWl1ZjNIdDQzOV9PWkhMekJVX0dHX29UMnl0R3Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3k5NjZHVjNva2FFM2xrQmNwQUttTC1TV09aeVpBT0JPbV9xMVg1WWJSZDlvUDZuLUtweFdmajdjcHZzQ2JRak9tV3RTQWF5eGkzUlhISXV5cFRHdDlaR1NuM1V6YXZYSm55ei1DMTIxZUdXNzdWSWZvczV5OWl1ZjNIdDQzOV9PWkhMekJVX0dHX29UMnl0R3Jn",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788024156.0
-    },
-    {
-        "id": "94ff4c75cd",
-        "title_fa": "ورود چت‌بات‌های هوش مصنوعی به اپل کارپلی پیش از بازطراحی سیری",
-        "title_en": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
-        "summary": [
-            "اپل کارپلی قبل از عرضه نسخه ارتقایافته سیری مجهز به هوش مصنوعی، میزبان برنامه‌های چت‌بات مستقل می‌شود.",
-            "این ویژگی به رانندگان امکان می‌دهد بدون نیاز به انتظار برای آپدیت بزرگ اپل، از دستیارهای هوشمند در خودرو استفاده کنند."
-        ],
-        "full_text": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives  9to5Mac",
-        "impact": "دسترسی سریع‌تر رانندگان به قابلیت‌های مولد هوش مصنوعی در حین رانندگی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "9to5Mac",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWhXZjItMngwOWNNU1JFZ2NMNEFvRUpCaWJRM3gyLU5QdTdCRFZQOWlvcTJ4cl92V3BpUW15TmhEbWtka09Jbzg2SlNOVU90LWNOay1zZTVSSzlyRVRTRFVxUnNZbHFiVTRrQVBZMWYtZjVKWEhoblBvSmUyNUpfRk1TYVdPR3oxdmtDVWZlTjNvdnlfaWttMzdIZDBMdw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788023580.0
-    },
-    {
-        "id": "220311d3a7",
-        "title_fa": "اتوماسیون معاملات کریپتو با ابزار هوشمند CreddX AI",
-        "title_en": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem",
-        "summary": [
-            "پلتفرم CreddX AI سیستم جدیدی برای خودکارسازی معاملات در بازار دارایی‌های دیجیتال معرفی کرد.",
-            "این الگوریتم‌ها با تحلیل لحظه‌ای بازار، استراتژی‌های معاملاتی را بدون دخالت مستقیم انسان اجرا می‌کنند."
-        ],
-        "full_text": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem  markets.businessinsider.com",
-        "impact": "افزایش سرعت و دقت تصمیم‌گیری در معاملات بازار کریپتو با کمک هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "markets.businessinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUJEanJZT2NjYnA0VUxaamthdURtTXBnaE5xNUZrRE41eEMtSmVDbFFJWVF2MUxKZDJyTkFEdnVrall1d1hpSHJfX2hWMWpHakNnaGltU2YwQjR2MDMtUVBHMTk1Ry1RYXpySUIxNzZMTVQ4bVRULTU4d0pPTUZBSXJhcUNnckxaSE1zY1UtbDRac3dDN0JIS195U3pGb3FwVldSMk1wbS1INDdnbzdlS1JXZ2RIalZZV1Q0VWVPbTBFMjVVRkdEVjhwTDRXME1fOHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUJEanJZT2NjYnA0VUxaamthdURtTXBnaE5xNUZrRE41eEMtSmVDbFFJWVF2MUxKZDJyTkFEdnVrall1d1hpSHJfX2hWMWpHakNnaGltU2YwQjR2MDMtUVBHMTk1Ry1RYXpySUIxNzZMTVQ4bVRULTU4d0pPTUZBSXJhcUNnckxaSE1zY1UtbDRac3dDN0JIS195U3pGb3FwVldSMk1wbS1INDdnbzdlS1JXZ2RIalZZV1Q0VWVPbTBFMjVVRkdEVjhwTDRXME1fOHc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788015855.0
-    },
-    {
-        "id": "180cc2d583",
-        "title_fa": "مرور مهم‌ترین گجت‌های هفته؛ از اس۲۶ FE تا لپ‌تاپ‌های هوش مصنوعی",
-        "title_en": "Tech wrap week: From Samsung Galaxy S26 FE to AI-powered laptops, here's what's new",
-        "summary": [
-            "سامسونگ با معرفی Galaxy S26 FE امکانات پرچمدار مانند دوربین ۵۰ مگاپیکسلی و شارژ ۴۵ وات را با قیمتی مناسب‌تر عرضه کرده است.",
-            "ریلمی P4s 5G با باتری غول‌پیکر ۸۰۰۰ میلی‌آمپرساعتی و چیپست اختصاصی گیمینگ، استانداردهای شارژدهی را جابه‌جا می‌کند.",
-            "ایسر و ایسوس با معرفی لپ‌تاپ‌های جدید، پردازش هوش مصنوعی و سخت‌افزار گیمینگ را با قیمت مناسب‌تر دسترس‌پذیر کرده‌اند."
-        ],
-        "full_text": "3 Min Read It was a busy week for gadget lovers, with smartphone makers packing bigger batteries, faster displays and more AI features into their latest devices, while laptop brands doubled down on performance and gaming. From Samsung’s latest Fan Edition phone to Acer’s new AI laptop and ASUS’ refreshed gaming machines, the week brought something for almost every kind of buyer. Here are five launches and announcements that stood out. Samsung Galaxy S26 FE brings flagship features for less Samsung added another member to its flagship family with the Galaxy S26 FE, unveiled on August 27. The phone comes with a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, a 4,900mAh battery and 45W wired charging. It also gets a 50MP main camera with OIS, an 8MP telephoto camera with 3x optical zoom and a 12MP ultra-wide camera. Realme P4S 5G packs an 8,000mAh battery Realme went big on endurance with the P4s 5G, launched in India this week. Its headline feature is an enormous 8,000mAh battery, backed by 80W fast charging. The phone also gets a 1.5K AMOLED display with a 144Hz refresh rate, a Dimensity 7400 Ultra chipset and a dedicated HyperVision+ chip aimed at improving gaming performance. For buyers who hate reaching for the charger, this could be one of the more interesting launches of the week. Acer launched the Swift Neo AI in India, targeting users who want a lightweight machine without stepping into the premium laptop price bracket. The laptop is powered by Intel Core Ultra 5 and Ultra 7 H-series processors and can be configured with up to 32GB RAM and 1TB SSD storage. Prices start at ₹67,999. ASUS brings new TUF Gaming laptops to India Gamers also had plenty to look forward to. ASUS announced its new TUF Gaming 16, alongside refreshed TUF A15, A16 and F16 models. The TUF Gaming 16 starts at ₹1,79,990, while ASUS has also introduced a Made-in-India TUF Gaming A15 starting at ₹1,24,990. The lineup focuses on gaming performance, upgradeability, cooling and MIL-STD-810H durability. A new smartphone brand enters the race The budget smartphone market got a new challenger this week as boltt, Fire-Boltt’s smartphone brand, debuted with the Ace 5G and Evo 4G. Both phones feature 6.79-inch 120Hz displays and 6,000mAh batteries, while the Ace 5G gets a 64MP camera and 5G connectivity. The company is targeting the affordable segment, where competition is already intense. The bigger trend? Whether it is phones or laptops, manufacturers are increasingly competing on the same three things: AI, battery life and performance. And for consumers, that means more powerful devices are arriving across increasingly crowded price segments. Here are five launches and announcements that stood out. Samsung Galaxy S26 FE brings flagship features for less Samsung added another member to its flagship family with the Galaxy S26 FE, unveiled on August 27. The phone comes with a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, a 4,900mAh battery and 45W wired charging. It also gets a 50MP main camera with OIS, an 8MP telephoto camera with 3x optical zoom and a 12MP ultra-wide camera. The S26 FE is also the first device in the S26 family to launch with One UI 9, putting Galaxy AI at the centre of the experience. Realme P4S 5G packs an 8,000mAh battery Realme went big on endurance with the P4s 5G, launched in India this week. Its headline feature is an enormous 8,000mAh battery, backed by 80W fast charging. The phone also gets a 1.5K AMOLED display with a 144Hz refresh rate, a Dimensity 7400 Ultra chipset and a dedicated HyperVision+ chip aimed at improving gaming performance. For buyers who hate reaching for the charger, this could be one of the more interesting launches of the week. Acer’s new AI laptop starts at ₹67,999 Acer launched the Swift Neo AI in India, targeting users who want a lightweight machine without stepping into the premium laptop price bracket. The laptop is powered by Intel Core Ultra 5 and Ultra 7 H-series processors and can be configured with up to 32GB RAM and 1TB SSD storage. Prices start at ₹67,999. ASUS brings new TUF Gaming laptops to India Gamers also had plenty to look forward to. ASUS announced its new TUF Gaming 16, alongside refreshed TUF A15, A16 and F16 models. The TUF Gaming 16 starts at ₹1,79,990, while ASUS has also introduced a Made-in-India TUF Gaming A15 starting at ₹1,24,990. The lineup focuses on gaming performance, upgradeability, cooling and MIL-STD-810H durability. A new smartphone brand enters the race The budget smartphone market got a new challenger this week as boltt, Fire-Boltt’s smartphone brand, debuted with the Ace 5G and Evo 4G. Both phones feature 6.79-inch 120Hz displays and 6,000mAh batteries, while the Ace 5G gets a 64MP camera and 5G connectivity. The company is targeting the affordable segment, where competition is already intense. The bigger trend? Whether it is phones or laptops, manufacturers are increasingly competing on the same three things: AI, battery life and performance. And for consumers, that means more powerful devices are arriving across increasingly crowded price segments. (Edited by : Sudarsanan Mani) First Published: Aug 29, 2026 6:55 PM IST",
-        "impact": "افزایش شدید رقابت در بازار میان‌رده‌ها با تمرکز بر باتری‌های بزرگتر و پردازش هوش مصنوعی.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-galaxy-s26-fe-ai-powered-laptops-take-centre-stage-19979627.htm",
-        "clean_url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-galaxy-s26-fe-ai-powered-laptops-take-centre-stage-19979627.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?im=FitAndFill,width=1200,height=675",
-        "images": [
-            "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?im=FitAndFill,width=1200,height=675",
-            "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?impolicy=website&width=640&height=360"
-        ],
-        "timestamp": 1788009960.0
-    },
-    {
-        "id": "c50d21c723",
-        "title_fa": "کوچ کامل محصولات اپل به نمایشگرهای OLED تا سال ۲۰۲۹",
-        "title_en": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029",
-        "summary": [
-            "نقشه راه جدید اپل نشان می‌دهد تا سال ۲۰۲۹ تمامی آیفون‌ها، آی‌پدها و مک‌بوک‌ها به پنل OLED مجهز می‌شوند.",
-            "این ارتقای تدریجی علاوه بر ارتقای کیفیت تصویر، مصرف انرژی گجت‌های بعدی اپل را به شدت کاهش می‌دهد."
-        ],
-        "full_text": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029  bgr.com",
-        "impact": "تحول بزرگ در زنجیره تامین نمایشگرها و ارتقای استاندارد بصری گجت‌های اپل.",
-        "tag": "گجت",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "bgr.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788009420.0
-    },
-    {
-        "id": "ae157668f8",
-        "title_fa": "راه‌اندازی مقطع دانشگاهی اختصاصی توسعه‌دهنده هوش مصنوعی در NTC",
-        "title_en": "NTC Announces New Programs, Including AI Developer Degree",
-        "summary": [
-            "کالج NTC مدرک دانشگاهی جدیدی ویژه تربیت توسعه‌دهندگان هوش مصنوعی معرفی کرد.",
-            "این اقدام پاسخ مستقیمی به نیاز مبرم بازار کار به نیروهای متخصص در پیاده‌سازی مدل‌های هوشمند است."
-        ],
-        "full_text": "NTC Announces New Programs, Including AI Developer Degree  WSAU",
-        "impact": "تسریع در تربیت نیروی متخصص و آکادمیک برای بازار کار هوش مصنوعی.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "WSAU",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkxoc3BUTnFRaVpBcTJWNjl1S1Y5UDhXQktncC16MjA4VjhITHlTaV83ZDdWUk1PYW1lU3FCeTNqcUxhcGFfby1NUGM0WFN1c1lhZEtZQkttM3RTVE0yQVpqNndva1FqeElnZXNDdVlWeDA5MUo3V3Zyelk2Rm44X1NENW94WWI5TWF6QkpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkxoc3BUTnFRaVpBcTJWNjl1S1Y5UDhXQktncC16MjA4VjhITHlTaV83ZDdWUk1PYW1lU3FCeTNqcUxhcGFfby1NUGM0WFN1c1lhZEtZQkttM3RTVE0yQVpqNndva1FqeElnZXNDdVlWeDA5MUo3V3Zyelk2Rm44X1NENW94WWI5TWF6QkpR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788007221.0
-    },
-    {
-        "id": "d34bfc0179",
-        "title_fa": "همکاری انویدیا و اسپیس‌ایکس برای فرستادن هوش مصنوعی به مدار زمین",
-        "title_en": "Nvidia and SpaceX form heavenly relationship with plan to launch Vera into orbit",
-        "summary": [
-            "انویدیا با همکاری اسپیس‌ایکس قصد دارد معماری پردازشی Vera را به فضا پرتاب کند.",
-            "این پروژه گام بزرگی برای شکل‌گیری دیتاسنترهای مداری و پردازش مستقیم داده‌ها در خارج از کره زمین است."
-        ],
-        "full_text": "Nvidia and SpaceX form heavenly relationship with plan to launch Vera into orbit  Seeking Alpha",
-        "impact": "ورود رسمی پردازش سنگین هوش مصنوعی به صنایع فضایی و محاسبات مداری.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFZpbktLOUtLUXI5TGh1MV9RM2tJcjZzcmxoa3BSUTdUZk5MOVhKU0ViVmpCTTRPVVZ5aDZMMVVrRnMtajY5UF9MSVpaMWpfOGRrNkJsVEp1UjN0SFBNY21tV0hQQ1RGMDdMc0xhcVVpYl9CS3BZLTZqVV9wbm1HRlNCN2xLVXNpRzEteENLWVhQZGpZVmdHODJjMHN0elJNZWNmRWpmZzNjWTA4alZ6YXIxUnNNNkFpVEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFZpbktLOUtLUXI5TGh1MV9RM2tJcjZzcmxoa3BSUTdUZk5MOVhKU0ViVmpCTTRPVVZ5aDZMMVVrRnMtajY5UF9MSVpaMWpfOGRrNkJsVEp1UjN0SFBNY21tV0hQQ1RGMDdMc0xhcVVpYl9CS3BZLTZqVV9wbm1HRlNCN2xLVXNpRzEteENLWVhQZGpZVmdHODJjMHN0elJNZWNmRWpmZzNjWTA4alZ6YXIxUnNNNkFpVEE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788004822.0
     }
 ]
