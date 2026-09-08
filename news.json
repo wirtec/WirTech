@@ -1,5 +1,119 @@
 [
     {
+        "id": "d4ebe02aed",
+        "title_fa": "همکاری گوگل و کثی پاسیفیک برای کاهش ردپای کربنی پروازها با AI",
+        "title_en": "Alphabet's Google, Cathay Pacific Launch AI-Powered Contrail Avoidance Trials",
+        "summary": [
+            "گوگل و شرکت هواپیمایی کثی پاسیفیک از هوش مصنوعی برای پیش‌بینی و اجتناب از ایجاد رد خطوط متراکم ابر استفاده می‌کنند.",
+            "این پروازهای آزمایشی با مسیردهی بهینه تلاش می‌کنند اثرات زیست‌محیطی صنعت هوانوردی را کاهش دهند."
+        ],
+        "full_text": "Alphabet's Google, Cathay Pacific Launch AI-Powered Contrail Avoidance Trials  Moomoo",
+        "impact": "بهینه‌سازی مسیر پروازها و کاهش چشمگیر اثرات گرمایشی هواپیماها روی جو زمین.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVlELVlCOFVmRGdZQXZfM3BnYU5XZU83ZU9VbU4zV3RoMmRyNWpPQjdqdl9sZFNJZWgxcjY2a3JxWHhzaVhuTWo0NWtWLWNvZk5Fc3Q2eGFqaUd2djBZTTFzdll3WF9SUG0wT0VzVWZTUkFrUkZkU3hkeEVaano2N294WFlPRE9TeHhwLTVZMzVnMl9MUExDaVdwTkFjcTNPYmdQeXpwSTFXdUtUYXV5bA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMVlELVlCOFVmRGdZQXZfM3BnYU5XZU83ZU9VbU4zV3RoMmRyNWpPQjdqdl9sZFNJZWgxcjY2a3JxWHhzaVhuTWo0NWtWLWNvZk5Fc3Q2eGFqaUd2djBZTTFzdll3WF9SUG0wT0VzVWZTUkFrUkZkU3hkeEVaano2N294WFlPRE9TeHhwLTVZMzVnMl9MUExDaVdwTkFjcTNPYmdQeXpwSTFXdUtUYXV5bA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788860112.0
+    },
+    {
+        "id": "e15bb8bf24",
+        "title_fa": "دستیار صوتی تلیه برای کشاورزان؛ جذب سرمایه ۵ میلیون دلاری",
+        "title_en": "Tellia Raises $5 Million to Bring Voice AI to Farm Fields",
+        "summary": [
+            "استارتاپ تلیه با جذب سرمایه ۵ میلیون دلاری، ابزار هوش مصنوعی صوتی خود را برای ثبت اطلاعات زمین‌های کشاورزی توسعه می‌دهد.",
+            "کشاورزان به جای پر کردن فرم‌های پیچیده، فقط با صحبت کردن یا فرستادن ویس، داده‌های زراعی را ثبت و مدیریت می‌کنند.",
+            "این سیستم در آمریکا و اروپا وارد فاز عملیاتی شده و نرخ استفاده روزانه آن به ۸۰ درصد رسیده است."
+        ],
+        "full_text": "Key Takeaways - Tellia, a voice AI startup for agriculture, has raised $5 million in pre-seed funding to expand a platform that turns spoken field updates into structured data. - The round was led by Revent, with participation from Grey Silo Ventures (the corporate venture arm of Cereal Docks Group), Jeriko (operated by Techmind) and Fund F. - Users record information through phone calls, texts, voice notes, WhatsApp or email, and Tellia converts it into records tied to the right field, crop and crew. - In the US, the product reaches 80% daily active usage within two months of onboarding, with deployments at Campos Brothers Farms and Duckhorn wineries. - In Europe, Tellia is live with the Institut Français de la Vigne et du Vin (IFV), the cooperative Val de Gascogne and German plant breeder KWS Saat. Tellia Closes $5 Million Pre-Seed Round Tellia, a voice AI assistant built for agriculture, has raised $5 million in pre-seed funding to scale technology that lets farmers, agronomists and field teams capture and use their data by speaking. Announced on 8 September 2026 from San Francisco and Paris, the round was led by European venture firm Revent, with participation from Grey Silo Ventures, the corporate venture capital arm of Cereal Docks Group, Jeriko, an investment club operated by Techmind, and Fund F. Closing the Gap Between the Field and the Software Much of the software written for farming still depends on screens, forms and manual entry designed for the office rather than the field. Details from daily work, such as disease sightings, spray decisions, scouting notes and crew updates, often stay in notebooks, messaging threads or memory. Tellia adds a voice layer that captures information in natural language and turns it into structured records connected to the right field, crop, crew and operation, while letting users ask operational and agronomic questions and get instant answers. Rather than forcing teams into a fixed template, the system shapes its structure around how each farm runs. “The Ag industry keeps facing the same challenge: the people who spend their days in the field spend their evenings at a keyboard,” said Coline Labadie de Faÿ, CEO and co-founder of Tellia. “That was never a data problem. It was an interface problem. Traditional software cannot accept it the way it actually comes out, spoken, in the field, in whatever language the team works in. So we did not build another platform that wants to own all the data. Instead, we built the interface. You talk, Tellia captures it, structures it, and interprets it into something the whole operation can act on. This funding round lets us push the voice AI further, build the agentic layer that sits between the field and the rest of the agtech stack, and grow our team in the US and Europe.” Early Deployments Across the US and Europe The company launched first in the US, where it reports 80% daily active usage among field teams within two months of onboarding. Its San Francisco operations have supported work with almond producer Campos Brothers Farms and the Duckhorn wineries. In Europe, Tellia is deployed with the Institut Français de la Vigne et du Vin (IFV), the cooperative Val de Gascogne and German plant breeder KWS Saat. The company plans to use the funding to build an agentic layer that partners can embed through an API, so records and recommendations appear inside a partner’s own product. Investors Back Tellia’s Voice-First Approach “We believe that the voice first approach will lead the agricultural sector into the new agentic data age and that Tellia will be the category defining company here,” said Otto Birnbaum, general partner at Revent. “Tellia is creating the critical data layer to meaningfully improve efficiencies and productivity in the agricultural sector. We are thrilled to partner with Coline and Vincent and are deeply impressed by their operational pace and how fast the product gets adopted on both sides of the Atlantic.” Tellia’s founders met through Entrepreneur First and now run the 13-person company on both sides of the Atlantic, pairing US commercial traction with European standards on data protection and security. The company says its long-term aim is to become the main voice interface between agriculture and the technology that supports it.",
+        "impact": "دیجیتالی‌شدن آسان داده‌های کشاورزی بدون نیاز به تایپ دستی و حذف فرم‌های کاغذی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "iGrow News",
+        "url": "https://igrownews.com/tellia-latest-news/",
+        "clean_url": "https://igrownews.com/tellia-latest-news",
+        "image": "https://igrownews.com/wp-content/uploads/2026/09/tellia-latest-news.jpg",
+        "images": [
+            "https://igrownews.com/wp-content/uploads/2026/09/tellia-latest-news.jpg",
+            "https://igrownews.com/wp-content/uploads/2026/07/igrow-900-x-195-px-v2.svg",
+            "https://igrownews.com/wp-content/uploads/2026/09/tellia-latest-news-1024x576.jpg",
+            "https://igrownews.com/wp-content/uploads/2026/07/igrow-900-x-195-px-white.svg"
+        ],
+        "timestamp": 1788858960.0
+    },
+    {
+        "id": "b06fbacc0e",
+        "title_fa": "دستیابی ال‌جی انرژی به پیشرفت بزرگ در فناوری باتری‌های LMR",
+        "title_en": "LGES announces breakthrough in LMR battery technology",
+        "summary": [
+            "شرکت LGES از دستاورد تازه‌ای در ساخت باتری‌های غنی از منگنز (LMR) خبر داد که هزینه‌ها را کاهش و ایمنی را افزایش می‌دهد.",
+            "این فناوری مسیر ساخت باتری‌های ارزان‌تر و با ظرفیت بالاتر را برای خودروهای برقی هموار می‌کند."
+        ],
+        "full_text": "LGES announces breakthrough in LMR battery technology  autos.yahoo.com",
+        "impact": "کاهش هزینه تمام‌شده باتری خودروهای برقی و افزایش پیمایش آن‌ها با یک بار شارژ.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "autos.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVE4cFlqZDRHS1RiSHl4VGZ5ajNKYVpBaWJ0N1FDNmo4d0F3SUlaY2NWeWJ0ZUlNdkFuS3RuZWpTME9iYUhESENvTEVUWUdNay10NmhQempzdEdEQ1VSRGFmVkpiclBhTDlzX1lON3R6QXpOS2tFSUxFMm1lWWpHd2xqVGhHbTRWV3prNkU2bTYxWlhTV1Q2M2tZM01XWVV6ZjkwLURYS0huUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVE4cFlqZDRHS1RiSHl4VGZ5ajNKYVpBaWJ0N1FDNmo4d0F3SUlaY2NWeWJ0ZUlNdkFuS3RuZWpTME9iYUhESENvTEVUWUdNay10NmhQempzdEdEQ1VSRGFmVkpiclBhTDlzX1lON3R6QXpOS2tFSUxFMm1lWWpHd2xqVGhHbTRWV3prNkU2bTYxWlhTV1Q2M2tZM01XWVV6ZjkwLURYS0huUQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788857666.0
+    },
+    {
+        "id": "ec07785597",
+        "title_fa": "افشای اطلاعات مالی و حقوقی شرکت SMA Solar بر اساس قوانین آلمان",
+        "title_en": "SMA Solar Technology AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+        "summary": [
+            "شرکت تجهیزات انرژی خورشیدی SMA Solar اطلاعیه رسمی خود را طبق ماده ۴۰ قانون معامله اوراق بهادار آلمان منتشر کرد.",
+            "این اقدام در راستای شفافیت مالی و توزیع سرتاسری اطلاعات شرکت در سطح اروپا انجام شده است."
+        ],
+        "full_text": "SMA Solar Technology AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution  TradingView",
+        "impact": "افزایش شفافیت سرمایه‌گذاری و رعایت الزامات قانونی در بازار انرژی خورشیدی اروپا.",
+        "tag": "سخت‌افزار",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcGpjUEthNDJfZmdKWmNib2JmTTlwLUx5cGRmcEgxOHhJaHJUVkc3QTl6NmFvQjdZOV9HWTA4N3NiU3IwdmN2bWxWUTB4a0l2ZFlCVGVxWWdGZGxmQXlON0dFRlpnb19sTGZuZlZFcF8yWUNYTFVfd1JxZGJjLVA1elliMHJDSVlpTTVnOWpOZGZ6VVRLeWlpMGJ4UXJOcS1WRGMzcnc4ejBOTU5mNlhuNXRQMjJVUmpXRUZQOVlJMUlSZlppd3ZmelJ0VDY5WHJwdlFJYm5CYVY3MXRzdmYwOWxvMEVvdkdXRVhXMkREVy1OSllLRXFsQU1STHdpVTRRSXRkVXhlZExoVnFxcDdZMTh2a2FULTlETDRQVk95RWMxV3NNQ3h3YnRZSzZ3VzE0QWlYdENfUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOcGpjUEthNDJfZmdKWmNib2JmTTlwLUx5cGRmcEgxOHhJaHJUVkc3QTl6NmFvQjdZOV9HWTA4N3NiU3IwdmN2bWxWUTB4a0l2ZFlCVGVxWWdGZGxmQXlON0dFRlpnb19sTGZuZlZFcF8yWUNYTFVfd1JxZGJjLVA1elliMHJDSVlpTTVnOWpOZGZ6VVRLeWlpMGJ4UXJOcS1WRGMzcnc4ejBOTU5mNlhuNXRQMjJVUmpXRUZQOVlJMUlSZlppd3ZmelJ0VDY5WHJwdlFJYm5CYVY3MXRzdmYwOWxvMEVvdkdXRVhXMkREVy1OSllLRXFsQU1STHdpVTRRSXRkVXhlZExoVnFxcDdZMTh2a2FULTlETDRQVk95RWMxV3NNQ3h3YnRZSzZ3VzE0QWlYdENfUQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788857501.0
+    },
+    {
+        "id": "d097e5023a",
+        "title_fa": "نِور بخش ویژه سلامت تأسیس می‌کند؛ تجاری‌سازی هوش مصنوعی پزشکی",
+        "title_en": "Naver to launch dedicated healthcare division to commercialize medical AI",
+        "summary": [
+            "غول فناوری کره جنوبی، Naver، واحد مجزایی برای تجاری‌سازی ابزارها و مدل‌های هوش مصنوعی پزشکی راه‌اندازی می‌کند.",
+            "این بخش هدفش ارائه راهکارهای هوشمند به بیمارستان‌ها و مراکز درمانی برای تشخیص دقیق‌تر و سریع‌تر بیماری‌هاست."
+        ],
+        "full_text": "Naver to launch dedicated healthcare division to commercialize medical AI  kedglobal.com",
+        "impact": "تسریع ورود ابزارهای تشخیص پزشکی بر پایه AI به بازار درمانی و سلامت آسیا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "kedglobal.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sNUVaY1Z0VGptVXhKd0NSX0J0VVo4a2J1MS1IZXUxc0RGZG1US2lXSGlKMkd5YWhzUzZjN05fNHdCRWt3amluajZlaW04MjRucS01bGRnNmxYU3l3ZF9UMk9hQnF5d0NkUGIyTTh3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sNUVaY1Z0VGptVXhKd0NSX0J0VVo4a2J1MS1IZXUxc0RGZG1US2lXSGlKMkd5YWhzUzZjN05fNHdCRWt3amluajZlaW04MjRucS01bGRnNmxYU3l3ZF9UMk9hQnF5d0NkUGIyTTh3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788852369.0
+    },
+    {
         "id": "9fc988b01d",
         "title_fa": "اوج‌گیری رقابت سنگین کشورهای خاورمیانه در توسعه هوش مصنوعی",
         "title_en": "The Great Middle East AI Race Heats Up",
@@ -44,6 +158,32 @@
         "timestamp": 1788840000.0
     },
     {
+        "id": "1589380663",
+        "title_fa": "هشدار کمیسر سازمان ملل: هوش مصنوعی خطر وجودی برای بشریت است",
+        "title_en": "کمیسر حقوق بشر سازمان ملل: هوش مصنوعی می‌تواند خطری وجودی برای بشریت باشد",
+        "summary": [
+            "کمیسر عالی حقوق بشر سازمان ملل خواستار تعیین خطوط قرمز بین‌المللی برای جلوگیری از خطرات هوش مصنوعی پیشرفته شد.",
+            "او از تمرکز قدرت نامحدود در دست چند شرکت محدود مانند اوپن‌ای‌آی، متا و آنتروپیک ابراز نگرانی کرد.",
+            "تأکید اصلی سازمان ملل بر ایجاد سازوکارهای نظارتی مستقل و بررسی تأثیر AI بر شغل‌ها، محیط‌زیست و دموکراسی است."
+        ],
+        "full_text": "کمیسر حقوق بشر سازمان ملل: هوش مصنوعی میتواند خطری وجودی برای بشریت باشد کمیسر عالی حقوق بشر سازمان ملل با اعلام هشدار درباره خطرات هوش مصنوعی پیشرفته، خواستار تعیین خطوط قرمز بینالمللی برای قابلیتهای این فناوری شد. «فولکر تورک»، کمیسر عالی حقوق بشر سازمان ملل متحد، با هشدار درباره خطرات احتمالی هوش مصنوعی پیشرفته برای بشریت، از کشورهایی که میزبان توسعه این فناوری یا در زنجیره تأمین آن هستند خواست درباره تعیین خطوط قرمز بینالمللی برای قابلیتهایی که هوش مصنوعی نباید هرگز به آنها دست پیدا کند، توافق کنند. تورک این اظهارات را در جریان ارائه گزارش جهانی خود به شورای حقوق بشر سازمان ملل در شصتوسومین نشست این شورا در ژنو مطرح کرد. او تهدیدهای ناشی از فناوریهای جدید برای حقوق بشر را «ناآشنا و حتی بیسابقه» توصیف کرد و گفت: «من نگرانیهای افراد فعال در صنعت را درباره اینکه هوش مصنوعی پیشرفته میتواند خطری وجودی برای بشریت ایجاد کند، درک میکنم و با آنها همنظر هستم.» او درباره وضعیت حکمرانی هوش مصنوعی نیز گفت: «نیاز به حکمرانی بر هوش مصنوعی بهطور گسترده پذیرفته شده است، اما اقدام کجاست؟» نظرات کمیسر سازمان ملل درباره هوش مصنوعی کمیسر عالی حقوق بشر سازمان ملل علاوه بر دولتها، به تمرکز قدرت در صنعت هوش مصنوعی نیز اشاره کرد و گفت: «تعداد انگشتشماری از مردان تقریباً قدرت نامحدودی بر هوش مصنوعی دارند.» او در این زمینه نام شرکتهایی از جمله آنتروپیک، متا و اوپنایآی را مطرح کرد و گفت دفتر او قصد دارد با این شرکتها وارد تعامل شود و همه مسائل را صرفاً از مسیر دولتها دنبال نکند. تورک همچنین درباره سطح توانایی سیستمهای هوش مصنوعی که باید غیرقابلقبول تلقی شود، معیارهایی مشخص مطرح کرد. او گفت: «هوش مصنوعی که از محیط آزمایش خود فرار کند یا برای جلوگیری از خاموششدن خود، از توسعهدهندگان باج بگیرد، بیشازحد قدرتمند است.» تورک علاوهبر تعیین خطوط قرمز، خواستار تضمینهای قوی برای ایمنی و امنیت هوش مصنوعی و ایجاد سازوکارهای راستیآزمایی مستقل شد؛ سازوکارهایی که به گزارشدهی خود شرکتها متکی نباشند. او همچنین خواستار ارزیابی تأثیرات هوش مصنوعی بر اشتغال، دموکراسی و محیط زیست شد. ایده تعیین خطوط قرمز بینالمللی برای هوش مصنوعی پیشازاین نیز مطرح شده است. فراخوان جهانی برای خطوط قرمز هوش مصنوعی (Global Call for AI Red Lines) که در سپتامبر ۲۰۲۵ در مجمع عمومی سازمان ملل متحد راهاندازی شد، با حمایت بیش از ۲۰۰ نفر، از جمله ۱۰ برنده جایزه نوبل، خواستار آن شده بود که دولتها تا پایان سال ۲۰۲۶ درباره محدودیتهای الزامآور به توافق برسند و نهادی مستقل مسئول اجرای آن باشد. سازمان ملل متحد پیشتر نیز درباره فاصله میان سرعت پیشرفت هوش مصنوعی و توانایی نظامهای حکمرانی برای مدیریت آن هشدار داده بود. در ژوئیه، دبیرکل سازمان ملل در گفتوگوهای جهانی درباره حکمرانی هوش مصنوعی در ژنو موضعی مشابه را مطرح کرده بود.",
+        "impact": "افزایش فشار سیاسی بر غول‌های فناوری برای پذیرش چارچوب‌های الزام‌آور بین‌المللی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/un-ai-red-lines-existential-risk",
+        "clean_url": "https://digiato.com/artificial-intelligence/un-ai-red-lines-existential-risk",
+        "image": "http://www.bing.com/th?id=ONUT.XaDRYXpdhXGc_MFlK6lbgQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.XaDRYXpdhXGc_MFlK6lbgQ&pid=News",
+            "https://static.digiato.com/digiato/2026/09/un-warns-ai.jpg",
+            "https://static.digiato.com/digiato/2026/09/un-warns-ai.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/Volker-Turk.jpg.webp"
+        ],
+        "timestamp": 1788833640.0
+    },
+    {
         "id": "04bb3d7956",
         "title_fa": "هشدار به گروه ۲۰ درباره خطرات هوش مصنوعی برای ثبات مالی",
         "title_en": "G20 Warned Of Growing Threat to Financial Stability Posed By New AI Models",
@@ -64,6 +204,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788832811.0
+    },
+    {
+        "id": "540d66d563",
+        "title_fa": "جذب سرمایه ۳ میلیارد یورویی میسترال؛ غول هوش مصنوعی اروپا ارزش‌گذاری شد",
+        "title_en": "Mistral Raises €3B Series D to Expand Sovereign AI",
+        "summary": [
+            "میسترال در دور جدید جذب سرمایه، ۳ میلیارد یورو دریافت کرد تا ارزش این استارتاپ فرانسوی از ۲۱ میلیارد یورو بگذرد.",
+            "سامسونگ در کنار صندوق‌های بزرگ اروپایی رهبری این سرمایه‌گذاری را برعهده دارد تا استقلال فناوری اروپا در برابر آمریکا حفظ شود.",
+            "هدف اصلی میسترال از این تامین مالی، توسعه زیرساخت‌های پردازشی و بزرگ‌تر کردن مدل‌های هوش مصنوعی بومی است."
+        ],
+        "full_text": "Mistral announced on September 8, 2026 that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion, which the company said is the largest equity fundraising round ever completed by a European technology company, three years after its launch. Samsung Electronics led the round, joined by co-leads Scaleup Europe Fund, which is managed by EQT, and existing investor PSG Equity. Investors in the Round Advent, funds and accounts managed by BlackRock, and the Grand Duchy of Luxembourg joined the round as new investors. Existing investors a16z, ASML, Belfius, BNP Paribas CIB, Bpifrance, Carmignac, DST Global, Eurazeo, General Catalyst, Headline, Hillspire, Index Ventures, Korelya Capital, Lightspeed, NVIDIA, Phoenix Court’s Solar fund (home to LocalGlobe, Latitude and Solar) and Salesforce Ventures also participated. Mistral said the round reflects a strategic endorsement from investors across Europe, Asia and North America, bringing together a syndicate of strategic and financial investors that includes global technology leaders, growth investors and existing shareholders that have supported its development to date. With a Series C led by ASML and the Series D now led by Samsung Electronics, the company said it has attracted backing from companies at the forefront of advanced manufacturing, engineering and industrial technology, adding that this support reflects growing confidence that its approach can help organizations deploy state-of-the-art AI inside complex real-world environments while maintaining control over their data, infrastructure and knowledge. Co-lead Scaleup Europe Fund is a European Union initiative structured as a multi-billion late-stage and growth fund targeting strategic technology companies, with artificial intelligence named among its focus areas. According to the European Innovation Council, the fund is anchored by a €1 billion European Commission commitment alongside founding investors including Novo Holdings, EIFO, CriteriaCaixa, Santander/Mouro Capital, Allianz and Wallenberg Investments, and EQT was selected as its fund manager through a competitive public call. The fund was set to make its first investments in autumn 2026. Stated Use of Proceeds Mistral said the round will significantly expand its frontier research, which it described as the foundation underpinning its infrastructure, products and sovereignty. The company said the funding will allow it to scale its compute capacity for training powerful models and will help it expand infrastructure and accelerate its commercial growth and international footprint. The company said it now operates across 20 countries and supports the mission-critical AI transformation of more than 125 global enterprises, naming Airbus, ASML and HSBC among them. The Company’s Sovereign AI Positioning In the announcement, Mistral framed the round around a shift it sees in how organizations approach AI. During the first wave of generative AI, the company said, the central question was who could build the most powerful model; organizations and governments are now asking how to harness AI for mission-critical needs without surrendering control over the infrastructure and intelligence loop. The company said demand for that combination of performance with control, choice and independence is growing internationally as enterprises and governments weigh the long-term technology dependencies, data governance requirements and deployment choices that come with any AI investment. Mistral described itself as the only AI company in the world building what it called the full stack required to answer that question: open-weight models, the infrastructure and compute capacity they run on, and the products that bring them into production, ensuring customers are never locked into a single vendor’s roadmap, pricing or availability. The company said its full-stack and open approach allows organizations to build on it without exposing their most valuable data, workflows and institutional knowledge to anyone outside their own walls. Mistral said this is what makes its stack the sovereign AI layer, which it defines as retaining control across four dimensions: data that stays inside the organization’s boundaries, models that are controllable and customizable, compute that is private and predictable, and systems in production that are fully controllable and auditable. Prior Funding and Company Timeline Mistral’s previous round was a €1.7 billion Series C at an €11.7 billion post-money valuation, announced on September 9, 2025 and led by semiconductor equipment manufacturer ASML, with participation from existing investors DST Global, Andreessen Horowitz, Bpifrance, General Catalyst, Index Ventures, Lightspeed and NVIDIA. According to the company’s own timeline, Mistral was founded in April 2023, hired its first employee in June 2023 and raised a seed round that same month, followed by a Series A in December 2023 and a Series B in June 2024. The company lists co-founders Arthur Mensch as CEO, Guillaume Lample as Chief Science Officer and Timothée Lacroix as CTO.",
+        "impact": "تثبیت موقعیت اروپا در رقابت جهانی هوش مصنوعی و کاهش وابستگی به غول‌های فناوری آمریکایی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.8,
+        "source": "Unite.AI",
+        "url": "https://www.unite.ai/mistral-raises-e3b-series-d-to-expand-sovereign-ai/",
+        "clean_url": "https://www.unite.ai/mistral-raises-e3b-series-d-to-expand-sovereign-ai",
+        "image": "https://www.unite.ai/wp-content/uploads/2026/09/mistral-raises-3b-series-d-21b-valuation-sovereign-ai.jpg",
+        "images": [
+            "https://www.unite.ai/wp-content/uploads/2026/09/mistral-raises-3b-series-d-21b-valuation-sovereign-ai.jpg",
+            "https://www.unite.ai/wp-content/uploads/2021/03/logoUNITE230X30BLACK-1.svg",
+            "https://www.unite.ai/wp-content/uploads/2026/09/arm-unveils-mali-g2-ultra-nx-first-ai-native-mobile-gpu-400x240.jpg",
+            "https://www.unite.ai/wp-content/uploads/2026/09/firmus-signs-openai-as-anchor-customer-for-malaysian-ai-factories-400x240.jpg"
+        ],
+        "timestamp": 1788825600.0
     },
     {
         "id": "99f58c3814",
@@ -314,6 +480,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788801304.0
+    },
+    {
+        "id": "c0da05cb18",
+        "title_fa": "مدیرعامل آرم: هوش مصنوعی درمان سرطان را پیدا می‌کند، اگر تراشه داشته باشیم",
+        "title_en": "مدیرعامل آرم: هوش مصنوعی در طول زندگی ما سرطان را درمان خواهد کرد",
+        "summary": [
+            "رنه هاس معقتد است هوش مصنوعی به‌زودی معمای پیچیده درمان سرطان را حل می‌کند، اما کمبود شدید تراشه مانع اصلی است.",
+            "او تأکید کرد تا زمانی که ده‌ها میلیارد دلار صرف ساخت کارخانه‌های تراشه‌سازی جدید نشود، ظرفیت پردازشی به درمان بیماری‌ها نمی‌رسد.",
+            "به گفته هاس، توسعه داتاسنترهای چندگیگاواتی و تجهیزات پیشرفته شرط اصلی جهش فناوری در حوزه سلامت و رباتیک است."
+        ],
+        "full_text": "مدیرعامل آرم: هوش مصنوعی در طول زندگی ما سرطان را درمان خواهد کرد به گفته مدیرعامل آرم، کمبود شدید تراشه و نیاز به مراکز داده بزرگ، بزرگترین موانع پیشرفت هوش مصنوعی و حل معماهای پزشکی هستند. مدیرعامل بزرگترین شرکت فناوری بریتانیا، یعنی Arm، معتقد است که هوش مصنوعی در طول عمر نسل حاضر به راهکاری برای درمان بیماری سرطان دست پیدا خواهد کرد که از عهده تواناییهای انسان خارج است. اما ابتدا باید مشکل گلوگاه محاسباتی را حل کنیم. «رنه هاس»، مدیرعامل شرکت طراح تراشه آرم هولدینگز (Arm Holdings) مستقر در کمبریج، اعلام کرده ساخت یک مدل از نحوه تأثیرپذیری نشانگرهای ژنتیکی سرطان درحالحاضر مسئلهای بیشازحد پیچیده محسوب میشود، اما رایانهها در آینده این معضل بزرگ را برطرف خواهند کرد. هاس که از فوریه ۲۰۲۲ سکان هدایت این مجموعه را در دست دارد و پیش از آن نیز هفت سال به عنوان نایبرئیس بخش محصولات پردازشی در انویدیا فعالیت کرده میگوید: «من همیشه فکر میکردم که برگ برنده و کاربرد حیاتی هوش مصنوعی در حوزه سلامت است. هوش مصنوعی نهتنها مدتزمان لازم برای ابداع داروها را کوتاهتر میکند، بلکه زمان آزمایش آنها را نیز بهشدت کاهش خواهد داد. من معتقدم در طول دوران زندگی ما، هوش مصنوعی به درمان سرطان کمک خواهد کرد.» بااینحال، رسیدن به چنین نقطهای از نظر او مستلزم ظرفیت پردازشی فوقالعاده بالایی است. به گفته هاس، تراشههایی که میتوانند برای تحقیقات پزشکی، درمان سرطان و همچنین توسعه رباتهای انساننما در پنج سال آینده استفاده شوند، توسط شرکتهای هوش مصنوعی که درحال طراحی مراکز داده با ظرفیت چندین گیگاوات هستند، مصرف میشوند. او دراینباره به برنامههای ساخت مراکز داده بسیار بزرگ چند گیگاواتی در فرانسه و آمریکا و حتی طرحهای ارسال آنها به مدار زمین اشاره کرد و گفت جهان در شرایط محدودیت جدی عرضه قرار دارد و حتی پیش از فرستادن مراکز داده به فضا، به کارخانههای ساخت تراشه بسیار بیشتری نیاز است. همچنین ساخت این کارخانهها راهحلی فوری به حساب نمیآید، چراکه تأسیس هر کدام دهها میلیارد دلار هزینه دارد و دو تا سه سال زمان میبرد. هاس میگوید: «درحالحاضر شرایط بهشدت محدود است. فقط این را بگویم که پیش از آنکه بتوانیم یک مرکز داده را در فضا مستقر کنیم، به کارخانههای تراشهسازی بیشتری نیاز داریم. احتمالاً زمانی مراکز داده را به فضا میفرستیم که بزرگترین مانع مراکز داده، هزینه خود مرکز داده باشد.» هوش مصنوعی و حل معمای پیچیده سرطان حتی بدون در نظر گرفتن کمبود تراشه، تضمین درمان سرطان با هوش مصنوعی در سالهای پیش رو کار آسانی نخواهد بود. پژوهشگران حوزه سلامت یادآوری میکنند که سرطان یک بیماری واحد نیست، بلکه مجموعهای متشکل از بیش از ۱۰۰ نوع بیماری مختلف محسوب میشود که علائم و ساختار متفاوتی در بدن هر بیمار دارند. هرچند هوش مصنوعی به پژوهشگران امکان میدهد اهداف سلولی را شناسایی و رفتار احتمالی داروها را پیشبینی کنند، شواهد موجود پیرامون اثربخشی بالینی آن همچنان محدود است و متغیرهای بیشمار درون بدن مدلسازی قطعی اثر دارو روی انسان را دشوار میکنند. در سوی دیگر، پروفسور «کریس باکال» از مؤسسه تحقیقات سرطان لندن و مدیرعامل شرکت Sentinal4D، معتقد است چالش واقعی دیگر بر سر استفاده از هوش مصنوعی نیست، بلکه مسئله اصلی خوراک و دادههایی است که در اختیار آن قرار میگیرد. به گفته او، تیمهای آزمایشگاهی درحال آموزش هوش مصنوعی با دادههای تولیدشده از نمونههای بیماران هستند که از اینترنت جمعآوری نشده و نیازی هم به راهاندازی مراکز داده غولپیکر ندارد. او تأکید کرده آینده هوش مصنوعی پزشکی در اختیار کسانی نخواهد بود که بزرگترین کامپیوترها را میسازند، بلکه متعلق به مجموعههایی است که دقیقترین اندازهگیریها را در اختیار دارند. درهمینحال، توسعه بیرویه مراکز داده در آمریکا، که شمار آنها تا پایان سال گذشته از مرز ۱۴۰۰ مورد عبور کرده، چالشهای محیط زیستی متعددی به بار آورده؛ تا جایی که یک نظرسنجی نشان میدهد هفت نفر از هر ۱۰ شهروند بزرگسال آمریکایی با احداث مراکز داده هوش مصنوعی در نواحی زندگی خود به دلیل پیامدهای منفی بر آبوهوا مخالف هستند.",
+        "impact": "ضرورت سرمایه‌گذاری سنگین زیرساختی در صنعت نیمه‌هادی برای تحقق وعده‌های پزشکی هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.3,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/arm-ceo-ai-cancer-cure-chip-shortage",
+        "clean_url": "https://digiato.com/artificial-intelligence/arm-ceo-ai-cancer-cure-chip-shortage",
+        "image": "http://www.bing.com/th?id=ONUT.H-QHStSRUD76dRNFLmg0gw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.H-QHStSRUD76dRNFLmg0gw&pid=News",
+            "https://static.digiato.com/digiato/2026/09/ARM-CEO.jpg",
+            "https://static.digiato.com/digiato/2026/09/ARM-CEO-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/Arm-CEO-Rene-haas-1024x682.jpg"
+        ],
+        "timestamp": 1788797340.0
     },
     {
         "id": "a4110c4ac8",
@@ -6774,191 +6966,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788004822.0
-    },
-    {
-        "id": "c361e850d4",
-        "title_fa": "تجهیز سیستم پرونده پزشکی Epic به مرکز فرماندهی هوش مصنوعی",
-        "title_en": "Epic is turning its EHR into an AI command center, and CIO plans just got tighter",
-        "summary": [
-            "شرکت Epic سیستم پرونده الکترونیک سلامت خود را به قابلیت‌های پیشرفته هوش مصنوعی مجهز می‌کند.",
-            "این تحول، مدیران فناوری بیمارستان‌ها را به بازنگری جدی در برنامه‌های زیرساختی کشانده است.",
-            "هدف اصلی این طرح، کاهش حجم کارهای اداری پزشکان و تحلیل هوشمند داده‌های درمان است."
-        ],
-        "full_text": "Epic is turning its EHR into an AI command center, and CIO plans just got tighter  MarketScale",
-        "impact": "ورود عمیق هوش مصنوعی به زیرساخت‌های حیاتی بهداشت و درمان.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "MarketScale",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVo3cnFzMzQ0YmtZRVdBUTl5TlJqSE1BQzhqTlJ4bloxdWVRaWxCZ3JOZ0NZZjlQNkdRUl83SFEtNlo5TEdpNkF5SUNpbzBYbnZMVm5QcWtoUW9wTGhSZVJZeEd0R1dFNUhpa2ZCejd1dEJNbkVXaGl3QUlYZVhMRkhPVTd1d3pKd1JoY1VydDRPQVFsMHl3MUcxZ0N0b3RDQ0ZUcGdqV0dqX0lNNk9BWm1HZk1DQ29DcTJCR2ZIRzVNMVZteERYZW13?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVo3cnFzMzQ0YmtZRVdBUTl5TlJqSE1BQzhqTlJ4bloxdWVRaWxCZ3JOZ0NZZjlQNkdRUl83SFEtNlo5TEdpNkF5SUNpbzBYbnZMVm5QcWtoUW9wTGhSZVJZeEd0R1dFNUhpa2ZCejd1dEJNbkVXaGl3QUlYZVhMRkhPVTd1d3pKd1JoY1VydDRPQVFsMHl3MUcxZ0N0b3RDQ0ZUcGdqV0dqX0lNNk9BWm1HZk1DQ29DcTJCR2ZIRzVNMVZteERYZW13",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788001146.0
-    },
-    {
-        "id": "ae108687da",
-        "title_fa": "جهش ۲۲ درصدی سهام سیلزفورس پس از همکاری بزرگ با آنتروپیک",
-        "title_en": "Salesforce (CRM) Is Up 22.4% After Strong Q2 AI Uptake And Claudeforce Launch With Anthropic",
-        "summary": [
-            "رشد چشمگیر تقاضا برای ابزارهای هوشمند و رونمایی از Claudeforce با همکاری آنتروپیک، ارزش سهام سیلزفورس را جهش داد.",
-            "این پلتفرم مدل‌های هوشمند کلود را مستقیماً وارد فرایندهای مدیریت مشتریان سازمانی می‌کند.",
-            "این موفقیت مالی اثبات کرد که سرمایه‌گذاری روی هوش مصنوعی سازمانی به درآمدزایی ملموس رسیده است."
-        ],
-        "full_text": "Salesforce (CRM) Is Up 22.4% After Strong Q2 AI Uptake And Claudeforce Launch With Anthropic  simplywall.st",
-        "impact": "تثبیت مدل‌های آنتروپیک در زیرساخت‌های بزرگ سازمانی و جهش درآمدی سیلزفورس.",
-        "tag": "استارتاپ",
-        "urgency": 8,
-        "sentiment": 0.9,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlBWTExzYm5yV3pLS0k0QnRmT0FZZWNtYTU1QWFuejVDX2JDVll5UHRtRFBQLTE3YWx5STZ3MWZ2U0lHa2U4ZmVCZTRhVEdWUXNucC1fNWxjVzZCanMtdGY2WHdOcDBaR3QxZ3ctcHppZ2F1X011Zjh5azBWcVdUZzZVM2pFTlFpdWR5YWhReEhYRTNHbnNacXVsVV96VWtBN2w2aGF2dnRBbU9Ua0pVSVhSeFV3dklHQTgyTUowSjFocXhYSG0ybkZn0gHKAUFVX3lxTE9mUFZMTHNibnJXektLSTRCdGZPQVllY21hNTVBYW56NUNfYkNWWXlQdG1EUFAtMTdhbHlJNncxZnZTSUdrZThmZUJlNGFUR1ZRc25wLV81bGNXNkJqcy10ZjZYd05wMFpHdDFndy1wemlnYXVfTXVmOHlrMFZxV1RnNlUzakVOUWl1ZHlhaFF4SFhFM0duc1pxdWxVX3pVa0E3bDZoYXZ2dEFtT1RrSlVJWFJ4VXd2SUdBODJNSjBKMWhxeFhIbTJuRmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlBWTExzYm5yV3pLS0k0QnRmT0FZZWNtYTU1QWFuejVDX2JDVll5UHRtRFBQLTE3YWx5STZ3MWZ2U0lHa2U4ZmVCZTRhVEdWUXNucC1fNWxjVzZCanMtdGY2WHdOcDBaR3QxZ3ctcHppZ2F1X011Zjh5azBWcVdUZzZVM2pFTlFpdWR5YWhReEhYRTNHbnNacXVsVV96VWtBN2w2aGF2dnRBbU9Ua0pVSVhSeFV3dklHQTgyTUowSjFocXhYSG0ybkZn0gHKAUFVX3lxTE9mUFZMTHNibnJXektLSTRCdGZPQVllY21hNTVBYW56NUNfYkNWWXlQdG1EUFAtMTdhbHlJNncxZnZTSUdrZThmZUJlNGFUR1ZRc25wLV81bGNXNkJqcy10ZjZYd05wMFpHdDFndy1wemlnYXVfTXVmOHlrMFZxV1RnNlUzakVOUWl1ZHlhaFF4SFhFM0duc1pxdWxVX3pVa0E3bDZoYXZ2dEFtT1RrSlVJWFJ4VXd2SUdBODJNSjBKMWhxeFhIbTJuRmc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788000857.0
-    },
-    {
-        "id": "4b0c255e7c",
-        "title_fa": "دغدغه استقلال فناوری در اروپا؛ کی کنترل AI را در دست دارد؟",
-        "title_en": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-        "summary": [
-            "در رویداد TechBBQ کوپنهاگ، بحث اصلی رهبران فناوری اروپا روی خروج از وابستگی شدید به زیرساخت‌های هوش مصنوعی آمریکا و چین متمرکز بود.",
-            "محدودیت‌های اخیر در دسترسی به برخی مدل‌های پیشرفته AI در اروپا، خطرات تکیه بر زیرساخت‌های خارجی را پررنگ‌تر کرده است.",
-            "مدیر پیام‌رسان سیگنال در این رویداد هشدار داد که ادغام ایجنت‌های هوش مصنوعی در سیستم‌عامل‌ها، بستری جدید برای جمع‌آوری انبوه داده‌های کاربران است."
-        ],
-        "full_text": "At TechBBQ in Copenhagen, the conversation among investors, founders, and operators from across Europe wasn’t just about what to build with AI, but who should control it. No matter where you were during the annual Nordic conference, from onstage to cocktail hours and after-parties, the chatter kept coming back to how Europe can gain more control over the technology powering AI. That question of sovereignty — which fittingly matched this year’s theme of “Emerging from Agency” — was especially timely after Anthropic’s AI models Mythos and Fable became unavailable to users outside Europe earlier this year. The incident led many in the European ecosystem to think seriously about what it means to own the models and the infrastructure underpinning this AI wave, instead of renting that power from the U.S. and China. One startup exec told me the Mythos and Fable incident seriously disrupted his software team, while another shrugged it off. Sure, the startup exec said, relying on two other geopolitical powers for AI might one day cause Europe severe headaches, but for now, everything is still pretty much OK. “TechBBQ’s theme of agency felt particularly timely this year as the conversation shifted from what AI can do to what we’re actually willing to let it do,” Ellen de Brever, an angel investor and head of partnerships at the Novo Nordisk Foundation Cellerator, told me during the conference that wrapped up August 27. There were panels about the future of women’s health, a summit on how the Nordic and African ecosystems can collaborate on innovation and investment, and talks about how to get more growth capital into Europe. AI was an underlying theme in many of the conversations, but as de Brever pointed out, “the debates weren’t about smarter machines, but about human judgment and who gets to stay in the driver’s seat.” “The age of AI agents isn’t really a story about machines gaining agency,” she continued. “It’s a story about humans deciding what to give up.” An attendee told me that one of the most refreshing sessions at the event was the panel with Signal President Meredith Whittaker, which I moderated and focused on whether privacy and AI can coexist. Whittaker didn’t mince words, and spoke out against AI assistants and agents being integrated into operating systems, like what ChatGPT is doing with iMessage. She said this AI era is creating a “data collection apparatus” and that AI labs are using clever marketing to make people forget “about the collateral consequences” of acquiring so much data. “There is still a huge market need for privacy,” she said. “And particularly with the sovereignty concerns, we will have customers here.” Elsewhere, Emad Mostaque, co-founder of Stability AI and Intelligent Internet, sat on a panel with me about how an agentic workforce will impact the economy and what that means for personal sovereignty. “Sovereignty is the ability to resist power being exerted over you,” Mostaque said. He spoke about the concentration of power in the hands of a few AI labs and said, “Inevitably, every country will be run by AI and that “the person that controls the AI controls the country.” Mia Negru, the advocacy and engagement director for the nonprofit Life With Artificials, sent me a message after the panel about what crossed her mind as she listened. “If intelligent agents perform cognitive work and robots increasingly perform physical work, we may be approaching something much bigger than another technological revolution,” she said in the message. “We may have to rethink ownership, work, democracy, economic participation and eventually even who gets to participate in society.” But when the panels weren’t in session, people let loose at happy hours and rooftop soirées, where more lighter conversations eventually took over. Lovable, Nvidia, OpenAI, AWS Startups, and HSBC came together to host a rooftop barbecue where I spoke to founders about Denmark’s growing tech hubs. London’s Ada Ventures hosted a gathering at the cocktail bar Bird where I chatted with one health tech founder about increased innovation in the women’s brain health space. Then, there was the speakers’ dinner on an island in the middle of Copenhagen where the international press sat together and watched fire dancers. The after-party continued upstairs, where everyone was tempted to stay for one more drink until the bar tab closed. “In a room full of conversations about machines, the most memorable moments still come from the simplest thing,” de Brever said. “Human connection, face-to-face, building relationships, sharing ideas, and reminding each other of what technology can never quite replace.”",
-        "impact": "شکل‌گیری حرکت جدی‌تر در اروپا برای سرمایه‌گذاری روی زیرساخت‌ها و مدل‌های بومی هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-        "clean_url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control",
-        "image": "http://www.bing.com/th?id=ONUT.msg8GGlRPu3nbEXp9AYZUQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.msg8GGlRPu3nbEXp9AYZUQ&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
-        ],
-        "timestamp": 1788000660.0
-    },
-    {
-        "id": "7d3d83aac5",
-        "title_fa": "گوگل روی مدل تصویرساز جدیدی به نام Instant-Ramen کار می‌کند",
-        "title_en": "Google’s Next AI Image Model Is Called Instant-Ramen, and It Looks Promising",
-        "summary": [
-            "اطلاعات فاش‌شده نشان می‌دهد گوگل در حال توسعه مدل جدید تولید تصویر با کد Instant-Ramen است.",
-            "تمرکز اصلی این مدل بر رندر آنی و سریع تصاویر باکیفیت برای رقابت مستقیم با Midjourney و Flux است."
-        ],
-        "full_text": "Google’s Next AI Image Model Is Called Instant-Ramen, and It Looks Promising  nokiapoweruser.com",
-        "impact": "داغ‌تر شدن رقابت در بازار تولیدکنندگان تصویر با تکیه بر سرعت تولید بالا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "nokiapoweruser.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWJUdFQwR0Z3RVhVMjlpS25HdGlneE5ZMTBZeVRZYUkxTHM2MEhQaHBxbU1EUjBjWmIxTzdxSlZOMVg0bEdsMDlXMG90enAxeXhydmR5Tll2SXQwS0FPa0hkdENfX3l0QzY1aFJpSHBWdG1LeDlwLTVYYXctMG1WUnRCOXVPNk8zcVNaTzRn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWJUdFQwR0Z3RVhVMjlpS25HdGlneE5ZMTBZeVRZYUkxTHM2MEhQaHBxbU1EUjBjWmIxTzdxSlZOMVg0bEdsMDlXMG90enAxeXhydmR5Tll2SXQwS0FPa0hkdENfX3l0QzY1aFJpSHBWdG1LeDlwLTVYYXctMG1WUnRCOXVPNk8zcVNaTzRn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787988792.0
-    },
-    {
-        "id": "ae5a886497",
-        "title_fa": "برتری جدید انویدیا؛ عبور از تراشه و تسخیر زیرساخت دیتاسنترها",
-        "title_en": "Nvidia’s AI advantage is moving beyond the GPU",
-        "summary": [
-            "انویدیا برای حفظ برتری خود، تمرکز را از تولید صرف GPU به طراحی کل زیرساخت دیتاسنتر تغییر داده است.",
-            "پردازنده Vera و معماری جدید این شرکت، چالش مدیریت داده و حافظه را در مقیاس‌های غول‌پیکر گیگاواتی حل می‌کنند.",
-            "این استراتژی هوشمندانه باعث می‌شود حتی با ورود پردازنده‌های رقیب، دیتاسنترها همچنان کاملاً وابسته به اکوسیستم انویدیا بمانند."
-        ],
-        "full_text": "Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. In the last few years, hyperscalers like Amazon and Google have started building their own chips, and Nvidia is no longer the only game in town, leading many investors to wonder how durable its advantage really is. It’s a compelling story, and mostly true. After growing its market cap 10x between the start of 2023 and mid-2025, Nvidia shares have been on a more modest trajectory for the past year, driven by concerns about GPU competition. A new narrative has taken shape since the company’s earnings on Wednesday and investors are starting to realize that Nvidia’s advantage goes far beyond GPUs. As AI’s compute grows into the gigawatt scale, orchestration has become an increasingly complex task. Not surprisingly, Nvidia has built much of the state-of-the-art hardware needed to handle it, giving the company a huge advantage in the systems that surround the GPU even as it sees increased competition on the GPUs themselves. For all the talk of compute as a commodity, it’s still incredibly difficult to operate a megascale data center at peak efficiency — and as deployments get bigger and faster, that challenge is only growing. Rack by Rack You can see some of this just by looking at the details of what Nvidia is actually selling. The company is currently rolling out its Vera Rubin architecture, which pairs the Rubin GPU with a collection of other units, including the Vera CPU, the Groq 3 LPX inference accelerator and similar racks for storage and networking. Over the past week, I’ve been talking to folks at Nvidia about what those systems actually do, and the results have been surprising. Like the Rubin GPU itself, they’re extremely specialized systems, but instead of churning through tokens, they’re making sure everything outside the GPU works as efficiently as possible. If the GPU is the engine, these are the rest of the car. The Vera CPU in particular is focused on the problem of orchestrating data. “Vera is important because there’s only so much memory that you can put in a single server or any sort of compute platform,” Jason Hardy, Nvidia’s VP of storage technology, told me. As data centers have scaled up computing power, memory capacity has scaled up too, which is why companies like Micron have gotten rich in the second wave of the infrastructure boom. But getting that data to the GPU at the right time isn’t straightforward — and as companies look to drive tokens-per-watt lower and lower, they’re realizing how important that kind of traffic direction is. “We saw upwards of 3x improvement in these operations, where the Vera CPU is allowing for acceleration,” Hardy said. “So now we can use our flash to its fullest potential, because we can get all that performance out of it without bottlenecking.” You can see versions of the same problem outside of Nvidia. When OpenAI developed its Jalapeño chip, a major focus was avoiding these challenges entirely by minimizing the amount of data that needs to be moved around. “We designed Jalapeño to minimize data movement and communication delays,” the company said in a blog post earlier this month. “Its large domain allows the entire workload to remain within one connected system, minimizing data movement and helping the complete request stay fast and efficient from beginning to end.” It’s a different approach, avoiding data movement entirely by conducting a workload within one integrated chip. But the overall logic is the same, increasing efficiency with smarter traffic control instead of just more processor cycles. That in turn opens up a whole new layer of infrastructure for companies to compete over. This new focus on data orchestration isn’t automatically a win for Nvidia. The company will have to compete with rival chipmakers and hyperscalers just as it has with GPUs. But the competition has moved to a new layer, where building a rival GPU matters less than being able to make the entire system work efficiently. And at least in the early stages, Nvidia looks to have a commanding lead.",
-        "impact": "تثبیت رهبری انویدیا در بازار هوش مصنوعی از طریق قفل کردن زیرساخت دیتاسنترها.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-        "clean_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-        "image": "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.6gd0Awku1TL8xRoBQtdKyg&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2025/05/russell-e1755718978143.jpg?w=150"
-        ],
-        "timestamp": 1787983200.0
-    },
-    {
-        "id": "70f19fc7f9",
-        "title_fa": "افت افتضاح فریم‌ریت RTX 5080 در اولین تست‌های DLSS 5",
-        "title_en": "DLSS 5 has already been launched in a game - RTX 5080 loses more than half of its FPS",
-        "summary": [
-            "نخستین تست‌های فناوری DLSS 5 روی کارت گرافیک RTX 5080 نشان از افت بیش از ۵۰ درصدی نرخ فریم بازی دارد.",
-            "بار پردازشی سنگین الگوریتم‌های جدید هوش مصنوعی حتی سخت‌افزار نسل بعد انویدیا را هم به چالش کشیده است."
-        ],
-        "full_text": "DLSS 5 has already been launched in a game - RTX 5080 loses more than half of its FPS  ixbt.games",
-        "impact": "فشار بر انویدیا جهت بهینه‌سازی فوری نرم‌افزاری و احتمال سردرگمی خریداران اولیه کارت‌های سری ۵۰.",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ixbt.games",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR5RGVpS1FWMV9lOWlScHF5MW1BUTk5bm56dTBYUUJaV3Y2Mi1JXzRfQ1ZEMG5FRHFHSS1SWWFFbWtXM3JwT01ja3VfZm5Ydl80WGY3Znl6TXZyejI1X2IzQnJUMXI5Y3FvSV9lNVB4dV9NX0NaT0Y2UEF3N0paekd0Ym5mcXRCZmsxeDEySDZhWloyWUZmWGRzcjd4LTR4WEpLRFFxTHlDRlpVcl9SWVZySdIBuAFBVV95cUxQSWtvTlVlWmZ2VDAyZmxLc1VfVVYxYUJlcjE3RTRVWHZ5QzdBcHdkN3dONnJYaHFBLU1USnI0UFZsYU1ZbUxvYzNuQ1hOUlFrRmNNWllZQTFBVTVoX002SU9HQjd5TUNmaThJTDN0a09peWVlR0ExVERRcTZ5bWpZb19DXzZ5d2RtTWF0RlM5Y1VQdGlUNkRxVnBWMExQamNnU1ZYTHczZ1hMbkVHOFFzNXdwN0w4aVo4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGR5RGVpS1FWMV9lOWlScHF5MW1BUTk5bm56dTBYUUJaV3Y2Mi1JXzRfQ1ZEMG5FRHFHSS1SWWFFbWtXM3JwT01ja3VfZm5Ydl80WGY3Znl6TXZyejI1X2IzQnJUMXI5Y3FvSV9lNVB4dV9NX0NaT0Y2UEF3N0paekd0Ym5mcXRCZmsxeDEySDZhWloyWUZmWGRzcjd4LTR4WEpLRFFxTHlDRlpVcl9SWVZySdIBuAFBVV95cUxQSWtvTlVlWmZ2VDAyZmxLc1VfVVYxYUJlcjE3RTRVWHZ5QzdBcHdkN3dONnJYaHFBLU1USnI0UFZsYU1ZbUxvYzNuQ1hOUlFrRmNNWllZQTFBVTVoX002SU9HQjd5TUNmaThJTDN0a09peWVlR0ExVERRcTZ5bWpZb19DXzZ5d2RtTWF0RlM5Y1VQdGlUNkRxVnBWMExQamNnU1ZYTHczZ1hMbkVHOFFzNXdwN0w4aVo4",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787982609.0
-    },
-    {
-        "id": "d03205e9a8",
-        "title_fa": "برنامه ایلان ماسک برای پرتاب ماهواره‌های مجهز به تراشه انویدیا",
-        "title_en": "Elon Musk plans first Nvidia-powered AI satellite launch in 2027",
-        "summary": [
-            "ایلان ماسک قصد دارد در سال ۲۰۲۷ نخستین ماهواره‌های مجهز به پردازنده‌های هوش مصنوعی انویدیا را به مدار زمین بفرستد.",
-            "این اقدام امکان پردازش مستقیم و آنی داده‌های تصویربرداری و فضایی را روی خود ماهواره فراهم می‌سازد."
-        ],
-        "full_text": "Elon Musk plans first Nvidia-powered AI satellite launch in 2027  YourStory.com",
-        "impact": "شکل‌گیری زیرساخت‌های جدید پردازش ابری فضایی و افزایش وابستگی پروژه‌های فضایی به انویدیا.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.5,
-        "source": "YourStory.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbGZxRWY2emd4ZnB2TWM4c3J1dVdLdldpNms4SzFCc0hvc3BBWHpzZUc5cGk0ZDNhMzRKR1FzZWc3NmVqVmhhbGxzVEw3TmE4SnFyZlhOU0d3akdqNDh3WkRib3JkWXVzNzNfVGt4TVFJcERBd1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbGZxRWY2emd4ZnB2TWM4c3J1dVdLdldpNms4SzFCc0hvc3BBWHpzZUc5cGk0ZDNhMzRKR1FzZWc3NmVqVmhhbGxzVEw3TmE4SnFyZlhOU0d3akdqNDh3WkRib3JkWXVzNzNfVGt4TVFJcERBd1E",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787981762.0
-    },
-    {
-        "id": "0305511f83",
-        "title_fa": "افشای اطلاعات جدید از بازی Call of Duty: Modern Warfare 4",
-        "title_en": "CoD MW4: Release date, pre-orders, story, multiplayer and more",
-        "summary": [
-            "جزئیات تازه‌ای از تاریخ عرضه، سیستم پیش‌خرید و بخش داستانی نسخه بعدی کال آف دیوتی فاش شد.",
-            "تغییرات بخش مولتی‌پلییر روی بهبود مکانیک‌های حرکتی و بازسازی نقشه‌های محبوب قدیمی تمرکز دارد."
-        ],
-        "full_text": "CoD MW4: Release date, pre-orders, story, multiplayer and more  Radio Times",
-        "impact": "حفظ هیجان و درگیر نگه‌داشتن جامعه میلیونی مخاطبان فرنچایز کال آف دیوتی.",
-        "tag": "گجت",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "Radio Times",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OUlXZk5xNkdWWnVOTy1ERGZ2ZHJ6aWJVT0NXZFJSRUdNT1JaYkFWWEl1TV9uNl9PN0QzTEJMNTNWTXF5d3NMdDV4Y3hMZWFKQmlxYng1ZGdkMnV2WHRZR0wwaS1ZT2FaOGhoUC1taWxJdG1o?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OUlXZk5xNkdWWnVOTy1ERGZ2ZHJ6aWJVT0NXZFJSRUdNT1JaYkFWWEl1TV9uNl9PN0QzTEJMNTNWTXF5d3NMdDV4Y3hMZWFKQmlxYng1ZGdkMnV2WHRZR0wwaS1ZT2FaOGhoUC1taWxJdG1o",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787981072.0
     }
 ]
