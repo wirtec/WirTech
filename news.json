@@ -1,5 +1,96 @@
 [
     {
+        "id": "9fc988b01d",
+        "title_fa": "اوج‌گیری رقابت سنگین کشورهای خاورمیانه در توسعه هوش مصنوعی",
+        "title_en": "The Great Middle East AI Race Heats Up",
+        "summary": [
+            "کشورهای منطقه به‌ویژه امارات و عربستان با سرمایه‌گذاری‌های میلیاردی در حال تبدیل‌شدن به قطب‌های جدید هوش مصنوعی جهان هستند.",
+            "این رقابت از خریدهای تجاری فراتر رفته و به سمت توسعه مدل‌های بزرگ بومی و جذب نخبگان بین‌المللی حرکت کرده است."
+        ],
+        "full_text": "The Great Middle East AI Race Heats Up  Informed Comment",
+        "impact": "شکل‌گیری قطب‌های جدید قدرت در جغرافیای فناوری جهان و تغییر معادلات سیاسی-اقتصادی منطقه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "Informed Comment",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRUlTQ0NpekxaRHJ0aG80QVR0OVIzWHZ4VmR5dFRnaThkMGRYc19XY0FBaUpibzhQQXI4TG1WdHR4R2V2d2VkcjdRZUtzbjBhb2ZjS3RpaVRsWHRTUVktZEU3QThuaFdV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRUlTQ0NpekxaRHJ0aG80QVR0OVIzWHZ4VmR5dFRnaThkMGRYc19XY0FBaUpibzhQQXI4TG1WdHR4R2V2d2VkcjdRZUtzbjBhb2ZjS3RpaVRsWHRTUVktZEU3QThuaFdV",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788840945.0
+    },
+    {
+        "id": "0fab643ff7",
+        "title_fa": "نبرد غول‌های نرم‌افزاری اروپا برای بقا در عصر هوش مصنوعی",
+        "title_en": "Europe’s Software Giant Fights to Stay Relevant in the AI Era",
+        "summary": [
+            "شرکت‌های بزرگ نرم‌افزاری اروپا نظیر SAP با فشار سنگینی برای بازتعریف محصولات خود و عقب نماندن از موج هوش مصنوعی مواجه هستند.",
+            "کندی سرمایه‌گذاری سنگین در زیرساخت‌های بومی باعث شده کسب‌وکارهای اروپایی در برابر رقبای آمریکایی احساس خطر جدی کنند."
+        ],
+        "full_text": "Europe’s Software Giant Fights to Stay Relevant in the AI Era  Bloomberg.com",
+        "impact": "بازماندن غول‌های اروپایی از این کورس رقابتی، سهم فناوری این قاره در بازار جهانی را به‌شدت تهدید می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2puT2p2T1JzcFVGS0VuRVIxcUpPS1VUYTZjMFQ0TW93cjUyRk1ZS0I4aEJ5U3E3elBEVjlzTElwWnlscWNCcjZiWm1UdEJCa1Y4NFZkT2stSUlXaGdoN1NUNVFuRXBiZXJtM3FZS3BrTjdaNmJOMTRidV8zUWVGSHJ4XzM3OWFXSzhZMGFhb3JfRFk0aDloSmxLMjJjNWdpSlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2puT2p2T1JzcFVGS0VuRVIxcUpPS1VUYTZjMFQ0TW93cjUyRk1ZS0I4aEJ5U3E3elBEVjlzTElwWnlscWNCcjZiWm1UdEJCa1Y4NFZkT2stSUlXaGdoN1NUNVFuRXBiZXJtM3FZS3BrTjdaNmJOMTRidV8zUWVGSHJ4XzM3OWFXSzhZMGFhb3JfRFk0aDloSmxLMjJjNWdpSlE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788840000.0
+    },
+    {
+        "id": "04bb3d7956",
+        "title_fa": "هشدار به گروه ۲۰ درباره خطرات هوش مصنوعی برای ثبات مالی",
+        "title_en": "G20 Warned Of Growing Threat to Financial Stability Posed By New AI Models",
+        "summary": [
+            "نهادهای مالی بین‌المللی به کشورهای G20 هشدار دادند که اتکای سریع و گسترده به مدل‌های هوش مصنوعی می‌تواند ریسک‌های سیستمی تازه ایجاد کند.",
+            "عدم شفافیت در نحوه تصمیم‌گیری مدل‌ها و احتمال بروز رفتارهای هیجانی هم‌زمان در بازارها، از اصلی‌ترین نگرانی‌هاست."
+        ],
+        "full_text": "G20 Warned Of Growing Threat to Financial Stability Posed By New AI Models  WSJ",
+        "impact": "احتمال تصویب مقررات سخت‌گیرانه‌تر و نظارت‌های فشرده بر کاربری هوش مصنوعی در موسسات مالی بزرگ.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUtDTXpOcGZXcFEwTXhUTTFHN2tURXlISDNHQWNpVHlXMkh2U2Q0Vy1CNGFKS3JZRDBfMWVxUUVFRVRHYzRKX0NVNXpDMzNuNHVRbXMyWWlSdXpiOFRCTGJ0S2JObTVhNEdTam91X1ZOdWlnVk9ySDZWQUdxXzlWc05HSS1hMllsUTV5S1c4SjZjM2VVVmprRHZqbWh0eDdKVmliTm04cEtmRHY4TnN6Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUtDTXpOcGZXcFEwTXhUTTFHN2tURXlISDNHQWNpVHlXMkh2U2Q0Vy1CNGFKS3JZRDBfMWVxUUVFRVRHYzRKX0NVNXpDMzNuNHVRbXMyWWlSdXpiOFRCTGJ0S2JObTVhNEdTam91X1ZOdWlnVk9ySDZWQUdxXzlWc05HSS1hMllsUTV5S1c4SjZjM2VVVmprRHZqbWh0eDdKVmliTm04cEtmRHY4TnN6Xw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788832811.0
+    },
+    {
+        "id": "99f58c3814",
+        "title_fa": "کشف خطای اندازه‌گیری که طراحان باتری را گمراه می‌کرد",
+        "title_en": "Bumpy battery surfaces can masquerade as nanoscale ion pathways, misleading material design",
+        "summary": [
+            "محققان KAIST دریافتند ناهواری‌های سطحی در مقیاس نانو سیگنال‌هایی شبیه به حرکت یون‌ها ایجاد می‌کنند و باعث تحلیل اشتباه عملکرد باتری می‌شوند.",
+            "با روش جدید حذف این سیگنال‌های کاذب، مسیر ساخت باتری‌های حالت جامد و سدیمی بسیار دقیق‌تر و سریع‌تر می‌شود."
+        ],
+        "full_text": "Bumpy battery surfaces can masquerade as nanoscale ion pathways, misleading material design A signal that appears to show ions moving inside a battery may, in fact, be an illusion caused by an uneven surface. A KAIST research team has identified the origin of this type of artifact, which can lead researchers to misinterpret what is happening inside a battery, and has developed a method to reduce it. The findings are expected to enable more accurate analysis of ion movement and improve the reliability of next-generation battery-material development, including that of solid-state and sodium-ion batteries. A research team led by professor Seungbum Hong from the Department of Materials Science and Engineering, in collaboration with the research groups of professor Jong Min Yuk from the same department and professor Nam-Soon Choi from the Department of Chemical and Biomolecular Engineering, has identified the cause of a measurement artifact in nanoscale battery analysis that can be mistaken for actual ion transport. The team also proposed a method for effectively reducing this artifact. The paper is published in the journal Small Methods. During charging and discharging, lithium or sodium ions move back and forth within a battery. The speed and ease with which these ions move affect the battery's performance and lifespan. Developing better batteries therefore requires researchers to precisely determine where ions can move freely and where their movement is hindered. Testing the false signal One technique used for this type of analysis is electrochemical strain microscopy (ESM), which is based on atomic force microscopy (AFM). ESM scans the surface of a battery material with an extremely fine tip and measures nanoscale changes in the material associated with ion movement, allowing researchers to indirectly track ion transport. The problem is that when the surface of a battery material is rough, similar signals can appear even in the absence of actual ion movement. If these signals are interpreted as evidence of ion transport, researchers may incorrectly identify where ions are moving within the material. To investigate the origin of these artifacts, the team created fine trenches on the surface of an ionically inactive single-crystal silicon sample. This provided an experimental environment in which no ions were moving while the sample surface remained uneven. The results quantitatively demonstrated that variations in surface height alone can alter the degree of contact between the microscope tip and the sample, producing signals similar to those generated by actual ion movement. The same phenomenon was also observed in actual battery materials. When the team analyzed a graphite anode and the sodium solid electrolyte Na₂Zn₂TeO₆, the ESM signals likewise varied according to surface topography. This confirmed that the issue is not limited to a particular material but is a phenomenon that researchers must account for when conducting nanoscale analyses of a wide range of battery materials. Smoothing away the artifact As a solution, the team proposed making the surfaces of battery materials as smooth and flat as possible. To achieve this, the researchers used a cooling cross-section polisher (CCP), which employs an argon (Ar) ion beam to precisely polish sample cross sections. Because argon is chemically inert under most conditions, this technique allows the surface to be processed precisely without significantly altering the properties of the sample. This treatment substantially reduced surface roughness and, in turn, decreased measurement artifacts caused by uneven surfaces. The mechanism is comparable to a car moving up and down while traveling over a bumpy road: As the scanning tip passes over height variations on the surface of a battery material, the degree of contact between the tip and the sample changes. These changes can generate signals resembling those produced by actual ion movement. In particular, the team examined signals detected at grain boundaries—the interfaces where the small crystals that make up a battery material meet, much like the seams between adjacent tiles. Before the surface was smoothed, strong ESM signals appeared at these grain boundaries. After the surface was polished, however, the enhanced signals disappeared. This finding indicates that some signals previously interpreted as evidence of \"pathways that facilitate ion transport\" may actually have resulted from variations in surface height rather than genuine ion movement. Better data for battery design This study is significant because it experimentally demonstrates how this type of measurement artifact arises in nanoscale battery analysis and shows that it can be reduced using the practical approach of smoothing battery-material surfaces. The findings are expected to provide a more accurate understanding of where ions move freely and where their movement is hindered within a battery. Such insights could provide an important foundation for designing battery materials that facilitate ion transport, thereby enabling faster charging and longer battery life. The team expects this analytical approach to be applicable not only to widely used lithium-ion batteries but also to next-generation battery systems. These include solid-state batteries, which use solid rather than liquid electrolytes, and sodium-ion batteries, which use sodium ions in place of lithium ions. The approach could help researchers more accurately understand how these batteries operate and support the design of new materials. Furthermore, the accumulation of reliable nanoscale analysis data could provide high-quality training data sets for artificial intelligence (AI) and machine-learning research aimed at designing new battery materials and predicting their performance. \"This research clearly demonstrates how variations in surface height affect the results of nanoscale battery-material analysis,\" said Hong. \"We expect our findings to enable more accura",
+        "impact": "جهش در سرعت و قابلیت اطمینان توسعه باتری‌های ایمن‌تر و پرظرفیت برای خودروهای برقی.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-09-bumpy-battery-surfaces-masquerade-nanoscale.html",
+        "clean_url": "https://phys.org/news/2026-09-bumpy-battery-surfaces-masquerade-nanoscale.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/kaist-identifies-cause.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/hires/2026/kaist-identifies-cause.jpg",
+            "https://scx2.b-cdn.net/gfx/news/2026/kaist-identifies-cause.jpg",
+            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
+            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg"
+        ],
+        "timestamp": 1788816000.0
+    },
+    {
         "id": "26934214c1",
         "title_fa": "پایان ساخت دستی پرزنتیشن با ورود پلتفرم‌های ایجنت محور AI",
         "title_en": "New agentic AI platform sounds death knell for manual presentation tools",
@@ -109,6 +200,28 @@
             "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bKRT3.img?w=768&h=512&m=6"
         ],
         "timestamp": 1788807950.0
+    },
+    {
+        "id": "4fb308b4c5",
+        "title_fa": "کشف روشی تازه برای کاهش چشمگیر مصرف برق دیتاسنترهای AI",
+        "title_en": "Scientists discover a new way AI data centers can slash their energy usage",
+        "summary": [
+            "پژوهشگران راهکار جدیدی یافته‌اند که می‌تواند مصرف انرژی دیتاسنترهای پردازش هوش مصنوعی را چندین برابر کاهش دهد.",
+            "این دستاورد یکی از بزرگ‌ترین چالش‌های توسعه زیرساخت‌های AI یعنی فشار بر شبکه‌های برق را به شکل موثری برطرف می‌کند."
+        ],
+        "full_text": "A new scientific paper outlines a way to cut AI data center energy usage by 'orders of magnitude'",
+        "impact": "افت شدید هزینه‌های عملیاتی و کاهش اثرات زیست‌محیطی توسعه مدل‌های غول‌پیکر هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechRadar",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/scientists-discover-a-new-way-ai-data-centers-can-slash-their-energy-usage/ar-AA2bKVcj",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/scientists-discover-a-new-way-ai-data-centers-can-slash-their-energy-usage/ar-AA2bKVcj",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1IELqZ.img?w=1280&h=720&m=4&q=79",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1IELqZ.img?w=1280&h=720&m=4&q=79"
+        ],
+        "timestamp": 1788807600.0
     },
     {
         "id": "089f49741e",
@@ -229,6 +342,32 @@
         "timestamp": 1788796680.0
     },
     {
+        "id": "2ac11aaf35",
+        "title_fa": "کاهش سن بیولوژیک انسان با داروی هوش مصنوعی اینسیلیکو",
+        "title_en": "AI-designed drug candidate reverses biological age in clinical study",
+        "summary": [
+            "شرکت اینسیلیکو با ترکیب هوش مصنوعی مولد و تحلیل‌های پروتئومیکس، داروی rentosertib را توسعه داده که سن بیولوژیکی بیماران را عقب کشیده است.",
+            "آزمایش بالینی فاز دوم نشان می‌دهد این دارو علاوه بر معکوس‌کردن سن سلولی، عملکرد ریه بیماران مبتلا به فیبروز ریوی را به شکل معنی‌داری بهبود می‌دهد.",
+            "این نخستین‌بار است که یک داروی کاملاً طراحی‌شده با AI (و نه یک داروی قدیمی تغییرکاربری‌یافته) در فاز بالینی چنین نتایجی ثبت می‌کند."
+        ],
+        "full_text": "Insilico Medicine (\"Insilico\"), a clinical-stage company focused on generative AI-driven drug discovery and development, today announced the publication of a new study conducted in collaboration with an international team of scientists from Harvard Medical School, Stanford University, The Broad Institute, RWTH Aachen University, Peking University and Westlake University. Using longitudinal Olink proteomic data (CNCB OMIX accession: OMIX008341) collected during a Phase IIa clinical trial of rentosertib, researchers evaluated biological age using six internationally recognized, independently developed proteomic aging clocks. All six models consistently indicated a reduction in predicted biological age among patients treated with rentosertib. In addition, the Forced Vital Capacity (FVC), the essential measure of lung function declining with age, showed promising dose-dependent reversal compared to placebo aligning with the proteomic aging clock age reversal. Recently published in Nature Biotechnology, the study represents the first clinical evaluation of a potentially first-in-class drug candidate featuring both an AI-discovered target with relevance to aging and disease biology and an AI-designed molecule, rather than a repurposed generic drug such as rapamycin or metformin. The findings also provide a proof-of-concept framework for integrating aging biomarkers into standard clinical trials to accelerate the discovery of geroprotective drugs and longevity therapeutics. The results will be presented by first author Alex Zhavoronkov, founder and CEO of Insilico Medicine, at the Nature conference: Redefining Healthcare in the Age of AI, to be held at Sorbonne University in Paris on September 8, 2026. From aging biology to a clinical drug Unlike traditional geroscience studies that rely on repurposed drugs like rapamycin or metformin, Insilico pursued a different approach by incorporating aging biology into its drug discovery strategy from the outset. Using its AI-powered target discovery platform, Insilico identified TNIK as a novel target implicated in aging and fibrosis and performed hallmarks of aging assessment where TNIK scored highly in 6 hallmarks. TNIK was subsequently prioritized as a dual-purpose target relevant to both underlying aging biology and idiopathic pulmonary fibrosis (IPF). Insilico's generative chemistry platform, Chemistry42, was then deployed to design the small-molecule candidate rentosertib targeting TNIK. The program progressed from target identification to preclinical candidate nomination in approximately 18 months, with the preclinical findings published in Nature Biotechnology in 2024. In June 2025, Insilico reported the results of a Phase IIa trial of Rentosertib for IPF (NCT05938920) in Nature Medicine. The trial met its primary safety endpoint and demonstrated a promising dose-dependent trend in efficacy. One of the common efficacy outcome measures is Forced Vital Capacity (FVC), the essential measure of lung function. The typical age of onset of IPF is around 65 years. Interestingly, in healthy individuals older than 65, FVC declines as well typically at the rate of 20-50 mL/year and may also serve as a potential physiological biomarker of aging. In the previous publication, it was revealed that in the 60-mg once-daily group, patients experienced a mean improvement in forced vital capacity (FVC) of +98.4 mL, compared with a mean decline of -20.3 mL in the placebo group (-62.3 excluding outlier). Crucially, the trial protocol prospectively included longitudinal serum proteomic screening for exploratory biomarker analyses, which proved consistent with the drug's proposed anti-fibrotic and anti-inflammatory activity. All data collected from the trial were subsequently deposited with the China National Center for Bioinformation (CNCB), enabling the current investigation of biological aging biomarkers. Six different clocks point to strong biological age reversal measured by proteomics In the current study, researchers evaluated serum proteome profiles from 42 trial participants across 2,841 proteins. The team applied six independently developed proteomic aging clocks, including ProtAge, OrganAge (chronological and mortality variants), PAC, ipfP3GPT, and PAOPAC. Despite relying on diverse methodologies and training criteria, all six clocks consistently exhibited a trend toward reversed biological age among rentosertib-treated patients compared to placebo. The peak effect is observed at Week 4 in participants receiving 30 mg BID with approximately 3-4 years reversal in biological age and up to 6 years in a certain aging clock. Rentosertib decreases predicted biological age across various regimens as measured by most aging clocks, most significantly in the 30 mg BID group and in week 4. Beyond changes in biological age scores, the study showed that rentosertib's anti-aging effects operate partially independent of its respiratory benefits. Notably, the dose associated with the greatest improvement in lung function differed from that producing the strongest age-reversal signal, suggesting that the drug's geroprotective activity was not merely a downstream consequence of disease improvement. This systemic impact was further validated through comparisons with 55,319 UK Biobank profiles, which showed that rentosertib directly reversed the typical age-related protein-expression trajectories. Mechanistically, the drug acted as a senomorphic agent, suppressing key drivers of cellular senescence, including EREG, ESM1, IGFBP4, ITGA2, MMP10, MMP13, and SPP1 while downregulating growth-factor signaling pathways associated with accelerated aging, including RTK-PI3K and RAS-ERK, and modulating antioxidant and cholesterol metabolisms. A framework for the future To support reproducibility and further research, all research data have been deposited at CNCB (accession OMIX008341), and the underlying pipeline code has been published as the open-source Python library on GitHub. Beyond t",
+        "impact": "این موفقیت راه را برای تایید درمان‌های کندکننده پیری و دگرگونی توسعه دارو در پزشکی باز می‌کند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.85,
+        "source": "News-Medical.Net",
+        "url": "https://www.news-medical.net/news/20260907/AI-designed-drug-candidate-reverses-biological-age-in-clinical-study.aspx",
+        "clean_url": "https://www.news-medical.net/news/20260907/AI-designed-drug-candidate-reverses-biological-age-in-clinical-study.aspx",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/134984011-620x480.jpg",
+        "images": [
+            "https://www.news-medical.net/image-handler/picture/2014/7/134984011-620x480.jpg",
+            "https://www.azonetwork.com/newsletters/icons/Cholestrol.png",
+            "https://www.azonetwork.com/newsletters/icons/Medical_Devices.png",
+            "https://www.azonetwork.com/newsletters/icons/AI_in_Healthcare.png"
+        ],
+        "timestamp": 1788793980.0
+    },
+    {
         "id": "872658e5ba",
         "title_fa": "جذب ۵۷۵ میلیون یورو سرمایه برای توسعه استارتاپ‌های اروپایی",
         "title_en": "Claret Capital Partners Raises €575M for European Growth",
@@ -337,6 +476,31 @@
             "https://ventureburn.com/wp-content/uploads/2026/09/Dominion-Dynamics-Raises-139M-CAD-90.jpeg"
         ],
         "timestamp": 1788784620.0
+    },
+    {
+        "id": "3d1abc7bc1",
+        "title_fa": "ممنوعیت هوش مصنوعی در مدارس؛ راهکار یا فرار از مسئله؟",
+        "title_en": "Ban on Students' AI Use and the Bigger Problem Facing Us All",
+        "summary": [
+            "ممنوع‌کردن ابزارهای AI در دانشکده‌ها و مدارس چالش اصلی یعنی آموزش تفکر انتقادی و خلاقانه به دانش‌آموزان را حل نمی‌کند.",
+            "سیستم‌های آموزشی باید به‌جای حذف هوش مصنوعی، بازتعریف کنند چه بخش‌هایی از تفکر باید در ذهن فرد بماند و چه بخش‌هایی به ابزارها واگذار شود."
+        ],
+        "full_text": "Ban on Students' AI Use and the Bigger Problem Facing Us All Research shows disruptive innovations are declining. How can schools reverse it? Posted September 7, 2026 Reviewed by Jessica Schrader Key points - To ban or not to ban: AI technology allows us to re-delegate what students will do mentally vs. externally. - To develop students' critical, creative, strategic, and ethical thinking, consider which tasks can use AI. - As knowledge expands beyond human limits, future innovators need to know how to use AI well. New York City just hit pause on students' use of AI. Will other districts follow suit? And should they? The answer may impact all of us far into the future, as I explain below. Perhaps we can all agree on the main question: What do we want to see in the next generation? Individually, productive citizens with fulfilling lives. Collectively, a better world than what we left them. But that is a tall order, as the world they inherit has huge, seemingly intractable problems like climate change. We expect them to tackle these problems with technology. What Is Technology? \"Technology\" is now synonymous with \"computing.\" At one point, the wheel, pen, and paper were new technologies. Technology is simply an invention that expands our capacity to do things. Writing as a technology overcame human limits on memory. Plato voiced reservations about moving from orality to literacy. The ability to recite at length was lost, rendered superfluous when everything was captured permanently on paper for perusal into posterity. The oral practice of preserving collective knowledge through dialogue morphed into manuscripts and libraries. In doing so, the collective minds of a Socratic circle multiplied a million-fold. Internal Mental Resources vs. External Capacity In placing the current debate on AI in context, consider what internal mental resources we want to preserve and nurture in our young. And what external tools and technology we want them to be equipped to use. We want them to be able to think in ways that can stand up to the challenges that they will inevitably encounter. The key word is \"think.\" Critical, creative, strategic, and ethical thinking are all essential in ensuring that the next generation can weather the storms to come—and thrive. If we break each type of thinking into its task components, the question becomes clearer: Which part do we want our children to develop internally and which can we safely relegate to external supports? For each type of thinking, a table below illustrates examples of tasks that may be relegated to AI or the student. Critical Thinking - Skeptical examination of carefully selected valid information to arrive at sound judgment. We could try to suppress students’ use of AI to do these tasks. Or we could allow them to do so but demand more. For example, ask them to justify why they picked certain options and discarded others. Creative Thinking - Identifying problems, seeing new patterns, connecting disparate domains, and exploring solutions in situations with no right answers. In a fluid, fast-changing environment, thinking outside the box is critical, as the world needs more inventors and problem-solvers. Strategic Thinking - Understanding the situation, identifying goals, crafting a feasible solution to achieve these goals, and anticipating opportunities and threats. For workers, entrepreneurs, and corporations, strategic thinking is a survival skill. Ethical Thinking - Considerations of harm to others, society, and self. Moral development should be embedded in our children's education, not just a course module. The question in education is not just about AI use. The problem in education is in not getting students to practice all four thinking skills widely. Where Were We Pre-AI? Consider what the public school system was like before 2023, the watershed year for public use of AI. Poor literacy and math achievement was already endemic: barely one-third of students were proficient in national assessments (NAEP, 2023). Claims of causation demand valid evidence from causal studies. There are many possible culprits to rule out first: the pandemic, fewer families eating dinner together, less bedtime reading, the rise in children's screen time, and the rise in parents' screen time. What Is AI? Generative AI is not all there is to AI. AI is a collection of technologies that simulate human intelligence by performing tasks traditionally done by humans. Some forms of AI surpass human expertise in certain tasks due to the advantages of computing. By the same token, humans excel in other tasks over AI. So the trick is in getting the best of human ability and AI. Challenge 1: 70% Not Proficient The majority of students in the U.S. are not proficient in literacy and math. In this case, human capacity is simply insufficient to resolve the problem. Reading difficulty is primarily due to inefficiencies in processing language in the brain. This problem may require AI to overcome human limitations of capacity and speed (May & Van Horne, 2025). Challenge 2: 30% Not Creative Of the students who are proficient in reading and math, much is asked of them, given the societal problems they inherit. Humankind faces challenges that require big breakthroughs. We need disruptive innovators, yet they are less likely in the future (Park et al., 2023). What Is Disruptive Innovation and Why Is It Declining? As an inventor with software patents in AI, let me present it this way: An innovation has novelty. A patented invention is also non-obvious to even practitioners in that field. A disruptive innovation is novel, non-obvious, and revolutionary. Such breaks from the past combine disparate domains together in unexpected ways. This is creative thinking. The exponential expansion of knowledge forces scientists to work in narrow slices, making potent connections across fields less likely. Schools need to train scientists-to-be to use technology to surmount this limit. More than just rethinking ",
+        "impact": "تصمیم‌گیری درباره نحوه تعامل با AI در مدارس، کیفیت تفکر و مهارت نسل آینده نوآوران را تعیین خواهد کرد.",
+        "tag": "آموزش",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Psychology Today",
+        "url": "https://www.psychologytoday.com/us/blog/unlocking-language/202609/ban-on-students-ai-use-and-the-bigger-problem-facing-us-all",
+        "clean_url": "https://www.psychologytoday.com/us/blog/unlocking-language/202609/ban-on-students-ai-use-and-the-bigger-problem-facing-us-all",
+        "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/bigstock-leisure-education-children--109764845__1__0.jpg?itok=6nHIW6vv",
+        "images": [
+            "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/bigstock-leisure-education-children--109764845__1__0.jpg?itok=6nHIW6vv",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M"
+        ],
+        "timestamp": 1788784020.0
     },
     {
         "id": "d81a9a3279",
@@ -6796,163 +6960,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1787981072.0
-    },
-    {
-        "id": "19d8f96103",
-        "title_fa": "برگزاری دوره ممیزی سیستم‌های دیجیتال توسط دانشگاه IIT Madras",
-        "title_en": "CAG, IIT Madras launch four-month online certification course in digital systems audit",
-        "summary": [
-            "نهاد حسابرسی هند با همکاری این دانشگاه معتبر یک دوره تخصصی ۴ ماهه برای ممیزی زیرساخت‌های دیجیتال برگزار می‌کند.",
-            "این دوره روی ارزیابی امنیت، شفافیت و کارایی سیستم‌های نرم‌افزاری کلان تمرکز دارد."
-        ],
-        "full_text": "CAG, IIT Madras launch four-month online certification course in digital systems audit  The Indian Express",
-        "impact": "توسعه نیروی انسانی متخصص برای نظارت بر امنیت سیستم‌های دیجیتال دولتی و خصوصی.",
-        "tag": "استارتاپ",
-        "urgency": 3,
-        "sentiment": 0.4,
-        "source": "The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWFnN3M1Y0gyWUtETzByQ0JoX21QTlJEWWZUSDg1Z1VBbUxTYlpaM1c3c0xaRThtWHZUNUZyQ3ZqVjh0a3FtaG80OW9hTUV6R3g2SWZ4SlNCVzNEOXNhcmJmYzkzZG9HbnFqVDVONUdueVRDblZRMUhGbzI0bWROSGpfamhkOHQxalk0akI4NjZ6M0YwSDFsam1tM0duZTJrQndBZjFza2tRWEVBTXdVT0FuQS1ZNHp4WGY5SGRqM0F6WEwxUlhWSnFRcWRocDctWlRyUUZqQXN4XzlkZlVMLW83anI1a0lTTjBOSllJaEMtbmU2ekRPNTdvZWRMVXhfUVBZ0gGKAkFVX3lxTFA5Sm5wUzdvMWpXQkRhdk50N0kzVXRsejlBSldDRy1ySi1pZE1RbE9aT0syV3lFbWM4aDhZR2dhRi1jemh2Y0EzVmI1OFRONUVLXzZEOEJ1QW5fWXdudnQ3YmxVSjZrRk5MVlA5Nm9jWUsxUVVjZHJEbkRMX1p1eE9NWldhNzNRR0NVdWVLck9pZ01GWXJJTzRFTnVxT0l1UXlFYUlkZFFCWXdoUWUwUFNWb0RiQk4wd21naXJsY3hzUjNWM1FpSHk2MGdjMTFlTnA4Z1Myd3pYR0xTYV9LeHpqcnpsd2t4aVI0RVlkNDhFWkE2Vm5zSDdZUEdLdVNVNFJOcHFkRzVQU1Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWFnN3M1Y0gyWUtETzByQ0JoX21QTlJEWWZUSDg1Z1VBbUxTYlpaM1c3c0xaRThtWHZUNUZyQ3ZqVjh0a3FtaG80OW9hTUV6R3g2SWZ4SlNCVzNEOXNhcmJmYzkzZG9HbnFqVDVONUdueVRDblZRMUhGbzI0bWROSGpfamhkOHQxalk0akI4NjZ6M0YwSDFsam1tM0duZTJrQndBZjFza2tRWEVBTXdVT0FuQS1ZNHp4WGY5SGRqM0F6WEwxUlhWSnFRcWRocDctWlRyUUZqQXN4XzlkZlVMLW83anI1a0lTTjBOSllJaEMtbmU2ekRPNTdvZWRMVXhfUVBZ0gGKAkFVX3lxTFA5Sm5wUzdvMWpXQkRhdk50N0kzVXRsejlBSldDRy1ySi1pZE1RbE9aT0syV3lFbWM4aDhZR2dhRi1jemh2Y0EzVmI1OFRONUVLXzZEOEJ1QW5fWXdudnQ3YmxVSjZrRk5MVlA5Nm9jWUsxUVVjZHJEbkRMX1p1eE9NWldhNzNRR0NVdWVLck9pZ01GWXJJTzRFTnVxT0l1UXlFYUlkZFFCWXdoUWUwUFNWb0RiQk4wd21naXJsY3hzUjNWM1FpSHk2MGdjMTFlTnA4Z1Myd3pYR0xTYV9LeHpqcnpsd2t4aVI0RVlkNDhFWkE2Vm5zSDdZUEdLdVNVNFJOcHFkRzVQU1Fn",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787981040.0
-    },
-    {
-        "id": "862a02d8cd",
-        "title_fa": "تامین مالی ۲.۴ میلیارد دلاری برای احداث کارخانه هوش مصنوعی IREN",
-        "title_en": "Press Release: BLUE OWL MANAGED FUNDS LEAD $2.4 BILLION AI FACTORY FINANCING FOR IREN",
-        "summary": [
-            "صندوق‌های تحت مدیریت Blue Owl رهبری یک پروژه تامین مالی عظیم ۲.۴ میلیارد دلاری برای شرکت IREN را بر عهده گرفتند.",
-            "این بودجه کلان صرف ساخت مراکز داده فوق‌سنگین و کارخانه‌های پردازش هوش مصنوعی خواهد شد."
-        ],
-        "full_text": "Press Release: BLUE OWL MANAGED FUNDS LEAD $2.4 BILLION AI FACTORY FINANCING FOR IREN  Moomoo",
-        "impact": "جهش چشمگیر در ظرفیت سخت‌افزاری و داتاسنترهای لازم برای آموزش مدل‌های غول‌پیکر نسل بعدی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RVcExldmVqcTdybVhEcjVTbVBpZS1WTVV6bE84aWlFeFB4NFI1cVpxWTJERXpPT1NKNVZVc1FXUURpZkNKRU9IeE9jSDluMDhrRjRtOTlQdjJqWGs2ajY3emJHM2tQQUZlajVudi1tX1NBc1NNd0FfcGlaWnFmSFh5bXB6WUJ0VVgxR1o2UWtLMlVaMERXLW4tdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2RVcExldmVqcTdybVhEcjVTbVBpZS1WTVV6bE84aWlFeFB4NFI1cVpxWTJERXpPT1NKNVZVc1FXUURpZkNKRU9IeE9jSDluMDhrRjRtOTlQdjJqWGs2ajY3emJHM2tQQUZlajVudi1tX1NBc1NNd0FfcGlaWnFmSFh5bXB6WUJ0VVgxR1o2UWtLMlVaMERXLW4tdw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787941800.0
-    },
-    {
-        "id": "3e684df603",
-        "title_fa": "هم‌بنیان‌گذاران Pro.com استارتاپ مدیریت ثروت با هوش مصنوعی می‌سازند",
-        "title_en": "Pro.com co-founders reunite to launch AI wealth management startup",
-        "summary": [
-            "بنیان‌گذاران سابق Pro.com دوباره متحد شده‌اند تا استارتاپی تازه در حوزه مدیریت دارایی مبتنی بر هوش مصنوعی تاسیس کنند.",
-            "این مجموعه قصد دارد فرآیندهای سنتی سرمایه‌گذاری را هوشمند کرده و تحلیل‌های مالی دقیق‌تری ارائه دهد."
-        ],
-        "full_text": "Pro.com co-founders reunite to launch AI wealth management startup  LinkedIn",
-        "impact": "تسریع ورود هوش مصنوعی به حوزه مشاوره‌های مالی شخصی و مدیریت سرمایه.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "LinkedIn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemVzVWdtNnE0eW5sTFJUOF9tajVrS3lvaEM1Q0NmczdyQ1BkRFhORlZDVXBOSkdsZ1dobUhEZ2xCWVB3ZXVpQU1xVzVaSmw5YzFNMnhjQnhnUVNyUGJ0Z0xrdnpwZUk2bzNsWFExVElERzRhRE1ERWU4ZmNKX2V3VUhIVUZ5cllvLXpEWm9nSV9pcTlQUFpUazlTbk10RHZh?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemVzVWdtNnE0eW5sTFJUOF9tajVrS3lvaEM1Q0NmczdyQ1BkRFhORlZDVXBOSkdsZ1dobUhEZ2xCWVB3ZXVpQU1xVzVaSmw5YzFNMnhjQnhnUVNyUGJ0Z0xrdnpwZUk2bzNsWFExVElERzRhRE1ERWU4ZmNKX2V3VUhIVUZ5cllvLXpEWm9nSV9pcTlQUFpUazlTbk10RHZh",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787941714.0
-    },
-    {
-        "id": "0a246ef1a5",
-        "title_fa": "عرضه پلتفرم هوش مصنوعی اختصاصی WSO2 برای سازمان‌های تحت مقررات سخت‌گیرانه",
-        "title_en": "WSO2 Launches Self-Managed AI Platform for Regulated Firms",
-        "summary": [
-            "شرکت WSO2 پلتفرم جدیدی رونمایی کرده که به سازمان‌ها اجازه می‌دهد هوش مصنوعی را کاملاً روی سرورهای خودشان اجرا کنند.",
-            "این ابزار مشخصاً برای بانک‌ها، مراکز درمانی و نهادهایی ساخته شده که طبق قانون نمی‌توانند داده‌ها را به ابرهای عمومی منتقل کنند."
-        ],
-        "full_text": "WSO2 Launches Self-Managed AI Platform for Regulated Firms  Mexico Business News",
-        "impact": "برطرف کردن یکی از بزرگ‌ترین موانع به‌کارگیری هوش مصنوعی در صنایع حساس مالی و پزشکی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "Mexico Business News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJQdHhZS0tIRUw1bVFRQ0Z0SzFxWkhtZlV5X1k5RUR1cDM0RzZmQ2xYUGNva0k3R2NFMWJhaFNqal9BRDI5azVuZ3RiejBnZURfMW5seUxOdDJOc2JyeFNFN093c0N2OXE2NzNaLThLNExmSUthaF9FaC0wOE16LWljckdpa1FCSTQ4ZkoyWWt3bmdCd1JjUnVxTWtFcFNnZ0hF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTJQdHhZS0tIRUw1bVFRQ0Z0SzFxWkhtZlV5X1k5RUR1cDM0RzZmQ2xYUGNva0k3R2NFMWJhaFNqal9BRDI5azVuZ3RiejBnZURfMW5seUxOdDJOc2JyeFNFN093c0N2OXE2NzNaLThLNExmSUthaF9FaC0wOE16LWljckdpa1FCSTQ4ZkoyWWt3bmdCd1JjUnVxTWtFcFNnZ0hF",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787940805.0
-    },
-    {
-        "id": "2f511507d5",
-        "title_fa": "جذب اعتبار ۱۰۰ میلیون دلاری USD.AI برای توسعه زیرساخت‌های پردازشی",
-        "title_en": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
-        "summary": [
-            "استارتاپ USD.AI موفق به دریافت یک خط اعتباری ۱۰۰ میلیون دلاری از موسسه Bullish شد.",
-            "این سرمایه سنگین مستقیماً صرف خرید سخت‌افزارهای پردازشی و گسترش مراکز داده برای توسعه مدل‌های هوش مصنوعی می‌شود."
-        ],
-        "full_text": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout  PYMNTS.com",
-        "impact": "افزایش توان پردازشی زیرساخت‌های AI و داغ‌تر شدن رقابت بر سر تامین سخت‌افزار.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDJ0N3ZsdGVnNE9fMWFQbTNzVVdFbUFuSFg5ZlJJWXczVzY2QlFhUmFRWkdUX2dXMjYzeHc2enJady1qSlJkSlJXVFdqbW1iU1A5WGVBa0MxdjRpRy10T1Zwc1NITmxlQVVsdzFMbHFRTWNUZHVheVJYRHM3NjYyT1gxaEwzSUNRaVJITVR2ZnR4V0NZQS0yVVRTV0VvOGxqaG1xWnRPdjJNUFJoMWJYTnRVQUQta3VaRUctU3RXR2FITmRHTEllYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDJ0N3ZsdGVnNE9fMWFQbTNzVVdFbUFuSFg5ZlJJWXczVzY2QlFhUmFRWkdUX2dXMjYzeHc2enJady1qSlJkSlJXVFdqbW1iU1A5WGVBa0MxdjRpRy10T1Zwc1NITmxlQVVsdzFMbHFRTWNUZHVheVJYRHM3NjYyT1gxaEwzSUNRaVJITVR2ZnR4V0NZQS0yVVRTV0VvOGxqaG1xWnRPdjJNUFJoMWJYTnRVQUQta3VaRUctU3RXR2FITmRHTEllYQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787938994.0
-    },
-    {
-        "id": "92ddd0fdf9",
-        "title_fa": "ورود پرهزینه اسپیس‌ایکس به بازار هوش مصنوعی با ابزارهای مالی بدهی",
-        "title_en": "SpaceX: Buy This Debt-Fueled Launch Into AI (NASDAQ:SPCX)",
-        "summary": [
-            "گزارش‌های تازه نشان می‌دهد اسپیس‌ایکس از طریق تامین مالی مبتنی بر بدهی در حال ورود جدی به زیرساخت‌های هوش مصنوعی است.",
-            "ترکیب توان پردازش ابری با شبکه اینترنت ماهواره‌ای استارلینک، زیربنای جدیدی برای سرویس‌های هوشمند ایجاد خواهد کرد."
-        ],
-        "full_text": "SpaceX: Buy This Debt-Fueled Launch Into AI (NASDAQ:SPCX)  Seeking Alpha",
-        "impact": "پیوند خوردن ارتباطات ماهواره‌ای با هوش مصنوعی که می‌تواند پردازش لبه‌ای را در نقاط دورافتاده زمین ممکن کند.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUl9Od2FjbTFtV1ItSDNIcWlkRzdrV2ZtajZQMlE2cWdFVmFNdm16VllfTUcwUUhncFRSQmh0b3g2dy1fdHp3WE5XSzB3WUtBallwZ3FKTTI1TWJ6SThuQWExMXlaV2F3ejJ1UWo1N2xNekhBTXFnQ2tzc0llLUQzbHFIcE44U2k4c0tv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUl9Od2FjbTFtV1ItSDNIcWlkRzdrV2ZtajZQMlE2cWdFVmFNdm16VllfTUcwUUhncFRSQmh0b3g2dy1fdHp3WE5XSzB3WUtBallwZ3FKTTI1TWJ6SThuQWExMXlaV2F3ejJ1UWo1N2xNekhBTXFnQ2tzc0llLUQzbHFIcE44U2k4c0tv",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1787933509.0
-    },
-    {
-        "id": "7f31a50ace",
-        "title_fa": "گوگل نتایج سنتی جستجو را زیر پاسخ‌های هوش مصنوعی دفن می‌کند",
-        "title_en": "Google further buries search results under AI mode",
-        "summary": [
-            "گوگل در آزمایشی جدید، بخش خلاصه هوش مصنوعی (AI Overview) بالای صفحه را به صورت خودکار برای برخی جستجوها کاملاً باز می‌کند.",
-            "این تغییر باعث شده لینک سایت‌ها بسیار پایین‌تر بروند و کاربر برای رسیدن به نتایج معمولی مجبور به اسکرول طولانی شود.",
-            "گوگل مدعی است این کار تجربه جستجو را مفیدتر می‌کند، اما در صورت شروع اسکرول کاربر، باز شدن خودکار را لغو خواهد کرد."
-        ],
-        "full_text": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google’s results page; instead of seeing part of an AI Overview with a “Show more” button you can click, you’ll Google will show a full AI Overview at the top of your search, an “Ask anything” box under that, and then the list of links. It can lead to a lot of scrolling. Google further buries search results under AI mode Google now automatically expands its AI search summaries for some queries. Google now automatically expands its AI search summaries for some queries. It’s unclear exactly what Google’s criteria is for the auto-expanding AI Overviews. Before writing this story, I was seeing them with most of my test searches. But now, AI Overviews usually just show the initial part of the response and the “Show more” button. My most consistent query to get the auto-expanding AI Overview is “what is the best game on switch 2”, but even that hasn’t been consistent across searches and browsers. “For some queries, AI Overviews may dynamically expand for topics where our systems determine it’s most useful for people,” Google spokesperson Jennifer Kutz says in a statement to The Verge. “Our research has shown that with this dynamic experience, users find Search more helpful and engage deeper in follow-up exploration.” Kutz also says that “If users have already begun scrolling to view content below the AI Overview, we cancel expansion so that the user doesn’t lose their reading position.”",
-        "impact": "کاهش شدید ورودی ارگانیک وب‌سایت‌ها و تغییر ساختار رفتار کاربران در جستجوی وب.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-        "clean_url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-        "image": "http://www.bing.com/th?id=ONUT.R8OXzqLKNvproMrgZBoSKA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.R8OXzqLKNvproMrgZBoSKA&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1787932020.0
     }
 ]
