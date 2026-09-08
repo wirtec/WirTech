@@ -1,5 +1,119 @@
 [
     {
+        "id": "d8595ac74c",
+        "title_fa": "انتشار کتاب بررسی نقش هوش مصنوعی در دیپلماسی و روابط بین‌الملل",
+        "title_en": "Book Launch—Foreign Policy at the AI Frontier: How AI is Reshaping Progress, Power, and Peace",
+        "summary": [
+            "مرکز همکاری‌های بین‌المللی کتابی جدید درباره تغییر ساختار قدرت، صلح و دیپلماسی در عصر هوش مصنوعی منتشر کرد.",
+            "این اثر به تحلیل تأثیرات ابزارهای هوشمند بر سیاست خارجی و تصمیم‌گیری‌های ژئوپلیتیک می‌پردازد."
+        ],
+        "full_text": "Book Launch—Foreign Policy at the AI Frontier: How AI is Reshaping Progress, Power, and Peace  Center on International Cooperation",
+        "impact": "افزایش تمرکز اندیشکده‌ها بر مقررات‌گذاری و پیامدهای سیاسی هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Center on International Cooperation",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlNXNFdrTDNTTmw5aU1acGpDWUtxMHZVaGxIZTEtOGJsZGYwemNicHFrendHVG9YRnRuczRlVmFoSFFpTlgtdnUtVkJTOW5qVGREVDNXOWlXLWVBcjgwdHd4TGJJYVBPU0lwNmFCemVIdS1xZlNsR2Z2WDUyUnlpb2F5aFpUdkw2X1BoYzB1N2NYV0lXenNBaXhoczhnV1N1MWQtNUVWcHRTOXJyN2pPQTZkTldjcnNjRHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlNXNFdrTDNTTmw5aU1acGpDWUtxMHZVaGxIZTEtOGJsZGYwemNicHFrendHVG9YRnRuczRlVmFoSFFpTlgtdnUtVkJTOW5qVGREVDNXOWlXLWVBcjgwdHd4TGJJYVBPU0lwNmFCemVIdS1xZlNsR2Z2WDUyUnlpb2F5aFpUdkw2X1BoYzB1N2NYV0lXenNBaXhoczhnV1N1MWQtNUVWcHRTOXJyN2pPQTZkTldjcnNjRHc",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788900196.0
+    },
+    {
+        "id": "f4010586ae",
+        "title_fa": "دستاورد جدید OpenAI در حل مساله‌ای ریاضی با قدمت یک قرن",
+        "title_en": "OpenAI says AI solved one of math's hardest problems in days",
+        "summary": [
+            "مدل جدید و منتشرنشده OpenAI موفق شد طی چند روز و با به‌کارگیری ۱۰ هزار ایجنت همزمان، مسئله سخت ناوویه-استوکس را حل کند.",
+            "این مسئله که جزو مسائل هزاره ریاضیات است، فرمول‌بندی پیش‌بینی هوا، طراحی هواپیما و جریان خون را دگرگون می‌کند.",
+            "این موفقیت دامنه‌دار، بحث‌های جدیدی را درباره قدرت واقعی هوش مصنوعی در حل مسائل پیچیده علمی به راه انداخته است."
+        ],
+        "full_text": "OpenAI said Tuesday that one of its unreleased artificial intelligence models had solved a mathematical puzzle that has eluded mathematicians for generations, in a claim which also drew a fight with rival researchers over credit. Researchers at OpenAI said it took just days -- and millions of dollars in computing power -- to crack what is known as the Navier-Stokes problem. Navier-Stokes is one of the seven Millennium Prize Problems, a list of the hardest open questions in mathematics drawn up by the Clay Mathematics Institute. It concerns the equations describing how fluids such as air and water move, which are used in aircraft design, weather forecasting and the study of blood flow. OpenAI said its work showed that these equations can break down over time, answering the question as set out by the Millennium Prize. \"This is a significant milestone for AI research, and its promise for the world is that even more of our hardest questions would become possible to answer,\" Mark Chen, OpenAI's chief research officer, told reporters. Each Millennium Prize Problem carries a $1 million reward, and only one has been solved since the list was published in 2000. OpenAI says it will not claim money if its finding is confirmed. According to the prize rules, a solution has to be published in a peer-reviewed journal and survive two years after gaining acceptance in the mathematical community before the institute will even convene a committee to consider the work. \"The process of evaluation is deliberately unhurried, and we shall ensure that it is absolutely rigorous,\" Professor Martin Bridson, President of the Clay Mathematics Institute, told AFP. ChatGPT-style AI is revolutionizing the world of high-level math by quickly solving famous, long-unsolved problems that stumped experts for decades. But it has also sparked debate over whether machine-generated answers truly count as real human understanding. - 'Millions of dollars' - In a blog post describing the breakthrough, OpenAI said it began training a new model in late August, more capable than anything it had released publicly. Days later, seeing online rumors that a competitor had solved Millennium problems, OpenAI turned the system loose on all six that remain open. Work on Navier-Stokes showed unexpected promise, and the company poured its computing power into it. By the final stage, OpenAI researcher Sebastien Bubeck said, 10,000 AI agents -- programs that operate on their own -- were working on the problem at once, passing messages back and forth. Chen said the computing costs ran \"emphatically in the millions of dollars,\" with Bubeck adding this was roughly 1,000 times what the company spent on earlier mathematical results. According to OpenAI's account, the agents reached a solution Saturday, about 88 hours after launching the project. The claim arrived hours after Tristan Buckmaster, a mathematician at New York University, and Levent Alpoge, who works at OpenAI competitor Anthropic, released their own AI-assisted work on three related equations. In a statement published alongside his papers, Buckmaster said OpenAI had taken up the problem only after word of his research spread, and pursued the same unusual approach he and Alpoge had spent months developing. OpenAI's researchers denied having had any access to the rival team's work and said they proposed sharing credit before realizing that Buckmaster and Alpoge had fallen short of solving the problem. \"To be clear, we did not use their prompts or proofs to prompt our models or direct our agents,\" Bubeck said. However, in a later post on X, OpenAI said \"while unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models.\" arp-tu/md",
+        "impact": "اثبات توانایی مدل‌های ایجنتی در حل معماهای بنیادین علوم پایه و مهندسی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 10,
+        "sentiment": 0.9,
+        "source": "AFP",
+        "url": "https://www.yahoo.com/news/science/articles/openai-says-ai-solved-one-195530938.html",
+        "clean_url": "https://www.yahoo.com/news/science/articles/openai-says-ai-solved-one-195530938.html",
+        "image": "https://media.zenfs.com/en/afp.com/7007e850652abc2f2fcad062d37700bf.jpg",
+        "images": [
+            "https://media.zenfs.com/en/afp.com/7007e850652abc2f2fcad062d37700bf.jpg",
+            "https://s.yimg.com/lo/mysterio/api/69097a2971c17cd928d535cd61c4808509591d91070f7f5091824e52fdb99ce5/lightyear_networkapi/resizefill_w768_h525%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7007e850652abc2f2fcad062d37700bf.jpg",
+            "https://s.yimg.com/lo/mysterio/api/783a91670b4d554c52091eb349bca7569530bea1a0d6e3c90f37772e23f88aee/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-03%2Fe31acf60-80f5-11eb-9fff-18c6b7043df9",
+            "https://s.yimg.com/lo/mysterio/api/a2b00a006c1041488ff2c4faafac8688a88053f6dbbdd2c8c0e277205ba96b6c/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-03%2Fffefcaa0-80f5-11eb-9d8c-0307e347a7c0"
+        ],
+        "timestamp": 1788897516.0
+    },
+    {
+        "id": "971a45dd70",
+        "title_fa": "لغو معامله ۶ میلیارد دلاری انتروپیک برای خرید استارتاپ Decart",
+        "title_en": "Anthropic Abandons Decart Acquisition, Leaving Claude Compute Cost Gap Unsolved",
+        "summary": [
+            "انتروپیک پس از بررسی‌های فنی دقیق، از خرید ۶ میلیارد دلاری استارتاپ سخت‌افزاری Decart منصرف شد.",
+            "این تصمیم درست چند هفته پیش از عرضه اولیه سهام (IPO) انتروپیک در بورس نزدک گرفته شد و چالش هزینه‌های پردازشی مدل کلود را به قوت خود باقی گذاشت."
+        ],
+        "full_text": "Anthropic Decart acquisition collapse: Anthropic walked away from a roughly $6 billion deal to buy Israeli AI startup Decart after due diligence, leaving its Claude compute cost gap unresolved weeks before its planned Nasdaq IPO.",
+        "impact": "تشدید فشارهای مالی بر انتروپیک برای کاهش هزینه‌های زیرساختی قبل از ورود به بازار سرمایه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/technology/hardware-and-devices/anthropic-abandons-decart-acquisition-leaving-claude-compute-cost-gap-unsolved/ar-AA2bOS2d",
+        "clean_url": "https://www.msn.com/en-us/technology/hardware-and-devices/anthropic-abandons-decart-acquisition-leaving-claude-compute-cost-gap-unsolved/ar-AA2bOS2d",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bPtmn.img?w=1200&h=800&m=4&q=94",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bPtmn.img?w=1200&h=800&m=4&q=94"
+        ],
+        "timestamp": 1788897126.0
+    },
+    {
+        "id": "3c752bf5d1",
+        "title_fa": "برنامه‌های پیش‌روی اپل برای iOS 27 و هوشمندتر شدن دستیار Siri",
+        "title_en": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far",
+        "summary": [
+            "اخبار منتشرشده نشان می‌دهند اپل در حال برنامه‌ریزی برای ارتقای عمیق دستیار صوتی Siri با مدل‌های بومی است.",
+            "تمرکز اصلی در نسخه‌های آتی سیستم‌عامل iOS بر یکپارچه‌سازی هوش مصنوعی با قابلیت‌های روزمره خواهد بود."
+        ],
+        "full_text": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far  Mashable",
+        "impact": "تلاش اپل برای جبران عقب‌ماندگی در بازار گوشی‌های هوشمند مبتنی بر هوش مصنوعی.",
+        "tag": "گجت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HekZ4aHFMZDByUm9HNG9WbW9ZbHZZZG55NUllTGt4LUtGWXhLbXdvc05EWk1nU0FHQW1RanQ5d3l6akdQZnVRTWpPRV9PWmhSZ3dyUEw3dUlWaFVQSDNPS0VYVG9pTnVhYzVIbi05LXBqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HekZ4aHFMZDByUm9HNG9WbW9ZbHZZZG55NUllTGt4LUtGWXhLbXdvc05EWk1nU0FHQW1RanQ5d3l6akdQZnVRTWpPRV9PWmhSZ3dyUEw3dUlWaFVQSDNPS0VYVG9pTnVhYzVIbi05LXBqdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788893761.0
+    },
+    {
+        "id": "7271cd699b",
+        "title_fa": "انتصاب مدیر جدید علم و فناوری در آزمایشگاه ملی NLR",
+        "title_en": "News Release: Bill Tumas Named NLR Deputy Laboratory Director of Science and Technology",
+        "summary": [
+            "بیل توماس به عنوان معاون جدید بخش علم و فناوری آزمایشگاه ملی NLR منصوب شد.",
+            "مدیریت جدید بر توسعه پژوهش‌های راهبردی و پروژه‌های کلان فناوری تمرکز خواهد داشت."
+        ],
+        "full_text": "News Release: Bill Tumas Named NLR Deputy Laboratory Director of Science and Technology  nlr.gov",
+        "impact": "تغییر در سیاست‌گذاری‌های پژوهشی و ساختار مدیریتی آزمایشگاه NLR.",
+        "tag": "مدیریت",
+        "urgency": 2,
+        "sentiment": 0.3,
+        "source": "nlr.gov",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2FzMTJzcF90RTNlYWlLR2tyZG10Zm9GYm9YazBqeGtpZmhlODNsRHlaT1dSdWxWMDFDUDl0Q2htSHpybEJDTGNzRXpKMXdXOW10NHB2LWFmZ0hQdEVqSHIxUHkweDZRaU91WFZxeUpFemg5enFXOUhrNmVIWk9fSVZFS2tnZXhPMzFNcWRoQVAxTUJFZlU3N1BnZEVEMmM0d2JzUHVuaHVERmpxTkxDcThKd1BOZWZhLVZDVlo4NXBtaVJXWDdQTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2FzMTJzcF90RTNlYWlLR2tyZG10Zm9GYm9YazBqeGtpZmhlODNsRHlaT1dSdWxWMDFDUDl0Q2htSHpybEJDTGNzRXpKMXdXOW10NHB2LWFmZ0hQdEVqSHIxUHkweDZRaU91WFZxeUpFemg5enFXOUhrNmVIWk9fSVZFS2tnZXhPMzFNcWRoQVAxTUJFZlU3N1BnZEVEMmM0d2JzUHVuaHVERmpxTkxDcThKd1BOZWZhLVZDVlo4NXBtaVJXWDdQTg",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788890917.0
+    },
+    {
         "id": "e57329c665",
         "title_fa": "چالش هوش مصنوعی در تشخیص نیاز واقعی کسب‌وکارها به بازاریابی",
         "title_en": "AI Can Launch the Campaign. Does It Know If Your Restaurant Needs One?",
@@ -64,6 +178,76 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788881760.0
+    },
+    {
+        "id": "0640645159",
+        "title_fa": "تکرار سرمایه‌گذاری سلبریتی‌های هند در استارتاپ‌های شناخته‌شده",
+        "title_en": "From Dhoni to Sachin, Shilpa Shetty: Celebrities double down on startup bets",
+        "summary": [
+            "گزارش جدید Tracxn نشان می‌دهد چهره‌های سرشناس هندی مایل به سرمایه‌گذاری مجدد روی شرکت‌های سبد قبلی خود هستند.",
+            "حدود ۴۵ درصد از دورهای سرمایه‌گذاری افشاشده شامل حضور مجدد همین افراد در همان استارتاپ‌ها بوده است."
+        ],
+        "full_text": "From Dhoni to Sachin, Shilpa Shetty: Celebrities double down on startup bets ADVERTISEMENT Indian celebrities are increasingly returning to startups they have already backed, rather than limiting their participation to one-off investments, according to a new report by private market intelligence platform Tracxn. The 10 celebrities tracked by Tracxn participated in 49 disclosed funding rounds across 34 India-headquartered startups between January 2021 and 2026 YTD, with the rounds carrying a combined disclosed value of around $458 million. The report, however, clarifies that the figure represents the total value of the funding rounds and not the amount invested by the celebrities themselves. The report ranks celebrities by the number of disclosed funding rounds they participated in and says it is “not a ranking of total capital invested or public profile”. Repeat bets account for nearly half of rounds The biggest trend emerging from the data is the extent to which celebrities have continued backing companies already present in their portfolios. Nine celebrity-company pairs accounted for 22 of the 49 disclosed rounds, meaning nearly 45% of all rounds involved repeat participation by the same celebrity in the same company. Cricketer Sachin Tendulkar stands out with five disclosed rounds in used-car platform Spinny between 2021 and 2025. His participation includes Spinny's $250 million Series E round in November 2021, followed by four further disclosed rounds between September 2022 and September 2025. Actor Shilpa Shetty Kundra, who tops the overall ranking with 10 rounds, participated in three separate funding rounds in food and beverage startup WickedGud and two rounds in online grocery platform KisanKonnect. The report notes that where a celebrity invested in the same company across multiple funding rounds, “each round is listed as a separate entry in the table.” Shilpa Shetty leads celebrity investor ranking Shetty leads the list with 10 disclosed rounds, followed by MS Dhoni and Sachin Tendulkar with six each. Shraddha Kapoor and Virat Kohli have five rounds each, while Alia Bhatt and Anushka Sharma have four each. Ranveer Singh, Rohit Sharma and Suniel Shetty have three disclosed rounds apiece. Dhoni's investments cover a wider range of sectors, including solar energy, drones, electric vehicles, fitness, food technology and OTT video. His latest disclosed investment in the period was a $53 million Series C round in SolarSquare in June 2026. Anushka Sharma also remained active in 2026, participating in a $24 million Series C round in footwear company Agilitas in May. Celebrity capital tends to enter early The report also shows a preference for early-stage startup funding. Of the 49 disclosed rounds, 27 or 55% were Angel or Seed rounds, while another 13 were Series A. The 34 startups span sectors including food and beverage, beauty and personal care, fashion, mobility, education, logistics, drones and solar energy. Maharashtra accounted for 15 of the startups, including 12 in Mumbai, followed by Haryana with six, Karnataka with five and Delhi with three. Several celebrity-backed companies have also progressed to major liquidity or ownership events. Five of the 34 companies have reached an acquisition or public-listing event, including Mamaearth, Klassroom, Ed-a-Mamma, Shunya and Purple Style Labs.",
+        "impact": "افزایش پایداری مالی استارتاپ‌های مرحله رشد در هند با تکیه بر اعتبار و سرمایه چهره‌های مطرح.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Fortune India",
+        "url": "https://www.fortuneindia.com/startups-news/indian-celebrities-are-doubling-down-on-startup-bets-with-repeat-investments-rising-tracxn/158125",
+        "clean_url": "https://www.fortuneindia.com/startups-news/indian-celebrities-are-doubling-down-on-startup-bets-with-repeat-investments-rising-tracxn/158125",
+        "image": "https://media.fortuneindia.com/fortune-india/2026-09-08/vsi59xe2/collage-dhoni.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "images": [
+            "https://media.fortuneindia.com/fortune-india/2026-09-08/vsi59xe2/collage-dhoni.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+            "https://media.fortuneindia.com/fortune-india/2026-09-08/vsi59xe2/collage-dhoni.jpg?w=640&auto=format,compress&q=80"
+        ],
+        "timestamp": 1788875100.0
+    },
+    {
+        "id": "285db2b3eb",
+        "title_fa": "مرور کوتاه اخبار فناوری؛ از اختلال پروازها تا رویدادهای منطقه‌ای",
+        "title_en": "Teknoloji Haberleri",
+        "summary": [
+            "بروز نقص فنی در سیستم کنترل ترافیک هوایی فرودگاه هیترو لندن منجر به لغو و تاخیر صدها پرواز شد.",
+            "ثبت‌نام رویداد تکنوفست آغاز شده و بانک سرمایه‌گذاری آسیا ۷۵ میلیون دلار به پروژه‌های فناوری اختصاص داده است."
+        ],
+        "full_text": "Teknoloji Haberleri Son Dakika Teknoloji Haberleri - Eski Almanya Başbakanı Merkel, AfD'nin seçim başarısının ülke tarihinde bir dönüm noktası olduğunu belirtti - THY'den İngiltere seferleri için yolcularına uyarı - THY'den İngiltere uçuşları için iptal ve gecikme uyarısı - Sanayi ve Teknoloji Bakanı Kacır, PISA 2025 sonuçlarını değerlendirdi: - İngiltere’de hava trafik kontrolü sisteminde arıza: Yaklaşık 300 uçuş iptal edildi - TEKNOFEST Güneydoğu için ziyaretçi kayıtları başladı - İngiltere Heathrow Havalimanı’nda trafik kontrol sisteminde arıza; uçuşlar durma noktasına geldi - GITEX Ai Türkiye 2026 yarın başlayacak - New York borsası karışık seyirle açıldı - Avustralya'da sosyal medya kullanıcılarına \"algoritmanın dışında kalma\" seçeneği sunulacak - Almanya’dan kritik altyapılara \"İHA ve sabotaj kalkanı\" - Türkiye Stratejik Teknoloji İnsan Kaynağı Programı'na başvurular başladı - TEKNOFEST Drone Şampiyonası'nda finale kalan takımlar belli oldu - Yunanistan’da \"Aşil Kalkanı\" kaynak kodunun İsrail'in elinde olacağının açıklanması tartışma yarattı - GITEX Ai Türkiye'de yapay zeka altyapı yatırımları gündemin odağında - Asya Altyapı Yatırım Bankasından Türkiye'deki teknoloji yatırımına 75 milyon dolarlık finansman - Savunma sanayisindeki teknoloji ve yetkinlikler sivil sektörlere de seviye atlatacak - ABD'nin enerji güvenliği kritik mineraller etrafında yeniden şekilleniyor - Teknoloji şirketleri yapay zeka ile çalışanların yerini doldurma planlarını yeniden düşünüyor - Yapay zeka ve dijital okuryazarlık becerisi bulunmayanlar, dezenformasyona karşı savunmasız olabilir Teknoloji Haberleri kategorimiz, akıllı cihazlar, yapay zeka, yazılım gelişmeleri, inovasyonlar ve diğer teknoloji alanlarındaki en son haberleri içerir. Dijital dünyanın hızla evrilen trendlerini ve geleceğe dair teknolojik gelişmeleri bu kategoride bulabilirsiniz.",
+        "impact": "نمایش آسیب‌پذیری زیرساخت‌های حمل‌ونقل در برابر اختلالات فنی و نرم‌افزاری.",
+        "tag": "فناوری",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "haberler.com",
+        "url": "https://www.haberler.com/teknoloji/",
+        "clean_url": "https://www.haberler.com/teknoloji",
+        "image": "https://foto.haberler.com/haber/2026/09/08/polonya-cumhurbaskani-nawrocki-aselsan-standi-20220086_amp.jpg",
+        "images": [
+            "https://foto.haberler.com/haber/2026/09/08/polonya-cumhurbaskani-nawrocki-aselsan-standi-20220086_amp.jpg",
+            "https://foto.haberler.com/crop/735x490/haber/2026/09/08/appledan-yillar-sonra-bir-ilk-fiyati-dudak-20219412_4071_amp.jpg",
+            "https://foto.haberler.com/crop/735x490/haber/2026/09/08/iran-cumhurbaskani-birinci-yardimcisi-ulkedeki-20217209_5812_amp.jpg",
+            "https://foto.haberler.com/crop/735x490/haber/2026/09/04/bitcoin-yeniden-80-bin-dolari-asti-kuresel_f09d4d68eb_amp.jpg"
+        ],
+        "timestamp": 1788867840.0
+    },
+    {
+        "id": "f851deca48",
+        "title_fa": "جذب سرمایه ۱۵۰ میلیون دلاری استارتاپ سلامت هوش مصنوعی Forus",
+        "title_en": "AI Health Company Forus Raises $150 Million at a $3 Billion Value",
+        "summary": [
+            "استارتاپ هوش مصنوعی Forus با ثبت ارزش ۳ میلیارد دلاری موفق به جذب ۱۵۰ میلیون دلار سرمایه جدید شد.",
+            "این جذب سرمایه نشان‌دهنده رشد چشمگیر علاقه سرمایه‌گذاران به کاربرد هوش مصنوعی در حوزه بهداشت و درمان است."
+        ],
+        "full_text": "To continue, please click the box below to let us know you're not a robot. Please make sure your browser supports JavaScript and cookies and that you are not\n                    blocking them from loading.\n                    For more information you can review ourTerms of ServiceandCookie Policy. For inquiries related to this message pleasecontact\n                        our support teamand provide the reference ID below. Get the most important global markets news at your fingertips with aBloomberg.comsubscription.",
+        "impact": "تسریع توسعه ابزارهای هوشمند تشخیص پزشکی و رقابت سنگین در بازار سلامت دیجیتال.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-health-company-forus-raises-150-million-at-a-3-billion-value",
+        "clean_url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-health-company-forus-raises-150-million-at-a-3-billion-value",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_m1HOPAtyaQ/v1/1200x800.jpg",
+        "images": [
+            "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_m1HOPAtyaQ/v1/1200x800.jpg"
+        ],
+        "timestamp": 1788867720.0
     },
     {
         "id": "e524c6bf4f",
@@ -235,6 +419,32 @@
         "timestamp": 1788854580.0
     },
     {
+        "id": "d6b2d07c3f",
+        "title_fa": "معماری جدید Arm برای اجرای هوش مصنوعی روی موبایل",
+        "title_en": "پلتفرم پردازشی جدید آرم برای اجرای ایجنت‌های هوش مصنوعی روی موبایل معرفی شد",
+        "summary": [
+            "شرکت Arm پلتفرم جدید CSS for Mobile 2 را با تمرکز بر اجرای آفلاین ایجنت‌های هوش مصنوعی و پردازش گرافیکی سنگین معرفی کرد.",
+            "استفاده از هسته‌ پردازشی C2-Ultra و دو واحد SME2 سرعت اجرای مدل‌های زبانی کوچک را تا ۷۰ درصد افزایش می‌دهد.",
+            "پردازنده گرافیکی Mali G2-Ultra NX امکان اجرای بازی‌های گرافیکی پیشرفته را با مصرف انرژی بسیار پایین ۱ وات فراهم می‌سازد."
+        ],
+        "full_text": "آرم (Arm) پلتفرم جدیدی برای موبایل معرفی کرد که با تمرکز بر اجرای ایجنتهای هوش مصنوعی روی دستگاه و ارائه گرافیک با کیفیت در سطح سیستمهای دسکتاپ طراحی شده است. این شرکت میگوید معماری جدید میتواند اجرای بازیهای گرافیکی سنگین را در محدوده مصرف انرژی یک وات ممکن کند. این پلتفرم با نام Compute Subsystem (CSS) for Mobile 2 در رویداد Arm Everywhere China در شانگهای معرفی شد و جایگزین پلتفرم Lumex CSS سال گذشته میشود. آرم این محصول را بخشی از راهبرد خود برای توسعه در حوزه هوش مصنوعی میداند. پلتفرم جدید آرم برای اجرای ایجنتهای هوش مصنوعی به گفته آرم، بخش قابلتوجهی از کارهای هوش مصنوعی همچنان در فضای ابری اجرا میشوند؛ وابستگی هر تعامل به رفتوبرگشت دادهها میان دستگاه و مرکز داده میتواند بر تأخیر، اتصال شبکه و هزینه ارائه سرویسها در مقیاس بزرگ تأثیر بگذارد. همین موضوع باعث حرکت پردازشها به سمت توزیع بیشتر و اجرای آنها در لبه شبکه میشود. آرم میگوید هوش مصنوعی حالا به ابزارهایی تبدیل شده است که کاربران مستقیماً با آنها تعامل دارند؛ ایجنتهای هوش مصنوعی اکنون میتوانند هدف کاربر را تفسیر، اپلیکیشنها و مدلها را هماهنگ و مجموعهای از اقدامات را اجرا کنند. چنین فرایندی شامل استنتاجهای مکرر، منطق برنامه، هماهنگسازی سیستم و اجرای همزمان چند کار است. به همین دلیل، تنها افزایش عملکرد CPU کافی نیست و به چند هسته پردازشی قدرتمند نیاز است تا بارهای کاری مختلف همزمان اجرا شوند. پلتفرم CSS for Mobile 2 از خوشه پردازشی جدید C2 استفاده میکند که در بالاترین سطح آن هسته C2-Ultra قرار دارد. آرم ادعا میکند این هسته در عملکرد تکرشتهای تا ۱۵ درصد سریعتر از هسته C1-Ultra در پلتفرم سال گذشته است. C2-Ultra به موتور اجرای بزرگتری مجهز شده است تا بتواند دستورهای بیشتری را همزمان در حال پردازش نگه دارد. آرم همچنین از بهبود پیشبینی انشعاب و پیشبینی دریافت و مقصد دستورها برای تغذیه بهتر خط لوله پردازشی خبر داده است. شرکتهای تولیدکننده تراشه میتوانند مانند گذشته اجزای مختلف این پلتفرم را براساس نیاز خود ترکیب کنند. آرم برای پیکربندی پرچمدار، دو هسته C2-Ultra، شش هسته کممصرف C2-Pro و دو واحد SME2 را پیشنهاد میکند. پلتفرم سال گذشته تنها یک واحد SME2 داشت. آرم میگوید دو برابر شدن ظرفیت SME2 میتواند سرعت اجرای مدلهای زبانی کوچک جدید را تا ۷۰ درصد افزایش دهد. این خوشه همچنین از حافظههای کش خصوصی برای سیپییوهای مجزا و یک کش بزرگ اشتراکی L3 بهره میبرد که اجزای آن از طریق DynamIQ Shared Unit به یکدیگر متصل میشوند. آرم در GPU جدید (Mali G2-Ultra NX) از سختافزار اختصاصی هوش مصنوعی برای پردازش گرافیک استفاده کرده است. این GPU همچنین به موتور پردازشی جدید و نسل سوم رهگیری پرتو مجهز شده تا بتواند نور و سایهها را در صحنههای بازی پردازش کند. یکی از قابلیتهای اصلی این GPU، فناوری NSS است. این فناوری به GPU امکان میدهد بازی را با وضوح ۵۴۰p رندر کند و سپس با کمک سختافزار هوش مصنوعی، تصویر را به ۱۰۸۰p بازسازی کند. به این ترتیب، GPU لازم نیست تمام تصویر نهایی را با وضوح کامل پردازش کند. فناوری دیگری به نام NFRU نیز با استفاده از هوش مصنوعی، فریمهای میانی را تولید میکند. بنابراین بخشی از فریمهایی که بازیکن روی نمایشگر میبیند، مستقیماً توسط GPU رندر نمیشوند و سختافزار عصبی آنها را ایجاد میکند. آرم میگوید ترکیب NSS و NFRU باعث میشود GPU برای تولید خروجی نهایی، تنها حدود یکهشتم پیکسلها را بهصورت مستقیم رندر کند و سختافزار عصبی بقیه تصویر را بازسازی کند.",
+        "impact": "کاهش وابستگی گوشی‌ها به پردازش ابری و افزایش سرعت پاسخ‌دهی ایجنت‌های هوشمند روی دستگاه.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/arm-css-mobile-2-agentic-ai-graphics",
+        "clean_url": "https://digiato.com/artificial-intelligence/arm-css-mobile-2-agentic-ai-graphics",
+        "image": "http://www.bing.com/th?id=ONUT.TPbWxmeRbnkswmbnGcvdtQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.TPbWxmeRbnkswmbnGcvdtQ&pid=News",
+            "https://static.digiato.com/digiato/2026/09/Arm-CSS-for-Mobile-2-1024x576-2.jpg",
+            "https://static.digiato.com/digiato/2026/09/Arm-CSS-for-Mobile-2-1024x576-2-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/5294872-1024x534.webp"
+        ],
+        "timestamp": 1788852600.0
+    },
+    {
         "id": "d097e5023a",
         "title_fa": "نِور بخش ویژه سلامت تأسیس می‌کند؛ تجاری‌سازی هوش مصنوعی پزشکی",
         "title_en": "Naver to launch dedicated healthcare division to commercialize medical AI",
@@ -255,6 +465,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788852369.0
+    },
+    {
+        "id": "997d47aacb",
+        "title_fa": "پشتیبانی واتس‌اپ از ۵ ایجنت هوش مصنوعی شخص ثالث",
+        "title_en": "واتس‌اپ قابلیت اتصال حداکثر پنج ایجنت هوش مصنوعی شخص ثالث را فراهم می‌کند",
+        "summary": [
+            "واتس‌اپ قابلیت جدیدی را تست می‌کند که به کاربران اجازه می‌دهد ۵ ایجنت هوش مصنوعی دلخواه را از طریق کلید API متصل کنند.",
+            "امکان تنظیم نام و عکس پروفایل مجزا برای هر ایجنت وجود دارد و گفت‌وگوها در چت‌های اختصاصی انجام می‌شوند.",
+            "این ایجنت‌ها فقط به محتوای همان چت دسترسی دارند، اما پیام‌ها هنوز از رمزنگاری سرتاسری پشتیبانی نمی‌کنند."
+        ],
+        "full_text": "واتساپ درحال توسعه قابلیتی است که به کاربران امکان میدهد ایجنتهای هوش مصنوعی شخص ثالث را به این پیامرسان متصل، با آنها گفتوگو کنند و دستور انجام وظایف مختلف را به آنها بدهند. این قابلیت درحالحاضر برای برخی کاربران اندروید در دسترس قرار گرفته است. پس از افزایش محبوبیت پلتفرمهایی مانند OpenClaw، یکی از روشهای رایج برای تعامل از راه دور با ایجنتهای هوش مصنوعی، اتصال آنها به اپلیکیشنهای پیامرسان بود. بااینحال، برخی کاربران دریافتند که راهاندازی بات برای ارتباط با ایجنتهای هوش مصنوعی شخص ثالث در واتساپ میتواند به مسدودشدن حساب کاربری منجر شود. در مقابل، تلگرام این روند را پذیرفت و به یکی از پلتفرمهایی تبدیل شد که کاربران برای گفتوگو با ایجنتهایی که روی کامپیوتر یا فضای ابری اجرا میشوند، به سراغ آنها میروند. حالا طبق گزارش WABetaInfo، واتساپ درحال اضافهکردن پشتیبانی داخلی از ایجنتهای شخص ثالث است. این قابلیت به کاربران امکان میدهد ایجنت موردنظر خود را مستقیماً به چت اختصاصی واتساپ متصل کنند. قابلیت فعلی واتساپ از حداکثر پنج ایجنت برای هر حساب پشتیبانی میکند. کاربران همچنین میتوانند برای هر ایجنت نام و تصویر پروفایل جداگانه تعیین کنند. بااینحال، چتهای مربوط به ایجنتهای شخص ثالث درحالحاضر از رمزنگاری سرتاسری برخوردار نیستند. دسترسی ایجنت هوش مصنوعی در واتساپ برای راهاندازی ایجنت، واتساپ پس از ایجاد بات جدید، یک کلید API در اختیار کاربر قرار میدهد. کاربر میتواند این کلید را در سرویس مربوط به ایجنت وارد کند. مراحل دقیق اتصال بسته به پلتفرم مورد استفاده متفاوت است، اما به گفته WABetaInfo، بیشتر سرویسها محلی برای واردکردن این کلید دارند. پس از اتصال، کاربر میتواند گفتوگوی اختصاصی ایجنت را در واتساپ باز کند، برای آن پیام بفرستد و پاسخها را مستقیماً در همان اپلیکیشن دریافت کند. طبق توضیحات WABetaInfo، ایجنت متصلشده فقط میتواند محتوایی را بخواند که کاربر در همان گفتوگو با آن به اشتراک گذاشته است. بنابراین، این ایجنتها به سایر مکالمات، مخاطبان یا فایلهای رسانهای حساب کاربر دسترسی ندارند. در وضعیت فعلی، این قابلیت فقط از چتهای فردی پشتیبانی میکند و امکان افزودن ایجنتها به گروهها یا کامیونیتیهای واتساپ وجود ندارد. واتساپ همچنین هشدار میدهد اگر ایجنت متصلشده مبتنی بر هوش مصنوعی باشد، پاسخهای آن ممکن است نادرست باشند. بنابراین، کاربران باید اطلاعاتی را که ایجنت ارائه میکند بررسی کنند. این قابلیت فعلاً برای گروهی از کاربران اندروید فعال شده و انتظار میرود در آینده نزدیک دسترسی به آن گستردهتر شود.",
+        "impact": "تسهیل اتوماسیون کارهای روزمره کاربران و ورود رسمی واتس‌اپ به رقابت با تلگرام در حوزه بات‌های هوشمند.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/whatsapp-third-party-ai-agents",
+        "clean_url": "https://digiato.com/artificial-intelligence/whatsapp-third-party-ai-agents",
+        "image": "http://www.bing.com/th?id=ONUT.mpt18TqcWxSpGokI__magA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.mpt18TqcWxSpGokI__magA&pid=News",
+            "https://static.digiato.com/digiato/2026/09/Whatsapp_f2a73c2fbb-copy.jpg",
+            "https://static.digiato.com/digiato/2026/09/Whatsapp_f2a73c2fbb-copy-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/whatsapp-agents.jpg-1024x632.webp"
+        ],
+        "timestamp": 1788851400.0
     },
     {
         "id": "00157bd840",
@@ -307,6 +543,32 @@
             "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/thomas-headshot-purple.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
         ],
         "timestamp": 1788847200.0
+    },
+    {
+        "id": "1d1e66349d",
+        "title_fa": "واقعیت نمایشگاه الکامپ و چالش‌های زیرساختی استارتاپ‌های ایرانی",
+        "title_en": "از عکس‌های یادگاری وزیر تا خاموشی سرورها؛ الکامپ واقعاً چه چیزی به استارتاپ‌ها می‌دهد؟",
+        "summary": [
+            "حضور مقامات در الکامپ بیشتر جنبه تبلیغاتی دارد و چالش‌های کلیدی کسب‌وکارها مانند قطعی اینترنت را حل نمی‌کند.",
+            "فضای استارتاپی کشور با افت هیجان روبه‌رو شده و غرفه‌ها بیشتر به سمت فروش سرویس‌های آماده حرکت کرده‌اند.",
+            "با وجود تمام مشکلات، الکامپ همچنان فرصتی غنیمت برای شبکه‌سازی B2B و ایجاد تعاملات کاری میان شرکت‌ها است."
+        ],
+        "full_text": "وزیر ارتباطات سال گذشته در الکامپ به غرفه یک کسبوکار حوزه هوش مصنوعی رفت، با تیم این کسبوکار صحبت کرد و چند دقیقهای مقابل دوربینها ایستاد. چند ماه بعد، همان کسبوکاری که در نمایشگاه محصولش را معرفی میکرد، بهدلیل قطعی طولانی اینترنت ناچار شد سرورهایش را خاموش کند و بنیانگذارانش برای دسترسی به اینترنت پایدار از ایران خارج شدند. این فاصله میان حضور سیاستگذار در ویترین فناوری و واقعیت کسبوکارها، امسال در پاویون هوش مصنوعی الکامپ هم به شکل دیگری قابل مشاهده بود؛ جایی که در مقایسه با سال گذشته، بخش کمتری از شرکتها راهکارهایی برای حل مسائل واقعی کسبوکارها با هوش مصنوعی ارائه میکردند و تعداد بیشتری از غرفهها به سرویسهای آماده یا فروش دسترسی به مدلهای هوش مصنوعی اختصاص داشتند. اما الکامپ واقعا چه چیزی به استارتاپها میدهد؟ فرزانه برکت مومنی، همبنیانگذار دوات درباره بازدید وزیر، اتفاقی را که در ظاهر میتوانست یکی از نقاط مهم حضور یک استارتاپ در الکامپ باشد، چندان جدی نمیداند و آن را در یک جمله خلاصه میکند: «فقط یک دوپامین لحظهای ایجاد کرد.» به گفته او، موج دوربینها و توجهی که همزمان با حضور وزیر ایجاد شد، بعد از پایان بازدید اثر مشخصی بر کسبوکار نداشت و عکسها و ویدئوهای آن بیشتر برای استفاده در شبکههای اجتماعی شرکت باقی ماندند. فردی هم از جمعیت به سراغشان آمده و پیشنهاد فروش ویدئوی باکیفیت بازدید وزیر با قیمت ۴ میلیون تومان را به آنها داده است. این شاید پاسخ روشنی به یکی از تصورات رایج درباره حضور سیاستگذاران در نمایشگاههای فناوری باشد. حضور یک مقام در غرفه میتواند برای چند دقیقه یک کسبوکار را در مرکز توجه قرار دهد، اما لزوماً مسئلهای از مسائل واقعی آن کسبوکار را حل نمیکند. ارزش حضور در الکامپ این شرکت که مدل کسبوکارش B2B است، حضور سایر کسبوکارهای دیجیتال را یکی از مهمترین دلایل ارزشمند بودن نمایشگاه میدانست. مدیران شرکت، علاوه بر حضور در غرفه خود، فرصت داشتند میان غرفهها حرکت کنند، با شرکتهای دیگر آشنا شوند، وضعیت صنعت را بهتر ببینند و درباره همکاریهای احتمالی صحبت کنند. به گفته بنیانگذار دوات، این ارتباطها میتوانند به همکاریهایی برای یکپارچهسازی محصولات و خدمات منجر شوند؛ اتفاقی که بدون شبکهسازی و حضور همزمان بازیگران صنعت بهسادگی رخ نمیدهد. یکی از ارتباطهایی که در الکامپ شکل گرفت نیز حتی بعد از نمایشگاه ادامه پیدا کرد و به گفته او، یکی از طرفین همچنان پیگیر ادامه همکاری بود. اما خود صنعت دیگر شبیه گذشته نیست مساله اینجاست که حتی همین امکان شبکهسازی هم زمانی ارزشمندتر است که تعداد و تنوع کسبوکارهای حاضر در نمایشگاه، تصویری واقعی از صنعت ارائه دهد. بنیانگذار دوات میگوید تصویر او از الکامپ پیش از حضور، با واقعیتی که در نمایشگاه دید تفاوت داشت. چیزی که بیش از همه توجه او را جلب کرد، کاهش شور و حال و فعالیت در فضای استارتاپی بود؛ وضعیتی که آن را بیارتباط با مشکلات چند سال اخیر کشور و کاهش انگیزه جوانان نمیداند. به این ترتیب، الکامپ با یک تناقض روبهرو شده است. از یک طرف هنوز میتواند آدمها و کسبوکارهایی را کنار هم قرار دهد که خارج از نمایشگاه شاید یکدیگر را پیدا نکنند؛ از طرف دیگر، همان صنعتی که قرار است در نمایشگاه خود را به نمایش بگذارد، در بیرون از نمایشگاه با محدودیتها و اختلالهایی مواجه است که مستقیما بر ادامه فعالیتش اثر میگذارد. دوات نمونه این وضعیت است. کسبوکاری که در الکامپ ۲۸ برای معرفی محصول و پیدا کردن ارتباط تجاری حاضر شده بود، چند ماه بعد به دلیل قطعی اینترنت مجبور شد سرورها را خاموش کند و بنیانگذاران شرکت نیز برای دسترسی به اینترنت از ایران خارج شدند. البته امسال اوضاع بدتر از دوره قبل هم شده بود. در دوره گذشته، شرکتهای متنوعی از سراسر کشور در این بخش حاضر بودند و راهکارهای مختلفی را که با هدف حل مسائل کسبوکارها و با محوریت هوش مصنوعی توسعه داده بودند، ارائه میکردند. اما امسال، در کنار برخی محصولات و راهکارهای کاربردی، بخش قابل توجهی از غرفهها به سرویسهایی اختصاص داشت که بیشتر در لایه استفاده از مدلهای آماده قرار میگرفتند؛ از پشتیبانی فروش هوشمند گرفته تا دسترسی به API سرویسهایی مانند ChatGPT، Gemini و Claude و فروش اشتراک برای استفاده از آنها. این مشاهده بهتنهایی نمیتواند درباره کل بازار هوش مصنوعی ایران حکم صادر کند، اما دستکم در ویترین الکامپ میتوان تفاوت را شاهد بود. اگر قرار است الکامپ تصویری از وضعیت صنعت فناوری ایران ارائه کند، تغییر جنس چنین غرفههایی میتواند پرسش مهمی ایجاد کند. آیا بازار در حال بلوغ و حرکت به سمت محصولات قابل استفاده است یا هنوز بخش بزرگی از آن در مرحله سوار شدن بر ابزارها و مدلهایی است که جای دیگری توسعه داده شدهاند؟ الکامپ چهار روزه تمام نمیشود با این حال، از نگاه مدیران دوات، ارزش نمایشگاه را نباید با انتظار برای یک نتیجه فوری سنجید. برکت مومنی معتقد است نمایشگاه بهخودیخود بازار بزرگی برای یک کسبوکار نمیسازد. ممکن است ارتباطی در نمایشگاه ایجاد شود و یک سال بعد به مشتری یا همکاری تبدیل شود؛ آنقدر دیر که حتی شرکت بهسادگی نتواند تشخیص دهد این رابطه از کدام نمایشگاه آغاز شده است. در چنین مدلی، بخش مهمی از ارزش نمایشگاه بعد از پایان چهار روز آن مشخص میشود. شرکت باید ارتباطهایی را که در نمایشگاه ایجاد کرده پیگیری کند؛ موضوعی که به گفته بنیانگذار دوات، بسیاری از شرکتها انجام نمیدهند و در عین حال انتظار دارند صرفاً با حضور در نمایشگاه مشتری یا سرمایهگذار پیدا کنند.",
+        "impact": "افزایش انگیزه مهاجرت بنیان‌گذاران و کند شدن روند نوآوری در اکوسیستم فناوری ایران.",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/iran-technology-news/what-does-elecomp-really-offer-startups",
+        "clean_url": "https://digiato.com/iran-technology-news/what-does-elecomp-really-offer-startups",
+        "image": "http://www.bing.com/th?id=ONUT.-nyppa-ZjCYNs_1ufbi-LQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.-nyppa-ZjCYNs_1ufbi-LQ&pid=News",
+            "https://static.digiato.com/digiato/2026/09/davat-minister.jpg",
+            "https://static.digiato.com/digiato/2026/09/davat-minister-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2025/02/%D9%81%D8%B1%D8%B2%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%DA%A9%D8%AA-%D9%85%D9%88%D9%85%D9%86%DB%8C-%D9%88%DA%A9%DB%8C%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%DB%8C%DA%A9-%D8%AF%D8%A7%D8%AF%DA%AF%D8%B3%D8%AA%D8%B1%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D8%AF%D9%88%D8%A7%D8%AA.jpg.webp"
+        ],
+        "timestamp": 1788843720.0
     },
     {
         "id": "362a60e3c7",
@@ -6730,259 +6992,5 @@
             "https://techcrunch.com/wp-content/uploads/2019/10/money-the-station.png?w=680"
         ],
         "timestamp": 1788080580.0
-    },
-    {
-        "id": "d62d29b1c4",
-        "title_fa": "تشخیص پارکینسون با دقت ۹۹ درصد به کمک هوش مصنوعی",
-        "title_en": "هوش مصنوعی با تحلیل نقاشی می‌تواند پارکینسون را با دقت ۹۹ درصد تشخیص دهد",
-        "summary": [
-            "سیستم جدید هوش مصنوعی با تحلیل نحوه رسم خطوط و الگوهای مارپیچی توسط قلم بیومتریک، بیماری پارکینسون را شناسایی می‌کند.",
-            "الگوریتم SNAKE با تلفیق داده‌های فضایی نقاشی و سیگنال‌های حرکتی قلم مانند لرزش و فشار دست، به دقت نزدیک به ۹۹ درصد رسیده است.",
-            "این روش غیرتهاجمی و ارزان می‌تواند جایگزین ارزیابی‌های بالینی پیچیده در غربالگری‌های اولیه شود."
-        ],
-        "full_text": "هوش مصنوعی با تحلیل نقاشی میتواند پارکینسون را با دقت ۹۹ درصد تشخیص دهد در این پژوهش شرکتکنندگان شامل بیماران و افراد سالم با استفاده از قلم بیومتریک الگوهای مارپیچ و خطوط پیوسته رسم کردند. محققان سیستم مبتنی بر هوش مصنوعی توسعه دادهاند که میتواند بیماری پارکینسون را از طریق نحوه ترسیم یک نقاشی ساده با دقتی تا ۹۹ درصد شناسایی کند. در این چارچوب آزمایشی نوین، دستخط و نحوه ترسیم خطوط به عنوان یک ابزار غربالگری غیرتهاجمی و امیدبخش به کار گرفته میشود تا علائم اولیه این اختلال پیشرونده عصبی با تکیه بر الگوریتمهای یادگیری عمیق آشکار شود. پیشازاین، دانشمندان نشانههای بروز پارکینسون را در مو، خون، جرم گوش، شیوه گفتار و حتی وضعیت سلامت روان افراد ردیابی کرده بودند؛ بااینحال، این بیماری که بهعنوان سریعترین اختلال عصبی درحال رشد در جهان از نظر ایجاد ناتوانی و مرگومیر شناخته میشود، همچنان برای تشخیص قطعی به ارزیابیهای بالینی وابسته است و کمبود نشانگرهای زیستی فرایند شناسایی زودهنگام آن را دشوار کرده است. در این آزمایش که به سرپرستی محقق و دانشمند علوم کامپیوتر، «ایشان آیوس» از دانشگاه SOA هندوستان انجام شده، دادههای مربوط به مطالعه پیشین پارکینسون در برزیل شامل ۶۶ شرکتکننده (متشکل از ۳۱ فرد مبتلا و ۳۵ فرد سالم) مورد ارزیابی قرار گرفت. شرکتکنندگان با استفاده از یک قلم هوشمند بیومتریک که همزمان با ذخیره تصویر، سیگنالهای حرکتی دست را نیز ثبت میکرد، به ترسیم الگوها پرداختند. تحلیل حرکات قلم و الگوهای ترسیمی برای تشخیص بیماری پارکینسون در این آزمونها، شرکتکنندگان دو نوع طرح شامل الگوهای مارپیچی و خطوط پرپیچوخم متشکل از خطوط پیوسته زاویهدار را رسم کردند. آیوس و تیم همراهش سپس تصاویر و دادههای حسگر قلم هوشمند را به مجموعهای از سیستمهای یادگیری عمیق وارد کردند تا علاوهبر تحلیل بینظمیهای فضایی در رسم اشکال، تفاوتهای ظریف در کنترل حرکتی و هماهنگی دست نیز اندازه گرفته شود. دادههای جمعآوریشده در مرحله بعد از طریق الگوریتمی به نام SNAKE پردازش شدند. این الگوریتم با وزندهی و تجمیع نتایج مدلهای مختلف هوش مصنوعی مشخص کرد که هر اثر متعلق به یک فرد مبتلا است یا فرد سالم. طبق گزارش پژوهشگران که در ژورنال Discover Computing منتشر شده، این روش چندوجهی موفق شد الگوهای خطوط پرپیچوخم را با دقت ۹۸.۹۵ درصد و الگوهای مارپیچ را با دقت ۹۷.۷۴ درصد شناسایی کند که بالاتر از سایر سیستمهای پیشین ارزیابی دستخط است. تیم پژوهشی این دقت بالا را نتیجه تواناییهای الگوریتم SNAKE در ایجاد توازن میان پیشبینیهای مدلها و همچنین اندازهگیری دوگانه قلمهای هوشمند میداند. آنها گفتهاند: «تصاویر دستنویس ویژگیهای فضایی مانند بینظمی خطوط، اعوجاج ناشی از لرزش و انحرافات شکلی را نشان میدهند، درحالیکه سیگنالهای حسگر قلم رفتارهای حرکتی زمانی از جمله نوسانات سرعت، تغییرات فشار و اختلال در هماهنگی را ثبت میکنند.» با وجود اینکه محدودبودن جامعه آماری به ۶۶ نفر تمام تنوع بالینی بیماری را منعکس نمیکند، اما این روش چارچوبی نویدبخش را تعریف کرده است که پس از اعتبارسنجی در کارآزماییهای بزرگتر میتواند به غربالگری غیرتهاجمی، کمهزینه و از راه دور بیماری پارکینسون کمک کند.",
-        "impact": "تحول در غربالگری زودهنگام بیماری‌های عصبی و کاهش هزینه‌های تشخیص بالینی.",
-        "tag": "هوش مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/interdisciplinary/ai-smart-pen-drawing-detects-parkinsons",
-        "clean_url": "https://digiato.com/interdisciplinary/ai-smart-pen-drawing-detects-parkinsons",
-        "image": "http://www.bing.com/th?id=ONUT.MwlaQWA5aOOcJswUoP7ZLA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.MwlaQWA5aOOcJswUoP7ZLA&pid=News",
-            "https://static.digiato.com/digiato/2026/08/ai-parkinson.jpg",
-            "https://static.digiato.com/digiato/2026/08/ai-parkinson-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/drawings.jpg.webp"
-        ],
-        "timestamp": 1788079680.0
-    },
-    {
-        "id": "5d065728dd",
-        "title_fa": "گسترش بیمه هوشمند خودروی لیموناد به نیم کل بازار آمریکا",
-        "title_en": "Lemonade’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For Lemonade (LMND)",
-        "summary": [
-            "استارتاپ بیمه مبتنی بر هوش مصنوعی Lemonade خدمات بیمه خودروی خود را در ایالت کلیدی فلوریدا فعال کرد.",
-            "با این ورود، دسترسی این شرکت به نیمی از بازار خودروی ایالات متحده نزدیک شده است."
-        ],
-        "full_text": "Lemonade’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For Lemonade (LMND)  simplywall.st",
-        "impact": "افزایش سهم بازار استارتاپ‌های هوش مصنوعی و فشار بیشتر بر شرکت‌های سنتی بیمه.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788071425.0
-    },
-    {
-        "id": "8f0eab77da",
-        "title_fa": "تخفیف سنگین ۱۲۰۰ دلاری برای تلویزیون OLED پرچمدار ال‌جی",
-        "title_en": "LG’s 2026 C6 OLED TV hits all-time low at $1,200 off + FREE $150 Amazon credit",
-        "summary": [
-            "تلویزیون سری C اولد ال‌جی با تخفیف ۱۲۰۰ دلاری همراه با کارت هدیه ۱۵۰ دلاری آمازون عرضه شد.",
-            "این افت قیمت بی‌سابقه، ارزش خرید این مدل محبوب گیمینگ را به شدت بالا برده است."
-        ],
-        "full_text": "LG’s 2026 C6 OLED TV hits all-time low at $1,200 off + FREE $150 Amazon credit  9to5Toys",
-        "impact": "کاهش موقت قیمت‌ها در بازار تلویزیون‌های رده‌بالا و داغ‌تر شدن رقابت خردفروشی.",
-        "tag": "گجت",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "9to5Toys",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtQVdBS2pwaFY2dno0SEFaNTE3MmoxcjB5Q0dQU2lWU3lhNXdCRzY0Ym9NWUl1MWxLMnNWLUxjWklKb0VHcTAyUjRSMmVSMnNUaElqYlYydkU1TE9oTDFHSG9nVWNIZFRBaWtOVWxGbmtiZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtQVdBS2pwaFY2dno0SEFaNTE3MmoxcjB5Q0dQU2lWU3lhNXdCRzY0Ym9NWUl1MWxLMnNWLUxjWklKb0VHcTAyUjRSMmVSMnNUaElqYlYydkU1TE9oTDFHSG9nVWNIZFRBaWtOVWxGbmtiZw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788070440.0
-    },
-    {
-        "id": "538374903f",
-        "title_fa": "ساخت ویروس‌های مصنوعی با هوش مصنوعی برای درمان بیماری‌های مقاوم",
-        "title_en": "Scientists use AI to invent viruses never seen in nature, fueling hope for...",
-        "summary": [
-            "محققان با مدل‌های مولد Evo 1 و Evo 2 ویروس‌های باکتری‌خوار جدیدی طراحی کرده‌اند که نمونه طبیعی ندارند.",
-            "از میان ۷۰۰ هزار طرح پیشنهادی مدل‌ها، ۱۶ ویروس دست‌ساز موفق به نابودی باکتری‌های مقاوم به آنتی‌بیوتیک شدند.",
-            "این تحول بزرگی در بیوتکنولوژی برای درمان عفونت‌های کشنده است، اگرچه خطر سوءاستفاده از فناوری هم وجود دارد."
-        ],
-        "full_text": "A study has found artificial intelligence can generate virus designs that do not occur in nature. While that may sound concerning, scientists who advocate for the technology said the new viruses can unlock medical breakthroughs. The viruses in question were bacteriophages, meaning they target bacteria rather than people. Even so, outside experts have said the result is a significant sign of how much AI-driven biotechnology is advancing. Here's what to know According to Smithsonian Magazine, citing research published in Science, the team used the generative AI models Evo 1 and Evo 2 to make new bacteriophages. After being trained on vast amounts of genetic information, the models were asked to produce phages similar to Phi X-174, a widely studied virus that infects E. coli. Out of roughly 700,000 candidate designs, the researchers selected 285 to build in the lab. Sixteen of those synthetic phages were able to halt E. coli growth in Petri dishes. Those 16 AI-made phages also showed promise in later experiments: together, they successfully attacked two antibiotic-resistant E. coli strains. Phi X-174 and a mix of natural phages did not succeed in those same tests. According to the World Health Organization, bacterial resistance was associated with more than 4.7 million deaths globally in 2021. In comments to Carl Zimmer at The New York Times, as reported by The Smithsonian Magazine, Patrick Cai, a synthetic biologist at the University of Manchester who was not involved in the study, called it \"an important milestone.\" More background Researchers have long been interested in bacteriophages as a possible way to treat infections that no longer respond to antibiotics. If AI can speed up the search for effective phages, it could eventually help physicians target harmful bacteria more precisely. That potential benefit comes with a risk. Technology that can create helpful viruses could also be abused if it were directed toward dangerous pathogens. Isaac Bogoch, an infectious diseases specialist at the University of Toronto who was not involved in the research, told John Power and Erin Hale at Al Jazeera, as quoted by Smithsonian Magazine, that \"A.I.-designed viruses could have some potential benefits, such as the creation of targeted bacteriophages that could possibly help us tackle antibiotic-resistant infections in new ways.\" There are technical limitations as well. Tom Ellis, a synthetic genome engineer at Imperial College London who was not involved in the study, told Al Jazeera that the phage used in this research has an extremely small genome, meaning more complex viruses are much harder to design. What's being done? According to Smithsonian Magazine, the researchers said they tried to limit the danger by leaving certain genomes out of Evo's training data, preventing the system from generating viruses that could infect humans, animals, plants, or fungi. They also said they adopted safety measures beyond what is standard in bacteriophage research and outlined those steps in the paper's additional materials as a possible biosafety framework for future work. Another approach could involve using mixed phage therapies instead of relying on a single virus. Study co-author Brian Hie, a computational biologist at Stanford University, said in a statement that pairing genetically distinct phages could make it harder for bacteria to evolve around treatment. As the technology develops, oversight, screening, and clear limits may need to keep pace. Get TCD's free newsletters for easy tips, smart advice, and a chance to earn $5,000 toward home upgrades. To see more stories like this one, change your Google preferences here.",
-        "impact": "دگرگونی چشمگیر در صنعت داروسازی و ایجاد جایگزین‌های هوشمند برای آنتی‌بیوتیک‌های ناکارآمد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "The Cool Down",
-        "url": "https://www.yahoo.com/news/science/articles/scientists-ai-invent-viruses-never-054300403.html",
-        "clean_url": "https://www.yahoo.com/news/science/articles/scientists-ai-invent-viruses-never-054300403.html",
-        "image": "https://media.zenfs.com/en/the_cool_down_737/e7f859ffa891297d7dd4af444c009055.jpg",
-        "images": [
-            "https://media.zenfs.com/en/the_cool_down_737/e7f859ffa891297d7dd4af444c009055.jpg",
-            "https://s.yimg.com/lo/mysterio/api/02d9f44253f38cf7a3b08b83745ee1f65952f640c150aad8caf63aa3b663de0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fe7f859ffa891297d7dd4af444c009055.jpg",
-            "https://s.yimg.com/lo/mysterio/api/8f1f8e25714c06ad8539459d61bebf0d62a7c5278dcb7f5ee9d3ad8f01d6cb3a/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-10%2Fdd75cd20-66db-11ee-bf7d-1bf8634a406b",
-            "https://s.yimg.com/lo/mysterio/api/70dc2a15d09158bd932e7809bef922add4d841b3d1998332c4803d2810892b7d/lightyear_networkapi/resizefill_h100%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-10%2Fcfc80fd0-66db-11ee-affb-d9fc58441a42"
-        ],
-        "timestamp": 1788070251.0
-    },
-    {
-        "id": "b621bcbbd9",
-        "title_fa": "برگزاری المپیک ربات‌های انسان‌نما در پکن؛ از زمین‌خوردن تا رکوردشکنی",
-        "title_en": "China’s robots race ahead",
-        "summary": [
-            "دومین دوره مسابقات ربات‌های انسان‌نما در پکن با رقابت در دویدن، وزنه‌برداری و کارهای واقعی مثل مرتب‌کردن تخت برگزار شد.",
-            "چین با تبدیل هوش مصنوعی و رباتیک به یک شو جذاب عمومی، سرعت توسعه سخت‌افزارها را به شکلی خیره‌کننده بالا برده است.",
-            "در کنار زمین‌خوردن‌های خنده‌دار و آتش‌گرفتن چند ربات، مهارت‌های کاربردی آن‌ها در اطفای حریق و تحویل بسته پیشرفت ملموسی داشت."
-        ],
-        "full_text": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers’ inboxes on Sunday at 8AM ET. Opt in for The Stepback here. China’s robots race ahead Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. China’s robots race ahead Bots were breaking records and breaking down at Beijing’s World Humanoid Robot Games. How it started I’ve admitted my fondness for robot fail videos on Stepback before, and let me tell you the World Humanoid Robot Games did not disappoint. The five-day event, which wrapped this week in Beijing, brought high drama, and brought it well. One robot, made by smartphone maker Honor, lost a leg mid-sprint, while others tripped in a flurry of sparks. Another finisher ran straight into a crash mat, bounced off it, and promptly burst into flames. In the weightlifting, one robot lost its balance beneath a modest barbell and toppled inexorably into the judges’ table, arms cartoonishly aloft. Robotic cheerleaders tumbled and stumbled through routines, while a separate bot fell off a platform in circumstances that, had it been human, might have looked suspiciously like it was gawking at the performers. This was only the second World Humanoid Robot Games, though it was already far bigger than the inaugural event last year. Unlike this year, last year’s records were paltry. The winning 100-meter sprint was a glacial 21.50 seconds and the highest standing high jump was just 0.95 meters. In keeping with China’s habit of turning robots into public spectacle — from intricate dances at a Spring Festival Gala to demos at major tech events — both this and last year’s games were staged in Beijing’s National Speed Skating Oval, a former Olympic venue. And a spectacle it was. At most sporting events, contestants losing limbs, careening into walls, catching fire, and regularly being carried away on stretchers — oh, and did I mention catching fire?! — would probably be grounds to stop proceedings. At the Humanoid Robot Games, it was par for the course. Fire aside, the games were unusual in other ways too. Alongside familiar events like sprinting, football, boxing, and weightlifting were more unusual competitions in bed-making, parcel delivery, shelf stacking, clothes folding, and hammering nails. Aptly, there was a firefighting contest too. These less standard offerings spoke to the real purpose of the games: getting robots out of the lab and into the messy real-world environments their makers hope they will ultimately work in. And China is making no secret of wanting to lead the way. How it’s going For all the spectacle and drama, the games show there has been massive progress in robotics in recent years. Records fell, with one humanoid running the 100-meter sprint in 9.39 seconds, beating Usain Bolt’s 2009 world record. Another bot reached 2.88 meters in a standing high jump, nearly half a meter above the human high-jump record that has stood since 1993. Those performances are almost unrecognizable compared to robotics competitions a decade ago, when even the most advanced machines struggled to stay upright. But the games also show how far there is to go before humanoids are actually useful in the real world. The flashy, video-friendly sporting events were impressive, but the more mundane tasks were less thrilling — I don’t see picking up soybeans with tweezers, block-building, or powder-weighing becoming Olympic mainstays anytime soon. While many events required robots to operate autonomously — including gymnastics, football, tug of war, table tennis, and some track events — others allowed for human assistance via teleoperation, albeit with a scoring penalty. The dexterity being displayed certainly points to genuine and impressive hardware improvements, but seems like there is still a long way to go before these machines can operate reliably on their own in places like factories or homes. What happens next Beijing has not yet confirmed a third Humanoid Robot Games, but given the government’s enthusiasm for the industry, it would be surprising to not get another installment. The city has already confirmed another humanoid half-marathon for April, and the country plans to open its first robot-run hotel next year. China was the undisputed champion of the games, and the country looks well placed to stay in top position moving forward — both at future competitions and in the humanoid robot industry as a whole. The medal table was almost entirely a Chinese affair, dominated in particular by AgiBot and Tien Kung, each scooping up more medals than nearly every other competitor combined, excluding the other. In part, that asymmetry reflected the lack of international competition. Although the games were framed as a global affair, 641 of 666 teams were Chinese, domestically representing 157 companies and 200 universities, according to state-run China Daily. While there doesn’t seem to be a public breakdown of entrants, the biggest US humanoid players like Tesla, Boston Dynamics, and Figure were conspicuous by their absence. Nevertheless, the sheer diversity of Chinese institutions represented in Beijing was a show of force, and a sign of how quickly the country’s robotics sector is maturing, even amid growing concerns about circular investment, thriving companies that lack viable products, and a possible humanoid bubble. It’s not clear a stronger US showing at the games would’ve changed much. The US still has an edge in frontier AI and advanced chips, but China has been rapidly closing parts of that gap, while also making embodied AI a strategic national priority. The same cannot be said of Washington, which has for years paid much less attention to robotics and now trails China in nearly every regard, including manufacturing, deployment, and hardware. Some reports even suggest that recent efforts to ban foreign robots, a",
-        "impact": "مسابقات پکن نشان داد چین با سرعت بالا در حال تجاری‌سازی و تست واقعی ربات‌های انسان‌نما است.",
-        "tag": "رباتیک",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-        "clean_url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-        "image": "http://www.bing.com/th?id=ONUT.wrYhnltlVtPqou9DH-3qmQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.wrYhnltlVtPqou9DH-3qmQ&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ROB_H_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788066000.0
-    },
-    {
-        "id": "592522fc0d",
-        "title_fa": "تجهیز تلسکوپ جدید ناسا به سنسورهای مادون قرمز پیشرفته",
-        "title_en": "NASA’s Roman Space Telescope to launch with University of Hawaiʻi-developed infrared sensors",
-        "summary": [
-            "تلسکوپ فضایی رومن ناسا به حسگرهای مادون قرمز توسعه‌یافته در دانشگاه هاوایی مجهز می‌شود.",
-            "این سنسورهای حساسیتی فوق‌العاده برای ثبت تصاویر عمیق از سیارات فراخورشیدی و ماده تاریک دارند."
-        ],
-        "full_text": "NASA’s Roman Space Telescope to launch with University of Hawaiʻi-developed infrared sensors  Maui Now",
-        "impact": "افزایش بی‌سابقه‌ی توانایی رصدخانه فضایی ناسا در تصویربرداری از اعماق کیهان.",
-        "tag": "تکنولوژی",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "Maui Now",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmRfTkFIVG1lQkVxMjNpSkpRa3FrbWZYLUVneDMycHNGNk0wN3Q3dkVmcVAzTDdyRmRyWDB2eXRPVDJZVnE5VjVHXzZKNzdtWXMyYUZMSmZObTBqeE9oSjVSbEVuUVFiaFdYRVpUVlNjUzBJdHBPTVlLQmNJbVhZMjhRenhkNEVjUlBrWTloNUdJMUpjZENzWU44ZEgtUGhOWllHSml6WVJtRVFCU0UzS0c5ekNPSTRzRmtSdTdQSUZrRzVXWHhZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmRfTkFIVG1lQkVxMjNpSkpRa3FrbWZYLUVneDMycHNGNk0wN3Q3dkVmcVAzTDdyRmRyWDB2eXRPVDJZVnE5VjVHXzZKNzdtWXMyYUZMSmZObTBqeE9oSjVSbEVuUVFiaFdYRVpUVlNjUzBJdHBPTVlLQmNJbVhZMjhRenhkNEVjUlBrWTloNUdJMUpjZENzWU44ZEgtUGhOWllHSml6WVJtRVFCU0UzS0c5ekNPSTRzRmtSdTdQSUZrRzVXWHhZ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788062400.0
-    },
-    {
-        "id": "ef131107fe",
-        "title_fa": "نسخه جدید هوم‌پاد اپل مجهز به هوش مصنوعی در راه است",
-        "title_en": "New Apple HomePods with AI are coming. Everything we know.",
-        "summary": [
-            "اپل در حال ساخت نسل جدید اسپیکرهای هوشمند هوم‌پاد با پردازش هوش مصنوعی و نسخه ارتقایافته سیری است.",
-            "این محصول قرار است به عنوان مرکز مدیریت خانه هوشمند با قابلیت تعامل صوتی عمیق‌تر و هوشمندتر عرضه شود."
-        ],
-        "full_text": "New Apple HomePods with AI are coming. Everything we know.  Mashable",
-        "impact": "تثبیت حضور اپل در بازار سخت‌افزارهای خانه هوشمند مبتنی بر هوش مصنوعی.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTlRnMWhjM19zTmp2R3pvY0xrMmVySXRyblY5RUI1V1ZwbG9HSzF3bWhZV2RVcE9DSzlncUdZQjVudF8teG00UDMzOXVTMXowQnhrbVI0TmZoN1piZEo0WVVfM1ViTEYza2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUTlRnMWhjM19zTmp2R3pvY0xrMmVySXRyblY5RUI1V1ZwbG9HSzF3bWhZV2RVcE9DSzlncUdZQjVudF8teG00UDMzOXVTMXowQnhrbVI0TmZoN1piZEo0WVVfM1ViTEYza2c",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788035406.0
-    },
-    {
-        "id": "d2922cace0",
-        "title_fa": "عرضه دستیار هوش مصنوعی برای تحلیل داده‌های گوگل سرچ کنسول",
-        "title_en": "Viral SEO Launches AI Assistant for Google Search Console Insights",
-        "summary": [
-            "ابزار جدید Viral SEO با استفاده از هوش مصنوعی، داده‌های پیچیده سرچ کنسول را تحلیل و گزارش‌های کاربردی ارائه می‌کند.",
-            "این ابزار به متخصصان سئو کمک می‌کند افت‌وکاهش ترافیک و ورودی‌های سایت را سریع‌تر عارضه‌یابی کنند."
-        ],
-        "full_text": "Viral SEO Launches AI Assistant for Google Search Console Insights  TMX Newsfile",
-        "impact": "کاهش زمان تحلیل داده‌های سئو و خودکارسازی استخراج گزارش‌های وب.",
-        "tag": "نرم‌افزار",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "TMX Newsfile",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0tTeEpFTmw3UXFoMnNVN3VPT3dUc3dRb2JPY3ZUTkppbXJvajRWckJKT2RfZDY2NGE5c0FScThfVmI3X2NfZVlhYWhPdERfeVY4bnR3WkZWbHdZekZzUDVIX1NfRVA2b2FPV1lCQnhvMWZTamZTUzdKc00wVjY5ZjJVeUloalRMOS04eURvOHlpSTdUaXVXU3lDRTJIQ3ZEOFZ1MS1BVXVkTDRtOWVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0tTeEpFTmw3UXFoMnNVN3VPT3dUc3dRb2JPY3ZUTkppbXJvajRWckJKT2RfZDY2NGE5c0FScThfVmI3X2NfZVlhYWhPdERfeVY4bnR3WkZWbHdZekZzUDVIX1NfRVA2b2FPV1lCQnhvMWZTamZTUzdKc00wVjY5ZjJVeUloalRMOS04eURvOHlpSTdUaXVXU3lDRTJIQ3ZEOFZ1MS1BVXVkTDRtOWVn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788034020.0
-    },
-    {
-        "id": "ee948c5a1b",
-        "title_fa": "هشدار بیل گیتس درباره تصمیمات حیاتی در عصر پرپیچ‌خم AI",
-        "title_en": "The turbulent AI era is here. The choices we make now are critical.",
-        "summary": [
-            "بیل گیتس در یادداشت تازه خود، وضعیت فعلی توسعه هوش مصنوعی را دورانی پرچالش خواند که تصمیمات امروز جامعه جهانی آینده آن را می‌سازد.",
-            "او بر لزوم اتخاذ تصمیم‌های درست و به‌موقع برای هدایت هوش مصنوعی به سمت حل چالش‌های بزرگ بشریت تأکید کرده است."
-        ],
-        "full_text": "The turbulent AI era is here. The choices we make now are critical.  gatesnotes.com",
-        "impact": "افزایش توجه رهبران جهان به کادربندی اخلاقی و مدیریتی در توسعه مدل‌های آینده.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "gatesnotes.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788033566.0
-    },
-    {
-        "id": "309e5149d4",
-        "title_fa": "همکاری مستقیم انسان و ایجنت‌های هوشمند در پلتفرم اسلک",
-        "title_en": "Where Your Team and Agents Build Together",
-        "summary": [
-            "اسلک فضایی را فراهم کرده که در آن ایجنت‌های هوش مصنوعی در کنار اعضای تیم‌ها به انجام وظایف می‌پردازند.",
-            "این قابلیت امکان واگذاری کارهای تکراری به هوش مصنوعی در محیط چت تیمی را آسان‌تر می‌کند."
-        ],
-        "full_text": "Where Your Team and Agents Build Together  Slack",
-        "impact": "تسریع اتوماسیون فرایندهای کاری درون‌سازمانی و تغییر نحوه تعامل اعضای تیم.",
-        "tag": "نرم‌افزار",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Slack",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TkxkR2RsN3J1LUh1UmpLZHJSUjdKRnl1ZTAtWXBrTGlYaDdndkd4clZDTW5NU1E0ODBKRHF4aWpMSkswMFZVOG1STnVodFI3al9uYVlkWDkwRmY4OUZzNHZvZ3pGZXE2TVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TkxkR2RsN3J1LUh1UmpLZHJSUjdKRnl1ZTAtWXBrTGlYaDdndkd4clZDTW5NU1E0ODBKRHF4aWpMSkswMFZVOG1STnVodFI3al9uYVlkWDkwRmY4OUZzNHZvZ3pGZXE2TVE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788032779.0
-    },
-    {
-        "id": "c0c9996a19",
-        "title_fa": "ابزار پایش میزان دیده شدن کسب‌وکارها در پاسخ‌های AI",
-        "title_en": "AI Answer Visibility Tracker For Small Business Owners: Platform Announced",
-        "summary": [
-            "پلتفرم جدیدی برای کسب‌وکارهای کوچک راه‌اندازی شده که وضعیت حضور برندها را در پاسخ‌های چت‌بات‌های هوش مصنوعی بررسی می‌کند.",
-            "این ابزار نشان می‌دهد یک برند چقدر در نتایج پیشنهادی هوش مصنوعی به کاربران معرفی می‌شود."
-        ],
-        "full_text": "AI Answer Visibility Tracker For Small Business Owners: Platform Announced  The Commercial Appeal",
-        "impact": "ظهور نسل جدیدی از سئو (GEO) برای بهینه‌سازی حضور در پاسخ‌های موتورهای هوش مصنوعی.",
-        "tag": "استارتاپ",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "The Commercial Appeal",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWERWTXFVelBqT3JMdXlqeFhYTElWZjJlRHlTeDdNLS1TYS05UWJYSUZLLXZpNFFSb1hnY0JxZlBnUW5fcTBnUXhyMUdYemRIQ0dsZzBvMzdjSjBqcXh6azVGblg3WE1TZGRFUnpSSU9MSFY5d1ppXzUzYW1Bamw3QzQwVlZ2TnNzTmNjenV6MVg1dDBjWDRudE1ueV9UZTZhVWhNQTVycEFHVE91Rnh3ZElQODNITHY1blJyby04S1lnaFlsWW0zczJrRnhBNUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWERWTXFVelBqT3JMdXlqeFhYTElWZjJlRHlTeDdNLS1TYS05UWJYSUZLLXZpNFFSb1hnY0JxZlBnUW5fcTBnUXhyMUdYemRIQ0dsZzBvMzdjSjBqcXh6azVGblg3WE1TZGRFUnpSSU9MSFY5d1ppXzUzYW1Bamw3QzQwVlZ2TnNzTmNjenV6MVg1dDBjWDRudE1ueV9UZTZhVWhNQTVycEFHVE91Rnh3ZElQODNITHY1blJyby04S1lnaFlsWW0zczJrRnhBNUk",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788032604.0
     }
 ]
