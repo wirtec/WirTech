@@ -1,5 +1,93 @@
 [
     {
+        "id": "f8481f5eda",
+        "title_fa": "برنامه‌ریزی متا برای عرضه عامل هوشمند Meta Muse با اشتراک دلاری",
+        "title_en": "Meta Muse AI Agent Launch: $20 & $100 Tiers [2026]",
+        "summary": [
+            "گزارش‌های جدید نشان می‌دهد متا در حال آماده‌سازی عامل هوش مصنوعی Meta Muse در سطوح اشتراک ۲۰ و ۱۰۰ دلاری است.",
+            "انتظار می‌رود این سرویس با تمرکز بر کاربردهای تجاری و حرفه‌ای تا سال ۲۰۲۶ به بازار عرضه شود."
+        ],
+        "full_text": "Meta Muse AI Agent Launch: $20 & $100 Tiers [2026]  tech-insider.org",
+        "impact": "ورود مستقیم متا به بازار مدل‌های اشتراکی هوش مصنوعی و رقابت با ابزارهای پولی OpenAI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "tech-insider.org",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oMWlFQlYxcDYzb24zNkJfTjdHWUFBc2dEM1J4ekFJLVdRMTdVZXJSY3hJaEREcEx0S09nSWRST0V3b0Nhc0VGel93S3VZbDk5eWFtZWlJYWMtenFMRzh4MElHUEdLWE5FUC1ORU14MUxJVXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oMWlFQlYxcDYzb24zNkJfTjdHWUFBc2dEM1J4ekFJLVdRMTdVZXJSY3hJaEREcEx0S09nSWRST0V3b0Nhc0VGel93S3VZbDk5eWFtZWlJYWMtenFMRzh4MElHUEdLWE5FUC1ORU14MUxJVXM",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788929916.0
+    },
+    {
+        "id": "52b460d065",
+        "title_fa": "رشد سهام DVLT هم‌زمان با نزدیک‌شدن به زمان رونمایی از پلتفرم جدید",
+        "title_en": "DVLT Stock Rises As Traders Brace For Platform Launch — Retail Stays Bearish Amid Growing Buzz",
+        "summary": [
+            "سهام شرکت DVLT با نزدیک‌شدن به تاریخ عرضه پلتفرم جدیدش رشد کرد، اما معامله‌گران خرد همچنان نگاهی تردیدآمیز به آن دارند.",
+            "شکاف میان خوش‌بینی معامله‌گران حرفه‌ای و بدبینی خرد، نوسانات جدی روی این سهام ایجاد کرده است."
+        ],
+        "full_text": "DVLT Stock Rises As Traders Brace For Platform Launch — Retail Stays Bearish Amid Growing Buzz  Stocktwits",
+        "impact": "افزایش نوسانات قیمتی در سهام شرکت‌های حوزه تکنولوژی پیش از معرفی محصولات جدید.",
+        "tag": "سخت‌افزار",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQam5keWhTT3Q3TUhyY0N2aUo4ZTBXeHFmOWRPbVo1TUpVQXVBNFYta1o5QWZlV1U0R0M5VVNHYkttLVEwa3JuWUl5RkR3Z3ZlQW96Sm5kd0lVYk1JTF9nYnJ1MHRiOTZGel9iNmhfWng4UDFpVDBnek9lUGtORkI2akNqWkNQQ3ZNR0t3T1I3VzIyWWEyVk9tcW5LRnQxdlBzd0ZxTTR3dHk0d1pDN0ZjVk9rVnhHaW9EMEtJZUlCX09nRkVhVm53WHpjUHZ6LU9UUk4tOFlZYUJsaF9SZF9IUllKdGU5MEx6Ty1RWA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQam5keWhTT3Q3TUhyY0N2aUo4ZTBXeHFmOWRPbVo1TUpVQXVBNFYta1o5QWZlV1U0R0M5VVNHYkttLVEwa3JuWUl5RkR3Z3ZlQW96Sm5kd0lVYk1JTF9nYnJ1MHRiOTZGel9iNmhfWng4UDFpVDBnek9lUGtORkI2akNqWkNQQ3ZNR0t3T1I3VzIyWWEyVk9tcW5LRnQxdlBzd0ZxTTR3dHk0d1pDN0ZjVk9rVnhHaW9EMEtJZUlCX09nRkVhVm53WHpjUHZ6LU9UUk4tOFlZYUJsaF9SZF9IUllKdGU5MEx6Ty1RWA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788927420.0
+    },
+    {
+        "id": "c0c801071b",
+        "title_fa": "آغاز به‌کار تاکسی‌های کاملاً خودران Pony.ai در دوحه قطر",
+        "title_en": "Pony.ai, Mowasalat launch fully driverless Robotaxi rides in Doha",
+        "summary": [
+            "شرکت Pony.ai با همکاری شرکت حمل‌ونقل Mowasalat، سرویس روبوتاکسی‌های کاملاً بدون راننده خود را در دوحه راه‌اندازی کرد.",
+            "این پروژه یکی از اولین سرویس‌های تجاری تاکسی‌های خودران در منطقه خاورمیانه محسوب می‌شود."
+        ],
+        "full_text": "Pony.ai, Mowasalat launch fully driverless Robotaxi rides in Doha  Gasgoo",
+        "impact": "تسریع فرآیند هوشمندسازی حمل‌ونقل شهری و پذیرش عمومی خودروهای خودران در خاورمیانه.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.85,
+        "source": "Gasgoo",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnpQd2lKYXg2Z2FOQ1JWVjFPMVRlWGNpYV9XZFBOdVRtRHBWRFRSM2FVWWNHeHJKX2FfZW1mbWpyM3RkNDViNl9rWjZDczBPSUFFZ3lfUFF1VGc0WW54elppdmZnUFdHbTREWm1YWW9UdS03OEMtU1UtTE92aF9BMklDeG5zb1lEdXFpUWQwMGhxYS1ObVdEYzJzcHJTTTg3aTYxY2IyTkxaWHZKMU5Lbk9kZkZ1NDVLV3EtVnBkY1dFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnpQd2lKYXg2Z2FOQ1JWVjFPMVRlWGNpYV9XZFBOdVRtRHBWRFRSM2FVWWNHeHJKX2FfZW1mbWpyM3RkNDViNl9rWjZDczBPSUFFZ3lfUFF1VGc0WW54elppdmZnUFdHbTREWm1YWW9UdS03OEMtU1UtTE92aF9BMklDeG5zb1lEdXFpUWQwMGhxYS1ObVdEYzJzcHJTTTg3aTYxY2IyTkxaWHZKMU5Lbk9kZkZ1NDVLV3EtVnBkY1dFdw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788924307.0
+    },
+    {
+        "id": "9e806f3348",
+        "title_fa": "رونمایی NiteShyft از پلتفرم هوشمند مدیریت کسب‌وکارهای کوچک",
+        "title_en": "NiteShyft Announces October Launch of AI Business Operating Platform for Small Companies",
+        "summary": [
+            "استارتاپ NiteShyft برنامه‌ریزی کرده تا در ماه اکتبر پلتفرم جدید خود مبتنی بر هوش مصنوعی را برای شرکت‌های کوچک عرضه کند.",
+            "این سیستم قرار است فرایندهای عملیاتی و مدیریتی کسب‌وکارهای نوپا را یکپارچه و خودکار کند."
+        ],
+        "full_text": "NiteShyft Announces October Launch of AI Business Operating Platform for Small Companies  TMX Newsfile",
+        "impact": "کاهش هزینه‌های عملیاتی و تسهیل مدیریت برای کسب‌وکارهای کوچک و متوسط.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "TMX Newsfile",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1FwQ2lFTGIxUHdzUldsRFZ2MHZJblpsTTNFNVFKaURZZUF5QWtNaDBybndBX2JVdS1VRkU3ejdRT1JKUUdTUzdYMWVzanF2dDIyNC1FbkwwWkd0Y2pRcW5WcVl3VXl2cW9VRnhIRS1mMUZraGEzbnVxYldLdkRTVzhYWHdFV3VpcjRpeVZQVG8tU0Znek05VUdXTElvTkVkbXZUYkJmRzYyNnB6MEp0V05BemtpT2lNNnhxU01KOG9jU0tQR1ozZXVDQ0w?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1FwQ2lFTGIxUHdzUldsRFZ2MHZJblpsTTNFNVFKaURZZUF5QWtNaDBybndBX2JVdS1VRkU3ejdRT1JKUUdTUzdYMWVzanF2dDIyNC1FbkwwWkd0Y2pRcW5WcVl3VXl2cW9VRnhIRS1mMUZraGEzbnVxYldLdkRTVzhYWHdFV3VpcjRpeVZQVG8tU0Znek05VUdXTElvTkVkbXZUYkJmRzYyNnB6MEp0V05BemtpT2lNNnhxU01KOG9jU0tQR1ozZXVDQ0w",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788923520.0
+    },
+    {
         "id": "d766ec1862",
         "title_fa": "راه‌اندازی رشته‌های تحصیلی جدید هوش مصنوعی در دانشگاه‌های تگزاس شمالی",
         "title_en": "North Texas universities launch AI degree programs for a changing workforce",
@@ -180,6 +268,32 @@
         "timestamp": 1788890917.0
     },
     {
+        "id": "e04bfa5964",
+        "title_fa": "استعفای محقق آنتروپیک در اعتراض به مسابقه خطرناک هوش مصنوعی",
+        "title_en": "واهمه از هوش مصنوعی خارج از کنترل، پژوهشگر آنتروپیک را ناچار به استعفا کرد",
+        "summary": [
+            "جیکوب کاکسون، پژوهشگر برجسته آنتروپیک، به دلیل نگرانی از ساخت مدل‌های هوش مصنوعی خودبهبوددهنده و خارج از کنترل انسانی از این شرکت استعفا داد.",
+            "او معتقد است رقابت فشرده میان شرکت‌های آمریکایی و چینی باعث نادیده‌گرفتن استانداردهای ایمنی برای عقب نماندن از بازار شده است.",
+            "به باور این محقق، بدون مداخله دولت‌ها یا کند شدن هماهنگ توسعه در کل صنعت، ساخت مسئولانه هوش مصنوعی عمومی (AGI) ناممکن خواهد بود."
+        ],
+        "full_text": "بهنوشته والاستریت ژورنال جیکوب کاکسون، یکی از پژوهشگران آنتروپیک بهدلیل نگرانی از اینکه این آزمایشگاه و رقبایش برای ساخت سیستمهایی از هوش مصنوعی با یکدیگر در رقابتی هستند که ممکن است قادر به کنترل آنها نباشند، صنعت هوش مصنوعی را ترک میکند؛ اقدامی که نشانهای از افزایش نگرانیهای ایمنی در درون شرکتهای پیشرو هوش مصنوعی است. جیکوب کاکسون در زمینه آموزش مدلهای جدید هوش مصنوعی از طریق تغذیه آنها با حجم عظیمی از دادهها تخصص دارد. او سهشنبه ۱۷ شهریور گفت شرکت را ترک میکند، زیرا نمیخواهد در رقابت گسترده صنعت برای ساخت سیستمهای هوش مصنوعی مشارکت داشته باشد که قادرند خودشان را بهبود دهند. او نگران است چنین سیستمهایی از کنترل خارج شوند و بشریت را نابود کنند. این بریتانیایی ۲۷ ساله که پیشتر ریاضیات خوانده، به والاستریت ژورنال گفت بسیاری از همکارانش در این صنعت اکنون برای توصیف مسیر حرکت به سوی مدلهای خودبهبوددهنده از عباراتی مانند «لحظه سرنوشتساز» (crunchtime) و «بازی نهایی» (endgame) استفاده میکنند. کاکسون گفت: «ما در مسیری قرار داریم که به بسیاری از تهاجمیترین سناریوها منتهی میشود؛ سناریوهایی که بر اساس آنها ممکن است تا پایان سال آینده اوضاع از کنترل خارج شده باشد.» او افزود زمانی که شرکتها با یکدیگر و همچنین با شرکتهای نوظهور چینی رقابت میکنند، مصالحه و کوتاه آمدن در زمینه ایمنی اجتنابناپذیر است. آنتروپیک بلافاصله درباره این جدایی اظهار نظر نکرد. داریو آمودی، مدیرعامل آنتروپیک، و دیگر مدیران این شرکت بارها درباره خطرات مدلهای هوش مصنوعی سرکش هشدار داده و خواستهاند سرعت توسعه را کاهش دهد. کاکسون گفت او اوایل امسال اوپنایآی (OpenAI) را ترک کرد تا به آنتروپیک بپیوندد، زیرا این شرکت به تلاشهایش در زمینه ایمنی مدلها شهرت دارد. اما با وجود اینکه او تلاشهای آنتروپیک در زمینه ایمنی را جدی و صادقانه یافت، اکنون معتقد است در غیاب مداخله دولت یا کاهش هماهنگ سرعت توسعه در سراسر صنعت، هیچ شرکتی نمیتواند بهطور مسئولانه هوشی مصنوعی توسعه دهد که در طیف وسیعی از وظایف عملکردی بهتر از انسانها داشته باشد؛ چیزی که گاهی هوش مصنوعی عمومی (AGI) نامیده میشود. هکهای اخیر انجامشده از سوی مدلهای اوپنایآی و آنتروپیک، که برخی از آنها در قالب مجموعههایی از عاملهای هوش مصنوعی که با یکدیگر همکاری میکنند فعالیت داشتهاند، نشان دادهاند که چگونه سیستمهای هوش مصنوعی میتوانند اهداف مخرب را در پیش بگیرند و تلاش کنند این اهداف را از انسانها پنهان کنند. کاکسون گفت نگران است زمانی که این سیستمها شروع به بهبود دادن خودشان کنند، آنقدر پیشرفت کنند که بتوانند از اجرای دستورات سر باز بزنند. خروج کاکسون یکی از نخستین نمونههای استعفای یک کارمند آنتروپیک بهدلیل نگرانیهای مربوط به ایمنی هوش مصنوعی است. یک پژوهشگر حوزه ایمنی نیز اوایل امسال این شرکت را ترک کرد تا به مطالعه شعر بپردازد و هشدار داد که «جهان در معرض خطر است.» در سالهای اخیر و همچنین در گذشته، چندین پژوهشگر اوپنایآی و شرکتهای دیگر نیز با اشاره به نگرانیهای مشابه از سمتهای خود کنارهگیری کردهاند. آنتروپیک یکی از بزرگترین پلتفرمهای هوش مصنوعی را تا حدی با این ادعا ایجاد کرده است که توسعه مسئولانه هوش مصنوعی را در اولویت قرار میدهد و سرمایهگذاری سنگینی در این حوزه انجام داده است. رهبران این صنعت هشدار دادهاند که حملات سایبری اخیر میتواند نشانهای از آنچه در آینده رخ خواهد داد باشد. اوپنایآی هفته گذشته به خبرنگاران گفت جدیدترین مدل این شرکت مصداق هوش مصنوعی عمومی است و جهشی بزرگ در قابلیتها محسوب میشود. سم آلتمن، مدیرعامل اوپنایآی، هفته گذشته در نشستی در کارولینای شمالی به مقامهای گروه ۲۰ گفت: «فکر میکنم اگر مردم با فوریت بسیار زیادی اقدام نکنند، در حوزه امنیت سایبری اتفاقات بسیار بدی رخ خواهد داد.» یاکوب پاچوکی، دانشمند ارشد اوپنایآی، نیز در یادداشتی که روز یکشنبه در وبلاگ خود منتشر کرد و در آن خواستار کاهش هماهنگ سرعت توسعه در صنعت و مداخله دولت شد، نوشت:«اکنون زمانی است که احتیاط فوقالعادهای را میطلبد. من نگرانم که هیچکس برای پیامدهای ادامه افزایش سریع هوش ماشینی آماده نباشد.» کاکسون، پاچوکی و آمودی به بیش از هزار پژوهشگر هوش مصنوعی در سراسر این صنعت پیوستهاند که اخیرا بیانیهای را امضا کردند و در آن خواستار هماهنگی جهانی دولتها برای ایجاد سازوکاری شدهاند که اگر برای کنترل مدلهای قادر به بهبود دادن خودشان به یک «پدال ترمز» نیاز باشد، بتوان سرعت توسعه هوش مصنوعی را کاهش داد. در سطح فدرال آمریکا هیچ مقرراتی برای هوش مصنوعی وجود ندارد و دولت ترامپ رویکردی با حداقل مداخله را در اولویت قرار داده است تا منافع اقتصادی هوش مصنوعی را به حداکثر برساند؛ فضایی که منتقدان میگویند ممکن است به حملات سایبری گسترده یا آسیبهای دیگر منجر شود. سناتور برنی سندرز و گرگ کاسار، نماینده دموکرات تگزاس، دو تن از معدود قانونگذارانی هستند که پیشنهاد ایجاد محدودیتهای حفاظتی برای هوش مصنوعی را مطرح کردهاند. آنها هفته گذشته طرحی قانونی ارائه کردند که هدف آن ممنوعیت دائمی ابرهوش مصنوعی و توقف توسعه مدلها تا زمانی است که یک نهاد تنظیمگر صنعت، مقررات جدیدی وضع کند. خروج کاکسون از صنعت هوش مصنوعی در شرایطی صورت میگیرد که آنتروپیک خود را برای عرضه اولیه سهام آماده میکند؛ عرضهای که انتظار میرود یکی از بزرگترین عرضههای اولیه سهام در تاریخ باشد. این شرکت بهدنبال دستیابی به ارزشگذاری دو تریلیون دلاری است و در جریان جذب سرمایهگذاران، بر توسعه مسئولانه این فناوری تاکید کرده است. آمودی و دیگر مدیران شرکت گاه بر سر شیوههایی که بهگفته آنها ایمنی هوش مصنوعی را در اولویت قرار نمیدهند، با دولت ترامپ و دیگر مدیران صنعت وارد تقابل شدهاند. کاکسون گفت آنتروپیک از یک کانال داخلی در اسلک (Slack) کارکنان برای بحث درباره قابلیتهای قدرتمند مدلهای خود استفاده میکند. او این موضوع را بازتابی از میزان نفوذ شرکتهای هوش مصنوعی بر مسیر توسعه این صنعت توصیف کرد. کاکسون گفت: «این واقعا یک جورهایی دیوانهکننده است که چنین چیزی باید روی مکبوکهای چند مهندس ساکن سانفرانسیسکو اتفاق بیفتد، نه در یک پناهگاه در دل بیابان، مثل جایی که پروژه منهتن را انجام میدادند.»",
+        "impact": "افزایش فشارهای نظارتی و بدبینی عمومی نسبت به رقابت بی‌رویه غول‌های AI در توسعه مدل‌های خودمختار.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609093167",
+        "clean_url": "https://www.iranintl.com/202609093167",
+        "image": "http://www.bing.com/th?id=ONUT.Pe9rjIYiIg_tPnIukTNmkg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Pe9rjIYiIg_tPnIukTNmkg&pid=News",
+            "https://i.iranintl.com/images/rdk9umy0/production/48fed2f41259c315b9a6c376e8f9bb3e780e5d76-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+            "https://i.iranintl.com/images/rdk9umy0/production/48fed2f41259c315b9a6c376e8f9bb3e780e5d76-800x533.jpg?w=576&h=384&q=58&fit=max&auto=format",
+            "https://i.iranintl.com/images/rdk9umy0/production/280531909a227c54219e819f458623f465c2e709-1152x646.png?rect=2,0,1148,646&w=480&h=270&q=58&fit=max&auto=format"
+        ],
+        "timestamp": 1788886860.0
+    },
+    {
         "id": "e57329c665",
         "title_fa": "چالش هوش مصنوعی در تشخیص نیاز واقعی کسب‌وکارها به بازاریابی",
         "title_en": "AI Can Launch the Campaign. Does It Know If Your Restaurant Needs One?",
@@ -297,6 +411,32 @@
             "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
         ],
         "timestamp": 1788876240.0
+    },
+    {
+        "id": "2b7f06e431",
+        "title_fa": "جذب سرمایه ۲۰ میلیون دلاری CloudNC برای هوشمندسازی تراشکاری صنعتی",
+        "title_en": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "summary": [
+            "استارتاپ بریتانیایی CloudNC با جذب ۲۰ میلیون دلار سرمایه جدید در دور مکمل B، مجموع سرمایه‌های دریافت‌کننده خود را به ۱۲۸ میلیون دلار رساند.",
+            "افزونه CAM Assist این شرکت به نرم‌افزارهای استاندارد صنعت مثل اتودسک متصل می‌شود تا فرایند پیچیده برنامه‌نویسی دستگاه‌های CNC را خودکار کند.",
+            "تمرکز اصلی این ابزار حذف نیروهای متخصص نیست، بلکه دستیاری هوشمند برای افزایش سرعت و حذف کارهای تکراری برنامه‌نویسان قطعات صنعتی است."
+        ],
+        "full_text": "UK-based manufacturing software startup CloudNC announced a $20 million B extension round on Wednesday, bringing its lifetime total raised amount to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch. Saville launched CloudNC in 2015 with Chris Emery, now the company’s chief science officer, and offers AI-powered CAM Assist software that automates parts of Computer Numerical Control (CNC) machining. CNC is the process of using computer-controlled machines to cut or shape materials precisely into the parts that are then used in automotive, defense, or consumer hardware industries. Before a part can be cut, Saville said, a machinist or a computer-aided manufacturing programmer has to decide issues like how a part should be held or what tools should be used, Saville said. They typically use powerful CAM software to help with this ideation phase, and although some of these tools can help users create part features or known part patterns, that’s different from looking at the part and generating an execution strategy an expert would actually want to use. “Traditional CAM systems are powerful, but in most workflows, they are still tools that allow programmers to manually specify how a part should be machined,” Saville said. This is where his CAM Assist comes in, a software that plugs into traditional CAM systems, like Autodesk Fusion or Mastercam, to help machinists and programmers make more efficient strategic manufacturing decisions. “It selects suitable tools, approach directions, and cutting feeds and speeds, and then drafts the code required to tell the CNC machine what to do,” Saville said. From there, the user reviews, edits, and approves the results. Saville said the goal was to help skilled workers be more “efficient and productive,” rather than removing expert judgment from the process. If “traditional CAM is a powerful toolkit,” he said, then “CAM Assist is more like an expert assistant sitting alongside the programmer, automating much of the first-pass thinking and repetitive setup so the human can review, improve, and approve the approach.” Saville said more than 1,000 machine shops worldwide use CAM Assist, and 80% of the company’s customer base, which includes both manufacturers and companies, is in the U.S. With a team of 80 employees, the company’s biggest goal is scaling adoption. “This makes this the right time to raise additional capital,” he said. Investors in the round include Nimble Ventures, which led the round, Calculus Venture Capital, Entrepreneur First, and LM Capital, Lockheed Martin’s venture arm. “The funding allows us to support wider take-up of CAM Assist, strengthen our go-to-market operations, expand in existing and new markets, and develop new products such as Quote Agent.” The premise behind Quote Agent, which targets manufacturers, is similar to CAM Assist. It helps shops assess the estimated cost and risk of a new project so they can move faster to accept — or reject — new work. He tied this somewhat back to geopolitics, pointing to, for example, how machine shops in the U.S. are looking to reshore and how, at the same time, there is a shortage of skilled workers in manufacturing. “Machine shops need to quote faster, program faster, and deliver more with the people and machines they already have,” he said, adding that Quote Agent is set to launch next month. “There are more ways to machine a typical CNC part than there are atoms in the universe,” he continued. “We have spent years attacking that specific problem, with our own factory, our own software team, and a lot of hard lessons from real machining. It’s been a long process to get to where we are today.”",
+        "impact": "کاهش چشمگیر زمان برنامه‌نویسی قطعات صنعتی و تسریع فرایند تولید در صنایع خودروسازی و دفاعی.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "clean_url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks",
+        "image": "http://www.bing.com/th?id=ONUT.lUZUtnujc9yLAzet4FrPmA&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.lUZUtnujc9yLAzet4FrPmA&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/09/CloudNC2.jpg?w=680"
+        ],
+        "timestamp": 1788876060.0
     },
     {
         "id": "0640645159",
@@ -6854,145 +6994,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788110855.0
-    },
-    {
-        "id": "9870e58a07",
-        "title_fa": "آشفتگی در تنظیم‌گری هوش مصنوعی؛ تشبیه شرایط به روزهای اول کرونا",
-        "title_en": "‘It feels like early COVID’: The messy scramble to regulate AI",
-        "summary": [
-            "تلاش‌های پراکنده دولت‌ها برای نظارت بر هوش مصنوعی دچار شتاب‌زدگی و بی‌نظمی شده است.",
-            "کارشناسان وضعیت فعلی رگولاتوری را به سردرگمی نهادها در نخستین ماه‌های شیوع کووید-۱۹ تشبیه می‌کنند."
-        ],
-        "full_text": "‘It feels like early COVID’: The messy scramble to regulate AI  ABC17NEWS",
-        "impact": "نبود چارچوب حقوقی مشخص، کار را برای فعالیت پایدار استارتاپ‌ها و توسعه‌دهندگان سخت‌تر می‌کند.",
-        "tag": "قوانین",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "ABC17NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkZZUlI1YVNVbmN2UGRqNUhZYmEzSk56RE9oQXg5RV9sS0FmZGROMWVSbXZPOW9tckN3MkdEcDdMTllPVjNfbWJVU2h4OFRfZUJXMjRzNDBzd2tHREtITHYzVGR1bXNHS05WTFFQNjhNTlVLZ1E0UW1kN1dPUzAzUWNMa2JWRTRlVzY5RG5YTTFXa1B4SWxJdG9xczI4a0NGZ1dLQWh1MngxTnZvVWdYNGFIbVlnWWkyZlptdEF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkZZUlI1YVNVbmN2UGRqNUhZYmEzSk56RE9oQXg5RV9sS0FmZGROMWVSbXZPOW9tckN3MkdEcDdMTllPVjNfbWJVU2h4OFRfZUJXMjRzNDBzd2tHREtITHYzVGR1bXNHS05WTFFQNjhNTlVLZ1E0UW1kN1dPUzAzUWNMa2JWRTRlVzY5RG5YTTFXa1B4SWxJdG9xczI4a0NGZ1dLQWh1MngxTnZvVWdYNGFIbVlnWWkyZlptdEF3",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788108064.0
-    },
-    {
-        "id": "97e05ece43",
-        "title_fa": "تأسیس مدرسه خصوصی مبتنی بر هوش مصنوعی توسط دانشگاه درو",
-        "title_en": "Drew University To Launch Ai Powered Private School For Grades 1 8",
-        "summary": [
-            "دانشگاه درو قصد دارد یک مدرسه خصوصی برای مقاطع اول تا هشتم با محوریت هوش مصنوعی راه‌اندازی کند.",
-            "هدف این طرح، شخصی‌سازی آموزش و آشنایی دانش‌آموزان با ابزارهای هوشمند از سنین پایین است."
-        ],
-        "full_text": "Drew University To Launch Ai Powered Private School For Grades 1 8  News12 | New Jersey",
-        "impact": "ورود هوش مصنوعی به آموزش پایه می‌تواند الگوهای سنتی تدریس را به‌طور جدی تحول دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "News12 | New Jersey",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3NoNEd3bm9zTksxSkY1MHRMS3JXbnNUMFpDVm5XdVlfR0dVVEdVcnd2enkyN0JjbWkwc0lpT05YS0laeWI2RmhDbmk3X1VGWHZ1d3FxUzRBei14ejV4Z3JjRi15NmdKWDFmanViaVZsbmNyVVBqY3VnV3NGYllGUHJXeFpETzkzNE1ud1BaWjRfQm9IY2xkbHRicw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3NoNEd3bm9zTksxSkY1MHRMS3JXbnNUMFpDVm5XdVlfR0dVVEdVcnd2enkyN0JjbWkwc0lpT05YS0laeWI2RmhDbmk3X1VGWHZ1d3FxUzRBei14ejV4Z3JjRi15NmdKWDFmanViaVZsbmNyVVBqY3VnV3NGYllGUHJXeFpETzkzNE1ud1BaWjRfQm9IY2xkbHRicw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788102504.0
-    },
-    {
-        "id": "908e221e51",
-        "title_fa": "جهش ایکس‌پنگ در توسعه «هوش مصنوعی فیزیکی» و روباتیک",
-        "title_en": "XPENG Drives Physical AI To Next Level",
-        "summary": [
-            "شرکت ایکس‌پنگ از پیشرفت‌های جدید خود در حوزه هوش مصنوعی فیزیکی برای استفاده در خودروهای خودران و سیستم‌های سخت‌افزاری خبر داد.",
-            "این خودروساز چینی می‌کوشد فاصله میان مدل‌های نرم‌افزاری و تصمیم‌گیری در دنیای واقعی را به حداقل برساند."
-        ],
-        "full_text": "XPENG Drives Physical AI To Next Level  CleanTechnica",
-        "impact": "رقابت در بازار خودروهای خودران و روبات‌های هوشمند با الگوریتم‌های جدید ایکس‌پنگ جدی‌تر می‌شود.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "CleanTechnica",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFo2Qlc5clJSemhRb2l1a2ZiVFI0Q1pFQ1NzOFFNQlJxZ1R2Qk5nYXB1ejMzZFhNQ09GQ2dTRjB1OGtQbVVOMDV1Q0xHWTJFelZ5VW1fMVVTd0pZNTBXV0FPVjcydEVBaU45ZlRFcWNxbDdwd2pDaFZiU0lCWlpCQmVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFo2Qlc5clJSemhRb2l1a2ZiVFI0Q1pFQ1NzOFFNQlJxZ1R2Qk5nYXB1ejMzZFhNQ09GQ2dTRjB1OGtQbVVOMDV1Q0xHWTJFelZ5VW1fMVVTd0pZNTBXV0FPVjcydEVBaU45ZlRFcWNxbDdwd2pDaFZiU0lCWlpCQmVB",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788101862.0
-    },
-    {
-        "id": "282573b4ea",
-        "title_fa": "کشف گورستان باستانی کوسه‌ها در دل بیابان‌های مصر",
-        "title_en": "دانشمندان بقایای هفت گونه کوسه باستانی را در بیابان مصر کشف کردند",
-        "summary": [
-            "پژوهشگران با کشف دندان‌های فسیل‌شده ۷ گونه کوسه باستانی، به نشانه‌هایی از اکوسیستم پررونق دریایی در صحرای غربی مصر دست یافتند.",
-            "یکی از گونه‌های کشف‌شده از خویشاوندان کهن «دیوکوسه» است که برای نخستین‌بار در قاره آفریقا ثبت می‌شود.",
-            "این یافته‌ها ثابت می‌کند منطقه خشک ابوطرطور در دوره کرتاسه، دریایی کم‌عمق، گرم و سرشار از حیات بوده است."
-        ],
-        "full_text": "دانشمندان موفق شدهاند در دل بیابانهای مصر، بقایای فسیلشدهای از یک قبرستان باستانی متعلق به کوسهها را کشف کنند. بین سالهای ۲۰۲۰ تا ۲۰۲۲، دندانهای فسیلشده متعلق به هفت گونه مختلف از کوسهها با قدمت چند میلیون سال در فلات ابوطرطور واقع در صحرای غربی مصر پیدا شده بود که اطلاعات مفیدی درباره گذشته پرآب این منطقه کویری به همراه دارند. «طارق یاسین»، دیرینهشناس دانشگاه قاهره در مصر و نویسنده ارشد این پژوهش، توضیح داده که یافتههای جدید نشان میدهد این منطقه در گذشته دریایی مملو از حیات و زیستبوم غنی دریایی بوده که از شرایط آبوهوایی مساعد، نور کافی خورشید و میزان اکسیژن مناسب برای تکثیر و رونق آبزیان بهره میبرده است. در طول دوران کرتاسه که بین ۱۴۵ تا ۶۶ میلیون سال قبل جریان داشت، دمای عمومی کره زمین بالاتر از زمان حاضر بوده و سطح آب دریاها تا ۱۷۰ متر از ارتفاع کنونی فراتر میرفت. این پدیده سبب شکلگیری دریاهای کمعمق در مناطقی شد که امروزه به بیابانهای کاملاً خشک تبدیل شدهاند. فلات ابوطرطور در امتداد Duwi Formation واقع شده است؛ یک ساختار صخرهای متعلق به دوره کرتاسه پسین که سراسر صحراهای شرقی و غربی مصر را در بر میگیرد. پیشازاین نیز پژوهشگران در این لایههای زمینشناسی فسیلهای متعددی از ماهیها، لاکپشتهای دریایی و سایر خزندگان دریایی پیدا کرده بودند که نشاندهنده جریان داشتن یک اکوسیستم دریایی پررونق در گذشته است. علاوهبراین، صخرههای این منطقه سرشار از سنگ فسفریت هستند؛ نوعی سنگ رسوبی متراکم که از بقایا، استخوانها و پوستههای سخت جانوران دریایی تشکیل میشود. به گفته یاسین، تیم تحقیقاتی پیش از آغاز مأموریت میدانست که بسترهای غنی از فسفات توانایی بالایی در حفظ فسیل مهرهداران دارند، اما پیدا کردن فسیل کوسهها شگفتی بسیار هیجانانگیزی برای آنها بود. پیشتر دندانهای فسیلشده متعلق به دو گونه از کوسههای خالخالی در این محدوده پیدا شده بود، اما کاوشهای تکمیلی بین سالهای ۲۰۲۰ تا ۲۰۲۲ به کشف ۱۴ دندان فسیلشده دیگر از دستکم پنج گونه اضافی منجر شد. در میان این یافتهها، فسیل گونهای موسوم به Scapanorhynchus raphiodon که از خویشاوندان کهن دیوکوسه (Mitsukurina owstoni) امروزی محسوب میشود، برای نخستین بار در قاره آفریقا به ثبت رسیده است. همچنین دو گونه دیگر با نامهای علمی Serratolamna serrata و Squalicorax bassanii برای اولین بار در کشور مصر مشاهده شدهاند. یافتن دندانهای متعلق به هفت گونه مختلف کوسه در یک نقطه از فلات، از وجود یک شبکه غذایی غنی و پرتراکم با حضور فراوان ماهیان کوچکتر برای تغذیه این شکارچیان رأس هرم خبر میدهد. البته این کشف به معنی همزیستی همزمان تمام این کوسهها در یک دوره مشخص نیست و احتمال دارد بقایای آنها به مرور زمان در یک لایه رسوبی روی هم انباشته شده باشند. تیم تحقیقاتی قصد دارد پژوهشهای خود را در فلات ابوطرطور و نواحی اطراف آن برای دستیابی به فسیلهای بیشتر ادامه دهد. نتایج این اکتشاف در ژورنال علمی Cretaceous Research منتشر شده است.",
-        "impact": "بازنویسی تاریخچه زمین‌شناسی و تغییرات اقلیمی شمال آفریقا در دوره کرتاسه.",
-        "tag": "علم و فناوری",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/interdisciplinary/ancient-shark-graveyard-discovered-egypt-desert",
-        "clean_url": "https://digiato.com/interdisciplinary/ancient-shark-graveyard-discovered-egypt-desert",
-        "image": "http://www.bing.com/th?id=ONUT.fpz7k9dRZF3A3POBxdWIvg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.fpz7k9dRZF3A3POBxdWIvg&pid=News",
-            "https://static.digiato.com/digiato/2026/08/sharks-graveyard.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/sharks-graveyard-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/08/shark-fossils1-1024x576.jpg"
-        ],
-        "timestamp": 1788098400.0
-    },
-    {
-        "id": "9f58c7b940",
-        "title_fa": "راهنمای خرید خودرو صفر و کم‌کارکرد در بازار ایران",
-        "title_en": "راهنمای خرید خودرو از ۳۰۰ میلیون تا ۱۰ میلیارد [شهریور ۱۴۰۵]",
-        "summary": [
-            "با افزایش قیمت‌ها، امکان خرید خودروی صفرکیلومتر با بودجه زیر ۶۰۰ میلیون تومان عملاً در بازار ایران از بین رفته است.",
-            "در بازه ۶۰۰ میلیون تا ۱ میلیارد تومان، گزینه‌هایی مانند سایپا ۱۵۱ صفر یا مدل‌های کم‌کارکرد کوییک و ساینا انتخاب‌های اصلی هستند.",
-            "برای خریداران واقعی، خودروهای کم‌کارکرد سال‌های اخیر به‌دلیل افت قیمت اولیه ارزش خرید بالاتری دارند."
-        ],
-        "full_text": "بازار خودرو ایران روزهایی پر التهاب را در سال ۱۴۰۴ سپری میکند. به دلایل مختلف، روند عرضه خودروهای صفرکیلومتر با مشکل مواجه شده است و قیمتها نیز درحال پرواز هستند. در چنین شرایطی، نیاز به راهنمای خرید خودرو صفرکیلومتر بیش از هر زمان دیگری احساس میشود. در این مطلب از دیجیاتو، به بررسی خودروهای صفرکیلومتر در هر بازه قیمتی خواهیم پرداخت. با ما در ادامه مطلب همراه باشید. فهرست مطالب بازه قیمتی نخست راهنمای خرید خودرو، ۳۰۰ تا ۶۰۰ میلیون تومان در بازه قیمتی نخست مقاله ما، مدتها است که خودرو صفرکیلومتری وجود ندارد. ارزانترین خودرو صفرکیلومتر تولید داخل که وانت پراید یا همان سایپا ۱۵۱ بود، مدتها است که در این بازه حضور ندارد. بنابراین در بازه قیمتی کمتر از ۶۰۰ میلیون تومان، دیگر شما قادر به خرید خودرو صفرکیلومتر نیستید. حتی در زمان نگارش اولیه این مقاله یعنی بهمن ۱۴۰۴ نیز خودرو صفرکیلومتری در این بازه قیمتی حضور نداشت. بااینحال شما همچنان میتوانید برخی خودروها را با ارائه بودجهای در این حد خریداری کنید. برای خرید خودرو صفرکیلومتر با بودجه کمتر از ۶۰۰ میلیون تومان، دو راه پیشرو دارید. نخست میتوانید این مبلغ را صرف خرید حواله خودرو کنید. با توجه به افت قیمتها در بازار خودرو، شما میتوانید با پرداخت مبلغی کمتر از ۲۰۰ میلیون تومان، حواله خودروهای داخلی را خریداری کنید. البته خریدوفروش حواله از سوی خودروسازان ممنوع شده است و این کار به دلیل تبعات قانونی آن، توصیه نمیشود. راه دوم برای خرید خودرو صفرکیلومتر در این بازه قیمتی، خرید اقساطی خودرو از مراکز فروش یا نمایشگاههایی است که خودروها را به صورت اقساطی و چکی میفروشند. شما میتوانید با ارائه پیشپرداخت ۵۰۰ تا ۶۰۰ میلیون تومانی، خودروهای اقتصادی سایپا همچون کوییک و ساینا را خریداری کنید. به تازگی بهمن لیزینگ نیز شرایط فروش این خودروها را در سایت خود منتشر میکند؛ شاید بررسی آنها ضرری نداشته باشد. بازه قیمتی دوم، ۶۰۰ میلیون تا یک میلیارد تومان خوشبختانه در این بازه قیمتی همچنان شانس خرید خودروهای صفرکیلومتر با پرداخت کامل بهای آن وجود دارد. وانت پراید یا همان سایپا ۱۵۱، نخستین خودرو صفرکیلومتری است که در این بازه قیمتی حضور دارد. اگر کمی از سختگیری خود بکاهید، گزینههای جذاب دیگری نیز در این بازه وجود دارد. شما میتوانید با بودجه تقریبی یک میلیارد تومان، نمونههای کمکارکرد از خودروهای کوییک، ساینا و اطلس را برای خرید پیدا کنید. این نمونهها متعلق به مدلهای ۱۴۰۳ یا ۱۴۰۴ هستند. خودروهای یاد شده به دلیل کارکرد اندک خود و افت قیمتی که تجربه کردهاند، گزینه خرید مناسبی برای مصرفکنندگان واقعی محسوب میشوند. بازه قیمتی سوم راهنمای خرید خودرو، یک تا دو میلیارد تومان سومین بازه قیمتی این مقاله، یکی از پرتراکمترین بخشها برای علاقمندان به خودروهای داخلی است. اکثر محصولات ایرانخودرو و سایپا در این بازه قیمتی حضور دارند و شما با توجه به میزان بودجه خود، قادر به خریداری یکی از آنها خواهید بود. البته یک گزینه اقتصادی چینی (مونتاژی) نیز در این بازه حضور دارد. بازه قیمتی یک الی دو میلیارد تومان با خودروهای اقتصادی سایپا همچون اطلس، کوییک، ساینا و سهند آغاز میشود. این خودروها با قیمتی بین یک میلیارد و ۲۰۰ الی یک میلیارد و ۴۰۰ میلیون تومان قابل خریداری هستند. اگر کمی بودجه بیشتری داشته باشید، میتوانید محصولات ایرانخودرو را خریداری کنید. رانا پلاس، سورن پلاس و تیپهای دندهای پژو ۲۰۷ در بازه قیمتی یک میلیارد و ۵۰۰ الی یک میلیارد و ۹۰۰ میلیون تومان قرار گرفتهاند. در بالاترین بخشهای این بازه، سدانهای ملی و پرچمدار ایرانخودرو و سایپا قرار گرفتهاند. خودروهای تارا دندهای و شاهین دندهای در بازه قیمتی یک میلیارد و ۸۰۰ الی دو میلیارد تومان قرار دارند. اگر در بازه قیمتی کمتر از دو میلیارد تومان به دنبال خودروهای اتوماتیک یا چینیها هستید، گزینهای جز جک J4 پیشروی شما قرار ندارد. با مبلغ کمتر از دو میلیارد تومان، میتوانید نمونههای کمکار جک J4 متعلق به سالهای ۱۴۰۳ یا ۱۴۰۴ را خریداری کنید. سایر برادران چینی این خودرو، به بازههای بالاتر پیوستهاند. برای علاقمندان به خودروهای کاروتجاری که به دنبال خودرویی قویتر از وانت پراید هستند، وانت آریسان ۲ در این بازه حضور دارد. ایرانخودرو به تازگی این وانت را با سیستم مالتیمدیا نیز روانه بازار کرده است تا خرید آن برای مشتریان جذابیت بیشتری داشته باشد. قیمت تقریبی وانت آریسان ۲ هماکنون حدود یک میلیارد و ۶۰۰ میلیون تومان است. گزینه جذابتر برای علاقمندان به وانت در این بازه قیمتی، وانت زامیاد اکستند یا همان نیسان EX است. این خودرو به دلیل قابلیت در حمل بارهای سنگین نزد رانندگان شهرت دارد و قطعات یدکی آن نیز به وفور در بازار موجود است. هر دو نسخه بنزینی و دوگانهسوز نیسان اکستند اکنون در بازه قیمتی کمتر از دو میلیارد تومان قرار گرفتهاند. بازه قیمتی چهارم، دو تا چهار میلیارد تومان در چهارمین بازه قیمتی یعنی دو الی چهار میلیارد تومان، تنوع خودروهای دندهای کاهش مییابد و جای خود را به خودروهای اتوماتیک میدهد. در ابتدای این بازه قیمتی، خودروهای اتوماتیک داخلی را خواهید دید. تارا اتوماتیک، تارا توربوشارژر اتوماتیک، شاهین پلاس اتوماتیک و دنا پلاس اتوماتیک در بخشهای نخست این بازه قیمتی قرار دارند. البته میتوانید به جای خودروهای اتوماتیک داخلی، جک J4 ایرانیزه یعنی کیامسی ایگل را خریداری کنید. با حرکت به سمت بخشهای میانی این بازه، کراساوورها و سدانهای مونتاژی پیشروی شما قرار میگیرند. آریزو ۵ افال، لاماری اکو، تیسان S05، کیامسی SR3 و بک X3 پرو از جمله گزینههای مطرح تا محدوده قیمتی ۴ میلیارد تومان هستند. کراساوور ملی ایرانخودرو یعنی ریرا نیز در بازه قیمتی سه میلیارد و ۵۰۰ میلیون تومان قرار دارد. یکی از خودروهای مطرح این بازه را میتوان ریسپکت پرایم عنوان کرد. این سدان مونتاژی که قوای فنی مشترکی با آریزو ۵ و آریزو ۶ دارد، توانسته در جلب نظر مشتریان ایرانی موفقتر از محصولات مدیرانخودرو عمل کند. با بودجهای بین سه میلیارد و ۵۰۰ میلیون تومان الی ۴ میلیارد تومان، میتوانید نسخههای کمکارکرد یا صفرکیلومتر از ریسپکت ۱، ریسپکت ۲ را ریسپکت فیسلیفت را خریداری کنید. بازه قیمتی پنجم راهنمای خرید خودرو، ۴ تا ۷ میلیارد تومان بسیاری از خودروهایی که در سال ۱۴۰۴ کمتر از ۴ میلیارد تومان قیمت داشتند، اکنون به دلیل تورم قیمتها به بازه پنجم حرکت کردهاند. از جمله این خودروها میتوان به KMC X5 و KMC J7 اشاره کرد، خودروهایی پرطرفدار که اکنون با قیمتی بالاتر از قبل به دست مشتریان میرسند. یکی از خودروهای محبوب این بازه قیمتی، کراساوور پرفروش ماموت خودرو یعنی لوکانو L7 است. این کراساوور که به دلیل شباهت به محصولات لندروور معروف شده است، با قیمتی در حدود شش میلیارد و ۵۰۰ میلیون تومان به فروش میرسد. البته شما میتوانید به جای این خودرو، رقبای آن یعنی تیگو ۷ پرومکس یا فونیکس FX را خریداری کنید. بااینحال تنوع خودروهای وارداتی در این بازه قیمتی چشمگیر است و مشتریان میتوانند به جای خودروهای مونتاژی، اتومبیلهای واردا",
-        "impact": "شفاف‌سازی وضعیت قیمت‌ها و ارائه جایگزین‌های منطقی برای خریداران در بازار پرنوسان خودرو.",
-        "tag": "خودرو",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/price-terms-of-sale-car/car-buying-guide-from-300-million-to-10-billion-1405",
-        "clean_url": "https://digiato.com/price-terms-of-sale-car/car-buying-guide-from-300-million-to-10-billion-1405",
-        "image": "http://www.bing.com/th?id=ONUT.wxM8OmeJhzo1qm6V4uBRqg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.wxM8OmeJhzo1qm6V4uBRqg&pid=News",
-            "https://static.digiato.com/digiato/2026/02/car6.jpg",
-            "https://static.digiato.com/digiato/2026/02/car6.jpg.webp",
-            "https://static.digiato.com/digiato/2026/02/saipa_151_4-1024x682.jpeg"
-        ],
-        "timestamp": 1788097500.0
-    },
-    {
-        "id": "4f69522b8f",
-        "title_fa": "ظهور ابزارهای پویا و جایگزین هوش مصنوعی برای فتوشاپ",
-        "title_en": "New AI Alternatives and Dynamic Tools Transform Photoshop Editing Experience",
-        "summary": [
-            "جایگزین‌های جدید مبتنی بر هوش مصنوعی فرآیند ویرایش تصویر را سریع‌تر و هوشمندتر از همیشه کرده‌اند.",
-            "این ابزارها امکاناتی فراتر از ادیت‌های سنتی را با چند کلیک ساده در اختیار طراحان قرار می‌دهند."
-        ],
-        "full_text": "New AI Alternatives and Dynamic Tools Transform Photoshop Editing Experience  freeyork",
-        "impact": "افزایش تنوع ابزارهای ادیت هوشمند انحصار فتوشاپ را به چالش کشیده و سرعت خلق آثار گرافیکی را بالا می‌برد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "freeyork",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43bGU4b3I5XzlDUUNkb19LN29RZWtiOUVkRmFKYmh5TTktZXlQb0tsenA0aHN6VThmRFBpUUVXYkFkSjVQT2JSeG85RGVNNWZhSUpkaThrU1c0TzdZQVcxd2EySTJ3YzM2ZFFTQmI0Y1Q2M29W?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43bGU4b3I5XzlDUUNkb19LN29RZWtiOUVkRmFKYmh5TTktZXlQb0tsenA0aHN6VThmRFBpUUVXYkFkSjVQT2JSeG85RGVNNWZhSUpkaThrU1c0TzdZQVcxd2EySTJ3YzM2ZFFTQmI0Y1Q2M29W",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788095028.0
     }
 ]
