@@ -1,5 +1,93 @@
 [
     {
+        "id": "29f8858a4f",
+        "title_fa": "تمرکز استراتژیک میسترال روی مدل‌های وزن‌باز و هوش مصنوعی مستقل",
+        "title_en": "Making sovereign, open-weight AI the technology frontier",
+        "summary": [
+            "میسترال فرانسوی با تمرکز بر مدل‌های وزن‌باز (Open-weight)، جریان جدیدی برای مقابله با انحصار شرکت‌های آمریکایی راه انداخته است.",
+            "توسعه «هوش مصنوعی حاکمیتی» به کشورها و شرکت‌ها اجازه می‌دهد بدون خروج داده‌ها، مدل‌ها را روی زیرساخت بومی اجرا کنند."
+        ],
+        "full_text": "Making sovereign, open-weight AI the technology frontier  mistral.ai",
+        "impact": "تغییر موازنه قدرت به نفع توسعه‌دهندگان مستقل و کاهش وابستگی اروپا به غول‌های فناوری آمریکایی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "mistral.ai",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788947408.0
+    },
+    {
+        "id": "b19546124d",
+        "title_fa": "انتشار گزارش «پارادوکس حاکمیت AI» برای سنجش قدرت رقابت کشورها",
+        "title_en": "EAIGG and Draup Launch \"The AI Sovereignty Paradox,\" Introducing a New Framework for Understanding National AI Competitiveness",
+        "summary": [
+            "موسسات EAIGG و Draup چارچوب تحلیلی جدیدی برای ارزیابی توان ملی کشورها در حوزه هوش مصنوعی معرفی کردند.",
+            "این گزارش روی چالش میان حفظ امنیت داده‌های ملی و نیاز مبرم به استفاده از مدل‌های جهانی دست می‌گذارد."
+        ],
+        "full_text": "EAIGG and Draup Launch \"The AI Sovereignty Paradox,\" Introducing a New Framework for Understanding National AI Competitiveness  PR Newswire",
+        "impact": "ارائه نقشه راه جدید به دولت‌ها برای تصمیم‌گیری در سرمایه‌گذاری روی زیرساخت‌های بومی فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNVJLMHBwMkVEM1FrbHZlSDRZYnpXUXY1VWMzM001UVcxR1MyQ2JqTDJFVm44SmtRSFZGR3NJRzVZZ0NkTHU4WUd1cXRSUmg2Tm1UTXdxbllCVU5mMDRJQnhZaTAySG03Rm02MjhBc29lSzctLTFJRDVkMTFtNkp5dHM1cHgxR0xrblhZSlBsSUZHb3VuMmxyaWtCMVQ3TGd4SWd6LTZkdFM4c1kzOUNXeWVHWkEtU0NFU0RheDdOaVNFd2NYczBtUzV0UXlPWldRMFlLU1RuMEhpQTR6RlZMaTJXV3lhNVhPR2NRVks0bnd6NW5yUzMwZTk1d3NnbXBpaktjbDZveFpkOEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNVJLMHBwMkVEM1FrbHZlSDRZYnpXUXY1VWMzM001UVcxR1MyQ2JqTDJFVm44SmtRSFZGR3NJRzVZZ0NkTHU4WUd1cXRSUmg2Tm1UTXdxbllCVU5mMDRJQnhZaTAySG03Rm02MjhBc29lSzctLTFJRDVkMTFtNkp5dHM1cHgxR0xrblhZSlBsSUZHb3VuMmxyaWtCMVQ3TGd4SWd6LTZkdFM4c1kzOUNXeWVHWkEtU0NFU0RheDdOaVNFd2NYczBtUzV0UXlPWldRMFlLU1RuMEhpQTR6RlZMaTJXV3lhNVhPR2NRVks0bnd6NW5yUzMwZTk1d3NnbXBpaktjbDZveFpkOEk",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788944400.0
+    },
+    {
+        "id": "bd2c471ea6",
+        "title_fa": "ائتلاف فراحزبی آمریکا برای الزام کاخ سفید به انتشار قوانین AI",
+        "title_en": "Exclusive / Left-right coalition seeks release of White House AI framework",
+        "summary": [
+            "گروهی متشکل از نمایندگان هر دو حزب دموکرات و جمهوری‌خواه فشار بر کاخ سفید را برای شفاف‌سازی چارچوب نظارتی هوش مصنوعی افزایش داده‌اند.",
+            "این اقدام نشان‌دهنده نگرانی مشترک سیاست‌مداران از کندی تنظیم قوانین در برابر سرعت رشد ابزارهای هوشمند است."
+        ],
+        "full_text": "Exclusive / Left-right coalition seeks release of White House AI framework  Semafor",
+        "impact": "سرعت گرفتن تصویب قوانین مقرراتی می‌تواند فعالیت استارتاپ‌ها و آزمایشگاه‌های AI را در آمریکا محدودتر کند.",
+        "tag": "قوانین",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0J5OHhBUDhqQU12YTRTWkhkZHNTamFUZU9xcDBZX3BqdkFtbk9yXzB1N3RxZ1ZsSWQ4b1l6ampRbDNSMFctQjQxWm5MTlBqMjQ3ak5lVmJnWmMtNW1lMUtQejczdFg5MWg2R3BGWFNrMzB1LV9TMFJEVUhMSmtKNlNkWHFkd0VQRThnY2xkUG01dU02OC10WnU1MUdTVXBjdFYxM2J4ZVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0J5OHhBUDhqQU12YTRTWkhkZHNTamFUZU9xcDBZX3BqdkFtbk9yXzB1N3RxZ1ZsSWQ4b1l6ampRbDNSMFctQjQxWm5MTlBqMjQ3ak5lVmJnWmMtNW1lMUtQejczdFg5MWg2R3BGWFNrMzB1LV9TMFJEVUhMSmtKNlNkWHFkd0VQRThnY2xkUG01dU02OC10WnU1MUdTVXBjdFYxM2J4ZVI",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788942540.0
+    },
+    {
+        "id": "69be871025",
+        "title_fa": "رونمایی متا از Meta Muse؛ ابزار جدیدی که تحسین بزرگان تک را برانگیخت",
+        "title_en": "Meta Muse AI Launch: Shopify, Y Combinator CEOs Praise New Tool As Alexandr Wang Touts Major App Integrations",
+        "summary": [
+            "متا از ابزار جدید Meta Muse رونمایی کرد که با استقبال و تمجید مدیران ارشد شاپیفای و Y Combinator مواجه شد.",
+            "الکساندر وانگ از یکپارچه‌سازی گسترده این ابزار با اپلیکیشن‌های پرکاربرد خبر داده که نشان از کاربردی بودن آن در دنیای واقعی دارد."
+        ],
+        "full_text": "Meta Muse AI Launch: Shopify, Y Combinator CEOs Praise New Tool As Alexandr Wang Touts Major App Integrations  Yahoo Finance",
+        "impact": "تسهیل فرآیند توسعه برنامه‌های هوشمند و سخت‌تر شدن رقابت برای سایر ارائه‌دهندگان سرویس‌های ابری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2ZLVVFFY1JlVk9sWi1WNmJickpRaldzUXpvNkNiLTRLekozV2ZnckVERFYtQ3hEam9BWElpSWxsOGVObzF3NmpLZFlFd1V2MVpQbjViVlpXVXhpUFluQWhLQTNEN21WVVdITGZHQ1F0STlmZ1V2VU1GZkctVEJTUFZoZHQycU5GWVVJX3JmRl8xN2tTTUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2ZLVVFFY1JlVk9sWi1WNmJickpRaldzUXpvNkNiLTRLekozV2ZnckVERFYtQ3hEam9BWElpSWxsOGVObzF3NmpLZFlFd1V2MVpQbjViVlpXVXhpUFluQWhLQTNEN21WVVdITGZHQ1F0STlmZ1V2VU1GZkctVEJTUFZoZHQycU5GWVVJX3JmRl8xN2tTTUE",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788937791.0
+    },
+    {
         "id": "f8481f5eda",
         "title_fa": "برنامه‌ریزی متا برای عرضه عامل هوشمند Meta Muse با اشتراک دلاری",
         "title_en": "Meta Muse AI Agent Launch: $20 & $100 Tiers [2026]",
@@ -6906,93 +6994,5 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788121200.0
-    },
-    {
-        "id": "1609c50e1a",
-        "title_fa": "کامپیوتر دسکتاپ فریم‌ورک با ۱۹۲ گیگابایت رم و تراشه Ryzen AI",
-        "title_en": "Framework’s 192 GB Ryzen AI Max 400 desktop inches closer to launch",
-        "summary": [
-            "شرکت Framework در حال نزدیک شدن به زمان عرضه دسکتاپ ماژولار جدید خود مجهز به پردازنده‌های سری Ryzen AI Max 400 است.",
-            "این سیستم با پشتیبانی از ۱۹۲ گیگابایت حافظه رم، قدرتی فوق‌العاده برای پردازش‌های سنگین هوش مصنوعی محلی فراهم می‌کند."
-        ],
-        "full_text": "Framework’s 192 GB Ryzen AI Max 400 desktop inches closer to launch  Notebookcheck",
-        "impact": "جهش بزرگ در توان پردازش محلی مدل‌های هوش مصنوعی در کامپیوترهای شخصی و ماژولار.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUNlb01tSElUV3k2SVBndkxhNU5SWElaSUhwaWctZ1V3dHFvMzVrTEZlejhkdk0tTEs2bDByOEFiVk1hRm9DWGkxMkRHTWZ3Vjg1YjZRTW9lek1XcXhpajFGVXRYMFVqWmZXRll4WXA5Mmdka09nbVlSYmFLcFk4dkdGOVRSVVUyOTVDaXBVcVlKbERTeUJOTUZXZDVPekNacmlfeWdqOUkybTA1djBvSVJR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUNlb01tSElUV3k2SVBndkxhNU5SWElaSUhwaWctZ1V3dHFvMzVrTEZlejhkdk0tTEs2bDByOEFiVk1hRm9DWGkxMkRHTWZ3Vjg1YjZRTW9lek1XcXhpajFGVXRYMFVqWmZXRll4WXA5Mmdka09nbVlSYmFLcFk4dkdGOVRSVVUyOTVDaXBVcVlKbERTeUJOTUZXZDVPekNacmlfeWdqOUkybTA1djBvSVJR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788117120.0
-    },
-    {
-        "id": "497e4a1c4f",
-        "title_fa": "توسعه اکوسیستم فناوری KALZERO با ابزارهای مالی جدید",
-        "title_en": "KALZERO Expands Unified Technology Ecosystem with ZeroTrade and NetPay247",
-        "summary": [
-            "شرکت KALZERO اکوسیستم فناوری خود را با ادغام پلتفرم‌های ZeroTrade و NetPay247 گسترش داد.",
-            "این اقدام با هدف ارتقای خدمات پرداخت دیجیتال و پلتفرم‌های معاملاتی یکپارچه انجام شده است."
-        ],
-        "full_text": "KALZERO Expands Unified Technology Ecosystem with ZeroTrade and NetPay247  EIN News",
-        "impact": "تسهیل دادوستد دیجیتال و یکپارچه‌سازی خدمات پرداخت الکترونیک.",
-        "tag": "فناوری",
-        "urgency": 3,
-        "sentiment": 0.3,
-        "source": "EIN News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1Z2YWhvTnRPb2w1cjdlenpjdnRVQk4xQ2J2M3pDR01Bc0I2blRqeG5uZzNPanptX2xOMjJUN19EUkN2WWEyUWtpSmxsNUFYX1RZOTY1dGdjd1FYM2Y3MTROMWZOMUVINVlwbV9kWGx0S3h6dlh5RjJybDVNeV8ydkhwaGp6WEtiM2ZHeDNUcHVmM1N0UTlVWU9OQXVNUXQ4ZDMwaEIxRENaVlVqZk1Ed1V4Ml92R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1Z2YWhvTnRPb2w1cjdlenpjdnRVQk4xQ2J2M3pDR01Bc0I2blRqeG5uZzNPanptX2xOMjJUN19EUkN2WWEyUWtpSmxsNUFYX1RZOTY1dGdjd1FYM2Y3MTROMWZOMUVINVlwbV9kWGx0S3h6dlh5RjJybDVNeV8ydkhwaGp6WEtiM2ZHeDNUcHVmM1N0UTlVWU9OQXVNUXQ4ZDMwaEIxRENaVlVqZk1Ed1V4Ml92R3c",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788112051.0
-    },
-    {
-        "id": "49c1576300",
-        "title_fa": "راک‌استار: GTA 6 بدون پرداخت درون‌برنامه‌ای و هوش مصنوعی مولد عرضه می‌شود",
-        "title_en": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
-        "summary": [
-            "راک‌استار اعلام کرد بازی GTA 6 در زمان عرضه هیچ‌گونه پرداخت درون‌برنامه‌ای یا هوش مصنوعی مولد نخواهد داشت.",
-            "توسعه‌دهندگان روی ارائه یک تجربه کاملاً دست‌ساز و باکیفیت تمرکز کرده‌اند تا اصالت بازی حفظ شود."
-        ],
-        "full_text": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says  IGN",
-        "impact": "این تصمیم می‌تواند فشار بر باقی غول‌های بازی‌سازی را برای اتکای کمتر به ابزارهای خودکار افزایش دهد.",
-        "tag": "گیمینگ",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "IGN",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkxrWkRRTVJDZTExVjVSSTZocnNDMjJwUGU3Y05YemJFYWU0UndMaDhEaHBaNThUMjd2aWFxdkhCSWw2Sk9ObFZHbnZ0UDdDa2ZmaDVUOExuZkszWDFpdFhPd2dCUWR5LXNLd1lVZmFYRi1wdHFudHpwR19oSlE3b3BBd0t6UDJJMGgyY3Q0OTZRMDJUVUtvVTYzMC1scGc3a2N1WVA1V1ljUmttZjJUMHhLUWFCUFItdDdwUy1yREpUSE1v?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkxrWkRRTVJDZTExVjVSSTZocnNDMjJwUGU3Y05YemJFYWU0UndMaDhEaHBaNThUMjd2aWFxdkhCSWw2Sk9ObFZHbnZ0UDdDa2ZmaDVUOExuZkszWDFpdFhPd2dCUWR5LXNLd1lVZmFYRi1wdHFudHpwR19oSlE3b3BBd0t6UDJJMGgyY3Q0OTZRMDJUVUtvVTYzMC1scGc3a2N1WVA1V1ljUmttZjJUMHhLUWFCUFItdDdwUy1yREpUSE1v",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788110886.0
-    },
-    {
-        "id": "9680927b34",
-        "title_fa": "عقب ماندن قوانین آمریکا از سرعت رشد و ریسک‌های هوش مصنوعی",
-        "title_en": "Washington Struggles to Control Advanced AI as Safety Risks Outpace US Rules",
-        "summary": [
-            "واشنگتن برای مهار خطرات مدل‌های پیشرفته هوش مصنوعی با مشکلات جدی روبه‌رو شده است.",
-            "سرعت توسعه فناوری و تهدیدات امنیتی آن بسیار فراتر از روند تصویب قوانین در ایالات متحده پیش می‌رود."
-        ],
-        "full_text": "Washington Struggles to Control Advanced AI as Safety Risks Outpace US Rules  Межа. Новини України.",
-        "impact": "شکاف میان مقررات و فناوری می‌تواند زمینه را برای بروز مخاطرات امنیتی جبران‌ناپذیر فراهم کند.",
-        "tag": "قوانین",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Межа. Новини України.",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrU3Utanh3bnAyUzdlZTlIcHc5Umh0V05TUVNPLW5IV1ZiY3NkSWRvcUZMRmZrTjV0endOVXZtWm50ZUl3RTdjQkNKZjdCbG94R0FrRFh2cWdLNW9pNWRMbkpnMUp0OWp5WmRMWF9R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrU3Utanh3bnAyUzdlZTlIcHc5Umh0V05TUVNPLW5IV1ZiY3NkSWRvcUZMRmZrTjV0endOVXZtWm50ZUl3RTdjQkNKZjdCbG94R0FrRFh2cWdLNW9pNWRMbkpnMUp0OWp5WmRMWF9R",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788110855.0
     }
 ]
