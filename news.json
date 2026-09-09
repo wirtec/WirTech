@@ -1,5 +1,71 @@
 [
     {
+        "id": "eea9571864",
+        "title_fa": "فشار ائتلاف دوحزبی برای انتشار چارچوب امنیتی هوش مصنوعی",
+        "title_en": "Bipartisan coalition pushes Trump administration on AI security framework release",
+        "summary": [
+            "نمایندگان کنگره آمریکا از دولت ترامپ خواسته‌اند هرچه سریع‌تر دستورالعمل‌های شفاف امنیتی برای توسعه هوش مصنوعی را ارائه دهد.",
+            "نگرانی از تهدیدات امنیت ملی و عقب ماندن در رقابت با چین، دلایل اصلی این فشار سیاسی هستند."
+        ],
+        "full_text": "Bipartisan coalition pushes Trump administration on AI security framework release  The Hill",
+        "impact": "مشخص شدن تکلیف قوانین رگولاتوری و استانداردهای توسعه برای غول‌های فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR29FSVNNZ09tQ000NldKQS00TVJjdVllZmJPU2R2SmlBVlNybjJwdWpWbXdMUkgwUDR1b2t1UHdzclJ5QVBHYVdxSFM0ZXhMSFY5cnZ6VGRCUVJSTEVvSjl4dnR2dVgyOEFVNy1zblVnQS15VFRlS3ZzODByNjVOczYzLXpZVE9CeFpzN9IBkgFBVV95cUxPa1d1dGF3YjhSQlBPSnBNTk9CNUpMcWlLZWVXNkRyQ0pfd2E1clp0LWlndGVzOVBYUEJ5cVdwR2lpUWpCbUhLc3V5RlllYk10cW5DZElpcjFMQ1JHVmJhWnRhMV9uMmxGQVdtZnZucWFXelFTUENfUTdFdnV1UjFnZ0FQbmd5bUFLbDhnTEhBWHdqQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR29FSVNNZ09tQ000NldKQS00TVJjdVllZmJPU2R2SmlBVlNybjJwdWpWbXdMUkgwUDR1b2t1UHdzclJ5QVBHYVdxSFM0ZXhMSFY5cnZ6VGRCUVJSTEVvSjl4dnR2dVgyOEFVNy1zblVnQS15VFRlS3ZzODByNjVOczYzLXpZVE9CeFpzN9IBkgFBVV95cUxPa1d1dGF3YjhSQlBPSnBNTk9CNUpMcWlLZWVXNkRyQ0pfd2E1clp0LWlndGVzOVBYUEJ5cVdwR2lpUWpCbUhLc3V5RlllYk10cW5DZElpcjFMQ1JHVmJhWnRhMV9uMmxGQVdtZnZucWFXelFTUENfUTdFdnV1UjFnZ0FQbmd5bUFLbDhnTEhBWHdqQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788972420.0
+    },
+    {
+        "id": "ab33eb838d",
+        "title_fa": "پیشرفت خیره‌کننده آنتروپیک در حل مسائل پیچیده ریاضی",
+        "title_en": "What Exactly Was Anthropic’s AI Breakthrough in Hard Math?",
+        "summary": [
+            "مدل‌های هوش مصنوعی آنتروپیک به توانایی جدیدی در استدلال منطقی و حل فرمول‌های سنگین ریاضی دست یافته‌اند که تا پیش از این چالش‌برانگیز بود.",
+            "این جهش علمی نشان می‌دهد هوش مصنوعی از حفظ کردن پاسخ‌ها عبور کرده و وارد مرحله درک عمیق ساختارهای ریاضی شده است."
+        ],
+        "full_text": "What Exactly Was Anthropic’s AI Breakthrough in Hard Math?  mindmatters.ai",
+        "impact": "تسریع بی‌سابقه در تحقیقات علمی، الگوریتم‌های مالی و کارهای مهندسی سنگین.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "mindmatters.ai",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEhHd2tpYmNOUzJIS0VlZVVteDVmbW1rdlJaSktUZ0IyRVo4czFUQkFNQVk0VV8zU21JMUZqamtOQk9IWTAzYWc4aUxVcVBOdjB0WmlwOU1XOVpZT3BZeEtRSS1RSzlURHlBNlNPekx6aHhZX2o5XzdoS3Q4Z1pNMC1HdHJVc21CVHp6Z3RUQVZWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEhHd2tpYmNOUzJIS0VlZVVteDVmbW1rdlJaSktUZ0IyRVo4czFUQkFNQVk0VV8zU21JMUZqamtOQk9IWTAzYWc4aUxVcVBOdjB0WmlwOU1XOVpZT3BZeEtRSS1RSzlURHlBNlNPekx6aHhZX2o5XzdoS3Q4Z1pNMC1HdHJVc21CVHp6Z3RUQVZWQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788967092.0
+    },
+    {
+        "id": "04b69fe702",
+        "title_fa": "ورود دستیارهای هوشمند خرید به سرویس‌های اینستاکارت و شیپ",
+        "title_en": "Instacart, Shipt launch AI-powered shopping assistants",
+        "summary": [
+            "دو پلتفرم بزرگ فروشگاهی با اضافه کردن هوش مصنوعی مولد، امکان پیشنهاد خرید بر اساس دستور پخت و بودجه را برای کاربران فراهم کردند.",
+            "این دستیارها با بررسی خریدهای قبلی، سبد خریدی بهینه‌تر و سریع‌تر ارائه می‌دهند."
+        ],
+        "full_text": "Instacart, Shipt launch AI-powered shopping assistants  Grocery Dive",
+        "impact": "تغییر الگوی خرید آنلاین خواربار و افزایش نرخ تبدیل فروش در خرده‌فروشی‌ها.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Grocery Dive",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFZKckw1RExNcThiTVlPeGxabUw2M3JBX3M1dDg1T3lnWmNxOWNXVHpmRGVzaWZYRHZ1VmVLOXBqU2c4VWx0SUNLQjZISmdvandMblp6ZVJUWDdvMUZraWtUbjhoOGdzeUF5cGl2eEtBY0tVY2lOa0ZUTlpDT092bXFoek9uOXlEckxUVWV0Zkw1VmhTNEtvbEd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFZKckw1RExNcThiTVlPeGxabUw2M3JBX3M1dDg1T3lnWmNxOWNXVHpmRGVzaWZYRHZ1VmVLOXBqU2c4VWx0SUNLQjZISmdvandMblp6ZVJUWDdvMUZraWtUbjhoOGdzeUF5cGl2eEtBY0tVY2lOa0ZUTlpDT092bXFoek9uOXlEckxUVWV0Zkw1VmhTNEtvbEd3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788966765.0
+    },
+    {
         "id": "29f8858a4f",
         "title_fa": "تمرکز استراتژیک میسترال روی مدل‌های وزن‌باز و هوش مصنوعی مستقل",
         "title_en": "Making sovereign, open-weight AI the technology frontier",
@@ -6928,71 +6994,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788130375.0
-    },
-    {
-        "id": "dd0602ecac",
-        "title_fa": "بودجه ۳۵ میلیون دلاری فدرال برای توسعه پروژه‌های شمال ایلینوی",
-        "title_en": "Press Release: Lauren Underwood announces more than $35 million in federal funding for northern Illinois projects",
-        "summary": [
-            "لورن آندروود از اختصاص بودجه ۳۵ میلیون دلاری برای پیشبرد پروژه‌های زیرساختی و منطقه‌ای خبر داد.",
-            "این منابع مالی قرار است زیرساخت‌های کلیدی منطقه را ارتقا داده و زمینه رشد اقتصادی را فراهم کنند."
-        ],
-        "full_text": "Press Release: Lauren Underwood announces more than $35 million in federal funding for northern Illinois projects  Quiver Quantitative",
-        "impact": "تسهیل توسعه زیرساخت‌های محلی و ایجاد فرصت‌های جدید شغلی و اقتصادی.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlFY3FhclF0MTZXV09ld1JSaVh1Y0MtaHFBek5nM3lhc3Q1OVV4TDhld1RlSUdCX1BseEdUdVdEaEs1aWJLaDludW5xNDF3WkpIWmxYWUNicGVJTUFoRVFqd05BTTZjcHlzUWlWYjRuaFhKaWo4MHhDazhZTU1aQjBDdzY1VFcySU0wcW1qWVNIY1RHOE1KUkVfRl9hVDR3dkM3Uzh4aVRkc0hJaEUyMGllTjRsbE1QNTVseUFqVzlqVG9mYnlpX05qTHNNVEw1WFEtM0JLakk5c1NTYUI2c0hveXA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlFY3FhclF0MTZXV09ld1JSaVh1Y0MtaHFBek5nM3lhc3Q1OVV4TDhld1RlSUdCX1BseEdUdVdEaEs1aWJLaDludW5xNDF3WkpIWmxYWUNicGVJTUFoRVFqd05BTTZjcHlzUWlWYjRuaFhKaWo4MHhDazhZTU1aQjBDdzY1VFcySU0wcW1qWVNIY1RHOE1KUkVfRl9hVDR3dkM3Uzh4aVRkc0hJaEUyMGllTjRsbE1QNTVseUFqVzlqVG9mYnlpX05qTHNNVEw1WFEtM0JLakk5c1NTYUI2c0hveXA",
-        "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788128400.0
-    },
-    {
-        "id": "b11b4b8d46",
-        "title_fa": "تجربه سنگاپور در تبدیل پژوهش‌های میلیارد دلاری به محصولات کاربردی",
-        "title_en": "How Singapore turns billion-dollar science research into real-world success",
-        "summary": [
-            "سنگاپور با تخصیص بودجه ۱۶.۱ میلیارد دلاری در نقشه راه RIE، زنجیره متصلی میان پژوهش‌های دانشگاهی و تجاری‌سازی فناوری ایجاد کرده است.",
-            "تمرکز اصلی این برنامه، تبدیل دانش آزمایشگاهی به محصولات بازارمحور و تقویت اکوسیستم استارتاپی کشور است."
-        ],
-        "full_text": "SINGAPORE - Singapore launched its first Research, Innovation and Enterprise (RIE) roadmap in 2010, supported by a budget of $16.1 billion, to outline the nation's priorities in research and technology.",
-        "impact": "ارائه الگویی موفق برای کشورهای در حال توسعه جهت تجاری‌سازی علم و جذب سرمایه‌گذاران بزرگ فناوری.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 5,
-        "sentiment": 0.8,
-        "source": "The Straits Times",
-        "url": "https://www.msn.com/en-sg/news/other/how-singapore-turns-billion-dollar-science-research-into-real-world-success/ar-AA2beCLw",
-        "clean_url": "https://www.msn.com/en-sg/news/other/how-singapore-turns-billion-dollar-science-research-into-real-world-success/ar-AA2beCLw",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a7e266eefc96b95bf0804f1d230fc22ffcec88fcf3322cca26ac65753b4a9203",
-        "images": [
-            "https://cassette.sphdigital.com.sg/image/straitstimes/a7e266eefc96b95bf0804f1d230fc22ffcec88fcf3322cca26ac65753b4a9203"
-        ],
-        "timestamp": 1788123600.0
-    },
-    {
-        "id": "f9f4ffa0ed",
-        "title_fa": "رونمایی از برنامه پنج ماده‌ای آب و انرژی در پورتوریکو",
-        "title_en": "Press Release: Pablo José Hernández Rivera Unveils Five-Point Agenda on Puerto Rico Water and Energy Issues",
-        "summary": [
-            "پابلو خوزه هرناندز ریورا طرحی ۵ ماده‌ای برای حل چالش‌های زیرساختی آب و انرژی در پورتوریکو ارائه کرد.",
-            "این برنامه بر اصلاح مدیریت منابع و بهبود پایداری شبکه انرژی منطقه تمرکز دارد."
-        ],
-        "full_text": "Press Release: Pablo José Hernández Rivera Unveils Five-Point Agenda on Puerto Rico Water and Energy Issues  Quiver Quantitative",
-        "impact": "تلاش برای بهبود زیرساخت‌های حیاتی انرژی و آب در منطقه پورتوریکو.",
-        "tag": "انرژی",
-        "urgency": 2,
-        "sentiment": 0.1,
-        "source": "Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZTZ3eHViVi1NMmF0aW5ZTDk2S0JIRG5mVzg2V29aN0JvSFV6YVotcGczRGtVcFBBWlBDRlc5Mk9uRGVtRlNkSmpjR3VwZDV1dnBoUDlkS2NEQzVUM2cyQUtoOVVnX0ZQN3VxSlJ4X0RNMC1RRnJEN0VPdVB1ZTJEQXlNMHQwMjBTaFRQVjFPVHJPb3JSNy1fRWVXUXhxWjgtWmxFY2tCWlZTSW5WZGVBeHNFWkJKb0FsTFdpenA5d2I0X181RXJ0WG1lSjhUYUdXYXhoR1JWUGJxYjFtTnc0LXBjTlJ4Vkk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZTZ3eHViVi1NMmF0aW5ZTDk2S0JIRG5mVzg2V29aN0JvSFV6YVotcGczRGtVcFBBWlBDRlc5Mk9uRGVtRlNkSmpjR3VwZDV1dnBoUDlkS2NEQzVUM2cyQUtoOVVnX0ZQN3VxSlJ4X0RNMC1RRnJEN0VPdVB1ZTJEQXlNMHQwMjBTaFRQVjFPVHJPb3JSNy1fRWVXUXhxWjgtWmxFY2tCWlZTSW5WZGVBeHNFWkJKb0FsTFdpenA5d2I0X181RXJ0WG1lSjhUYUdXYXhoR1JWUGJxYjFtTnc0LXBjTlJ4Vkk",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788121200.0
     }
 ]
