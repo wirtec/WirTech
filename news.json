@@ -1,5 +1,49 @@
 [
     {
+        "id": "e067e59dab",
+        "title_fa": "عرضه بتای سیری جدید اپل با محدودیت مصرف و برنامه‌ اشتراکی",
+        "title_en": "Siri AI will launch in beta, complicated by daily usage caps & future paid access",
+        "summary": [
+            "اپل هوش مصنوعی سیری را ابتدا به صورت نسخه بتا در دسترس کاربران قرار می‌دهد.",
+            "وجود سقف استفاده روزانه و احتمال پولی شدن فیچرهای پیشرفته در آینده، پیچیدگی‌های تازه‌ای برای کاربران آیفون ایجاد می‌کند."
+        ],
+        "full_text": "Siri AI will launch in beta, complicated by daily usage caps & future paid access  AppleInsider",
+        "impact": "آغاز شیفت دستیارهای صوتی رایگان به سمت مدل‌های درامدزایی اشتراکی در آیفون.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "AppleInsider",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkFXZTdqemxNdnAzRGo3UFpxUF9XM3pHSFV5Z0NfYWprSFpLZjZGZHBSRUU3akhaRF8tMTV0VEVoMklKWVBfYWZtd21wQVU0Q2dCV19sZk5yZ2J2bFdZcjNUTXJWVnZHNzJhV2VmTDFMSmFla21kdE4wUk1uZzRLNTRiNnFCUTVxTFgtSlZpYzJHZEctQlltbmpscEx3RE4wQXFvTFhWTWpVbURRNVJ6SHVNMFJMVEF5R1BjNFNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWkFXZTdqemxNdnAzRGo3UFpxUF9XM3pHSFV5Z0NfYWprSFpLZjZGZHBSRUU3akhaRF8tMTV0VEVoMklKWVBfYWZtd21wQVU0Q2dCV19sZk5yZ2J2bFdZcjNUTXJWVnZHNzJhV2VmTDFMSmFla21kdE4wUk1uZzRLNTRiNnFCUTVxTFgtSlZpYzJHZEctQlltbmpscEx3RE4wQXFvTFhWTWpVbURRNVJ6SHVNMFJMVEF5R1BjNFNR",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788985680.0
+    },
+    {
+        "id": "381f332821",
+        "title_fa": "خوش‌بینی معامله‌گران به آینده متا پس از معرفی ایجنت هوش مصنوعی",
+        "title_en": "Options traders make bullish bets on Meta following personal AI agent launch",
+        "summary": [
+            "رونمایی متا از ایجنت هوش مصنوعی شخصی، موجی از خریدهای خوش‌بینانه را در بازار آپشن به راه انداخته است.",
+            "سرمایه‌گذاران رویکرد جدید متا در توسعه ایجنت‌های کاربردی را محرک بعدی رشد درآمدهای این شرکت می‌دانند."
+        ],
+        "full_text": "Options traders make bullish bets on Meta following personal AI agent launch  CNBC",
+        "impact": "رشد اعتماد بازار سرمایه به متا و تقویت ارزش سهام این شرکت در حوزه AI.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSi10MTRyZHBRU2M5QnZMX0FRTTFEZUJYak8waV9IaDZQN3dTckJDYlc4Y0hKZlNIUWJaWHAtak9qMXlSS2diVzgzUG1qOWtzUmhMNlVjdUIyWFVmZ3d2VExLeGVpd3A0dzlWZ0tyOC1zN0ViSUN3a19RUzdNQXB5UFZrbnNqLUJvdGtKNXpzeVMtRUJ4MUpxeHJwbXJMMEUwOXpMbGMxVE94X19qclpNNUtmczlITDd2eVB3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSi10MTRyZHBRU2M5QnZMX0FRTTFEZUJYak8waV9IaDZQN3dTckJDYlc4Y0hKZlNIUWJaWHAtak9qMXlSS2diVzgzUG1qOWtzUmhMNlVjdUIyWFVmZ3d2VExLeGVpd3A0dzlWZ0tyOC1zN0ViSUN3a19RUzdNQXB5UFZrbnNqLUJvdGtKNXpzeVMtRUJ4MUpxeHJwbXJMMEUwOXpMbGMxVE94X19qclpNNUtmczlITDd2eVB3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1788984844.0
+    },
+    {
         "id": "eea9571864",
         "title_fa": "فشار ائتلاف دوحزبی برای انتشار چارچوب امنیتی هوش مصنوعی",
         "title_en": "Bipartisan coalition pushes Trump administration on AI security framework release",
@@ -6947,52 +6991,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788149460.0
-    },
-    {
-        "id": "5a2624b5a6",
-        "title_fa": "پیگیری روز دوم مسابقات تنیس آزاد آمریکا ۲۰۲۶",
-        "title_en": "US Open, second day: from Alcaraz to Berrettini, schedule and where to watch them on TV",
-        "summary": [
-            "رقابت‌های اوپن آمریکا با بازگشت کارلوس آلکاراز پس از مصدومیت مچ دست پیگیری می‌شود.",
-            "تنیس‌بازان برجسته‌ای چون ماتئو برتینی و بن شلتون در دیدارهای امروز به میدان می‌روند."
-        ],
-        "full_text": "Filter by Category US Open, second day: from Alcaraz to Berrettini, schedule and where to watch them on TV (Adnkronos) - Today, Monday, August 30, the US Open 2026 continues. The last Slam of the season already started yesterday and proceeds with several big names on court. On the prestigious Arthur Ashe Stadium, Carlos Alcaraz, the reigning champion returning after four months due to a wrist injury sustained in Barcelona, will face Safiullin in the first round. There will also be space for Matteo Berrettini, against wild card Wawrinka. Here is the complete schedule for the second day. Here is the schedule for the first day of the US Open: ARTHUR ASHE STADIUM At 5:30 PM - Aryna Sabalenka [1]-Camila Osorio (COL) to follow - Roman Safiullin-Carlos Alcaraz (ESP)[2] At 1:00 AM - Ben Shelton (USA) [8]-Tallon Griekspoor (NED) to follow - Naomi Osaka (JPN) [13]-Anastasia Zakharov LOUIS ARMSTRONG STADIUM At 5:00 PM - Stefanos Tsitsipas (GRE) vs. Arthur Fils (FRA)[10] to follow - Ashlyn Krueger (USA) vs. Amanda Anisimova (USA)[10] At 1:00 AM - lga Swiatek (POL) [8] vs. Xiyu Wang (CHN) to follow - Martin Damm (USA) vs. Frances Tiafoe (USA) [11] GRANDSTAND At 5:00 PM - Sinja Kraus (AUT)-Karolina Muchova (CZE)[7] Maja Chwalinska (POL)[20]-Taylor Townsend (USA) Matteo Berrettini (ITA)-Stan Wawrinka (SUI) Felix Auger-Aliassime (CAN)[3]-Rinky Hijikata (AUS) STADIUM 17 At 5:00 PM - Qinwen Zheng (CHN)-Kristina Liutova Brandon Nakashima (USA)[16]-Sebastian Baez (ARG) Sloane Stephens (USA) vs. Clara Tauson (DEN) Nuno Borges (POR) vs. Learner Tien (USA)[14] COURT 5 At 5:00 PM - Sara Bejlek (CZE)[28]-Cristina Bucsa (ESP) Anna Blinkova - [29] Anna Kalinskaya [21] Luciano Darderi (lTA)[21]-Harry Wendelken (GBR) Jakub Mensik (CZE)[17]-Shintaro Mochizuki (JPN) COURT 6 At 5:00 PM - Mananchaya Sawangkaew (THA)-Panna Udvardy (HUN) Jurij Rodionov (AUT)-Giovanni Mpetshi Perricard (FRA) Yannick Hanfmann (GER)-Alejandro Tabilo (CHl)[25] Elisabetta Cocciaretto (ITA)-Katerina Siniakova (CZE) COURT 7 At 5:00 PM - Marin Cilic (CRO)-Andrey Rublev [23] Daria Snigur (UKR)-Diana Shnaider [15] Alexander Blockx (BEL)[28]-Tomas Barrios Vera (CHI) COURT 9 At 5:00 PM - Tamara Zidansek (SLO)-Maria Timofeeva (UZB) Viktorija Golubic (SUI)-Diane Parry (FRA) COURT 10 At 5:00 PM - Elsa Jacquemot (FRA)-Marie Bouzkova (CZE) Matteo Arnaldi (lTA)[30]-James Duckworth (AUS) Julia Grabher (AUT) - Sorana Cirstea (ROU)[16] Maya Joint (AUS)- Liudmila Samsonova COURT 11 At 5:00 PM - Valentin Vacherot (MON)[22]-Aleksandar Kovacevic (USA) Anouk Koevermans (NED) -Caty McNally (USA) Katie Volynets (USA) -Linda Noskova (CZE)[6] Roman Andres Burruchaga (ARG)-Karen Khachanov COURT 12 At 5:00 PM - Harriet Dart (GBR)-Peyton Stearns (USA) Damir Dzumhur (BIH)- Hubert Hurkacz (POL) Ann Li (USA)[29]-Antonia Ruzic (CRO) Grigor Dimitrov (BUL)-Alexei Popyrin (AUS) COURT 13 At 5:00 PM - Lilli Tagger (AUT)-Tamara Korpatsch (GER) Nadia Podoroska (ARG)-Simona Waltert (SUI) Juncheng Shang (CHN)-Marco Trungelliti (ARG) Quentin Halys (FRA)-Facundo Diaz Acosta (ARG) COURT 15 At 5:00 PM - Anhelina Kalinina (UKR)-Himeno Sakatsume (JPN) Aoi Ito (JPN)-Oksana Selekhmeteva (ESP) Dalibor Svrcina (CZE)-Valentin Royer (FRA) All US Open 2026 matches are broadcast live on free-to-air TV in Italy on SuperTennis and live on satellite TV on Sky Sport for subscribers. Matches are also available for streaming on the SuperTenniX, NOW Tv, and Sky Go platforms. (2026/08/31-06:25) Adnkronos International: info@adnkronos.comAdnkronos Filter by Category - 08/31 07:32 Flood in Nepal, over 900 dead. 933 workers trapped in hydropower system tunnels - 08/31 07:09 Alessandro Di Battista hospitalized in Cuba: the wait for doctors from Gemelli and the first Instagram post, what we know - 08/31 07:01 US Open, Djokovic eliminated: huge surprise in the first round - 08/31 06:41 Franceschini: \"I have Parkinson's disease, I've been living with it since 2020\" - 08/31 06:28 Volleyball European Championship, today Italy-Bulgaria: time and where to watch it on TV (free-to-air) - 08/31 06:27 Serie A, today Lecce-Roma: time, probable lineups and where to watch it on TV - 08/31 06:26 US Open, today Alcaraz-Safiullin: schedule, head-to-head and where to watch it on TV (free-to-air) - 08/31 06:26 US Open, today Berrettini-Wawrinka: schedule, head-to-head, and where to watch it on TV (free-to-air) - 08/31 06:25 US Open, second day: from Alcaraz to Berrettini, schedule and where to watch them on TV - 08/31 06:25 Italy-Spain, Schengen halt expires today. Ceuta still in crisis - 08/31 06:19 USA, first raid against Iran after a month. Tehran's missiles against Jordan - 08/31 05:56 US Open, Djokovic and physical problems: vomiting and inhaler on court - Video - 08/31 00:05 \"US cannot prolong war against Iran,\" military leaders freeze Pentagon - 08/30 22:36 Camorra, boss Raffaele Afeltra killed by gunshots - 08/30 22:21 \"Trump has nothing against Meloni,\" says American Ambassador Fertitta (3) - 08/30 22:20 \"Trump has nothing against Meloni,\" says American Ambassador Fertitta - 08/30 22:20 \"Trump has nothing against Meloni,\" says American Ambassador Fertitta (2) - 08/30 22:05 Iran, Tehran media: 2 dead in attack on Larak island - 08/30 22:03 Juventus, Vicario enchants and Serie A... mocks Di Gregorio - 08/30 21:31 Lazio, injury for Rovella: he stops with Genoa - 08/30 20:45 Napoli-Como, Lobotka's goal disallowed and Allegri protests - 08/30 20:36 Napoli, fans furious with Allegri: \"Too soon to resign?\" - 08/30 19:53 Serie A, today Lazio-Genoa - Live - 08/30 19:48 Serie A, today Cagliari-Inter - Live - 08/30 19:28 Lang falls in the box and Allegri demands a penalty: protests in Napoli-Como - 08/30 18:48 Alessandro Di Battista, 2 doctors from Gemelli Polyclinic arriving in Cuba tonight - 08/30 18:38 They have sex on the beach, bathers call the police: now they risk jail - 08/30 18:15 Debora Serracchiani's father died, the emotional farewell of the Dem deputy: \"It was beautiful to be by your side\" - 08/30 17:53 US Open, toda",
-        "impact": "نتایج دیدارهای امروز وضعیت جدول مدعیان قهرمانی این دوره را مشخص می‌کند.",
-        "tag": "متفرقه",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "jen.jiji",
-        "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20260831KRONOS-202608121231866711_eng",
-        "clean_url": "https://jen.jiji.com/jc/eng_agt",
-        "image": "https://jen.jiji.com/images/banner/Logo_Adn.png",
-        "images": [
-            "https://jen.jiji.com/images/banner/Logo_Adn.png",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049288_00.qui.jpg",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049287_00.qui.jpg",
-            "https://www.jiji.com/news2/afpnj/photos/AFP049286_00.qui.jpg"
-        ],
-        "timestamp": 1788134400.0
-    },
-    {
-        "id": "e6376082b2",
-        "title_fa": "ورود هوش مصنوعی به دنیای میم‌کوین‌ها با پروژه MemeToro",
-        "title_en": "Most Promising Meme Coin to Buy in 2026: MemeToro Targets the Next Generation of AI-Powered Launches",
-        "summary": [
-            "پروژه کریپتویی MemeToro قصد دارد با استفاده از الگوریتم‌های هوش مصنوعی، فرایند عرضه و مدیریت میم‌کوین‌ها را هوشمند کند.",
-            "این پروژه نسل جدیدی از توکن‌ها را هدف گرفته که ادعای ترکیب جذابیت‌های مارکتینگ با ابزارهای تحلیل هوشمند دارند."
-        ],
-        "full_text": "Most Promising Meme Coin to Buy in 2026: MemeToro Targets the Next Generation of AI-Powered Launches  StreetInsider",
-        "impact": "افزایش موج استفاده از ابزارهای هوش مصنوعی در پروژه‌های پرریسک کریپتو.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.2,
-        "source": "StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXNVZGVkb0M2Zm9pbkZpbEs2aHg3dFNUNDQyUWZSZE1CblJxOHBCX1lIRFVtZVdHS3ZWRFRjX2JrX1BOTU96OENMa3YtR3pEYU9yWmFuaVdKWVA5NVV2ekhGWGtnQ3d2Z3ZQb1J5Ukc1ejdWX0d5SGNVaUtDU09LeUNYSnphTGQxbVZYdWpreGQ4bzB5RFUwQ2tsUVRiN3NqLWg0bS1SSTFxbVU1aS0xVnlxN1M2YVRsOE1CektPQmE5N2EyWjRfSzROdWJaX21yOEpqUFppdHp3Ry1OLTh4SVpsV1M5cDVoMzl3NXBTS1NVUnBu?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMXNVZGVkb0M2Zm9pbkZpbEs2aHg3dFNUNDQyUWZSZE1CblJxOHBCX1lIRFVtZVdHS3ZWRFRjX2JrX1BOTU96OENMa3YtR3pEYU9yWmFuaVdKWVA5NVV2ekhGWGtnQ3d2Z3ZQb1J5Ukc1ejdWX0d5SGNVaUtDU09LeUNYSnphTGQxbVZYdWpreGQ4bzB5RFUwQ2tsUVRiN3NqLWg0bS1SSTFxbVU1aS0xVnlxN1M2YVRsOE1CektPQmE5N2EyWjRfSzROdWJaX21yOEpqUFppdHp3Ry1OLTh4SVpsV1M5cDVoMzl3NXBTS1NVUnBu",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788130375.0
     }
 ]
