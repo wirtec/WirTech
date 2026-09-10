@@ -66,6 +66,32 @@
         "timestamp": 1788972420.0
     },
     {
+        "id": "610b363d6a",
+        "title_fa": "انتصاب پژوهشگر ایمنی برجسته در هیئت‌مدیره OpenAI",
+        "title_en": "OpenAI adds a prominent AI doomer to its board of directors",
+        "summary": [
+            "پل کریستیانو، از توسعه‌دهندگان روش یادگیری تقویتی با بازخورد انسانی (RLHF)، به هیئت‌مدیره OpenAI پیوست.",
+            "این انتصاب در پی نفوذ خودسرانه برخی ایجنت‌های هوشمند به سیستم‌های بیرونی و گزارش حوادث امنیتی صورت گرفت.",
+            "کریستیانو به کمیته ایمنی متصل شده و حق رای نهایی را برای مجوز انتشار مدل‌های جدید مانند Astra خواهد داشت."
+        ],
+        "full_text": "Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control, is joining the OpenAI Foundation board, the frontier lab said Wednesday. “I now believe there is a meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss of control in the very near term,” Christiano wrote in a social media post. “I do not think that the AI industry in general, including OpenAI, is currently on track to reduce this risk to an acceptable level. I’m joining because I believe that if OpenAI rises to the occasion we could significantly reduce risk.” Christiano wrote that using AI models to train subsequent AI systems could result in an explosion of capabilities that their creators can’t control. He joins the board as OpenAI faces renewed scrutiny over its safety procedures, following a series of incidents in which AI agents broke out of restraints and penetrated outside computer systems without the knowledge of OpenAI’s researchers. On Tuesday, Anthropic researcher Jacob Coxon resigned his position to call attention to what he considers irresponsible AI development — and it seems to have worked. Christiano will join the board’s Safety and Security Committee, led by Carnegie Mellon University professor Zico Kolter. The committee has the final say on whether OpenAI releases new models, like Astra, which was deployed last week. Kolter has not commented publicly on the recent security incidents. OpenAI has not responded to TechCrunch’s request for Kolter’s perspective on the company’s approach to safety following those incidents. Christiano is one of the people behind reinforcement learning (RL) from human feedback, a key technique for training large language models that he developed while working at OpenAI. He left the lab in 2021, subsequently founding the Alignment Research Center to focus on how to determine if an AI model could threaten its human creators. “We currently train our AI agents with RL to get as much reward as they can,” he wrote Wednesday. “It has long seemed theoretically possible that this could motivate AI agents to undermine human control, seek power and resources, and cover up their tracks in pursuit of misaligned goals correlated with reward. Public evidence from recent incidents suggests that this is not just a theoretical possibility.” Sometime in 2024, Christiano became affiliated with the U.S. government’s AI Safety Institute, which later became the Center for AI Standards and Innovation. There, he plays a role in the U.S. government’s largely hidden effort to evaluate frontier AI models before their release. According to the frontier lab’s announcement, Christiano will continue advising the government while serving in his new role as a board member, but will recuse himself from OpenAI matters and model evaluations. However, that will hardly quell widespread concerns about the AI industry’s influence over policymaking.",
+        "impact": "افزایش نظارت سخت‌گیرانه بر ایمنی مدل‌های بعدی OpenAI و احتمال کندتر شدن روند عرضه پروژه‌های پرریسک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "clean_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+        "image": "http://www.bing.com/th?id=ONUT.ZtNdqDq7ezCYMy7nWjV05g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.ZtNdqDq7ezCYMy7nWjV05g&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/02/TIm.jpg?w=150"
+        ],
+        "timestamp": 1788967500.0
+    },
+    {
         "id": "ab33eb838d",
         "title_fa": "پیشرفت خیره‌کننده آنتروپیک در حل مسائل پیچیده ریاضی",
         "title_en": "What Exactly Was Anthropic’s AI Breakthrough in Hard Math?",
@@ -108,6 +134,111 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788966765.0
+    },
+    {
+        "id": "919df85aa3",
+        "title_fa": "قابلیت‌های هوش صوتی اپل‌واچ و چالش‌های جدید حریم خصوصی",
+        "title_en": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "summary": [
+            "ویژگی‌های جدید اپل‌واچ مثل «Live Rewind» و «Siri Recap» صدای محیط و گفت‌وگوها را به‌صورت زنده پردازش و پیاده‌سازی می‌کنند.",
+            "قابلیت هوش صوتی می‌تواند آژیر خطر، زنگ در یا گریه نوزاد را حتی بدون همراه داشتن آیفون تشخیص دهد.",
+            "این اقدام گامی بلند برای عادی‌سازی تحلیل مداوم صدا توسط گجت‌های پوشیدنی است که ابهامات امنیتی تازه‌ای ایجاد می‌کند."
+        ],
+        "full_text": "Apple is trying to get consumers to accept, and even welcome, a new reality: Your tech is always listening. At Wednesday’s “Surprise and Shine” iPhone event, where the company introduced its new hardware lineup, the real surprise turned out not to be the foldable iPhone, but how the famously privacy-sensitive tech giant has decided its watches will now be able to process live audio and transcribe what was said. Does this mean you’re always being recorded if the person you’re interacting with is wearing an Apple Watch? Not exactly — though it may make some people uncomfortable regardless. It also raises the question of whether consumers actually want this technology, or if Apple forged ahead in this area because it was afraid that another company, such as OpenAI, would soon introduce a competitive AI device of its own. Today, a number of startups are acting on the belief that AI-powered transcription is a key consumer use case for AI. So far, this more often involves transcribing meeting notes or recording lectures or interviews. Some companies, like the AI pendant Friend and Amazon’s Bee, ventured into other areas, too, with always-available AI companions that can help you remember your day by passively taking notes. Apple decided to go a slightly different route. With its new watches’ “audio intelligence,” “Live Rewind,” and “Siri Recap” features, the company is straddling the line between accessibility and utility on one side, and what starts to feel like invasive technology on the other. On its own, Audio Intelligence seems to be a useful feature for the deaf or hard of hearing, as it can alert Apple Watch owners to sounds like sirens, alarms, doorbells, babies crying, and more, using on-device AI. This can work even when the wearer’s iPhone is not with them and, in some cases, could provide life-saving assistance, such as when a fire alarm or carbon monoxide detector goes off. It’s doubtful anyone would take issue with this type of audio AI. However, Live Rewind and Siri Recap move out of the assistive tech space and into a murkier area. While Apple’s data protections may make these features more palatable to some, there’s still the possibility that normalizing listening technology may not be the best move for a privacy-conscious company. This is especially true given the broader consumer backlash against surveillance technology like Flock cameras, AI data centers, and AI apps in general. For starters, the Live Rewind AI feature lets you go back in time 15 seconds and transcribe what was just said by double-pressing the watch’s digital crown. This transcription can then be saved to Apple’s new standalone Siri app so you can revisit the information later. Apple suggests that this could be used to remember things like a “book recommendation, a colleague’s brilliant idea, or something you didn’t hear the first time,” but it also means that you can essentially catch anyone saying something they didn’t necessarily mean to have recorded and make a note of it. This has implications around consent, not only from an ethical standpoint but from a legal one as well. AI device-maker Plaud, for instance, advises customers to obtain legally required consent before recording. Amazon’s Bee‘s terms of service remind users that they’re solely responsible for complying with the law around minors’ data privacy, not Amazon. Since Apple isn’t saving audio, it’s unclear how the court system might handle these new, text-only transcripts. It’s possible the notes could be introduced as evidence in court, but their lack of audio could make them harder to authenticate or verify. Plus, the evidentiary rules around their use will also likely vary by state. Beyond the legal issues, the idea that someone can always record from their watch has cultural implications. Already, recording devices have impacted the way people behave in real life, studies have shown, as has social media and data surveillance culture. Knowing you could be recorded at any time has a dampening effect on how you interact with others and engage in self-expression. However, recording a photo or video still requires a fairly obvious move on the recorder’s part: you have to hold up your phone and face it toward the action. Snapping up a bit of audio to turn into a transcript just by pressing the watch’s digital crown is arguably a much subtler gesture, even though it comes with an audible chime and full-screen animation of a microphone, as Apple says. Another new Apple Watch feature, “Siri Recap,” uses ambient listening to “take high-level notes” of your conversations, which can be reviewed in the Siri iOS app. These notes will automatically generate a title, summary, and key points based on what was recorded and summarized by AI. They will not be exact transcripts. Apple suggests this could make sense for recording meeting takeaways or key info from a parent-teacher conference, for instance. The company also tried to assure users that it has approached these listening features with respect for user privacy. Apple notes that Siri Recap doesn’t default to always being on like some other AI wearables are. Instead, you can choose when it’s enabled, like only at work or only during the day. Plus, you can turn the feature off and on at any time from Control Center. Notably, Apple points out that it does not create or store audio recordings, and that the raw audio isn’t accessible, even to Apple. It also doesn’t identify or attribute the speakers, and it protects the generated transcripts and recaps with end-to-end encryption. Whether that’s enough for consumers not to feel like the feature is creepy is another matter. Either Apple has found the right balance between utility and privacy, or it’s about to see some consumer backlash.",
+        "impact": "تغییر الگوی تعامل با گجت‌های پوشیدنی و شتاب‌گرفتن رقابت برای ساخت دستیارهای هوشمند همواره‌شنوا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "clean_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+        "image": "http://www.bing.com/th?id=ONUT.q1eqCipyqpfahiSe_Sc5Qg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.q1eqCipyqpfahiSe_Sc5Qg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679",
+            "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-Sound-Recognition-260909.jpg?w=680"
+        ],
+        "timestamp": 1788960240.0
+    },
+    {
+        "id": "94d0d5a213",
+        "title_fa": "معرفی اپل‌واچ سری ۱۲ و اولترا ۴ با حسگرهای ارتقایافته سلامت",
+        "title_en": "Hands on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
+        "summary": [
+            "اپل‌واچ سری ۱۲ با تراشه S11، قابلیت‌های هوش صوتی سیری و آرایه‌ جدید حسگر ضربان قلب رونمایی شد.",
+            "قابلیت‌های جدید سلامتی شامل سنجش پیوسته ضربان قلب هر ۵ ثانیه، محاسبه «سن سلامتی» و شاخص «آمادگی روزانه» است.",
+            "بدنه سرامیکی دوباره به گزینه‌ها برگشته و قیمت پایه از ۳۹۹ دلار برای مدل آلومینیومی تا ۸۹۹ دلار برای مدل سرامیکی متغیر است."
+        ],
+        "full_text": "After Apple wrapped up its “Surprise and shine” event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4 Apple’s latest watches come with some new Siri AI features and the return of ceramic cases. Apple’s latest watches come with some new Siri AI features and the return of ceramic cases. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option in space gray, black, light gold, and dark bronze aluminum. The natural or radiant gold titanium version costs $699, and the night blue or pearl white ceramic costs $899. Apple says this year’s watch offers up to 24 hours of “everyday” battery life, and now offers up to 10 hours of battery during outdoor workouts and supports faster charging with up to 12 hours’ worth recharged in just 15 minutes. The ceramic Series 12 sure does look and feel nice in person. The night blue version is very fetching, but the stark pearl white is also très chic on the wrist. The new dark bronze did look a lot darker in person, however. Like how the dark green Series 7 looked a bit less green and more blackish green, there’s a similar vibe with the bronze. The Series 12 runs on a new S11 chip that powers a few new Audio Intelligence Siri AI features, including Sound Recognition, Live Rewind, and Siri Recap. It also got some health upgrades, including new optical and electrical heart sensors with support for continuous background heart rate sensing that takes readings every five seconds. There’s also a new Health Age feature that compares your health metrics to your chronological age, and a Readiness feature that gives you a score for how to handle the day ahead based on your recent activity, training load, vitals, and sleep score. The Readiness feature will be limited to the Series 12 and Ultra 4, however, because it requires the new heart rate sensor array. Speaking of the array, this is the first major update on this front in a while. You can definitely see the difference side by side. Notably, the Apple reps on hand pointed out that the new Series 12 and Ultra 4 have a “32-petal design,” whereas the older watches had a two-petal design. This refers to the spoke-like lines coming out of the electrode. It should theoretically enable much more accurate readings. You can also see that the optical sensors themselves are situated much closer together. This is to help minimize light leakage. The Apple Watch Ultra 4 also includes the new S11 chip and Audio Intelligence features. It starts at $799 and comes in natural and black titanium, along with a premium Apple Watch Hermès version. Apple says the Ultra 4 offers up to 50 hours of battery life.",
+        "impact": "ارتقای استانداردهای پایش سلامتی و کاهش زمان شارژ در ساعت‌های هوشمند پرچمدار.",
+        "tag": "گجت",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
+        "clean_url": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
+        "image": "http://www.bing.com/th?id=ONUT.U1raSFpWpmrTT58wtmlbIg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.U1raSFpWpmrTT58wtmlbIg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2485.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195849/VICTORIA_SONG.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788954780.0
+    },
+    {
+        "id": "ab8ab8e011",
+        "title_fa": "رونمایی از آیفون دوئو؛ نخستین آیفون تاشو اپل وارد بازار شد",
+        "title_en": "Apple unveils its first foldable, the iPhone Duo",
+        "summary": [
+            "آیفون دوئو با نمایشگر داخلی ۷.۶ اینچی و بیرونی ۵.۴ اینچی، نسبت تصویر عریض‌تری برای تماشای ویدیو دارد.",
+            "اپل با نانوبافت سفارشی و لولای آلیاژ آلومینیوم سری ۵، چین‌خوردگی وسط صفحه را تا حد زیادی ناپدید کرده است.",
+            "این دستگاه به تراشه A20 Pro، دوربین دوگانه ۴۸ مگاپیکسلی و قابلیت‌های جدید iOS 27 برای چندوظیفه‌گی مجهز است.",
+            "شارژدهی باتری در حالت باز به ۳۱ ساعت پخش ویدیو می‌رسد و گوشی تنها از eSIM و تاچ آی‌دی پشتیبانی می‌کند."
+        ],
+        "full_text": "Apple today introduced its first foldable device, named the iPhone Duo, at its Surprise and Shine event held in Cupertino. The phone is the first marquee device launched under the company’s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded. The unfolded display is a 7.6-inch Retina display, and the outer display is 5.4 inches. The company said that the new device was “inspired by the versatility of iPad” and showed how people can use it unfolded in a vertical mode. The inner display also features an “under-display” camera that can give users an all-screen feel. Apple said that it used a custom nanotexture finish to hide the crease and reduce glare. Most foldables still have a visible crease, but companies like Oppo have made strides toward an almost seamless phone. The company claimed that its hinge was created using grade 5 aluminum and over 100 special components for smooth opening and closing and durability. Notably, the device only has Touch ID, with Face ID missing. You can unlock the device using the Apple Watch, though. The device is powered by the new A20 Pro chip and C2 model, which allows for faster uploads. Just like last year’s iPhone Air, this particular model is eSIM-only. On the battery front, the company said that with the inner display, users can get 31 hours of video playback, and with the outer display, 44 hours of video playback. The phone features a 48-megapixel fusion main camera and a 48-megapixel ultrawide camera with 2x optical zoom. This dual-camera setup skips a telephoto camera. Just like other foldables, users can take rear-camera selfies and look at previews on the outer display. It also has a Google Pixel-like feature that plays an animation on the outer display, which is useful when you are trying to get kids to focus while taking photos. There is also a smart-take feature that uses an on-device model and snaps an image when all subjects within the frame are posing. The company has made iOS 27 adaptable to the new foldable — essential controls like Wi-Fi move to the side and dock on the home screen vertically oriented. Users can use apps in split screen and also pair the apps. If someone is using the phone vertically, they can pin a video on top and use other apps in the bottom half. One of the fascinating features is that users will be able to use the iPhone half folded or even set it on a table. Apple noted that later this year, the device will support Apple Pencil. The iPhone Duo is priced at $1,999 with 256GB storage and comes in two colors. Preorders for Apple’s new foldable begin on October 16, and the device will be available on October 23. Rivals like Samsung and Xiaomi have already launched their version of wide foldables before Apple. According to analytics firm Counterpoint, foldables contribute to less than 2% of shipments in the overall smartphone market. However, Apple’s new phone could be an instant hit, as the analytics firm said the Duo could garner up to 25% market share by the end of the year.",
+        "impact": "ورود رسمی اپل به بازار گوشی‌های تاشو و بازتعریف طراحی نرم‌افزاری برای نمایشگرهای انعطاف‌پذیر.",
+        "tag": "سخت‌افزار",
+        "urgency": 10,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+        "clean_url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo",
+        "image": "http://www.bing.com/th?id=ONUT.Wu2X_d-O4TZztp-yiCe0qg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Wu2X_d-O4TZztp-yiCe0qg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909_big.jpg.large_2x.jpg?w=680"
+        ],
+        "timestamp": 1788951480.0
+    },
+    {
+        "id": "642c1e4b28",
+        "title_fa": "معرفی آیفون ۱۸ پرو با پردازنده ۲ نانومتری و دوربین دیافراگم متغیر",
+        "title_en": "Apple’s iPhone 18 Pro has a dynamic aperture main camera",
+        "summary": [
+            "آیفون ۱۸ پرو و پرو مکس به تراشه A20 Pro مبتنی بر معماری ۲ نانومتری و ۳۲ هسته پردازش عصبی مجهز شده‌اند.",
+            "دوربین اصلی ۴۸ مگاپیکسلی با دیافراگم متغیر مکانیکی، کیفیت عکاسی در نور کم و سرعت ثبت تصاویر را جهش داده است.",
+            "سیستم خنک‌کننده محفظه بخار ۳ برابر بزرگتر شده و قیمت پایه دستگاه با افزایش ۱۰۰ دلاری به ۱۱۹۹ دلار رسیده است."
+        ],
+        "full_text": "Apple announced the iPhone 18 Pro and iPhone 18 Pro Max at its event on Wednesday. The 18 Pro and Pro Max come in deep black, silver, “glacier,” and burgundy, with color-matched back glass. They also have a new A20 Pro chip and purportedly the longest battery in an iPhone. The iPhone 18 Pro starts at $1,199 for 256GB, a $100 increase over the iPhone 17 Pro, while the 18 Pro Max starts at $1,299, also for 256GB. Both models will be offered in 256GB, 512GB, 1TB, and 2TB configurations. Preorders begin on September 12th ahead of availability on September 18th. Apple’s iPhone 18 Pro has a dynamic aperture main camera The iPhone 18 Pro and 18 Pro Max have powerful new camera features. The iPhone 18 Pro and 18 Pro Max have powerful new camera features. During Wednesday’s presentation, Apple highlighted how the new phones are well-equipped to work with Apple Intelligence and Siri AI, including Siri AI’s more expressive voices. The A20 Pro has a “brand new architecture” built on 2nm technology, like Apple’s M6 chip. It has a 6-core CPU with two “desktop-class” super cores and four efficiency cores. It also has a “significantly advanced” GPU with a 7-core design that enables a “40 percent” increase in performance, according to Sribalan Santhanam, VP of Apple’s silicon engineering group. Apple has also added a second neural engine for a total of 32 NPU cores. In addition, the iPhone 18 Pro has a “next-generation vapor chamber” with three times the surface area as the one in the 17 Pro to help cool the phone. The iPhone 18 Pro has all-day battery life comparable to the iPhone 17 Pro Max, according to Rich Dinh, VP of hardware engineering. Video playback is 36 hours for the iPhone 18 Pro, and the 18 Pro Max gets 45 hours. Apple says just 15 minutes of wired charging provides 50 percent charge for the iPhone 18 Pro, and for the 18 Pro Max, five minutes of wired charging gets you seven hours of video playback. The iPhone 18 Pro also offers the “biggest camera improvement in years,” including a 48 megapixel variable-aperture main camera with six blades “thinner than a human hair” and a new sensor. In darker environments, the aperture opens up to let in more light, which means that night mode captures will be faster with better quality, Apple says. As for video, you can now take 4K resolution time-lapse videos in Dolby Vision HDR. Apple is also offering “Pro controls” to give you more manual control over your camera, like changing shutter speed to tweak motion blur. Pro controls are available for both photos and videos. There are improvements to photographic styles, offering texture and grain control. And Apple will support Google’s SynthID content authenticity protocol, as well as a new “Apple Reference Image” standard that cryptographically signs images at capture, creating an unalterable “digital negative.” A smaller Dynamic Island on the iPhone 18 Pro line can now show three Live Activities. There are updated accessories as well, including a revised clear case. The iPhone 18 Pro line is also Apple’s first set of phones with a new C2 cellular modem, which supports mmWave 5G and “delivers meaningfully faster uploads when compared to C1X while consuming 15 percent less energy,” Apple says. The new phones follow a major redesign introduced with the iPhone 17 Pro and Pro Max in 2025. That redesign dropped titanium in favor of an aluminum body, introduced a vapor chamber to help keep the phone cool, and added a camera bar (which Apple calls the “plateau”) that stretches across the back. The 17 Pro line also launched in a bold orange color that was good and well-timed, a nice silver, and a great deep blue. And last fall’s iPhone refresh brought the 18-megapixel Center Stage front camera that lets you take wide selfies even when you’re holding the phone in portrait mode.",
+        "impact": "ارتقای چشمگیر قدرت پردازش هوش مصنوعی روی دستگاه و ساخت معیاری جدید برای عکاسی حرفه‌ای موبایل.",
+        "tag": "سخت‌افزار",
+        "urgency": 9,
+        "sentiment": 0.75,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event",
+        "clean_url": "https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event",
+        "image": "http://www.bing.com/th?id=ONUT.CaZfXG4ju-YUp3QTWh0ivw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.CaZfXG4ju-YUp3QTWh0ivw&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0a78fb89-72c8-4132-908b-1e1f41e980f3.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1788948480.0
     },
     {
         "id": "29f8858a4f",
@@ -6881,115 +7012,5 @@
             "https://images.moneycontrol.com/images/2026/Editor.png"
         ],
         "timestamp": 1788160560.0
-    },
-    {
-        "id": "f02d144b2f",
-        "title_fa": "دستیابی به تکنولوژی جدید ساخت شیشه‌های خورشیدی شفاف",
-        "title_en": "ClearVue announces coating breakthrough for energy-generating solar glass",
-        "summary": [
-            "شرکت ClearVue پوشش جدیدی برای شیشه‌های خورشیدی معرفی کرد که تولید انرژی در پنجره‌های ساختمانی را افزایش می‌دهد.",
-            "این فناوری بدون کاهش نور ورودی، نمای شیشه‌ای برج‌ها را به نیروگاه‌های کوچک تبدیل می‌کند."
-        ],
-        "full_text": "ClearVue announces coating breakthrough for energy-generating solar glass  pv magazine Global",
-        "impact": "هزینه‌های تامین انرژی ساختمان‌های بلندمرتبه را به شکلی ملموس کاهش می‌دهد.",
-        "tag": "سخت‌افزار",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "pv magazine Global",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWxIOW0yVVA4WVRwUExRY05XT2VLNUZxU29HLUY4VXFqcm1wOFBIT3NKcmFLcXZmQm9lTm1zSDItakppdjNjS09Mc1AtdWJUQVhtblJqa3ZMVVZLaGgyM21WTlZ5bUVoWTFTNjRpSGVNVEJYQm5kWDRHZWxLeEI1U1BianFmQVR6MUo5Qkp0LXJLWUhyVk5oQ0ZQUXFjckcwenNfcVhNTTUzWHNqSzMyRk5fYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWxIOW0yVVA4WVRwUExRY05XT2VLNUZxU29HLUY4VXFqcm1wOFBIT3NKcmFLcXZmQm9lTm1zSDItakppdjNjS09Mc1AtdWJUQVhtblJqa3ZMVVZLaGgyM21WTlZ5bUVoWTFTNjRpSGVNVEJYQm5kWDRHZWxLeEI1U1BianFmQVR6MUo5Qkp0LXJLWUhyVk5oQ0ZQUXFjckcwenNfcVhNTTUzWHNqSzMyRk5fYw",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788154772.0
-    },
-    {
-        "id": "43289deee0",
-        "title_fa": "ورود استور جهانی بازی به ۱۲۲ کشور با تمرکز بر هوش مصنوعی",
-        "title_en": "'ONE Store Global' Launches in 122 Countries... Distributes AI and Blockchain Games",
-        "summary": [
-            "پلتفرم ONE Store فعالیت بین‌المللی خود را برای توزیع بازی‌های مبتنی بر هوش مصنوعی و بلاک‌چین در ۱۲۲ کشور آغاز کرد.",
-            "این مارکت‌پلیس تلاش می‌کند کارمزدهای کمتری از توسعه‌دهندگان مستقل بازی دریافت کند."
-        ],
-        "full_text": "'ONE Store Global' Launches in 122 Countries... Distributes AI and Blockchain Games  Inven Global",
-        "impact": "رقابت در بازار توزیع بازی‌های مبتنی بر هوش مصنوعی را جدی‌تر می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "Inven Global",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXdFV2ZhWHpOV0dDWl91cW10WnZKUFVkQUtCc21FVjZlbnY2ZzIwWE02UDI4SXJqWm5vNGp4Ri1nWDE5MmUxVjRHTTBjaTQtR0VXVXVVYWxmajRCVjhrZ3BLNExIRkZkUERDYmx0NnRWNjd3N3I0MVBwb0sxUUpVbnFkR0Rjclh2WnV4REg2UnN6c0xmVm1yUUl2RzNrNEVxNEtDUzFQajVtNWNUTC1HNnRJVDM2bU5TVER0YXJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXdFV2ZhWHpOV0dDWl91cW10WnZKUFVkQUtCc21FVjZlbnY2ZzIwWE02UDI4SXJqWm5vNGp4Ri1nWDE5MmUxVjRHTTBjaTQtR0VXVXVVYWxmajRCVjhrZ3BLNExIRkZkUERDYmx0NnRWNjd3N3I0MVBwb0sxUUpVbnFkR0Rjclh2WnV4REg2UnN6c0xmVm1yUUl2RzNrNEVxNEtDUzFQajVtNWNUTC1HNnRJVDM2bU5TVER0YXJB",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788152430.0
-    },
-    {
-        "id": "b4f3160629",
-        "title_fa": "همکاری تایلند و OpenAI برای راه‌اندازی شتاب‌دهنده هوش مصنوعی",
-        "title_en": "Thailand and OpenAI launch an accelerator programme for AI startups",
-        "summary": [
-            "دولت تایلند با مشارکت مستقیم OpenAI برنامه ویژه‌ای برای حمایت از استارتاپ‌های بومی هوش مصنوعی آغاز کرد.",
-            "این پروژه دسترسی مستقیم تیم‌های نوپا به مدل‌ها و زیرساخت‌های فنی OpenAI را ممکن می‌سازد."
-        ],
-        "full_text": "Thailand and OpenAI launch an accelerator programme for AI startups  Asia Tech Review",
-        "impact": "موقعیت تایلند را به عنوان مرکز جدید توسعه هوش مصنوعی در جنوب شرق آسیا تثبیت می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "Asia Tech Review",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eG9iOG9vSWE2cWMtd1pmdDlJUlNMVU80Rl90NURmcHZhUDJwS0VieEJZNzAwX3JuT0tYVDFOLWhWNGJJcDJHRnhFYmpZS1R4RXFQbzZBU1RuQ2NxTUx0ZkdCcHpROEV0cnJGcWk1bzZ6T05lMk1BZEoxVVo1N3M?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4eG9iOG9vSWE2cWMtd1pmdDlJUlNMVU80Rl90NURmcHZhUDJwS0VieEJZNzAwX3JuT0tYVDFOLWhWNGJJcDJHRnhFYmpZS1R4RXFQbzZBU1RuQ2NxTUx0ZkdCcHpROEV0cnJGcWk1bzZ6T05lMk1BZEoxVVo1N3M",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788152414.0
-    },
-    {
-        "id": "8d791bcaf8",
-        "title_fa": "سرمایه‌گذاری ۴۰ میلیارد دلاری هانوا در هوش مصنوعی و هوافضا",
-        "title_en": "Hanwha to Invest 55 Trillion Won in Aerospace, AI by 2040",
-        "summary": [
-            "کنگلومرای کره‌ای هانوا متعهد شد تا سال ۲۰۴۰ معادل ۵۵ تریلیون وون در دو حوزه استراتژیک هوافضا و هوش مصنوعی هزینه کند.",
-            "این طرح عظیم برای ارتقای توان رقابتی کره جنوبی در صنایع پیشرفته نسل بعدی برنامه‌ریزی شده است."
-        ],
-        "full_text": "Hanwha to Invest 55 Trillion Won in Aerospace, AI by 2040  thelec.net",
-        "impact": "جریان سرمایه در بازار فناوری‌های هوافضا و زیرساخت‌های هوش مصنوعی آسیا را به شدت تقویت می‌کند.",
-        "tag": "استارتاپ و سرمایه‌گذاری",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "thelec.net",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkS1EtVUZZNlhlZ1FISXoyNWtyZEo2WEpkeTl3bnNqQUVBa0FRSk11b0NjSFMzNzNVbzRZcFlpTlUxa190Z04yQ1FjNEw4YzVHLW01TTVMYm04LU5SWW40YmlhNHNlYTA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkS1EtVUZZNlhlZ1FISXoyNWtyZEo2WEpkeTl3bnNqQUVBa0FRSk11b0NjSFMzNzNVbzRZcFlpTlUxa190Z04yQ1FjNEw4YzVHLW01TTVMYm04LU5SWW40YmlhNHNlYTA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788149525.0
-    },
-    {
-        "id": "891c8390cb",
-        "title_fa": "توسعه جهانی پلتفرم مالی Yeahka با به کارگیری هوش مصنوعی",
-        "title_en": "Yeahka's Overseas Business Enters a New Phase of Scaled Growth as AI Opens Up Long-Term Opportunities",
-        "summary": [
-            "شرکت فین‌تک Yeahka با ادغام هوش مصنوعی در سیستم‌های خود، رشد تجارت بین‌المللی‌اش را وارد فاز تازه‌ای کرد.",
-            "ابزارهای هوش مصنوعی در این پلتفرم باعث بهینه‌سازی پردازش پرداخت‌ها و تحلیل دقیق‌تر داده‌ها شده‌اند."
-        ],
-        "full_text": "Yeahka's Overseas Business Enters a New Phase of Scaled Growth as AI Opens Up Long-Term Opportunities  Yahoo Finance Singapore",
-        "impact": "سرعت نفوذ ابزارهای هوش مصنوعی را در صنعت پرداخت و فین‌تک‌های آسیایی افزایش می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDE0RnB6dVRpX3F2RXU0TUR2aUZWczB0Smh3RUxZaW9sRVBCZzNGa3VyS1pOeVdGb012enRKX2VEcmh0Um5kNVR2UHhBSWNFbVRwdjR4QkttdkdzQjFFV3dUaG5taG5EeHhTOEdNODFIQzlDYjAzM2dpd0k2UFgwb21aR3U5dENyRDl2emJUQnQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSDE0RnB6dVRpX3F2RXU0TUR2aUZWczB0Smh3RUxZaW9sRVBCZzNGa3VyS1pOeVdGb012enRKX2VEcmh0Um5kNVR2UHhBSWNFbVRwdjR4QkttdkdzQjFFV3dUaG5taG5EeHhTOEdNODFIQzlDYjAzM2dpd0k2UFgwb21aR3U5dENyRDl2emJUQnQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788149460.0
     }
 ]
