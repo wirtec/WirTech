@@ -1,5 +1,93 @@
 [
     {
+        "id": "6337f0f050",
+        "title_fa": "همکاری کورسرا و یودمی برای ساخت پلتفرم آموزشی مبتنی بر هوش مصنوعی",
+        "title_en": "Coursera and Udemy to Launch AI-Native Skills Platform",
+        "summary": [
+            "دو پلتفرم بزرگ آموزش آنلاین، کورسرا و یودمی، برای طراحی یک سیستم جدید ارتقای مهارت مبتنی بر هوش مصنوعی دست به همکاری زده‌اند.",
+            "این سیستم مسیرهای یادگیری را متناسب با نیازهای لحظه‌ای بازار کار تک تنظیم می‌کند."
+        ],
+        "full_text": "Coursera and Udemy to Launch AI-Native Skills Platform  Built In",
+        "impact": "تغییر ساختار آموزش آنلاین و شتاب‌دهی به بازآموزی نیروی کار در حوزه فناوری.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.75,
+        "source": "Built In",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HUEgtdUlQclprREdldF9DakFhTGljeFViNzhGNjc4VEd4YlRNS1VJZjRsWExaemN5SFFQMHRUNDhxQnAyRDNTYzJpUThucE1VbEdqa2JyMDIwNWRPanlUY2dmQ1ZuLXV6TUFIdlhwZHN0YmxX?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HUEgtdUlQclprREdldF9DakFhTGljeFViNzhGNjc4VEd4YlRNS1VJZjRsWExaemN5SFFQMHRUNDhxQnAyRDNTYzJpUThucE1VbEdqa2JyMDIwNWRPanlUY2dmQ1ZuLXV6TUFIdlhwZHN0YmxX",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789073449.0
+    },
+    {
+        "id": "9fd145e42c",
+        "title_fa": "ورود کورویو به حوزه هوش مصنوعی فیزیکی با تیم مهندسی جدید",
+        "title_en": "What Does CoreWeave (CRWV) Gain From Its Physical AI Field Engineering Launch?",
+        "summary": [
+            "شرکت کورویو خدمات مهندسی میدانی هوش مصنوعی فیزیکی را برای اتصال مدل‌های هوشمند به زیرساخت‌های سخت‌افزاری راه‌اندازی کرد.",
+            "این اقدام سهم درآمدی کورویو را از پردازش ابری ساده به سمت حل چالش‌های عملیاتی در صنایع و رباتیک سوق می‌دهد."
+        ],
+        "full_text": "What Does CoreWeave (CRWV) Gain From Its Physical AI Field Engineering Launch?  simplywall.st",
+        "impact": "تسریع پیاده‌سازی مدل‌های هوش مصنوعی در صنایع فیزیکی و سیستم‌های رباتیک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.65,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnA2RFpsSFFJNlRjTENjN255T053bnF2MEdQbXg4QXY1X2ZkTzR2Y29BNXd1V1dJV2JxVFFJaUdCRGozYURTWlpPMTg2Rjlkbm5NWTI4WlYxQW56Tm5Ld1dHX0YzclYzZG9OM3BWeURoTVhmaTRvQndqSnVHX0NpNEhQeXBJYkNHWVFqMEVQcndDNG9QU0NuSkV1Um1CdVl1bzdzeF9XQVQzbFItRk9SWHY2Q3JyYmlVbjNlTzdPVnpCcTJQM09v0gHMAUFVX3lxTFBQVjVYX01GU1E5SVZwRjZrMWxtQVg5dEpGbGEwY3FqbnVlZXhOV1ZJV3cwcnU1X1djbzF1TUFxeEVqQmNZME0yVnU0clY5YXd4QjlCUGpoaUhfdE5IVE9kSEROZWFFcGlya201OVZydUVEWHdyQ3d5eFdQYjA4U2RSMzYzY1ZqSDAxXzVLTjZkN1lkRG1DWlJyeHdKZTFDNTdLYk0tSndQVHBTREt5VHVJZDA1RU9zY2owMU1zcENiamtjN09iY1phZWxjUA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnA2RFpsSFFJNlRjTENjN255T053bnF2MEdQbXg4QXY1X2ZkTzR2Y29BNXd1V1dJV2JxVFFJaUdCRGozYURTWlpPMTg2Rjlkbm5NWTI4WlYxQW56Tm5Ld1dHX0YzclYzZG9OM3BWeURoTVhmaTRvQndqSnVHX0NpNEhQeXBJYkNHWVFqMEVQcndDNG9QU0NuSkV1Um1CdVl1bzdzeF9XQVQzbFItRk9SWHY2Q3JyYmlVbjNlTzdPVnpCcTJQM09v0gHMAUFVX3lxTFBQVjVYX01GU1E5SVZwRjZrMWxtQVg5dEpGbGEwY3FqbnVlZXhOV1ZJV3cwcnU1X1djbzF1TUFxeEVqQmNZME0yVnU0clY5YXd4QjlCUGpoaUhfdE5IVE9kSEROZWFFcGlya201OVZydUVEWHdyQ3d5eFdQYjA4U2RSMzYzY1ZqSDAxXzVLTjZkN1lkRG1DWlJyeHdKZTFDNTdLYk0tSndQVHBTREt5VHVJZDA1RU9zY2owMU1zcENiamtjN09iY1phZWxjUA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789071788.0
+    },
+    {
+        "id": "58d179d99f",
+        "title_fa": "دستیار هوشمند Muse متا به رتبه دوم پردانلودترین اپ‌های آمریکا رسید",
+        "title_en": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "summary": [
+            "اپلیکیشن جدید هوش مصنوعی متا با نام Muse جهش بی‌سابقه‌ای در استورهای آمریکا داشته و در صدر جدول برنامه‌های پردانلود قرار گرفته است.",
+            "این جهش سریع، رقابت مستقیم متا با اپلیکیشن‌هایی مثل ChatGPT را وارد فاز تازه‌ای کرده است."
+        ],
+        "full_text": "Meta’s AI agent Muse is now the No. 2 app in the US  TechCrunch",
+        "impact": "جابه‌جایی سهم بازار اپلیکیشن‌های هوش مصنوعی و تهدید جدی برای جایگاه ابزارهای قدیمی‌تر.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmRmVzY0aFR5dHNvbVloYndZbnVqRUY5YzdQaVlnRmtsVFlHSE55eFAyemk5OW5WeTFPQW91UkgzM0VjbVhWcXBUaVRyWWdZOFU1RndJanN6eHFWY09ONy1BVjdpckF0R3kzYkE5U0ZXX2FHSTdrYlZXa0hvWThwUklOZEY4VmwwTlBTMA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789069804.0
+    },
+    {
+        "id": "3002562297",
+        "title_fa": "گرنت ۱۰۰ هزار دلاری به دانشگاه مورگان برای آموزش هوشمند ورزشکاران",
+        "title_en": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative",
+        "summary": [
+            "دانشگاه مورگان استیت بودجه ۱۰۰ هزار دلاری دریافت کرده تا سیستم پشتیبانی تحصیلی دانشجویان-ورزشکار را به هوش مصنوعی تجهیز کند.",
+            "این برنامه با هدف شخصی‌سازی آموزش و بهبود عملکرد آکاديمیک دانشجویان اجرا می‌شود."
+        ],
+        "full_text": "Morgan Awarded $100,000 NCAA Grant to Launch AI-Enhanced Academic Support Initiative  Morgan State University",
+        "impact": "توسعه ابزارهای هوشمند شخصی‌سازی‌شده در محیط‌های آموزشی و ورزشی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "Morgan State University",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEpVcnZpdl9INnRIQnUwMExPOVVqdE9oekdwRnlmU0JndnJKQkY3TVpMUTVublZwUlZoNTNRdHFOa0tyZF9TNTBTQlFXTEc2NF9acjk1Rm9SVUZ0Zjk0c0ZwRTZmZFBzdTJSangtN0MxMER4Q05seFp4M0Z6Qnd4ZXplTjBMLU1Vd3R0Zm9YaHV1QWtFNmM4OHZvNjVaUENXMndXT1ZXZGtSTVYyRUk3dTJYWmplN0ZJaVJxcW1sa296YXhudDlQRDV2c3BpVmRyQkV1NVd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeEpVcnZpdl9INnRIQnUwMExPOVVqdE9oekdwRnlmU0JndnJKQkY3TVpMUTVublZwUlZoNTNRdHFOa0tyZF9TNTBTQlFXTEc2NF9acjk1Rm9SVUZ0Zjk0c0ZwRTZmZFBzdTJSangtN0MxMER4Q05seFp4M0Z6Qnd4ZXplTjBMLU1Vd3R0Zm9YaHV1QWtFNmM4OHZvNjVaUENXMndXT1ZXZGtSTVYyRUk3dTJYWmplN0ZJaVJxcW1sa296YXhudDlQRDV2c3BpVmRyQkV1NVd3",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789063891.0
+    },
+    {
         "id": "ede681cf99",
         "title_fa": "سرمایه‌گذاری ۲۰ میلیون دلاری دانشگاه شمال تگزاس برای تاسیس دانشکده هوش مصنوعی",
         "title_en": "UNT to Launch $20M Sinha College of AI and Advanced Analytics",
@@ -42,6 +130,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789058444.0
+    },
+    {
+        "id": "eab37fb7ab",
+        "title_fa": "جهش ۵ گیگاهرتزی کوالکام برای اجرای هوش مصنوعی روی موبایل",
+        "title_en": "Qualcomm's next Snapdragon mobile chip comes into focus with on-device AI",
+        "summary": [
+            "کوالکام معماری پردازنده بعدی خود را افشا کرد؛ پردازنده Oryon با فرکانس بی‌سابقه‌ی ۵ گیگاهرتز و واحد پردازش عصبی (NPU) بهبودیافته Hexagon.",
+            "سیستم جدید FlexCache داده‌ها را به هسته‌ها نزدیک‌تر می‌کند تا ایجنت‌های هوش مصنوعی بدون افت سرعت روی خود گوشی اجرا شوند.",
+            "هدف اصلی کوالکام، بی‌نیازی گوشی‌های اندرویدی پرچمدار از پردازش ابری در سناریوهای پیچیده هوش مصنوعی است."
+        ],
+        "full_text": "Qualcomm is taking an unusual approach to the launch of its next-generation premium Snapdragon mobile platform this year. Instead of holding everything for its annual Snapdragon Summit in Maui happening later this month, the company has been methodically disclosing the architecture that will power the next wave of flagship Android phones over the past couple of weeks. First, the company disclosed its new Oryon CPU architecture, followed by a major overhaul of its Adreno GPU. Today, Qualcomm is detailing the next-generation Hexagon NPU that will serve as the platform’s primary AI engine. Taken together, the disclosures give us a pretty good picture of where Qualcomm is going before we even know the chip’s official name. There is obviously a strong performance story here, anchored by a 5GHz CPU, but the more interesting theme running through the architecture is memory locality and specialized AI acceleration. Qualcomm is trying to keep more data close to the compute resources that need it, while distributing AI workloads across the CPU, GPU and NPU. These architectural changes are important as the company continues to drive on-device AI beyond relatively simple generative features toward more persistent, agentic workloads. Oryon hits 5GHz, bolstered by FlexCache Qualcomm disclosed in August that its next Oryon CPU will be the first mobile CPU to reach 5GHz. The eight-core design includes two 5GHz Prime cores and six Performance cores, with Qualcomm attributing the frequency gains to its fully custom Oryon microarchitecture, an in-house Arm-based CPU design that gives the company full control over the cores, cache and memory hierarchy, branch prediction and CPU subsystem. The 5GHz headline is certainly going to get attention. However, Qualcomm’s new FlexCache architecture may ultimately have a larger impact on sustained performance. FlexCache allows Oryon’s Prime and Performance cores to tap into the same shared cache pool, with capacity dynamically allocated based on the workload. So rather than a demanding core being limited to a fixed slice of cache, it can draw on more of the available pool when needed. This keeps larger working data sets close to the CPU cores and reduces high-latency trips out to system memory. This approach should benefit everything from gaming and multitasking to content creation, but it also aligns well with agentic AI workloads, where tasks may move through several stages of processing and across different CPU cores. The basic goal is straightforward: keep the CPU fed and avoid expensive trips to external memory. Qualcomm’s next-gen Adreno GPU adds dedicated AI engines Qualcomm’s next disclosure focused on graphics, where the company is making one of the more significant changes to its Adreno GPU engine in recent years. The new GPU adds dedicated Adreno Matrix Cores for running AI models directly inside the graphics pipeline. They’re paired with 18MB of Adreno High-Performance Memory, or HPM, which provides low-latency local storage for tile-based rendering, frame buffers and GPU compute. Qualcomm claims HPM provides a 12% power improvement compared to its previous-gen Snapdragon 8 Elite Gen 5. The more visible feature for users, however, may be Adreno Neural Fusion, which combines AI super resolution, neural processing and frame generation in a unified graphics pipeline. There are obvious parallels here to what NVIDIA, AMD and others are doing with neural rendering on the PC, though Qualcomm’s next-gen Snapdragon SoC has to operate within a much tighter mobile power envelope. Qualcomm claims enabling Neural Fusion reduces power consumption by up to 40% in its internal testing using the company’s Dragon Alley graphics demo. That’s an impressive number, though as always, we’ll want to see how the technology behaves across actual shipping games and devices before drawing any definitive conclusions. Qualcomm has also helped integrate Neural Fusion technology into Unity and Unreal Engine, which may ultimately be just as important as the underlying hardware. Developer adoption determines whether features like this become meaningful platform advantages or just another tick box on a spec sheet. Qualcomm’s Hexagon NPU is being reworked for agentic AI Qualcomm The most recent disclosure centers on Qualcomm’s Hexagon NPU, where the broader architecture starts to come together. The company’s next-generation Hexagon introduces a new Element Accelerator designed for transformer workloads, alongside its existing vector and scalar processing resources. Qualcomm says the new block is optimized for fast action loops, key-value (KV) cache acceleration and context lengths of up to 32K. Hexagon is also getting 50% more shared memory, and again, that memory complement is important. Model state, context and KV-cache data can generate substantial memory traffic, particularly with larger language models. Keeping more of that data close to the NPU can reduce latency and power consumption. Qualcomm says the architecture is designed for long-context reasoning, multimodal models, concurrent agents and low-latency action loops. For INT4 quantized models, the company claims up to a 50% improvement in pre-fill performance versus its previous-generation Snapdragon 8 Elite Gen 5. Qualcomm is also targeting Mixture-of-Experts, or MoE, models as large as 30 billion parameters. In its example, the company points to a 30B model that activates only about 3 billion parameters during a given token-generation step. That selective approach is a natural fit for the tight power and memory constraints of a handset. Qualcomm isn’t suggesting that a smartphone will simply run a 30B dense model entirely from DRAM, however. By activating only the experts needed for a particular task, MoE architectures can dramatically reduce active compute and memory bandwidth requirements, potentially making much larger classes of AI models practical on mobile hardware. Qualcomm’s next-gen Snapdragon mobile impact There is a la",
+        "impact": "اجرای روان پردازش‌های سنگین و ایجنت‌های هوش مصنوعی روی پرچمداران بعدی اندروید بدون نیاز به اینترنت.",
+        "tag": "سخت‌افزار",
+        "urgency": 8,
+        "sentiment": 0.85,
+        "source": "Computerworld",
+        "url": "https://www.computerworld.com/article/4220719/qualcomms-next-snapdragon-mobile-chip-comes-into-focus-with-on-device-ai.html",
+        "clean_url": "https://www.computerworld.com/article/4220719/qualcomms-next-snapdragon-mobile-chip-comes-into-focus-with-on-device-ai.html",
+        "image": "https://www.computerworld.com/wp-content/uploads/2026/09/4220719-0-21583400-1789045492-qualcomm-ceo-on-stage-at-snapdragon-summit.jpg?quality=50&strip=all&w=1024",
+        "images": [
+            "https://www.computerworld.com/wp-content/uploads/2026/09/4220719-0-21583400-1789045492-qualcomm-ceo-on-stage-at-snapdragon-summit.jpg?quality=50&strip=all&w=1024",
+            "https://www.computerworld.com/wp-content/uploads/2026/09/4220719-0-78611900-1789048545-qualcomm-ceo-on-stage-at-snapdragon-summit.jpg?quality=50&strip=all&w=1024",
+            "https://www.computerworld.com/wp-content/uploads/2026/09/99-0-37979900-1789048475-author_photo_dave_altavilla_1784125436.png?w=146",
+            "https://b2b-contenthub.com/wp-content/uploads/2026/09/snapdragon-agentic-flow.jpg?quality=50&strip=all&w=1024"
+        ],
+        "timestamp": 1789056960.0
     },
     {
         "id": "7aa219b706",
@@ -130,6 +244,28 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789042130.0
+    },
+    {
+        "id": "72a887f3bb",
+        "title_fa": "رونمایی از شیائومی ۱۸ فولد با باتری ۶۰۰۰ میلی‌آمپری و تراشه اختصاصی",
+        "title_en": "Xiaomi 18 Fold Brings a Wider Screen, 6,000mAh Battery, and XRING O3 Chip",
+        "summary": [
+            "شیائومی با معرفی گوشی تاشو ۱۸ فولد، نمایشگر عریض‌تر و باتری قدرتمند ۶۰۰۰ میلی‌آمپرساعتی را به بازار چین آورده است.",
+            "استفاده از تراشه اختصاصی XRING O3 گامی جدی برای استقلال این شرکت در پردازش سخت‌افزاری محسوب می‌شود."
+        ],
+        "full_text": "Price, Specs, and Availability Xiaomi's first wide-format foldable, the 18 Fold, is up for preorder in mainland China",
+        "impact": "ارتقای استاندارد شارژدهی و پردازش اختصاصی در بازار گوشی‌های تاشو.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "hacks",
+        "url": "https://smartphones.gadgethacks.com/news/xiaomi-18-fold-launches-in-china-price-specs-and-availability/",
+        "clean_url": "https://smartphones.gadgethacks.com/news/xiaomi-18-fold-launches-in-china-price-specs-and-availability",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789038060.0
     },
     {
         "id": "e6fed721fb",
@@ -6872,140 +7008,5 @@
             "https://s.yimg.com/lo/mysterio/api/ee9288910dcf04451da262449e4e27b43e9d57958cb7007a6cf6525a36fc21e6/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fbd318ee38abd2884fd82d5b9617960c2.jpg"
         ],
         "timestamp": 1788215407.0
-    },
-    {
-        "id": "6c91d63f4d",
-        "title_fa": "چرا چشم انسان رنگ‌ها را در چهار طیف اصلی می‌بیند؟",
-        "title_en": "Nature's color palette explains why everything we see is a mix of red, yellow, green and blue",
-        "summary": [
-            "زیست‌شناسان و زبان‌شناسان علل علمی نام‌گذاری و تشخیص رنگ‌ها بر پایه چهار رنگ اصلی را کالبدشکافی کردند.",
-            "ترکیب بینایی انسان و تکامل زبان، نحوه درک ما از رنگ‌های سرخ، زرد، سبز و آبی را شکل داده است."
-        ],
-        "full_text": "Biologists and linguists alike have long puzzled over the universal human tendency to see and name colors as a combination of four \"pure\" hues—red, yellow, green and blue.",
-        "impact": "درک دقیق‌تر مکانیزم بینایی به بهبود الگوریتم‌های پردازش تصویر و نمایشگرهای نسل جدید کمک می‌کند.",
-        "tag": "علم",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "Phys.org",
-        "url": "https://www.msn.com/en-us/news/other/natures-color-palette-explains-why-everything-we-see-is-a-mix-of-red-yellow-green-and-blue/ar-AA2biycw",
-        "clean_url": "https://www.msn.com/en-us/news/other/natures-color-palette-explains-why-everything-we-see-is-a-mix-of-red-yellow-green-and-blue/ar-AA2biycw",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/natures-color-palette.jpg",
-        "images": [
-            "https://scx2.b-cdn.net/gfx/news/2026/natures-color-palette.jpg"
-        ],
-        "timestamp": 1788215403.0
-    },
-    {
-        "id": "04fd1698b7",
-        "title_fa": "رونمایی سربراس از سیستم CS-4 برای پردازش پردازنده‌های غول‌پیکر AI",
-        "title_en": "What Does Cerebras Systems (CBRS) CS 4 Launch Mean For Its AI Push?",
-        "summary": [
-            "شرکت سربراس نسل جدید ابررایانه CS-4 را برای آموزش و اجرای مدل‌های زبانی بزرگ معرفی کرد.",
-            "این سیستم سخت‌افزاری با هدف رقابت مستقیم با تراشه‌های گرافیکی انویدیا و کاهش هزینه‌های پردازش هوش مصنوعی عرضه شده است."
-        ],
-        "full_text": "What Does Cerebras Systems (CBRS) CS 4 Launch Mean For Its AI Push?  Yahoo! Finance Canada",
-        "impact": "تشدید رقابت سخت‌افزاری در بازار تراشه‌های هوش مصنوعی و کاهش انحصار انویدیا.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelZrTWx0dlkwa3k2MXpHWnZfa0ZreEhVNGIxV1gwM083M3BMc3dfRS1qMGlCclFjcENvQ1BfM3pWVE9USUM4VlVsTVRNcnhXaUQ5ejJEMWl1RnNVNTZtN1E3ZWEyaEZTUWxHb25MR2htMktpTnh1OF8xbjVidGowMmExOFc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelZrTWx0dlkwa3k2MXpHWnZfa0ZreEhVNGIxV1gwM083M3BMc3dfRS1qMGlCclFjcENvQ1BfM3pWVE9USUM4VlVsTVRNcnhXaUQ5ejJEMWl1RnNVNTZtN1E3ZWEyaEZTUWxHb25MR2htMktpTnh1OF8xbjVidGowMmExOFc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788215202.0
-    },
-    {
-        "id": "c34a447470",
-        "title_fa": "تلفیق داده‌های جغرافیایی با چت‌بات‌های هوش مصنوعی شهری",
-        "title_en": "Cities are giving their AI chatbots a new dimension: geography",
-        "summary": [
-            "شهرداری‌ها داده‌های مکانی و نقشه‌ای (GIS) را به چت‌بات‌های پاسخگوی خود اضافه می‌کنند.",
-            "این ارتقا باعث می‌شود شهروندان بر اساس موقعیت جغرافیایی دقیق خود، اطلاعات و خدمات دریافت کنند."
-        ],
-        "full_text": "Cities are giving their AI chatbots a new dimension: geography  StateScoop",
-        "impact": "افزایش دقت و کارایی چت‌بات‌های ارائه خدمات شهری به شهروندان.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "StateScoop",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HYnNya2d6UzBYNkJsWUt0czNjQnBWMktJX3dENVJFUWV4YURBcU1mcGtOQWgtY0xQZUNITHl2NWpBTlh3UVd0S1RJZEM1YWhDc3BwNjdiOGpiTHlIVTZ0cGRpTXlYdHQyckRERGVFaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HYnNya2d6UzBYNkJsWUt0czNjQnBWMktJX3dENVJFUWV4YURBcU1mcGtOQWgtY0xQZUNITHl2NWpBTlh3UVd0S1RJZEM1YWhDc3BwNjdiOGpiTHlIVTZ0cGRpTXlYdHQyckRERGVFaw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788213222.0
-    },
-    {
-        "id": "00eb340b93",
-        "title_fa": "همکاری AMD و Humain برای عرضه پلتفرم هوش مصنوعی در عربستان",
-        "title_en": "Humain, AMD launch AI platform for Saudi businesses",
-        "summary": [
-            "شرکت AMD با همکاری استارتاپ Humain پلتفرم پردازش هوش مصنوعی ویژه‌ای را برای شرکت‌های عربستانی راه‌اندازی کرد.",
-            "این پروژه به شرکت‌های منطقه اجازه می‌دهد زیرساخت‌های پردازشی خود را سریع‌تر مدرن‌سازی کنند."
-        ],
-        "full_text": "Humain, AMD launch AI platform for Saudi businesses  Muslim Network TV",
-        "impact": "تسریع بومی‌سازی زیرساخت‌های هوش مصنوعی در سازمان‌ها و کسب‌وکارهای خاورمیانه.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Muslim Network TV",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUxxcGZGeXZZTlFReHhFRm5FZ2FlbDRSbTNQdk9pN1VtTGtUMEF2Y0l3aUxWOWFUQzU3SzlWSnMxX1M0YTBNU2xyZjA4NjJ4c1RONzA0aFY1Q011RkRJREp4MUlrLUdfQmRUYm5kSXlhWk0yaEgxMjBVajBFUjVNVk5QMDNjR2s?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUxxcGZGeXZZTlFReHhFRm5FZ2FlbDRSbTNQdk9pN1VtTGtUMEF2Y0l3aUxWOWFUQzU3SzlWSnMxX1M0YTBNU2xyZjA4NjJ4c1RONzA0aFY1Q011RkRJREp4MUlrLUdfQmRUYm5kSXlhWk0yaEgxMjBVajBFUjVNVk5QMDNjR2s",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788211937.0
-    },
-    {
-        "id": "50d0ea4709",
-        "title_fa": "تحلیل ریسک‌های سرمایه‌گذاری در سهام تجاری VICI Properties",
-        "title_en": "Don't Double Down On VICI Properties: The Dealer Has Blackjack",
-        "summary": [
-            "تحلیل‌گران بازار سرمایه نسبت به خرید بیشتر سهام صندوق املاک VICI هشدار می‌دهند.",
-            "چالش‌های موجود در بازار املاک تجاری، بازدهی خریداران این سهام را با ابهام روبه‌رو کرده است."
-        ],
-        "full_text": "I have been critical of VICI Properties (VICI) for at least a year. It wasnât always that way. A few years ago, I sold some puts on VICI. Some of them got assigned to me. So, I waited Analystâs Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Seeking Alpha's Disclosure:Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.",
-        "impact": "افزایش احتیاط سرمایه‌گذاران خرد در قبال سهام مربوط به املاک تجاری و REIT ها.",
-        "tag": "تحلیل مالی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4941888-dont-double-down-on-vici-properties-the-dealer-has-blackjack",
-        "clean_url": "https://seekingalpha.com/article/4941888-dont-double-down-on-vici-properties-the-dealer-has-blackjack",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w1536",
-        "images": [
-            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w1536",
-            "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247106163/image_2247106163.jpg?io=getty-c-w630"
-        ],
-        "timestamp": 1788210180.0
-    },
-    {
-        "id": "329c5979cc",
-        "title_fa": "رقابت ۱ تریلیون دلاری؛ چالش جدید مدیران در تخصیص سرمایه AI",
-        "title_en": "The AI boom is Raising the stakes for capital allocation",
-        "summary": [
-            "پیش‌بینی گلدمن ساکس از سرمایه‌گذاری ۱ تریلیون دلاری در زیرساخت‌های AI نشان می‌دهد مزیت رقابتی شرکت‌ها از «توسعه ابزار» به «تخصیص درست سرمایه» تغییر کرده است.",
-            "با ارزان و ساده شدن اجرای کارهای فنی، ابزارهای شبیه‌سازی هوشمند به تنها راه نجات مدیران برای تصمیم‌گیری در بازارهای پرابهام تبدیل شده‌اند."
-        ],
-        "full_text": "Artificial intelligence has entered a capital-intensive new phase. Goldman Sachs Research estimates global AI investment could reach about $1 trillion in 2026, underscoring the scale of infrastructure and development now underway. As access to more capable models and computers expands, the time and marginal cost of many execution‑focused tasks may continue to fall. Gartner highlights domain‑specific AI, physical AI, and intelligent simulation as emerging trends, potentially signaling a shift toward more specialized and embodied applications. These developments seem to sharpen a strategic question for business leaders. With powerful tools becoming broadly accessible, deciding where to concentrate capital, talent, and organizational focus may increasingly define competitive advantage. That question may become more consequential in an environment where the conditions surrounding a decision can change quickly. EY has described supply chains as operating amid geopolitical disruption, trade uncertainty, regulatory volatility, cyber threats, and hidden dependencies, while also pointing to broader shifts in tariffs, markets, and global operating conditions. AI may help organizations process information and identify patterns within that complexity, yet standard predictive systems can still face difficulty when the actors influencing an outcome respond to one another. Historical data may offer a useful starting point, although it can provide only a partial guide when competitors revise their positions, regulators introduce new considerations, or boards alter plans in response to the same event. The stakes may be especially high as capital allocation decisions grow larger and more interconnected. EY's 2026 M&A Activity Report describes renewed momentum in strategic transactions, including activity across technology, power and utilities, life sciences, and aerospace and defense. Acquisitions, divestitures, market entries, and major investment commitments can involve assumptions about how several participants may react after a decision becomes public. A conventional diligence process may document available information thoroughly, yet a static analysis can have limits when the decision itself changes the environment being analyzed. For capital allocators, the challenge may therefore extend beyond identifying the most likely outcome to considering a wider range of possible responses. This is where simulation seems to attract increasing attention. Gartner has identified intelligent simulation as an emerging area within decision intelligence, particularly for addressing complex problems. Meanwhile, Forbes reported that venture investors committed more than $3 billion during the first half of 2026 to startups developing \"world models,\" systems designed to model environments and how they evolve. Together, these developments may point toward a broader shift in how AI is being applied to complex decisions.",
-        "impact": "تغییر اولویت شرکت‌های بزرگ جهان از صرف تولید مدل به مدیریت بهینه سرمایه‌گذاری.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Quartz",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-raising-stakes-capital-200947411.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-raising-stakes-capital-200947411.html",
-        "image": "https://media.zenfs.com/en/quartz_855/b7cbd704bf6225fdf835825cf2705bbe.jpg",
-        "images": [
-            "https://media.zenfs.com/en/quartz_855/b7cbd704bf6225fdf835825cf2705bbe.jpg",
-            "https://s.yimg.com/lo/mysterio/api/cb432338228b4c508031edadafa1384c2583988ed52595fd143e13c4534b8ccc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb7cbd704bf6225fdf835825cf2705bbe.jpg",
-            "https://s.yimg.com/lo/mysterio/api/5eadcba7699ea985353105302418cfe0dbfb2ed9311bae4d780b9076ea5808e9/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fb7cbd704bf6225fdf835825cf2705bbe.jpg"
-        ],
-        "timestamp": 1788208207.0
     }
 ]
