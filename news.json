@@ -1,5 +1,50 @@
 [
     {
+        "id": "e6fed721fb",
+        "title_fa": "تاسیس استودیوی فیلم‌سازی Dreamkite توسط یوکو هیگوچی و مارک واشولز",
+        "title_en": "Yoko Higuchi-Zitzmann, Mark Wachholz Launch Dreamkite Studios",
+        "summary": [
+            "یوکو هیگوچی-زیتزمان و مارک واشولز استودیوی مستقل جدیدی با نام Dreamkite Studios راه‌اندازی کردند.",
+            "این استودیو روی تولید محصولات تصویری بین‌المللی و پروژه‌های داستانی تمرکز خواهد داشت."
+        ],
+        "full_text": "Yoko Higuchi-Zitzmann, Mark Wachholz Launch Dreamkite Studios  Variety",
+        "impact": "افزایش رقابت در ساخت پروژه‌های مستقل سینمایی و تلویزیونی در بازار اروپایی و بین‌المللی.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": 0.3,
+        "source": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlBpSDhNbGc1TDZZQV8zemdoTGRST3VwNGJ4Nk5KcHBrWkN6MDU0WXd0QWdxYmlUbGRmWnQ5VVNSbVRfWVBpTTlIbEJUSmdpcVMtNHBlUmR2VE1uU3RpQ0NTTWFwUUtSODktbWF6N2taRXB1bmtSTTVac3JkazJGZDZOR2NkYTlMRi1SQTZiTHA1a1pEb0Y3bFZEc0hpbk5FLXVicA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlBpSDhNbGc1TDZZQV8zemdoTGRST3VwNGJ4Nk5KcHBrWkN6MDU0WXd0QWdxYmlUbGRmWnQ5VVNSbVRfWVBpTTlIbEJUSmdpcVMtNHBlUmR2VE1uU3RpQ0NTTWFwUUtSODktbWF6N2taRXB1bmtSTTVac3JkazJGZDZOR2NkYTlMRi1SQTZiTHA1a1pEb0Y3bFZEc0hpbk5FLXVicA",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789023600.0
+    },
+    {
+        "id": "45bf0ae82d",
+        "title_fa": "برگزاری مسابقه جهانی فیلم‌سازی AI با مدل Wan3.0 علی‌بابا و iQIYI",
+        "title_en": "iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0",
+        "summary": [
+            "پلتفرم iQIYI با همکاری علی‌بابا و NadouPro چالش جدیدی برای سازندگان ویدیوهای هوش مصنوعی کلید زد.",
+            "این رویداد از مدل پیشرفته تولید ویدیوی Wan3.0 علی‌بابا برای تولید محتوای حرفه‌ای سینمایی استفاده می‌کند.",
+            "هدف این رقابت، کشف استعدادهای نوظهور و ادغام ابزارهای مولد در فرآیند واقعی فیلم‌سازی است."
+        ],
+        "full_text": "iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0  PR Newswire",
+        "impact": "تسریع ورود ابزارهای ساخت ویدیو با هوش مصنوعی به صنعت فیلم‌سازی و تولید محتوای حرفه‌ای.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMU1IQTEzVVdzeWNWNlpjZzJxUHJKZDF4ZEVWNUxTbkZCOWRlYXBMdDBybUdvdW04SlBvcnFXZkdvUG1XekthSDRsRi1CdTNhX0d4TnQwYjdCWnRCcHB2c1VSTWlpQWtCVV9kaTJSbTRUY2s0RmhZYWtydEFYbFlDdnh1bmI3TXhPdWtBRXVGRHZmVWhma1FjQVBNYkE3dEFwV1pJVzVocjVqVU1CdGNUcUdGeHA3cVA2b0VIY1Y2c0JadlVUOEtmY0IwZk5NQ0R6eE9vcFRSRVZvcFp2N0RvM0lzQTBmeGV5T2tEd2wyTVhrR3c4Zl9iMkVkV21RTmZjMklPTmttZk1uMHdvX0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMU1IQTEzVVdzeWNWNlpjZzJxUHJKZDF4ZEVWNUxTbkZCOWRlYXBMdDBybUdvdW04SlBvcnFXZkdvUG1XekthSDRsRi1CdTNhX0d4TnQwYjdCWnRCcHB2c1VSTWlpQWtCVV9kaTJSbTRUY2s0RmhZYWtydEFYbFlDdnh1bmI3TXhPdWtBRXVGRHZmVWhma1FjQVBNYkE3dEFwV1pJVzVocjVqVU1CdGNUcUdGeHA3cVA2b0VIY1Y2c0JadlVUOEtmY0IwZk5NQ0R6eE9vcFRSRVZvcFp2N0RvM0lzQTBmeGV5T2tEd2wyTVhrR3c4Zl9iMkVkV21RTmZjMklPTmttZk1uMHdvX0E",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789021740.0
+    },
+    {
         "id": "7170354bfd",
         "title_fa": "همکاری CaoCao و هوش مصنوعی Doubao برای تاکسی‌های اینترنتی",
         "title_en": "CaoCao Teams Up with Doubao to Launch AI Ride-Hailing Service, with Initial Rollout in Beijing, Hangzhou and Suzhou",
@@ -6963,49 +7008,5 @@
             "https://media.assettype.com/analyticsinsight%2F2026-08-31%2F6oajrk6d%2FWhy-Indian-IT-Companies-Are-Investing-in-European-Auto-Tech-Startups-1.jpg?w=480&auto=format%2Ccompress&fit=max"
         ],
         "timestamp": 1788184200.0
-    },
-    {
-        "id": "3a81ed376a",
-        "title_fa": "راهکار تبدیل نوآوری‌های مهندسی به ارزش مالی در صنعت انرژی",
-        "title_en": "Beyond the Breakthrough: Turning Engineering Innovation Into Enterprise Value in the Energy Industry",
-        "summary": [
-            "بررسی جدید صنعت انرژی بر چگونگی تجاری‌سازی سریع دستاوردهای جدید مهندسی و تبدیل آن‌ها به سود عملیاتی تمرکز دارد.",
-            "شرکت‌های بزرگ انرژی برای حفظ رقابت‌پذیری مجبورند فاصله میان نوآوری‌های آزمایشگاهی و پیاده‌سازی تجاری را به حداقل برسانند."
-        ],
-        "full_text": "Beyond the Breakthrough: Turning Engineering Innovation Into Enterprise Value in the Energy Industry  Energies Media",
-        "impact": "تسریع در تجاری‌سازی فناوری‌های مهندسی، بازگشت سرمایه را در پروژه‌های بزرگ انرژی به‌شدت افزایش می‌دهد.",
-        "tag": "کسب‌وکار",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "Energies Media",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDllU0hLWE9KVWY3ZnhLLW5wNk5PMEgzWFU3R3dGcWRZUVFfSzh2SlR2MlctRkdvOEUyZWFOVXEtSGY5b2xCYXA3V2RCcUx6cFRUY1ppZXFoRFBsbDcycm91UU9iSlR3NUpfWnItVzBpVFVXNFY0X1BQLUJralpkM0h2SU9MWmJ6dG5FdFF4T3pUMzZFelhIcDM3eTdMYWtkTDZ3am8tNlBjeGJjamVFUG83UDR1QTVnekwzbEMwenJrX0tY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbDllU0hLWE9KVWY3ZnhLLW5wNk5PMEgzWFU3R3dGcWRZUVFfSzh2SlR2MlctRkdvOEUyZWFOVXEtSGY5b2xCYXA3V2RCcUx6cFRUY1ppZXFoRFBsbDcycm91UU9iSlR3NUpfWnItVzBpVFVXNFY0X1BQLUJralpkM0h2SU9MWmJ6dG5FdFF4T3pUMzZFelhIcDM3eTdMYWtkTDZ3am8tNlBjeGJjamVFUG83UDR1QTVnekwzbEMwenJrX0tY",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788183174.0
-    },
-    {
-        "id": "dabf386d29",
-        "title_fa": "ربات‌های هوشمند Optimizely رسماً همکار جدید تیم‌های دیجیتال شدند",
-        "title_en": "AI Bots Are Now Your Colleagues, Thanks To Optimizely’s Latest Launch",
-        "summary": [
-            "پلتفرم Optimizely در تازه‌ترین محصول خود ربات‌های مبتنی بر هوش مصنوعی را معرفی کرده که مانند یک همکار انسانی مسئولیت‌های مشخصی را در پلتفرم بر عهده می‌گیرند.",
-            "این عامل‌های هوشمند بهینه‌سازی تجربه کاربری و آزمایش‌های آنلاین را خودکار می‌کنند تا تیم‌ها فقط روی تصمیمات کلان تمرکز کنند."
-        ],
-        "full_text": "AI Bots Are Now Your Colleagues, Thanks To Optimizely’s Latest Launch  AdExchanger",
-        "impact": "تغییر نقش AI از یک ابزار ساده به «همکار دیجیتال»، ساختار تیم‌های بازاریابی و محصول را دستخوش تحول بنیادین می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "AdExchanger",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHZuRzJldUF1N2dXa1hZMG5WcnluWEdBTzZiRTdDUzJodlFsM0c1eEVYQzBnT1RYajVPbVpsOTZ1enU0OXRnaE5YbzVIWmZ4b3hkeHVVQlUySzlodGpBVFhLbm9WSmRpN000N0FZSG4ydVQ0RHp1VGdxWDJONTQ3dnROdXlOd2U0QVFzYjh0c3NKXzc1Q1hLSkZYelRCZ2xG?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHZuRzJldUF1N2dXa1hZMG5WcnluWEdBTzZiRTdDUzJodlFsM0c1eEVYQzBnT1RYajVPbVpsOTZ1enU0OXRnaE5YbzVIWmZ4b3hkeHVVQlUySzlodGpBVFhLbm9WSmRpN000N0FZSG4ydVQ0RHp1VGdxWDJONTQ3dnROdXlOd2U0QVFzYjh0c3NKXzc1Q1hLSkZYelRCZ2xG",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788181212.0
     }
 ]
