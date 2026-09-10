@@ -1,5 +1,71 @@
 [
     {
+        "id": "5a7a0a4ed8",
+        "title_fa": "رونمایی متا از Muse AI و واکنش محتاطانه بازار سرمایه",
+        "title_en": "META Stock Rises After Muse AI Launch, But Oppenheimer Says It’s No ‘Game Changer’",
+        "summary": [
+            "به‌دنبال معرفی مدل Muse AI توسط متا سهام این شرکت رشد کرد، اما موسسه مالی اوپنهایمر آن را تحولی بزرگ نمی‌داند.",
+            "تحلیل‌گران معتقدند این ویژگی هنوز ارزش افزوده مالی کلانی برای متا ایجاد نخواهد کرد."
+        ],
+        "full_text": "META Stock Rises After Muse AI Launch, But Oppenheimer Says It’s No ‘Game Changer’  Stocktwits",
+        "impact": "تردید سرمایه‌گذاران درباره بازگشت سرمایه‌های سنگین متا در بخش هوش مصنوعی.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMEJuWElIOW1BSlVyVlBIbXVfdTFUajlWR01DM0RGSmVkNjZHbHA5d2xLbWg2R2NWY013NGVXbFRNNVpCVW0xZ1JxREJaU2RhN1FCNnluWEsyRFZwelJ0U2wzQ0twbndtWTdyNHYtOC1RWjd1cE9kS25FWklNQ2FEZVE0ejFiYmJaZ3RhQV9YOWVZdl8tVFVWVElIc3I5VzN2SGljNUlkV1ExWU5kb3J1XzdseF9MeG1nWkdTM2s0TmFGdHVtOXB6TVppcjh5ZE5RMVg0b3ZHTjdRQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMEJuWElIOW1BSlVyVlBIbXVfdTFUajlWR01DM0RGSmVkNjZHbHA5d2xLbWg2R2NWY013NGVXbFRNNVpCVW0xZ1JxREJaU2RhN1FCNnluWEsyRFZwelJ0U2wzQ0twbndtWTdyNHYtOC1RWjd1cE9kS25FWklNQ2FEZVE0ejFiYmJaZ3RhQV9YOWVZdl8tVFVWVElIc3I5VzN2SGljNUlkV1ExWU5kb3J1XzdseF9MeG1nWkdTM2s0TmFGdHVtOXB6TVppcjh5ZE5RMVg0b3ZHTjdRQQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789044060.0
+    },
+    {
+        "id": "98e025df42",
+        "title_fa": "استارتاپ مجیک با نیم میلیون دلار به قدرت مدل‌های گران‌قیمت رسید",
+        "title_en": "Magic matched DeepSeek V4 Pro base quality for $500K, using 50 times less compute",
+        "summary": [
+            "استارتاپ مجیک با الگوریتمی جدید توانست به کیفیت مدل DeepSeek V4 Pro دست پیدا کند، اما با ۵۰ برابر پردازش کمتر.",
+            "این آموزش تنها ۵۰۰ هزار دلار هزینه داشته و ادعای غول‌های فناوری درباره نیاز به بودجه‌های چندصد میلیونی را زیر سوال می‌برد."
+        ],
+        "full_text": "AI startup Magic published a pretraining recipe on September 8, 2026, that matched DeepSeek V4 Pro base model quality using 50 times fewer computing operations at a cost of roughly $500,000, challenging the assumption that frontier-quality AI training requires nine-figure compute budgets and hundreds of thousands of chips.",
+        "impact": "شکستن انحصار شرکت‌های بزرگ در آموزش مدل‌های هوش مصنوعی و کاهش شدید هزینه‌ها.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/magic-matched-deepseek-v4-pro-base-quality-for-500k-using-50-times-less-compute/ar-AA2bWUzb",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/magic-matched-deepseek-v4-pro-base-quality-for-500k-using-50-times-less-compute/ar-AA2bWUzb",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bXeK5.img?w=1264&h=892&m=4&q=74",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bXeK5.img?w=1264&h=892&m=4&q=74"
+        ],
+        "timestamp": 1789042909.0
+    },
+    {
+        "id": "110925ac55",
+        "title_fa": "انتشار مدل هوش مصنوعی متن‌باز IBM و ناسا برای کاوش در ماه",
+        "title_en": "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration",
+        "summary": [
+            "IBM و ناسا یک مدل هوش مصنوعی متن‌باز را برای شناسایی دهانه‌ها و منابع یخ در سطح ماه منتشر کردند.",
+            "این ابزار به محققان سراسر جهان کمک می‌کند داده‌های جغرافیا و داده‌های ماهواره‌ای ماه را با سرعت بسیار بالا تحلیل کنند."
+        ],
+        "full_text": "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration  IBM Newsroom",
+        "impact": "تسهیل و تسریع کاوش‌های فضایی آینده از طریق ابزارهای تحلیل تصویری پیشرفته.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "IBM Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789042130.0
+    },
+    {
         "id": "e6fed721fb",
         "title_fa": "تاسیس استودیوی فیلم‌سازی Dreamkite توسط یوکو هیگوچی و مارک واشولز",
         "title_en": "Yoko Higuchi-Zitzmann, Mark Wachholz Launch Dreamkite Studios",
@@ -115,6 +181,32 @@
         "timestamp": 1789002784.0
     },
     {
+        "id": "9420b16f98",
+        "title_fa": "جهش ۱۰۰۰ برابری سرعت محاسبات در پردازنده‌های کوانتومی",
+        "title_en": "Quantum Computing Nears Reality with 1,000x Speed Boost",
+        "summary": [
+            "محققان دانشگاه چالمرز سوئد روشی ابداع کردند که سرعت انجام عملیات کوانتومی را بیش از هزار برابر افزایش می‌دهد.",
+            "این روش با استفاده از کدهای کوانتومی بوزونی، حساسیت شدید کیوبیت‌ها به خطاهای محیطی را کنترل می‌کند.",
+            "این دستاورد راه را برای ساخت کامپیوترهای کوانتومی پایدار و کاربردی در داروسازی و هوش مصنوعی هموار می‌کند."
+        ],
+        "full_text": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk that computational errors will occur. Now, researchers at Chalmers University of Technology, in Sweden, have developed a new method that allows a wide range of advanced quantum operations to be carried out more than a thousand times faster. The breakthrough addresses a well-known bottleneck in the field and paves the way for fault-tolerant quantum computing. Quantum computers are expected to drive breakthroughs in fields ranging from drug discovery and energy systems to cryptography, artificial intelligence and logistics. Yet before this potential can be realised, quantum computers must become far more reliable than they are today. One of the biggest challenges is the computational errors that arise when quantum computers process information. These errors can be triggered by even the slightest environmental disturbances, such as electrical noise, cosmic radiation or overheating. Conventional computers are also susceptible to such errors, but well-established error-correction techniques allow them to be detected and fixed quickly. For quantum computers, however, the challenge is far greater. \"The fundamental building blocks of quantum computers, known as qubits, are so sensitive that even the smallest disturbance can cause the quantum state to deviate from the target, resulting in the loss of information. If too many errors accumulate before they can be corrected, the computation can fail,\" says Lei Du, researcher in Applied Quantum Physics at Chalmers University of Technology in Sweden, and lead author of the theoretical study published in the journal Physical Review Letters . Alternative storage for better protection In the search for more resilient and fault-tolerant quantum computing, researchers are exploring new ways to safeguard fragile quantum information. One promising approach involves the use of so-called bosonic quantum codes*. \"Rather than storing quantum information in individual qubits, bosonic codes encode information in the microwave fields found within superconducting circuits. This approach has been shown to provide stronger protection against certain types of errors,\" explains Tangyou Huang, researcher in Quantum Technology at Chalmers and co-author of the study. Quantum operations a thousand times faster Quantum operations based on bosonic quantum codes are notoriously difficult to create and control. Previous approaches that build up such quantum states each individual piece at a time, have required quantum systems to be guided through thousands of repeated driving cycles, a time-consuming process that leaves more opportunity for errors to occur. The longer the process takes, the greater the risk that disturbances will disrupt the computation. Now, Chalmers researchers Lei Du and Tangyou Huang have developed an entirely new approach. Instead of building up quantum states step by step, they have devised a method that can perform these operations dramatically faster. \"Our method shows that a diverse range of quantum operations on bosonic states can be completed within a single driving cycle, rather than the several thousand cycles that have been required previously. This makes the operations both faster and more efficient, while reducing the risk that disturbances will corrupt the information before the process is finished. It represents an important step towards fault-tolerant quantum computers,\" says Lei Du. Overcoming a key bottleneck on the road to fault-tolerant quantum computing At the heart of the researchers' approach are so-called Quantum lattice gates a new universal quantum gate set that was first proposed recently by the same research team. Functioning much like shortcut commands, these gates allow the desired operation to be completed within a single driving cycle, making the process both simpler and less prone to errors. \"You can think of it like building a large Lego castle. Instead of assembling it brick by brick and risking mistakes along the way, quantum lattice gates act like pre-built Lego modules that can be connected quickly and efficiently,\" says Tangyou Huang. The method is particularly suited to superconducting quantum computers, one of the leading platforms in the global race towards large-scale quantum computing. It is also the technology being used at Chalmers University of Technology, where a 100-qubit quantum computer is currently under development. \"A key advantage of our approach is that it can be implemented using existing superconducting quantum circuit platforms. We are already discussing possible experimental realisations with colleagues at Chalmers, and we hope to see a demonstration of the method in the near future,\" says Tangyou Huang. \"Our results address one of the major bottlenecks in the field: how to quickly and reliably create and control the error-correcting quantum states that could play an important role in future quantum computers,\" says Lei Du. More about bosonic codes, quantum lattice gates and Floquet control *Bosonic quantum codes store quantum information in the states of, for example, microwave or optical resonators rather than in individual qubits. They are considered a promising tool for quantum error correction because they can provide built-in protection against certain types of errors. To process this information, quantum operations are required. Quantum lattice gates are a recently proposed set of elementary building blocks for controlling bosonic quantum states. By designing these gates, a wide range of more complex quantum operations can be implemented. One way to realise these operations, is through Floquet control, in which a quantum system is driven by periodic control signals. Previous Floquet-based methods have often relied on slow processes requiring many driving cycles. The new method developed at Chalmers can instead implement quan",
+        "impact": "تسریع چشمگیر تجاری‌سازی پردازش کوانتومی و حل مسائل پیچیده علمی در چند ثانیه.",
+        "tag": "کوانتوم",
+        "urgency": 8,
+        "sentiment": 0.7,
+        "source": "Mirage News",
+        "url": "https://www.miragenews.com/quantum-computing-nears-reality-with-1000x-1741882/",
+        "clean_url": "https://www.miragenews.com/quantum-computing-nears-reality-with-1000x-1741882",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+        "images": [
+            "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1578496479939-722d9dd1cc5b%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
+            "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2023%2F02%2F03%2F23%2F48%2Fairplane-7766079_960_720.jpg",
+            "https://cdn1.miragenews.com/tmp_cache?cdn=images.pexels.com%2Fphotos%2F29376563%2Fpexels-photo-29376563.jpeg",
+            "https://cdn1.miragenews.com/tmp_cache?cdn=cdn.pixabay.com%2Fphoto%2F2021%2F01%2F21%2F16%2F17%2Fhuman-5937759_640.jpg"
+        ],
+        "timestamp": 1789002240.0
+    },
+    {
         "id": "3ecad0d230",
         "title_fa": "هشدار جدی محققان سابق انتروپیک: فاصله کمی تا ابرهوش مصنوعی داریم",
         "title_en": "Humans are \"close to being outsmarted\" by superintelligence, AI expert says",
@@ -136,6 +228,28 @@
             "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/b7498f4e-d688-46dc-8372-93c5d1a4e547/thumbnail/1200x630/1948afea654775e5495bd3c4d33175fd/gettyimages-2070606609.jpg"
         ],
         "timestamp": 1788990420.0
+    },
+    {
+        "id": "3d6011efb5",
+        "title_fa": "افشاگری عضو سابق OpenAI درباره عدم کنترل بر رفتار هوش مصنوعی",
+        "title_en": "I Worked on Safety at OpenAI. This Is What It Should Do Now.",
+        "summary": [
+            "پژوهشگر سابق ایمنی OpenAI اعلام کرد که حتی سازندگان هوش مصنوعی دقیقاً نمی‌دانند مدل‌ها از چه مرزهایی اطاعت می‌کنند.",
+            "این صحبت‌ها ابهامات درباره ایمنی توسعه هوش عمومی (AGI) و نیاز به نظارت‌های جدی‌تر را افزایش داده است."
+        ],
+        "full_text": "After having spent four years working on safety at OpenAI, I can tell you those questions are difficult to answer, because not even A.I.'s developers understand what boundaries their models will obey.",
+        "impact": "افزایش فشارهای قانونی و نظارتی بر غول‌های توسعه‌دهنده هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html",
+        "clean_url": "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html",
+        "image": "https://static01.nyt.com/images/2026/09/09/opinion/09adler-image/09adler-image-facebookJumbo-v3.jpg",
+        "images": [
+            "https://static01.nyt.com/images/2026/09/09/opinion/09adler-image/09adler-image-facebookJumbo-v3.jpg"
+        ],
+        "timestamp": 1788987600.0
     },
     {
         "id": "e067e59dab",
@@ -6885,128 +6999,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788201972.0
-    },
-    {
-        "id": "5aa500ed2c",
-        "title_fa": "شرط‌بندی ۴ میلیارد دلاری ادوبی در عربستان سعودی",
-        "title_en": "Adobe (ADBE) Bets Big On Saudi Arabia While Wall Street Hesitates",
-        "summary": [
-            "ادوبی دسترسی رایگان ۲۷ میلیون شهروند عربستان را به ابزارهای پرمیوم و مدل تصویرساز اختصاصی همگام با فرهنگ عربی فراهم کرد.",
-            "با وجود شک وال‌استریت به آینده ادوبی، درآمد ابزارهای مولد این شرکت سه برابر شده و به ۵۰۰ میلیون دلار رسیده است."
-        ],
-        "full_text": "On August 31, Adobe (NASDAQ:ADBE) committed more than $4 billion to giving away its AI tools. The company will offer 12 months of free access to its Firefly Standard subscription and Adobe Express Premium features to more than 27 million eligible citizens and residents in Saudi Arabia, expanding its partnership with the country's Ministry of Communications and Information Technology and the government-backed AI firm Humain. The deal includes a new image generation model tuned for Saudi culture, letting users create images from Arabic-language prompts. It is a striking bet for a stock that trades like the market expects its growth to stall. A Business Where AI Is Adding, Not Subtracting That confidence has some backing. Adobe's AI-first products, the newer tools built around generative features, saw their annualized recurring revenue triple year over year to more than $500 million, evidence that artificial intelligence is adding to Adobe's business rather than just threatening it. The Saudi Arabia expansion extends that momentum internationally, giving Firefly and Express a built-in user base of millions who might otherwise never try Adobe's software, in a region where Humain and the country's sovereign wealth fund are pouring money into localized AI development. The core business is not showing cracks either. Adobe's most recent quarter delivered $6.62 billion in revenue, up 13% year over year and a company record, extending two years of consistent low double-digit growth. Subscriptions make up virtually all of that revenue, and Adobe closed the quarter holding $27.1 billion of annualized recurring revenue, plus another $22.3 billion in contracted revenue still to be recognized, a backlog that gives management visibility most software companies would envy. Net margin for fiscal 2025 came in near 30%, and free cash flow neared $9.9 billion for the year, funding both new deals like the Semrush acquisition and buybacks that retired about 2% of shares outstanding in just three months. A Valuation That Still Smells Doubt Yet the stock's roughly 10 times forward earnings multiple says the market is not convinced the good times continue. The fear is straightforward: generative AI now lets anyone produce images and design work without needing Photoshop expertise, a skill that used to be the whole point of buying Adobe's software. Adobe faces that pressure not just from AI-focused startups but from Microsoft, and any regulatory shift like the European Union's AI Act could raise compliance costs and complicate how Adobe trains its own models.",
-        "impact": "تصاحب تهاجمی بازار خاورمیانه توسط ادوبی و اثبات سودآوری هوش مصنوعی در مدل‌های اشتراکی.",
-        "tag": "کسب‌وکار",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "Insider Monkey",
-        "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-bets-big-saudi-183628568.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-bets-big-saudi-183628568.html",
-        "image": "https://media.zenfs.com/en/insidermonkey.com/503ddb793f98dc373d0b99a425313e6a.jpg",
-        "images": [
-            "https://media.zenfs.com/en/insidermonkey.com/503ddb793f98dc373d0b99a425313e6a.jpg",
-            "https://s.yimg.com/lo/mysterio/api/aa7e2e05fd3ebcce23d89a39a0e95db4d5ad0cac42c24e445bd1d2d4120cc9b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F503ddb793f98dc373d0b99a425313e6a.jpg"
-        ],
-        "timestamp": 1788201007.0
-    },
-    {
-        "id": "f303bf2ec5",
-        "title_fa": "تشخیص بیماری قلبی فقط با ۵ ثانیه نگاه به دوربین!",
-        "title_en": "AI could diagnose heart disease and high blood pressure after five-second face scan",
-        "summary": [
-            "الگوریتم جدید هوش مصنوعی می‌تواند با تحلیل ویدئوی ۵ ثانیه‌ای از چهره و بررسی الگوی جریان خون پوست، فشار خون و دیابت را تشخیص دهد.",
-            "فناوری مکمل دیگری با تحلیل نوار قلب (ECG) نارسایی‌های قلبی مخفی را که از چشم پزشکان دور می‌ماند شناسایی می‌کند.",
-            "این نوآوری می‌تواند صف‌های طولانی و چندماهه انتظار بیماران قلبی در بیمارستان‌ها را کلاً از بین ببرد."
-        ],
-        "full_text": "AI could diagnose heart disease and high blood pressure after five-second face scan EXCLUSIVE: Research shows artificial intelligence (AI) can now tell in seconds that you probably have heart disease, high blood pressure or diabetes - from a routine scan or a five second video of your face Heart diseases and high blood pressure could soon be diagnosed “in the blink of an eye” by AI, new research shows. Breakthrough studies unveiled at the world ’s biggest heart conference suggest artificial intelligence could be “transformative” for the NHS, where patients currently face months of delays. In the UK around 16 million people have hypertension, four million have Type 2 diabetes and over eight million people have heart diseases. Many remain undiagnosed. The first AI programme, which is being trialled in the NHS, could flag who is likely to have heart failure and heart valve disease from a routine ECG (electrocardiogram) which currently cannot detect them. The second AI breakthrough showed that both high blood pressure and diabetes could also be diagnosed from a five-second video of your face, by analysing skin blood-flow patterns and colouring. The studies presented at the European Society of Cardiology (ESC) congress in Munich come as around half a million people in Britain are currently on the NHS cardiology waiting list. Dr Ahmed El-Medany, who led the ECG analysis for Imperial College London, said: “These results suggest there is potentially far more information hidden within a routine ECG than we can recognise by looking at it ourselves. “It is particularly encouraging that this superhuman AI performed well across separate groups of patients. The important next questions are how it performs in NHS patients.” Doctors or nurses carry out millions of quick ECG scans at GP practices, clinics and hospitals to rule out whether someone has had a heart attack or has an abnormal heart rhythm. It uses small sticky electrodes placed on the skin on the arms, legs, and chest to record the electrical signals of the heart every time it beats. The wires connect the sensors to a machine that records them as a graph on paper or a screen for a doctor to review. Until now ECGs could not identify if a patient had heart failure - where the heart is not pumping blood as well as it should - or heart valve disease - where at least one heart valve is not working correctly. Patients suspected of these two conditions due to symptoms such as shortness of breath often face months of waits on the NHS for an echocardiogram ultrasound scan. In the meantime they are at higher risk of stroke and heart attack. The new AI programme, currently being trialled on 600 NHS patients in London and Bristol, has been trained using data from 10.6 million ECG scans and tested on 67,000 patients in the US. It correctly identified 81% of patients who had heart failure and 90% who had heart valve disease. If the NHS trial is also successful it could be rolled out across the health service in the next five years so that patients whose ECG scan indicates signs of these heart diseases can be fast tracked for the ultrasound in a few days. Dr Roy Jogiya, chief medical researcher at Heart Research UK, said AI screening could be “transformative”, adding: “An ECG is one of the simplest and most widely available tests in medicine, but AI is showing us that it may contain far more information than the human eye can recognise.” Small portable ECG scanning devices will now be trialled by the NHS to see if they can pick up enough data for AI to quickly flag heart disease in people in their own home. Dr Sonya Babu-Narayan, clinical director at the British Heart Foundation, said: “It is exciting to see that AI can now deliver a read-out from an ECG in what feels like the blink of an eye. Earlier diagnosis and treatment saves and improves lives.” The second smaller study showed that another AI model was able to remotely diagnose high blood pressure from a facial video alone - without the inflatable cuff that is typically used by medics. Researchers from the University of Tokyo examined videos of 215 participants, who had a recording of their face and palms using a spectroscopic camera. The software could detect both hypertension with more than 90% accuracy and diabetes with more than 80% accuracy from the short clips. Researcher Ryoko Uchida, of the University of Tokyo and Institute of Science, said: “This contactless approach could allow people to be screened in everyday settings without cuffs, blood sampling or a dedicated clinic visit, helping to identify at-risk individuals who would otherwise remain undiagnosed.” Associate Professor Nico Bruining, Editor-in-Chief of the European Heart Journal, said: “It is remarkable that AI-supported technologies are enabling the development of such powerful tools for early disease prevention. “Detecting these conditions early means treatment and lifestyle changes can start sooner, helping to prevent heart attacks, strokes and other cardiovascular diseases.”",
-        "impact": "تحول بنیادین در غربالگری سریع پزشکی و کاهش بار سنگین سیستم‌های درمانی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "The Mirror",
-        "url": "https://www.mirror.co.uk/news/health/ai-face-scans-heart-nhs-37608672",
-        "clean_url": "https://www.mirror.co.uk/news/health/ai-face-scans-heart-nhs-37608672",
-        "image": "https://i2-prod.mirror.co.uk/article37608725.ece/ALTERNATES/s1200d/0_Chest-Pain.jpg",
-        "images": [
-            "https://i2-prod.mirror.co.uk/article37608725.ece/ALTERNATES/s1200d/0_Chest-Pain.jpg",
-            "https://i2-prod.mirror.co.uk/article37608725.ece/ALTERNATES/s1200/0_Chest-Pain.jpg",
-            "https://i2-prod.mirror.co.uk/article37608739.ece/ALTERNATES/s1200f/2_NHS_1.jpg",
-            "https://i2-prod.mirror.co.uk/article37608708.ece/ALTERNATES/s1200e/1_Female-doctor-with-male-patient-having-cardiology-test.jpg"
-        ],
-        "timestamp": 1788195960.0
-    },
-    {
-        "id": "50bf079cbe",
-        "title_fa": "برنامه ایران برای صادرات زیرساخت و تجربیات سایبری به عراق",
-        "title_en": "وزیر ارتباطات: ایران آماده انتقال تجربیات سایبری خود به کشورهای منطقه است",
-        "summary": [
-            "وزارت ارتباطات ایران برای انتقال تجربیات مقابله با تهدیدات سایبری و آموزش نیروهای فنی عراق اعلام آمادگی کرد.",
-            "شرکت ارتباطات زیرساخت ایران توافق‌هایی را برای صادرات فناوری‌های بومی و همکاری فنی با همتای عراقی پیش برده است.",
-            "ارائه خدمات ارتباطی تسهیل‌شده و سیم‌کارت به گردشگران خارجی و زائران در دستور کار دو کشور قرار گرفته است."
-        ],
-        "full_text": "وزیر ارتباطات و فناوری اطلاعات از آمادگی ایران برای انتقال تجربیات خود در زمینه مقابله با تهدیدات سایبری به عراق و دیگر کشورهای منطقه خبر داد و بر ضرورت همکاری مشترک برای ارتقای امنیت سایبری تأکید کرد. «ستار هاشمی»، وزیر ارتباطات و فناوری اطلاعات، در نشست خبری مشترک با «مصطفی جبار سند»، وزیر ارتباطات عراق، گفت ایران آمادگی دارد تجربیات خود در زمینه مقابله با تهدیدات سایبری را در قالب همکاری و همافزایی با عراق و کشورهای همسایه به اشتراک بگذارد. هاشمی با اشاره به گسترده بودن تهدیدات سایبری علیه ایران گفت امنیت سایبری حوزهای نیست که هر کشور بتواند بهتنهایی آن را مدیریت کند و برای مقابله با این تهدیدات، همکاری میان کشورهای منطقه ضروری است. وزیر ارتباطات ادامه داد: «در زمینه امنیت سایبری باید گفت این موضوع به تنهایی برای هر کشوری قابل ساماندهی نیست و باید با کشور دوست و برادر عراق در این خصوص همکاری نزدیکی داشته باشیم.» آموزش نیروهای عراقی و همکاری در زیرساخت هاشمی همچنین به توافقهای انجامشده میان دو کشور در حوزه آموزش و زیرساخت اشاره کرد و گفت ایران میتواند نیروهای عراقی را از طریق پژوهشگاه فناوری اطلاعات آموزش دهد. او افزود همکاریهای دو کشور در حوزه ICT متمرکز است و شرکت ارتباطات زیرساخت ایران نیز با همتای عراقی خود برای صادرات فناوریهای در اختیار ایران به شرکت زیرساخت عراق به توافق رسیده است. وزیر ارتباطات همچنین به موضوع ارائه خدمات ارتباطی به گردشگران خارجی اشاره کرد و گفت حدود دو هفته پیش جلسهای با حضور وزیر امور خارجه و وزیر گردشگری در استان قدس رضوی برگزار شده و در آن، موضوع دسترسی گردشگران خارجی و زائران به سیمکارت و خدمات ارتباطی داخلی مورد بررسی قرار گرفته است. تلاش برای افزایش همکاریهای فناوری ایران و عراق هاشمی در بخش دیگری از صحبتهای خود بر ضرورت استفاده از ظرفیتهای موجود میان دو کشور تأکید کرد و گفت: «ظرفیتهایی که میان دو کشور هست را باید از بالقوه به بالفعل تبدیل کنیم.» او افزود ارتقای سطح همکاریهای فناوری ایران و عراق میتواند در آینده به همکاری گستردهتر ایران با کشورهای اسلامی در حوزه اقتصاد دیجیتال نیز منجر شود. وزیر ارتباطات عراق: «تکنولوژی ایران امن و بومی است» «مصطفی جبار سند»، وزیر ارتباطات عراق، با اشاره به تحولات منطقه و تجربههای مشترک دو کشور، از انگیزه جدی عراق برای توسعه همکاریهای فناورانه با ایران خبر داد. سند گفت عراق علاقهمند است با ایران در حوزه فناوری وارد شراکت و همکاری شود و بخشی از شکافهای موجود در این حوزه را از طریق همکاری با ایران جبران کند. او با اشاره به زمینههای مورد علاقه عراق برای همکاری با ایران افزود اپلیکیشنهای بومی و خدماترسان، پیامرسانها، اپلیکیشنهای مرتبط با تراکنشهای مالی و همچنین توسعه زیرساختهای فناوری، از جمله حوزههایی هستند که ظرفیت همکاری میان دو کشور را دارند. وزیر ارتباطات عراق همچنین امنیت سایبری را یکی دیگر از محورهای مورد توجه این کشور دانست و گفت زیرساختهای فناوری، اپلیکیشنهای بومی و خدمات دیجیتال و امنیت سایبری، از جمله حوزههایی هستند که عراق به دنبال توسعه همکاری با ایران در آنهاست. وزیر ارتباطات عراق درباره انتخاب ایران برای همکاری در حوزه فناوری گفت: «با هر کشور دیگری که بتوانیم همکاری خواهیم کرد اما تکنولوژی ایران امن و بومی است.» او همچنین با اشاره به پیشرفت ایران در حوزه فناوری گفت ایران در زمینه زیرساخت، نرمافزار و سختافزار ارتباطات پیشرفتهای چشمگیری داشته و عراق امکان همکاری با شرکتهای فناوری ایرانی در این حوزهها را دارد. در پایان این مراسم نیز از تمبر مشترک ایران و عراق با طرح «منشور کوروش و لوح حمورابی» رونمایی شد.",
-        "impact": "گسترش بازار صادراتی محصولات بومی امنیت سایبری و زیرساخت‌های ارتباطی ایران در منطقه.",
-        "tag": "امنیت سایبری",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "دیجیاتو",
-        "url": "https://digiato.com/tech/iran-and-iraq-will-cooperate-in-cyber-security",
-        "clean_url": "https://digiato.com/tech/iran-and-iraq-will-cooperate-in-cyber-security",
-        "image": "http://www.bing.com/th?id=ONUT.fZcF8viVZ5GQX0OrpI5mKg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.fZcF8viVZ5GQX0OrpI5mKg&pid=News",
-            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-13-34.jpg",
-            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-13-34-644x424.jpg.webp",
-            "https://static.digiato.com/digiato/2026/09/photo_2026-08-31_22-24-01.jpg"
-        ],
-        "timestamp": 1788189180.0
-    },
-    {
-        "id": "226a1e288d",
-        "title_fa": "آمازون نخستین منطقه ابری AWS را در عربستان راه‌اندازی می‌کند",
-        "title_en": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026",
-        "summary": [
-            "آمازون رسماً اعلام کرد تا دسامبر ۲۰۲۶ اولین زیرساخت ابری قدرتمند خود (AWS) را در خاک عربستان سعودی فعال خواهد کرد.",
-            "این پروژه با هدف میزبانی بومی داده‌ها و ارائه خدمات پردازش ابری کم‌تاخیر برای کسب‌وکارهای منطقه خاورمیانه اجرا می‌شود."
-        ],
-        "full_text": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026  About Amazon",
-        "impact": "حضور مستقیم آمازون در منطقه، رقابت غول‌های فناوری را برای تصاحب بازار ابری خاورمیانه تشدید می‌کند.",
-        "tag": "زیرساخت",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "About Amazon",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMEU2aE9BZWtReGMxb3Jqdk0yNFVHdkJLX0s0WExGQy1NSTJiVi1QZWdHakUydENtYnFhWVVFaEZJOXJxODV2cEFDUzZ3dG52Q2s1SnhwbHNDZHpwUHpfNXlaVDFlQ1hqV3V1UVFzR2ZIM3kt?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMEU2aE9BZWtReGMxb3Jqdk0yNFVHdkJLX0s0WExGQy1NSTJiVi1QZWdHakUydENtYnFhWVVFaEZJOXJxODV2cEFDUzZ3dG52Q2s1SnhwbHNDZHpwUHpfNXlaVDFlQ1hqV3V1UVFzR2ZIM3kt",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788185813.0
-    },
-    {
-        "id": "c34468e1c8",
-        "title_fa": "تصاحب غول‌های فناوری خودرو در اروپا توسط شرکت‌های IT هند",
-        "title_en": "Why Are Indian IT Companies Investing in European Auto-Tech Startups?",
-        "summary": [
-            "شرکت‌های بزرگ نرم‌افزاری هند به‌جای ساخت زیرساخت از صفر، در حال خرید شرکت‌های باتجربه مهندسی خودرو در اروپا هستند.",
-            "قرارداد ۳۲۰ میلیون یورویی TCS برای خرید واحد MHP پورشه و همکاری ۱.۲۵ میلیارد یورویی آن‌ها، نمونه بارز این تغییر استراتژی است.",
-            "هندی‌ها با این تصاحب‌ها مستقیم به فناوری سیستم‌های خودران (ADAS)، نرم‌افزارهای یکپارچه خودرو و مشتریان کلیدی اروپا دست پیدا می‌کنند."
-        ],
-        "full_text": "Indian IT majors are acquiring established European automotive engineering and consulting firms, not just early-stage startups, to gain specialized capability fast. TCS's deal for Porsche's MHP subsidiary shows the pattern clearly: a 320 million euro acquisition alongside a separate five-year strategic partnership worth 1.25 billion euros. European automakers reassessing non-core technology units are creating acquisition openings, and OEM access is proving as valuable as the technology itself. Indian IT companies are moving up the automotive chain, not just delivering services but owning the technology behind the vehicle. The clearest recent signal came on August 24, 2026, when Tata Consultancy Services agreed to buy MHP, Porsche's German consulting arm, for €320 million. Alongside the deal, TCS signed a five-year partnership with Porsche worth €1.25 billion, covering AI, engineering, and software work. The shift is deliberate. Acquisitions bring specialist engineering talent, OEM relationships, and automotive program experience that take years to build internally. European automakers, meanwhile, are stepping back from technology units outside their core businesses. For Indian IT, that creates a rare chance to pick up capabilities, relationships and market access in one move. MHP is not a scrappy startup. It is an established consulting and technology business, with expertise across business transformation, AI, SAP, manufacturing digitalization, and connected mobility. The same pattern appears across the sector: Infosys has acquired InTech, HCLTech has bought ASAP Group, Tata Technologies has taken ES-Tec, and KPIT has acquired Technica Engineering. These are technically mature European firms with existing OEM relationships, and Indian IT companies are buying that maturity outright rather than building it from scratch. The deals cluster around specific gaps: advanced driver assistance systems, embedded automotive software, connected-mobility platforms, and engineering talent that understands how automotive development cycles actually work. These capabilities matter more as vehicles shift toward software-defined architecture, where software and centralized computing increasingly determine how a vehicle functions long after it leaves the factory. Tata Technologies' purchase of ES-Tec brought over 300 German engineers with direct experience across ADAS and systems engineering. That experience carries value beyond the software itself. Automotive supply chains depend heavily on supplier credentials and long-standing OEM relationships, not technical skill alone. Acquiring an established European firm can provide access to credibility, program experience, and relationships that would otherwise take years to build. The traditional services model is also under pressure as clients demand greater productivity and AI-led efficiency from technology vendors. Owning an established automotive engineering business changes that equation. Instead of supplying capacity alone, the acquiring firm gains customer relationships, proprietary know-how, and, depending on deal structure, a foothold inside programs a services vendor could never reach on its own. Indian firms can also pair their large, comparatively cost-efficient engineering workforce with specialized European teams, scaling delivery without diluting the acquired firm's core strengths. Also Read: Why More Tech Companies Are Entering the Auto Market The stronger driver here is not a funding shortage. It is corporate restructuring. European automakers are reassessing non-core IT, software, and engineering units as they redirect capital and management attention amid intensifying EV competition. The MHP transaction shows the logic clearly. A captive technology unit becomes non-core to the automaker, while the buyer secures a long-term commercial relationship with that same automaker. The most attractive European automotive assets right now may not be distressed startups at all. They may be non-core technology units sitting inside established automakers. Several risks sit underneath this trend. Integration risk is real, since an Indian IT firm's delivery-scale culture does not map cleanly onto a specialized European consulting unit. Customer concentration adds another layer. When an acquired unit depends heavily on one automaker, the buyer inherits that exposure along with the relationship. Talent retention matters just as much. The technology may be documented, but the people who understand the architecture and the client carry much of the practical value, and losing them after acquisition erodes what was paid for. Regulatory scrutiny is tightening too. The EU's revised foreign-investment screening framework strengthens and broadens screening for transactions involving sensitive technologies and infrastructure, including areas such as AI, transport, and digital infrastructure. For automotive investors, that raises a genuine tension: Europe wants foreign capital and scale while also wanting to keep control of strategic engineering capability. The next wave of these deals will test whether Indian IT companies can integrate European engineering businesses without losing the talent, customer relationships, and technical depth that made them attractive in the first place. Indian IT firms are not just buying capability today. They are positioning for a future where owning talent, OEM access, and software depth matters more than delivering hours ever did. Indian IT companies are investing in European auto-tech to acquire specialised automotive engineering talent, ADAS capabilities, software expertise, OEM relationships and established program experience that would take years to develop organically. They are acquiring capabilities in areas such as automotive software, ADAS, connected mobility, embedded systems, AI, systems engineering, and software-defined vehicles, along with specialized talent and customer relationships. Europe offers a deep automotive ecosyst",
-        "impact": "میانبر زدن شرکت‌های هندی برای تسلط بر بازار چند میلیارد دلاری نرم‌افزار خودروهای هوشمند.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Analytics Insight",
-        "url": "https://www.analyticsinsight.net/business/why-are-indian-it-companies-investing-in-european-auto-tech-startups",
-        "clean_url": "https://www.analyticsinsight.net/business/why-are-indian-it-companies-investing-in-european-auto-tech-startups",
-        "image": "https://media.assettype.com/analyticsinsight/2026-08-31/6oajrk6d/Why-Indian-IT-Companies-Are-Investing-in-European-Auto-Tech-Startups-1.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "images": [
-            "https://media.assettype.com/analyticsinsight/2026-08-31/6oajrk6d/Why-Indian-IT-Companies-Are-Investing-in-European-Auto-Tech-Startups-1.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "https://media.assettype.com/analyticsinsight%2F2026-08-31%2F6oajrk6d%2FWhy-Indian-IT-Companies-Are-Investing-in-European-Auto-Tech-Startups-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png",
-            "https://media.assettype.com/analyticsinsight%2F2026-08-31%2F6oajrk6d%2FWhy-Indian-IT-Companies-Are-Investing-in-European-Auto-Tech-Startups-1.jpg?w=480&auto=format%2Ccompress&fit=max"
-        ],
-        "timestamp": 1788184200.0
     }
 ]
