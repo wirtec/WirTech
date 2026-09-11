@@ -1,5 +1,118 @@
 [
     {
+        "id": "c21f5b162b",
+        "title_fa": "رونمایی OpenAI از نسل جدید هوش مصنوعی GPT-6 Astra",
+        "title_en": "GPT-6 Astra: A new generation of intelligence",
+        "summary": [
+            "شرکت OpenAI از مدل جدید خود با نام GPT-6 Astra پرده برداشت که گام بلندی در معماری مدل‌های پیشرفته محسوب می‌شود.",
+            "این مدل با ارتقای توانایی استدلال و درک پیشرفته، معیارهای تازه‌ای برای هوش عمومی ایجاد می‌کند."
+        ],
+        "full_text": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+        "impact": "تغییر استانداردهای بازار هوش مصنوعی و تشدید رقابت میان غول‌های فناوری برای دست‌یابی به AGI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 10,
+        "sentiment": 0.9,
+        "source": "OpenAI",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789137148.0
+    },
+    {
+        "id": "68cd042c3c",
+        "title_fa": "واکاوی نیویورک تایمز درباره خطرات وجودی هوش مصنوعی برای انسان",
+        "title_en": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+        "summary": [
+            "نیویورک تایمز در تحلیلی جامع به چالش‌های روانی و فکری جامعه در مواجهه با احتمال انقراض انسان توسط AI پرداخته است.",
+            "گسترش روزافزون سیستم‌های خودکار باعث پررنگ‌تر شدن هشدارهای دانشمندان درباره عدم کنترل هوش پیشرفته شده است."
+        ],
+        "full_text": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?  The New York Times",
+        "impact": "افزایش فشار بر سیاست‌گذاران برای تدوین قوانین سخت‌گیرانه‌تر در نظارت بر توسعه مدل‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789129020.0
+    },
+    {
+        "id": "d67fb175c0",
+        "title_fa": "دستاورد جدید دانشگاه کورنل در ساخت نیمه‌هادی‌های بسیار کم‌مصرف",
+        "title_en": "SUPREME Annual Review at Cornell features breakthrough semiconductor research and students shaping the future of energy-efficient electronics",
+        "summary": [
+            "محققان دانشگاه کورنل در نشست سالانه SUPREME از پیشرفت‌های تازه در معماری قطعات نیمه‌هادی رونمایی کردند.",
+            "این تحقیقات تمرکز ویژه‌ای بر کاهش مصرف انرژی در تراشه‌های پردازشی نسل آینده برای مهار نیاز شدید دیتاسنترهای AI دارد."
+        ],
+        "full_text": "SUPREME Annual Review at Cornell features breakthrough semiconductor research and students shaping the future of energy-efficient electronics  Cornell Chronicle",
+        "impact": "کاهش هزینه‌های انرژی و چالش‌های گرمایشی در سخت‌افزارهای پردازش هوش مصنوعی.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "Cornell Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUZPME1hY0lLNVMySjNJYWk2bnoxRUJEb3gwWmdfMnJsX0xCRXdmQmJMX2ljYzFTZlRUaXNiejY4WURmNlc2WS1ISmhaVENzd293eThrX3RMWEhDUl9WVHVWQmtKQk9rUHRzcTFJaEN6VVZ0ekZWTXlzNG1TbFp2enRGSUx5RHdUZWpJRDMyck91OF9tRzhOTk1NRmJsQk40cWRCbWQ5M01OWEtxWUF6UGZJOUtmdFBwdmww?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUZPME1hY0lLNVMySjNJYWk2bnoxRUJEb3gwWmdfMnJsX0xCRXdmQmJMX2ljYzFTZlRUaXNiejY4WURmNlc2WS1ISmhaVENzd293eThrX3RMWEhDUl9WVHVWQmtKQk9rUHRzcTFJaEN6VVZ0ekZWTXlzNG1TbFp2enRGSUx5RHdUZWpJRDMyck91OF9tRzhOTk1NRmJsQk40cWRCbWQ5M01OWEtxWUF6UGZJOUtmdFBwdmww",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789128687.0
+    },
+    {
+        "id": "7cfa33250b",
+        "title_fa": "جذب سرمایه جدید استارتاپ‌های هوش مصنوعی و کوانتوم در هند",
+        "title_en": "Funding Wrap: Navana.ai, QNu Labs, Swish raise fresh capital",
+        "summary": [
+            "استارتاپ‌های Navana.ai و QNu Labs در کنار چند مجموعه دیگر، دور جدیدی از جذب سرمایه را برای توسعه محصولات فناوری محور تکمیل کردند.",
+            "استارتاپ Navana.ai این سرمایه را صرف ساخت مدل‌های زبانی اختصاصی برای لهجه‌های مختلف هند و مراکز تماس مبتنی بر AI خواهد کرد.",
+            "مجموعه QNu Labs قصد دارد زیرساخت‌های امنیت کوانتومی خود را به حوزه سنسورها و هوش مصنوعی گسترش دهد."
+        ],
+        "full_text": "Funding Wrap: Navana.ai, QNu Labs, Swish raise fresh capital Here is a lowdown of this week’s top deals across AI, consumer brands, cybersecurity and more. This week, industrial safety stole the funding spotlight, while AI, consumer, and cybersecurity startups also kept investors busy. ETEntrepreneur brings a roundup of key deals below. The round also saw participation from Sharad Sanghi, Antler India, Sandeep Singhal and Paula Mariwala. The fresh capital will support Navana.ai’s advancement of its proprietary speech models for Indian languages and dialects, and develop its AI Contact Centre and automated evaluation platform. Read the whole story here. The company says it plans to allocate the fresh capital across three priorities–capacity, capability, and category–as it expands into a broader, multi category and omnichannel pet nutrition company. Prath Ventures is the company’s institutional investor, with founders of Atomberg and other senior CXOs among its early backers. Read the whole story here. The funding round saw participation from Enzia Ventures, Chakra Growth Capital, 3one4 Capital, Momentum Capital, Achieving Women Entrepreneurs Early Growth Fund, and Echo River Capital. The fresh capital will also support the scaling of operations to serve its growing institutional customer base, and initiate international expansion. Read the whole story here. The company saw participation from Sony Innovation Fund, Gaja Capital and Artha Ventures. The fresh capital will be used to strengthen QNu Labs' sales and go-to-market capabilities in India and overseas, and expand its quantum-safe technology stack into quantum sensing and artificial intelligence. Read the whole story here. The investment will also support strategic acquisitions across complementary product categories, technologies and international markets. Additionally, the company will also invest in product innovation, manufacturing capacity and its global distribution network, while strengthening corporate governance. Read the whole story here. The funding round saw participation from existing investors Accel, Bain Capital Ventures and Hara Global. The fresh capital will also build the infrastructure needed to support its target of more than 1,000 kitchens over the next five years. Read the whole story here. The fresh capital will be used for product development, controlled defence and space pilots, IP development and hiring across engineering and business development. The company will also prepare for potential opportunities through iDEX and the Indian Army. Read the whole story here. If you like ETEntrepreneur stories, add us as a trusted source on Google by clicking here and ticking the checkbox. ETEntrepreneur brings a roundup of key deals below. Voice AI startup Navana.ai raises ₹40 crore in series A led by Ronnie Screwvala Voice AI startup Navana.ai has raised ₹40 crore in a series A funding round led by entrepreneur and investor Ronnie Screwvala, to expand its deployments across the BFSI sector.The round also saw participation from Sharad Sanghi, Antler India, Sandeep Singhal and Paula Mariwala. The fresh capital will support Navana.ai’s advancement of its proprietary speech models for Indian languages and dialects, and develop its AI Contact Centre and automated evaluation platform. Read the whole story here. Lickicious raises ₹19 crore to scale towards ₹100 crore annual revenue Digital-first pet food brand Lickilicious has raised ₹19 crore in growth capital through a combination of equity and institutional debt as it targets annual revenue of ₹100 crore.The company says it plans to allocate the fresh capital across three priorities–capacity, capability, and category–as it expands into a broader, multi category and omnichannel pet nutrition company. Prath Ventures is the company’s institutional investor, with founders of Atomberg and other senior CXOs among its early backers. Read the whole story here. DigitalPaani raises ₹22 crore in funding led by Navam Capital AI-powered water infrastructure company DigitalPaani, has raised ₹22 crore led by Navam Capital, to expand market penetration across industrial and municipal sectors.The funding round saw participation from Enzia Ventures, Chakra Growth Capital, 3one4 Capital, Momentum Capital, Achieving Women Entrepreneurs Early Growth Fund, and Echo River Capital. The fresh capital will also support the scaling of operations to serve its growing institutional customer base, and initiate international expansion. Read the whole story here. QNu Labs raises ₹200 Cr series A1 funding led by National Quantum Mission, Speciale Invest Quantum cybersecurity company QNu Labs has raised ₹200 crore in a series A1 funding round led by the National Quantum Mission and Speciale Invest, to accelerate research and development of Quantum Secure and Sensing Networks.The company saw participation from Sony Innovation Fund, Gaja Capital and Artha Ventures. The fresh capital will be used to strengthen QNu Labs' sales and go-to-market capabilities in India and overseas, and expand its quantum-safe technology stack into quantum sensing and artificial intelligence. Read the whole story here. KARAM Safety raises ₹600 crore funding from Motilal Oswal Alternates Occupational safety and personal protective equipment company KARAM Safety has raised ₹600 crore from Motilal Oswal Alternates, to support its inorganic growth and diversification strategy.The investment will also support strategic acquisitions across complementary product categories, technologies and international markets. Additionally, the company will also invest in product innovation, manufacturing capacity and its global distribution network, while strengthening corporate governance. Read the whole story here. Swish raises $24 mn funding led by Bertelsmann India Investments Quick food delivery platform Swish has raised $24 million in a funding round led by Bertelsmann India Investments (BII), to deepen its kitchen network in Delhi-NCR and Beng",
+        "impact": "تسریع توسعه بومی مدل‌های زبانی تخصصی و فناوری‌های کوانتومی در بازار جنوب آسیا.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.7,
+        "source": "entrepreneur.economictimes.indiatimes",
+        "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/funding-wrap-navana-ai-qnu-labs-swish-raise-fresh-capital/134062003",
+        "clean_url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/funding-wrap-navana-ai-qnu-labs-swish-raise-fresh-capital/134062003",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134062003,imgsize-148874,width-1200,height=627,overlay-etentrepreneur,resizemode-75/news/funding/funding-wrap-navana-ai-qnu-labs-swish-raise-fresh-capital.jpg",
+        "images": [
+            "https://etimg.etb2bimg.com/thumb/msid-134062003,imgsize-148874,width-1200,height=627,overlay-etentrepreneur,resizemode-75/news/funding/funding-wrap-navana-ai-qnu-labs-swish-raise-fresh-capital.jpg",
+            "https://st.etb2bimg.com/Themes/Release/theme4/images/logos/entrepreneur-logo-footer.svg?mod=3459",
+            "https://st.etb2bimg.com/Themes/Release/theme4/images/newsletter-icon.webp"
+        ],
+        "timestamp": 1789124640.0
+    },
+    {
+        "id": "0e690fbb3b",
+        "title_fa": "مرور دورهای جدید جذب سرمایه در حوزه فین‌تک",
+        "title_en": "ICYMI fintech funding round-up: Fundcraft, VC Trade, Zeal, and more",
+        "summary": [
+            "گزارش جدید فین‌تک فیوچرز نشان‌دهنده تداوم جذب سرمایه در بخش مدیریت سرمایه و پلتفرم‌های مالی آنلاین است.",
+            "استارتاپ‌های Fundcraft، VC Trade و Zeal توانسته‌اند در این دوره توجه سرمایه‌گذاران ریسک‌پذیر را جلب کنند."
+        ],
+        "full_text": "View our weekly round-up of the latest fintech funding news from around the world here - featuring Fundcraft, VC Trade, Zeal, and more.",
+        "impact": "تزریق نقدینگی جدید به ابزارهای مدیریت دارایی و زیرساخت‌های تجارت سرمایه.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "FinTech Futures",
+        "url": "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-fundcraft-vc-trade-zeal-and-more",
+        "clean_url": "https://www.fintechfutures.com/venture-capital-funding/icymi-fintech-funding-round-up-fundcraft-vc-trade-zeal-and-more",
+        "image": "https://eu-images.contentstack.com/v3/assets/blt7dacf616844cf077/blt65f8ae796a8a2f14/681e16a255f0270d6e7560d7/ICYMI_-_FinTech_News.png?disable=upscale&width=1200&height=630&fit=crop&overlay=/v3/assets/blt7dacf616844cf077/blt64e39b3570bd3868/6a2693f2ff0c884b0726ec23/FF_432x166_White.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom",
+        "images": [
+            "https://eu-images.contentstack.com/v3/assets/blt7dacf616844cf077/blt65f8ae796a8a2f14/681e16a255f0270d6e7560d7/ICYMI_-_FinTech_News.png?disable=upscale&width=1200&height=630&fit=crop&overlay=/v3/assets/blt7dacf616844cf077/blt64e39b3570bd3868/6a2693f2ff0c884b0726ec23/FF_432x166_White.png&overlay-width=432&overlay-height=166&overlay-align=right,bottom"
+        ],
+        "timestamp": 1789124220.0
+    },
+    {
         "id": "e132cadeb8",
         "title_fa": "امکان خرید مستقیم ایجنت‌های هوش مصنوعی با سیستم پرداخت علی‌پِی",
         "title_en": "Ant’s plan to let AI agents shop via AlipayHK, Starryblu, KakaoPay",
@@ -42,6 +155,31 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789118448.0
+    },
+    {
+        "id": "ad998d33d5",
+        "title_fa": "بررسی طرح ادغام EA و Savvy توسط صندوق ثروت ملی عربستان",
+        "title_en": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports",
+        "summary": [
+            "صندوق سرمایه‌گذاری عمومی عربستان (PIF) در حال مطالعه گزینه ادغام غول بازی‌سازی EA با مجموعه Savvy Games است.",
+            "در صورت تحقق این تصمیم، عناوین بزرگی مثل EA Sports FC و Battlefield در کنار بازی‌های محبوب موبایلی Savvy تحت یک مجموعه واحد قرار می‌گیرند.",
+            "پیش‌برد این معامله نیازمند تکمیل خرید ۶ میلیارد دلاری شرکت Moonton و عبور از سد نهادهای ضدانحصار جهانی است."
+        ],
+        "full_text": "Saudi Arabia's wealth fund is considering merging Electronic Arts with Savvy Games to create a gaming giant, Bloomberg News reported on Thursday, citing people familiar with the matter. The merger of the two companies, both controlled by the Public Investment Fund, would create a gaming behemoth spanning franchises, including EA Sports FC, Battlefield and The Sims, and Savvy-owned mobile hits such as Monopoly Go! and Pokemon GO. PIF had acquired EA through a consortium for roughly $55 billion last month and taken the videogame publisher private. A final decision on the two companies' merger has not been reached and a deal is unlikely to happen until Savvy completes its $6-billion acquisition of Chinese mobile gaming business Moonton, the report added. Electronic Arts and Savvy Games did not immediately respond to requests for comment, while Saudi PIF declined to comment. Any combination, however, could face antitrust scrutiny as regulators have taken a close look at large gaming-sector transactions in recent years, including Microsoft's acquisition of Activision Blizzard. The deliberations come as the gaming industry grapples with a post-pandemic slowdown, cost cuts and layoffs, while companies pursue scale and durable recurring revenue. Savvy's CEO Brian Ward stepped down last week after overseeing the Saudi-backed group's global investment and acquisition push. (Reporting by Prathik Jayaprakash in Bengaluru; Editing by Leroy Leo)",
+        "impact": "شکل‌گیری یکی از بزرگ‌ترین غول‌های صنعت بازی با محوریت سرمایه‌گذاری خاورمیانه.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "ZAWYA",
+        "url": "https://www.zawya.com/en/business/swf/saudi-wealth-fund-weighs-ea-savvy-merger-bloomberg-news-reports-558768",
+        "clean_url": "https://www.zawya.com/en/business/swf/saudi-wealth-fund-weighs-ea-savvy-merger-bloomberg-news-reports-558768",
+        "image": "https://media.zawya.com/prod/images/gm_preview/a8149db456a5-electronic-arts-deal.webp",
+        "images": [
+            "https://media.zawya.com/prod/images/gm_preview/a8149db456a5-electronic-arts-deal.webp",
+            "https://media.zawya.com/prod/files/file/gm-9752884f-45de-480c-8211-5056b7fc1bbc-logo-zawya.svg",
+            "https://media.zawya.com/prod/images/gm_preview/071204769b0d-hsbc-ifc-trade-finance.webp"
+        ],
+        "timestamp": 1789117140.0
     },
     {
         "id": "f9055e18cf",
@@ -178,6 +316,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789085700.0
+    },
+    {
+        "id": "7629d4e408",
+        "title_fa": "جهش ارزش استارتاپ تسلیحات خودکار Mach به ۳.۷ میلیارد دلار",
+        "title_en": "Mach Industries Raises $600M Series C Extension, Valuation Hits $3.7B",
+        "summary": [
+            "استارتاپ دفاعی Mach با جذب ۶۰۰ میلیون دلار دیگر در ادامه سری C، ارزش بازار خود را تنها طی سه ماه به ۳.۷ میلیارد دلار رساند.",
+            "این شرکت که توسط یک بنیان‌گذار ۲۲ ساله اداره می‌شود، سیستم‌های پهپادی انتحاری، موشک‌های دوربرد و موتورهای جت هوشمند تولید می‌کند.",
+            "افزایش نقش پهپادهای خودکار در نبردهای مدرن، موج بی‌سابقه‌ای از سرمایه‌گذاری را به سمت استارتاپ‌های نظامی هدایت کرده است."
+        ],
+        "full_text": "Mach Industries Raises $600M Series C Extension, Valuation Hits $3.7B Drone warfare is reshaping the modern battlefield, as autonomous weapons and drone-defense systems prove themselves in combat over Ukraine. Capital is following that shift into defense startups at an unusual pace. Mach Industries, at the center of that wave, just raised more capital on top of its Series C. The company builds and manufactures autonomous weapons systems, headquartered at a 115,000-square-foot facility in Huntington Beach, California, and is building a vertically integrated defense industrial base spanning airframes, jet engines, solid rocket motors and energetic systems. Mach Industries announced a $600 million continuation of its Series C financing, bringing its valuation to $3.7 billion. That’s more than double the $1.8 billion valuation Mach hit in June with its original $300 million Series C — a step-up in just three months. Existing backers Ribbit Capital, Infinite Capital, Bedrock Capital and Sequoia continued their participation. Mach Industries was founded in 2023 by Ethan Thornton, who dropped out of MIT at 19 and is now 22. “Modern deterrence requires an industrial base capable of building relevant capabilities at the speed and volume the mission demands,” said Thornton, Founder and CEO. “This investment allows us to continue expanding that capacity while moving new platforms from development into production faster.” The capital will support continued development of platforms across long-range strike, counter-UAS and other mission areas, while expanding the manufacturing infrastructure needed to produce them at scale. Mach Energetics, the subsidiary formed from last June’s acquisition, has since strengthened the company’s testing and production capabilities. Mach currently operates five autonomous systems — Viper (a jet-powered VTOL one-way vehicle), Glide (a high-altitude strike glider), Stratos (an airborne surveillance platform), Dart (a low-cost counter-drone interceptor), and Pike (a long-range strike munition) — serving the U.S. Army, Air Force, SOCOM and allied governments. Where Mach Sits Competitively As Wowtale’s defense-startup landscape lays out, Mach’s surge isn’t happening in isolation. First-person-view kamikaze drone maker Neros raised a $250 million Series C, U.S. defense manufacturer Hadrian raised $1.37 billion at a $7.9 billion valuation, and UK counter-drone firm Cambridge Aerospace raised $300 million at a $3.4 billion valuation. Add in giants like Anduril Industries, and defense startups betting on autonomous weapons and vertically integrated manufacturing are closing outsized rounds in quick succession. MORE FROM THE POST - Neros Raises $250M Series C at $2.5B to Take Its Drone Line From Strike to Intercept - Cognition Raises Over $2B at $48B Valuation - Lyte Raises $165M Series C to Give Robots a Trustworthy View of the World - Wonderful Raises $550M Series C to Build the Enterprise AI OS - Rillet Raises $100M Series C at $1B Valuation for AI-Native ERP Share Most Read - 1 - 2 - 3 - 4 - 5",
+        "impact": "تغییر ساختار صنایع دفاعی و ورود سریع‌تر جنگ‌افزارهای مبتنی بر هوش مصنوعی به خط تولید انبوه.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "en.wowtale",
+        "url": "https://en.wowtale.net/2026/09/11/235064/",
+        "clean_url": "https://en.wowtale.net/2026/09/11/235064",
+        "image": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/09/mach-industries.jpeg",
+        "images": [
+            "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/09/mach-industries.jpeg",
+            "https://cdn.wowtale.net/wp-content/uploads/sites/2/2024/07/wowtale.danbilabs.com-taegeuk.svg.png",
+            "https://cdn.wowtale.net/wp-content/uploads/sites/2/2024/07/wowtale.danbilabs.com-usa-icon-language.png",
+            "https://cdn.wowtale.net/wp-content/uploads/sites/2/2024/07/wowtale-02.png"
+        ],
+        "timestamp": 1789084800.0
     },
     {
         "id": "c51816ec15",
@@ -6866,165 +7030,5 @@
             "https://peivast.com/wp-content/uploads/728-90-24.gif"
         ],
         "timestamp": 1788311580.0
-    },
-    {
-        "id": "bb84640589",
-        "title_fa": "گاف تازه گوگل؛ تایید تئوری‌های توطئه توسط خلاصه‌ساز هوش مصنوعی",
-        "title_en": "Google's AI overviews reinforce some conspiracy theories",
-        "summary": [
-            "پژوهش‌های جدید نشان می‌دهد بخش «خلاصه هوش مصنوعی» گوگل در مواجهه با پرسش‌های خاص، تئوری‌های توطئه‌ای مانند «شیم‌تریل» را به عنوان واقعیت بازنشر می‌کند.",
-            "اتکای کاربران به این خلاصه‌های متنی بدون بررسی منابع اصلی، خطر گسترش شایعات و گمراهی عمومی را افزایش داده است."
-        ],
-        "full_text": "Imagine overhearing on a bus that the city council plans to implement new restrictions under an urban planning program called “15-minute cities”. Curious, you search the term on Google. It’s likely that at the top of the results page, an AI-generated text summarising the search results will appear. This text synthesises content from various webpages that answer specific search queries. They are increasingly appearing not only in Google, but also in other search engines, and users are now likely to stop reading the search results page beyond this AI-generated text. But what if the AI-generated answer – the only search result users may see – confidently makes misleading or incorrect claims? Or reinforces conspiratorial ideas suggested by pro-conspiracy search terms? Our new research, published in the journal Media International Australia, shows this is sometimes true of Google’s AI-generated overviews. It highlights that stronger guardrails are needed to tackle the spread of dangerous conspiracy theories. Focusing on two conspiracies We focused on two conspiracy theories: chemtrails and 15-minute cities. “Chemtrails” is a conspiracy theory that has been around since the 1990s. Its believers mainly perceive the condensation trails left behind aircraft as large-scale weather or climate modification programs. Researchers called out Google for giving visibility to conspiratorial beliefs around chemtrails back in 2015. In response, the company demoted problematic search results. Conspiracy theories surrounding 15-minute cities are relatively younger. The term was originally coined to represent an efficient urban planning model. But for the conspiracist, these plans represent a nefarious elite, globalist agenda that seeks to monitor and control residents through technology. Comparing search results We developed search queries reflecting these conspiratorial beliefs and general ways of searching on the same topics (relying on open fora and Google Trends for query examples). We then collected data from the first page of Google search results for a week in January 2026. We compared the AI overviews, the sources they link to, and the conventional lists of search results across the two conspiracy theories and two types of queries. We found search queries that reflect conspiratorial beliefs fetched notably different AI summaries as compared to queries without pro-conspiracy words. This was especially true when the search query involved lesser-known narratives or incorporated words that could suggest the searcher believes in the conspiracy – for example, searching for “15 minute city segregation” as opposed to just “15-minute cities”. The good news is that, for well-established cases, such as chemtrails, the AI overviews mention the conspiracy theory very rarely. Generally, for both topics, AI summaries for “conspiratorial” searches debunked conspiratorial beliefs. The bad news is that such debunking is cursory. It often does not go beyond statements that conspiracy theories are “misinformation”. However, to stop these narratives from spreading, people seeking information about them need to be presented with factual and logical arguments debunking them. Of concern, AI summaries for the less established “15-minute cities” case actively promoted conspiratorial beliefs, even while debunking the conspiracy theory in some instances. For this topic, 12.5% of AI overviews we analysed presented the false claims as one side in a legitimate debate. For example, in response to our query, “15 minute cities versus smart cities control”, the AI overview contained the following: Overlap: A 15-minute city can be smart by using smart mobility and [Internet of Things] to manage its local resources efficiently, but a smart city doesn’t automatically become a 15-minute city. In essence, think of the 15-minute city as the “what” (livable design) and the smart city as a potential “how” (technology to enable it), but the control aspect is where critics focus their backlash, blurring the lines between convenience and surveillance. The ranked lists of search results – a staple of Google search for years – are not foolproof either. Our simulation of “conspiratorial” searches returned links pointing to YouTube videos and Facebook posts promoting such beliefs. The AI-generated snippets also tended to feature more commercial results. This is understandable – businesses rely on Google to connect them to customers. And if users do not read beyond AI overviews, it is beneficial for companies to be included as sources of such snippets. However, this can sometimes promote conspiratorial beliefs. For example, one AI overview we analysed contained a source that linked to a book on sale on Amazon by a prominent conspiracy theorist. A spokesperson for Google told The Conversation its AI overviews “operate like traditional search in that they aim to match content from the web to the words in your query”. They added: We invest significantly in the quality of AI overviews and the vast majority provide accurate information. When issues arise – like if our features misinterpret web content or miss some context – we use those examples to improve our systems, and we take action as appropriate under our policies. Tackling the spread of conspiracies As a company connecting users to information in scenarios ranging from mundane to critical, Google has long denied it is a “publisher”. But as the search engine moves towards providing direct answers in AI-generated snippets or chats, it may become increasingly difficult to continue denying this role. A court in Munich, Germany, recently found Google liable for false claims contained within its AI overviews – even though, as Google argued, users are warned about possible errors and can check the answers for themselves. Search literacy is important and users are capable of considering the authority of sources, refining search queries, and comparing results across multiple search engines. Understanding ho",
-        "impact": "افزایش فشار بر گوگل جهت اصلاح الگوریتم‌های خلاصیه‌ساز و اعمال مکانیزم‌های سخت‌گیرانه‌تر اعتبارسنجی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/googles-ai-overviews-reinforce-some-conspiracy-theories-new-research-287959",
-        "clean_url": "https://theconversation.com/googles-ai-overviews-reinforce-some-conspiracy-theories-new-research-287959",
-        "image": "https://images.theconversation.com/files/754787/original/file-20260819-50-m2dufr.jpg?ixlib=rb-4.1.1&rect=0,480,5760,2880&q=45&auto=format&w=1356&h=668&fit=crop",
-        "images": [
-            "https://images.theconversation.com/files/754787/original/file-20260819-50-m2dufr.jpg?ixlib=rb-4.1.1&rect=0,480,5760,2880&q=45&auto=format&w=1356&h=668&fit=crop",
-            "https://images.theconversation.com/files/754787/original/file-20260819-50-m2dufr.jpg?ixlib=rb-4.1.1&rect=0%2C480%2C5760%2C2880&q=45&auto=format&w=1356&h=668&fit=crop",
-            "https://cdn.theconversation.com/static/tc/logos/logo-en-deecd7f6345376bc1471b3c9cd047e76.svg",
-            "https://cdn.theconversation.com/static/tc/author/width170_default-bea415b3a0223821a698f6e3f6d5ab99.jpg"
-        ],
-        "timestamp": 1788309240.0
-    },
-    {
-        "id": "ea69264d9a",
-        "title_fa": "پنج مرز آسیب‌ناپذیر حوزه پزشکی در برابر نفوذ هوش مصنوعی",
-        "title_en": "5 things AI can’t replace in health care",
-        "summary": [
-            "با وجود پیشرفت‌های چشمگیر الگوریتم‌های تشخیصی، کادر درمان در حوزه‌هایی مثل همدلی، تصمیم‌گیری‌های پیچیده اخلاقی و ارتباط عاطفی بی‌جایگزین باقی می‌مانند.",
-            "بررسی‌ها تاکید می‌کنند هوش مصنوعی صرفاً ابزاری مکمل برای کاهش بار کاری پزشکان است، نه جایگزینی برای دانش و حس انسانی."
-        ],
-        "full_text": "5 things AI can’t replace in health care  Chattanooga Times Free Press",
-        "impact": "تثبیت نقش هوش مصنوعی به عنوان دستیار مکمل و عدم جایگزینی کادر درمان در آینده نزدیک.",
-        "tag": "سلامت",
-        "urgency": 4,
-        "sentiment": 0.3,
-        "source": "Chattanooga Times Free Press",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWZjRG43MGVHQzB5R1hPbTZ2NC1MX3I3R2hBd1ZHaTFPZlc2SktoZ3B3TWJyWURjaXdpWVdWSXBZeUZKdGNtajRoX21xOGhWYmNwTURCN3VKWTE3c3dsY3E3b0lydk9VbEVSWDRxbVVMZmZ6aVM5M09ibzZiemdoUzRpdzJ6cnd4ZnMyVG5ERk9Cdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWZjRG43MGVHQzB5R1hPbTZ2NC1MX3I3R2hBd1ZHaTFPZlc2SktoZ3B3TWJyWURjaXdpWVdWSXBZeUZKdGNtajRoX21xOGhWYmNwTURCN3VKWTE3c3dsY3E3b0lydk9VbEVSWDRxbVVMZmZ6aVM5M09ibzZiemdoUzRpdzJ6cnd4ZnMyVG5ERk9Cdw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788300000.0
-    },
-    {
-        "id": "60e285a8eb",
-        "title_fa": "ورود چت‌جی‌پی‌تی و گراک به گزینه‌های هوش مصنوعی وزارت جنگ آمریکا",
-        "title_en": "ChatGPT, Grok Added to War Department's AI System Options",
-        "summary": [
-            "وزارت جنگ ایالات متحده مدل‌های هوش مصنوعی چت‌جی‌پی‌تی و گراک را به فهرست ابزارهای پردازشی مجاز خود اضافه کرد.",
-            "این تصمیم ورود رسمی مدل‌های زبانی تجاری را به حساس‌ترین زیرساخت‌های دفاعی و نظامی کلید می‌زند."
-        ],
-        "full_text": "ChatGPT, Grok Added to War Department's AI System Options  U.S. Department of War (.gov)",
-        "impact": "تأیید رسمی کاربرد نظامی مدل‌های زبانی بزرگ تجاری در سطح پنتاگون.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.1,
-        "source": "U.S. Department of War (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVhIc1N2SUcwTGpmR1Q0N3JEeTBhaWw3WVZielNBbXNXNnJuS251cHNNdFk3U3Q5ZVliNHYwYVpqM21ZV0JKeHZiSmhJRTlYRUNfUEpGQ2hUQ1prX2d0OTFQZGdWS0tNVkZSUTY4ZVQwLVJHZnVCWFd1d3lCU1p3WG5TYUc4UjA5TW96TnhpZXlvb0JVdmYxZTg5b2RzRXUtbnZzQnIxeldURjRqNmV1VjdZZXp0WnhpN1E",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788299990.0
-    },
-    {
-        "id": "791863662a",
-        "title_fa": "جان ترنوس؛ چهره کلیدی و مدیرعامل جدید اپل",
-        "title_en": "Who is John Ternus, Apple’s new CEO?",
-        "summary": [
-            "با تغییرات مدیریتی جدید در اپل، جان ترنوس مسئولیت هدایت این غول فناوری را بر عهده می‌گیرد.",
-            "ترنوس پیش از این نقش محوری در توسعه محصولات سخت‌افزاری موفق اپل از جمله سری مک و آیفون داشته است."
-        ],
-        "full_text": "Who is John Ternus, Apple’s new CEO?  The Washington Post",
-        "impact": "احتمال تغییر در استراتژی‌های نقشه راه سخت‌افزاری اپل.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788297687.0
-    },
-    {
-        "id": "b2e5f15394",
-        "title_fa": "مدل جدید گوگل فاصله در کدنویسی را کم می‌کند",
-        "title_en": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
-        "summary": [
-            "گوگل از مدل هوش مصنوعی جدیدی رونمایی کرده که جهش چشمگیری در توانایی برنامه‌نویسی دارد.",
-            "این مدل جدید فاصله گوگل را با مدعیانی مانند آنتروپیک و اوپن‌ای‌آی در حوزه کدنویسی خودکار بسیار کم کرده است."
-        ],
-        "full_text": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability  WSJ",
-        "impact": "داغ‌تر شدن رقابت ابزارهای کدنویسی هوشمند برای توسعه‌دهندگان.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.7,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788296700.0
-    },
-    {
-        "id": "faec7d0800",
-        "title_fa": "طرح قانونی آمریکا برای کنترل هوش مصنوعی در بیمه سلامت",
-        "title_en": "Press Release: Tom Barrett Helps Introduce Bipartisan Bill on AI Use in Health Insurance Decisions",
-        "summary": [
-            "لایحه دوحزبی جدیدی در کنگره آمریکا برای محدود کردن استفاده بیمه‌ها از الگوریتم‌های هوش مصنوعی ارائه شد.",
-            "هدف اصلی این طرح، جلوگیری از رد درخواست‌های درمانی بیماران توسط سیستم‌های خودکار است."
-        ],
-        "full_text": "Press Release: Tom Barrett Helps Introduce Bipartisan Bill on AI Use in Health Insurance Decisions  quiverquant.com",
-        "impact": "افزایش نظارت‌های دولتی بر تصمیم‌گیری‌های الگوریتمی در حوزه درمان.",
-        "tag": "تنظیم‌گری",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "quiverquant.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWlrY3N3NkVWbnp3dFByRE14bUVyeWNnbkZvRHo2bGh1NmpmT2I4Z3A4RmFlaXJkQ0FYMzVuUXozeGZjSXlTUFE0TEUyQktLQmJyelpwdnNCQlVUOWNFc2ZoSzZiaWk2U3dzY3BtUjAyR1J6YktQMFZjYmwyb3QzRk10ZkJMVWdjQTN1V3YwSGZOOFNVcW45TkFOZG5GSFIzX0FQLXpnT3ZGNjc2Y1hfYnd3dFV4LVRvd19WdkFLLVQ5UVdFU044Y2MzZ1F1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdWlrY3N3NkVWbnp3dFByRE14bUVyeWNnbkZvRHo2bGh1NmpmT2I4Z3A4RmFlaXJkQ0FYMzVuUXozeGZjSXlTUFE0TEUyQktLQmJyelpwdnNCQlVUOWNFc2ZoSzZiaWk2U3dzY3BtUjAyR1J6YktQMFZjYmwyb3QzRk10ZkJMVWdjQTN1V3YwSGZOOFNVcW45TkFOZG5GSFIzX0FQLXpnT3ZGNjc2Y1hfYnd3dFV4LVRvd19WdkFLLVQ5UVdFU044Y2MzZ1F1QQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788294240.0
-    },
-    {
-        "id": "9872bbf6f0",
-        "title_fa": "مخالفت آمریکا با مقررات سخت‌گیرانه هوش مصنوعی در نشست G20",
-        "title_en": "آمریکا در نشست گروه ۲۰ خواستار پرهیز از مقررات سختگیرانه برای هوش مصنوعی شد",
-        "summary": [
-            "واشنگتن در نشست گروه ۲۰ خواستار اتخاذ «اصول کارولینا» شد تا از وضع قوانین دست‌وپاگیر و کندکننده برای توسعه هوش مصنوعی جلوگیری کند.",
-            "این موضع‌گیری با هدف حفظ پیشتازی شرکت‌های آمریکایی در برابر رقبای چینی و مدل‌های متن‌باز صورت می‌گیرد.",
-            "مدیران ارزشمندی چون ایلان ماسک، سم آلتمن و مارک زاکربرگ در این نشست با مقامات ارشد تجاری آمریکا رایزنی کردند."
-        ],
-        "full_text": "دولت آمریکا روز سهشنبه ۱۰ شهریور در نشست فناوری گروه ۲۰ در کارولینای شمالی از کشورهای عضو خواست در تنظیم مقررات هوش مصنوعی رویکردی حداقلی در پیش بگیرند و از ایجاد قوانین و نهادهای نظارتی تازه که میتواند مانع توسعه سریع این فناوری شود، خودداری کنند. مایکل کراتسیوس، مشاور فناوری آمریکا و یکی از میزبانان نشست دوروزه، از کشورهای گروه ۲۰ خواست مجموعهای از شرایط موسوم به «اصول کارولینا» را بپذیرند. بر اساس این چارچوب، دولتها باید مقررات تازه را تنها به مواردی محدود کنند که فناوریهای جدید واقعا مسائل بیسابقهای ایجاد کردهاند، و در عین حال سرمایهگذاری در پژوهشهای بنیادی و فرصتهای تجاری فناوری را افزایش دهند. به گزارش رویترز، کراتسیوس گفت سیاستگذاران نباید با هر نوآوری به صورت پدیدهای کاملا مجزا برخورد کنند، یا هر فناوری نوظهور را یک مشکل سیاستگذاری بیسابقه بدانند. یک مقام کاخ سفید نیز گفت آمریکا در این نشست از اعضای گروه ۲۰ خواهد خواست از ایجاد سازمانهای جدید برای نظارت بر توسعه هوش مصنوعی خودداری کنند. این موضع تا حد زیادی با خواسته شرکتهای بزرگ هوش مصنوعی جهان که بیشتر آنها آمریکایی هستند همسو است. این شرکتها خواستار محدودیتهای نظارتی کمتر یا دستکم نقش داشتن در شکلدهی مقررات هستند. الزامات سختگیرانه دولتی میتواند عرضه مدلهای جدید را کند کرده یا شرکتها را برای رفع نگرانیهای امنیتی به تغییر عملکرد محصولاتشان وادار کند. با این حال، بحث درباره خطرات هوش مصنوعی نیز شدت گرفته است. یک هیئت سازمان ملل متحد اخیرا هشدار داده که سرعت پیشرفت این فناوری از شناخت علمی و سیاستگذاری دولتها پیشی گرفته است. رخدادهای امنیتی اخیر مرتبط با عاملهای هوش مصنوعی نیز نگرانیها درباره نحوه آزمایش و کنترل این سامانهها را افزایش داده است. ایلان ماسک، مدیرعامل اسپیسایکس، در این نشست از مقررات فناوری اتحادیه اروپا انتقاد کرد و گفت این سیاستها مانع پیشرفت شرکتها میشود. مارک زاکربرگ، مدیرعامل متا، و دمیس هاسابیس، از بنیانگذاران گوگل دیپمایند، نیز قرار است به صورت ویدیویی با وزیران گفتوگو کنند. سم آلتمن، مدیرعامل اوپنایآی، و جنسن هوانگ، مدیرعامل انویدیا، نیز قرار است روز چهارشنبه در نشستهایی با حضور هاوارد لاتنیک، وزیر بازرگانی آمریکا، شرکت کنند. این تلاش آمریکا در شرایطی صورت میگیرد که رقابت این کشور با چین برای برتری در هوش مصنوعی شدت یافته است. مدلهای «وزنباز» چینی که عناصر اصلی آنها در دسترس عموم قرار دارد، از نظر توانایی به مدلهای اختصاصی شرکتهای آمریکایی نزدیکتر شدهاند و استفاده از آنها در میان شرکتهای آمریکایی نیز رو به افزایش است. ویوک چیلکوری، پژوهشگر فناوری و امنیت ملی در مرکز امنیت نوین آمریکا، به رویترز گفت این روند فوریت بیشتری برای دولت آمریکا ایجاد کرده است تا اطمینان یابد دیگر کشورهای جهان در «زیستبوم فناوری آمریکایی» باقی میمانند و به دنبال گزینههای جایگزین نمیروند. کانادا نیز قرار است در نشست کارولینای شمالی شرکت کند، و گفته است بر ایجاد توازن میان نوآوری، اعتماد عمومی، و ایمنی تاکید خواهد کرد. این نشست یکی از مجموعه نشستهای گروه ۲۰ در شهرهای آمریکا پیش از اجلاس سران این گروه در ماه دسامبر در میامی است.",
-        "impact": "ایجاد شکاف عمیق میان سیاست‌های رو به آزادی آمریکا و مقررات سخت‌گیرانه اروپا در حوزه هوش مصنوعی.",
-        "tag": "سیاست‌گذاری",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "صدای آمریکا",
-        "url": "https://ir.voanews.com/a/us-urges-hands-off-approach-to-ai-regulation/8193265.html",
-        "clean_url": "https://ir.voanews.com/a/us-urges-hands-off-approach-to-ai-regulation/8193265.html",
-        "image": "http://www.bing.com/th?id=ONUT.dfW7uWZmy9XUrwDiuFHpZQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.dfW7uWZmy9XUrwDiuFHpZQ&pid=News",
-            "https://gdb.voanews.com/A2EBE4A3-6382-4B25-9343-BB84FCCC92DB.jpg",
-            "https://gdb.voanews.com/6876e5d7-9033-474a-bc86-8a26dfe1faa9_w250_r1_s.png"
-        ],
-        "timestamp": 1788291960.0
     }
 ]
