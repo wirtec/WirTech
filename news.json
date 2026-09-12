@@ -1,5 +1,71 @@
 [
     {
+        "id": "c296c07ef2",
+        "title_fa": "ثبت پتنت جدید NewHydrogen برای تولید هیدروژن حرارتی بدون الکترولیز",
+        "title_en": "NewHydrogen has filed a third patent around ThermoLoop, its heat-driven process designed to make hydrogen without relying on conventional electrolysis",
+        "summary": [
+            "شرکت NewHydrogen سومین پتنت اختصاصی فناوری ThermoLoop را ثبت کرد؛ روشی مبتنی بر حرارت مستقیم که فرایند پرهزینه الکترولیز سنتزی را دور می‌زند.",
+            "این نوآوری با حذف تجهیزات گران‌قیمت الکترولیز، هزینه نهایی تولید هیدروژن سبز را به‌شدت کاهش می‌دهد."
+        ],
+        "full_text": "NewHydrogen has filed a third patent around ThermoLoop, its heat-driven process designed to make hydrogen without relying on conventional electrolysis  Energies Media",
+        "impact": "تسریع تجاری‌سازی سوخت‌های هیدروژنی پاک و کاهش مستقیم هزینه‌های تولید انرژی سبز.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Energies Media",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14aHZ6aHN6SXNBNGZhbVZwOXRwVnlpaU5Eelg2VXJsZWJublhhbWdYOU11bE94TEk3RGJwY1oxblZLaGtIeFVyTE45UGQzb2hzQWYwaGdrbm9JSjlEQlRDT3FZM3I2T3Zzb2k5TWtqaGtSdkNfbnZWVVln?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14aHZ6aHN6SXNBNGZhbVZwOXRwVnlpaU5Eelg2VXJsZWJublhhbWdYOU11bE94TEk3RGJwY1oxblZLaGtIeFVyTE45UGQzb2hzQWYwaGdrbm9JSjlEQlRDT3FZM3I2T3Zzb2k5TWtqaGtSdkNfbnZWVVln",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789246519.0
+    },
+    {
+        "id": "a97b4222d6",
+        "title_fa": "اینتل از راهکار رمزنگاری سخت‌افزاری برای AI لبه رونمایی کرد",
+        "title_en": "Intel (INTC) Unveils Hardware Backed Edge AI Encryption Solution",
+        "summary": [
+            "اینتل معماری جدیدی برای رمزنگاری سخت‌افزاری پردازش‌های هوش مصنوعی در دستگاه‌های لبه (Edge AI) معرفی کرد.",
+            "این سیستم امنیتی، داده‌های حساس مدل‌های AI را مستقیماً روی سخت‌افزار محلی محافظت کرده و ریسک سرقت داده در فرستادن به ابر را صفر می‌کند."
+        ],
+        "full_text": "Intel (INTC) Unveils Hardware Backed Edge AI Encryption Solution  simplywall.st",
+        "impact": "افزایش قابل‌توجه امنیت داده‌های سازمانی در تجهیزات اینترنت اشیا و دستگاه‌های پردازش محلی.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.5,
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXRHVjJ0M1Ziem9YRW5QY3BxOWxwZFV1a29Sa2tTTkxtQjhEN2t1em9KTkQ4QnNYYlNNN0JSRnNvQkFNaUMxWHN1a3pMdVQ3RGYyR05mQ01sUkRNYm9qM2ozNm9jNFY1ckZlRlRIWVlSTlZULURlb0ljc3NnakE5U2hiTkFsR2lkazluZ3c3MXZ6MGdlTng3UlRFa2JldG5USVplczY0X3dyWUY4ZE4yTVNPazFBOExURm9ab3hxbm04Y1E4VldrWDFB0gHPAUFVX3lxTE96YmdsZERsdzQwYTNtaWY0ZnZrMkNiNWJmVHNQSnl2M1QxMFRlcm9zbmRVNS1RYktDQlZxMmFiU21lR2FNc3hfV0RUMjBpLVBUMEJ4dFY0LVc1VkNBYU5faVpldTExUVd5MEY1NUs5Szd2N3otQnhTYkxrdHJLV2tPYnRsUTJyQThxS3FiQi1VY1Nxd2JNYTB4NnhydXQ1SWhuX1MyQ25oYTJJMkVPV3ZqRmgzNG9LN0tHdXNBdkxGcHFSVUY5QjFLRmVtM3o5Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXRHVjJ0M1Ziem9YRW5QY3BxOWxwZFV1a29Sa2tTTkxtQjhEN2t1em9KTkQ4QnNYYlNNN0JSRnNvQkFNaUMxWHN1a3pMdVQ3RGYyR05mQ01sUkRNYm9qM2ozNm9jNFY1ckZlRlRIWVlSTlZULURlb0ljc3NnakE5U2hiTkFsR2lkazluZ3c3MXZ6MGdlTng3UlRFa2JldG5USVplczY0X3dyWUY4ZE4yTVNPazFBOExURm9ab3hxbm04Y1E4VldrWDFB0gHPAUFVX3lxTE96YmdsZERsdzQwYTNtaWY0ZnZrMkNiNWJmVHNQSnl2M1QxMFRlcm9zbmRVNS1RYktDQlZxMmFiU21lR2FNc3hfV0RUMjBpLVBUMEJ4dFY0LVc1VkNBYU5faVpldTExUVd5MEY1NUs5Szd2N3otQnhTYkxrdHJLV2tPYnRsUTJyQThxS3FiQi1VY1Nxd2JNYTB4NnhydXQ1SWhuX1MyQ25oYTJJMkVPV3ZqRmgzNG9LN0tHdXNBdkxGcHFSVUY5QjFLRmVtM3o5Yw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789244746.0
+    },
+    {
+        "id": "06b9ad8f06",
+        "title_fa": "چرا خشم کاربران از معرفی DLSS 5 انویدیا بالا گرفته است؟",
+        "title_en": "Why Is The Internet So Upset About NVIDIA's DLSS 5?",
+        "summary": [
+            "موج جدیدی از انتقادات سخت‌افزارنویسان و گیمرها نسبت به رویکرد انویدیا در معرفی قابلیت‌های جدید DLSS 5 شکل گرفته است.",
+            "محدودسازی احتمال فناوری‌های جدید به کارت‌های نسل تازه و وابستگی روزافزون بازی‌ها به بازسازی نرم‌افزاری تصویر، صدای اعتراض مخاطبان را درآورده است."
+        ],
+        "full_text": "Why Is The Internet So Upset About NVIDIA's DLSS 5?  Engadget",
+        "impact": "فشار افکار عمومی بر انویدیا برای تجدیدنظر در سیاست‌های انحصار سخت‌افزاری و پشتیبانی از کارت‌های قدیمی‌تر.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Engadget",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObllSMWkxbWFHaW01RnBNV0pOemhIU2FHLU9PdDhRdUtDQmJqcWlld2txQVJSZ2tsd2d0REdPeXhNOWl6X0hyeW4tZXRiSTBMR00tTW0zcXprM0dJbS1ialFiMXpMX0ttYllCeTRxcDhhbHRRZU84ME0yTkYtaFlxdnhVVHg5TFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObllSMWkxbWFHaW01RnBNV0pOemhIU2FHLU9PdDhRdUtDQmJqcWlld2txQVJSZ2tsd2d0REdPeXhNOWl6X0hyeW4tZXRiSTBMR00tTW0zcXprM0dJbS1ialFiMXpMX0ttYllCeTRxcDhhbHRRZU84ME0yTkYtaFlxdnhVVHg5TFU",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789243200.0
+    },
+    {
         "id": "e892ab69dc",
         "title_fa": "رونمایی از Doova و تغییر چشم‌انداز سرمایه‌گذاری در تویا",
         "title_en": "Doova Launch Might Change The Case For Investing In Tuya (TUYA)",
@@ -136,6 +202,32 @@
             "https://content.stockstotrade.com/wp-content/uploads/2026/09/ftft-jumps-as-future-fintech-group-inc-draws-short-term-trading-focus.jpg"
         ],
         "timestamp": 1789220220.0
+    },
+    {
+        "id": "16874924af",
+        "title_fa": "سام آلتمن: عرضه عمومی سهام OpenAI در سال ۲۰۲۶ اشتباه است",
+        "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "summary": [
+            "سام آلتمن صراحتاً اعلام کرد این شرکت عجله‌ای برای عرضه عمومی سهام (IPO) ندارد و ورود به بورس در سال ۲۰۲۶ را تصمیم درستی نمی‌داند.",
+            "دغدغه‌های امنیتی هوش مصنوعی، نوسانات شدید بازار سهام فناوری و چالش‌های مالی داخلی، دلایل اصلی عقب‌نشینی آلتمن از برنامه‌های قبلی هستند.",
+            "توسعه‌دهنده ChatGPT اکنون سال ۲۰۲۷ یا زمانی را هدف گرفته که جامعه و بازار آمادگی بیشتری برای پذیرش این فناوری داشته باشند."
+        ],
+        "full_text": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack, as well as broader discussions about AI safety, Shontell asked whether OpenAI still feels pressure to “move really fast” due to its IPO plans. “We’re not rushing into an IPO,” Altman said. “I actually think that given everything happening with safety, right now would be an ill-advised moment to go public.” Instead, he insisted that OpenAI will go public “when we’re ready, which is when the business is ready, when we feel ready from what the moment is like in society with this technology.” When pressed on whether that means the IPO isn’t happening in 2026, Altman replied, “I would say not 2026, yeah. We’ve got a lot of stuff to do.” The New York Times reported in June that although OpenAI had hired bankers and lawyers with the goal of going public in the third or fourth quarter of 2026, the company was leaning toward 2027 due to the volatility of tech stocks and its own financial challenges.",
+        "impact": "تأخیر در یکی از بزرگ‌ترین عرضه اولیه‌های تاریخ فناوری و تمرکز کامل OpenAI بر حل چالش‌های امنیتی و مالی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "clean_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+        "image": "http://www.bing.com/th?id=ONUT.Y_Cl-g7nSyhcICNZ3xPdiw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Y_Cl-g7nSyhcICNZ3xPdiw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg"
+        ],
+        "timestamp": 1789219140.0
     },
     {
         "id": "be9f0de3fc",
@@ -6927,101 +7019,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788408710.0
-    },
-    {
-        "id": "09e610f2d5",
-        "title_fa": "احتمال تصاحب ۷ میلیارد دلاری استارتاپ Decart توسط آنتروپیک",
-        "title_en": "The 48 hours that rewrote Israel's startup rankings",
-        "summary": [
-            "ارزش‌گذاری استارتاپ‌های فناوری در اسرائیل طی ماه‌های اخیر جهش‌های چند میلیارد دلاری تجربه کرده است.",
-            "آنتروپیک در حال مذاکره پیشرفته برای خرید ۷ میلیارد دلاری استارتاپ زیرساختی Decart است.",
-            "این قرارداد در صورت نهایی شدن، بزرگ‌ترین خرید تاریخ آنتروپیک محسوب خواهد شد."
-        ],
-        "full_text": "The 48 hours that rewrote Israel's startup rankings Wonderful, Upwind and HiBob all revealed sharply higher price tags this week, and one rising star may already be on its way out the door. In the span of about 48 hours this week, three Israeli technology companies added a combined $5.7 billion to their paper valuations. Wonderful, an AI customer-service startup, was valued at $5 billion after a $550 million raise, its third fundraising round in under a year and a jump from $2 billion just six months earlier. Upwind, a cloud-security firm, more than doubled its own valuation to $3.8 billion in five months. And HiBob, a human-resources software maker, was valued at $3.5 billion after Salesforce led a $166 million investment. None of the three companies had done anything as dramatic as ship a breakthrough product or land a marquee customer in the days before their new price tags were set. What changed, mostly, was investors' willingness to keep paying up, a pattern that has become the defining feature of Israeli tech funding since 2024, when the sector began climbing out of a slump brought on by a judicial overhaul fight and the war that followed October 7. The result, drawn from a full accounting of every disclosed Israeli funding round since the start of 2024, is a ranking of the country's 15 most valuable startups that would have been unrecognizable three years ago. It is also a ranking that may already be out of date: Decart, the AI infrastructure company sitting at number nine with a $4 billion valuation from a funding round in May, is in advanced talks to be acquired by Anthropic, the AI lab behind the Claude chatbot, in a deal that people close to the negotiations say could value the company at around $7 billion. If it closes, it would be Anthropic's largest acquisition to date, and would remove one of Israel's fastest-rising startups from the ranks of independent companies just months after it arrived there. A list built on the last two years, not the last decade Unlike most \"most valuable startup\" rankings, which tend to accumulate valuations set years or even a decade apart, this one is built entirely from rounds raised since January 2024. That makes it, in one sense, a narrower slice of the Israeli tech landscape, older companies that haven't needed to raise money recently, or that have simply stopped growing, don't appear. But it also makes the numbers unusually current: nearly every valuation on the list was set in the past two years, and several were set in the past two days. In an industry where a \"unicorn\" badge earned in 2021 can be a stale and even misleading signal today, that recency is arguably the more meaningful measure of where investor money is actually flowing right now. At the top of the list sits Vast Data, the data-infrastructure company that reached a $30 billion valuation in April after raising $1 billion amid the broader AI computing buildout. Vast Data's ascent to the top spot was itself a byproduct of another deal. The company became Israel's most valuable private tech firm only after Wiz, the cybersecurity startup that had held that title, was sold to Google. Deel, the global payroll company co-founded by an Israeli entrepreneur, ranks second at $17.3 billion after a $300 million round last October. Cyera, a data-security startup, is third at $12 billion, having quadrupled its valuation in eighteen months. Its CEO, Yotam Segev, has said the company's ambition is to become \"the CrowdStrike of data security.\" Look past the top three and the list is dominated by cybersecurity companies, a reflection of Israel's long-standing strength in the field and of enterprise customers' bottomless appetite for tools to secure an increasingly AI-driven workplace. DriveNets, a networking company, ranks fourth at $8.5 billion after telling investors it is now cash-flow positive with more than $1 billion in order backlog. Cato Networks and Island, both cybersecurity firms, are tied at $4.8 billion; Island's valuation has more than quadrupled since October 2023 as demand grows for \"enterprise browsers\" that give companies more control over how employees interact with corporate data. Claroty, which protects industrial and infrastructure systems from cyberattacks, sits at $3 billion. Rapyd, a fintech company, registered a $4.5 billion valuation in a raise this year used partly to fund its $610 million acquisition of the payments firm PayU. Notably though, this is well down from the $10 billion valuation the company achieved in 2021. What connects Wonderful, Upwind, Decart and much of the rest of the upper list is a broader dynamic playing out across global venture capital: valuations for companies seen as central to the AI buildout, whether they sell AI products directly or the infrastructure underneath them, are rising faster and more frequently than in almost any other category of startup. Wonderful's valuation rose from $34 million to $5 billion in roughly a year. Upwind doubled in five months. Decart, an AI infrastructure company, went from an initial funding round to a reported $4 billion valuation before the acquisition talks with Anthropic began. That velocity cuts both ways. Rapid re-pricing rewards founders and early investors, but it also means today's valuation is a bet on a still-unproven trajectory, not a settled judgment, and it raises the stakes for what happens if growth slows or a larger buyer simply writes a check instead of continuing to fund the run. Decart's likely exit is a reminder that in the current market, the fastest way to leave this list is not to fail, but to succeed enough to get bought. The list (top 15, by latest disclosed valuation since January 2024): Vast Data — $30 billion Deel — $17.3 billion Cyera — $12 billion DriveNets — $8.5 billion Wonderful — $5 billion Cato Networks — $4.8 billion Island — $4.8 billion Rapyd — $4.5 billion Decart — $4 billion (in advanced talks to be acquired by Anthropic for a reported ~$7 billion) Eon — $4 billion",
-        "impact": "تصاحب زیرساخت‌های تخصصی توسط آنتروپیک، رقابت تسلیحاتی مدل‌های هوش مصنوعی را وارد مرحله تازه‌ای می‌کند.",
-        "tag": "استارتاپ",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "CTech",
-        "url": "https://www.calcalistech.com/ctechnews/article/bk0wrsudze",
-        "clean_url": "https://www.calcalistech.com/ctechnews/article/bk0wrsudze",
-        "image": "http://www.bing.com/th?id=ONUT.hFpDbw-JN9XqIy8iU1Zi6Q&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.hFpDbw-JN9XqIy8iU1Zi6Q&pid=News",
-            "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/02/SkVGMy800zl/SkVGMy800zl_0_86_1200_676_0_large.jpg",
-            "https://www.calcalistech.com/ctechnews/images/1280/header/Desktop%20Logo.png",
-            "https://images1.calcalist.co.il/images/1280/icons/search-icon.png"
-        ],
-        "timestamp": 1788408660.0
-    },
-    {
-        "id": "187ddbcd52",
-        "title_fa": "ورود غول ژاپنی NEC به دفاع سایبری با هوش مصنوعی",
-        "title_en": "NEC to Launch Frontier AI Cyberdefense Service",
-        "summary": [
-            "شرکت NEC سرویس جدیدی بر پایه هوش مصنوعی پیشرفته برای مقابله با حملات پیچیده سایبری راه‌اندازی می‌کند.",
-            "این سیستم با پایش مداوم و شناسایی خودکار رفتارهای مشکوک، زمان واکنش به تهدیدهای دیجیتال را به حداقل می‌رساند."
-        ],
-        "full_text": "NEC to Launch Frontier AI Cyberdefense Service  nippon.com",
-        "impact": "افزایش قدرت دفاعی سازمان‌ها در برابر حملات سایبری ناشناخته و پیچیده.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "nippon.com",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5heXZNZjRFWDI2SWl5X0ExdU81QUU1NDU0UF8xb3ZyZTRwLXNUVXJiOGVqbVdIUk9LZ3AwSGVEeHozbVFBd201VXVoVktQZGZzMWh6alhrQWl0eGM5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5heXZNZjRFWDI2SWl5X0ExdU81QUU1NDU0UF8xb3ZyZTRwLXNUVXJiOGVqbVdIUk9LZ3AwSGVEeHozbVFBd201VXVoVktQZGZzMWh6alhrQWl0eGM5",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788405913.0
-    },
-    {
-        "id": "4f32a42a54",
-        "title_fa": "جاماندن چت‌بات Grok؛ نبرد پرهزینه ماسک در بازار هوش مصنوعی",
-        "title_en": "ایلان ماسک و رویای ترک‌خورده هوش مصنوعی / ثروتمندترین مرد جهان در در بزرگ‌ترین نبرد فناوری‌ عقب ...",
-        "summary": [
-            "مدل Grok و استارتاپ xAI برخلاف ChatGPT و Claude هنوز نتوانسته‌اند در لیست اپلیکیشن‌های پردانلود یا بازار سازمانی جایگاه محکمی پیدا کنند.",
-            "ایلان ماسک با تزریق ۱۵.۸ میلیارد دلار سرمایه قصد دارد زیرساخت پردازشی غول‌پیکری برای جبران این فاصله بسازد.",
-            "موفقیت ماسک به یکپارچه‌سازی هوش مصنوعی با خودروهای تسلا و شبکه ماهواره‌ای استارلینک بستگی دارد."
-        ],
-        "full_text": "به گزارش خبرآنلاین، شرکت هوش مصنوعی ماسک یعنی xAI در ماههای اخیر از رقبایی مانند OpenAI، Anthropic و گوگل عقب مانده است. یکی از نشانههای این عقبماندگی، میزان استقبال کاربران از محصولات هوش مصنوعی است. ChatGPT، Gemini و Claude در میان ۲۵ اپلیکیشن برتر اپاستور اپل قرار دارند، اما Grok در این فهرست هم دیده نمیشود. در بازار سازمانی نیز وضعیت چندان بهتر نیست. Grok هنوز در فهرست گزینههای اصلی بسیاری از شرکتهای بزرگ قرار نگرفته و در رقابت برای جذب مشتریان تجاری، پشت سر رقبایی مانند Claude و ChatGPT حرکت میکند. حتی خود ماسک نیز اخیراً پذیرفته که Grok از رقبا عقب افتاده است. او گفته بود که SpaceXAI در رقابت هوش مصنوعی «عقب مانده» و اضافه کرده بود: «من به باختن عادت ندارم.» با این حال، ماسک قصد عقبنشینی ندارد. SpaceX در سهماهه اخیر حدود ۱۵.۸ میلیارد دلار در پروژههای هوش مصنوعی سرمایهگذاری کرده و گفته این هزینهها تنها آغاز کار است. هدف او ساخت ظرفیت پردازشی عظیم برای آموزش و اجرای مدلهای هوش مصنوعی در مقیاسی است که بتواند با بزرگترین شرکتهای این حوزه رقابت کند. مشکل اینجاست که رقبای ماسک نیز دست روی دست نگذاشتهاند. شرکتهایی مانند مایکروسافت، گوگل، متا، آمازون و دیگر غولهای فناوری در حال صرف صدها میلیارد دلار برای ساخت مراکز داده و زیرساختهای مورد نیاز هوش مصنوعی هستند. در چنین بازاری، عقب ماندن از نظر تعداد کاربران یا مشتریان سازمانی میتواند به معنای نیاز به سرمایهگذاری بیشتر برای جبران فاصله باشد. از سوی دیگر، کسبوکارهای اصلی SpaceX همچنان وضعیت قدرتمندی دارند. موشکهای این شرکت و شبکه ماهوارهای استارلینک از مهمترین داراییهای آن هستند. اما به نوشته Yahoo Finance، سرمایهگذاری سنگین در هوش مصنوعی میتواند فشار زیادی به ترازنامه شرکت وارد کند بهخصوص اگر Grok نتواند به سرعت سهم بیشتری از بازار به دست آورد. با این حال بازار هوش مصنوعی با سرعت زیادی تغییر میکند و رتبه امروز شرکتها لزوماً جایگاه آنها در سالهای آینده را تعیین نمیکند. علاوه بر این، ماسک روی ترکیب هوش مصنوعی با دیگر کسبوکارهایش، از خودروهای تسلا گرفته تا رباتها و زیرساختهای فضایی، حساب ویژهای باز کرده است. بنابراین مسئله اصلی برای ماسک فقط ساخت یک چتبات بهتر نیست او باید ثابت کند میلیاردها دلار سرمایهگذاری در هوش مصنوعی میتواند در نهایت به یک کسبوکار بزرگ و پایدار تبدیل شود. ۵۸۵۸",
-        "impact": "سرمایه‌گذاری سنگین در زیرساخت‌ها بدون جذب سریع مشتریان سازمانی، فشار مالی شدیدی به کسب‌وکارهای ماسک وارد خواهد کرد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "خبرآنلاین",
-        "url": "https://www.khabaronline.ir/news/2269378/%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D9%88-%D8%B1%D9%88%DB%8C%D8%A7%DB%8C-%D8%AA%D8%B1%DA%A9-%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AB%D8%B1%D9%88%D8%AA%D9%85%D9%86%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%B1%D8%AF-%D8%AC%D9%87%D8%A7%D9%86",
-        "clean_url": "https://www.khabaronline.ir/news/2269378/%D8%A7%DB%8C%D9%84%D8%A7%D9%86-%D9%85%D8%A7%D8%B3%DA%A9-%D9%88-%D8%B1%D9%88%DB%8C%D8%A7%DB%8C-%D8%AA%D8%B1%DA%A9-%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C-%D8%AB%D8%B1%D9%88%D8%AA%D9%85%D9%86%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%85%D8%B1%D8%AF-%D8%AC%D9%87%D8%A7%D9%86",
-        "image": "http://www.bing.com/th?id=ONUT.gLwhKNCKFxaVVFcwTWJoUA&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.gLwhKNCKFxaVVFcwTWJoUA&pid=News",
-            "https://media.khabaronline.ir/d/2026/06/20/4/6431404.jpg?ts=1781937198000",
-            "https://media.khabaronline.ir/d/2026/06/20/2/6431404.jpg?ts=1781937198000",
-            "https://media.khabaronline.ir/d/2026/08/26/4/6464370.jpg?ts=1787737948000"
-        ],
-        "timestamp": 1788401400.0
-    },
-    {
-        "id": "7172e8bce3",
-        "title_fa": "محدودیت و توقف گسترده استفاده از هوش مصنوعی مولد در مدارس نیویورک",
-        "title_en": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools",
-        "summary": [
-            "شهرداری نیویورک دستور توقف موقت و گسترده استفاده از ابزارهای AI مولد در مدارس این شهر را صادر کرد.",
-            "تمرکز مسئولان بر ارزیابی ریسک‌های اخلاقی، کیفیت آموزش و حریم خصوصی دانش‌آموزان قبل از ادغام کامل این فناوری است."
-        ],
-        "full_text": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools  NYC.gov",
-        "impact": "ایجاد الگوی جدید سیاست‌گذاری برای کنترل ورود هوش مصنوعی به سیستم‌های آموزشی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "NYC.gov",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzE3SExkNzRLMmJHaFJWZk9UcmpMX0w1Ul9NNzcxQUpBZUlycVFpRDN3OUo3Q2dzWUlYNGdyLV95ZHM4TWpVc2tEbW5YVWRYOElwbGdTbFAzbTFaMzQ3QnB6cjBhcUE4TmJKTWhvRGtzVm5WZi1xZ1NfRkJMQUFnejF4TzRIczI1elRMejZQUGlHTDdhdGVfX1pIZU1POVo1TTZ0RWdLNDFoTHVrZVU2OA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788393046.0
     }
 ]
