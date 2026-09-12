@@ -1,5 +1,49 @@
 [
     {
+        "id": "be9f0de3fc",
+        "title_fa": "رونمایی هانوا از راهکار هوش مصنوعی فضایی در عرصه بین‌المللی",
+        "title_en": "Hanwha unveils cutting-edge ‘Space AI Solution’ for the first time overseas",
+        "summary": [
+            "غول صنعتی هانوا برای نخستین بار از سامانه پیشرفته هوش مصنوعی خود برای تحلیل پردازش‌های فضایی در خارج از کره جنوبی پرده برداشت.",
+            "این فناوری با پردازش لحظه‌ای داده‌های ماهواره‌ای، سرعت پایش و تصمیم‌گیری در ماموریت‌های فضایی را به شدت بهبود می‌دهد."
+        ],
+        "full_text": "Hanwha unveils cutting-edge ‘Space AI Solution’ for the first time overseas  Hanwha Group",
+        "impact": "ارتقای سرعت پردازش داده‌های ماهواره‌ای و تجاری‌سازی هوش مصنوعی در صنایع هوافضا.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Hanwha Group",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb21VQXQ3VlVzQTdLRGNoWmFCQ21HbWRjN1RheDJKN3BmLU9DR1Z0OGllbld0cDRfOEd0TnkwOGFTZXhhRjJYZGVIandybTJObXhmYjAyaXJfOFJfQnA1cXY0VzFLRUJPdFctZ01YNEEzbF9Vd2R3QXM0LTNfN0l2Q0FUSnNnRnRZWEl2aVhWSlFwZjdNWHBjY2o1dWt2QXJnZ1l6LXEyVi1DV214VmNLLWRYaU8zUHJVVGhtYk10Ui0wOElxYlg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb21VQXQ3VlVzQTdLRGNoWmFCQ21HbWRjN1RheDJKN3BmLU9DR1Z0OGllbld0cDRfOEd0TnkwOGFTZXhhRjJYZGVIandybTJObXhmYjAyaXJfOFJfQnA1cXY0VzFLRUJPdFctZ01YNEEzbF9Vd2R3QXM0LTNfN0l2Q0FUSnNnRnRZWEl2aVhWSlFwZjdNWHBjY2o1dWt2QXJnZ1l6LXEyVi1DV214VmNLLWRYaU8zUHJVVGhtYk10Ui0wOElxYlg0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789209621.0
+    },
+    {
+        "id": "6b2b5f72c5",
+        "title_fa": "وحشت ریاضی‌دان برجسته از پیشرفت‌های خیره‌کننده هوش مصنوعی",
+        "title_en": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+        "summary": [
+            "پیشرفت‌های اخیر مدل‌های هوش مصنوعی در حل مسائل پیچیده، حوزه‌ای را که تا پیش از این قلمرو اختصاصی تفکر انسانی محسوب می‌شد، چالش کشیده است.",
+            "سرعت بالای هوش مصنوعی در اثبات قضایای ریاضی، جامعه علمی را درباره آینده پژوهش‌های بنیادین دچار نگرانی و شوک کرده است."
+        ],
+        "full_text": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs  WIRED",
+        "impact": "تغییر بنیانی در روش‌های تحقیق علوم پایه و ایجاد بازنگری جدی در نقش دانشمندان انسانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNUaDJOTzNWbmEzcTBCaWhKV0RBY1NOMkptS3MxRFE2MURUd09NRWxaUmZvTV83NzNkeFJsS21ITENfUTdWU1FTN3NlajhDb1N1c3ZiWVJWS2U3QkhzM05tdzVlMk5MU1NDS19vbGRrNUFwSzhzQ3lsQXl4ckZpTzJPcVlRVFJpaFpidUZ4aFJpa0ZYd3ZLenBUOF8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNUaDJOTzNWbmEzcTBCaWhKV0RBY1NOMkptS3MxRFE2MURUd09NRWxaUmZvTV83NzNkeFJsS21ITENfUTdWU1FTN3NlajhDb1N1c3ZiWVJWS2U3QkhzM05tdzVlMk5MU1NDS19vbGRrNUFwSzhzQ3lsQXl4ckZpTzJPcVlRVFJpaFpidUZ4aFJpa0ZYd3ZLenBUOF8",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789207200.0
+    },
+    {
         "id": "cd21768053",
         "title_fa": "همکاری کسب‌وکارهای محلی با دانشگاه نوتردام برای به‌کارگیری هوش مصنوعی",
         "title_en": "Local employers to explore practical AI applications at Notre Dame",
@@ -6977,52 +7021,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788370800.0
-    },
-    {
-        "id": "77e4b4624b",
-        "title_fa": "پرتاب توربین بادی شناور چین به ارتفاع ۴۰۰۰ متری برای تولید برق",
-        "title_en": "Electric & new energy vehicles",
-        "summary": [
-            "استارتاپ چینی توربین بادی معلقی را برای بهره‌برداری از بادهای پرسرعت در ارتفاعات بالا با موفقیت آزمایش کرد.",
-            "این سازه هوایی ظرفیت تولید بسیار بالاتری نسبت به توربین‌های بادی معمولی روی زمین دارد."
-        ],
-        "full_text": "China sends airborne wind turbine up 4,000m to generate power The craft, developed by a Chinese start-up, uses winds at high altitude to produce electricity.",
-        "impact": "تحول در صنعت انرژی‌های پاک از طریق دستیابی به جریان‌های باد دست‌نخورده در ارتفاع بالا.",
-        "tag": "تکنولوژی",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "scmp.com",
-        "url": "https://www.scmp.com/topics/electric-cars",
-        "clean_url": "https://www.scmp.com/topics/electric-cars",
-        "image": "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
-        "images": [
-            "https://assets-v2.i-scmp.com/production/_next/static/media/default-image.d95a029f.png",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/09/02/61e7a43a-cddf-4728-a513-363c8fbda41d_4752187e.jpg",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/09/01/44d7186a-a610-44a6-9e31-5b001d3744bd_8f9c604b.jpg",
-            "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2026/08/31/5cbe5a17-56b7-46e2-9c55-45ad862e481e_42e78403.jpg"
-        ],
-        "timestamp": 1788369480.0
-    },
-    {
-        "id": "777fc5c7b1",
-        "title_fa": "همکاری nference و دانشگاه راش در تحقیقات پزشکی هوش مصنوعی",
-        "title_en": "nference and Rush University System for Health Launch Long-Term Partnership to Advance AI-Enabled Clinical Research and Patient Care | Newswise",
-        "summary": [
-            "شرکت nference و سیستم بهداشتی راش برای تحلیل داده‌های بالینی مبتنی بر AI وارد شراکت شدند.",
-            "این پروژه بر تسریع تحقیقات پزشکی و ارتقای کیفیت مراقبت از بیماران تمرکز دارد."
-        ],
-        "full_text": "nference and Rush University System for Health Launch Long-Term Partnership to Advance AI-Enabled Clinical Research and Patient Care | Newswise  Newswise",
-        "impact": "بهبود کیفیت خدمات درمانی و تسریع در تحلیل داده‌های پیچیده پزشکی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Newswise",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MNIBkwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MNIBkwJBVV95cUxNdERlV1FlX1A4X1lXQVc0Y0JKVHAycXZ2UHZ5eHhRLXBGVlFKYXRHd3d4TjV6N2pIVkt2WFJwN1pCWDZ6d1NMVklZR3RrMFlGdWxkSUlnU243dGpKQzAxanl5MXNwVkdfRDRfM1VieVBseDZrekRLb0FkYmdtdTNucFhiX1Z3OEFiZndhTU9XVE43VVF2dDFRaFNxZlFqcFZtem95UGp6Z0ZTbWwtTnNnWWVjaHJOT2VwUk43em1xM3NIV1NBQ2ZiY1JFV0d1SGVocm5xVlB0cHBGajJvLUpEZHd1UDFCM3h6WnNwblY1SlhKbjNxejVUOTlnVE5sS1gyVVlqQzNQUVMtc3lyemtPR2x0MA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788365400.0
     }
 ]
