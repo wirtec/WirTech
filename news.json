@@ -67,6 +67,32 @@
         "timestamp": 1789293600.0
     },
     {
+        "id": "5267c4ebe6",
+        "title_fa": "تاکید باراک اوباما بر تدوین برنامه جامع برای مهار هوش مصنوعی",
+        "title_en": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "summary": [
+            "باراک اوباما از رهبران حزب دمکرات خواست ایمنی و تبعات اقتصادی هوش مصنوعی را به اولویت اصلی برنامه‌های خود تبدیل کنند.",
+            "رئیس‌جمهور سابق آمریکا با مدیران ارشد انتروپیک و اوپن‌ای‌آی گفتگو کرده و توسعه کنترل‌نشده AI توسط بخش خصوصی را خطرناک دانسته است.",
+            "هم‌زمان با این اظهارات، مدیران بزرگ فناوری مانند داریو آمودی و سم التمن از ایده ارزیابی مستقل امنیت مدل‌ها استقبال کرده‌اند."
+        ],
+        "full_text": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, according to The New York Times. Obama made these comments on Thursday, at Democratic fundraising event where he was interviewed by House Minority Leader Hakeem Jeffries. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI. In response, Obama said that once Democrats regain the House majority, they need to “put together a framework for a very public conversation.” “This is something that is moving very fast in private hands, and if we don’t get on top of it, I think can be dangerous,” Obama added. “If we do get on top of it, I do think it’s beneficial. I genuinely think it’s going to accelerate, for example, drug development in ways that can help us cure diseases.” In a statement, Jeffries said the former president “is correct that decisive action must be taken on artificial intelligence.” Jeffries also said that “Republicans have abdicated their responsibility to govern on behalf of the American people.” The NYT also reports that Obama has offered himself as a “sounding board” to AI executives and has spoken to both Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman. His comments come amidst growing concern around AI safety, particularly after an AI researcher resigned from Anthropic and claimed the leading AI companies are “racing straight to self-improving superintelligence and gambling with our lives.” On Saturday, Amodei outlined a broad approach to “pacing the frontier,” which would include giving independent safety evaluators access to leading AI companies and models, as well as developing “common safety standards” between companies. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with employee-like access.” President Donald Trump, meanwhile, discussed AI safety concerns with reporters at an Irish golf event on Sunday. Bloomberg reports that Trump boasted that the United States is “the most sophisticated country in the world,” adding that he wants “to keep it that way because whoever wins AI wins.” (Earlier this year, the Trump administration released a legislative framework for AI that would preempt state laws and shift the child safety burden to parents.) “And we can put guardrails,” Trump said. “We can do this and that. But I think you have a lot of negative forces that are bringing it up that shouldn’t be bringing it up.”",
+        "impact": "افزایش فشارهای سیاسی برای تصویب قوانین نظارتی سخت‌گیرانه‌تر روی شرکت‌های پیشرو در حوزه هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "clean_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+        "image": "http://www.bing.com/th?id=ONUT.44D82nsn-6AVCi-gGl7H-g&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.44D82nsn-6AVCi-gGl7H-g&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1789291800.0
+    },
+    {
         "id": "941d3669eb",
         "title_fa": "سود ۴.۵ تریلیون وونی KKR با استراتژی سرمایه‌گذاری مستقیم و بدون صندوق",
         "title_en": "KKR Spent 9 Years Using Company Money Instead of a Fund — the 'Mini Berkshire' Strategy That Returned ₩4.5 Trillion",
@@ -89,6 +115,32 @@
             "https://img.biggo.com/UMUV092IfeIq7RvaDWsDNcjZUyNgqPdmYnNLm9q2ut8/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2MwMzEwNDZkLTA2ZmMtNDc3Ny1hYzZlLWU1NTgyNzQ3NmRmOV8xNzg5MjkxNzg4X2RlZmF1bHQuanBn.webp"
         ],
         "timestamp": 1789291500.0
+    },
+    {
+        "id": "70bb3c4d64",
+        "title_fa": "آغاز به‌کار تاکسی‌های بدون راننده لیفت در نشویل با همکاری وایمو",
+        "title_en": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+        "summary": [
+            "لیفت پس از سال‌ها آزمون‌وجنگ استراتژیک، سرانجام سرویس تجاری تاکسی‌های تمام‌خودران را بدون راننده پشتیبان راه‌اندازی کرد.",
+            "کاربران در شهر نشویل می‌توانند مستقیماً از طریق اپلیکیشن لیفت سوار خودروهای خودران وایمو شوند.",
+            "لیفت پس از فروش واحد خودروهای خودران خود در سال ۲۰۲۱، اکنون روی مدیریت ناوگان و توسعه بین‌المللی از جمله بازار لندن تمرکز کرده است."
+        ],
+        "full_text": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility! Lyft reached a new milestone this week when Waymo robotaxis landed on its app in Nashville. Under the partnership, Lyft handles fleet services, such as vehicle readiness and maintenance, as well as infrastructure and depot operations through its wholly owned subsidiary Flexdrive. In Nashville, customers can hail a Waymo robotaxi directly from the Waymo app, or try their luck on the Lyft app, which will match riders with a Waymo depending on availability. Lyft has more than dabbled in autonomous vehicle technology over the years, including through partnerships with Aptiv (now Motional) in Las Vegas, May Mobility in Atlanta, Baidu in London, and Waymo in Phoenix. But this week is notable because it marks Lyft’s first true entry into commercial robotaxi services using driverless vehicles without a human operator behind the wheel. Lest you forget, the company spent four years and millions of dollars developing its own AV tech under its Level 5 business division. Lyft sold its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million in 2021 — one of many acquisitions during a period of widespread consolidation across the nascent industry. Lyft then took a break from AVs as it focused on its core ride-hailing business. But it didn’t dismiss the idea altogether. I spoke to Jeremy Bird, Lyft’s executive vice president of growth, about the milestone and thought I would share a few insights. In his role, Bird manages Lyft’s international, luxury, and autonomous vehicle plans — and sometimes all three may converge. When I asked Bird when we’ll see more robotaxis on the Lyft app — and where — he didn’t get too specific. But he did say the company went into 2026 focused on its partnership with Waymo in Nashville and Baidu in London (where commercial service has not yet launched). “I think next year what you’ll see is more diversification of that,” he said, adding that ideally this would include expanding Lyft’s partnership with both partners. “I think next year will be a big year for us.” And it seems international markets are a big part of that AV expansion plan. Bird called London a “fascinating market,” and throughout our conversation he repeatedly talked about Lyft as a global company, a notable shift from just a few years ago when it was focused on the U.S. market. So, where is Lyft headed next? When it comes to international markets, Lyft seems to be prioritizing locations where it can operate a hybrid network — meaning AVs and human-driven vehicles — from the get-go. “We are a global company becoming more global, which is important for us,” he said. “And AVs will be the way we think about the future. Like any market we go into, is there an AV component to that? Is it a market where AVs are already open regulatorily, or that would put that market up higher on our list of the places we want to go?” A little bird A little bird noticed a couple of interesting hires over at Ford that sure look like the company is building up its defense tech muscles. Ford recently hired ex-Raytheon employee Tomaz Seignemartin as VP of continuous improvement and former General Dynamics staffer Shirish Srinivasan, who is now chief of staff to Ford’s chief strategy officer. Ford also hired Nathan Rigoni, who was Lockheed Martin’s generative AI team lead, as senior software engineer. Now, of course, a handful of defense tech hires at a company that employs thousands is hardly a trend. But it does illustrate how having a background in defense tech has become more valuable. Got a tip for us? Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com. Deals! The Boring Company, the startup founded by Elon Musk to “solve traffic” by creating a network of underground tunnels, raised $3 billion in a round led by the United Arab Emirates. The Boring Company is now valued at $23 billion, the company shared in its announcement. There is a reason for UAE’s support. The Boring Company, which already worked with the UAE on the Dubai Loop, said it will dig another 150 kilometers of tunnels in the Middle Eastern country. Andreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity Partners also participated. In the U.S., the Boring Company’s most visible work is in Las Vegas, where it has developed tunnels connecting hotel casinos such as Resorts World, Encore, and the Sahara, the convention center, and limited trips to the airport. Tesla vehicles, driven by a human, shuttle riders to and from these locations. Other deals that got my attention this week … ARC Ride, the Kenya-based electric mobility startup, raised $33.3 million in a round led by Novastar Ventures and Norrsken22. Other backers included IFC, British International Investment, Proparco, Japanese supplier Musashi Seimitsu, and African impact investor Talanton. Beep, a startup known for operating autonomous shuttles at campuses and airports, raised $20 million in a Series B round led by Mobileye, one of its existing tech partners. The Orlando, Florida-based company that was founded in 2019 said it has raised $130 million to date. Fryte Mobility, a Munich, Germany-based software startup focused on charging logistics for electric trucks, raised €3.5 million ($4 million) in seed funding co-led by 4impact capital and Rethink Ventures. Existing backers Revent, F-LOG, accilium ventures, and unnamed angel investors also participated. Porsche completed the sale of its stakes in Bugatti Rimac and Rimac Group to HOF Capital. Porsche received about 1 billion euros in the sale, and about 250 million euros of those proceeds will be used to further fund its pension obligations. Poseidon Aerospace raised $60 million ahead of the first test flight of",
+        "impact": "تغییر مدل کسب‌وکار تاکسی‌های اینترنتی از مدیریت رانندگان انسانی به سمت سرویس‌دهی و پشتیبانی ناوگان‌های رباتیک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "clean_url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat",
+        "image": "http://www.bing.com/th?id=ONUT.jWvcIZcmdF9MUNYT24FGEg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.jWvcIZcmdF9MUNYT24FGEg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/waymo-lyft-nashville.jpeg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2026/09/waymo-lyft-nashville.jpeg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2019/10/blinky-cat-bird-green.gif?w=680"
+        ],
+        "timestamp": 1789290240.0
     },
     {
         "id": "66b123da8a",
@@ -6995,49 +7047,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788467364.0
-    },
-    {
-        "id": "eb13d063ac",
-        "title_fa": "ابتکار مشترک نهادهای دولتی آمریکا برای جذب سرمایه در فناوری‌های حیاتی",
-        "title_en": "DOE and SBA Launch the SBIC-E Initiative to Expand Private Capital for Energy and Critical Technology Small Businesses",
-        "summary": [
-            "وزارت انرژی آمریکا و سازمان کسب‌وکارهای کوچک (SBA) طرح SBIC-E را برای هدایت سرمایه‌های خصوصی به سمت شرکت‌های نوپای حوزه انرژی راه انداختند.",
-            "این برنامه روی حمایت از استارتاپ‌های فعال در زمینه انرژی‌های پاک و سخت‌افزارهای حیاتی تمرکز دارد."
-        ],
-        "full_text": "DOE and SBA Launch the SBIC-E Initiative to Expand Private Capital for Energy and Critical Technology Small Businesses  Foley Hoag",
-        "impact": "تسهیل ورود سرمایه‌گذاران خصوصی به حوزه فناوری‌های سخت و کاهش ریسک مالی استارتاپ‌های انرژی.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "Foley Hoag",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWhfMi0tTFNENjlpUVc4Z1ROTEVzZms4Y0d0VTlxV1B6Z2tuVHg4aWpNckQ5S3lWY21aR0Q5eHNFOXdiUEpGQ3UtMXdpVFd6OXotNlMyMXRKZUFDTUoxcUd2YndiQ3pEejcxOWNobVZtSTZZZnU1MnN1MW5iSjZ2bVRycUZFT0xnd3Zleng5X2g2TlFyamphZ0tpQUxDVXdiaFR5WVlfRTNEcm9HYWtycUJGazIxNHY2dzRwdjZRLVhqMF9tRkRKdlAxS2J3c3cwWHVVTV9tX1ZOc3NiMEdVY0toZnhXSmwzQWktVlJOeWctMS1PNzB1Z0ktOFlVQk4zVWxRZWVJMFhyWEJ4bVZ5bQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNWhfMi0tTFNENjlpUVc4Z1ROTEVzZms4Y0d0VTlxV1B6Z2tuVHg4aWpNckQ5S3lWY21aR0Q5eHNFOXdiUEpGQ3UtMXdpVFd6OXotNlMyMXRKZUFDTUoxcUd2YndiQ3pEejcxOWNobVZtSTZZZnU1MnN1MW5iSjZ2bVRycUZFT0xnd3Zleng5X2g2TlFyamphZ0tpQUxDVXdiaFR5WVlfRTNEcm9HYWtycUJGazIxNHY2dzRwdjZRLVhqMF9tRkRKdlAxS2J3c3cwWHVVTV9tX1ZOc3NiMEdVY0toZnhXSmwzQWktVlJOeWctMS1PNzB1Z0ktOFlVQk4zVWxRZWVJMFhyWEJ4bVZ5bQ",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788466787.0
-    },
-    {
-        "id": "c1c445f109",
-        "title_fa": "رونمایی OpenAI از مدل Astra و ادعای ورود به عصر AGI",
-        "title_en": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-        "summary": [
-            "OpenAI از مدل جدیدی به نام Astra رونمایی کرد و آن را سرآغاز دوره‌ای تازه در مسیر دستیابی به هوش عمومی مصنوعی (AGI) نامید.",
-            "این مدل با ارتقای توانایی‌های استدلال و پردازش چندوجهی، بنچمارک‌های قبلی این شرکت را بهبود می‌دهد."
-        ],
-        "full_text": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release  The Guardian",
-        "impact": "افزایش شدید فشار رقابتی بر گوگل و آنتروپیک برای رونمایی سریع‌تر از مدل‌های پرچمدار بعدی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788465900.0
     }
 ]
