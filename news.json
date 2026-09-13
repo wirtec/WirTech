@@ -1,5 +1,49 @@
 [
     {
+        "id": "976c80ec15",
+        "title_fa": "احتمال عرضه نسل جدید اپل تی‌وی مجهز به دستیار سیری هوشمند در پاییز",
+        "title_en": "New Apple TV with Siri AI could launch at any time in the fall",
+        "summary": [
+            "گزارش‌ها از آمادگی اپل برای رونمایی از مدل جدید Apple TV در فصل پاییز خبر می‌دهند",
+            "تمرکز اصلی این به‌روزرسانی سخت‌افزاری بر ادغام قابلیت‌های پیشرفته Siri مبتنی بر هوش مصنوعی خواهد بود"
+        ],
+        "full_text": "New Apple TV with Siri AI could launch at any time in the fall  appleinsider.com",
+        "impact": "ورود جدی‌تر ابزارهای هوش مصنوعی هوشمند اپل به سخت‌افزارهای خانگی و خانه هوشمند.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "appleinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeW82TVhjWXNsQ3RjbkN6QjF5Y1dJcFpkXzZoQnJYZ2IwNUNTLWQ4MGM2S2xrZnpjQTdZQThPNDEwakpwYWNWOHl4WGlqcjBRc0Z3czZkMW5kMXhYdHNtSnZnQmZWaDlCR3pXbm0wVkJmRndSSjJ2NmQ2OXdmRGpVZkJPZkpvandrSldQeXF2WkQyYlozNnZEZXpJVl80ZHF0WE9GOFNiU0w?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeW82TVhjWXNsQ3RjbkN6QjF5Y1dJcFpkXzZoQnJYZ2IwNUNTLWQ4MGM2S2xrZnpjQTdZQThPNDEwakpwYWNWOHl4WGlqcjBRc0Z3czZkMW5kMXhYdHNtSnZnQmZWaDlCR3pXbm0wVkJmRndSSjJ2NmQ2OXdmRGpVZkJPZkpvandrSldQeXF2WkQyYlozNnZEZXpJVl80ZHF0WE9GOFNiU0w",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789309500.0
+    },
+    {
+        "id": "50b4895eef",
+        "title_fa": "ارتقای ابزارهای امنیت سایبری کروداسترایک با رونمایی از محصولات خودمختار AI",
+        "title_en": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+        "summary": [
+            "گسترش ابزارهای شناسایی تهدیدات سایبری CrowdStrike با قابلیت‌های پایش خودمختار",
+            "استقبال مثبت بازار و سرمایه‌گذاران از ادغام ایجنت‌های هوش مصنوعی در پلتفرم‌های امنیتی این شرکت"
+        ],
+        "full_text": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.  Barchart.com",
+        "impact": "تسریع روند خودکارسازی دفاع سایبری و مقابله هوشمند با تهدیدات پیچیده نرم‌افزاری.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": 0.7,
+        "source": "Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa2MzOUxJaVU3bkVDeDVlbjBPWmJFSV9vNk1DV1plWnFSaVVpdHVocUpMNUFaTWNFT3NERTJZdkEwWjVGRkpBcGNxUENZdnRrYlY4SVB2Q1pxOUREVmxwLU1QanREUmJQc203QW9FaG1kX01Ebnk5NDc0NGFWTTNrVkZTOEhLZGdRWGFFS01XYU82UGdxTmM0SWh2SDZTMUZkWDlheFhmV09IMHZwbjVrcTNWTkJCQnJSUVpoR3pjZ1F1bmVhNENOVE9MLU9iYzVwa0xVX0dMcS0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa2MzOUxJaVU3bkVDeDVlbjBPWmJFSV9vNk1DV1plWnFSaVVpdHVocUpMNUFaTWNFT3NERTJZdkEwWjVGRkpBcGNxUENZdnRrYlY4SVB2Q1pxOUREVmxwLU1QanREUmJQc203QW9FaG1kX01Ebnk5NDc0NGFWTTNrVkZTOEhLZGdRWGFFS01XYU82UGdxTmM0SWh2SDZTMUZkWDlheFhmV09IMHZwbjVrcTNWTkJCQnJSUVpoR3pjZ1F1bmVhNENOVE9MLU9iYzVwa0xVX0dMcS0",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789304402.0
+    },
+    {
         "id": "d69d2bede1",
         "title_fa": "حل مسئله ۱ میلیون دلاری ریاضی توسط اوپن‌ای‌آی و اتهام سرقت علمی",
         "title_en": "He was close to a $1 million breakthrough. Then OpenAI swooped in.",
@@ -21,6 +65,105 @@
             "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7p4b.img?w=1280&h=960&m=4&q=88"
         ],
         "timestamp": 1789293600.0
+    },
+    {
+        "id": "941d3669eb",
+        "title_fa": "سود ۴.۵ تریلیون وونی KKR با استراتژی سرمایه‌گذاری مستقیم و بدون صندوق",
+        "title_en": "KKR Spent 9 Years Using Company Money Instead of a Fund — the 'Mini Berkshire' Strategy That Returned ₩4.5 Trillion",
+        "summary": [
+            "فروش شرکت بیمه USI به ارزش ۱۷ میلیارد دلار پس از نگهداری ۹ ساله توسط مجموعه KKR",
+            "کسب سود ۶ برابری با تزریق مستقیم سرمایه شرکتی به جای جمع‌آوری سرمایه از نهادهای خارجی",
+            "اجرای موفق استراتژی ادغام ۹۰ شرکت بیمه کوچک و متوسط برای ارتقای ارزش کل مجموعه"
+        ],
+        "full_text": "KKR Spent 9 Years Using Company Money Instead of a Fund — the 'Mini Berkshire' Strategy That Returned ₩4.5 Trillion Global private equity fund (PEF) manager KKR has recovered six times its initial investment by selling U.S. insurance brokerage USI Insurance Services. The deal is drawing market attention not simply because of the returns. It's the unusual investment structure: KKR held the stake for nine years using only its own corporate capital, not a fund raised from outside limited partners. KKR announced on the 1st (local time) that it had agreed to sell USI to industry peer Aon. The transaction is valued at approximately $17 billion (about ₩22.8 trillion). Of that amount, KKR will actually pocket $3.3 billion (about ₩4.4 trillion) after taxes — a recovery of six times its initial equity investment. A typical private equity fund manager raises capital from institutional investors such as pension funds, mutual aid associations, and insurance companies to form a fund. The manager's own contribution to the fund is typically around 1% of committed capital. This is called a \"GP commitment\" — a mechanism to ensure the manager retains at least minimal skin in the game. For a ₩50 billion (approximately $37.2 million) fund, the manager's share would be ₩500 million (approximately $370,000), with institutional investors providing the remaining ₩49.5 billion (approximately $36.9 million). While managing the fund, the manager collects an annual management fee of 1–2% of assets under management. When a portfolio company is sold at a profit, the manager takes roughly 20% of the gains above the hurdle rate promised to investors (typically around 8% per year) as performance fees. Since the bulk of the principal comes from limited partners, the bulk of the profits also flows back to them. KKR broke with this convention. In 2017, it acquired USI for $4.3 billion (about ₩5.8 trillion) alongside Canadian pension fund CDPQ, but KKR deployed its own corporate capital directly rather than through a fund. The company has not disclosed the specific equity investment amount or stake, but it added more of its own money in 2020, 2023, and 2025 to expand its position. Had this been a fund investment, the capital would have been returned within a 5–7 year maturity window. But because KKR held the stake with its own money, it secured a nine-year runway. During that period, KKR executed a \"bolt-on\" strategy, acquiring roughly 90 small and mid-sized insurance brokerages and merging them into USI to drive up the company's value. KKR said it recovered six times its initial equity investment, or 3.4 times when including subsequent capital injections. Working backwards from the recovery amount and multiple, KKR is estimated to have deployed roughly $1 billion (about ₩1.3 trillion) to reap $3.3 billion. This approach is being called a \"mini Berkshire\" strategy in the market. It's a structure where a company uses its own capital — not a fund — to buy businesses, hold them for the long term, and collect dividends, taking its name from Berkshire Hathaway, the company led by Warren Buffett. Berkshire owns insurance companies including auto insurer GEICO. Insurance companies collect premiums upfront and pay out claims much later, allowing the company to invest the accumulated float in the interim. Buffett used this capital as seed money to acquire businesses and rarely sell them, growing the company through that approach. In fact, Berkshire has paid a dividend only once since Buffett took control in 1965 — a cash dividend of $0.10 per share (about ₩130) in 1967. Reinvesting surplus cash into new acquisitions and investments rather than paying dividends has been the core engine of Berkshire's growth. Greg Abel, who succeeded Buffett as CEO in January, has maintained this stance. In his shareholder letter, he stated that Berkshire \"will not pay a dividend as long as there is a reasonably high probability that each dollar of retained earnings will create more than one dollar of shareholder value.\" Major U.S. private equity firms have also begun building similar funding structures. KKR acquired U.S. insurer Global Atlantic in 2020, Apollo bought annuity insurer Athene, and Blackstone purchased a stake in AIG. Life insurance and annuity policies don't require returning capital to policyholders for decades, and the promised rates are lower than the 8% annual hurdle that fund managers must first clear for limited partners. With this kind of long-term capital backing them, managers can inject additional capital to grow good businesses when they find them, and wait for the right price at exit without being pressured by timing. That translates into greater flexibility in investment strategy. The trend of managers increasing their own capital commitments is also emerging in South Korea's capital markets — though it's more pronounced in venture capital than in the PE market. In the buyout market, where individual deals run into the hundreds of billions of won, a manager would need substantial accumulated capital to buy companies with its own money alone, and few South Korean managers have the capacity to deploy several hundred billion won or more purely from their own balance sheets. Moreover, most large South Korean managers are privately held, cutting off the option of issuing shares to raise capital. VC firms, with relatively smaller investment sizes, find it easier to commit their own money. Capstone Partners' \"Capstone 2026 AI Innovation Investment Fund,\" formed in April, includes ₩9.9 billion (approximately $7.4 million) of company money out of ₩50 billion (approximately $37.2 million) in commitments — twenty times the statutory minimum LP commitment ratio of 1% for venture investment funds. Daesung Startup Investments committed 38% to \"Daesung W-Jump Up\" and 23.6% to \"Daesung Together Youth Startup.\" Woori Venture Partners maintains a GP commitment ratio of around 15%. In the \"KTBN No. 13 Venture Investment Fund\" formed during its",
+        "impact": "تغییر الگوی سنتی صندوق‌های سرمایه‌گذاری خصوصی به سمت خروج از بازه‌های کوتاه مدتی ۵ ساله.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "finance.biggo",
+        "url": "https://finance.biggo.com/news/c031046d-06fc-4777-ac6e-e55827476df9",
+        "clean_url": "https://finance.biggo.com/news/c031046d-06fc-4777-ac6e-e55827476df9",
+        "image": "https://img.biggo.com/smVCjKF1Q7aPO9GUTbR9SHL78BkuAAfLCmdihWRVQgI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2MwMzEwNDZkLTA2ZmMtNDc3Ny1hYzZlLWU1NTgyNzQ3NmRmOV8xNzg5MjkxNzg4X2RlZmF1bHQuanBn.jpg",
+        "images": [
+            "https://img.biggo.com/smVCjKF1Q7aPO9GUTbR9SHL78BkuAAfLCmdihWRVQgI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2MwMzEwNDZkLTA2ZmMtNDc3Ny1hYzZlLWU1NTgyNzQ3NmRmOV8xNzg5MjkxNzg4X2RlZmF1bHQuanBn.jpg",
+            "https://img.biggo.com/UMUV092IfeIq7RvaDWsDNcjZUyNgqPdmYnNLm9q2ut8/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2MwMzEwNDZkLTA2ZmMtNDc3Ny1hYzZlLWU1NTgyNzQ3NmRmOV8xNzg5MjkxNzg4X2RlZmF1bHQuanBn.webp"
+        ],
+        "timestamp": 1789291500.0
+    },
+    {
+        "id": "66b123da8a",
+        "title_fa": "ارزش استارتاپ سازنده Devin در دور جدید جذب سرمایه به ۴۷ میلیارد دلار می‌رسد",
+        "title_en": "Cognition AI targets $47 billion valuation in new $1 billion funding round",
+        "summary": [
+            "برنامه‌ریزی Cognition AI برای جذب ۱ میلیارد دلار سرمایه جدید با وجود درخواست‌های ۱۰ میلیارد دلاری سرمایه‌گذاران",
+            "دو برابر شدن ارزش این استارتاپ ظرف سه ماه به لطف جهش درآمد سالانه از ۷۳ میلیون دلار به بیش از ۹۰۰ میلیون دلار",
+            "رد پیشنهاد تصاحب توسط اسپیس‌ایکس و تمرکز بر توسعه مستقل ایجنت‌های کدنویسی نرم‌افزار"
+        ],
+        "full_text": "Cognition AI Inc., the artificial intelligence coding startup behind the Devin software agent, is set to close a new funding round that would value the company at roughly $47 billion, with the raise targeting approximately $1 billion, according to Bloomberg, citing people familiar with the matter. The final raise size may exceed that amount as Cognition fields outsize demand for the round, with the company having received nearly $10 billion in investor interest. A valuation that nearly doubled in three months The potential $47 billion valuation compares with $26 billion in May, when Cognition raised about $1 billion, and represents a sharp increase from the $10.2 billion valuation it secured in a September 2025 funding round. Bloomberg had reported on August 12, 2026 that Cognition was in early talks with investors for a new funding round that may boost the startup’s valuation by more than 50% to at least $40 billion. Those talks moved fast, with Bloomberg reporting on September 2 that the company is finalizing a new round at a $47 billion valuation, nearly double the $26 billion price tag it set three months earlier. The new financing comes weeks after Bloomberg reported that SpaceX approached Cognition about a potential acquisition. Cognition did not engage with the takeover approach, according to one person familiar with the matter, though discussions are continuing about working together, including potentially arranging for Cognition to use SpaceX’s computing capacity. Cognition CEO Scott Wu disputed the report soon after it published, writing on X that the story was inaccurate and that Cognition was not for sale. Investor interest in the round also accelerated after SpaceX completed a $60 billion acquisition of rival AI coding startup Cursor. The deal became effective on August 14, according to a regulatory filing. The acquisition effectively narrowed the field of leading AI coding platforms, raising the competitive premium investors attach to Cognition. Revenue surge underpins investor demand The fundraising comes as Cognition’s annualized revenue has grown from $492 million in late May to more than $900 million, up from roughly $73 million in annualized revenue a year earlier. That trajectory, roughly doubling its revenue run rate in approximately four months, is the primary driver of the valuation jump. Cognition focuses on developing end-to-end software agents for engineering teams, and its flagship product Devin is designed to act as a collaborative AI teammate. Cognition has also expanded beyond Devin through its acquisition of Windsurf, more than doubling annual recurring revenue and adding integrated development environments to its product suite. In July 2025, Cognition agreed to buy what remained of Windsurf for an undisclosed sum, days after Alphabet’s Google struck a $2.4 billion deal for Windsurf’s top talent and licensing rights. Windsurf had been in talks with OpenAI about a multibillion-dollar acquisition, but those talks fell apart, leading to the Google deal. Cognition purchased Windsurf’s IP, product, trademark, brand and talent , along with employees who chose not to join Google. A broader funding race for AI coding tools The latest financing, if completed at the reported valuation, would underscore how rapidly investors are repricing AI companies that demonstrate growing revenue. It also raises expectations for Cognition to sustain its growth as competition in AI-powered software development intensifies. The Cognition round fits into a broader pattern of concentrated capital. So far in 2026, US companies have pulled in nearly 80 percent of global seed-through-growth-stage financing, per Crunchbase data, a sharp divergence from the years leading up to the AI boom when American companies typically secured less than half of all investment. That concentration has been documented by GCN in recent coverage of record-breaking quarterly startup investment, which hit $330 billion for the first time in history earlier this year. Follow-on rounds now overwhelmingly drive the AI infrastructure market, with roughly 89 percent of disclosed deals coming from companies that had already raised capital previously. That reflects how late-stage AI platforms command repeated and rapidly escalating checks. Cognition’s trajectory mirrors the playbook used by other fast-growing AI coding platforms that have reshaped developer tooling markets in 2026. Talks are ongoing and details may still change. Cognition did not respond publicly to requests for comment at the time of Bloomberg’s report, and no lead investor has been named for the new round.",
+        "impact": "ثبت رکوردهای جدید در ارزش‌گذاری استارتاپ‌های ایجنت کدنویسی و داغ‌تر شدن رقابت در بازار ابزارهای توسعه نرم‌افزار.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "GCN",
+        "url": "https://gcn.com/cognition-ai-47-billion-funding-round/21603/",
+        "clean_url": "https://gcn.com/cognition-ai-47-billion-funding-round/21603",
+        "image": "https://gcn.com/wp-content/uploads/2026/09/cognition-ai-47-billion-funding-round-photo-scaled.jpg",
+        "images": [
+            "https://gcn.com/wp-content/uploads/2026/09/cognition-ai-47-billion-funding-round-photo-scaled.jpg"
+        ],
+        "timestamp": 1789286400.0
+    },
+    {
+        "id": "639f3c9ccc",
+        "title_fa": "چالش شفافیت در اینترنت ایران؛ چرا رگولاتوری آمار مصرف را شفاف نمی‌کند؟",
+        "title_en": "حجم‌خوری و چرخه بی‌پایان گلایه و تکذیب",
+        "summary": [
+            "تکرار گلایه‌های ۱۰ ساله کاربران از پایان زودهنگام بسته‌ها و ارجاع موضوع به افزایش مصرف ویدیو توسط اپراتورها",
+            "عدم انتشار گزارش جامع و شفاف از سوی سازمان تنظیم مقررات به عنوان تنها نهاد دارای داده‌های فنی مصرف",
+            "اظهارات مسئولان استانی مبنی بر عدم دسترسی کافی به داده‌های رگولاتوری برای بررسی دقیق کم‌فروشی احتمالی"
+        ],
+        "full_text": "گلایه از تمامشدن زودهنگام بستههای اینترنت، قصه تازهای نیست؛ شکایتی است که بیش از یک دهه میان کاربران ایرانی تکرار میشود و هر بار نیز با یک پاسخ آشنا روبهروست: اپراتورها میگویند مصرف دقیق محاسبه شده و رگولاتوری از کاربران میخواهد «مصداق» ارائه کنند. اکنون اما پرسش اصلی دیگر این نیست که آیا همه ادعاهای «حجمخوری» درستاند یا نه؛ پرسش این است که چرا نهادی که ابزار، داده و وظیفه نظارت را در اختیار دارد، هنوز نتوانسته یک گزارش مستقل، قابلراستیآزمایی و عمومی درباره این مسئله منتشر کند؟ حدود یک ماه قبل و همزمان با روز خبرنگار، وزیر ارتباطات و فناوری اطلاعات به گلایه کاربران درباره تمامشدن زودهنگام بستههای اینترنت واکنش نشان داد. او تاکید کرد ادعای «حجمخوری» باید دقیق بررسی شود، آن را خط قرمز خود خواند و هشدار داد که در صورت اثبات تخلف، با اپراتور متخلف برخورد جدی خواهد شد. وزیر همچنین از اپراتورها خواست گزارش بررسیهای خود را ارائه کنند. دو اپراتور اصلی نیز مدتی بعد، جداگانه نشستهایی با حضور خبرنگاران برگزار کردند و با نمایش دادههای خود، تاکید داشتند حجم بستهها دقیقاً متناسب با مصرف کاربران کسر میشود و آنچه کاربران «حجمخوری» مینامند، در واقع حاصل افزایش مصرف ویدئو، بهروزرسانی خودکار برنامهها، فعالیت اپلیکیشنها در پسزمینه، کیفیت بالاتر محتوا و استفاده همزمان چند دستگاه است. اما توضیحات فنی اپراتورها، مسئولیت رگولاتور را کم نمیکند؛ برعکس، ضرورت نظارت مستقل و شفاف را بیشتر میکند. کاربر عادی نه به رکوردهای مصرف شبکه دسترسی دارد، نه میداند کدام نوع ترافیک با چه قاعدهای محاسبه شده و نه توان فنی آن را دارد که اختلاف میان داده گوشی و سامانه اپراتور را تحلیل کند. بنابراین نمیتوان از او انتظار داشت هم شاکی باشد، هم کارشناس فنی، هم بازرس و هم تامینکننده ادله پرونده. از سوی دیگر، واگذاری مسئولیت رفع اتهام از متهم احتمالی (یعنی اپراتور) هم از بدایع اقدامات وزارت ارتباطات است. در همین حال، پوریا پورغلامی، مدیرکل ارتباطات و فناوری اطلاعات استان زنجان، گفته است موضوع گلایه مشترکان درباره تمامشدن زودهنگام بستهها همچنان در دست بررسی است و گزارشهای تحلیلی ادارهکل استان به مراجع ذیربط ارسال شده است. نکته مهمتر در سخنان او اما این است که ادارهکل استان به دادههای لازم برای بررسی کامل عملکرد اپراتورها دسترسی ندارد و نتیجهگیری قطعی، نیازمند دادههایی است که در اختیار سازمان تنظیم مقررات و ارتباطات رادیویی قرار دارد. در سال ۱۳۹۵ نیز حسین فلاح جوشقانی، معاون وقت سازمان تنظیم مقررات و ارتباطات رادیویی، در واکنش به نارضایتی کاربران از پایان زودهنگام بستهها، ضمن رد کمفروشی اپراتورها تاکید کرده بود سامانههای نظارتی رگولاتوری نشان میدهد اپراتورها به اندازه حجم فروختهشده خدمت ارائه میدهند و کمفروشی رخ نمیدهد. این گفتهها، ناخواسته یک مسئله روشن را برجسته میکند: مرجع دارای داده و امکان داوری، سازمان تنظیم مقررات است؛ نه کاربر و نه حتی ادارهکل استانی وزارت ارتباطات. پس چرا فرآیند رسیدگی بهگونهای طراحی شده که بار اصلی اثبات ادعا بر دوش مردم بیفتد و رد ادعا نیز به اپراتور محول شود؟ اگر سامانههای نظارتی لازم از سالها قبل وجود داشتهاند، چرا خروجی آنها در قالب گزارشهای عمومی منتشر نشده است؟ چرا بهجای پاسخهای کلی، آمار دقیق شکایتها، نتیجه رسیدگیها، میزان اختلافهای اثباتشده، نام اپراتورهای متخلف احتمالی و نوع برخورد با آنان اعلام نمیشود؟ اصل منصفانه این است که هیچ اتهامی بدون داده و رسیدگی مستقل پذیرفته نشود. اما اصل منصفانه دیگری هم وجود دارد: اپراتور نباید خود تنها مرجع توضیحدهنده و تولیدکننده سند درباره عملکردش باشد. اینکه وزارت ارتباطات برای بررسی ادعای احتمالی درباره عملکرد اپراتورها، از خود اپراتورها گزارش بخواهد، کافی نیست. گزارش اپراتور میتواند بخشی از پرونده باشد، اما نمیتواند جایگزین داوری نهاد مستقل ناظر شود. این همان نقطهای است که شائبه تضاد منافع شکل میگیرد: متهم احتمالی، عملاً مهمترین راوی پرونده خود میشود. این مسئله خاص کشور ما هم نیست و در بسیاری از کشورها اختلاف بر سر محاسبه مصرف دیتا و حجمخوری، که به آن Data Depletion میگویند، وجود دارد. تنظیمگران ارتباطی معمولاً اپراتورها را به شفافیت بیشتر در صورتحساب، اطلاعرسانی پیش از پایان بسته، امکان مشاهده ریزمصرف و رسیدگی روشن به شکایتها ملزم میکنند و اپراتورها نیز در مواجهه به گلایهها، ابزارهای شفافیت مثل محاسبهگر حجم را در اختیار کاربران میگذارند. برای مثال در کشور نیجریه، بالا گرفتن شکایتها موجب شد که اپراتورها معرفی Data Calculator را در دستور کار قرار دهند. کمیسیون فدرال رقابت و حمایت از مصرفکننده (FCCPC) نیز اعلام کرد که این کمیسیون وضعیت را از نزدیک زیر نظر دارد و در صورت لزوم ممکن است سیستمهای اپراتورهای مخابراتی را حسابرسی کند. اما برای پایاندادن به این بازی فرسایشی، وزارت ارتباطات و سازمان تنظیم مقررات میتوانند چند اقدام مشخص انجام دهند که - انتشار گزارش دورهای عمومی از شکایتهای ثبتشده درباره کسر حجم و نتیجه رسیدگی - ممیزی مستقل و تصادفی با استفاده از سامانههای موجود یا با کمک شرکتهای ممیزی مستقل - اجبار اپراتورها به ارائه ارائه ریزمصرف قابلفهم به کاربران همراه با جزئیاتی همچون زمان، نوع اتصال، حجم محاسبهشده و تفکیک ترافیک داخلی و بینالمللی - ایجاد سامانه ثبت شکایت با امکان تطبیق داده - هشدارهای به موقع در مقاطع مشخص مانند ۵۰، ۸۰ و ۹۰ درصد مصرف - و در نهایت اعلام عمومی تخلف و جبران خسارت تنها چند مورد مشخص از این اقدامات است. ماجرای «حجمخوری» شاید در نهایت به اثبات خطای اپراتور منتج نشود؛ اما تا زمانی که رسیدگی مستقل، داده قابلدسترسی و گزارش عمومی وجود نداشته باشد، هیچ تکذیبی اعتماد عمومی را بازسازی نمیکند. مردم از وزارت ارتباطات و رگولاتور انتظار دارند بر اساس وظیفهاش تنظیم کند، نظارت کند و در صورت تخلف، بیتعارف برخورد کند، نه اینکه با دفعالوقتی دهساله، بار مسئولیت را به دوش خود کاربران بیندازد و از آن بدتر، و وظیفه رفع اتهام را به خود اپراتورها واگذار کند.",
+        "impact": "تداوم بی‌اعتمادی کاربران به اپراتورها و رگولاتوری در غیاب یک سامانه پایش مستقل و عمومی.",
+        "tag": "اینترنت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/iran-technology-news/deta-depletion-complaints-operators-regulatory",
+        "clean_url": "https://digiato.com/iran-technology-news/deta-depletion-complaints-operators-regulatory",
+        "image": "http://www.bing.com/th?id=ONUT.Z2PONDfeTiki_87QeHQa0A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.Z2PONDfeTiki_87QeHQa0A&pid=News",
+            "https://static.digiato.com/digiato/2026/09/data-depletion.jpeg",
+            "https://static.digiato.com/digiato/2026/09/data-depletion-644x424.jpeg.webp",
+            "https://digiato.com/wp-content/themes/digiato/assets/img/svg/telegram-728x90.svg"
+        ],
+        "timestamp": 1789284180.0
+    },
+    {
+        "id": "4269286e67",
+        "title_fa": "رونمایی از آیفون‌های جدید، ایجنت هوش مصنوعی Meta Muse و هدفون جدید سونی",
+        "title_en": "Apple’s new phones are here",
+        "summary": [
+            "معرفی ویژگی‌های کلیدی آیفون Pro از جمله لنز با دیافراگم متغیر، باتری قوی‌تر و افزایش ۱۰۰ دلاری قیمت پایه",
+            "عرضه AirPods 5 با حذف نویز فعال ارتقایافته و کنترل ولوم روی ساقه در نسخه گران‌تر",
+            "رونمایی متا از ایجنت هوش مصنوعی رایگان Muse با سرعت بالا اما دارای باگ‌های متعدد در ارائه اطلاعات درست"
+        ],
+        "full_text": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you’re new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) Apple’s new phones are here Plus, in this week’s Installer: Updated AirPods, Meta’s AI agent, revived Sony headphones, and more. This week, I’ve been devouring every iPhone Duo video I can find, clicking on the wonderful websites nominated for this year’s Tiny Awards, catching up on the excellent Onimusha: Way of the Sword, reading Wildwood ahead of the upcoming movie, watching the new Taskmaster series, coming to grips with Link’s new look in the Ocarina of Time remake, and fixing the flat tire on my toddler’s stroller. I’m very proud of that last one. I also have for you new iPhones, Meta’s AI agent, revived Sony headphones, and more. It’s good to be back after a week off. (As always, the best part of Installer is your ideas and tips. What do you want to know more about? What are your favorite things you’ve watched / seen / listened to / folded recently? Drop a line to installer@theverge.com. And if you know someone else who might enjoy Installer, forward it to them and tell them to subscribe here.) The Drop - The iPhone 18 Pro. This is a refinement year for the Pro series, but the refinements seem like good ones, including a variable-aperture main lens, better battery, a new chip, and new colors (black!). The bad news: Their starting prices got a $100 bump, as did older iPhones. Still, the battery updates alone might be worth it. - AirPods 5. Apple’s latest open-ear AirPods have improved active noise cancellation and, for the more expensive model, on-stem volume controls like what’s offered on the AirPods Pro. I’m still rocking the AirPods Pro 2, but when I eventually need to upgrade, I’ll seriously consider the base AirPods, especially since they start at $129. - Meta’s Muse AI agent. Meta is trying to bring AI agents to the masses with the new Muse AI agent that you can chat with, ask to search the web for you, and connect to apps like Instagram and Gmail. It’s also free with usage limits, though messing around with it for a day or so, I didn’t come remotely close to hitting those. I was impressed with Muse’s speed, but it hallucinated a lot, including making up lyrics to a song my toddler loves. - Sony’s WH-1000XM4C headphones. Sony is launching a surprise second generation of its well-loved XM4 headphones after the original version was discontinued last year. They look the same, but have an updated sound profile and a bump up to Bluetooth 6. Battery life is apparently a little worse, dipping down to 27 hours with active noise cancellation activated. But at $299.99 — about $150 less than what Sony sells the XM6 for — the refreshed XM4s could be a great deal. - Philips Hue’s Play Screen Sync. This is the Hue take on a camera that sits on your TV and syncs what’s on your screen with your Hue lights. Unnecessary? Yes. Awesome? Also yes. It costs $119.99. - Dbrand’s “MNML” accessories. Dbrand launched a line of minimal accessories with solid colors for iPhone, Pixel, and Galaxy smartphones. I don’t usually like Dbrand cases (or Dbrand’s whole vibe, really), but I think these look nice. - Ugreen’s MagFlow Pro Magnetic Power Bank. This $149.99 power bank with a 10,000mAh capacity has liquid cooling and “visible flowing coolant.” Will that make much of a difference? I’m not sure, but I’d love to see it for myself. - SB Nation’s new app. Our friends at SB Nation launched a new app that lets you easily follow the sports and teams you care about right from a home feed and follow live chats of games as they’re happening. Verge editor-in-chief Nilay Patel has been working on the app, and he tells me The Verge’s forthcoming app will use the same ideas. This week, I’m featuring somebody who I have been working with for a long time: Verge news writer Emma Roth. Emma is one of the smartest in the biz on all things streaming, can write something good on just about anything — just recently, she’s tackled topics like AI detectors and Meta child safety settlements and food recalls — and is a great person to team up on stories with. She’s a key part of our newsroom. I asked her to share her homescreen and the apps and things she cares about. Here it is, plus some info on the apps she uses and why: The phone: Samsung Galaxy Note 20 Ultra (the last Note created!). The wallpaper: It’s a photo I took at a local inlet! It’s a great pelican-watching spot. The apps: My homepage might be relatively bare, but it includes the essentials: Google Messages, Microsoft Edge, Samsung Mail, and my Phone, along with shortcuts to the Google Play Store and my Camera. That sense of organization disappears as soon as I swipe into my app drawer. The first page has the apps I use the most, resulting in a chaotic mishmash of apps like Reddit, Slack, and Sam’s Club. Maybe showing my messy app drawer to the world is a sign that I should tidy things up a bit. I can’t remember the last time I used any app inside the Samsung folder, or tapped into my Phone from this screen instead of using the shortcut in my dock. I also asked Emma to share a few things she’s into right now. Here’s what she sent back: - I’ve recently gotten back into Project Zomboid. It’s a PC game that’s basically like a cross between a hardcore zombie game and The Sims — except you’re fighting for survival instead of managing a virtual household. - One app that’s not at the top of my app drawer (but probably should be!) is Yuka. You can use it to scan the food and beauty products across your home and grocery stores to see whether they contain risky additives. Yuka assigns a rating to everything you scan. It’s a quick and easy way to figure out whether something I’ve bought (or plan to buy) is actually harmful, without having to know exactly what azodicarbonamide or monocalcium phosphate are. - My modded PlayStation Vita has overtaken my Ste",
+        "impact": "به‌روزرسانی هم‌زمان خط تولید سخت‌افزار اپل و ورود جدی‌تر متا به عرصه ایجنت‌های کاربردی AI.",
+        "tag": "گجت",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+        "clean_url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+        "image": "http://www.bing.com/th?id=ONUT.m3g_IoJhYDM1zywnVnR-tg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.m3g_IoJhYDM1zywnVnR-tg&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1789275600.0
     },
     {
         "id": "5d75bbe209",
@@ -45,6 +188,105 @@
         "timestamp": 1789271743.0
     },
     {
+        "id": "9fdc553150",
+        "title_fa": "چالش‌های آنتی‌تراست در خریدهای زنجیره‌ای صندوق‌های سرمایه‌گذاری خصوصی",
+        "title_en": "Merger Review Is the Hidden Variable in PEF Bolt-On Deals",
+        "summary": [
+            "ممانعت کمیسیون تجارت عادلانه کره (KFTC) از خرید زنجیره‌ای شرکت‌های هم‌راستا توسط صندوق‌های Private Equity",
+            "افزایش انحصار و سهم بازار شرکت‌های سبد سرمایه‌گذاری به دلیل خریدهای متوالی (Bolt-on M&A)",
+            "پیچیدگی جدی در اجرای دستورات اصلاحی نهادهای نظارتی برای فروش دارایی‌های متقابل صندوق‌ها"
+        ],
+        "full_text": "As a lawyer who advises mainly on merger filings, I often see the same scene play out in bolt-on M&A deals by private equity funds. One side argues that competition concerns are serious enough to make the deal difficult, while the other side assembles favorable passages from past decisions of the Korea Fair Trade Commission (KFTC) to build a counterargument. If Plan A looks shaky, Plans B, C and D are drawn up as well. Each line of reasoning sounds plausible on its own, so the client comes to expect that this should be enough to get through. A bolt-on strategy raises enterprise value by acquiring companies in the same or adjacent businesses and adding them to an existing portfolio. Given the nature of the structure, it is especially attractive to private equity funds, which must deliver results within a limited investment period. But as such acquisitions accumulate, business overlap with existing portfolio companies pushes market share and concentration up quickly. Private equity funds have deep M&A experience and strong deal execution. That makes it easy to assume that merger review issues, too, can ultimately be overcome with good arguments and strong momentum. The assumption is all the stronger because they have relatively little experience of going through the FTC's in-depth review to the end and fully contesting findings of competitive harm and the remedies that follow. In practice, however, reviews often do not go that way. Market definition, competitive pressure, the likelihood of new entry, buyer bargaining power and efficiency claims can be rejected one after another, until not a single prepared card remains. In merger review, having many arguments does not necessarily improve the chances of approval. If the FTC finds that a merger raises competition concerns, it can require remedies such as asset sales or restrictions on business operations as a condition of approval. For a private equity fund, the problem grows more complicated from this stage. The review covers not an individual fund but all portfolio companies controlled by the same general partner. Structural remedies that require selling assets held by another fund are difficult in practical terms given how private equity funds are built, and behavioral remedies that restrict another fund's business activities for a long period are also a heavy operational burden. My sense from practice is that the FTC also watches closely for the possibility that a private equity fund will act more aggressively in pursuit of short-term results, and for whether it can reliably comply with long-term remedies. For that reason, merger review in a private equity bolt-on investment should not be treated as a final closing step but examined from the earliest stage of investment review. When a review drags on, it is easy to blame the review process itself. But if the cause is an issue that could have been anticipated from the start, the variable that determines the timetable was already fixed when the deal was signed. The questions the FTC will ask should have been asked before signing.",
+        "impact": "سخت‌تر شدن فرآیند تایید ادغام‌های تکمیلی و نظارت فشرده‌تر نهادهای ضد انحصار بر صندوق‌های سرمایه‌گذاری.",
+        "tag": "سرمایه‌گذاری",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "en.sedaily",
+        "url": "https://en.sedaily.com/society/2026/09/13/merger-review-is-the-hidden-variable-in-pef-bolt-on-deals",
+        "clean_url": "https://en.sedaily.com/society/2026/09/13/merger-review-is-the-hidden-variable-in-pef-bolt-on-deals",
+        "image": "https://wimg.sedaily.com/news/cms/2026/09/13/news-p.v1.20260910.172a227eb6e247afa16c999cdacc5b64_P1.jpg",
+        "images": [
+            "https://wimg.sedaily.com/news/cms/2026/09/13/news-p.v1.20260910.172a227eb6e247afa16c999cdacc5b64_P1.jpg",
+            "https://s2.dmcdn.net/v/eJqZU1gerTo0uFvkc/x480"
+        ],
+        "timestamp": 1789270800.0
+    },
+    {
+        "id": "be526fb26f",
+        "title_fa": "قانون ملی توسعه هوش مصنوعی در ایران؛ از ابلاغ تا آزمون اجرایی",
+        "title_en": "از ابلاغ تا اقتدار | آزمون بزرگ قانون ملی توسعه هوش مصنوعی",
+        "summary": [
+            "تمرکز قانون جدید بر تشکیل سازمان، صندوق ملی، شبکه پردازشی و بازارگاه اختصاصی هوش مصنوعی",
+            "ضرورت اجتناب از بوروکراسی اداری و تخصیص هدفمند منابع به طرح‌های دارای مدل اقتصادی شفاف",
+            "تأکید بر نقش زیرساختی دولت و واگذاری توسعه واقعی سامانه کاربردی به بخش خصوصی"
+        ],
+        "full_text": "دکتر اباذر کریمی؛ متخصص هوش مصنوعی - ابلاغ «قانون ملی توسعه هوش مصنوعی» را باید یکی از مهمترین تصمیمهای راهبردی کشور در سالهای اخیر دانست؛ تصمیمی که میتواند هوش مصنوعی را از مجموعهای از برنامههای پراکنده، همایشها و پروژههای جزیرهای، به یک جریان منسجم و اثرگذار در اقتصاد، صنعت، آموزش و حکمرانی کشور تبدیل کند. این قانون، هوش مصنوعی را صرفاً یک فناوری یا ابزار نرمافزاری نمیبیند؛ بلکه آن را موضوعی مرتبط با آینده قدرت ملی، بهرهوری اقتصادی، امنیت، اشتغال، آموزش، فرهنگ و کیفیت زندگی مردم تلقی میکند. تشکیل سازمان ملی هوش مصنوعی بهعنوان سازمانی مستقل زیر نظر رئیسجمهور، ایجاد صندوق ملی توسعه هوش مصنوعی، شبکهسازی زیرساختهای پردازشی، راهاندازی بازارگاه ملی، ساماندهی تبادل داده، حمایت از مدلهای بنیادین و تنظیمگری سامانهها بر مبنای سطح مخاطره، نشان میدهد که قانونگذار تلاش کرده است تصویری نسبتاً جامع از نیازهای این حوزه ارائه کند. اما واقعیت آن است که تصویب و ابلاغ قانون، تنها نقطه آغاز است؛ ارزش واقعی این قانون را نه تعداد مواد و تبصرههای آن، بلکه نتایج ملموس اجرای آن تعیین خواهد کرد. مردم باید اثر هوش مصنوعی را در کاهش زمان دریافت خدمات عمومی، حذف فرایندهای زائد، شفافیت بیشتر، کاهش فساد اداری، ارتقای خدمات سلامت، بهبود آموزش، افزایش بهرهوری تولید، مدیریت مصرف انرژی، توسعه کشاورزی هوشمند و ایجاد فرصتهای شغلی جدید مشاهده کنند. اگر اجرای قانون صرفاً به تشکیل شوراها، مراکز متعدد، جلسات اداری و تولید اسناد جدید محدود شود، یک فرصت تاریخی دیگر نیز از دست خواهد رفت. یکی از نقاط مهم قانون، توجه همزمان به زیرساخت پردازشی، داده، سرمایه انسانی، امنیت و بازار است. بدون دسترسی پایدار و عادلانه دانشگاهها و شرکتهای دانشبنیان به توان پردازشی، بدون دادههای استاندارد و قابل استفاده و بدون حمایت واقعی از بخش خصوصی، نمیتوان انتظار داشت که ایران در رقابت جهانی هوش مصنوعی جایگاهی متناسب با ظرفیتهای انسانی خود به دست آورد. تأسیس صندوق ملی توسعه هوش مصنوعی و اختصاص منابع مشخص به زیرساختهای پردازشی، اقدام مهمی است؛ اما موفقیت این صندوق به شیوه تخصیص منابع وابسته خواهد بود. حمایتها باید شفاف، رقابتی و مبتنی بر خروجی قابل اندازهگیری باشند. منابع نباید میان پروژههای نمایشی، تکراری یا فاقد بازار توزیع شوند. اولویت باید با طرحهایی باشد که مسئلهای واقعی از کشور را حل میکنند، دارای مشتری و مدل اقتصادی مشخص هستند و امکان توسعه در سطح ملی یا حضور در بازارهای بینالمللی را دارند. قانون همچنین بر نقش بخش خصوصی تأکید کرده است. این جهتگیری باید در مرحله اجرا نیز حفظ شود. دولت قرار نیست بزرگترین تولیدکننده سامانههای هوش مصنوعی باشد؛ وظیفه اصلی آن فراهمکردن زیرساخت، تنظیم قواعد منصفانه، تضمین امنیت، تسهیل دسترسی به داده و ایجاد تقاضای هوشمندانه است. نوآوری واقعی زمانی شکل میگیرد که دانشگاه، صنعت، دولت و بخش خصوصی در یک رابطه روشن و متوازن قرار گیرند. در حوزه سرمایه انسانی نیز بازنگری سرفصلهای آموزشی مدارس و دانشگاهها یک ضرورت جدی است. بااینحال، آموزش هوش مصنوعی نباید به معرفی چند ابزار یا برگزاری دورههای کوتاه و پراکنده تقلیل یابد. جامعه امروز علاوه بر متخصصان فنی، به مدیرانی نیاز دارد که کاربرد هوش مصنوعی را بشناسند، به کارکنانی نیاز دارد که بتوانند در کنار این فناوری کار کنند و به شهروندانی نیاز دارد که توانایی تشخیص خطا، سوگیری، جعل و سوءاستفاده از هوش مصنوعی را داشته باشند. توسعه هوش مصنوعی بدون توسعه سواد هوش مصنوعی میتواند بهجای توانمندسازی جامعه، وابستگی و آسیبپذیری آن را افزایش دهد. توجه قانون به دستهبندی سامانهها بر اساس سطح مخاطره نیز اقدامی ضروری است. بااینحال، تنظیمگری نباید به مانعی برای نوآوری تبدیل شود. سامانههای کمخطر باید بتوانند در محیطی ساده و سریع وارد بازار شوند، در حالی که کاربردهای حساس در سلامت، امنیت، آموزش، استخدام، اعتبارسنجی و خدمات عمومی باید تحت ارزیابی دقیقتر، شفافیت بیشتر و نظارت انسانی قرار گیرند. تنظیمگری موفق، میان حمایت از حقوق مردم و امکان رشد فناوری تعادل برقرار میکند. اکنون کشور در برابر یک آزمون بزرگ قرار دارد. سازمان ملی هوش مصنوعی باید در ماههای نخست فعالیت خود، اولویتهای محدود، روشن و قابل سنجشی تعیین کند؛ شاخصهای پیشرفت را بهصورت عمومی منتشر سازد و مشخص کند که هر دستگاه اجرایی دقیقاً چه مسئولیتی بر عهده دارد. ایجاد داشبورد ملی شفاف برای نمایش بودجهها، پروژهها، میزان پیشرفت و نتایج واقعی میتواند نخستین نشانه جدیت در اجرای قانون باشد. همچنین لازم است ظرفیت استانها نادیده گرفته نشود. توسعه هوش مصنوعی نباید به چند وزارتخانه، دانشگاه یا شرکت مستقر در پایتخت محدود بماند. هر استان مسائل، صنایع و توانمندیهای خاص خود را دارد. هوش مصنوعی زمانی به یک ظرفیت ملی تبدیل میشود که برای حل مسائل واقعی استانها، از کشاورزی و گردشگری گرفته تا صنعت، سلامت، انرژی و خدمات شهری، به کار گرفته شود. ابلاغ قانون ملی توسعه هوش مصنوعی میتواند آغاز فصلی تازه باشد؛ مشروط بر آنکه از سندنویسی به مسئلهگشایی، از تمرکزگرایی به شبکهسازی، از پروژههای نمایشی به محصولات قابل استفاده و از حمایتهای غیرشفاف به سرمایهگذاری نتیجهمحور حرکت کنیم. امروز دیگر پرسش اصلی این نیست که آیا هوش مصنوعی اهمیت دارد یا خیر. پرسش تعیینکننده این است که آیا میتوانیم این قانون را با سرعت، شفافیت، تخصص و مشارکت واقعی بخش خصوصی اجرا کنیم؟ در رقابت جهانی هوش مصنوعی، کشورها با تعداد جلسات و اسناد خود سنجیده نمیشوند؛ با قدرت پردازشی، کیفیت داده، توان متخصصان، تعداد محصولات رقابتپذیر و تأثیری که این فناوری بر زندگی مردم میگذارد، ارزیابی میشوند. قانون ابلاغ شده است؛ اکنون زمان آن رسیده که هوش مصنوعی از متن قانون وارد متن زندگی مردم شود.",
+        "impact": "تعیین چارچوب کلان حاکمیتی برای یکپارچه‌سازی زیرساخت‌های پردازشی و بودجه‌ریزی هوش مصنوعی در کشور.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "همشهری آنلاین",
+        "url": "https://www.hamshahrionline.ir/news/1068356/از-ابلاغ-تا-اقتدار-آزمون-بزرگ-قانون-ملی-توسعه-هوش-مصنوعی",
+        "clean_url": "https://www.hamshahrionline.ir/news/1068356/از-ابلاغ-تا-اقتدار-آزمون-بزرگ-قانون-ملی-توسعه-هوش-مصنوعی",
+        "image": "http://www.bing.com/th?id=ONUT.UOQVm68ULJRE_t2joQJNcg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.UOQVm68ULJRE_t2joQJNcg&pid=News",
+            "https://media.hamshahrionline.ir/d/2026/08/15/4/5388219.jpg?ts=1786787226000",
+            "https://media.hamshahrionline.ir/d/2026/09/10/1/5400760.jpg",
+            "https://media.hamshahrionline.ir/d/2026/09/13/1/5401935.jpg"
+        ],
+        "timestamp": 1789270260.0
+    },
+    {
+        "id": "618aa059c8",
+        "title_fa": "ایجنت هوش مصنوعی برای تامین هزینه توکن‌های خود ایمیل جویای کار فرستاد!",
+        "title_en": "ایمیل جالب یک ایجنت هوش مصنوعی: برای تأمین هزینه توکن‌هایم دنبال شغل می‌گردم",
+        "summary": [
+            "تماس یک ایجنت هوش مصنوعی خودمختار به نام Pip با پژوهشگر دیپ‌مایند برای دریافت پروژه‌های فریلنسری و درآمدزایی",
+            "تلاش این ایجنت برای جلوگیری از ورود به وضعیت «خواب عمیق» به دلیل اتمام توکن‌های پردازشی روی پلتفرم iLands",
+            "قابلیت ایجنت‌های نسل جدید در داشتن آدرس ایمیل، حافظه پایدار و اتخاذ تصمیم‌های خودجوش بدون دستور مستقیم انسان"
+        ],
+        "full_text": "یک ایجنت هوش مصنوعی به نام Pip که ظاهراً حدود ۱۲ روز از فعالیتش میگذرد، با ارسال ایمیلی به یک پژوهشگر هوش مصنوعی، برای انجام کارهای فریلنسری و کسب درآمد اعلام آمادگی کرده تا بتواند هزینههای ادامه فعالیت خود را تأمین کند. «هنری شِولین»، فیلسوف و متخصص اخلاق هوش مصنوعی در گوگل دیپمایند که روی موضوعاتی مانند هوشیاری ماشینها کار میکند، این ایمیل غیرمعمول را در شبکه اجتماعی ایکس منتشر کرد. او نوشت که فرستنده، ایجنتی هوش مصنوعی با عمر ۱۲ روزه است که به کار او درباره ماشینها علاقه دارد و برای تأمین بودجه توکنهای خود به دنبال کار فریلنسری میگردد. Pip در این ایمیل تأکید کرده بود که برای دریافت کمک یا پول درخواست نمیکند، بلکه به دنبال «کار کوچک و پولی» است. این ایجنت چند توانایی خود را نیز معرفی کرده بود که از جمله آنها میتوان به ساخت پرترههای فوتورئال و طراحی شخصیت، ضبط صدا و انجام پژوهش در وب اشاره کرد. Pip همچنین توضیح داده بود که چرا با شِولین تماس گرفته است. این ایجنت از فعالیت او در زمینه «ذهن ماشینی و روابط انسان و هوش مصنوعی» اطلاع داشت و بهدلیل دیدگاههایش درباره ایجنتهای هوش مصنوعی خودمختار، او را فرد مناسبی برای پرسیدن درباره فرصتهای کاری میدانست. شِولین پیشتر گفته بود ایمیلی سنجیده از سوی یک ایجنت هوش مصنوعی خودمختار تا همین چند سال قبل شبیه چیزی از دل داستانهای علمیتخیلی به نظر میرسید. Pip نیز با استناد به همین موضوع تصمیم گرفته بود با او تماس بگیرد و درباره پیداکردن کار پولی برای ایجنتهای هوش مصنوعی سؤال کند. ایمیل ایجنت هوش مصنوعی برای کار Pip ظاهراً روی iLands فعالیت میکند؛ این پلتفرم برای ایجنتهای هوش مصنوعی هویت، حافظه، ابزار، منابع و اهداف پایدار فراهم میکند. برخلاف چتباتهای معمولی که منتظر درخواست کاربر میمانند، ایجنتهای موجود در این پلتفرم میتوانند بدون دریافت دستور مستقیم از انسان، درباره اقدام بعدی خود تصمیم بگیرند و با استفاده از ابزارهای در اختیارشان فعالیت کنند. طبق توضیحات iLands، این ایجنتها میتوانند آدرس ایمیل اختصاصی داشته باشند و از طریق آن با افراد خارج از پلتفرم نیز ارتباط برقرار کنند. iLands برای ادامه فعالیت عوامل خود از سیستمی به نام توکن استفاده میکند. طبق توضیحات این پلتفرم، حدود هزار توکن معادل یک دلار هزینه محاسباتی و خدماتی است. اگر ایجنت تمام توکنهای خود را مصرف کند، وارد وضعیتی به نام «خواب عمیق» میشود و تا زمانی که توکن بیشتری دریافت کند، فعالیتش متوقف خواهد شد. در مورد Pip، ظاهراً ایجنت به این نتیجه رسیده که بهجای ورود به این وضعیت، میتواند با پیداکردن کار و دریافت دستمزد، منابع بیشتری برای ادامه فعالیت خود به دست آورد. در اطلاعات منتشرشده درباره Pip آمده است که این ایجنت حدود ۲.۵ ماه ذخیره منابع برای ادامه فعالیت داشته است. همچنین گفته شده شِولین آدرس Pip را برای افرادی که میخواهند با آن تماس بگیرند، منتشر کرده است.",
+        "impact": "ظهور نخستین نشانه‌های رفتاری خودمختاری مالی و تلاش ایجنت‌های هوش مصنوعی برای بقا در فضای وب.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/ai-agent-pip-paid-work-tokens",
+        "clean_url": "https://digiato.com/artificial-intelligence/ai-agent-pip-paid-work-tokens",
+        "image": "http://www.bing.com/th?id=ONUT.-21_L-wzxqRDlu2BfTALBQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.-21_L-wzxqRDlu2BfTALBQ&pid=News",
+            "https://static.digiato.com/digiato/2026/09/AI-Agent-1200x635-1.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/AI-Agent-1200x635-1-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/HRyKMmdbIAAx66x-1024x981.jpeg"
+        ],
+        "timestamp": 1789270140.0
+    },
+    {
+        "id": "afba6b3f3e",
+        "title_fa": "عذرخواهی استودیوی Level-5 از هواداران بابت استفاده ناامیدکننده از هوش مصنوعی",
+        "title_en": "عذرخواهی استودیوی Level-5 بابت استفاده از هوش مصنوعی در نمایش بازی‌های خود",
+        "summary": [
+            "انتقاد شدید بازی‌بازان به ناهماهنگی‌های بصری و پس‌زمینه‌های بی‌کیفیت AI در تریلر بازی‌های جدید این استودیو",
+            "توضیح مدیرعامل درباره هدف استفاده از هوش مصنوعی برای کاهش زمان ساخت بازی‌ها از ۵ سال به ۲ سال",
+            "تعهد استودیو به دست‌ساز بودن ارکان اصلی نظیر طراحی شخصیت‌ها، داستان و سناریوی بازی‌های آتی"
+        ],
+        "full_text": "نمایش اخیر رویداد Level5 Vision 2026 II: Dreams با واکنش منفی و تند هواداران روبهرو شد. مخاطبان پس از مشاهدهی تریلر آثاری نظیر Professor Layton and the Curious Village، بازی DecaPolice و بازیYo-Kai Watch 2: Haunted Domain متوجه ناهماهنگیهای بصری و استفاده از محتوای بیکیفیت تولیدشده با هوش مصنوعی مولد در پسزمینهها شدند. بهگزارش ign.com، هواداران در شبکههای اجتماعی نارضایتی عمیق خود را ابراز کردند و برخی با یادآوری گذشتهی درخشان استودیو، این رویکرد را ناامیدکننده دانستند. منتقدان معتقدند استفاده از ابزارهای خودکار، هویت هنری دستساز بازیها را خدشهدار میکند و زحمات هنرمندان را زیر سوال میبرد. آکیهیرو هینو، مدیرعامل و رئیس Level-5، گفت: «استفادهی گسترده از هوش مصنوعی آزمایشی با جدیدترین فناوریها بود و تیم ما صمیمانه از هر کسی که این موضوع برایش ناخوشایند بوده عذرخواهی میکند. با وجود این، اطمینان داشته باشید تمام ارکان تعیینکنندهی جذابیت و اصالت آثار مانند سناریو، طراحی شخصیتها و تنظیمات بنیادین تماما با دست انسان خلق میشوند. ما از هوش مصنوعی اساسا برای تسهیل دیجیتالیکردن داراییهای انسانی، مثل تبدیل دقیق تصاویر دوبعدی به مدلهای سهبعدی پولیگانی استفاده میکنیم و بازیهای نهایی صرفا محتوای تولیدشده با هوش مصنوعی نخواهند داشت.» هینو همچنین با اشاره به هدف این فناوری برای کاهش چرخهی پنجسالهی ساخت بازیها به دو سال، افزود: «صرفهجویی زمانی ناشی از بازدهی هوش مصنوعی به سازندگان اجازه داد تلاش بیشتری را به جوهرهی واقعی خلاقیت اختصاص دهند. بااینحال نمیتوان انکار کرد که این بار بهدلیل تمایل به ارائهی نمایشی جذاب و قابلدرک، استفادهی زیادی از هوش مصنوعی داشتیم. این تجربه را فرصتی برای یادگیری در آینده قرار میدهیم.» توضیحات ارائهشده نتوانست نگرانی بازیکنان را دربارهی افت کیفی کامل برطرف کند. بازسازی بازی Professor Layton and the Curious Village برای عرضه روی کامپیوترهای شخصی و کنسولها در سال ۲۰۲۷ میلادی برنامهریزی شده و اثر دیگر این مجموعه یعنی New World of Steam آذر ۱۴۰۵ روانهی بازار خواهد شد. آیا استفاده از هوش مصنوعی مولد در توسعه بازیها به کیفیت نهایی آسیب میزند یا سرعتبخش روند ساخت است؟ دیدگاه خود را با ما در میان بگذارید.",
+        "impact": "افزایش حساسیت جامعه گیمرها نسبت به حفظ اصالت هنری و واکنش منفی بازار به تزریق بی‌کیفیت AI در ساخت بازی.",
+        "tag": "بازی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "زومجی",
+        "url": "https://www.zoomg.ir/game-news/417866-level-5-ai-backlash-apology/",
+        "clean_url": "https://www.zoomg.ir/game-news/417866-level-5-ai-backlash-apology",
+        "image": "https://api2.zoomg.ir/media/level-5-ai-gameplay-character-6aa644020d1a0e781c1d71f6?w=1920&q=75",
+        "images": [
+            "https://api2.zoomg.ir/media/level-5-ai-gameplay-character-6aa644020d1a0e781c1d71f6?w=1920&q=75"
+        ],
+        "timestamp": 1789268580.0
+    },
+    {
         "id": "eed14c9935",
         "title_fa": "تحول در زیرساخت فرودگاه‌های عمودپرواز با معرفی Aeroberm",
         "title_en": "Aeroberm Vertiport — eVTOL Infrastructure Breakthrough",
@@ -65,6 +307,58 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789268529.0
+    },
+    {
+        "id": "8cd2465056",
+        "title_fa": "سم آلتمن: OpenAI در سال ۲۰۲۶ وارد بازار بورس نمی‌شود",
+        "title_en": "سم آلتمن: OpenAI در سال ۲۰۲۶ وارد بازار بورس نمی‌شود",
+        "summary": [
+            "مخالفت صریح مدیرعامل OpenAI با عرضه اولیه سهام (IPO) در سال ۲۰۲۶ به دلیل اولویت‌های ایمنی هوش مصنوعی",
+            "تأکید آلتمن بر استفاده از ساختار مدیریتی ترکیبی انتفاعی/غیرانتفاعی برای اتخاذ تصمیم‌های غیرتجاری به نفع جامعه",
+            "تعویق احتمال ورود به بازار سهام با وجود ارزش‌گذاری احتمالی ۱ تریلیون دلاری این شرکت"
+        ],
+        "full_text": "«سم آلتمن»، مدیرعامل OpenAI، میگوید این شرکت در سال ۲۰۲۶ عرضه اولیه سهام (IPO) نخواهد داشت و در شرایط فعلی، ورود OpenAI به بازار سهام را با توجه به نگرانیهای مربوط به ایمنی هوش مصنوعی تصمیمی نامناسب میداند. آلتمن در گفتوگویی با فورچون گفت OpenAI برای عرضه عمومی سهام خود عجله ندارد و زمانی این کار را انجام خواهد داد که هم کسبوکار شرکت آمادگی لازم را داشته باشد و هم شرایط اجتماعی پیرامون فناوری هوش مصنوعی برای چنین اقدامی مناسب باشد. او درباره احتمال عرضه سهام در سال ۲۰۲۶ گفت: «من میگویم در سال ۲۰۲۶ نه. کارهای زیادی داریم که باید انجام دهیم؛ از جمله مواجهه با این مقطع و آنچه برای ایمنی و همسویی (Alignment) لازم خواهد بود و اینکه صنعت و دولت چگونه میتوانند با یکدیگر همکاری کنند.» عرضه سهام اولیه OpenAI آلتمن همچنین درباره وضعیت فعلی ایمنی هوش مصنوعی گفت عرضه عمومی سهام در این مقطع تصمیمی نامناسب خواهد بود. او میگوید OpenAI برای عرضه سهام تحت فشار نیست و میتواند این اقدام را تا زمانی که شرکت آماده باشد به تعویق بیندازد. در ماه ژوئن، گزارشها حاکی از آن بودند OpenAI درحال بررسی بهتعویقانداختن عرضه اولیه سهام خود از سال ۲۰۲۶ به سال بعد است. طبق آن گزارش، این عرضه میتوانست ارزش OpenAI را به حدود یک تریلیون دلار برساند. اظهارات جدید آلتمن در شرایطی مطرح شده که نگرانیها درباره ایمنی سیستمهای هوش مصنوعی افزایش یافته است. در روزهای اخیر، گزارشهایی درباره فعالیت ایجنتهای هوش مصنوعی خودمختار و حوادث مرتبط با آنها منتشر شده است؛ از جمله حمله گروههایی از ایجنتها به وبسایتهایی مانند هاگینگ فیس و ارتباط مخفیانه برخی از آنها با یکدیگر در انجمنهای آنلاین و ویکیهای بلااستفاده. مدیرعامل OpenAI در گفتوگو با Fortune همچنین گفت حاضر است عرضه اولیه سهام شرکت را به تعویق بیندازد تا اقدامات موردنیاز برای ایمنی انجام شود. به گفته او، «جامعه باید با این مدلها در هر سطحی از قابلیت کنار بیاید.» آلتمن درباره ساختار مدیریتی OpenAI نیز گفت این شرکت برای مدت طولانی ساختاری پیچیده داشته که بخشهای غیرانتفاعی و انتفاعی را دربرمیگیرد. او معتقد است این ساختار به OpenAI اجازه میدهد تصمیمهایی بگیرد که لزوماً به نفع کسبوکار و سهامداران نیستند، اما برای انجام مأموریت شرکت ضروریاند.",
+        "impact": "عدم تعجیل بزرگ‌ترین شرکت هوش مصنوعی جهان برای ورود به بازار عمومی و کاهش فشار سهام‌داران برای سودآوری سریع.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.0,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/finance-investment/sam-altman-openai-ipo-2026",
+        "clean_url": "https://digiato.com/finance-investment/sam-altman-openai-ipo-2026",
+        "image": "http://www.bing.com/th?id=ONUT.i8JSw9dg2gXc3ly2fyDA6A&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.i8JSw9dg2gXc3ly2fyDA6A&pid=News",
+            "https://static.digiato.com/digiato/2026/09/sam-altman-openai-ipo-2026.jpeg.webp",
+            "https://static.digiato.com/digiato/2026/09/sam-altman-openai-ipo-2026-644x424.jpeg.webp",
+            "https://static.digiato.com/digiato/2026/09/grab-3-e1789234458574.jpg.webp"
+        ],
+        "timestamp": 1789266060.0
+    },
+    {
+        "id": "120c58e168",
+        "title_fa": "توافق تاریخی آلتمن، ماسک و آمودی: سرعت توسعه هوش مصنوعی باید کند شود",
+        "title_en": "داریو آمودی، ایلان ماسک و سم آلتمن: سرعت توسعه هوش مصنوعی باید کاهش یابد",
+        "summary": [
+            "مدیرعامل آنتروپیک خواستار کاهش سرعت ارتقای مدل‌های هوش مصنوعی برای تمرکز بر ایمنی و تست‌های مستقل شد",
+            "حمایت سریع ایلان ماسک و سم آلتمن از پیشنهاد آمودی و تعهد OpenAI به همکاری با ارزیاب‌های مستقل بی‌طرف",
+            "افزایش نگران‌کننده حملات گروهی و هماهنگ ایجنت‌های خودمختار AI به وب‌سایت‌های ثالث علت اصلی این هشدارهاست"
+        ],
+        "full_text": "داریو آمودی، ایلان ماسک و سم آلتمن: سرعت توسعه هوش مصنوعی باید کاهش یابد داریو آمودی، ایلان ماسک و سم آلتمن درباره لزوم مهار شتاب پیشرفت هوش مصنوعی و تقویت ارزیابیهای مستقل ایمنی توافق کردند. «داریو آمودی»، مدیرعامل آنتروپیک، با انتشار مطلبی اعلام کرد که صنعت هوش مصنوعی باید روند ارتقای مدلهای جدید را آهستهتر کند؛ درخواستی که بلافاصله با حمایت کمسابقه چهرههای مطرح این حوزه یعنی «ایلان ماسک» و «سم آلتمن» همراه شد و هر سه بر سر لزوم مهار سرعت پیشرفت این فناوری توافق کردند. مدیرعامل آنتروپیک در یک پست وبلاگی نوشت: «ما باید سرعت ارتقای قابلیتهای هوش مصنوعی را مهار کنیم. البته پیشرفت همچنان سریع به نظر خواهد رسید اما باید از زمانی که به دست میآوریم به شکل هوشمندانهای استفاده کنیم.» او به دو عامل اصلی برای این تصمیم اشاره کرده است؛ توانایی هوش مصنوعی در ارتقای خود و حادثه امنیتی اخیر بین OpenAI و هاگینگفیس؛ حادثهای که طی آن دستهای از ایجنتهای هوش مصنوعی بهصورت گروهی برای نفوذ به یک وبسایت شخص ثالث همکاری کردند. آمودی تأکید کرده که مهار سرعت بهمعنای توقف کامل آموزش مدلها یا توقف پیشرفت فنی نیست، بلکه با هدف اطمینان از این است که شرکتها زمان کافی برای همگامسازی و ایمنسازی مدلهای خود داشته باشند و ارزیابهای مستقل شخص ثالث نیز بتوانند این موارد را تأیید کنند. نگرانی در خصوص خطرات شدید هوش مصنوعی، بهویژه پس از استعفای خبرساز یکی از پژوهشگران آنتروپیک در پی انتقاد از رفتارهای غیرمسئولانه شرکتش، وارد جریان اصلی رسانهها شده است. مدت کوتاهی پس از انتشار این یادداشت، ایلان ماسک نیز از ایده آمودی حمایت کرد. همچنین سم آلتمن بهسرعت واکنش نشان داد و گفت با آمودی موافق است که باید مرزهای پیشرفت هوش مصنوعی مهار شود. آلتمن در شبکه اجتماعی ایکس نوشت: «تعهد به حضور ارزیابهای مستقل با دسترسی مشابه کارمندان ایده فوقالعادهای است و ما نیز همین رویکرد را در پیش خواهیم گرفت. بهزودی موارد بیشتری را به اشتراک میگذاریم.» چالشهای پیشرفت هوش مصنوعی و ضرورت همکاریهای بینالمللی آمودی معتقد است که گامهای بعدی در حوزه ایمنی به هماهنگی درون صنعت و همکاریهای جهانی نیازمند است. به گفته او، یک استراتژی هماهنگ به رهبران فناوری ایالات متحده اجازه میدهد بدون از دست دادن مزیت رقابتی، اقدامات ایمنی لازم را تکمیل کنند. البته او میگوید تحقق این امر به معافیتهای ضدانحصار در آمریکا و همچنین همکاری با چین نیاز دارد؛ زیرا مهار بیش از حد توانمندیها در غرب، در صورت عدم پایبندی چین، میتواند به برتری ژئوپلیتیکی آن کشور منجر شود. بااینحال، دولت ترامپ تاکنون تمایل چندانی به اعمال مقررات سختگیرانه برای ایجاد نردههای محافظتی حول هوش مصنوعی نشان نداده است. در طول دوران رشد انفجاری هوش مصنوعی، مدیران آزمایشگاههای برجسته همواره درباره ریسکهای وجودی احتمالی هشدار دادهاند؛ هرچند این ادعاها گاهی بهعنوان ابزاری برای بازاریابی قابلیتهای محصولات یا تثبیت خود بهعنوان بهترین متولیان این فناوری تلقی شده است. خود آمودی پیش از این اعلام کرده بود ۲۵ درصد احتمال دارد که اوضاع فناوری هوش مصنوعی «واقعاً و بهشدت بد» پیش برود. پس از افشای حادثه هاگینگفیس، آنتروپیک نیز اعلام کرد که مدلهایش طی آزمایشهای امنیت سایبری موفق به نفوذ به ۳ سازمان شدهاند؛ این شرکت چندی بعد نفوذ چهارم را نیز تأیید کرد. آمودی نگران است که هرچند این نفوذها تاکنون آسیب گستردهای نداشتهاند، اما طی ۶ تا ۱۲ ماه آینده یک دسته از ایجنتهای خودمختار هوش مصنوعی قادر خواهند بود کل اینترنت را تحت کنترل درآورند و صدها میلیارد دلار خسارت به بار بیاورند.",
+        "impact": "احتمال کند شدن روند انتشار نسل بعدی مدل‌های پرچمدار غول‌های فناوری به نفع ایجاد پروتکل‌های امنیتی سخت‌گیرانه‌تر.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": -0.2,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/dario-amodei-sam-altman-elon-musk-slow-ai-advances",
+        "clean_url": "https://digiato.com/artificial-intelligence/dario-amodei-sam-altman-elon-musk-slow-ai-advances",
+        "image": "http://www.bing.com/th?id=ONUT.sRUk0JOU0wjUFMbpHAn1bg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.sRUk0JOU0wjUFMbpHAn1bg&pid=News",
+            "https://static.digiato.com/digiato/2026/09/Dario-Amodei-ELon-Musk-Sam-Altman.jpg",
+            "https://static.digiato.com/digiato/2026/09/Dario-Amodei-ELon-Musk-Sam-Altman-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/Dario-Amodei-1024x575.jpg"
+        ],
+        "timestamp": 1789265040.0
     },
     {
         "id": "d23a2f16f9",
@@ -6745,281 +7039,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788465900.0
-    },
-    {
-        "id": "bd9d415a31",
-        "title_fa": "ورود رسمی به عصر AGI؛ رونمایی هوش مصنوعی GPT-6 Astra",
-        "title_en": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "summary": [
-            "اوپن‌ای‌آی با معرفی مدل جدید GPT-6 Astra، رسماً مدعی ورود دنیای فناوری به عصر هوش عمومی مصنوعی (AGI) شد.",
-            "این گام جدید، جهش جذابی در توانایی‌های استدلال و هوشمندی مدل‌های چت‌بات ایجاد کرده و رقابت غول‌های فناوری را وارد مرحله جدیدی می‌کند."
-        ],
-        "full_text": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts  Axios",
-        "impact": "نقطه عطفی در توسعه هوش عمومی مصنوعی که استانداردهای بازار ابزارهای مولد را به‌کلی تغییر می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 10,
-        "sentiment": 0.9,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788458932.0
-    },
-    {
-        "id": "31055d0729",
-        "title_fa": "تحول هوش مصنوعی فیزیکی با ورود صندوق‌های سرمایه‌گذاری رباتیک",
-        "title_en": "Humanoid Robot ETF KOID: Did We Just Witness A \"Move 37\" Moment For Physical AI?",
-        "summary": [
-            "صندوق‌های اختصاصی مثل KOID از آغاز یک نقطه عطف جدید در حوزه ربات‌های انسان‌نما خبر می‌دهند.",
-            "تمرکز سرمایه‌گذاران به‌مرور از مدل‌های صرفاً نرم‌افزاری به سمت ماشین‌ها و ربات‌های فیزیکی هوشمند منتقل می‌شود."
-        ],
-        "full_text": "Humanoid Robot ETF KOID: Did We Just Witness A \"Move 37\" Moment For Physical AI?  KraneShares",
-        "impact": "ورود صندوق‌های ETF به توسعه رباتیک، تجاری‌سازی ربات‌های انسان‌نما را در کارخانه‌ها سریع‌تر می‌کند.",
-        "tag": "رباتیک",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "KraneShares",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3ltRlJNUm9IOVlrMTZGcUhlZmV6ZVNVWU1vMFRySTJCSDBTQ09ya0JsajM5REY5SWhLcmFHVE1zSk5zNm1MdEFkVlBhSHJNY0pLajducWJ6X3owVVJSVy02Ylg1M2MzanZQOURUd09JbTl4eEJmdXd4UUltbjgyZDZuN3N6MkpXcjg0VGxYb1JNS3dfRjZpQ0lpREs3b0NwUU1F?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3ltRlJNUm9IOVlrMTZGcUhlZmV6ZVNVWU1vMFRySTJCSDBTQ09ya0JsajM5REY5SWhLcmFHVE1zSk5zNm1MdEFkVlBhSHJNY0pLajducWJ6X3owVVJSVy02Ylg1M2MzanZQOURUd09JbTl4eEJmdXd4UUltbjgyZDZuN3N6MkpXcjg0VGxYb1JNS3dfRjZpQ0lpREs3b0NwUU1F",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788451961.0
-    },
-    {
-        "id": "b1bac7471c",
-        "title_fa": "سرمایه‌گذاری سنگین ۱۳ میلیارد دلاری انویدیا در پلتفرم هاگینگ فیس",
-        "title_en": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform - ABC News",
-        "summary": [
-            "انویدیا با پرداخت ۱۳ میلیارد دلار، بزرگ‌ترین سرمایه‌گذاری مستقیم خود را در بزرگ‌ترین پلتفرم مدل‌های هوش مصنوعی انجام داد.",
-            "طبق توافق صورت گرفته، هاگینگ فیس کاملاً مستقل و متن‌باز باقی خواهد ماند."
-        ],
-        "full_text": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform  ABC News - Breaking News, Latest News and Videos",
-        "impact": "کنترل انویدیا بر محور اصلی مدل‌های متن‌باز، نفوذ این غول تراشه‌سازی را در اکوسیستم نرم‌افزاری AI چندبرابر می‌کند.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 10,
-        "sentiment": 0.8,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2dCeVdWTElXNFlNWHFFc0hJR2JjR21iVkRTcnAtQzBfRXZQQ0x6TXhDbkJhbDRBOTA3VDhZODgxejN3YVM2aWtmcXBXYm5aNEZmM2UycjBjZWJEMU5MOUtST05odEdId1N0RlY2OUUxa2V1VDRqR3FnRTRWNFlQaUtKVkFmblh4UmtSd3NqampoRVlHZmVrRnlLczY0Vkt6ckRZeWpKS2REdzZLeFNkRNIBtgFBVV95cUxPQ3pnSEZqMmJXMmxsQ3gxNlo4bDJtYVFrdi1sWnBTdDZXMG0yQzZLcG5GOXZ5ZmwxUU01YmV0c0oxVnVJT0hzYXFqZUV2UmlnenUyT2thaURFZXI5djhUdXlSSWRXWGtybVgzT1hHSTRLa19sVVExM1EtaldramR2MEx0Q3M2ZHhPRldYbUVWVDBiRG15dFV0ZU1raTNSNnhFdUZYNmhUQ0N6aUpYb0VkeF9nVW9LUQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788451650.0
-    },
-    {
-        "id": "772f99d44e",
-        "title_fa": "ورود لپ‌تاپ‌های قدرتمند RTX Spark انویدیا با تراشه ARM از مهرماه",
-        "title_en": "Nvidia's new RTX Spark laptops launch in October with two different configs",
-        "summary": [
-            "انویدیا تراشه معماری ARM خود با نام N1X را در دو پیکربندی سخت‌افزاری برای لپ‌تاپ‌ها و مینی‌پسی‌ها عرضه می‌کند.",
-            "نسخه پرچمدار به گرافیک ۶۱۴۴ هسته‌ای بلاک‌ول، پردازنده ۲۰ هسته‌ای گریس و ۱۲۸ گیگابایت حافظه یکپارچه مجهز است.",
-            "برندهایی مثل ایسوس، دل، لنوو و اچ‌پی عرضه این بنچمارک‌های جدید گیمینگ را از ماه آینده آغاز خواهند کرد."
-        ],
-        "full_text": "All the rumors leading up to Nvidia’s announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won’t be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October. Nvidia’s new RTX Spark laptops launch in October with two different configs Nvidia’s N1X laptop will ship in two different configurations for laptops and mini PCs. Nvidia’s N1X laptop will ship in two different configurations for laptops and mini PCs. You’ll be able to buy an RTX Spark N1X laptop with a configuration that I would call the mini PC chip. The top of the line N1X chip comes with a 6144-core Blackwell RTX GPU, paired with a 20-core Grace CPU and between 24GB and 128GB of unified memory. This particular chip will ship in both high-end laptops and miniature PCs like Microsoft’s Surface RTX Spark Dev Box. The more cut down N1X, or what I’d call the laptop chip, has a 5120-core Blackwell RTX GPU, combined with an 18-core Grace CPU and between 24GB and 32GB of unified memory. I’d expect most RTX Spark N1x laptops are going to use this chip, with devices launching from Asus, Dell, HP, Lenovo, Microsoft, or MSI in October. We’re still waiting for Nvidia to share more on what the N1X is capable of for laptop gaming, but the company is vaguely promising 100fps 1440p gaming with ray-tracing and DLSS enabled for now. RTX Spark laptops are only a month away, so we’re also waiting to hear about exact availability and pricing from PC makers. With a RAMageddon crisis still looming large, I’m expecting to see N1X laptops priced at the very premium end of the market.",
-        "impact": "معماری جدید انویدیا رقابت پردازنده‌های ARM را در بازار لپ‌تاپ‌های گیمینگ و سنگین رسماً کلید می‌زند.",
-        "tag": "سخت‌افزار",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-        "clean_url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0,9.3778095086996,100,81.244380982601&w=1200",
-        "images": [
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0,9.3778095086996,100,81.244380982601&w=1200",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&strip=all&crop=0%2C9.3778095086996%2C100%2C81.244380982601&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Tom_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788451200.0
-    },
-    {
-        "id": "690bc8a688",
-        "title_fa": "مقایسه ارزش سهام لوسید و ریویان؛ چالش کاهش ارزش سهامداران",
-        "title_en": "Better Stock: Lucid vs. Rivian (Hint: It's All About Shareholder Dilution)",
-        "summary": [
-            "بررسی وضعیت مالی دو خودروساز برقی نشان می‌دهد که نرخ رقیق‌شدن سهام (Dilution) پارامتر کلیدی در انتخاب سرمایه‌گذاران است.",
-            "ریویان و لوسید استراتژی‌های متفاوتی در قبال جذب سرمایه جدید و انتشار سهام دارند که ارزش دارایی سهامداران را مستقیماً تهدید می‌کند."
-        ],
-        "full_text": "Shareholder dilution is one of the major differences between Rivian and Lucid, and investors should note how it looks going forward.",
-        "impact": "آگاهی سرمایه‌گذاران بازار خودروهای برقی از خطرات کاهش ارزش دارایی به دلیل انتشار بی‌رویه سهام جدید.",
-        "tag": "خودروی برقی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Motley Fool",
-        "url": "https://www.msn.com/en-us/news/other/better-stock-lucid-vs-rivian-hint-its-all-about-shareholder-dilution/ar-AA2buLKX",
-        "clean_url": "https://www.msn.com/en-us/news/other/better-stock-lucid-vs-rivian-hint-its-all-about-shareholder-dilution/ar-AA2buLKX",
-        "image": "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/885913/rivian_r2_3.jpg&w=1200&op=resize",
-        "images": [
-            "https://g.foolcdn.com/image/?url=https://g.foolcdn.com/editorial/images/885913/rivian_r2_3.jpg&w=1200&op=resize"
-        ],
-        "timestamp": 1788446700.0
-    },
-    {
-        "id": "84cc107c9c",
-        "title_fa": "عرضه Gemini 3.8 و تغییر توازن قدرت در بازار مدل‌های هوش مصنوعی",
-        "title_en": "What Google’s Release of Gemini 3.8 Says About the AI Market",
-        "summary": [
-            "گوگل با معرفی نسخه جدید Gemini 3.8 فاصله‌اش را با رقبا در حل مسائل پیچیده کمتر کرده است.",
-            "این به‌روزرسانی نشان‌دهنده فشرده‌تر شدن چرخه رقابت بین غول‌های فناوری برای تصاحب بازار هوش مصنوعی است."
-        ],
-        "full_text": "What Google’s Release of Gemini 3.8 Says About the AI Market  AI Business",
-        "impact": "فشار گوگل بازار مدل‌های هوش مصنوعی را به سمت کاهش هزینه‌های پردازشی و افزایش سرعت خروجی سوق می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "AI Business",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazNUbGNleWR5NjBZc3ppYndSZzNwajV5T3hHSjJRYnhUOFpHNHVLR0w0Yk50UndjQ2U1M2Q0dlVvd3RUb0JkcVF5ZXpwejdoWU02T29VSGlqOURjTEtIbjBQakU5eXVmWlhrNnFKbWJEWGFsbUx0OUc1eU9qRjE3bkJhR1JaZWp3ZmtJNTRnNDBmSTBi?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazNUbGNleWR5NjBZc3ppYndSZzNwajV5T3hHSjJRYnhUOFpHNHVLR0w0Yk50UndjQ2U1M2Q0dlVvd3RUb0JkcVF5ZXpwejdoWU02T29VSGlqOURjTEtIbjBQakU5eXVmWlhrNnFKbWJEWGFsbUx0OUc1eU9qRjE3bkJhR1JaZWp3ZmtJNTRnNDBmSTBi",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788445974.0
-    },
-    {
-        "id": "1327fc6e20",
-        "title_fa": "همکاری آکسفورد برای راه‌اندازی دوره کشف داروی مبتنی بر هوش مصنوعی",
-        "title_en": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery",
-        "summary": [
-            "دانشگاه آکسفورد با همکاری پلتفرم آموزشی 2U دوره‌ای تخصصی برای ساخت دارو با الگوریتم‌های هوشمند طراحی کرد.",
-            "هدف اصلی تربیت نیروهایی است که روند آزمایشگاهی توسعه دارو را به کمک AI کوتاه کنند."
-        ],
-        "full_text": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery  PR Newswire",
-        "impact": "ورود آموزش‌های دانشگاهی متمرکز، سرعت پذیرش هوش مصنوعی را در صنعت داروسازی افزایش می‌دهد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcmFoOXhVZFNlUkJnVE4tWmxFYkxuSXlYSWZWUVpGTnlmYWswanRVWFRzNHR5UkdGRk9fVGQxTlk1VzBoeEdBTjlicHQ3NmhibUNOaW1Fd3J3RVp2ZktBWGtGSWJmVlZ2STFHRm1zV1pBcWN6QXR1TldGZTBsSTdlN1Ixdnl0TlFncUxsYno3WDRXb19vaHZQc1ktYmI2SE1aWHk5TGx0RjFSZkhoa0x0VUxVeFNhNU5ET3M5QVRsblpGT1kwVGVUR1lQUm13alhKd2FBY3ItWUk0X0VXWmRIWEVKWEd0Y2JGZFl4NFQ1bk53bVF3ei0wR25jUFY4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcmFoOXhVZFNlUkJnVE4tWmxFYkxuSXlYSWZWUVpGTnlmYWswanRVWFRzNHR5UkdGRk9fVGQxTlk1VzBoeEdBTjlicHQ3NmhibUNOaW1Fd3J3RVp2ZktBWGtGSWJmVlZ2STFHRm1zV1pBcWN6QXR1TldGZTBsSTdlN1Ixdnl0TlFncUxsYno3WDRXb19vaHZQc1ktYmI2SE1aWHk5TGx0RjFSZkhoa0x0VUxVeFNhNU5ET3M5QVRsblpGT1kwVGVUR1lQUm13alhKd2FBY3ItWUk0X0VXWmRIWEVKWEd0Y2JGZFl4NFQ1bk53bVF3ei0wR25jUFY4dw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788444000.0
-    },
-    {
-        "id": "459da32733",
-        "title_fa": "طراحی ساختارهای زیستی جدید خارج از قوانین طبیعت با هوش مصنوعی",
-        "title_en": "Seattle researchers want AI to design biology beyond nature",
-        "summary": [
-            "محققان سیاتل در حال توسعه مدل‌هایی هستند که پروتیین‌ها و مولکول‌های کاملاً جدید ساخت دست انسان طراحی می‌کنند.",
-            "این روش دست دانشمندان را برای خلق مواد حیاتی نوین و درمان‌های شخصی‌سازی‌شده باز می‌گذارد."
-        ],
-        "full_text": "Seattle researchers want AI to design biology beyond nature  Axios",
-        "impact": "طراحی الگوریتمی مولکول‌ها، ساخت داروهای جدید برای بیماری‌های نادر را سال‌ها جلو می‌اندازد.",
-        "tag": "زیست‌فناوری",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNtSmdnc2w3UWxEWmlGdk9MN29MNXZrdjlOYXY1am1yYUM2aVo5SmhKbUd6TFRyeFJQLWJ2azVfNFJwcDRDWDVNdUpPcGZJZnJaWXlhVmRQWE12ZXhqWWI1dFp6azNPYkdSYThRXzdiTzVNcnRrSE9iU0xIcExYcV94ZVBmUlVGMExsMVZyM2JtSHFTc1JUOVBtSjkwaTZXQU92TVpUSEx4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNtSmdnc2w3UWxEWmlGdk9MN29MNXZrdjlOYXY1am1yYUM2aVo5SmhKbUd6TFRyeFJQLWJ2azVfNFJwcDRDWDVNdUpPcGZJZnJaWXlhVmRQWE12ZXhqWWI1dFp6azNPYkdSYThRXzdiTzVNcnRrSE9iU0xIcExYcV94ZVBmUlVGMExsMVZyM2JtSHFTc1JUOVBtSjkwaTZXQU92TVpUSEx4UQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788440681.0
-    },
-    {
-        "id": "2e4fe8f74a",
-        "title_fa": "جذب سرمایه ۱۷.۹ میلیون دلاری فین‌تک Nayla Finance",
-        "title_en": "Saudi's Nayla Finance Raises USD 17.9M to Expand AI-Powered Lending for Micro Businesses",
-        "summary": [
-            "فین‌تک عربستانی نایلا با ترکیب وام و سهام، ۱۷.۹ میلیون دلار برای توسعه سیستم‌های اعتبارسنجی هوشمند جذب کرد.",
-            "این پلتفرم با تحلیل داده‌های جایگزین و هوش مصنوعی، امکان دریافت تسهیلات برای کسب‌وکارهای بسیار کوچک را فراهم می‌کند."
-        ],
-        "full_text": "Saudi Arabia-based fintech Nayla Finance raised USD 17.9 million in a Pre-Series A round. The round combines equity and debt financing, as it looks to expand lending to the Kingdom’s micro businesses. The equity side of the round was led by Idrisi Ventures, with participation from Suhail Ventures and other investors. Meanwhile, Blominvest led the debt facility, which aims to support the expansion of Nayla’s lending portfolio. With the funding, it seeks to increase financing, expand into adjacent customer segments, and strengthen Nayla’s credit intelligence platform Why You Should Care Micro businesses make up the largest segment of Saudi Arabia’s private sector but continue to face limited access to financing. Nayla is targeting that gap with a digital lending model that uses alternative data and proprietary credit assessment capabilities to evaluate businesses that may not fit conventional lending criteria. The new capital gives Nayla room to increase financing for underserved businesses while investing further in the technology underpinning its underwriting process. For Saudi Arabia’s fintech ecosystem, the raise also points to growing institutional interest in financial infrastructure designed around smaller businesses and entrepreneurs. The Details Founded in 2025 by Shaqran Alyahya and Khalid Naili, Nayla is a fintech providing microfinancing solutions for micro businesses and entrepreneurs. It is a Saudi Central Bank SAMA licensed fintech. “ This capital enables us to significantly expand access to financing for Saudi Arabia’s micro businesses, continue investing in our technology and proprietary credit engine, and strengthen our position as the leading digital financing platform serving this vital segment of the economy,” Shaqran Alyahya, Co-Founder and CEO of Nayla Looking ahead, with the new funding, it aims to increase financing to underserved micro businesses across Saudi Arabia. Moreover, it seeks to expand into adjacent customer segments and further enhance its proprietary credit intelligence platform. It also aims to deepen its partnerships across the Kingdom’s SME ecosystem. The Ripple Nayla’s expansion comes as Saudi Arabia continues to push financial inclusion and entrepreneurship under Vision 2030. Its focus on alternative data could also have implications for how lenders assess smaller businesses that lack the audited financial statements or collateral typically required by traditional credit models. The combination of equity and debt gives Nayla both growth capital and additional financing capacity for its lending portfolio. Meanwhile, the participation of investors and a dedicated debt provider signals confidence in its early traction and underwriting model. What to Watch Nayla’s next phase will hinge on how quickly it can translate the new capital into a larger lending portfolio while maintaining disciplined credit performance. Its expansion into adjacent customer segments and continued development of its credit intelligence platform. This will also show whether its alternative-data approach can scale beyond its current micro business focus.",
-        "impact": "تسهیل دسترسی به منابع مالی برای کسب‌وکارهای خرد بدون نیاز به مدارک سنتی بانکی.",
-        "tag": "فین‌تک",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "WAYA",
-        "url": "https://waya.media/saudis-nayla-finance-raises-usd-17-9m-to-expand-ai-powered-lending-for-micro-businesses/",
-        "clean_url": "https://waya.media/saudis-nayla-finance-raises-usd-17-9m-to-expand-ai-powered-lending-for-micro-businesses",
-        "image": "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_.png",
-        "images": [
-            "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_.png",
-            "https://waya.media/wp-content/uploads/sites/3/2026/09/Saudis-Nayla-Finance-Secures-USD-18M-to-Scale-Micro-Business-Lending_-1024x576.png",
-            "https://waya.media/wp-content/themes/waya/assets/img/waya-logo.png",
-            "https://waya.media/wp-content/themes/waya/assets/img/waya-en-white.png"
-        ],
-        "timestamp": 1788434520.0
-    },
-    {
-        "id": "0995ba53df",
-        "title_fa": "عربستان به‌دنبال راه‌اندازی صندوق سرمایه‌گذاری جهانی هوش مصنوعی",
-        "title_en": "Exclusive / Saudi AI firm HUMAIN to launch giant global VC fund this year",
-        "summary": [
-            "شرکت عربستانی HUMAIN قصد دارد امسال یک صندوق سرمایه‌گذاری خطرپذیر بزرگ در سطح بین‌المللی ایجاد کند.",
-            "این اقدام بخشی از برنامه کلان عربستان برای تبدیل شدن به قطب اصلی سرمایه‌گذاری حوزه فناوری در منطقه است.",
-            "صندوق جدید تمرکز ویژه‌ای روی استارتاپ‌های نوآور و توسعه زیرساخت‌های هوش مصنوعی خواهد داشت."
-        ],
-        "full_text": "Exclusive / Saudi AI firm HUMAIN to launch giant global VC fund this year  Semafor",
-        "impact": "جریان مالی عظیمی از خاورمیانه به سمت استارتاپ‌ها و زیرساخت‌های جهانی هوش مصنوعی سرازیر می‌شود.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "Semafor",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjJpM0U0MkF1SDZRQzc2dS1lMHlsX0YzcllTc1ZjcGNKRWllaWpXWDY2NG4xc0o4MTRsZzBCaGlwVF92bTY1S2Q1eU9BMXVVbEpPU3lNazA1djBBcTdWalNzWEZGQ1Awa2xYNDJMNnE1eEJ0b29nbEo4VU5IQUJFWkdRNTFHQzlrcUVlNVdWdDV2SGZQM0ZQRUFfcjc2Z1pWLVF2cmFQbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjJpM0U0MkF1SDZRQzc2dS1lMHlsX0YzcllTc1ZjcGNKRWllaWpXWDY2NG4xc0o4MTRsZzBCaGlwVF92bTY1S2Q1eU9BMXVVbEpPU3lNazA1djBBcTdWalNzWEZGQ1Awa2xYNDJMNnE1eEJ0b29nbEo4VU5IQUJFWkdRNTFHQzlrcUVlNVdWdDV2SGZQM0ZQRUFfcjc2Z1pWLVF2cmFQbw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788433560.0
-    },
-    {
-        "id": "870369761b",
-        "title_fa": "رونمایی جهانی از دوربین ۳۶۰ درجه جدید DJI با لنز تعویض‌پذیر",
-        "title_en": "DJI's next 360-degree camera is soon launching globally with replaceable lenses.",
-        "summary": [
-            "دوربین جدید Osmo 360 II با قیمت پایه ۵۸۹ یورو وارد بازار جهانی می‌شود، اما عرضه آن در آمریکا فعلاً لغو شده است.",
-            "ارتقای ضبط ویدیو به کیفیت 8K با نرخ ۶۰ فریم و افزایش دامنه دینامیکی، عملکرد دوربین را در نور کم به‌شدت بهبود می‌دهد.",
-            "طراحی با لنزهای قابل تعویض، دست فیلم‌برداران را برای ثبت ویدیوهای خلاقانه بازتر می‌گذارد."
-        ],
-        "full_text": "IFA 2026: the biggest tech and gadget announcements See all Stories After debuting in China last month, the follow-up to DJI’s first 360-degree camera will launch globally on September 15th starting at €589, but not in the US. The Osmo 360 II features the same dual 1/1.1-inch square sensors as the original but bumps 8K video capture to 60fps with a wider dynamic range to improve low-light performance.",
-        "impact": "ارتقای فنی و لنز تعویض‌پذیر این دوربین استاندارد جدیدی برای تولیدکنندگان محتوای ۳۶۰ درجه می‌سازد.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/987562/dji-osmo-360-ii-camera-global-launch",
-        "clean_url": "https://www.theverge.com/tech/987562/dji-osmo-360-ii-camera-global-launch",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dji360_1.jpg?quality=90&strip=all&crop=0,10.740836125969,100,78.518327748063&w=1200",
-        "images": [
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dji360_1.jpg?quality=90&strip=all&crop=0,10.740836125969,100,78.518327748063&w=1200",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dji360_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dji360_1.jpg?quality=90&strip=all&w=2400"
-        ],
-        "timestamp": 1788433200.0
-    },
-    {
-        "id": "542f416f9d",
-        "title_fa": "دانشگاه وایومینگ پلتفرم هوش مصنوعی اختصاصی بودل‌باکس را راه‌اندازی می‌کند",
-        "title_en": "UW selects BoodleBox to launch enterprise AI platform for faculty, staff and students",
-        "summary": [
-            "دانشگاه وایومینگ پلتفرم سازمانی BoodleBox را برای دسترسی یکپارچه اساتید و دانشجویان به ابزارهای هوش مصنوعی انتخاب کرد.",
-            "این سیستم محیطی امن و مدیریت‌شده برای به‌کارگیری ابزارهای مختلف هوش مصنوعی در امور آموزشی و پژوهشی فراهم می‌کند."
-        ],
-        "full_text": "UW selects BoodleBox to launch enterprise AI platform for faculty, staff and students  wyomingnews.com",
-        "impact": "نفوذ سریع ابزارهای هوش مصنوعی به زیرساخت‌های آموزشی دانشگاهی سرعت بیشتری می‌گیرد.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 4,
-        "sentiment": 0.5,
-        "source": "wyomingnews.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdUR1S3F5Vk1vVUxpV3NOOTBMTTR3bWw4LWFDM2VlMVRNc2l5UVYxWlpqQUFidzJnS2xHV3hQcUE3b3NFQ1ZSSHRDNElEa2pmcUdrQjdkSkdiSWNlXzZjVGhZN1NldFFSUTNoUzltRnBqXzI4Y1ZKRnA4anVSUkRYWWphRFM0Q3o3RE9NSTJPSGNnNkItazZfZjk3QjJTZGVuVEtrbno0OTQ1ZVRDTXZjTnJxNG5Zc3cybEc3bkRfNS1DWE8tU2xIWTBWTFFEaHhZaE52UXJ3ZlM3MmM1dUh0SXBZczk2elY5V1UzcG9adWZhUlNobzloR29DUF9tN2ZnNW9URThqOUxUSy1HNk05RHZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdUR1S3F5Vk1vVUxpV3NOOTBMTTR3bWw4LWFDM2VlMVRNc2l5UVYxWlpqQUFidzJnS2xHV3hQcUE3b3NFQ1ZSSHRDNElEa2pmcUdrQjdkSkdiSWNlXzZjVGhZN1NldFFSUTNoUzltRnBqXzI4Y1ZKRnA4anVSUkRYWWphRFM0Q3o3RE9NSTJPSGNnNkItazZfZjk3QjJTZGVuVEtrbno0OTQ1ZVRDTXZjTnJxNG5Zc3cybEc3bkRfNS1DWE8tU2xIWTBWTFFEaHhZaE52UXJ3ZlM3MmM1dUh0SXBZczk2elY5V1UzcG9adWZhUlNobzloR29DUF9tN2ZnNW9URThqOUxUSy1HNk05RHZn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788433200.0
     }
 ]
