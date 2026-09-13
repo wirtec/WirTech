@@ -1,5 +1,74 @@
 [
     {
+        "id": "639ba909f7",
+        "title_fa": "توافق آمریکا و بریتانیا؛ ادغام هوش مصنوعی و همجوشی هسته‌ای",
+        "title_en": "UK and US sign fusion and AI deal for clean energy breakthrough",
+        "summary": [
+            "آمریکا و بریتانیا برای استفاده از هوش مصنوعی در تسریع دستیابی به انرژی همجوشی پاک، پیمان همکاری مشترک امضا کردند.",
+            "این همکاری استراتژیک می‌تواند چالش بزرگ تامین برق دیتاسنترهای نسل بعدی هوش مصنوعی را برطرف کند."
+        ],
+        "full_text": "UK and US sign fusion and AI deal for clean energy breakthrough  The Independent",
+        "impact": "هموار شدن مسیر دستیابی به منابع انرژی تجدیدپذیر و پایدار برای ابررایانه‌های آینده.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.85,
+        "source": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW5BZFc0c0NHWnZVZVNlbElGY1RDVExRRncyTkJQRDdqUjdMNnFjRWRfdmpWQWpHZm1BVzNvSHNscDN2cHBQb3piTVZRYzZrbWtHb2p6M05KSTZPaGtIaTUtUWZFOFA4cDlmR3l1RmlrRWgwVWNQWGZfS19uTmNZajktUV9xSERGWUtB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW5BZFc0c0NHWnZVZVNlbElGY1RDVExRRncyTkJQRDdqUjdMNnFjRWRfdmpWQWpHZm1BVzNvSHNscDN2cHBQb3piTVZRYzZrbWtHb2p6M05KSTZPaGtIaTUtUWZFOFA4cDlmR3l1RmlrRWgwVWNQWGZfS19uTmNZajktUV9xSERGWUtB",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789340460.0
+    },
+    {
+        "id": "a4ea0277cd",
+        "title_fa": "ورود فارادی فیوچر به رباتیک؛ رونمایی از ۹ ربات جدید",
+        "title_en": "Nine new robots will debut Sept. 19. Faraday Future says they include humanoids and four-legged machines.",
+        "summary": [
+            "شرکت فارادی فیوچر قصد دارد به زودی از ۹ مدل ربات جدید شامل مدل‌های انسان‌نما و چهارپا رونمایی کند.",
+            "این اقدام نشان‌دهنده برنامه‌ریزی خودروسازان برای ورود به بازار داغ ربات‌های هوشمند و تجسم‌یافته است."
+        ],
+        "full_text": "Nine new robots will debut Sept. 19. Faraday Future says they include humanoids and four-legged machines.  Stock Titan",
+        "impact": "شدت گرفتن رقابت میان خودروسازان و غول‌های فناوری در بازار ربات‌های هوشمند.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDYxWjZKblBkZjNVbWpicFlOYm5DZW9CNXZCNnc1cnAyWm5RdkZxaEhFSjJrbXRUZHd5UDB3V0tKOGVCUDRHd0o2dE5UY1RxVXZ2dkludlFFRTVSUW9FQWJKMGhveDBTUG9LdnY2a09BRDN5NmxVS0pWdXdtUFJZZHJXZkZZNVRpcDI1UEROY1ZzZmlYRFRPdzlEcjJQemdmYXNJNF9GbkxBU3pZTFNzalB2QzBCM0czMW55OTV6VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVDYxWjZKblBkZjNVbWpicFlOYm5DZW9CNXZCNnc1cnAyWm5RdkZxaEhFSjJrbXRUZHd5UDB3V0tKOGVCUDRHd0o2dE5UY1RxVXZ2dkludlFFRTVSUW9FQWJKMGhveDBTUG9LdnY2a09BRDN5NmxVS0pWdXdtUFJZZHJXZkZZNVRpcDI1UEROY1ZzZmlYRFRPdzlEcjJQemdmYXNJNF9GbkxBU3pZTFNzalB2QzBCM0czMW55OTV6VQ",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789340400.0
+    },
+    {
+        "id": "31f1296d01",
+        "title_fa": "هوش مصنوعی SimuScan؛ انقلاب در میکروسکوپ‌های نانومتری",
+        "title_en": "AI helps microscopes find the most informative nanoscale features in a sample",
+        "summary": [
+            "پژوهشگران آزمایشگاه ملی اوک‌ریج ابزار جدیدی ساخته‌اند که به میکروسکوپ‌های اتمی اجازه می‌دهد خودکارانه دقیق‌ترین نقاط نمونه را برای تصویربرداری انتخاب کنند.",
+            "این سیستم هوشمند با تشخیص خطاها و نویزهای دستگاهی، عملکردی مشابه یک اپراتور بسیار باتجربه ارائه می‌دهد."
+        ],
+        "full_text": "AI helps microscopes find the most informative nanoscale features in a sample Researchers at the Department of Energy's Oak Ridge National Laboratory (ORNL) have developed an artificial intelligence framework that helps researchers use atomic force microscopes to identify important nanoscale features while autonomously targeting the most informative areas of a sample for closer study. Although atomic force microscopy (AFM) reveals structures as small as molecules, operating the instrument still requires expert judgment about where to scan, how to adjust settings and which features deserve closer study. SimuScan reduces that burden, making AFM faster, more consistent and better suited for high-throughput research. \"Operating an atomic force microscope is a bit like piloting a modern jet,\" said Liam Collins, an ORNL senior R&D scientist at the Center for Nanophase Materials Sciences (CNMS). \"The hardware has incredible capability, but making full use of it often requires an experienced pilot.\" That reliance on specialized expertise slows large-scale studies and makes results more dependent on individual users. \"The challenge is not only acquiring the image but also understanding what is in the image, deciding what matters and knowing where the microscope should look next,\" said Ruben Millan Solsona, an ORNL technical professional and staff scientist. In a paper published in Nature Communications, the researchers describe how SimuScan addresses one of AI's biggest obstacles for AFM: the shortage of high-quality labeled training data. Why interpreting AFM data is difficult for AI At first glance, interpreting AFM images looks like a standard image-analysis problem. But AFM images differ fundamentally from photographs because they reflect both the sample and the measurement process. \"A camera records reflected light, but an atomic force microscope acts more like a high-tech record player needle feeling its way across a landscape,\" Collins said. What the microscope records depends on the sample, the AFM probe itself and the way it is measured. Millan Solsona put it simply: \"Tip geometry, drift, flattening and contamination can all introduce artifacts that resemble real nanoscale structures. Experienced users learn to distinguish them; AI models must be taught to do the same.\" Training data are also scarce. Unlike everyday photographs or medical images, relatively few AFM images have been carefully labeled by experts, making it difficult to train AI models. A flight simulator for AFM SimuScan tackles the data problem by generating synthetic AFM images, along with automatic labels tied directly to the simulated object geometry, so models can be trained without large volumes of hand-annotated experimental data. To work in real laboratories, however, the synthetic images must be realistic. Rather than producing pristine images, SimuScan recreates the imperfections AFM users encounter every day—including tip effects, scanner drift, electronic noise, contamination and surface roughness. The researchers validated SimuScan by training AI models on synthetic images and testing whether they could accurately identify features in real AFM data. \"The true test of realism is whether an AI trained in a flight simulator can successfully land a real plane in a storm,\" Collins said. Cutting the data-labeling bottleneck Creating training data is often the most labor-intensive part of scientific AI. Experts may spend days or weeks outlining features, and results can vary from one researcher to another. With SimuScan, much of that burden shifts to computation. The system can generate large data sets, including thousands of labeled images, with controlled variability in object shapes, backgrounds and artifacts. In this approach, experimental data are used primarily to test and refine the models rather than create most of the training labels. The guiding insight, Millan Solsona said, is that synthetic data must not be too perfect. Training on realistic imperfections helps AI recognize true nanoscale structures under real laboratory conditions. Finding targets and deciding where to zoom in Beyond analyzing images after the scan, SimuScan supports a closed-loop approach to targeted imaging. The process starts with a fast, low-resolution survey scan across a relatively large area. The AI then identifies and segments features, ranks potential targets based on user-defined criteria and directs the microscope to regions most likely to contain scientifically relevant information. The process can repeat as needed. The autonomy is deliberate but bounded. The scientist still sets the goals—what to look for, what constraints to respect and when enough data have been collected. For researchers using CNMS, this capability could make advanced AFM measurements more accessible, even for scientists who are experts in their materials but not in microscopy. Collins likens it to moving from a highly skilled pilot to an intelligent copilot. The point is not to remove the researcher from the loop but to shift the person to higher-value decisions: interpreting results instead of hunting for them. Testing SimuScan in the real world In demonstrations spanning fabricated nanostructures, DNA assemblies and bacterial cells, the team showed that models trained primarily on synthetic data could transfer to real AFM images. The largest sources of error, the researchers found, often came from the background rather than the target. Real materials can have regular nanoscale textures such as atomic terraces, grain structures and periodic patterns that confuse models. Dense clusters or overlapping objects, such as touching bacterial cells, also remain challenging, even for humans. Those results are helping the team improve SimuScan by better representing realistic substrates so models learn what to ignore as well as what to detect. Toward routine, scalable AFM For SimuScan to become commonplace, Collins and Millan Solsona said it must integrate more s",
+        "impact": "شتاب‌بخشی بی‌سابقه به تحقیقات مواد پیشرفته و نانوفناوری بدون نیاز به دخالت مداوم انسان.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
+        "clean_url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/ai-helps-microscopes-f.jpg",
+        "images": [
+            "https://scx2.b-cdn.net/gfx/news/2026/ai-helps-microscopes-f.jpg",
+            "https://phys.b-cdn.net/tmpl/v6/img/logo-header.png",
+            "https://phys.b-cdn.net/tmpl/v6/img/MedicalXpress2.svg",
+            "https://phys.b-cdn.net/tmpl/v6/img/techX_w.svg"
+        ],
+        "timestamp": 1789329600.0
+    },
+    {
         "id": "e09bb3ee86",
         "title_fa": "موج بدبینی به درخواست رهبران AI برای کند کردن سرعت توسعه",
         "title_en": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
@@ -88,6 +157,54 @@
         "timestamp": 1789319533.0
     },
     {
+        "id": "f250fb8d55",
+        "title_fa": "چالش‌های پیش‌روی نیروهای کاری تازه‌کار در عصر اتوماسیون",
+        "title_en": "What are the five pros and cons of artificial intelligence?",
+        "summary": [
+            "با گسترش کدنویسی خودکار و ابزارهای هوشمند، ساختار مشاغل پایه و ورود به بازار کار دستخوش تغییر شده است.",
+            "تحلیل‌ها نشان می‌دهد که بیشترین ریسک جابه‌جایی شغلی متوجه نیروهای جونیور است، در حالی که نیروهای باتجربه بهره‌وری بیشتری کسب می‌کنند."
+        ],
+        "full_text": "AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.",
+        "impact": "افزایش ریسک و سخت‌تر شدن مسیر ورود نسل جدید متخصصان به بازار کار فناوری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/what-are-the-five-pros-and-cons-of-artificial-intelligence/ar-AA2c7Uzx",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/what-are-the-five-pros-and-cons-of-artificial-intelligence/ar-AA2c7Uzx",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa69311-1789301521.jpg?resize=1920,1440",
+        "images": [
+            "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa69311-1789301521.jpg?resize=1920,1440"
+        ],
+        "timestamp": 1789311828.0
+    },
+    {
+        "id": "d376dd4fe6",
+        "title_fa": "چرا اینسایت پارتنرز تمام سرمایه‌اش را روی OpenAI شرط‌بندی نمی‌کند؟",
+        "title_en": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "summary": [
+            "صندوق ۹۰ میلیارد دلاری اینسایت پارتنرز برخلاف رقبا، تنوع‌بخشی به سبد سرمایه‌گذاری را به تمرکز صرف روی غول‌های AI مانند OpenAI ترجیح داده است.",
+            "دوین پارخ، مدیر این صندوق، معتقد است خطرات AI وجود دارد اما جهش در کشف داروها و تشخیص زودهنگام بیماری‌ها بسیار ارزشمندتر از ریسک‌های موجود است.",
+            "این سرمایه‌گذار کهنه‌کار تاکید دارد که عملکرد واقعی شرکت‌ها اهمیت دارد، نه جنجال‌های تبلیغاتی در شبکه‌های اجتماعی."
+        ],
+        "full_text": "Deven Parekh has co-run the heavyweight investment firm Insight Partners for 26 years. Unlike many VCs who are loud on X and seem to live on podcasts, Parekh and Insight Partners tend to lay low. In this sit-down with TechCrunch at its StrictlyVC event on Thursday night in New York, Parekh was refreshingly candid about some of the firm’s wins (it has led and co-led numerous rounds in Databricks, for example, and owns stakes in OpenAI and Anthropic); the deals it hasn’t won, including buzzy AI legal-tech company Legora; conflicts of interest in venture investing; and why Insight has stuck to a diversified strategy even as VCs have piled into the frontier AI labs. This interview has been edited for length and clarity. There’s a researcher who’s become the big story of the week — do you think that concerns about AI risk amount to hysteria, or do you have real concerns? Sure, there’s a risk some non-state actor gets access to an open-source model and creates a biological weapon. But there’s an even higher probability we get a massive decrease in the time it takes to develop new drugs and cure diseases. I’ll take that bet. I’m on the board of NYU Langone — what AI is already doing with patient data is amazing. We can look at 50 million patient records and tell someone walking in for something unrelated that they have a 25% chance of a heart attack. Net-net, I think this is highly positive. There are risks, sure, just like there are risks with next-generation drone warfare. Every generation has new risks, and somehow, over time, the world still raises living standards. We’re going to need AI to scale healthcare — the population is aging and there aren’t enough medical professionals to go around. Insight has $90 billion in assets under management but seems comparatively quiet compared to firms of similar size. Is that purposeful? Every venture capitalist thinks they’re an expert on everything now — epidemiology during COVID, geopolitics during the Iran war. I’m not sure we’re all experts on everything. Our attitude has been: Let the portfolio do the talking. We’re investing in founders and companies. We have to communicate enough that people know who we are, but our performance should speak for itself — and that’s driven by the portfolio, not by us being loud. You do early-stage, growth, buyouts, and presumably secondaries. What’s the split? It’s temporal, not fixed — we invest globally, so there’s no set geographic or strategy allocation. Look at our last seven funds and you’d see different percentages of early-stage, growth, and buyout in each. Buyouts aren’t great right now — rates are high, debt markets aren’t receptive to software, exit multiples have come down. We haven’t done a major buyout since 2024. On the venture side, valuations are rising at a pace we saw before, in 2021 — and that didn’t end well. Normally, a follow-on round means more data, so you pay a higher price for lower risk. Right now, rounds move so fast there’s almost no incremental data, so you’re paying more without reducing risk. The logical response is to go earlier. With a scale fund, you can make smaller bets — write a $20–25 million check instead of $500 million — and double down on the winners. That’s where our returns have disproportionately come from. With Wiz, we wrote a Series A and kept writing checks, so our gain was much larger than if we’d stopped at the first check. And if Wiz hadn’t worked out, it would have barely dented a fund our size. As a global investor, what percentage of your deals are regional versus concentrated somewhere like the Bay Area? Talent has gone flat globally. We competed for Legora — my partner Jeff Horing flew to [Stockholm] to pitch the company, because that’s where the founder was. We lost that one to General Catalyst. That said, AI infrastructure talent is genuinely concentrated in San Francisco — my 23-year-old son, also a VC, is moving there because he says you can’t invest in AI without being there. But talent density varies by vertical: Ramp is financial services, and that talent is concentrated in New York. So vertical AI investing can be more geographically diverse than pure AI infrastructure. Why did you lose Legora to General Catalyst? I don’t know the specific reason, but I think they sold their value proposition better than we sold ours that time. There are plenty of examples where it went the other way. It’s a big world; we don’t need to win every deal. You’re invested in rival companies — OpenAI and Anthropic. That was once taboo in VC. Did that cause any anguish inside the firm? Did you worry about what founders would take away from this? The internal debate was more about whether we should have gotten into earlier rounds. It’s very stage-dependent. Khosla did OpenAI’s Series A, and there’s no way they could have then invested in Anthropic, and if we’d done Anthropic’s Series A, we likely couldn’t have done OpenAI either. Once you’re at a later stage, off the board, not driving governance, you’re just buying a great stock. We saw OpenAI as the dominant consumer play and Anthropic as having a clear enterprise strategy; that’s shifting in real time. As these companies needed to raise $30–$100 billion, they stopped being able to dictate exclusivity. That said, at the Series A/B stage, we do have information-sharing restrictions and we don’t invest in directly competing companies, though some founders are sensitive even to 2% revenue overlap. Are you getting more aggressive on physical AI? Physical intelligence companies are still largely science projects. It’s not that they won’t become real businesses, but you’re making a bet on when robotics adoption happens, layered on top of a bet on whether it happens at all. We’re watching, but we’re not there yet. My son thinks it’s the hottest space around and that I’m crazy to ignore it, which is exactly what I’d expect from a 23-year-old. OpenAI and Anthropic raised roughly half of all VC dollars in the first half of this ye",
+        "impact": "تغییر استراتژی سرمایه‌گذاران بزرگ از هیجان بازار AI به سمت بازدهی عینی و مدیریت ریسک.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "clean_url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic",
+        "image": "http://www.bing.com/th?id=ONUT.WzDehX2_VVteEC8EM0hWJg&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.WzDehX2_VVteEC8EM0hWJg&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/01/Connie-Loizos-1.jpg?w=150"
+        ],
+        "timestamp": 1789309800.0
+    },
+    {
         "id": "976c80ec15",
         "title_fa": "احتمال عرضه نسل جدید اپل تی‌وی مجهز به دستیار سیری هوشمند در پاییز",
         "title_en": "New Apple TV with Siri AI could launch at any time in the fall",
@@ -110,6 +227,32 @@
         "timestamp": 1789309500.0
     },
     {
+        "id": "7d5d2e3cb1",
+        "title_fa": "رونمایی از دیتاسنترهای هسته‌ای شناور در دمو دی وای‌کامبیناتور",
+        "title_en": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+        "summary": [
+            "دوره جدید Y Combinator به شدت به سمت فناوری‌های عمیق (Deep Tech) و ایده‌های جسورانه سخت‌افزاری سوق پیدا کرده است.",
+            "استارتاپ Atomarine قصد دارد با ساخت دیتاسنترهای هسته‌ای شناور روی دریا، بحران کمبود برق و چالش خنک‌سازی چیپ‌های AI را حل کند.",
+            "استارتاپ‌های دیگری مثل Dipole Labs با سوئیچ‌های نوری مستقیم و Isengard با پهپادهای جت ارزان‌قیمت، توجه سرمایه‌گذاران بزرگ را جلب کرده‌اند."
+        ],
+        "full_text": "Another Y Combinator Demo Day took place on Thursday, but this batch looked a little different. While every cohort brings a fresh wave of founders, the startups presenting this week skewed far more toward deep tech than in past years. As we do every quarter, TechCrunch asked early-stage VCs to name the hottest startups in this batch — both their top picks and the deals everyone was talking about. And as usual, we put together a list of startups flagged by at least two investors as the buzziest in the batch. The tech in this batch felt “like science fiction,” as one investor put it. But beyond the wild ideas, the consensus was that valuations were far more grounded than in recent cohorts. We’ve listed the top picks alphabetically below: What it’s building: Nuclear-powered data centers floating at sea Why it’s a fav: Power is in short supply and local communities are increasingly opposing the buildout of new data centers. Atomarine — co-founded by an MIT computer science and naval engineer and an MIT PhD in nuclear engineering — wants to solve the compute shortage by putting data centers on barges at sea, where seawater could provide near-free cooling. The startup plans to launch a gas-powered pilot by 2028 and plans to transition to floating nuclear power ships in 2032. Atomarine claims it has already secured over $4 billion in customer interest through letters of intent. That revenue potential has helped make it one of the highest-valued startups in the batch, one VC told TechCrunch. What it’s building: Effective and energy-efficient high-speed optical networking hardware for AI data centers Why it’s a fav: The idea is that GPU clusters waste a lot of compute time simply waiting for data to move between each chip. Within the networking layer, data is converted from light to electricity and back again in a process that burns lots of power and yields lots of heat. But Dipole Labs says it built an optical switch that skips the conversion so the data can stay as light and go directly where it needs to go. It’s a timely problem to tackle as GPUs are crazy expensive and data centers want the most out of their compute hardware without leaving any time to spare. What it’s building: Locally producible, jet-powered strike and counter-drones Why it’s a fav: Isengard aims to mass-produce jet-powered attack and counter-drones directly within allied countries, at a fraction of what prime contractors charge to build them in the U.S. Co-founded by a former Australian Army officer and a defense entrepreneur who previously scaled another Ukraine-focused drone startup to $60 million in revenue, Isengard is already generating $10 million in revenue itself. The startup has generated strong VC buzz, garnering one of the loftiest valuations in this YC batch, according to two investors. What it’s building: Custom inference chips with hardcoded AI model weights Why it’s a fav: Traditional AI chips burn massive amounts of energy during inference, fetching model weights from memory. Co-founded by an Imperial College London AI Ph.D. and an Oxford theoretical physicist, Lamb Labs wants to build ultra-efficient chips by hardcoding AI model weights directly into silicon. Dubbed “Model Processing Units” (MPUs), these custom chips eliminate memory-bandwidth bottlenecks. What it’s building: Collecting real-world data on which to train robots Why it’s a fav: This company partners with businesses to collect videos and data of humans doing work, which it then turns into training material for companies building robots. It says it’s already working with publicly traded companies and has captured video data in more than 150 different environments. This company could become important as businesses start experimenting more with which tasks are best for humans — and, as AI continues to refine itself, which tasks are better left to a robot. What it’s building: Creating affordable robots to handle everyday tasks Why it’s a fav: Launched just six weeks ago, this company already touts almost half a million in sales. That’s not shocking — it’s a humanoid robot that is promising to help clean and fold clothes. Users can also operate their robot via a laptop app. It’s priced at around $1,600, which is a steal compared to other humanoids like Neo, priced around $20,000. One of the biggest questions in robotics is if it is possible to create an affordable at-home robot that can actually stack a dishwasher and do everyday home tasks. Nori is another swing at taking on the task. What it’s building: Autonomous robots that can lift heavy objects Why it’s a fav: The founders of this company want to build a city on Mars. The first step to that? Building robotic technology that performs heavy-duty tasks. It says its tech is already installing solar panels across the U.S. and that it has $25 million in contracts through 2027. The vision is that this technology can help automate construction for colonizing Mars. The startup is racing with SpaceX’s timeline for building on Mars, as it hopes to begin an exploratory mission by 2028. What it’s building: Training human brain cells to one day power compute Why it’s a fav: Another company trying to find the best way to tackle how much power and energy is needed to run models. This time, Parasma is looking at using human brain cells as an effective, more energy-efficient alternative to today’s AI computing hardware. What it’s building: An API layer that writes robot control code Why it’s a fav: Investors and tech enthusiasts are hoping that the ChatGPT moment for robots is around the corner. That excitement is driving different approaches to creating a general robotics model. Instead of training foundation models on raw video or human teleoperation data, Waddle Labs uses a layer of LLM agents to write code and control robots directly. The startup, founded by Harvard graduates, is positioning itself as “Claude Code for robotics.” The startup claims that by plugging any hardware into Waddle’s API, developer",
+        "impact": "سرمایه‌گذاران خطرپذیر اکنون آماده ورود به پروژه‌های سنگین زیرساختی برای حل بحران انرژی هوش مصنوعی هستند.",
+        "tag": "استارتاپ",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "clean_url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs",
+        "image": "http://www.bing.com/th?id=ONUT.pX7ifuVokZSN6Uy-VnU7mw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.pX7ifuVokZSN6Uy-VnU7mw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
+            "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/08/IMG_0758.jpg?w=150"
+        ],
+        "timestamp": 1789306080.0
+    },
+    {
         "id": "50b4895eef",
         "title_fa": "ارتقای ابزارهای امنیت سایبری کروداسترایک با رونمایی از محصولات خودمختار AI",
         "title_en": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
@@ -130,6 +273,53 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789304402.0
+    },
+    {
+        "id": "b2a7f515ed",
+        "title_fa": "از ماسه‌های روستا تا نوبل کامپیوتر؛ مسیر زندگی راج ردّی",
+        "title_en": "Raj Reddy: The first Asian to win AI's highest honour has roots in Andhra village",
+        "summary": [
+            "مروری بر زندگی راج ردّی، نخستین آسیایی برنده جایزه تورینگ که بدون امکانات اولیه از روستایی در هند به مدارج عالی استنفورد رسید.",
+            "دستاوردهای این دانشمند پیشگام در پردازش گفتار، پایه اصلی سیستم‌های هوشمند تعاملی امروز را شکل داده است."
+        ],
+        "full_text": "It began with writing on sand when he had no paper. Until his teenage years, he had no shoes, but he carried on. Raj Reddy, an Indian-American computer scientist, was once a boy from a village in Andhra who went on to Stanford University,",
+        "impact": "بزرگداشت نقش دانشمندان بنیان‌گذار در شکل‌گیری فناوری‌های هوشمند امروزی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 3,
+        "sentiment": 0.8,
+        "source": "India Today",
+        "url": "https://www.msn.com/en-in/news/other/raj-reddy-the-first-asian-to-win-ais-highest-honour-has-roots-in-andhra-village/ar-AA2c7GJa",
+        "clean_url": "https://www.msn.com/en-in/news/other/raj-reddy-the-first-asian-to-win-ais-highest-honour-has-roots-in-andhra-village/ar-AA2c7GJa",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/raj-reddy-132722501-16x9_0.jpeg?VersionId=OkRgi6XWAaRr4GPC5hJM7UUWl2mILqaQ",
+        "images": [
+            "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/raj-reddy-132722501-16x9_0.jpeg?VersionId=OkRgi6XWAaRr4GPC5hJM7UUWl2mILqaQ"
+        ],
+        "timestamp": 1789300920.0
+    },
+    {
+        "id": "4c9ec78cff",
+        "title_fa": "چالش جایزه نوبل در عصر همکاری‌های هزار نفره دانشمندان",
+        "title_en": "LIGO's 1,200 Scientists Detected Gravitational Waves, But Only Three Won the Nobel",
+        "summary": [
+            "پروژه کشف امواج گرانشی LIGO با مشارکت بیش از ۱۲۰۰ دانشمند انجام شد، اما ساختار سنتی نوبل مدال‌ها را تنها به سه نفر اهدا کرد.",
+            "تغییر الگوی کشفیات علمی از دانشمندان فردی به تیم‌های فراملیتی عظیم، نوبل را با بحران مشروعیت در انتخاب برندگان مواجه کرده است."
+        ],
+        "full_text": "1,000 Names Fill the Paper, But Only 3 Stand on the Podium: The Dilemma of the Nobel Prize at 125 Years [125 Years of the Nobel Prize]① Rethinking the Idea of the \"Discoverer\" Even with 1,200 LIGO Scientists Detecting Gravitational Waves, Only Three Won the Nobel Prize From the “Lone Genius” to Mega-Collaborations How the Landscape of Discovery Has Changed Over 100 Years Kip Thorne, a theoretical physicist from the United States and the 2017 Nobel Prize in Physics laureate. Approximately 1,200 scientists and engineers participated in the LIGO-Virgo collaboration that first directly detected gravitational waves. Thorne described himself, a Nobel laureate, as a single \"symbol\" representing the vast collaborative research team. Official Nobel Prize website / Photo by Alexander Mahmoud, Nobel Prize Outreach View original imageWhen Albert Einstein unveiled the theory of general relativity in 1915, he was the sole author listed on the paper. One hundred years later, on September 14, 2015, gravitational waves—predicted by Einstein—were directly detected for the first time. The Laser Interferometer Gravitational-Wave Observatory (LIGO) in the United States observed these “ripples in spacetime,” generated by the collision of two black holes about 1.3 billion light-years away. In the paper announcing this discovery the following year, the authors included the names of more than 1,000 scientists from the international LIGO and Virgo collaborations, who had carried on the research for decades. This scene, where a phenomenon predicted by a single genius was directly confirmed by thousands of scientists a century later, vividly illustrates how the method of discovery in modern science has fundamentally transformed over the last 100 years. However, in the face of this monumental achievement, the 2017 Nobel Prize in Physics was awarded to just three individuals: Rainer Weiss, Professor Emeritus at the Massachusetts Institute of Technology; Barry Barish; and Kip Thorne, both Professors Emeritus at Caltech. The award was given for their \"decisive contributions to the LIGO detector and the observation of gravitational waves.” In an age when discoveries are made by thousands working together, the Nobel Prize still selects a handful whose contributions are deemed crucial. A panoramic view of the Laser Interferometer Gravitational-Wave Observatory (LIGO) Hanford Observatory in Hanford, Washington, USA. Two 4-kilometer-long vacuum tubes extending perpendicularly send lasers to measure the minute changes in spacetime. Together with another LIGO detector in Livingston, Louisiana, USA, it made the first direct detection of gravitational waves in 2015. Provided by Caltech/MIT/LIGO Laboratory View original imageA Single-Authored Paper 100 Years Ago, 1,000 Authors Today Professor Wang Dashun of Northwestern University in the United States, in a written interview with The Asia Business Daily, cited the 100-year gap between Einstein and LIGO as an iconic example of how modern science has changed. Specializing in the “science of science,” Professor Wang explained, “In 1915, Einstein published the theory of general relativity as a sole author, but the 2015 detection of gravitational waves was the result of international collaboration involving more than 1,000 researchers.” He added, “The fundamental way scientific discoveries are made has transformed over the past century.” As scientific knowledge accumulates and research problems grow more complex, it has become impossible for one person to handle all the theories, experiments, equipment, and data. The detection of gravitational waves required expertise in diverse fields: lasers, optics, vacuum and precision control technology, computing, and data analysis. The direct detection of gravitational waves was only possible after countless researchers collaborated for decades to create a massive observation system. In his 2017 Nobel lecture, Professor Thorne noted that the first observation of gravitational waves was the result of nearly 1,200 LIGO and Virgo scientists and engineers working together for almost half a century. Although the Nobel Prize for “decisive contribution” was awarded to three people, including himself, he stressed that “the primary credit belongs to the entire collaboration,” regarding himself as a “symbol” representing the collective effort of the team. This is not unique to the field of gravitational waves. In 2012, the European Organization for Nuclear Research (CERN)’s Large Hadron Collider (LHC) confirmed the existence of the Higgs boson, a particle theorized in the 1960s. The Higgs boson is key to understanding how fundamental particles acquire mass. Each of the two major international collaborations—ATLAS and CMS—that discovered the Higgs boson included about 3,000 scientists. Yet, the following year, the Nobel Prize in Physics was awarded to just two people: François Englert and Peter Higgs, who developed the theory. Between the theorists and the thousands of scientists who confirmed the theory through experiment, the Nobel Prize again selected those responsible for the “decisive theoretical discovery.” The Nobel Prize has long been governed by an old rule: according to the Nobel Foundation’s statutes, no prize may be divided among more than three people. The basic framework for the prize, established in the early 20th century, still persists in the 21st century, where a single paper may have thousands of co-authors. Commenting on this, Priyamvada Natarajan, Professor of Astronomy and Physics at Yale University, remarked, “The three-person rule is somewhat outdated given the way discoveries are made today.” She added, “I have never really believed in the ‘lone genius’ model. While it makes for a great story, it’s mostly just that—a story.” Science has always advanced by building on the accumulated knowledge and research of others, she explained; what’s different today is that this collective nature is much more visible. She emphasized, “When we",
+        "impact": "ضرورت بازنگری در نحوه تقدیر از دستاوردهای علمی بزرگ و گروهی در جهان معاصر.",
+        "tag": "سخت‌افزار",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "Asia Economy",
+        "url": "https://www.asiae.co.kr/en/article/2026091110011159859",
+        "clean_url": "https://www.asiae.co.kr/en/article/2026091110011159859",
+        "image": "https://cphoto.asiae.co.kr/listimglink/1/2026091109533724777_1789088017.jpg",
+        "images": [
+            "https://cphoto.asiae.co.kr/listimglink/1/2026091109533724777_1789088017.jpg",
+            "https://cphoto.asiae.co.kr/listimglink/1/2026091109554124786_1789088141.jpg",
+            "https://cphoto.asiae.co.kr/listimglink/1/2026091109572924791_1789088249.jpg",
+            "https://cphoto.asiae.co.kr/listimglink/1/2026091109583324796_1789088313.jpg"
+        ],
+        "timestamp": 1789293600.0
     },
     {
         "id": "d69d2bede1",
@@ -6838,206 +7028,5 @@
             "https://static.digiato.com/digiato/2026/09/Screenshot-1405-06-13-at-10.14.57-1024x681.jpg"
         ],
         "timestamp": 1788502380.0
-    },
-    {
-        "id": "cf74d4abbb",
-        "title_fa": "نوسان شدید سهام سربراس؛ تأمین سخت‌افزار GPT-5.6 هم مانع ریزش نشد",
-        "title_en": "Cerebras Systems Stock Slides As Wall Street Backs Aggressive AI Expansion",
-        "summary": [
-            "سهام شرکت تراشه‌سازی Cerebras به‌رغم اعلام همکاری با OpenAI برای پشتیبانی از حالت Ultrafast مدل جدید، افت شدید ۱۲ درصدی را تجربه کرد.",
-            "با وجود دوبرابر شدن درآمد شرکت و سرمایه‌گذاری سنگین در دیتاسنتر جدید فنلاند، زیان ۴۵۰ میلیون دلاری فصل دوم سرمایه‌گذاران را نگران کرده است."
-        ],
-        "full_text": "Cerebras Systems Inc. stocks have been trading up by 10.91 percent amid bullish sentiment on its AI chip breakthroughs. Key Takeaways - Morgan Stanley reaffirmed a bullish overweight rating on Cerebras Systems (CBRS) and raised its price target, expecting core revenue to more than triple by 2027 despite major data center execution risk. - Hardware from CBRS powers OpenAI’s new GPT-5.6 Sol Ultrafast mode, yet the stock still dropped nearly 14% on the announcement, signaling valuation and monetization worries. - Shares of Cerebras Systems fell over 12% after a Q2 loss, even though core revenue more than doubled year over year on strong cloud demand. - A new AI data center project in Mikkeli, Finland, comes as CBRS trades more than 3% lower premarket, highlighting tension between spending and sentiment. - Tiger Global opened a sizable new CBRS position in Q2 2026, ranking the name among its biggest fresh buys and signaling strong interest from large growth-focused funds. Live Update At 15:02:36 EDT: On Friday, September 04, 2026 Cerebras Systems Inc. stock [NASDAQ: CBRS] is trending up by 10.91%! Discover the key drivers behind this movement as well as our expert analysis in the detailed breakdown below. Quick Financial Overview CBRS has been trading like a classic high-beta AI story stock. Over the past few weeks, Cerebras Systems has swung from a high near the mid-$260s down into the low-$170s before rebounding into the low $200s. That’s a huge range in a short time, and traders should respect that volatility. On 2026/09/04, CBRS opened around $191 and pushed to an intraday high near $217 before closing above $211. The 5‑minute chart shows steady grind higher for most of the day, with dips getting bought and tight trading around $211–$214. That intraday action suggests active dip-buying and strong liquidity, which short-term traders love. Fundamentally, Cerebras Systems is still in heavy build-out mode. Quarterly revenue sits around $180.1M, with trailing revenue of roughly $510M. But Q2 net income was a loss of about $450.5M, and pretax margins near ‑124% show the business is far from breakeven. The price-to-sales ratio around 117.36 tells traders CBRS is priced for big future growth, not current earnings. More Breaking News The balance sheet is thick with cash — about $6.7B plus strong working capital — backed by major stock issuance. That war chest explains how CBRS can chase massive AI infrastructure projects while absorbing ongoing losses. Why Traders Are Locked In On CBRS Cerebras Systems is sitting right at the intersection of AI hype and real workloads, and that’s why traders are glued to CBRS. On the headline front, Morgan Stanley just reiterated its overweight rating and raised its price target, calling out surging AI inference demand and expanded data center capacity. The firm expects Cerebras Systems’ core revenue to more than triple by 2027, driven by new inference systems partnerships with AMD and AWS and over 600MW of secured capacity. For CBRS traders, that is a huge top-line growth story. But Morgan Stanley also flagged the obvious risk: actually bringing that 600MW online. Data centers are capital-intensive, slow to execute, and easy to stumble on. Any delay, cost overrun, or utilization disappointment can hit CBRS hard. At the same time, Cerebras Systems is proving its tech with marquee workloads. Its hardware powers OpenAI’s GPT‑5.6 Sol Ultrafast mode, capable of up to 750 tokens per second, up to 14x faster than Standard mode, and posting strong scores on the “Humanity’s Last Exam” benchmark. That is the kind of real-world validation many AI chip hopefuls dream about. Yet the day CBRS announced the OpenAI news, shares dropped nearly 14%. Add in another 12%+ slide after the Q2 report — where core revenue more than doubled year over year and beat estimates, but the company swung to a loss — and you have a textbook sentiment clash: explosive growth versus deep skepticism on profitability and valuation. CBRS is also expanding physically, building a new AI data center in Mikkeli, Finland, even as the stock trades down more than 3% premarket on that headline. And in the background, Cerebras Systems and SpaceX have been cited as recent AI/space listings without secondary stock sales, suggesting CBRS has avoided some dilution overhang so far. Layer on Tiger Global opening a large new position in Cerebras Systems, big enough to rank among its top fresh buys, and you see why active traders are circling CBRS: sharp moves, big catalysts, and strong “smart money” interest. Conclusion Cerebras Systems sits in that dangerous sweet spot Tim Sykes talks about all the time: massive story, massive volatility. CBRS has the ingredients traders look for — a hot AI narrative, real partnerships with OpenAI, AMD, and AWS, analyst price target hikes from firms like Morgan Stanley, and heavy institutional interest from Tiger Global. But the numbers say CBRS is still a high-risk build-out story. Cerebras Systems is burning cash, posting big losses, and leaning hard on the public markets to fund over 600MW of planned data center capacity plus new sites like Mikkeli, Finland. The price-to-sales multiple above 100 means traders are paying today for earnings that may be years away. The chart action in CBRS tells the rest of the story. Wide daily ranges, double-digit drops on earnings and partnership news, and intraday squeezes off the open make Cerebras Systems a trading vehicle, not a “set it and forget it” name. As Tim Sykes likes to remind his students, “Volatility is a gift if you respect it and cut losses quickly.” As millionaire penny stock trader and teacher Tim Sykes, says, “You must adapt to the market; the market will not adapt to you.”. For CBRS, that mindset matters. Traders who map key levels, track news flow, and stay disciplined on risk have the best shot at turning this AI rollercoaster into opportunity, purely for educational and research purposes — not as investment advice. This is",
-        "impact": "نشان‌دهنده حساسیت بالای بازار نسبت به سودآوری واقعی شرکت‌های سخت‌افزاری هوش مصنوعی.",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "timothysykes",
-        "url": "https://www.timothysykes.com/news/cerebras-systems-inc-cbrs-news-2026_09_04-2/",
-        "clean_url": "https://www.timothysykes.com/news/cerebras-systems-inc-cbrs-news-2026_09_04-2",
-        "image": "https://content.timothysykes.com/wp-content/uploads/2026/09/cerebras-systems-stock-slides-as-wall-street-backs-aggressive-ai-expansion.jpg",
-        "images": [
-            "https://content.timothysykes.com/wp-content/uploads/2026/09/cerebras-systems-stock-slides-as-wall-street-backs-aggressive-ai-expansion.jpg",
-            "https://content.timothysykes.com/wp-content/uploads/2026/09/watermarked_CBRS_2026-09-04T15-02-scaled.png",
-            "https://content.timothysykes.com/cdn-cgi/image/quality=80,format=webp,width=172/https://content.timothysykes.com/wp-content/uploads/2026/09/tsla-stock-stalls-as-autonomy-hype-collides-with-demand-risks.jpg",
-            "https://content.timothysykes.com/cdn-cgi/image/quality=80,format=webp,width=172/https://content.timothysykes.com/wp-content/uploads/2026/09/anpa-stock-slides-as-volatility-spikes-on-heavy-trading.jpg"
-        ],
-        "timestamp": 1788501780.0
-    },
-    {
-        "id": "02668ab6f0",
-        "title_fa": "سازمان ایمنی خودرو آمریکا تحقیقات از تاکسی‌های خودران تسلا را آغاز کرد",
-        "title_en": "Feds launch investigation into Tesla’s Cybercab deployment",
-        "summary": [
-            "اداره ایمنی ترافیک بزرگراه‌های آمریکا (NHTSA) بلافاصله پس از ورود سایبرکپ تسلا به خیابان‌های آستین، پرونده بررسی قانونی این خودرو را باز کرد.",
-            "سایبرکپ کاملاً بدون فرمان و پدال طراحی شده، در حالی که قوانین فدرال فعلی همچنان وجود کنترل‌های دستی را الزام می‌کنند.",
-            "تسلا ادعا کرده این خودرو تمامی استانداردهای ایمنی را برآورده می‌کند، اما رگولاتوری قصد دارد نحوه خودگواهی و داده‌های فنی تسلا را موشکافی کند."
-        ],
-        "full_text": "The United States’ top automotive safety regulator has opened an investigation into Tesla’s decision to launch its new Cybercab on public roads with no steering wheel or pedals. The National Highway Traffic Safety Administration (NHTSA) announced Friday morning that it opened the probe mere hours after Tesla put the first Cybercabs on the streets of Austin, Texas. Federal vehicle safety regulations require manual controls like brake pedals, though the Department of Transportation recently proposed removing those requirements for vehicles that are designed to be autonomously driven. “NHTSA fully supports the safe development and deployment of automated vehicles. But as the federal regulator, we need to ensure that all of our laws are followed,” administrator Jonathan Morrison said in a statement. “Our approach of balancing innovation with safety oversight will allow the United States to maintain its global leadership in AV innovation.” NHTSA said Friday that Tesla told the agency it self-certified the Cybercab as being compliant with all of the Federal Motor Vehicle Safety Standards (FMVSS). Automakers traditionally self-certify whether their vehicles comply with FMVSS rules. In the filing, the agency said it was opening the investigation to “examine the process and technical data on which Tesla relied when certifying the Cybercab and related issues.” NHTSA said it will consider the extent to which the company’s certification depended on determinations that certain federal motor standards are inapplicable to the Cybercab. There is precedent to NHTSA’s inquiry. In 2022, Amazon-owned autonomous vehicle company Zoox self-certified its cube-like robotaxi, which lacks traditional controls such as a steering wheel and pedals. NHTSA then opened up what it called a “special order” seeking more information from Zoox and formally launched an audit query — the same process it is now using for Tesla — the following the year. While Zoox was still heavily in its testing phase at that time, the investigation did slow its path to commercialization. Zoox had long maintained that the self-certification process was sufficient and in 2025 the federal agency gave the company an exemption to demonstrate — not commercially operate — its technology. Zoox then went through the official process and filed for a temporary Part 555 exemption from eight Federal Motor Vehicle Safety Standards in hopes it would get the final OK that would allow it to charge for robotaxi rides. Zoox received final approval for that exemption in July 2026, eliminating one of the last remaining regulatory hurdles the company needed to clear before launching a commercial robotaxi service. The exemption did place some limits on Zoox. Under the temporary exemption, Zoox can add 2,500 vehicles per year to its commercial fleet over the next for two years. Zoox opened its commercial service several weeks later and now charges for rides in Las Vegas. Whether Tesla will face a similarly long process is unclear. Zoox navigated the regulatory process under the Biden and Trump administrations. On Friday, NHTSA acknowledged that it is in the process of changing some parts of the FMVSS that relate to manual controls in order to “unleash American innovation and enhance safety on our roads.” The agency said it “looks forward to finishing these critical updates and removing unnecessary barriers to American AV innovation in the coming months. Until that work is completed, however, existing standards remain in force.” This story has been updated with new information from NHTSA.",
-        "impact": "کند شدن احتمالی روند تجاری‌سازی تاکسی‌های بدون راننده تسلا در اثر فشارهای نظارتی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-        "clean_url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment",
-        "image": "http://www.bing.com/th?id=ONUT.kPux5_dvPtSBzuXpMIWHjg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.kPux5_dvPtSBzuXpMIWHjg&pid=News",
-            "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-            "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?w=1024",
-            "https://techcrunch.com/wp-content/uploads/2023/12/Sean-OKane.jpeg?w=150"
-        ],
-        "timestamp": 1788498060.0
-    },
-    {
-        "id": "592bb13fe2",
-        "title_fa": "جذب سرمایه‌های سنگین در حوزه رباتیک و تراشه‌های هوش مصنوعی",
-        "title_en": "Weekly Startup Funding Roundup: AI, Robotics, Deep Tech Draw Fresh Capital",
-        "summary": [
-            "استارتاپ لایت (Lyte) با دریافت ۱۶۵ میلیون دلار سرمایه جدید، ارزش خود را به ۱.۶ میلیارد دلار رساند تا روند تولید تراشه‌ها و سنسورهای ادراکی ربات‌ها را سرعت ببخشد.",
-            "حوزه هوش مصنوعی، سلامت دیجیتال و نیمه‌هادی‌ها همچنان مقصد اصلی سرمایه‌گذاران جسورانه در هفته اخیر بوده‌اند."
-        ],
-        "full_text": "Startup funding this week (August 31-September 4, 2026) highlighted a broad appetite for companies building infrastructure around artificial intelligence, healthcare, semiconductors, and clean energy. From a $165 million Series C for robotics perception startup Lyte to fresh capital for Indian deep-tech ventures, investors backed businesses targeting some of the technology sector’s biggest challenges. US-based Lyte raised $165 million in a Series C round led by Maverick Silicon, valuing the robotics perception company at $1.6 billion. Lyte develops custom silicon, multimodal sensors and spatial software that help robots interpret their surroundings. The company said the new capital will support production, AI and perception development, and wider deployments across robotics and industrial customers. Healthcare technology company PatientIQ also secured $30 million in Series C funding, led by Hughes & Company. The Chicago-based company provides an outcomes intelligence platform used by more than 870 healthcare organizations and 17 million patients in the US. PatientIQ plans to expand into additional medical specialties, strengthen its real-world evidence platform and develop its direct-to-patient marketplace. Creator marketing platform Archive closed a strategic funding round backed by Anti Fund and Florida Funders, with participation from Battery Ventures, Stripe, Tiger Global, Lux Capital, Human Capital, and more than 50 founders and technology and consumer executives. The company did not disclose the size of the round. Archive uses AI-powered technology to help brands monitor social content and manage creator campaigns, from identifying influencers to turning successful posts into paid advertising. More than 1,000 brands currently use the platform, while two major AI labs are also running creator marketing campaigns through Archive. India’s deep-tech ecosystem also featured prominently. Zenergize Technologies raised $4 million in a Pre-Series A round led by Giraffe Studios, combining equity and venture debt. The company develops Silicon Carbide-based power electronics for applications including solar inverters and EV charging. The funding will support manufacturing expansion, engineering, R&D, and its sales and service network. Also Read: Piyush Goyal Proposes India-Japan Shark Tank Series to Boost Startup Funding Semiconductor metrology startup Makr Microsystems raised Rs. 10.2 crore in seed funding led by Bluehill VC, with Artha Venture Fund participating. Makr is developing Acoustic Atomic Force Microscopy, a technology designed to inspect structures beneath semiconductor surfaces without damaging them. The startup plans to use the capital for technology development, customer validation, and commercial deployment. Together, the week’s funding activity points to continued investor interest in specialized technology. Robotics perception, healthcare data, creator marketing, power electronics, and semiconductor inspection may serve different markets, but each targets infrastructure gaps that could become increasingly important as AI and advanced manufacturing expand.",
-        "impact": "تزریق سرمایه‌های جدید روند تجاری‌سازی ربات‌های هوشمند صنعتی و ساخت سخت‌افزارهای اختصاصی AI را به‌شدت تسریع می‌کند.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": 0.8,
-        "source": "Analytics Insight",
-        "url": "https://www.analyticsinsight.net/news/weekly-startup-funding-roundup-ai-robotics-deep-tech-draw-fresh-capital",
-        "clean_url": "https://www.analyticsinsight.net/news/weekly-startup-funding-roundup-ai-robotics-deep-tech-draw-fresh-capital",
-        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-04%2F9l0ebehc%2FWeekly-Startup-Funding-Roundup-AI-Robotics-Deep-Tech-Draw-Fresh-Capital.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "images": [
-            "https://media.assettype.com/analyticsinsight%2F2026-09-04%2F9l0ebehc%2FWeekly-Startup-Funding-Roundup-AI-Robotics-Deep-Tech-Draw-Fresh-Capital.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "https://images.assettype.com/analyticsinsight/2024-05/2df9abcd-45d0-437f-9a36-167417fe7202/AI_logo_white (2).png",
-            "https://media.assettype.com/analyticsinsight%2F2026-09-04%2F9l0ebehc%2FWeekly-Startup-Funding-Roundup-AI-Robotics-Deep-Tech-Draw-Fresh-Capital.jpg?w=480&auto=format%2Ccompress&fit=max",
-            "https://images.assettype.com/analyticsinsight/2024-05/392798dc-70b1-47bb-a49c-5cb6e3c0df9c/Untitled_1.png"
-        ],
-        "timestamp": 1788494400.0
-    },
-    {
-        "id": "9a19ccf0dc",
-        "title_fa": "پروژه Zenith؛ نسخه ویژه ویندوز ۱۱ برای توسعه‌دهندگان هوش مصنوعی",
-        "title_en": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "summary": [
-            "پروژه Zenith نسخه‌ای سبک و بدون مزاحمت از ویندوز ۱۱ است که ویژه دستگاه‌های قدرتمند با حداقل ۶۴ گیگابایت رم یکپارچه طراحی شده است.",
-            "این محیط به برنامه‌نویسان اجازه می‌دهد مدل‌های بزرگ زبانی با بیش از ۳۰ میلیارد پارامتر را به‌صورت کاملاً محلی و بدون نیاز به ابزارهای ابری اجرا کنند.",
-            "مایکروسافت در این نسخه تمام اعلان‌های اضافی، پیشنهادهای آزاردهنده و بخش‌های شلوغ سیستم‌عامل را غیرفعال کرده است."
-        ],
-        "full_text": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. The first Project Zenith devices ship with AMD’s Ryzen AI Halo chips. “Project Zenith devices come with a preconfigured Windows setup for development and a set of tools curated for what developers reach for first,” explains Logan Iyer, CVP of Windows platform and developer at Microsoft. “On these devices, developers can run 30B+ parameter models locally and unmetered — accelerating experimentation while helping reduce reliance on metered cloud tokens.” AMD announced the first Project Zenith device on stage at IFA earlier today, a miniature PC powered by Ryzen AI Halo chips. There will be more Project Zenith devices “in the coming months,” including ones with different silicon. These Project Zenith devices will include preinstalled developer tools like Visual Studio Code, GitHub Copilot, PowerToys, WinAppCLI, and Windows Dev Skills. The File Explorer has also been configured to show file extensions, hidden files, and the full path in the title bar. Microsoft has also disabled recently used files and folders and sync provider tips, as well as enabling long-path support. Start menu tips and account notifications are also turned off, and the PowerToys Command Palette is enabled by default. Some of these changes feel like ones that should just be enabled by default on every Windows 11 install, particularly anything that removes the annoying distractions in the operating system. Microsoft has been on a mission this year to greatly improve Windows 11, and Project Zenith is the developer-side effort. “Project Zenith is the result of listening to developers about what they need from Windows today, and where they want the platform to go next,” says Iyer. “As AI continues to transform software development, we are committed to evolving Windows alongside the community that builds on it.”",
-        "impact": "تحول در تجربه برنامه‌نویسی محلی و کاهش وابستگی استارتاپ‌ها به APIهای گران‌قیمت ابری.",
-        "tag": "نرم‌افزار",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "clean_url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "image": "http://www.bing.com/th?id=ONUT.qcUEVpjm1QR7k3IFzleT7Q&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.qcUEVpjm1QR7k3IFzleT7Q&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&strip=all&crop=0%2C10.435506901475%2C100%2C79.128986197049&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Tom_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788493440.0
-    },
-    {
-        "id": "2743fbd454",
-        "title_fa": "پروژه CoCo؛ ابزار جدید پژوهشگر MIT برای آموزش هوش مصنوعی به کودکان",
-        "title_en": "She studied CSE at Jaypee Institute, built games in India and reached MIT: Meet Shruti Dhariwal, whose CoCo is changing how children learn AI",
-        "summary": [
-            "شوروتی داریوال، فارغ‌التحصیل دانشگاه MIT، ابزار CoCo را با هدف تغییر نقش کودکان از مصرف‌کننده هوش مصنوعی به سازنده آن توسعه داد.",
-            "این ابزار به کودکان اجازه می‌دهد به‌جای تعامل ساده، دست به آزمایش و ساخت پروژه‌های مبتنی بر AI بزنند."
-        ],
-        "full_text": "Shruti Dhariwal, an Indian researcher and MIT Media Lab doctoral alumna, is exploring how children can move beyond simply using AI to creating and experimenting with it. After studying computer science and management in India and developing educational games at MadRat Games,",
-        "impact": "تغییر پارادایم در آموزش فناوری و برنامه‌نویسی به نسل جدید.",
-        "tag": "گجت",
-        "urgency": 3,
-        "sentiment": 0.7,
-        "source": "The Times of India",
-        "url": "https://www.msn.com/en-in/news/other/she-studied-cse-at-jaypee-institute-built-games-in-india-and-reached-mit-meet-shruti-dhariwal-whose-coco-is-changing-how-children-learn-ai/ar-AA2bwWoL",
-        "clean_url": "https://www.msn.com/en-in/news/other/she-studied-cse-at-jaypee-institute-built-games-in-india-and-reached-mit-meet-shruti-dhariwal-whose-coco-is-changing-how-children-learn-ai/ar-AA2bwWoL",
-        "image": "https://static.toiimg.com/thumb/msid-133706053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "images": [
-            "https://static.toiimg.com/thumb/msid-133706053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-        ],
-        "timestamp": 1788491820.0
-    },
-    {
-        "id": "c372c8e22a",
-        "title_fa": "ورود یوگرین به خانه هوشمند با هاب مبتنی بر هوش مصنوعی محلی",
-        "title_en": "This NAS company wants to run your local smart home",
-        "summary": [
-            "برند یوگرین با معرفی HomeAgent پلتفرمی همه‌فن‌حریف شامل ذخیره‌سازی خانگی، کنترل خانه هوشمند و پردازش محلی ویدیوها رونمایی کرد.",
-            "این سیستم بدون نیاز به اشتراک ماهانه و با تمرکز بر حفظ حریم خصوصی، پردازش‌های هوش مصنوعی را کاملاً روی خود دستگاه انجام می‌دهد.",
-            "پیشرفته‌ترین نسخه این هاب با تراشه قدرتمند Nvidia Jetson Thor و قیمت نزدیک به ۱۰ هزار دلار عرضه می‌شود."
-        ],
-        "full_text": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home — in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally. This NAS company wants to run your local smart home Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. Ugreen’s HomeAgent combines a NAS, a security camera NVR, and an on-device AI assistant in one box, maxing out with a $9,999 Nvidia Jetson Thor version. At the core of Ugreen’s HomeAgent system is a hub that acts as the brain of your smart home, running a local-first AI (with some caveats) that you can interact with using natural language via Uliya. There are three hub configurations to choose from, each of which stores all data locally and processes video footage on-device, keeping it local and private and without monthly subscription fees. Albeit likely at a higher upfront cost. The big pitch is that your data never needs to leave your home, addressing two key smart-home concerns: privacy and recurring subscriptions. Ugreen says its powerful AI runs on the hub, providing features like cross-camera tracking, smart alerts for people, vehicles, pets, and packages, and live status questions such as “where is my pet now?” There’s also AI-powered video search and text descriptions of events, along with natural language voice control of smart home devices and automations. Along with local storage of your camera footage, the system can store personal files, including music, movies, and photos, just like a NAS. All this comes without monthly storage fees for video footage that are common with popular cloud-based solutions, such as Amazon’s Ring and Alexa and Google’s Nest cameras and Gemini for Home. The HomeAgent HA100 will launch with early bird pricing of $899 which increases to $2999 of the HA100 Pro, and a whopping $9999 for the Nvidia-powered MasterAgent MA100 model. The systems will launch on Kickstarter in October, after which Ugreen suggests that pricing will roughly double. The idea of combining your digital home and life on a single hub that uses local AI to store, manage, and run everything is fast gaining traction. Companies like SwitchBot, Reolink, and Aqara have made moves in this space, and this week at IFA, Anker launched a similar product called the Eufy MindBase. Both systems use the Matter smart home standard to incorporate smart home devices from different brands. I visited Ugreen’s booth at IFA and got a hands-on demo, where I controlled Nanoleaf lights alongside smart blinds with voice commands to Uliya via the HomeAgent hub. The HomeAgent hub is a Matter controller and will support third-party devices using Wi-Fi, Zigbee, Thread, Bluetooth, NFC, ONVIF/RTSP, and PoE. Ugreen says it will publish a device compatibility list, which is currently fairly small and includes devices from Aqara, ThirdReality, SwitchBot, and Eve. In theory, any Matter device should work, but the first phase supports only lights, switches, sensors, and curtains — and the company advises sticking with products it has approved. Ugreen is also launching a smart speaker to run Uliya, along with a line of security cameras: the SynCare Indoor Cam ID500 Pro, the SynCare POE Cam OD600 Pro, and a battery-powered SynCare Cam OD800 Pro. A unique integration is with Ugreen’s new E Ink Spectra-powered digital photo frame that can display your photos stored on the hub, which again need never go into the cloud. The three versions of the HomeAgent hub offer increasing levels of compute for more advanced processing and broader AI-powered features: The HomeAgent HA100 can execute simple, basic rule-based automation and control using specific voice commands; the HomeAgent HA100 Pro adds semantic and context-aware understanding; and the MasterAgent MA100 version brings the highest level of local compute power via an NVIDIA Jetson Thor T5000 platform. While everything can run locally on the HomeAgent, features such as push notifications and remote viewing of your security camera footage require internet access. There is also an option to use the cloud for the Uliya voice assistant. Keeping all your data inside your home, while still enjoying the benefits AI can bring to managing your smart home and digital life, is a compelling idea. Whether Ugreen’s Home Agent succeeds will depend on how well it integrates with what you already own and how easy it is to set up and use. Photos by Jennifer Pattison Tuohy / The Verge",
-        "impact": "تغییر الگوی بازار خانه هوشمند به سمت پردازش محلی و حذف هزینه‌های اشتراک ماهانه ابری.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-        "clean_url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-        "image": "http://www.bing.com/th?id=ONUT.QVnhutVs5dLNxqQR1kvjsg&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.QVnhutVs5dLNxqQR1kvjsg&pid=News",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Jenn_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788489660.0
-    },
-    {
-        "id": "5139be8d3a",
-        "title_fa": "خرید ۱۲٫۹ میلیارد دلاری هاگینگ فیس توسط انویدیا",
-        "title_en": "NVIDIA (NVDA)’s Hugging Face Deal Tests the Next Phase of its AI Strategy",
-        "summary": [
-            "انویدیا با تصاحب ۱۲.۹ میلیارد دلاری هاگینگ‌فیس، جایگاه خود را در زیست‌بوم هوش مصنوعی متن‌باز فوق‌العاده تقویت کرد.",
-            "دسترسی به جامعه ۱۸ میلیونی توسعه‌دهندگان هاگینگ‌فیس، انویدیا را از یک تراشه‌ساز صرف به بازیگر اصلی لایه نرم‌افزار تبدیل می‌کند.",
-            "طبق اعلام انویدیا، این پلتفرم همچنان آزاد باقی خواهد ماند و از سخت‌افزارهای مختلف پشتیبانی خواهد کرد."
-        ],
-        "full_text": "NVIDIA Corporation (NASDAQ:NVDA) has agreed to acquire Hugging Face for approximately $12.93 billion, making it one of Nvidia's largest acquisitions. The deal gives Nvidia a much stronger position in open-source/open-weight AI, an area gaining traction because developers can customize models and potentially deploy them at lower costs than proprietary alternatives. Hugging Face has more than 18 million users and millions of models, datasets, and applications, giving NVIDIA Corporation (NASDAQ:NVDA) access to a large developer community. Nvidia says the platform will remain open and continue supporting models and hardware from different vendors. The acquisition also fits Nvidia's broader strategy of expanding beyond GPUs and becoming a more influential player across the AI ecosystem. The company has increasingly used investments and partnerships with AI companies to reinforce demand for its computing infrastructure. An Expanding AI Opportunity The acquisition could help NVIDIA Corporation (NASDAQ:NVDA) move beyond supplying the chips used to train and run AI models. Hugging Face gives Nvidia exposure to the developer and model layer, allowing it to participate more directly in how AI models are created, distributed, and deployed. That could strengthen Nvidia's strategic position as AI adoption expands. A larger open-model ecosystem could ultimately benefit Nvidia's core semiconductor business. Developers building, fine-tuning and deploying models require significant computing resources, and Nvidia could use its relationship with Hugging Face's large developer base to encourage more workloads on Nvidia-powered infrastructure. Reuters notes that the deal is intended partly to strengthen Nvidia's connections with developers and potentially increase demand for its processors. NVIDIA Corporation (NASDAQ:NVDA) is not betting exclusively on proprietary AI models from companies such as OpenAI and Anthropic. By owning Hugging Face, it gains exposure if open-weight models become an increasingly important part of the AI market. Barron's characterized the transaction as giving Nvidia exposure to the rapidly expanding open-model segment while positioning it alongside proprietary AI. Owning Hugging Face could prevent another major technology company from acquiring a platform that has become important to the AI developer ecosystem. It also gives Nvidia a stronger position against growing competition, including open-weight AI models emerging from China. Risks Behind the Expansion At nearly $13 billion, the acquisition is a significant investment for a platform that was valued at $4.5 billion in its last reported funding round in 2023. NVIDIA Corporation (NASDAQ:NVDA) will need to generate meaningful strategic and financial value from Hugging Face to justify the substantial premium. Hugging Face's appeal comes partly from its open nature. Nvidia's ownership could raise concerns that the platform may eventually favor Nvidia hardware or models. Reuters reported that some analysts and developers worry Nvidia could prioritize its own hardware at the expense of competing chip providers. Even if Nvidia maintains its current commitment to openness, perceptions of reduced neutrality could undermine Hugging Face's appeal.",
-        "impact": "تسلط بی‌سابقه انویدیا بر تمامی لایه‌های سخت‌افزار، نرم‌افزار و جامعه توسعه‌دهندگان هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "Insider Monkey",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
-        "clean_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
-        "image": "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
-        "images": [
-            "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
-            "https://s.yimg.com/lo/mysterio/api/32dd2fa9de4dbe23b0d31f98ab68088b1708abc71b20497759943281bc40561d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F07c0b7e7d56cc1de166e2a28043049b3.jpg",
-            "https://s.yimg.com/cv/apiv2/finance/article/fallback_thumb/opt/GuruFocus.png",
-            "https://s.yimg.com/lo/mysterio/api/2b1bb872c3a0dc0e27e51f0c36ac505cb38e7a30e134fa8c3d88a5c63a8546ec/lightyear_networkapi/resizefill_w194_h109%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fce92e7ae6d602b61807a836f4291633e.jpg"
-        ],
-        "timestamp": 1788485787.0
-    },
-    {
-        "id": "e98d84f236",
-        "title_fa": "فرمول ساده پل گراهام برای رشد و موفقیت استارتاپ‌ها",
-        "title_en": "Paul Graham Has a Surprisingly Simple Rule for Startups: Stop Trying to Build th...",
-        "summary": [
-            "هم‌بنیان‌گذار Y Combinator تاکید دارد استارتاپ‌ها نباید از ابتدا وقت خود را صرف ساخت یک محصول بی‌نقص کنند.",
-            "به باور گراهام، ساخت یک محصول اولیه ساده (MVP) و افزودن قابلیت‌هایی که مستقیماً باعث رشد می‌شوند، بهترین راه حل چالش‌های استارتاپ است."
-        ],
-        "full_text": "Paul Graham Has a Surprisingly Simple Rule for Startups: Stop Trying to Build the Perfect Product — ‘Add Whatever Will Make You Grow’ Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below. Y Combinator co-founder Paul Graham argued that startup growth can do more than eliminate business problems, helping founders determine what products and features to build. Paul Graham On Startup Growth On Tuesday, Graham made the comments in a post on X, explaining that growth could serve as a practical way for startups to work through difficult product and business decisions. \"Growth doesn't just solve a startup's problems in the sense of making them go away,\" Graham wrote on X. He added, \"It solves them like you solve a math problem.\" Don't Miss: - Think Your 'Safe' Stocks Protect You? You're Ignoring the Real Growth Triggers — Here's What to Add Now - Caught With Nothing Saved for Retirement? These 5 Game‑Changing Tips Could Still Save You Graham used product development as an example, noting that founders do not necessarily need to determine the perfect product from the beginning. \"It can design your product for you: start with something minimal, then add whatever will make you grow,\" Graham wrote. Growth doesn't just solve a startup's problems in the sense of making them go away. It solves them like you solve a math problem. For example, it can design your product for you: start with something minimal, then add whatever will make you grow. — Paul Graham (@paulg) September 2, 2026 Trending: Think you're saving enough for your kids? You might be dangerously off — see why Startup Advice From O'Leary, Cuban Last week, Investor Kevin O'Leary urged startup founders to recognize failure, cut losses and avoid pouring more money into bad ideas, calling the refusal to accept failure \"the worst mistake\" and noting that 80% of startups fail. Mark Cuban similarly advised entrepreneurs to prioritize bootstrapping, organic growth and customer acquisition over outside funding. Cuban said, \"The longer you can hold out before you raise money, the richer you are going to be,\" while stressing that fundraising was \"an obligation\" and that founders should keep costs low and focus on cash flow over sales. AI Investment and US Growth Andreessen Horowitz increased its fifth growth fund to $8.5 billion, targeting growth-stage technology companies scaling into global businesses. See Also: Still Learning the Market? These 50 Must-Know Terms Can Help You Catch Up Fast The firm had focused on opportunities in AI, robotics, defense, health care and computing infrastructure, following its $1.1 billion Machine Age Fund for AI infrastructure.",
-        "impact": "تغییر تمرکز بنیان‌گذاران استارتاپی از کمال‌گرایی در محصول به سمت توسعه مبتنی بر رشد سریع.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "Benzinga",
-        "url": "https://finance.yahoo.com/small-business/articles/paul-graham-surprisingly-simple-rule-003109038.html",
-        "clean_url": "https://finance.yahoo.com/small-business/articles/paul-graham-surprisingly-simple-rule-003109038.html",
-        "image": "https://media.zenfs.com/en/benzinga_79/42f506592ba323ca59d6b80c90453197.jpg",
-        "images": [
-            "https://media.zenfs.com/en/benzinga_79/42f506592ba323ca59d6b80c90453197.jpg",
-            "https://s.yimg.com/lo/mysterio/api/9b939287b473ded59b47196c20e6163299a4add913d792001ddacf0532e2193e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F42f506592ba323ca59d6b80c90453197.jpg",
-            "https://s.yimg.com/lo/mysterio/api/8d1ed2b165b067b99d1e28cf5f03bcee7d4aa938b0b3d0831cfd9521028148de/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F42f506592ba323ca59d6b80c90453197.jpg",
-            "https://s.yimg.com/lo/mysterio/api/11c98d342e7805b980e274206517d017218643926ef587dd425e52c0038e9d9c/lightyear_networkapi/resizefill_w194_h109%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc7c3cee1c13e6b2ca2a03631a7b7f3cd.jpg"
-        ],
-        "timestamp": 1788482187.0
     }
 ]
