@@ -1,5 +1,28 @@
 [
     {
+        "id": "d69d2bede1",
+        "title_fa": "حل مسئله ۱ میلیون دلاری ریاضی توسط اوپن‌ای‌آی و اتهام سرقت علمی",
+        "title_en": "He was close to a $1 million breakthrough. Then OpenAI swooped in.",
+        "summary": [
+            "ایجنت‌های هوش مصنوعی اوپن‌ای‌آی موفق به حل یکی از مسائل تاریخی و فوق‌العاده پیچیده ریاضی نظری (مسائل هزاره) شده‌اند.",
+            "استاد دانشگاه نیویورک ادعا کرده اوپن‌ای‌آی بدون اجازه از نتایج سال‌ها پژوهش او برای آموزش این مدل‌ها استفاده کرده است.",
+            "این موفقیت جهش بزرگ AI در علوم پایه را نشان می‌دهد، اما هم‌زمان بحران حقوقی سرقت داده‌های علمی را داغ‌تر می‌کند."
+        ],
+        "full_text": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.",
+        "impact": "اثبات توانایی هوش مصنوعی در حل پیچیده‌ترین مسائل علمی جهان همراه با افزایش فشارهای حقوقی بر سر داده‌های آموزشی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 9,
+        "sentiment": 0.1,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/he-was-close-to-a-1-million-breakthrough-then-openai-swooped-in/ar-AA2c6XcI",
+        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/he-was-close-to-a-1-million-breakthrough-then-openai-swooped-in/ar-AA2c6XcI",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7p4b.img?w=1280&h=960&m=4&q=88",
+        "images": [
+            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c7p4b.img?w=1280&h=960&m=4&q=88"
+        ],
+        "timestamp": 1789293600.0
+    },
+    {
         "id": "5d75bbe209",
         "title_fa": "تبدیل مدل هوش مصنوعی کلود به دستیار معامله‌گری کریپتو",
         "title_en": "Solana Price Prediction: $150 SOL Comes Into Focus as AlphaPepe Turns Claude Into an AI Trading Interface",
@@ -6998,30 +7021,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788433200.0
-    },
-    {
-        "id": "55778c367d",
-        "title_fa": "خریده شدن استارتاپ AI توسط ادوبی و جذب سرمایه‌های جدید",
-        "title_en": "Startup news and updates: Daily roundup (September 3, 2026)",
-        "summary": [
-            "ادوبی با خرید استارتاپ هوش مصنوعی Rilo درصدد تقویت ایجنت‌های هوشمند خود در بخش مارکتینگ و تحلیل بازار است.",
-            "در کنار این معامله، استارتاپ‌هایی نظیر Cradlewise و Nextgen Finance موفق به جذب سرمایه‌های میلیون دلاری در بخش‌های سلامت و فین‌تک شدند."
-        ],
-        "full_text": "From Cradlewise’s Series A and Makr Microsystems’ seed round to Adobe’s acquisition of Rilo and AMD’s collaboration with Delhi University,YourStorybrings you today's headlines and the latest news across sectors. The Open Field is working with tribal and forest-dependent communities in Jharkhand and Chhattisgarh to formalise forest-produce value chains. It has deployed portable Ayan Hubs for decentralised processing and is building a data-led Forest OS to improve traceability and buyer linkages. Business Nextgen Finance has raised Rs 215 crore with prior RBI approval to scale its secured MSME lending beyond India’s top 100 locations. The round, led by Beams Fintech Fund and others, will support technology investments and geographic expansion. Cradlewise raised $12 million in Series A funding led by 3one4 Capital and Prudent Investment Management. The company said the capital will go towards growth, channel expansion, research and development, and entry into international markets for its smart infant sleep system. Global design software company Adobe has acquired Indian AI startup Rilo for an undisclosed amount. Rilo’s founders confirmed the acquisition in their LinkedIn posts. Founded in 2025 by IIT Bombay alumni Georgi Boby and Dhruv Jaglan, Rilo has developed AI agents designed to provide insights into enterprise go-to-market strategies. The acquisition is expected to add Rilo’s AI capabilities to Adobe’s customer experience and marketing offerings. Rilo had earlier raised $1 million from Peak XV, DeVC, and Day Zero Ventures. Homegrown beauty and wellness company VLCC has raised Rs 110 crore in funding from BlackSoil Capital to support its next phase of growth across its beauty, wellness, and personal care businesses. According to a statement, VLCC, which is backed by global private equity firm Carlyle, will utilise this funding to support its ongoing business requirements and growth opportunities, including strengthening its operating platform and supporting the expansion of its businesses and subsidiaries.",
-        "impact": "تقویت موقعیت ادوبی در ابزارهای هوش مصنوعی سازمانی و تزریق سرمایه جدید به استارتاپ‌های نوپا.",
-        "tag": "استارتاپ",
-        "urgency": 7,
-        "sentiment": 0.8,
-        "source": "YourStory",
-        "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
-        "clean_url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-3-2026",
-        "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
-        "images": [
-            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
-            "https://images.yourstory.com/cs/4/8e7cc4102d6c11e9aa979329348d4c3e/winniesingh7-1788418170891.png?fm=png&auto=format&w=800&blur=500",
-            "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Rilo-FINAL-1788413883942.png?fm=png&auto=format&w=800&blur=500",
-            "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image4uze-1628144908028-1631094743679-1749187924112.jpg?fm=png&auto=format&blur=500"
-        ],
-        "timestamp": 1788432960.0
     }
 ]
