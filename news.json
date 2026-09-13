@@ -1,5 +1,49 @@
 [
     {
+        "id": "d23a2f16f9",
+        "title_fa": "نقشه راه هیوندای: تراشه‌های انویدیا و توسعه هوش مصنوعی اختصاصی",
+        "title_en": "Hyundai Motor Group to Use NVIDIA in 2028, In-House AI by 2029",
+        "summary": [
+            "گروه خودروسازی هیوندای قصد دارد از سال ۲۰۲۸ پردازنده‌های گرافیکی انویدیا را در خودروهای نسل جدید خود به کار گیرد.",
+            "این شرکت برنامه‌ریزی کرده تا سال ۲۰۲۹ سیستم‌ها و تراشه‌های هوش مصنوعی اختصاصی خود را به تولید برساند."
+        ],
+        "full_text": "Hyundai Motor Group to Use NVIDIA in 2028, In-House AI by 2029  조선일보",
+        "impact": "این اقدام وابستگی هیوندای به انویدیا را در درازمدت کاهش داده و رقابت در بازار خودروهای خودران را داغ‌تر می‌کند.",
+        "tag": "خودرو",
+        "urgency": 8,
+        "sentiment": 0.6,
+        "source": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUFRcW5VeHhPWU8tX2NfRkwtRG1zdUJrS2hNcUN0UWx4ME1pM3BrbU1aU1hYaXkxRW9ESTd0TTBpLXA4anFKOUJtci1YWmJVNm1Qbi1WZnotTWtEeEo2OHJuZS1mVjc3NjJaUWVmdGFkcWZGYUxUVFJSYjl3RXplMzlTUVB3QVR2?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUFRcW5VeHhPWU8tX2NfRkwtRG1zdUJrS2hNcUN0UWx4ME1pM3BrbU1aU1hYaXkxRW9ESTd0TTBpLXA4anFKOUJtci1YWmJVNm1Qbi1WZnotTWtEeEo2OHJuZS1mVjc3NjJaUWVmdGFkcWZGYUxUVFJSYjl3RXplMzlTUVB3QVR2",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789257743.0
+    },
+    {
+        "id": "72ad026e2a",
+        "title_fa": "توسعه سریع و بی‌سابقه دیتاسنترهای هوش مصنوعی در آمریکا",
+        "title_en": "AI data centers continue expanding across the US",
+        "summary": [
+            "تقاضای روزافزون برای توان پردازشی، موج جدیدی از احداث و گسترش دیتاسنترهای عظیم را در سراسر ایالات متحده ایجاد کرده است.",
+            "تامین انرژی پایدار و زیرساخت‌های خنک‌کننده به چالش اصلی غول‌های فناوری در مسیر توسعه این مراکز تبدیل شده است."
+        ],
+        "full_text": "AI data centers continue expanding across the US  Fox News",
+        "impact": "رشد سریع این مراکز فشار بی‌سابقه‌ای به شبکه‌های برق منطقه‌ای وارد کرده و تقاضای سخت‌افزار را بالا برده است.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.3,
+        "source": "Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQVBjbndCT1djWXkydHBkWERxeGRHSnJyR1IyaERBX1Z6ajNoTEJfVkt4ZE83djdrSVh4U0xuZ3RqTVQwaTI0RXFYX2I1TFB4U1lSaUtB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQVBjbndCT1djWXkydHBkWERxeGRHSnJyR1IyaERBX1Z6ajNoTEJfVkt4ZE83djdrSVh4U0xuZ3RqTVQwaTI0RXFYX2I1TFB4U1lSaUtB",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789252078.0
+    },
+    {
         "id": "c296c07ef2",
         "title_fa": "ثبت پتنت جدید NewHydrogen برای تولید هیدروژن حرارتی بدون الکترولیز",
         "title_en": "NewHydrogen has filed a third patent around ThermoLoop, its heat-driven process designed to make hydrogen without relying on conventional electrolysis",
@@ -136,6 +180,32 @@
         "timestamp": 1789232160.0
     },
     {
+        "id": "b23b2f7393",
+        "title_fa": "هشدار برندگان مدال فیلدز درباره آسیب هوش مصنوعی به تفکر عمیق",
+        "title_en": "Is AI Undermining the Human Foundations of Innovation?",
+        "summary": [
+            "۲۵ ریاضیدان برجسته دنیا با صدور بیانیه‌ای اعلام کردند میان‌بر زدن هوش مصنوعی در حل مسائل، فرایند درک مفهومی را در انسان تضعیف می‌کند.",
+            "چالش و تلاش ذهنی، زیربنای اصلی نوآوری است و دریافت پاسخ‌های آماده می‌تواند توانایی کشف‌های بزرگ را از دانشمندان بگیرد.",
+            "ارزش واقعی ریاضیات در رسیدن به جواب نیست، بلکه در مسیر شناختی متفاوتی است که ذهن در طول حل مسئله طی می‌کند."
+        ],
+        "full_text": "Key points - AI can produce answers without reproducing the human thought that once gave them meaning. - Struggle itself is productive as it generates new thinking that drive discovery. - Thought is the cognitive substrate of innovation, and bypassing too much of it may cost us insight. Remember when the internet was hailed as a force for good? The promise was a sort of democratization of information and a vast network of connectivity. And while that may have been accomplished in many instances, the internet also emerged as a force of alienation and separation. Unintended, but nevertheless real. Today, AI's force for good, may be driving a different wedge into human cognition itself. In fact, AI might be forcing us to separate the product of thought from the process of thinking itself. I believe that this is consequential and have written about it extensively. In The Artifact of Thought, I wrote that cognitive output, from analysis to essays, has typically served as evidence of an invisible cognitive process. We couldn't see \"the thinking\" so we inferred it from what a person produced. Today, AI makes that inference increasingly uncertain. There is another part of this story that sometimes goes missing. In Before “I Think, Therefore I Am,” I wrote about the very human struggle that often precedes understanding. Descartes gave us the memorable \"cogito\", but getting there required doubt or uncertainty. You might even call it a kind of cognitive demolition. The path mattered because the path changed the thinker. A new debate taking place in mathematics extends that idea in an interesting direction. It might just be that struggle itself changes more than just the person, it changes the field as well. What Happens on the Way to an Answer Twenty-five Fields Medalists, including Terence Tao, just issued a declaration about the growing role of AI in mathematics. Their concern pushes beyond whether AI can solve increasingly difficult problems. They are asking what the very task of mathematical problem-solving is meant to accomplish in the first place. The declaration describes solving problems as a “tool and proxy” for conceptual understanding and insight. That phrasing—similar to the term \"artifact\"—caught my attention. This concept moves the focus away from the answer and toward whats actually happens while looking for it. A difficult problem can occupy mathematicians for years if not a lifetime. During that time they evolve and change as a function of the methods, abstractions and even failures. In a word, they think. And in this cognitive journey they sometimes discover questions that prove more interesting (and important) than those they began with. Those transitory or intermediate discoveries become an integral part of mathematics. They become the basis for learning and not just discovery. Tao describes famous mathematical problems as “landmarks and lighthouses” because the process becomes a guidepost for navigation. And this \"map\" can become part of the mathematical culture. But AI changes this dynamic. A system may generate a correct proof without the long human process that once was essential to its discovery. In fact, the \"time of computation\" feels like another measure of achievement that competes with the solution itself. And then the theorem gets added to the literature, while little if any of the conceptual development that might have occurred during the human search enters our understanding. Productive Cognitive Friction This, to me, gets at something more important than just the loss of skill. We typically treat friction as an inefficiency. Faster is better, and fewer obstacles usually facilitate the smooth path of progress. Yet cognitive work may be a special case because when it comes to thinking, friction is productive. Uncertainty keeps us thinking and failed attempts compel us to rethink and rework our assumptions. Confusion, with all its baggage, can push us toward a concept we didn't know we needed. I think of this conceptually as productive cognitive friction. The struggle toward an answer creates intellectual material along the way, and some of that material—the residue of thought—can become more important and consequential than the answer that initially generated it. This is why I think the current debate in mathematics feels important beyond mathematics itself. So here's the key insight: thought is the cognitive substrate for innovation. Innovation depends on ideas that often emerge along the very path of innovation. Scientific inquiry can expose an unexpected relationship or synergy. A difficult clinical problem can generate a better question leading to discovery. Writing can reveal and structure an idea that was only partially present before the writer tried to put pencil to paper. Much of discovery happens along the path of discovery while the destination is still uncertain. And perhaps this idea is capture in a rather mundane bumper sticker slogan: Happiness is a journey, not a destination. More Answers, Less Understanding? AI now allows us to pass through some of this uncertainty very quickly. And yes, that's clearly valuable. If AI discovers a new Alzheimer’s treatment, cancer therapy or even a material with superior properties, the outcome carries real value regardless of how much human struggle preceded it. But the mathematics debate exposes a bit more complexity here. We can accumulate results while failing to capture the understanding that might normally develop around them. More proofs could coexist with thinner (compromised) human comprehension of the path that produced those proofs. But is that the true goal of science or some techno-edited version of reality more suited to AI computation and not human cognition? That possibility becomes more important if some of the missing concepts would have helped generate discoveries elsewhere. We need to understand and remember, the products of thought gave us a reasonably good way to infer the cognitive activity behi",
+        "impact": "این هشدار می‌تواند رویکرد دانشگاه‌ها و مراکز تحقیقاتی را در استفاده بی‌رویه از AI در پژوهش‌های بنیادین تغییر دهد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Psychology Today",
+        "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/is-ai-undermining-the-human-foundations-of-innovation",
+        "clean_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/is-ai-undermining-the-human-foundations-of-innovation",
+        "image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/elchinator-math-work-4711302.jpg?itok=9l8G_V2B",
+        "images": [
+            "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/elchinator-math-work-4711302.jpg?itok=9l8G_V2B",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-08/2026-09.png.jpg?itok=4OW8Fjd3",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e",
+            "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M"
+        ],
+        "timestamp": 1789230780.0
+    },
+    {
         "id": "a5010f2d49",
         "title_fa": "انصراف ناگهانی لری الیسون از فروش سهام اوراکل",
         "title_en": "Larry Ellison Cancels His Plan to Sell Oracle Stock - Oracle",
@@ -230,6 +300,31 @@
         "timestamp": 1789219140.0
     },
     {
+        "id": "3f60d85cfe",
+        "title_fa": "تمرکز اجلاس فناوری کشاورزی مجارستان بر فین‌تک و هوش مصنوعی",
+        "title_en": "Figyelo Meg",
+        "summary": [
+            "کنفرانس بزرگ بخش کشاورزی مجارستان با محوریت جذب سرمایه‌گذاری و به‌کارگیری هوش مصنوعی در زنجیره تامین برگزار می‌شود.",
+            "لیویا ژابو، از مدیران سابق مسترکارت و فدرال رزرو، هدایت تیم‌های استارتاپی را در این رویداد بر عهده دارد."
+        ],
+        "full_text": "Livia Judith Szabo is a leading figure in the revolution of financial innovation and payment systems. Following the turn of the millennium, as Regional Vice President of MasterCard and head of the global product development team, she significantly influenced the financial sector with innovative products in Central and Eastern Europe. After three successful years, she joined OTP Bank, demonstrating her expertise during major acquisitions, technological breakthroughs, and regulatory changes. A highlight of her career was in 2007 when she was appointed CEO of Giro Zrt. (now Nexi). In 2009, she moved to the United States, where she worked at the FED, contributing to the establishment of the instant payment system (FedNow) Additionally, in Southern California, she took the board position of the Airspeed Equity Private Equity firm and became recognized as an angel investor in South California. With Moshulu, founded in 2014, her team helps hundreds of European startups enter the US market annually. Recently, she relocated the company's headquarters to Hungary but continues to work mainly with startups in the US market, focusing on agricultural, AI,fintech, medtech, and technology companies. Furthermore, as a partner, she participated in the development of The Digital Dollar Project, enhancing her professional contributions to innovation and digital payment systems, particularly in the CBDC area. Currently, she acts as a strategic advisor and mentor for medium and large enterprises and supports numerous non-profit initiatives with her commitment. Since 2015, she has been the President of the American-Hungarian Chamber of Commerce in California and Nevada, fostering economic relations between the United States and Hungary. 2nd–3rd December 2026 Siófok, Hotel Azúr Wellness **** The Portfolio Group's Agricultural Sector Conference is already the largest agribusiness event and summit in Hungary in terms of content. The aim of the conference is to summarize and analyze the year's outstanding domestic and international agribusiness events and to provide a forecast for the coming years to help agribusiness players make successful business and investment decisions. The conference offers a three-day professional programme: the event will start with a festive professional evening, followed by two further days of highly complex and exhaustively detailed professional content. The conference will feature top leaders from the national government, banking, corporate and advocacy sectors who will provide first-hand, relevant information that will be useful for all players in the agricultural economy - producers, food manufacturers and traders. It will also provide a wide range of showcasing and market-building opportunities for businesses serving the agricultural sector - input manufacturers, integrators, machinery distributors, finance and other service providers. In addition to a rich programme of events, the conference will provide an opportunity for professional networking, networking and business meetings, with high-quality technical presentations and round-table discussions, and an entertainment programme to keep participants energised and relaxed. The Portfolio Group will present the annual awards in eleven categories at the Agribusiness Conference, which recognize the most outstanding professional achievements and accomplishments in the agribusiness sector. The prizes are awarded by a jury of leading figures in the agricultural sector on the basis of applications submitted by the operators in the sector. Our lives—and with them, the way companies operate—are becoming digitized at an astonishing pace; paper-based processes are disappearing, and we only visit branch offices for in-person transactions when dealing with the most complex matters; and we communicate and handle matters via digital channels 24/7. But now, the AI revolution and the agentic AI trend are turning the digital world, internal operations, and customer-facing front-ends upside down. AI agents capable of acting autonomously, as well as AI tools and enterprise solutions that support specific business, compliance, and administrative processes, offer companies previously unimaginable speed and extraordinary potential for efficiency gains. What do we do with the hours of work we’ve gained and the labor we’ve saved? Is artificial intelligence disrupting core business as well? What is vibe coding good for? At our event for both large corporations and SMEs, we’ll be seeking and providing answers to these questions and more! The technological race of the coming decades will not be decided by who makes the best use of off-the-shelf solutions. Rather, it will be decided by who is able to create, manufacture, and own the technologies without which others will not be able to function. A new battery that stores energy longer. A material that is lighter, stronger, or cheaper to produce than its predecessors. A drug or diagnostic procedure that provides a solution to previously untreatable diseases. A robotic system, defense technology, a new manufacturing process, or a space industry advancement. None of these are created overnight: they require in-depth research, complex expertise, significant capital, and persistent development. This is what we call deep tech. Deep tech does more than just create new products or services. It can reshape the balance of power across entire industries and build knowledge, manufacturing capacity, and intellectual property that are difficult to replicate or replace after the fact. At Portfolio’s first Deep Tech conference, we will examine how a scientific or engineering breakthrough becomes a marketable company and then an exportable industrial capability. Where do Europe and Hungary stand in the technological competition between the United States and China? In which areas do we have genuine expertise and room to maneuver, where do we depend on others, and how can we move beyond the role of mere users or assembly plants",
+        "impact": "این رویداد زمینه ورود بیشتر استارتاپ‌های هوش مصنوعی و فین‌تک را به بخش کشاورزی اروپا فراهم می‌کند.",
+        "tag": "استارتاپ",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Portfolio.hu",
+        "url": "https://www.portfolio.hu/en/events/speaker/meg-figyelo/10374",
+        "clean_url": "https://www.portfolio.hu/en/events/speaker/meg-figyelo/10374",
+        "image": "https://eventscdn.portfolio.hu/portfolio/instructors/szabo_livia-judith_10374.jpg",
+        "images": [
+            "https://eventscdn.portfolio.hu/portfolio/instructors/szabo_livia-judith_10374.jpg",
+            "https://eventscdn.portfolio.hu/portfolio/conferences/asz_26_web_620x620-hu-1990-rlmr.jpg",
+            "https://eventscdn.portfolio.hu/portfolio/conferences/asz26_web_768x259-hu-1990-rfam.jpg",
+            "https://eventscdn.portfolio.hu/portfolio/conferences/p_ai_digital_transformation_2026_web_620x620-hu-2032-rz5r.jpg"
+        ],
+        "timestamp": 1789216140.0
+    },
+    {
         "id": "be9f0de3fc",
         "title_fa": "رونمایی هانوا از راهکار هوش مصنوعی فضایی در عرصه بین‌المللی",
         "title_en": "Hanwha unveils cutting-edge ‘Space AI Solution’ for the first time overseas",
@@ -321,6 +416,28 @@
         "timestamp": 1789203900.0
     },
     {
+        "id": "c65a2725e3",
+        "title_fa": "چالش غول‌های فناوری در مهار سرعت فزاینده توسعه هوش مصنوعی",
+        "title_en": "Why It's Difficult for Tech Companies to Rein In A.I.",
+        "summary": [
+            "سرعت رشد و پیچیدگی مدل‌های جدید هوش مصنوعی بسیار سریع‌تر از ابزارها و چارچوب‌های نظارتی موجود حرکت می‌کند.",
+            "نبود مکانیسم‌های ارزیابی هم‌زمان، مهار خطرات احتمالی و کنترل رفتار الگوریتم‌ها را برای شرکت‌های تکنولوژی سخت کرده است."
+        ],
+        "full_text": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it.",
+        "impact": "کندی سیستم‌های نظارتی احتمالاً منجر به تصویب قوانین سخت‌گیرانه‌تر و کند شدن فرایند انتشار عمومی مدل‌ها می‌شود.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+        "clean_url": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+        "image": "https://static01.nyt.com/images/2026/09/11/business/00ai-safeguards/00ai-safeguards-facebookJumbo.jpg",
+        "images": [
+            "https://static01.nyt.com/images/2026/09/11/business/00ai-safeguards/00ai-safeguards-facebookJumbo.jpg"
+        ],
+        "timestamp": 1789203660.0
+    },
+    {
         "id": "baad3f9dab",
         "title_fa": "نقشه راه انتروپیک برای مهار سرعت توسعه هوش مصنوعی",
         "title_en": "Anthropic CEO outlines plan to ‘pace the frontier’",
@@ -389,6 +506,32 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789201055.0
+    },
+    {
+        "id": "16bec16eef",
+        "title_fa": "برنامه‌ فلوشیپ جدید MIT برای تربیت رهبران فیزیک کوانتوم",
+        "title_en": "QMIT launches quantum fellowships to train next-gen leaders",
+        "summary": [
+            "دانشگاه MIT با حمایت مالی بنیاد مور، دوره پسادکتری جدیدی را برای پیوند دادن علوم کوانتوم با زیست‌شناسی، علم مواد و هوش مصنوعی کلید زد.",
+            "این برنامه از سال ۲۰۲۶ شروع می‌شود و هدف اصلی آن خروج تحقیقات کوانتومی از حالت ایزوله و ورود به فاز کاربردی است.",
+            "پژوهشگران در این طرح روی الگوریتم‌های کوانتومی و مدل‌سازی فرایندهای پیچیده زیستی تمرکز خواهند کرد."
+        ],
+        "full_text": "This fall, MIT will welcome its first cohort of QMIT Fellows, launching a new postdoctoral program designed to cultivate leaders in quantum science. Supported by a grant from the Gordon and Betty Moore Foundation, the initiative reflects a vision of expanding quantum science beyond isolated research and into areas like computation and materials science. “Quantum science and technology is in a period of extraordinary opportunity, opening new pathways to solving problems across computation, materials, sensing, and communication,” says Anantha Chandrakasan, MIT provost and the Vannevar Bush Professor of Electrical Engineering and Computer Science. The program aims to connect quantum approaches with other disciplines, fostering an interdisciplinary research community across the Institute. QMIT Fellowship Program Launches to Cultivate Quantum Leaders The inaugural cohort of QMIT Fellows will begin appointments during the 2026 academic year, establishing a timeline for the program’s impact on quantum research at MIT. This postdoctoral fellowship program, launched by the MIT Quantum Initiative, specifically targets researchers bridging quantum science with disciplines like biology and materials science, reflecting an effort to move beyond isolated quantum studies. Eligibility extends to candidates demonstrating expertise in physics, chemistry, and materials science, along with a willingness to apply quantum principles to new areas of inquiry. Danna Freedman, the Frederick George Keyes Professor of Chemistry and faculty director of QMIT, explains that “Some of the most exciting breakthroughs will come from researchers who combine deep expertise in quantum with new perspectives from other fields.” This fellowship is designed to create those opportunities. This interdisciplinary focus is exemplified by potential applications of quantum systems to biological processes, requiring collaboration between atomic physicists, quantum algorithm specialists, and biologists. Fellows will integrate into existing research areas within QMIT, including quantum computing, sensing, materials, simulation, and networks, and will also be encouraged to explore the intersection of quantum science and artificial intelligence. The program’s structure intends to strengthen MIT’s broader quantum community by facilitating collaboration and mentorship across departments. Fellows will work alongside researchers affiliated with the Research Laboratory of Electronics, MIT Lincoln Laboratory, the Departments of Physics and Electrical Engineering and Computer Science, the MIT-Harvard Center for Ultracold Atoms, and various interdisciplinary centers. This approach aims to foster intellectual exchange and accelerate the translation of fundamental quantum discoveries into practical applications. Launched in December 2025 as a strategic initiative, QMIT unites researchers across the Institute to accelerate quantum discovery and address critical challenges in science, technology, industry, and national security. The program’s design prioritizes not only individual research projects but also the cultivation of a collaborative environment that will drive innovation in quantum science for years to come.",
+        "impact": "این طرح مسیر تجاری‌سازی فناوری‌های کوانتومی و ادغام آن‌ها با هوش مصنوعی را سرعت می‌بخشد.",
+        "tag": "کوانتوم",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "quantumzeitgeist",
+        "url": "https://quantumzeitgeist.com/qmit-quantum-fellowships-train-next-gen/",
+        "clean_url": "https://quantumzeitgeist.com/qmit-quantum-fellowships-train-next-gen",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/qmit-launches-quantum-fellowships-to-train-next-gen.jpg",
+        "images": [
+            "https://quantumzeitgeist.com/wp-content/uploads/qmit-launches-quantum-fellowships-to-train-next-gen.jpg",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/cropped-cropped-QuantumZ_2-1-5.png.webp",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/qmit-launches-quantum-fellowships-to-train-next-gen.jpg.webp",
+            "https://quantumzeitgeist.com/wp-content/smush-webp/dynamical-decoupling-shields-qubits-from-heavy-hex-crosstalk-150x150.jpg.webp"
+        ],
+        "timestamp": 1789200120.0
     },
     {
         "id": "6adf1606d4",
@@ -6883,141 +7026,5 @@
             "https://waya.media/wp-content/themes/waya/assets/img/waya-en-white.png"
         ],
         "timestamp": 1788429780.0
-    },
-    {
-        "id": "0fdfec9d07",
-        "title_fa": "پروژه ۹۵ میلیون دلاری موسسه الن برای کشف کدهای زیستی",
-        "title_en": "AI learns nature's code: Allen Institute, UW and Fred Hutch launch $95M open science initiative",
-        "summary": [
-            "موسسه الن با همکاری دانشگاه واشنگتن ابتکار جدیدی را برای تحلیل رمزهای زیستی با هوش مصنوعی کلید زد.",
-            "این پروژه به صورت کدباز اجرا می‌شود تا تمام پژوهشگران جهان به داده‌ها و مدل‌های زیست‌شناسی دسترسی داشته باشند.",
-            "تمرکز اصلی این طرح روی رمزگشایی از ساختارهای ژنتیکی و زیستی پیچیده معطوف شده است."
-        ],
-        "full_text": "AI learns nature's code: Allen Institute, UW and Fred Hutch launch $95M open science initiative  GeekWire",
-        "impact": "تحولی بزرگ در پزشکی محاسباتی و سرعت بخشیدن به فرآیند کشف داروهای جدید شکل خواهد گرفت.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.8,
-        "source": "GeekWire",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jdTVHMU1SU0Q0YTlKbUNvREdtdXBFbTN2cWVnYkZMUllMamt2Xzc3S1JrLUtSQmk3czRfeXpiNWNFdUUySjJDbkdn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jdTVHMU1SU0Q0YTlKbUNvREdtdXBFbTN2cWVnYkZMUllMamt2Xzc3S1JrLUtSQmk3czRfeXpiNWNFdUUySjJDbkdn",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788429600.0
-    },
-    {
-        "id": "973ca41556",
-        "title_fa": "تاخیر عرضه نمایشگر خانگی اپل به دلیل چالش‌های سیری",
-        "title_en": "Apple Smart Home Display Release Date: Why Siri AI Delays It",
-        "summary": [
-            "عرضه نمایشگر هوشمند خانگی اپل به دلیل آماده نبودن قابلیت‌های جدید هوش مصنوعی سیری عقب افتاد.",
-            "اپل تصمیم دارد این سخت‌افزار را تنها با دستیار صوتی کاملاً ارتقایافته و مبتنی بر هوش مصنوعی مولد وارد بازار کند.",
-            "چالش‌های توسعه مدل‌های زبانی در سیری، برنامه زمان‌بندی سخت‌افزارهای جدید اپل را مختل کرده است."
-        ],
-        "full_text": "Apple Smart Home Display Release Date: Why Siri AI Delays It  Gadget Hacks",
-        "impact": "تعویق در عرضه سخت‌افزار جدید اپل، فرصت بیشتری به گوگل و آمازون برای تسلط بر بازار خانه هوشمند می‌دهد.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Gadget Hacks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTM0LVlCNkdjNE90MFA1WkZ0QUdqbWdTa2xqMC1hLThjNjI0eXhwM09RSWxRVGZwRFkzR0tsWDJLakwzc3E1UGpJeV9NQlUxaVFyeW5qSDY3UHNTSXA1WlVjWE1JWWMtRG4wYmE0dHJ3ZVdfNktMU3NxeG14SGtDZ3lyTVY1YUhlMjZzWG04WmFadFN0N0FJUGlCZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTM0LVlCNkdjNE90MFA1WkZ0QUdqbWdTa2xqMC1hLThjNjI0eXhwM09RSWxRVGZwRFkzR0tsWDJLakwzc3E1UGpJeV9NQlUxaVFyeW5qSDY3UHNTSXA1WlVjWE1JWWMtRG4wYmE0dHJ3ZVdfNktMU3NxeG14SGtDZ3lyTVY1YUhlMjZzWG04WmFadFN0N0FJUGlCZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788424116.0
-    },
-    {
-        "id": "5b276e0663",
-        "title_fa": "جذب سرمایه ۱.۲ میلیون دلاری استارتاپ هندی مکر مایکروسیستمز",
-        "title_en": "Semicon startup Makr Microsystems raises Rs 10.2 crore from Bluehill VC, Artha Venture Fund",
-        "summary": [
-            "این استارتاپ نیمه‌هادی ابزار جدیدی برای تصویربرداری از لایه‌های زیرین تراشه‌ها با امواج صوتی (AAFM) توسعه داده است.",
-            "سرمایه جذب‌شده صرف آزمایش‌های تجاری و توسعه نرم‌افزار تحلیل سه‌بعدی داده‌های سخت‌افزاری خواهد شد."
-        ],
-        "full_text": "Semiconductor startup Makr Microsystems has raised Rs 10.2 crore in a seed round led by frontier-tech venture capital firm Bluehill VC, with participation from Artha Venture Fund.The Bengaluru-based startup will use the funds to develop its technology, validate it with customers, and work towards commercial deployment, it said in a statement on Thursday.Founded by Ashwin Lal, Makr Microsystems is building tools that help chipmakers see and Semicon startup Makr Microsystems raises Rs 10.2 crore from Bluehill VC, Artha Venture Fund Synopsis The startup’s main technology — Acoustic Atomic Force Microscopy (AAFM) — uses acoustic signals and a scanning probe to gather information from beneath the surface of a chip. Makr is also developing optical tomography and 3D data analytics software. Now Playing",
-        "impact": "شناسایی عیوب پنهان تراشه‌ها با امواج صوتی، سرعت خطوط تولید نیمه‌هادی‌ها را بالا می‌برد.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.5,
-        "source": "The Economic Times",
-        "url": "https://economictimes.indiatimes.com/tech/funding/semicon-startup-makr-microsystems-raises-rs-10-2-crore-from-bluehill-vc-artha-venture-fund/articleshow/133739424.cms",
-        "clean_url": "https://economictimes.indiatimes.com/tech/funding/semicon-startup-makr-microsystems-raises-rs-10-2-crore-from-bluehill-vc-artha-venture-fund/articleshow/133739424.cms",
-        "image": "http://www.bing.com/th?id=ONUT.8HiSYB4FoOoPpLZ3n-n2wQ&pid=News",
-        "images": [
-            "http://www.bing.com/th?id=ONUT.8HiSYB4FoOoPpLZ3n-n2wQ&pid=News",
-            "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1419778,resizemode-75,msid-133739424/tech/funding/semicon-startup-makr-microsystems-raises-rs-10-2-crore-from-bluehill-vc-artha-venture-fund.jpg",
-            "https://img.etimg.com/thumb/width-525,height-393,imgsize-1419778,resizemode-75,msid-133739457/tech/funding/semicon-startup-makr-microsystems-raises-rs-10-2-crore-from-bluehill-vc-artha-venture-fund/semicon_startup_makr_microsystems_raises_rs_102_crore_from_bluehill_vc_artha_venture_fund_1788446664448.jpg"
-        ],
-        "timestamp": 1788421500.0
-    },
-    {
-        "id": "f466044203",
-        "title_fa": "رونمایی Navimow از چمن‌زن روباتیک H5 Pro در IFA",
-        "title_en": "Breakthrough in Garden Care: Navimow Redefines the Edge Cutting Experience with H5 Pro at IFA 2026",
-        "summary": [
-            "برند Navimow در نمایشگاه IFA از چمن‌زن روباتیک جدید H5 Pro رونمایی کرد که تمرکز ویژه‌ای بر برش دقیق لبه‌های چمن دارد.",
-            "این الگوریتم جدید لبه‌زنی، نیاز به اصلاح دستی حاشیه‌های حیاط و باغچه را به طور کامل از بین می‌برد."
-        ],
-        "full_text": "Breakthrough in Garden Care: Navimow Redefines the Edge Cutting Experience with H5 Pro at IFA 2026  Yahoo Finance Singapore",
-        "impact": "تسهیل و هوشمندسازی کامل نگهداری از فضای سبز خانگی بدون مداخله انسانی.",
-        "tag": "گجت",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTZsSElPQXdqQnFtajBLajMwdXJReWo5ZVZmZkV5WGY5Uml4dGNtVU9nVTJzY3BlTWh5YllvNFVCWXhUUzBGTXBtSnZWdkZlMjdTTDh5MVZQMjM1MzJrSkYwdWxuRnhFTFFHNTZNeVJUd25zRDd0RndwaTh2UXdYSG0tSnlBTjdWTE16VXM0b3ZRYmRMNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTZsSElPQXdqQnFtajBLajMwdXJReWo5ZVZmZkV5WGY5Uml4dGNtVU9nVTJzY3BlTWh5YllvNFVCWXhUUzBGTXBtSnZWdkZlMjdTTDh5MVZQMjM1MzJrSkYwdWxuRnhFTFFHNTZNeVJUd25zRDd0RndwaTh2UXdYSG0tSnlBTjdWTE16VXM0b3ZRYmRMNkE",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788415200.0
-    },
-    {
-        "id": "1d1727d2ba",
-        "title_fa": "موفقیت مدل زبانی بزرگ StartLux در ارزیابی‌های کلیدی چین",
-        "title_en": "StartLux's local large model passes key test",
-        "summary": [
-            "مدل زبانی بومی استارتاپ StartLux توانست با موفقیت از تست‌های استاندارد و نظارتی سخت‌گیرانه عبور کند.",
-            "پاس کردن این آزمون‌ها مجوز ورود این مدل زبانی را به سرویس‌های تجاری و صنعتی بزرگ چین صادر می‌کند."
-        ],
-        "full_text": "StartLux's local large model passes key test  China Daily",
-        "impact": "تسریع بکارگیری مدل‌های زبانی بومی در کسب‌وکارهای چین و تقویت اکوسیستم AI این کشور.",
-        "tag": "مدل‌زبانی",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "China Daily",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zckVBZ3RCdGpaV0xRQlExcjhhdXJDeUtSQmpzNUt4V3RYc3pDclU3VV9BbmdhSW5SZFdrYjJac05qWDhfSHBiUDU3bmtCVEhibENEbmk1bmtxZGZOQ0NDMFVldHoxSm9qS0hua0FRdEZDX2tIOWVsZmtVN2t5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zckVBZ3RCdGpaV0xRQlExcjhhdXJDeUtSQmpzNUt4V3RYc3pDclU3VV9BbmdhSW5SZFdrYjJac05qWDhfSHBiUDU3bmtCVEhibENEbmk1bmtxZGZOQ0NDMFVldHoxSm9qS0hua0FRdEZDX2tIOWVsZmtVN2t5QQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788414498.0
-    },
-    {
-        "id": "b68de41451",
-        "title_fa": "تخصیص بودجه ملی برای آموزش سواد هوش مصنوعی به مدارس",
-        "title_en": "New Trier one of 9 schools to receive national grant for AI safety, literacy",
-        "summary": [
-            "مدرسه نیوتریر به همراه ۸ مرکز آموزشی دیگر در آمریکا، بودجه‌ای ملی برای تدوین برنامه‌های ایمنی و سواد هوش مصنوعی دریافت کردند.",
-            "هدف این طرح، آموزش استفاده مسئولانه از ابزارهای هوش مصنوعی و درک ریسک‌های آن به دانش‌آموزان است."
-        ],
-        "full_text": "New Trier one of 9 schools to receive national grant for AI safety, literacy  therecordnorthshore.org",
-        "impact": "آماده‌سازی نسل جدید برای استفاده ایمن و هوشمندانه از فناوری‌های مبتنی بر هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 3,
-        "sentiment": 0.5,
-        "source": "therecordnorthshore.org",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUprOTVQNmRwdDRzV2hrU2RjV0VIemxQX29ZWHhhMXd3TGJ6MXNvRUdjZ0hITW0tdHI3aV9idmJEVVZtZFl2QXZJUkM0Nnl3R05lTkFqQlhoX2hDREFmcjh1RUYtZlZhckRNeTQxb2EwRzNnbk9HMUREMGxiYmhYWlE3UWhoVktCUXhQUmJRcDMtbEhiTVFsTXRKVGJFTjNRbXI4TmZaUjVpYkprSW42cF9UM1JLaGROa0NRaFIxMDA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUprOTVQNmRwdDRzV2hrU2RjV0VIemxQX29ZWHhhMXd3TGJ6MXNvRUdjZ0hITW0tdHI3aV9idmJEVVZtZFl2QXZJUkM0Nnl3R05lTkFqQlhoX2hDREFmcjh1RUYtZlZhckRNeTQxb2EwRzNnbk9HMUREMGxiYmhYWlE3UWhoVktCUXhQUmJRcDMtbEhiTVFsTXRKVGJFTjNRbXI4TmZaUjVpYkprSW42cF9UM1JLaGROa0NRaFIxMDA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788408710.0
     }
 ]
