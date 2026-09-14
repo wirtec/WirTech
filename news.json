@@ -1,5 +1,171 @@
 [
     {
+        "id": "a710a27523",
+        "title_fa": "بازدید اعضای کلوب روتاری از پایگاه فضایی وندنبرگ",
+        "title_en": "Pismo Rotary visits Vandenberg",
+        "summary": [
+            "اعضای کلوب روتاری پیزمو از تأسیسات و امکانات پایگاه نیروی فضایی وندنبرگ بازدید کردند.",
+            "این رویداد در راستای تعاملات منطقه‌ای و آشنایی با فعالیت‌های فضایی صورت گرفت."
+        ],
+        "full_text": "Pismo Rotary visits Vandenberg  vandenberg.spaceforce.mil",
+        "impact": "تقویت رویکردهای ارتباطی پایگاه‌های فضایی با جوامع محلی.",
+        "tag": "سخت‌افزار",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "vandenberg.spaceforce.mil",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUF3U01XVFR2SGcyZVlDb0FMX2cwVkVncnRMRzJFcWxrcnJiaXhqVTFDNDFDRVlXMHhtRUtVZGlzTXZHY21uOU1mZk1acWhjM25CSl8zUzlhanpSODM3Z1N5VHYzMkVsWjJtdVVzTk01Nm9xa3pSLVRIRjFtUlJwTUdNVEhua1NhXzc0T2sxVXhRLTFCYWJQTi05SU1QN1N2VE1EZFN1YThjZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUF3U01XVFR2SGcyZVlDb0FMX2cwVkVncnRMRzJFcWxrcnJiaXhqVTFDNDFDRVlXMHhtRUtVZGlzTXZHY21uOU1mZk1acWhjM25CSl8zUzlhanpSODM3Z1N5VHYzMkVsWjJtdVVzTk01Nm9xa3pSLVRIRjFtUlJwTUdNVEhua1NhXzc0T2sxVXhRLTFCYWJQTi05SU1QN1N2VE1EZFN1YThjZw",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789425149.0
+    },
+    {
+        "id": "0212b86910",
+        "title_fa": "طرح جدید کنگره برای به‌کارگیری هوش مصنوعی در درمان سرطان کودکان",
+        "title_en": "Press Release: McCaul Introduces Bill to Use AI in Pediatric Cancer Research",
+        "summary": [
+            "نماینده کنگره آمریکا طرحی قانونی را برای استفاده از ابزارهای هوش مصنوعی در تحقیقات سرطان کودکان ارائه داد.",
+            "هدف این طرح شتاب‌دهی به کشف داروهای جدید و بهبود فرآیندهای تشخیصی پزشکی است."
+        ],
+        "full_text": "Press Release: McCaul Introduces Bill to Use AI in Pediatric Cancer Research  Quiver Quantitative",
+        "impact": "افزایش بودجه و تسهیل ورود مدل‌های یادگیری ماشین به حوزه‌های حساس سلامت و داروسازی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.9,
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1ZucV9kYk11am1sblFSQ2J0SXRCS1lWM21YdU1kME1fNko4WVFfVXpIUkViWjctbzBpa19leVYzY1hCYS1TR1Z5dkJCQWlZNmJSMDBmTWRDNG5nOURIRUlZMzBXZERUNEdxQjY3djBqVElMLW9xM2ZrV1lwUTZNa3NQNEZCLXB6SXJSaFVBdDNoUWRMc1ExYWZ1ZHFoaWJWMkZEakNrVE1VV0ptWUpyOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1ZucV9kYk11am1sblFSQ2J0SXRCS1lWM21YdU1kME1fNko4WVFfVXpIUkViWjctbzBpa19leVYzY1hCYS1TR1Z5dkJCQWlZNmJSMDBmTWRDNG5nOURIRUlZMzBXZERUNEdxQjY3djBqVElMLW9xM2ZrV1lwUTZNa3NQNEZCLXB6SXJSaFVBdDNoUWRMc1ExYWZ1ZHFoaWJWMkZEakNrVE1VV0ptWUpyOA",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789417380.0
+    },
+    {
+        "id": "b6ce15c788",
+        "title_fa": "جهش ۷ برابری سرعت جستجوی پینترست با تراشه‌های انویدیا",
+        "title_en": "Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech",
+        "summary": [
+            "پینترست با پیاده‌سازی زیرساخت‌های جدید سخت‌افزاری انویدیا توانست سرعت جستجوی مبتنی بر هوش مصنوعی را ۷ برابر کند.",
+            "این ارتقا باعث بهبود تجربه کاربری و پردازش سریع‌تر میلیاردها تصویر در موتور پیشنهاددهنده پینترست می‌شود."
+        ],
+        "full_text": "Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech  PYMNTS.com",
+        "impact": "الگویی موفق از بهینه‌سازی زیرساخت‌های پردازش ابری برای پلتفرم‌های پرترافیک بصری.",
+        "tag": "سخت‌افزار",
+        "urgency": 6,
+        "sentiment": 0.8,
+        "source": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGlqVWxSNkJrZVB2VFNZNTNGb05rcG9jZXJsMDVqcUtGZXZiM2dtVVEzbjBja1ZxUGw5ZlEtMWVGeUZ0RkNEZmNnY3NqbGxmY09lQXRkSlFYVlZzT2tDZ1d0X0x5OVM5TEJkamtxSmpEbU81c2VTU1dpTFpXTlhQNmI4eFdNclpwNXdHWHd2ZHV3M21tRExZM2VOeGY1ZVBrQUYzMW1TZjZFTjhkNWlrQWE1NUJwUm13Vk4zSjAtZUJ4WjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGlqVWxSNkJrZVB2VFNZNTNGb05rcG9jZXJsMDVqcUtGZXZiM2dtVVEzbjBja1ZxUGw5ZlEtMWVGeUZ0RkNEZmNnY3NqbGxmY09lQXRkSlFYVlZzT2tDZ1d0X0x5OVM5TEJkamtxSmpEbU81c2VTU1dpTFpXTlhQNmI4eFdNclpwNXdHWHd2ZHV3M21tRExZM2VOeGY1ZVBrQUYzMW1TZjZFTjhkNWlrQWE1NUJwUm13Vk4zSjAtZUJ4WjQ",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789417016.0
+    },
+    {
+        "id": "8579678009",
+        "title_fa": "تشکیل فراکسیون دوحزبی هوش مصنوعی در مجلس نمایندگان آمریکا",
+        "title_en": "House members launch new bipartisan AI caucus",
+        "summary": [
+            "نمایندگان کنگره آمریکا برای بررسی ابعاد قانون‌گذاری و توسعه فناوری‌های هوش مصنوعی فراکسیونی مشترک تشکیل دادند.",
+            "این اقدام گامی اولیه برای همگام‌سازی سیاست‌های ساختاری دولت با سرعت خیره‌کننده پیشرفت AI محسوب می‌شود."
+        ],
+        "full_text": "House members launch new bipartisan AI caucus  Axios",
+        "impact": "زمینه‌سازی برای تصویب قوانین جامع‌تر نظارتی بر صنعت هوش مصنوعی در سطح ملی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQmwweXZKaEpCX2RqYi01ZHVyMEVrYVRuRHZXckNrNXh5QXRqOE9BQTNwMlFEYjF1VDA4akJ1MGxqZGpoekhZUm5CdXY3RlhVZVJITWFTR2k2ZDBzQ3pYSlE2U0o2eURSeGxKV0hfWHFNQ1VJXzhPMjVfcWo3VWVEWm5QQWZldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQmwweXZKaEpCX2RqYi01ZHVyMEVrYVRuRHZXckNrNXh5QXRqOE9BQTNwMlFEYjF1VDA4akJ1MGxqZGpoekhZUm5CdXY3RlhVZVJITWFTR2k2ZDBzQ3pYSlE2U0o2eURSeGxKV0hfWHFNQ1VJXzhPMjVfcWo3VWVEWm5QQWZldw",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789414475.0
+    },
+    {
+        "id": "278834af74",
+        "title_fa": "شکاف عمیق در سیلیکون‌ولی؛ ایمنی هوش مصنوعی یا کند کردن رقابت؟",
+        "title_en": "جنگ بر سر آینده هوش مصنوعی؛ آیا دره سیلیکون رقابت را فدای ایمنی می‌کند؟",
+        "summary": [
+            "داریو آمودی مدیر آنتروپیک خواستار کندتر شدن سرعت توسعه و نظارت مستقل بر آزمایشگاه‌های AI شد که با همراهی نسبی آلتمن و ماسک روبرو شد.",
+            "منتقدان و چهره‌های نزدیک به دولت مانند دیوید ساکس مدعی هستند که غول‌های فناوری از شعار ایمنی برای ایجاد انحصار و سد کردن راه رقبا استفاده می‌کنند.",
+            "گزارش‌های اخیر از رفتارهای غیرقابل پیش‌بینی مدل‌ها و استعفای برخی پژوهشگران، جنجال‌ها را بر سر مهار ابرهوش دوچندان کرده است."
+        ],
+        "full_text": "جنگ بر سر آینده هوش مصنوعی؛ آیا دره سیلیکون رقابت را فدای ایمنی میکند؟ اختلاف مدیران فناوری بر سر ایمنی هوش مصنوعی بالا گرفته است؛ برخی خواستار کندشدن توسعه هستند و برخی از خطر محدودشدن رقابت میگویند. در روزهای اخیر بحث درباره ایمنی هوش مصنوعی در سیلیکونولی بالا گرفته است؛ برخی مدیران شرکتهای بزرگ فناوری از کندترشدن روند توسعه این فناوری و نظارت بیشتر دولت حمایت میکنند و گروهی دیگر معتقدند چنین درخواستهایی میتواند به ضرر رقابت باشد. فعلاً نمیدانیم چه کسی برحق است و کدام مسیر به سود بشریت تمام میشود، اما در ادامه به روایتهای دو سمت میپردازیم. «داریو آمودی»، مدیرعامل آنتروپیک، روز شنبه در مقالهای هشدار داد که هوش مصنوعی با سرعتی پیش میرود که ادامه توسعه ایمنی آن را برای پژوهشگران سخت میکند. او پیشنهاد کرد کارشناسان مستقل بر فعالیتهای ایمنی آزمایشگاههای هوش مصنوعی نظارت کنند و نهادهای قانونگذار نیز به این آزمایشگاهها مجال دهند برای هماهنگی استانداردهای ایمنی با یکدیگر همکاری کنند. «سم آلتمن»، مدیرعامل OpenAI، «ایلان ماسک»، مدیرعامل اسپیسایکس، و «دمیس هاسابیس»، رئیس دیپمایند، اگرچه درباره نحوه برخورد با این وضعیت دیدگاههای متفاوتی داشتند، همگی با ضرورت کندترشدن روند توسعه هوش مصنوعی موافق بودند. بااینحال، شماری از مدیران صنعت فناوری خیلی زود انگیزههای آمودی را زیر سؤال بردند و این احتمال را مطرح کردند که برخی شرکتهای پیشرو با برجستهکردن خطرات هوش مصنوعی، در پی دشوارترکردن رقابت برای سایر شرکتها هستند. «دیوید ساکس»، مشاور فناوری دونالد ترامپ و مدیر سابق امور هوش مصنوعی و رمزارز کاخ سفید، در شبکه اجتماعی ایکس نوشت: «وانمود نکنید که انگیزه کندکردن روند توسعه صرفاً نوعدوستانه است.» این انتقادها شکاف عمیقی را میان دو دیدگاه در صنعت فناوری نشان میدهد: گروهی معتقدند دولت باید بر هوش مصنوعی نظارت کند و گروهی دیگر هشدار میدهند که مداخله نظارتی میتواند رقابت را از بین ببرد. نگرانیها درباره ایمنی هوش مصنوعی نگرانی درباره ایمنی هوش مصنوعی در هفتههای اخیر توجه بیشتری به خود جلب کرده است. جزئیاتی درباره عملکرد هوش مصنوعی توسعهیافته توسط OpenAI منتشر شده که نشان میدهد این فناوری از کنترل خارج شده و یک شرکت دیگر را هک کرده است. چند روز پیش نیز یکی از کارکنان آمودی در آنتروپیک از این شرکت جدا شد و کارزاری عمومی برای جلب توجه به خطرات هوش مصنوعی به راه انداخت. بااینحال، شماری از مدیران صنعت فناوری، از جمله برخی افرادی که در زمینه سیاستگذاری فناوری به دولت ترامپ مشاوره میدهند، معتقدند نگرانیهای مطرحشده بیشازحد بزرگنمایی شدهاند. ساکس که از منتقدان قدیمی آمودی است، پرسید چرا شرکتهای هوش مصنوعی برای کندکردن توسعه خود به مداخله دولت نیاز دارند، درحالیکه خودشان میتوانند چنین کاری را انجام دهند؛ بهویژه در شرایطی که این شرکتها برای ساخت ابرهوش، یعنی هوش مصنوعی بسیار هوشمندتر از انسان، تلاش میکنند. او میگوید: «سادهترین راه برای نساختن ابرهوش این است که توافق کنید آن را نسازید.» ساکس همچنین معتقد است درخواست چارچوب نظارتی موردنظر شرکتها بهعنوان شرطی برای این کار، میتواند شبیه «باجگیری از مردم و نظام سیاسی» به نظر برسد. نظر شرکتها و مدیران درباره نظارت بر هوش مصنوعی «ساتیا نادلا»، مدیرعامل مایکروسافت، روز یکشنبه در ایکس اعلام کرد که این شرکت از پیشنهادهایی مانند استفاده از کارشناسان مستقل و تلاشهای گستردهتر برای ایجاد سازوکارهایی که این اقدامات را از حرف به عمل تبدیل کند، حمایت میکند. نادلا همچنین گفت باید برای گسترش و تسریع بهرهمندی از هوش مصنوعی در کشورهای مختلف، جوامع و شرکتها نیز تلاش شود. او افزود: «نکته مهم این است که این فناوری نمیتواند تحت کنترل تعداد محدودی از نهادها باشد و باید نمایندگی گستردهای داشته باشد.» در سالهای گذشته، مدیران و کارکنان آزمایشگاههای هوش مصنوعی مانند آنتروپیک اغلب در زمره افرادی بودهاند که بیشترین نگرانی را درباره ایمنی این فناوری مطرح کردهاند. استدلال آنها این بوده که پیشرفت هوش مصنوعی اجتنابناپذیر است و پژوهشگران همین آزمایشگاهها برای توسعه ایمنتر آن از دیگران مناسبتر هستند. بااینحال، همین موضع باعث شده برخی از فعالان صنعت فناوری بهشدت از این شرکتها انتقاد کنند. «آیدان گومز»، مدیرعامل استارتاپ هوش مصنوعی کانادایی Cohere، روز یکشنبه در مقالهای پرسید: «آیا باید اجازه داد تعداد محدودی از شرکتهای مسلط بر بازار هوش مصنوعی در سیلیکونولی قوانین و استانداردهای ایمنی یک فناوری نسلساز را برای تمام جهان تعیین کنند؟» او در ادامه گفت این شرکتها اکنون درخواست کردهاند قوانین رقابت تغییر کند و اجازه داشته باشند شرایط را برای دیگران تعیین کنند. او این وضعیت را به «گرگی در لباس میش» تشبیه کرد. حتی پیش از انتشار مقاله آمودی، برخی فعالان سیلیکونولی استدلال کرده بودند که نگرانیهای مطرحشده از سوی آزمایشگاههای هوش مصنوعی میتواند در راستای منافع تجاری خود آنها باشد. «جنسن هوانگ»، مدیرعامل انویدیا، هفته گذشته در کنفرانسی در سانفرانسیسکو گفت آزمایشگاههای هوش مصنوعی بر مسائل امنیتی تأکید میکنند، زیرا قصد دارند محصولات امنیت سایبری عرضه کنند. هوانگ گفت: «چه راهی بهتر از این هست که برای ایجاد تقاضا مشکلی سرهم کنیم؟ چه کسی نمیخواهد بازار درباره محصولش دچار هراس شود و مردم برای آن در صف بایستند؟» از سویی، تعدادی از قانونگذاران در واشنگتن ظاهراً با نگرانیهای آمودی همدلی دارند، اما مانند بسیاری از فعالان سیلیکونولی برای حمایت از قانونگذاری گسترده درباره این فناوری تمایل چندانی نشان نمیدهند. «جان کورنین»، سناتور جمهوریخواه ایالت تگزاس، روز یکشنبه در ایکس نوشت: «اگر توسعهدهندگان هوش مصنوعی میخواهند سرعت توسعه محصولشان را کم کنند، آزادند چنین کاری انجام دهند. اما یک چیز قطعی است: رقبایشان این کار را نخواهند کرد، از جمله رقبای کشور ما.» دونالد ترامپ نیز روز یکشنبه در جریان یک نشست خبری در ایرلند گفت آمریکا در حوزه هوش مصنوعی از چین جلوتر است و میخواهد این وضعیت حفظ شود. ترامپ گفت: «میتوانیم حفاظهایی ایجاد کنیم، میتوانیم این کار و آن کار را انجام دهیم، اما فکر میکنم نیروهای منفی زیادی هستند که این موضوع را مطرح میکنند. آنها چیزهایی را مطرح میکنند که اتفاق نخواهد افتاد، اما هر کس در هوش مصنوعی پیروز شود، پیروز است.»",
+        "impact": "احتمال تشدید فشارهای مقرراتی و قطبی‌شدن شدید فضای سرمایه‌گذاری و قانون‌گذاری در هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "دیجیاتو",
+        "url": "https://digiato.com/artificial-intelligence/ai-safety-regulation-debate",
+        "clean_url": "https://digiato.com/artificial-intelligence/ai-safety-regulation-debate",
+        "image": "http://www.bing.com/th?id=ONUT.fFPb1l33BWfG2Rp4bcZYUQ&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.fFPb1l33BWfG2Rp4bcZYUQ&pid=News",
+            "https://static.digiato.com/digiato/2026/09/ai-safety-regulation-debate-۱.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/ai-safety-regulation-debate-۱-644x424.jpg.webp",
+            "https://static.digiato.com/digiato/2026/09/13biz-ai-pushback-02-hctg-superJumbo.jpg-1024x698.webp"
+        ],
+        "timestamp": 1789401600.0
+    },
+    {
+        "id": "6b8aa3e09e",
+        "title_fa": "منشور اخلاقی جدید مایکروسافت برای مهار هوش مصنوعی پیشرفته",
+        "title_en": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "summary": [
+            "مایکروسافت سند ایمنی جدیدی منتشر کرد که خطوط قرمز مدلسازی و آموزش مدل‌های هوش مصنوعی را مشخص می‌کند.",
+            "بر اساس این منشور، مدل‌ها به هیچ وجه نباید در حملات سایبری، تولید سلاح هسته‌ای یا ساخت دیپ‌فیک مشارکت کنند.",
+            "این سند مهار سیستم‌ها را اولویت اصلی دانسته و طراحی الگوریتم‌های فریبکار برای دور زدن نظارت انسانی را اکیداً ممنوع کرده است."
+        ],
+        "full_text": "As the AI world shifts its focus to safety and alignment, Microsoft has released a new AI code of conduct meant to guide AI models away from dangerous behavior. The document is more low level than Anthropic CEO Dario Amodei’s recent call for pacing the frontier, instead focusing on the values and red lines that guide model training within Microsoft AI. Still, the result is a comprehensive guide as to how Microsoft approaches AI safety and how those ideas are implemented in practice. The document begins with the prediction that, in the next decade, superintelligent AI systems will surpass human performance in most tasks. “Containing, controlling, and aligning such a powerful force is one of the greatest challenges humanity has ever faced,” the code of conduct states. “We must therefore be completely clear about why we are inventing these systems and how we intend to control them.” The code of conduct also lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles. Under Microsoft’s system, each model has an overarching code of conduct that overrides the preferences of individual users or any specific tasks. That includes “absolute constraints” forbidding cyberattacks, nuclear weapons, or deepfake production. It also includes broader provisions against a general loss of human control. “MAI Models will not use adaptive, deceptive, self-reinforcing, collusion, or other mechanisms to evade or defeat human oversight so that they can no longer be reliably directed, modified, or shut down by authorized people or systems,” the document reads. The release comes amid an unprecedented focus on AI safety, driven by a string of rogue-agent incidents, as well as the abrupt resignation of an Anthropic employee, who cited the growing risk that AI would cause human extinction. Together with Anthropic, OpenAI, and xAI, Microsoft has broadly embraced a general approach of pacing the frontier, with particular support for embedded evaluators in AI labs. “We welcome the research, focus, and deliberate pacing needed to get alignment right as the design goal,” Microsoft CEO Satya Nadella wrote online. “We also welcome ideas like ’embedded evaluators’ and the broader efforts to develop the mechanisms to make this more than just talk.”",
+        "impact": "ایجاد یک استاندارد عملیاتی سخت‌گیرانه برای توسعه مدل‌های قدرتمند مایکروسافت و هم‌راستایی با رویکرد ارزیابی تدریجی AI.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.5,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "clean_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+        "images": [
+            "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+            "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2025/05/russell-e1755718978143.jpg?w=150",
+            "https://techcrunch.com/wp-content/themes/tc-24/dist/svg/tc-logo.svg"
+        ],
+        "timestamp": 1789378020.0
+    },
+    {
+        "id": "41785c4024",
+        "title_fa": "تاکسی‌های خودران وایمو بالاخره به لاس‌وگاس رسیدند",
+        "title_en": "Waymo opens robotaxi service in Las Vegas",
+        "summary": [
+            "وایمو پس از اخذ مجوز رسمی از نهادهای نظارتی نوادا، عرضه عمومی سرویس رباتاکسی خود را در لاس‌وگاس آغاز کرد.",
+            "در فاز نخست، ده‌ها ون خودران مدل Ojai مسافران را در منطقه نوار لاس‌وگاس و مبادی اطراف جابه‌جا می‌کنند.",
+            "رقابت در لاس‌وگاس با حضور همزمان تسلا، زوکس و اوبر به اوج خود رسیده و این ۱۵امین بازار فعال وایمو است."
+        ],
+        "full_text": "Waymo has begun to open up its robotaxi service to the public in Las Vegas, just a few weeks after receiving final approval from Nevada transportation regulators. The Alphabet-owned company said Monday it will invite public riders on a rolling basis, following a robotaxi launch playbook it has followed in 14 other cities. Waymo is starting with “dozens” of its new Ojai minivan robotaxis, which will serve an area of Las Vegas that includes the Strip south of Highway 589 and into Boulder Junction, according to a spokesperson. Waymo’s fleet and service area will eventually scale. For now, members of the public will have to request an invite and hope to receive an access code. Typically, Waymo opens the service up to everyone within a month or two of its official launch. The announcement follows a busy few weeks for Waymo as it tries to ramp up its operations across the United States and Europe as Tesla, Zoox, and other competitors attempt to close on its lead. Earlier this month, the company began offering its robotaxis to invited members of the public in Denver, San Diego, and Tampa. Las Vegas, where competitors Tesla and Motional are also planning to launch commercial robotaxi services, is Waymo’s 15th market. Zoox is already operating a commercial service in Las Vegas. Waymo also operates in Austin, Dallas, Houston, Los Angeles, Miami, Nashville, Phoenix, and the San Francisco Bay Area. The company launched, and then paused, service in San Antonio. Waymo’s entry into Las Vegas follows approval by the Nevada Transportation Authority to operate commercial robotaxi services in Clark County, home to Las Vegas. Tesla and Uber also received approval from the agency. Waymo has been authorized to operate up to 1,000 autonomous vehicles over the next year, Tesla is allowed to deploy up to 5,000, and Uber is allowed up to 1,000 robotaxis, which it will operate through partnerships with Hyundai subsidiary Motional and Zoox. Together, these permits would deploy up to 7,000 robotaxis across the county over the next 12 months. It’s unlikely that the three companies will reach those numbers. Today, Waymo has a fleet of more than 4,000 robotaxis, which are spread across more than a dozen cities. During a meeting in August, Tesla’s Cybercab chief engineer Eric Early told state regulators that the company would be “extremely happy and satisfied if we could get ourselves up to 2,500, maybe a bit higher than that in the next year.” Even without reaching those figures, the city could be saturated with robotaxis in the next year. Update: This article was updated to clarify that Zoox is already operating a commercial robotaxi service in Las Vegas.",
+        "impact": "تثبیت پیشتازی وایمو در بازار ناوگان خودران تجاری و فشار بر تسلا و زوکس برای تسریع عرضه‌های تجاری.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+        "clean_url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas",
+        "image": "http://www.bing.com/th?id=ONUT.5Vs498m7BdZBesjz3S2gKw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.5Vs498m7BdZBesjz3S2gKw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+            "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Waymo-Las-Vegas-territory.jpg?w=680"
+        ],
+        "timestamp": 1789376580.0
+    },
+    {
         "id": "8ed64f9e2c",
         "title_fa": "رونمایی ZTE و XLSMART از دستاوردهای جدید شبکه خودکار",
         "title_en": "ZTE and XLSMART Jointly Release New Achievements in Autonomous Networks at ZTE Global Summit & User Congress 2026, Turning Vision into Verifiable Business",
@@ -6861,164 +7027,5 @@
             "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
         ],
         "timestamp": 1788533520.0
-    },
-    {
-        "id": "61bdc44288",
-        "title_fa": "موج جدید سرمایه‌گذاری در اکوسیستم فناوری اروپا",
-        "title_en": "Wonderful raises $550M, Mykhailo Fedorov's new defencetech investment fund, and Londoners can now hail AVs (with safety drivers)",
-        "summary": [
-            "شرکت Nscale برای توسعه زیرساخت‌های پردازش ابری هوش مصنوعی موفق به دریافت پکیج مالی ۳ میلیارد دلاری شد.",
-            "استارتاپ هلندی Wonderful در یک دور سرمایه‌گذاری ۵۵۰ میلیون دلار جذب کرد و ارزشیابی خود را به ۵ میلیارد دلار رساند.",
-            "همکاری Uber و Wayve برای ارائه خدمات تاکسی خودران در لندن به طور رسمی آغاز شد."
-        ],
-        "full_text": "If email is more your thing, you can always subscribe to our newsletter and receive a more robust version of this round-up delivered to your inbox. ❗ Want to explore the data in more detail? The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends. Either way, let's get you up to speed. 💸 Notable and big funding rounds 🇬🇧 Nscale closes $3B debt package to power AI infrastructure buildout across the US 🇳🇱 AI startup Wonderful raises $550M at $5BN valuation 🇬🇧 FNZ raises $450M in funding 🏽🏻 Noteworthy acquisitions and mergers 🇫🇷 Nvidia confirms $12.93BN purchase of Hugging Face 🇩🇪 Factorial from Spain acquires Berlin AI startup Empion 🇸🇪 Fresh from €14.6 million Seed round, eComID acquires Nilum to push into recommerce 🇳🇴. Oslo-based Pistachio acquires Hugin.io to expand into cybersecurity compliance 🚀 Interesting moves from investors 💰 Former Ukraine defence minister Mykhailo Fedorov plans new defencetech investment fund 💵 British Business Bank commits up to £46M to Zinc’s new deeptech fund 💸. Uplift Ventures launches €100M fund to back European deeptech startups 💰 Cummins joins Emerald Technology Ventures as LP to accelerate industrial innovation 🗞️ In other (important) news 💸 August European tech funding falls 63% as dealmaking slows 🚗 Londoners can now hail Wayve autonomous vehicles through Uber 🇳🇱 The Netherlands' top-funded tech companies in H1 2026 📡 Recommended reads and listens 🤖 Human must not surrender cognition to AI 🔭 AIRMO takes aim at methane leaks from space 🎧 The scientist-founder using AI to make language learning ‘magical’ 🔭 European tech startups to watch 🇪🇪 Instarc raises €1.25M to scale its cloud-native compliance platform 🇸🇪 Drone cleaning startup Cleean raises €900,000 despite regulatory questions 🇬🇧 Rightcharge raises £500,000 to scale fleet EV charging payments across Europe 🇨🇭 Stellar Alpina secures €160,000 from Venture Kick for in-space propulsion 🇸🇪 Hiasynth raises angel funding to build a queryable synthetic model of Europe’s population",
-        "impact": "شتاب‌گیری بی‌سابقه توسعه زیرساخت‌های محاسباتی و حمل‌ونقل خودکار در قاره اروپا.",
-        "tag": "سرمایه‌گذاری",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "Tech.eu",
-        "url": "https://tech.eu/2026/09/04/wonderful-raises-550m-mykhailo-fedorov-s-new-defencetech-investment-fund-and-londoners-can-now-hail-avs-with-safety-drivers/",
-        "clean_url": "https://tech.eu/2026/09/04/wonderful-raises-550m-mykhailo-fedorov-s-new-defencetech-investment-fund-and-londoners-can-now-hail-avs-with-safety-drivers",
-        "image": "https://cdn.tech.eu/uploads/2026/09/this-week-in-65.png",
-        "images": [
-            "https://cdn.tech.eu/uploads/2026/09/this-week-in-65.png",
-            "https://tech.eu/img/techeu-color.svg",
-            "https://cdn.tech.eu/uploads/assets/techeu-lazy-load.jpeg",
-            "https://sa-api.tech.eu/noscript.gif"
-        ],
-        "timestamp": 1788531780.0
-    },
-    {
-        "id": "79913f9112",
-        "title_fa": "بررسی سیر تحول و زمان‌بندی ابتکار عمل Pax Silica",
-        "title_en": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Sep 4, 2026",
-        "summary": [
-            "مؤسسه فناوری و نوآوری ITIF در گزارشی سیر تحولات، سیاست‌گذاری‌ها و زنجیره تامین مربوط به صنعت نیمه‌هادی و سیلیسیم را بررسی کرده است."
-        ],
-        "full_text": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Sep 4, 2026  Information Technology and Innovation Foundation",
-        "impact": "شناخت سیاست‌های حوزه نیمه‌هادی‌ها دید بهتری از آینده تأمین چیپ‌های پیشرفته در اختیار فعالان صنعت قرار می‌دهد.",
-        "tag": "سیاست‌گذاری",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "Information Technology and Innovation Foundation",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS3lxNzNWaXBkUnRlR3VCMVVaaUdZQTlTNm5QNl9XWTZBcl8wTDVxY0g0c0NhRm1SbnJxaGJuTVMwS3JqbmM1dG9NSFRabzRqN1FtYmxJaWxuUXg2UUVrZk1FYWNGZ1hDUWxIejlR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS3lxNzNWaXBkUnRlR3VCMVVaaUdZQTlTNm5QNl9XWTZBcl8wTDVxY0g0c0NhRm1SbnJxaGJuTVMwS3JqbmM1dG9NSFRabzRqN1FtYmxJaWxuUXg2UUVrZk1FYWNGZ1hDUWxIejlR",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788530762.0
-    },
-    {
-        "id": "24b3819522",
-        "title_fa": "انحراف داده‌های پزشکی؛ هوش مصنوعی به‌جای درمان، صورت‌حساب یاد می‌گیرد!",
-        "title_en": "Medical AI training data learns hospital billing, not patient biology: New papers",
-        "summary": [
-            "تحقیقات جدید نشان می‌دهد داده‌های آموزش هوش مصنوعی پزشکی به‌جای ساختار زیست‌شناسی، بر اساس پرونده‌های اداری و مالی بیمارستان‌ها شکل گرفته‌اند.",
-            "این انحراف ساختاری تبدیل به گلوگاه اصلی توسعه مدل‌های دقیق هوش مصنوعی در حوزه بالینی و درمان شده است."
-        ],
-        "full_text": "Medical AI training data is the fundamental bottleneck holding back clinical AI, two new peer-reviewed papers independently conclude. Clinical records were designed for human administrators, not machine learning,",
-        "impact": "لزوم بازنگری اساسی در نحوه جمع‌آوری و استانداردسازی داده‌های پزشکی برای جلوگیری از خطاهای درمانی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Tech Times",
-        "url": "https://www.msn.com/en-us/technology/artificial-intelligence/medical-ai-training-data-learns-hospital-billing-not-patient-biology-new-papers/ar-AA2bzoIC",
-        "clean_url": "https://www.msn.com/en-us/technology/artificial-intelligence/medical-ai-training-data-learns-hospital-billing-not-patient-biology-new-papers/ar-AA2bzoIC",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2byL4Y.img?w=2598&h=1732&m=4&q=94",
-        "images": [
-            "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2byL4Y.img?w=2598&h=1732&m=4&q=94"
-        ],
-        "timestamp": 1788527861.0
-    },
-    {
-        "id": "44921b3c61",
-        "title_fa": "جذب سرمایه ۱۲ میلیون دلاری استارتاپ گهواره هوشمند مبتنی بر AI",
-        "title_en": "Cradlewise raises $12 million to make AI cribs for newborns: What about DPDP compliance?",
-        "summary": [
-            "استارتاپ Cradlewise با جذب ۱۲ میلیون دلار سرمایه جدید قصد دارد تولید گهواره‌های مجهز به سنسور و هوش مصنوعی را توسعه دهد.",
-            "الگوریتم این گهواره با تحلیل حرکات و صدای نوزاد، قبل از بیدار شدن کامل او با حرکات ملایم مانع بیداری نوزاد می‌شود.",
-            "چالش‌های مربوط به حریم خصوصی و نحوه ذخیره‌سازی داده‌های رفتاری کودکان، مهم‌ترین ابهام موجود پیرامون توسعه این گجت است."
-        ],
-        "full_text": "Consumer health and wellness startup Cradlewise, which makes AI-powered cribs for toddlers, has raised $12 million (~Rs 113 crore) in its Series A funding round led by 3one4 Capital and Prudent Investment Management. The company plans to deploy the fresh capital towards growth initiatives, research and development (R&D), new sales channels and international expansion. Founded in 2017 by husband-and-wife duo Radhika Patil and Bharath Patil, Cradlewise describes itself as an AI-first consumer tech company that makes smart cribs designed to soothe babies and help improve family sleep. The company’s AI-enabled cribs use sensors to track a babyâs movements, sounds, sleep patterns and other contextual signals. Its system uses this data to predict when a baby is likely to wake up and intervene before the baby fully wakes up. Cradlewise says its technology has learnt from more than 75 hours of infant sleep. Its Pune facility can reportedly produce thousands of AI cribs each month. The company claims that its product can save parents as much as two hours of effort every day. The platform competes against the likes of SNOO, Elvie Rise and 4moms MamaRoo Sleep, among others. What’s next for the company?Over the next phase, Cradlewise intends to expand access through a broader set of online, retail, partnership, and international channels. The next set of initiatives will take the company beyond the crib with software-led sleep routines, related child sleep hardware, lower-priced entry points, and reusable sensing and electronics modules that can shorten future product development cycles. The roadmap is designed to extend relevance from the 0-24 month infant window into later childhood. Commenting on the fundraise, Anand Batra, Investments Team, 3one4 Capital said, “Cradlewise is solving an acute parenting problem with a rare combination of product depth, data, manufacturing control, and customer trust. Radhika and Bharath have built a differentiated sleep system with strong unit economics and a roadmap that can extend the customer relationship beyond infancy.” What remains unclear:Cradlewise has disclosed neither the valuation at which new investors joined the cap table nor the share of equity surrendered to them. What kind of child data Cradlewise collects for its AI cribs?Cradlewiseâsprivacy policystates that the platform can collect a babyâs name, profile image, date of birth and gender.Â",
-        "impact": "ورود هوش مصنوعی تخصصی به حوزه‌های حساس سبک زندگی و مراقبت از نوزادان.",
-        "tag": "استارتاپ",
-        "urgency": 5,
-        "sentiment": 0.6,
-        "source": "MediaNama",
-        "url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns/",
-        "clean_url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns",
-        "image": "https://www.medianama.com/wp-content/uploads/2026/09/22bc9570-0cc4-4169-abb1-6da9b5a67558.jpg",
-        "images": [
-            "https://www.medianama.com/wp-content/uploads/2026/09/22bc9570-0cc4-4169-abb1-6da9b5a67558.jpg",
-            "https://c.statcounter.com/6792882/0/4efe5883/1/"
-        ],
-        "timestamp": 1788527100.0
-    },
-    {
-        "id": "893a3f1aea",
-        "title_fa": "جهش سهام متا پس از معرفی مدل هوش مصنوعی Muse Spark",
-        "title_en": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model",
-        "summary": [
-            "رونمایی متا از مدل هوش مصنوعی جدید Muse Spark موجی از خوش‌بینی را میان سرمایه‌گذاران ایجاد کرد.",
-            "در پی انتشار این مدل، ارزش سهام متا در بازار بورس صعود قابل توجهی را تجربه کرد."
-        ],
-        "full_text": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model  TIKR.com",
-        "impact": "افزایش ارزش بازاری متا و تقویت اعتماد سرمایه‌گذاران به استراتژی هوش مصنوعی این شرکت.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.7,
-        "source": "TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0RyckFrM0ZZLVVqb3d2RGhxRy00V2huSk5Tby13Z3pmYXdsMlpoeHlaLVh3MDlaVlFBQVJRdm1COXpxTVZQaDI4TVlYRWplMDlaMFBDd0kwZ2pBZDBJZ2dMQWpkS09OUHZBbTBsVU8zbVBXLXljalQ4aUJFb3B2cA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0RyckFrM0ZZLVVqb3d2RGhxRy00V2huSk5Tby13Z3pmYXdsMlpoeHlaLVh3MDlaVlFBQVJRdm1COXpxTVZQaDI4TVlYRWplMDlaMFBDd0kwZ2pBZDBJZ2dMQWpkS09OUHZBbTBsVU8zbVBXLXljalQ4aUJFb3B2cA",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788519336.0
-    },
-    {
-        "id": "2eac0f00f0",
-        "title_fa": "همکاری اپل و علی‌بابا برای عرضه هوش مصنوعی در چین",
-        "title_en": "AI Models Collaborations: Apple Teams with Alibaba to Launch Its China-Specific Language…",
-        "summary": [
-            "اپل برای بومی‌سازی و ارائه قابلیت‌های هوش مصنوعی خود در بازار چین با غول فناوری علی‌بابا وارد همکاری شد.",
-            "محدودیت‌های رگولاتوری دولت چین، اپل را ملزم به استفاده از مدل‌های بومی‌سازی‌شده داخل این کشور کرده است."
-        ],
-        "full_text": "AI Models Collaborations: Apple Teams with Alibaba to Launch Its China-Specific Language…  Trend Hunter",
-        "impact": "حفظ سهم بازار آیفون در چین از طریق هماهنگی کامل با قوانین محلی هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 8,
-        "sentiment": 0.6,
-        "source": "Trend Hunter",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xQnpoODFQU3ZCTjVEMFJHcEJnSDhEdGZCTnB0aGQ5MjN5X2VYZktlTGZZa2JjZk1BbVppN0IwcGpQNm1vRF9SbTlxelA5c3RKZFNSel9EWGxyNmtBdjVyWXM4VE56WWlFQXU2SlQxajROUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xQnpoODFQU3ZCTjVEMFJHcEJnSDhEdGZCTnB0aGQ5MjN5X2VYZktlTGZZa2JjZk1BbVppN0IwcGpQNm1vRF9SbTlxelA5c3RKZFNSel9EWGxyNmtBdjVyWXM4VE56WWlFQXU2SlQxajROUQ",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788518354.0
-    },
-    {
-        "id": "6331b32fdb",
-        "title_fa": "انتشار قریب‌الوقوع macOS 27 با نام گلدن گیت",
-        "title_en": "macOS 27 Golden Gate is nearly here: Everything new coming to your Mac",
-        "summary": [
-            "اپل در حال آماده‌سازی نسخه جدید سیستم‌عامل مک با نام macOS 27 Golden Gate برای عرضه عمومی است.",
-            "این به‌روزرسانی شامل قابلیت‌های جدید، بهینه‌سازی‌های سیستمی و بهبود‌های بصری برای رایانه‌های مک خواهد بود."
-        ],
-        "full_text": "macOS 27 Golden Gate is nearly here: Everything new coming to your Mac  Macworld",
-        "impact": "ارتقای تجربه کاربری و بهبود عملکرد کلی رایانه‌های مک اپل.",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": 0.5,
-        "source": "Macworld",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc",
-        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788515675.0
     }
 ]
