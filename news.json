@@ -1,5 +1,71 @@
 [
     {
+        "id": "af2483fe1b",
+        "title_fa": "عرضه عمومی API پلتفرم مدیریت مالی Dispatch",
+        "title_en": "Dispatch Opens Its Wealth Operations Platform to the Industry With Launch of the Dispatch API",
+        "summary": [
+            "پلتفرم Dispatch با عمومی کردن API خود، امکان اتصال نرم‌افزارهای مختلف مالی و مدیریت ثروت را برای کل این صنعت فراهم کرد.",
+            "این اقدام فرایند یکپارچه‌سازی داده‌ها و تبادل اطلاعات بین ابزارهای مدیریت دارایی را بسیار ساده‌تر می‌سازد."
+        ],
+        "full_text": "Dispatch Opens Its Wealth Operations Platform to the Industry With Launch of the Dispatch API  Business Wire",
+        "impact": "تسریع دیجیتالی‌شدن صنعت مدیریت ثروت و کاهش هزینه اتصال سامانه‌های مالی به یکدیگر.",
+        "tag": "استارتاپ",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3h5UUJmaDdyOHEtd1FqZmVkcl9nc2RSWkJubklaMDcxRXBnVFlrV1ZJcjFDU2dmWDZucFBGbkFjMkNpM2lWdHB1Ry1JQ3RBcXE2LVRKSmw0dEJkM0tTdEFvVmY5Sk93UHIzeEZfY2hvNnhfenRPSDJVcWZmM0NFZjRtRklqenhZYWxXS0k1dERFTFU4NkJZZTVleGY5NXVnSlVhT01DMTF6Z09fUHlUTUVPQmRMVzZBLV94Z1JWQ1huMDJyUExSVDZhVFZVUGJWa1ZHM2w1S3MyRFA5Sy1fMlRXOFM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb3h5UUJmaDdyOHEtd1FqZmVkcl9nc2RSWkJubklaMDcxRXBnVFlrV1ZJcjFDU2dmWDZucFBGbkFjMkNpM2lWdHB1Ry1JQ3RBcXE2LVRKSmw0dEJkM0tTdEFvVmY5Sk93UHIzeEZfY2hvNnhfenRPSDJVcWZmM0NFZjRtRklqenhZYWxXS0k1dERFTFU4NkJZZTVleGY5NXVnSlVhT01DMTF6Z09fUHlUTUVPQmRMVzZBLV94Z1JWQ1huMDJyUExSVDZhVFZVUGJWa1ZHM2w1S3MyRFA5Sy1fMlRXOFM",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789433738.0
+    },
+    {
+        "id": "6331b32fdb",
+        "title_fa": "عرضه سیستم‌عامل macOS 27 Golden Gate برای کاربران مک",
+        "title_en": "macOS 27 Golden Gate has arrived: Here’s what’s new on your Mac",
+        "summary": [
+            "اپل نسخه جدید سیستم‌عامل مک با نام macOS 27 Golden Gate را به‌طور رسمی منتشر کرد.",
+            "این به‌روزرسانی روی بهینه‌سازی عملکرد سیستم، قابلیت‌های هوشمند جدید و هماهنگی بیشتر میان دستگاه‌های اپل تمرکز دارد."
+        ],
+        "full_text": "macOS 27 Golden Gate has arrived: Here’s what’s new on your Mac  Macworld",
+        "impact": "ارتقای تجربه کاربری میلیونی دارندگان مک و بهبود یکپارچگی ابزارهای نرم‌افزاری اپل.",
+        "tag": "سخت‌افزار",
+        "urgency": 7,
+        "sentiment": 0.5,
+        "source": "Macworld",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa1lVQy03clZsdTBBYTBrSHNTNm9lMXNmemtsYm5EWjJaZVY3R0dYSWhkei1BWVlKMTBqY3hySXBRbXZIdG9EcGdzb0V2VHUycURkbkg0azhUbzBzcjdVNGFpUGNtT0NCd3RCRndjdWc3QUZiUncybF9CeVM2em1taEhqcmJDOVJTR2hTdVZKaExqcVkxU3F3YjRoSVc1N3ViZDNHdFAzNkpqNTlkYmxUcG9IME5IajlRbHc",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789431734.0
+    },
+    {
+        "id": "42e2b307a6",
+        "title_fa": "هشدار مدیرعامل آنتروپیک: توسعه هوش مصنوعی را کندتر کنید",
+        "title_en": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+        "summary": [
+            "داریو آمودی، مدیرعامل آنتروپیک، خواهان کاهش سرعت توسعه مدل‌های فوق‌پیشرفته هوش مصنوعی جهت ارزیابی دقیق‌تر خطرات امنیتی شد.",
+            "این موضع‌گیری علنی، اختلاف‌نظر عمیق میان رهبران صنعت AI بر سر رقابت سرسام‌آور در برابر ایمنی مدل‌ها را پررنگ‌تر می‌کند."
+        ],
+        "full_text": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown  The New York Times",
+        "impact": "احتمال تشدید فشارهای رگولاتوری و کند شدن روند عرضه عمومی نسل بعدی مدل‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789428646.0
+    },
+    {
         "id": "a710a27523",
         "title_fa": "بازدید اعضای کلوب روتاری از پایگاه فضایی وندنبرگ",
         "title_en": "Pismo Rotary visits Vandenberg",
@@ -20,6 +86,31 @@
             "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1789425149.0
+    },
+    {
+        "id": "4dbb23bc07",
+        "title_fa": "جذب سرمایه ۵۳ میلیون دلاری پلتفرم داده‌های رمزارز Kaiko",
+        "title_en": "Kaiko raises $53M to grow its crypto data platform",
+        "summary": [
+            "استارتاپ فرانسوی Kaiko در دور جدید سرمایه‌گذاری به رهبری S&P Global موفق به جذب ۵۳ میلیون دلار شد.",
+            "این شرکت داده‌های بیش از ۲۰ هزار دارایی دیجیتال را از بلاکچین‌ها و صرافی‌ها جمع‌آوری کرده و در اختیار موسسات مالی بزرگ قرار می‌دهد."
+        ],
+        "full_text": "Kaiko raises $53M to grow its crypto data platform Kaiko, a French startup that provides market intelligence about digital assets, has raised $53 million in funding. S&P Global led the investment. Kaiko stated in its announcement of the deal today that Nasdaq Ventures, Coinbase Ventures, BNP Paribas and several other institutional backers chipped in as well. The deal extends a $57 million Series B round that the company originally closed in 2022. Kaiko, officially Challenger Deep SAS, provides market data about more than 20,000 digital assets. It collects the information from blockchain logs, crypto exchanges and lending protocols, decentralized systems that allow users to issue loans to one another. Kaiko sells its data to financial institutions through a set of cloud services. Customers who require access to market data in near real-time can turn to a service called Kaiko Stream. It’s based on gRPC, an open-source standard for building application programming interfaces. The technology is several times faster than the REST standard on which most APIs are based but can also be more complicated to use. The company also offers access to historical market datasets. Customers can download them twice a day as a spreadsheet or have the company sync the records to their cloud-based data warehouses. Kaiko offers raw data points such as cryptocurrency prices alongside information derived from market analyses. For example, a metric called implied volatility helps investors estimate future fluctuations in digital asset prices. Advanced users can customize how Kaiko calculates risk levels by adjusting its evaluation criteria. The latest addition to the its portfolio of data products made its debut earlier this month. The S&P Kaiko Digital Asset Indices suite of services enables fund managers to track the current price of the cryptocurrencies in which they invest. Asset prices are refreshed every few seconds. Kaiko is bringing the offering to market with S&P, the lead investor in its new funding round. The company will use the funds to expand its datasets. It also plans to upgrade its Kaiko Data Infrastructure platform, which enables organizations to share financial information with partners via blockchains. If a dataset is already stored on a blockchain, the platform can load it into traditional analytics tools. The cash infusion gives Kaiko the option to make more acquisitions. In June, it bought Amberdata Inc., a venture-backed startup that built a competing market intelligence platform for crypto investors. Kaiko earlier acquired Cometh SAS, a Paris-based developer of digital asset management tools for financial institutions. Photo: Unsplash A message from John Furrier, co-founder of SiliconANGLE: Support our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities. - 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more - 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network Are you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/ About SiliconANGLE Media Founded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.",
+        "impact": "تسهیل ورود موسسات مالی سنتی به بازار دارایی‌های دیجیتال با اتکا به زیرساخت داده‌های استاندارد.",
+        "tag": "استارتاپ",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/09/14/kaiko-raises-53m-to-grow-its-crypto-data-platform/",
+        "clean_url": "https://siliconangle.com/2026/09/14/kaiko-raises-53m-to-grow-its-crypto-data-platform",
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Image-4.png",
+        "images": [
+            "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Image-4.png",
+            "https://siliconangle.com/wp-content/themes/siliconangle/img/SA-web-logo-300x58.png",
+            "https://s3.us-west-2.amazonaws.com/cube365-prod/related-content/e810e50d-1091-4ce3-9cc2-0232848a8d60.png",
+            "https://s3.us-west-2.amazonaws.com/cube365-prod/related-content/04ae65c6-92d8-4203-904e-2ee935b71f1f.png"
+        ],
+        "timestamp": 1789417800.0
     },
     {
         "id": "0212b86910",
@@ -112,6 +203,54 @@
             "https://static.digiato.com/digiato/2026/09/13biz-ai-pushback-02-hctg-superJumbo.jpg-1024x698.webp"
         ],
         "timestamp": 1789401600.0
+    },
+    {
+        "id": "14aff3902f",
+        "title_fa": "جذب ۱۳۰ میلیون دلار برای هوشمندسازی ساخت دیتاسنترها با AI",
+        "title_en": "Buildots Raises $130M as AI Data-Center Builds Fuel Growth",
+        "summary": [
+            "استارتاپ Buildots با جذب ۱۳۰ میلیون دلار سرمایه جدید، مجموع اعتبارات خود را به ۲۹۷ میلیون دلار رساند تا پلتفرم همزاد دیجیتال ساخت‌وساز را توسعه دهد.",
+            "این سیستم با تحلیل ویدیوهای ۳۶۰ درجه توسط بینایی ماشین، تاخیر در ساخت پروژه‌های بزرگ مثل دیتاسنترها و بیمارستان‌ها را تا ۵۰ درصد کاهش می‌دهد.",
+            "تقاضای بی‌سابقه برای ساخت دیتاسنترهای هوش مصنوعی، درآمد سالانه این استارتاپ را در چند سال اخیر سه برابر کرده است."
+        ],
+        "full_text": "TL;DR - Buildots raised $130 million led by O.G. Venture Partners, bringing total capital raised to $297 million for its AI construction platform. - The Tel Aviv startup's customer roster has grown from about 50 to more than 100 large builders in the 16 months since its $45M Series D. - CEO Roy Danon credits the AI buildout with pouring 'rocket fuel' on demand, citing threefold annual revenue growth for several years. Buildots has raised $130 million in fresh capital to expand an AI platform that converts construction-site video into 3D digital twins, SiliconAngle reported. O.G. Venture Partners led the round, with Lightspeed Venture Partners, Intel Capital, Qumra Capital, Viola Growth and Poalim Equity participating, alongside Mohari Ventures, Human Capital Investment Management and individual investor Avigdor Willenz. The Tel Aviv company's customer base has grown from roughly 50 construction firms to more than 100 in the 16 months since a $45 million Series D led by Qumra Capital. Named customers include Digital Realty, Intel, Turner Construction, HOCHTIEF, Bouygues, Mortenson, JE Dunn and STO Building Group. Total capital raised now stands at $297 million, and the company reports 'threefold annual revenue growth for several years,' though it does not disclose absolute revenue. Chief executive Roy Danon framed the moment around the AI buildout itself. 'It will soon be inconceivable that anyone managed a construction portfolio without Buildots,' he said in the funding announcement. 'That shift was already underway before the AI buildout, but the buildout has poured rocket fuel on it.' Ziv Kop, managing partner at O.G. Venture Partners, argued the platform's edge is proprietary data. 'Buildots is that layer for construction, trained on a volume and quality of site data that nobody else has,' he said. Proceeds will fund expansion across North America and Europe and extend the software from bidding through handover, on top of a recent acquisition of workforce and safety startup Genda. The raise lands amid a steady run of AI-infrastructure funding we've been tracking, including Nvidia-backed Firmus's move toward a $5 billion Australia IPO to bankroll a 1.6GW data-center project.",
+        "impact": "کاهش چشمگیر زمان و هزینه ساخت زیرساخت‌های غول‌آسای هوش مصنوعی و دیتاسنترها در سطح جهانی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.8,
+        "source": "aiweekly",
+        "url": "https://aiweekly.co/alerts/buildots-raises-130m-as-ai-data-center-builds-fuel-growth",
+        "clean_url": "https://aiweekly.co/alerts/buildots-raises-130m-as-ai-data-center-builds-fuel-growth",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789394340.0
+    },
+    {
+        "id": "41438cd139",
+        "title_fa": "سرمایه‌گذاری لنس‌کارت روی عینک‌های هوشمند مبتنی بر AI",
+        "title_en": "Lenskart raises AjnaLens stake to 9% as it doubles down on AI-powered smart glasses",
+        "summary": [
+            "لنس‌کارت سهم خود را در استارتاپ واقعیت افزوده AjnaLens به ۹ درصد رساند تا زیرساخت عینک‌های هوشمند خود را تقویت کند.",
+            "اصلی‌ترین چالش عینک‌های هوشمند، گنجاندن عدسی‌های طبی در فریم‌های پر از قطعات الکترونیکی است که لنس‌کارت با شبکه ساخت و فروشگاهی خود این مشکل را حل می‌کند."
+        ],
+        "full_text": "Peyush Bansal-led Lenskart has acquired an additional 1.80% of Dimension NXG Private Limited, the parent of extended reality startup AjnaLens, for Rs 7.99 crore, taking its holding to 9.01% on a fully diluted basis. The transaction was completed on 13 September and disclosed in a regulatory filing. It is the third time Lenskart has increased its stake in the company this year. The company said the investment strengthens its association with the extended reality, AI and smart wearable technology ecosystem, and supports technology-led opportunities in smart eyewear. Lenskart made its first investment in AjnaLens in July 2025, for around Rs 21 crore, to work on AI-powered smart glasses. By the time Lenskart went public it held 5.05% of Dimension NXG. It then acquired an additional 0.68% on 26 February this year, a further 1.69% on 4 July, and 1.80% on 13 September for Rs 7.99 crore, which took the total to 9.01%. The three tranches completed in 2026 together represent 4.17% of the company for an aggregate Rs 18.5 crore. What the numbers say about AjnaLens Dimension NXG reported turnover of about Rs 15.97 crore in FY24, Rs 12.8 crore in FY25 and Rs 10.4 crore in FY26. That is a decline of roughly 19% in the most recent year, and about 35% over two years. AjnaLens was founded in 2014 by Pankaj Raut, Abhijit Patil and Abhishek Tomar, and builds hardware and software using extended reality. Its customers are in defence and enterprise rather than consumer markets, where sales cycles are long, order sizes lumpy, and revenue in any single year says less about the business than it would for a consumer company. Why an eyewear retailer is buying XR technology Smart glasses are becoming a real product category, and the companies building them keep running into the same problem. Most people who wear glasses need prescription lenses, and fitting prescription lenses into a frame packed with displays, cameras, batteries and audio is genuinely difficult. Technology companies have the computing. What they lack is lens-making, frame engineering, optical fitting and a network of stores where a customer can have their eyes tested and the product fitted. Lenskart has the optical and retail infrastructure, while AjnaLens brings deeper expertise in XR and spatial computing. The investment buys Lenskart a position in the technology without acquiring the company outright or building a research division from scratch. The AjnaLens stake sits inside a broader effort. Lenskart has launched Phonic, a line of audio glasses, and has said it is working on AI-powered smart glasses. It has partnered with Qualcomm for the technology stack underpinning those glasses. The company is in a strong position to fund this. Founded in 2010, Lenskart operates across India, the UAE, Singapore and Japan, and had 3,459 stores as of 30 June 2026. In the first quarter of FY27 it reported net profit of Rs 228.4 crore, up 273% year-on-year.",
+        "impact": "تسریع ورود عینک‌های واقعیت افزوده و هوشمند به بازار مصرف عمومی از طریق ترکیب فناوری XR و شبکه توزیع اپتیکال.",
+        "tag": "گجت",
+        "urgency": 7,
+        "sentiment": 0.6,
+        "source": "Indian Startup News",
+        "url": "https://indianstartupnews.com/news/lenskart-raises-ajnalens-stake-to-9-as-it-doubles-down-on-ai-powered-smart-glasses-12531306",
+        "clean_url": "https://indianstartupnews.com/news/lenskart-raises-ajnalens-stake-to-9-as-it-doubles-down-on-ai-powered-smart-glasses-12531306",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/indianstartupnews/media/media_files/PxVyoYgqL7VMbLCNovWK.png",
+        "images": [
+            "https://img-cdn.publive.online/fit-in/1200x675/indianstartupnews/media/media_files/PxVyoYgqL7VMbLCNovWK.png",
+            "https://img-cdn.publive.online/fit-in/580x326/filters:format(webp)/indianstartupnews/media/agency_attachments/2025/02/08/2025-02-08t102401502z-new-isn-logo-red.png",
+            "https://img-cdn.publive.online/fit-in/0x0/filters:format(webp)/indianstartupnews/media/media_files/2026/06/17/desktop-728-x-90-1-2026-06-17-17-20-35.png",
+            "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/indianstartupnews/media/media_files/PxVyoYgqL7VMbLCNovWK.png"
+        ],
+        "timestamp": 1789382340.0
     },
     {
         "id": "6b8aa3e09e",
@@ -6879,153 +7018,5 @@
             "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
         ],
         "timestamp": 1788537688.0
-    },
-    {
-        "id": "03e5c3a416",
-        "title_fa": "تصاحب ۱۳ میلیارد دلاری هگینگ فیس توسط انویدیا و جهش درآمدی HPE",
-        "title_en": "Why Tech CEOs Are Backing Nvidia's Hugging Face Acquisition and HPE's Surge",
-        "summary": [
-            "خرید ۱۲.۹ میلیارد دلاری Hugging Face دسترسی مستقیم انویدیا به ۱۸ میلیون توسعه‌دهنده و بزرگ‌ترین مخزن مدل‌های باز را ممکن می‌کند.",
-            "درآمد سرورهای هوش مصنوعی شرکت HPE با رشد ۳۴ درصدی به ۱۲.۲ میلیارد دلار رسید که نشان‌دهنده تقاضای بی‌وقفه برای سخت‌افزار پردازشی است.",
-            "پیوند میان سازندگان سخت‌افزار و انجمن‌های متن‌باز، گام استراتژیک بعدی برای بهینه‌سازی تراشه‌های هوش مصنوعی است."
-        ],
-        "full_text": "Nvidia’s massive buyout of Hugging Face is a total game-changer for the tech world. It gives the chip giant a massive foothold in the software space as everyone scrambles to build out their own AI infrastructure. Antonio Neri, the CEO of Hewlett Packard Enterprise, is clearly a fan. He pointed out that this move hands Nvidia the keys to the most important developer hubs and live market data on the planet. By bringing Hugging Face into the fold, Nvidia just snagged the world’s biggest library of AI models, serving 18 million developers and over 200,000 businesses. Now, they can see exactly what tools coders are using in real-time. Meanwhile, HPE crushed their latest quarterly earnings, even if the Hugging Face news stole the spotlight. Revenue hit $12.21 billion, jumping 34% compared to this time last year. Earnings per share hit $1.11, smashing what Wall Street analysts expected. This growth happened because companies are buying AI servers and networking gear as fast as they can get their hands on them. Backlogs are at an all-time high. Neri mentioned that the demand for routers and high-end servers is relentless right now. Industry veterans know that modern tech stacks run on a mix of custom models, open-source projects, and weight-based architectures. Neri noted that China is a huge player in the open-source scene, making it vital for companies to stay involved in those communities to keep the industry healthy. Hardware makers are now laser-focused on how these models run on their chips to power the next generation of AI agents. More Update: Asian Stocks and US Markets Rally as Oil and Yields Ease Following Trump Statements Hardware and software are finally colliding. Global infrastructure depends on this marriage of silicon and code. Tech giants are constantly weighing the pros and cons of keeping things closed off versus leaning into open-source community efforts. When a hardware company knows exactly what developers are building, they can tweak their production lines to match actual market demand. Looking at the long game, HPE boosted their revenue growth forecast for 2027 to between 13% and 17%. Earnings should climb by roughly 16% over that same stretch. Neri remains confident that networking and server sales will stay strong, giving the company a clear path for growth over the next ten years.",
-        "impact": "تصاحب شریان حیاتی مدل‌های متن‌باز توسط انویدیا و تثبیت انحصار در بازار زیرساخت هوش مصنوعی.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 9,
-        "sentiment": 0.8,
-        "source": "Ventureburn",
-        "url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge/",
-        "clean_url": "https://ventureburn.com/nvidia-hugging-face-hpe-surge",
-        "image": "https://ventureburn.com/wp-content/uploads/2026/09/nvidia-hugging-face-hpe-surge_1788520243.jpg",
-        "images": [
-            "https://ventureburn.com/wp-content/uploads/2026/09/nvidia-hugging-face-hpe-surge_1788520243.jpg",
-            "https://ventureburn.com/wp-content/uploads/2026/09/Group-3896-1.png",
-            "https://ventureburn.com/wp-content/uploads/2025/10/Trade-Smarter-with-Our-Community.png",
-            "https://ventureburn.com/wp-content/themes/ventureburn/assets/svg/facebook.svg"
-        ],
-        "timestamp": 1788536640.0
-    },
-    {
-        "id": "56c3466174",
-        "title_fa": "جهش سهام اوراکل تحت تأثیر معرفی مدل جدید OpenAI",
-        "title_en": "Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release",
-        "summary": [
-            "رونمایی OpenAI از آسترا (Astra) موجی از خوش‌بینی را میان سهام‌داران اوراکل ایجاد کرده و سهام این شرکت را در آستانه انتشار گزارش مالی بالا برده است.",
-            "تقاضای غول‌های AI برای زیرساخت‌های پردازش ابری، اوراکل را به یکی از برندگان اصلی بازار هوش مصنوعی تبدیل کرده است."
-        ],
-        "full_text": "Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release  Investor's Business Daily",
-        "impact": "پیوند خوردن زیرساخت‌های ابری بزرگ با مدل‌های پیشرفته هوش مصنوعی، درآمد شرکت‌های ابری را وارد کانال جدیدی کرده است.",
-        "tag": "هوش‌مصنوعی",
-        "urgency": 7,
-        "sentiment": 0.65,
-        "source": "Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwWnpJZ2lRRlBET3Q5YmNuZmpfNC1pNk51U296LXhYUEFndU5uZ0V5a1drMUY0SjF1UGhhSHVDdVNVdEIyUDFvUkg1Snc3VXN6U1B5cEg4TllGOUM5QUU0QUtSazc1VUd4ZVhTeHk5d1FEeTI1TEcxMXVwT1pFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwWnpJZ2lRRlBET3Q5YmNuZmpfNC1pNk51U296LXhYUEFndU5uZ0V5a1drMUY0SjF1UGhhSHVDdVNVdEIyUDFvUkg1Snc3VXN6U1B5cEg4TllGOUM5QUU0QUtSazc1VUd4ZVhTeHk5d1FEeTI1TEcxMXVwT1pFZw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788536520.0
-    },
-    {
-        "id": "bf7eff84b9",
-        "title_fa": "جذاب‌ترین گجت‌های نمایشگاه IFA؛ از گوشی بدون حاشیه تا جاروی دوطبقه",
-        "title_en": "The best tech and gadgets announced at IFA so far",
-        "summary": [
-            "تکنو با پنهان‌کردن لبه‌های نمایشگر زیر فریم فلزی، گوشی مفهومی Bezelless را کاملاً بدون حاشیه طراحی کرد.",
-            "آی‌ربات با معرفی Roomba Duo مفهوم جاروهای روباتیک را تغییر داد؛ یک روبات بزرگ که درون خود یک جاروی کوچک‌تر برای کنج‌های تنگ حمل می‌کند.",
-            "پروژکتور سفری Aurzen Zip Pro با روشنایی ۲۰۰ لومن و کیفیت 1080p به‌روزرسانی شد."
-        ],
-        "full_text": "The doors to Europe’s largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you’re struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show — including a smartphone that attempts to finally rid the world of screen bezels and a powerful robovac that carries a smaller sidekick for cleaning spaces it can’t squeeze into. The best tech and gadgets announced at IFA so far Double-decker robovacs, a smartphone that eliminates the screen bezel, and another laptop with an expanding screen. To catch up on everything announced at IFA 2026 you can follow The Verge’s complete coverage right here. By tucking the edges of its 6.78-inch, 144Hz OLED panel underneath the phone’s thin metal frame, Tecno managed to create a smartphone that nearly entirely eliminates a visible bezel, maximizing screen real estate. The aptly-named Bezelless made its debut at IFA with a MediaTek Dimensity 7400e chipset paired with 8GB of RAM, 256GB of storage, a 6,000mAh battery, and a trio of front and back cameras including a 50-megapixel main shooter. The company hasn’t announced any plans to put the concept into production, but its unique design could eventually inspire other devices. Why build one robovac that can do it all when you can split the work between a pair of them? That’s the idea behind iRobot’s Roomba Duo concept. The main vacuum is the most powerful robovac the brand has ever made. It can suck up messes like spilled pasta, steam-mop hard floors, and vacuum and wash carpeting while navigating a home using a combination of lidar and cameras. But it’s big, so to reach and clean tighter spaces, the Roomba Duo carries a Roomba Plus 757 on top in a small garage it can raise and lower to deploy its robovac sidekick. One of the most portable projectors on the market is getting some welcome upgrades. The $579.99 Aurzen Zip Pro carries forward the same tri-fold design of the original including features like autofocus and automatic keystone adjustments but is getting a bump in brightness from 100 to 200 ANSI lumens and an increase in resolution to 1080P. It’s a bit bigger than its predecessor thanks in part to a battery that now offers up to 2.5 hours of runtime and added connectivity, including the ability to tether to the Nintendo Switch using only a USB-C cable. First announced at MWC 2026 earlier this year, the RugOne Xsnap 7 Pro is an extra durable $999 Android 16 smartphone with dust and water protection, a beefy 9,300mAh battery, a 6.67-inch 120Hz AMOLED screen, and four cameras. The three on the back include a 64MP night vision camera assisted by infrared LEDs and one that can be removed and used as a standalone action camera capable of capturing video at up to 2.7K/30fps. The pop-out camera module has a battery good for up to 40 minutes and 64GB of built-in storage. When either are depleted, you can reattach to the camera module to the phone where its battery will recharge and the footage will be copied over automatically. Lenovo continues to experiment with ways for laptops to take advantage of flexible OLED displays, but its latest concept feels a bit tame compared to the Legion Pro Rollable gaming laptop it debuted at CES 2026. The 14-inch Project Swan concept is much smaller by comparison with a display that unfurls horizontally to grow to 17 inches with a 16:9 aspect ratio. It keeps the laptop compact while boosting productivity with extra screen real estate, but accommodating the OLED panel and motors leaves the laptop’s lid feeling unusually heavy with a design that limits how far back it can be tilted. At its thickest point, the Muse measures around 3.8mm and will be available in 512GB or 1TB capacities with read and write speeds topping out at 1,050MB/s and 1,000MB/s, respectively. There’s not much compromise on performance, but there is with connectivity. To slim down the drive, Lexar skipped a standard USB-C port in favor of a magnetic pogo-pin connector and a proprietary USB-C cable. Not only do you have to keep tabs on a special cable, if you want to stick the Muse to the back of your smartphone while recording video you’ll need to use an included magnetic sleeve that negates the drive’s slim design. There are two new versions of Anker’s sleepbuds that can help quiet a snoring roommate, but the $349.99 Soundcore Sleep Earbuds 4 Pro introduce a new charging case with a round OLED display on the case. Without having to reach for your phone you can select a preset soundscape, browse your recent sleep stats, and set alarms. The sleepbuds also feature in-ear PPG sensors, so while you doze, they can keep tabs on the quality of your sleep, heart rate, HRV, and other health metrics that may provide insights if you wake up exhausted each morning. Borrowing an idea that Lenovo proposed in a laptop concept last year, Oukitel’s RG14-P features a solar panel on the lid that can recharge the laptop’s battery at up to 10W under “optimal sunlight conditions.” It would take approximately six hours to bring a dead battery up to a 50 percent charge, but you won’t have to be scrambling to find a power outlet. It’s expected to launch in November with a 14th gen Intel Core i7 processor, 16GB of RAM, and 512GB of storage. With most rope lighting solutions you can easily see the individual LEDs illuminating it from within, but Philips Hue’s new Liane 360-degree Rope Lights emit an even diffuse light in all directions using the company’s OmniGlow technology with the ability to adjust their color. The ropes can be used to line and illuminate architectural features, simply hung from a ceiling, or shaped using clear clips and mounts. But they’re not cheap. A 3-meter version is $399.99 while a 5-meter option is $549.99. At $5,999 when it launches later this year, Awol Vision’s latest ultra-short throw projector will strain budgets, but at a distance of just 7.5 inches from a wall it can p",
-        "impact": "نمایش مسیر آینده طراحی گجت‌های خانگی و موبایل در بزرگ‌ترین رویداد تکنولوژی اروپا.",
-        "tag": "گجت",
-        "urgency": 7,
-        "sentiment": 0.6,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "clean_url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0,7.6095947063689,100,84.780810587262&w=2400",
-        "images": [
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0,7.6095947063689,100,84.780810587262&w=2400",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/ANDREW_LISZEWSKI_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788536460.0
-    },
-    {
-        "id": "acbce47311",
-        "title_fa": "جدیدترین شایعات آیفون ۱۸؛ احتمال افزایش قیمت و رنگ‌های تازه",
-        "title_en": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, new colors",
-        "summary": [
-            "گزارش‌ها و افشاگری‌های اولیه نشان می‌دهند که اپل قصد دارد تغییرات قیمتی و گزینه‌های رنگی جدیدی را برای سری آیفون ۱۸ در نظر بگیرد.",
-            "با اینکه زمان زیادی تا عرضه باقی مانده، شایعات از تغییرات ساختاری در قطعات و طراحی این نسل خبر می‌دهند."
-        ],
-        "full_text": "The latest iPhone 18 news, leaks, and rumors: Release date, price increases, new colors  Mashable",
-        "impact": "افزایش احتمالی قیمت آیفون ۱۸ می‌تواند سطح قیمتی تمام گوشی‌های پرچمدار بازار را یک پله بالاتر ببرد.",
-        "tag": "گجت",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjFENHV2Qi1uOWduVEZBTlhMTGpidVVSS0JwdWQzQ1NwWC1iNG55RGpzbjBVbzdQQXpQRTZuNlVTWGx1bkdfaWlrNVJrRTlKbW9yOXppY0ZFS3lEak1GeDI1amJKaVpQX21oclY2ZE14NkxfU0VNQmlMaV84SjRaaVVjM0dnZVI0QVZTTjBUVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjFENHV2Qi1uOWduVEZBTlhMTGpidVVSS0JwdWQzQ1NwWC1iNG55RGpzbjBVbzdQQXpQRTZuNlVTWGx1bkdfaWlrNVJrRTlKbW9yOXppY0ZFS3lEak1GeDI1amJKaVpQX21oclY2ZE14NkxfU0VNQmlMaV84SjRaaVVjM0dnZVI0QVZTTjBUVQ",
-        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788536044.0
-    },
-    {
-        "id": "ec7f441687",
-        "title_fa": "بحران تولید آیفون تاشو؛ اپل روزانه فقط چند صد دستگاه می‌سازد",
-        "title_en": "Apple reportedly making 'a few hundred' foldable iPhones per day",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد اپل به دلیل استانداردهای سخت‌گیرانه کیفیت در لولا و نمایشگر، با چالش جدی تولید آیفون اولترا تاشو روبروست.",
-            "با وجود سفارش اولیه ۱۰ میلیون دستگاهی، بررسی‌های مجدد کیفی در ماه اوت روند تولید انبوه را عقب انداخته است.",
-            "احتمال دارد آیفون تاشو در مراسم ۹ سپتامبر معرفی شود، اما تحویل آن به مشتریان با تأخیر زیاد و به‌صورت مرحله‌ای انجام خواهد شد."
-        ],
-        "full_text": "Apple is expected to announce new iPhones at its Sept. 9 event, including the long-rumoured foldable iPhone Ultra. However, with the reveal just days away, the company is reportedly facing production hurdles with the foldable. According to details covered by Nikkei Asia (via MacRumors), Apple was only managing to produce “a few hundred units a day” of its foldable just last month. Nikkei cited supply chain sources, noting that Apple’s high quality standards are at least partially responsible. We’ve known that Apple has had foldable challenges for a while, particularly around the hinge and display. However, those problems were thought to be resolved after Apple raised its production order from around 7 to 8 million to 10 million units for the year, and the foldable was thought to be on track for September. But now, the company reportedly ordered additional verification in August to ensure the device can be mass-produced as specified, with continued concerns around the performance of the hinge. The additional verification reportedly pushed back commercial production, which could mean Apple will fall short of its production targets unless it can boost production. Reportedly, the company and its suppliers are working around the clock to do just that. All this could mean limited supplies of the iPhone Ultra at launch, though there’s some uncertainty around when, exactly, the Ultra will launch. Apple is expected to reveal the foldable iPhone on Sept. 9, but availability could come much later. Typically, we see iPhones become available about a week after the reveal, but the iPhone Ultra could take longer, especially for those outside the U.S. Other reporting indicates Apple could do a staggered launch, with the iPhone Ultra arriving in the U.S. first before expanding to other markets. Whatever happens, we’ll likely learn all the details on Sept. 9. Source: Nikkei Asia Via: MacRumors MobileSyrup may earn a commission from purchases made via our links, which helps fund the journalism we provide free on our website. These links do not influence our editorial content. Support us here.",
-        "impact": "کمبود شدید آیفون تاشو در زمان عرضه و تأخیر در ورود آن به بازارهای جهانی خارج از آمریکا.",
-        "tag": "گجت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "MobileSyrup",
-        "url": "https://mobilesyrup.com/2026/09/04/apple-iphone-ultra-foldable-production-issues/",
-        "clean_url": "https://mobilesyrup.com/2026/09/04/apple-iphone-ultra-foldable-production-issues",
-        "image": "https://production-static.mobilesyrup.com/uploads/2026/08/apple-event.jpg",
-        "images": [
-            "https://production-static.mobilesyrup.com/uploads/2026/08/apple-event.jpg",
-            "http://b.scorecardresearch.com/p?c1=2&c2=34948124&cv=2.0&cj=1",
-            "https://mobilesyrup.com/wp-content/themes/mobilesyrup2021/images/ms-logo.svg",
-            "https://mobilesyrup.com/wp-content/themes/mobilesyrup2021/assets/img/Newsletter-image.png"
-        ],
-        "timestamp": 1788535740.0
-    },
-    {
-        "id": "fe041b8035",
-        "title_fa": "رویداد بزرگ ۹ سپتامبر اپل؛ از آیفون تاشو تا افزایش قیمت پروها",
-        "title_en": "What to expect at Apple's September 9th launch event",
-        "summary": [
-            "رویداد پیش‌رو اولین مراسم اپل تحت مدیریت جان ترنوس است که احتمالاً با رونمایی از آیفون‌های سری ۱۸ همراه خواهد بود.",
-            "بر خلاف رویکرد همیشگی، نسخه پایه آیفون ۱۸ غایب بزرگ این مراسم است و عرضه آن به اوایل سال آینده میلادی موکول می‌شود.",
-            "معرفی احتمالی «آیفون اولترا تاشو» و افزایش قیمت مدل‌های پرو و پرو مکس به‌دلیل رشد هزینه‌های تولید، مهم‌ترین بخش‌های این رویداد هستند."
-        ],
-        "full_text": "Apple’s September 9th launch event could be one of its biggest in years. It will be Apple’s first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple’s iPhone 18 lineup. That could include the long-rumored foldable “iPhone Ultra,” coming just a couple months after Samsung debuted its own passport-style foldable, the Galaxy Z Fold 8. What to expect at Apple’s September 9th launch event Apple’s expected to announce a new lineup of iPhones, which could include its first foldable phone. Apple’s expected to announce a new lineup of iPhones, which could include its first foldable phone. Here’s how you can watch the event live, and a few possible highlights to keep an eye out for. How to watch Apple’s September launch event Apple’s “Surprise and shine” event kicks off on Wednesday, September 9th, at 1PM ET / 10AM PT at Apple Park in Cupertino, California. It will be livestreamed on Apple’s website, Apple TV, and YouTube. The iPhone 18 might be a no-show Apple usually announces new iPhones at its September event, but the base iPhone 18 might not make the cut this year. It’s reportedly being held until early next year, and it might end up launching alongside the iPhone 18E and an updated iPhone Air. So, if you’re looking to upgrade to one of Apple’s less expensive phones, you’ll likely need to wait a while longer. The iPhone 18 Pro and Pro Max could launch with a price hike While we might not get a new base iPhone, Apple is still expected to launch its new lineup of phones on September 9th with the iPhone 18 Pro and Pro Max. Both models are rumored to have larger batteries than their predecessors, and possibly a smaller Dynamic Island. They might even get a variable aperture camera upgrade that’s been rumored for years now. Leaked photos supposedly showing dummy models of the phone also hint at this year’s slate of colors, which could include black, silver, light blue, and a dark cherry purple. Unfortunately, there’s also a good chance the iPhone 18 Pro and Pro Max will get a price bump over last year’s models. Apple raised prices on nearly all of its products earlier this year, and those price hikes might finally reach the iPhone during the September 9th event. Apple might announce its first foldable phone One of the premium phones Apple launches on September 9th could be the rumored foldable “iPhone Ultra.” Images of an apparent dummy model of the folding phone leaked earlier this year, showing a passport-style design similar to Samsung’s Galaxy Z Fold 8 and the Xiaomi 18 Fold. The Galaxy Z Fold 8 has been well received so far, with The Verge’s Dominic Preston saying it “feels like the future.” Will Apple’s first foldable be able to compete, despite being fashionably late? The ceramic Apple Watch may finally return Last year’s September Apple event included the Apple Watch Series 11 and Ultra 3, and there’s a good chance both watches will get an update again this year. According to Bloomberg’s Mark Gurman, the Series 12 could bring back the premium ceramic case option. Gurman also says the Series 12 will have new band colors and configurations, but most likely won’t have any big redesign. Aside from new cases and colors, Apple might also announce new health features for its wearables, like always-on heart rate sensing. Apple could launch new AirPods, but probably not with cameras It’s been a couple of years since Apple released the AirPods 4, so they’re due for an upgrade and could make an appearance at Apple’s September 9th event. However, Gurman says the camera-equipped AirPods that leaked last month won’t be released until 2027. So, if Apple announces the AirPods 5 at its upcoming event, they’ll likely be an iterative upgrade, potentially including a new chip and some new health sensors.",
-        "impact": "تغییر استراتژی اپل در جدول زمانی عرضه محصولات و ورود رسمی به بازار رقابتی گوشی‌های تاشو.",
-        "tag": "گجت",
-        "urgency": 9,
-        "sentiment": 0.2,
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-        "clean_url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266,0,90.158761061947,94.827045012242&w=1200",
-        "images": [
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266,0,90.158761061947,94.827045012242&w=1200",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-08-26-at-9.17.30-AM.webp?quality=90&strip=all&crop=2.4612831858407%2C0%2C95.077433628319%2C100&w=1200",
-            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
-            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-        ],
-        "timestamp": 1788533520.0
     }
 ]
