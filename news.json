@@ -1,5 +1,122 @@
 [
     {
+        "id": "7c26df1a21",
+        "title_fa": "ائتلاف ۵۰ سازمان بزرگ برای توسعه هوش مصنوعی انسان‌محور",
+        "title_en": "50+ Leading Organizations Launch Coalition for Pro-Human AI",
+        "summary": [
+            "بیش از ۵۰ سازمان و شرکت مطرح ائتلافی جدید تشکیل داده‌اند تا توسعه هوش مصنوعی را به سمت ابزارهای مکمل نیروی انسانی هدایت کنند.",
+            "تمرکز اصلی این گروه روی تدوین چارچوب‌ها و استانداردهایی است که امنیت و کاربردی بودن AI را برای جوامع تضمین کند."
+        ],
+        "full_text": "50+ Leading Organizations Launch Coalition for Pro-Human AI  Yahoo Finance",
+        "impact": "افزایش فشار جمعی بر شرکت‌های بزرگ فناوری جهت توسعه مسئولانه و ایمن‌تر مدل‌های هوش مصنوعی.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.6,
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemRHOG8tVWdadkNBUzdFTzlMbml1UVdrUUllWXZlU0s4dURfOHBEYWYtd2Vmc3hDV1d1MVNqWjhFS1ZoTTktMzBFcy1yTG8zcnFpVWc2MVdnY05GNXFXQ1pCTkVidlQ3dUNfSmxPMUhXZDR4Sm52QWQtbXhJZzJkWkZlLUtlRGQxYXJLU0VzMFRJaHFyUVF2YlZVZHZWVjBRVm10cVdZaHI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemRHOG8tVWdadkNBUzdFTzlMbml1UVdrUUllWXZlU0s4dURfOHBEYWYtd2Vmc3hDV1d1MVNqWjhFS1ZoTTktMzBFcy1yTG8zcnFpVWc2MVdnY05GNXFXQ1pCTkVidlQ3dUNfSmxPMUhXZDR4Sm52QWQtbXhJZzJkWkZlLUtlRGQxYXJLU0VzMFRJaHFyUVF2YlZVZHZWVjBRVm10cVdZaHI",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789488000.0
+    },
+    {
+        "id": "c9c874ad03",
+        "title_fa": "رونمایی از اولین هوش مصنوعی ایجنتی برای صنعت مد و پوشاک",
+        "title_en": "Lectra unveils Apogy, the first solution embedding agentic artificial intelligence to reinvent fashion product development",
+        "summary": [
+            "شرکت Lectra پلتفرم Apogy را معرفی کرد که با استفاده از ایجنت‌های هوشمند، فرآیند طراحی و تولید پوشاک را اتوماتیک می‌کند.",
+            "این ابزار سرعت چرخه‌های توسعه محصول و مدیریت زنجیره تامین را در صنعت مد به طور چشمگیری افزایش می‌دهد."
+        ],
+        "full_text": "Lectra unveils Apogy, the first solution embedding agentic artificial intelligence to reinvent fashion product development  PR Newswire",
+        "impact": "ورود ایجنت‌های خودکار هوش مصنوعی به اتوماسیون تخصصی در صنایع سنتی مانند پوشاک.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN3JJMlFMdkx2Q2JHaDI5R0gxRWJXMngyeEFaUUlLXzBCRHUxTWQ5VWVKeElSbDkwcG1VSWFBeG9jLXZEbVVIbHZUemJXM0lsVmJsQWh6bUk1N1lseHJJcWh3MUZGMzZ6QzZ0Q0dEUnRkRXItOFFIRlhhbXVvZlZNOW5SZ09pNkxycXlRZWxzRm1GZDZTbjkxZHM1NjdZQmpHbWNTZ2wzN0tUZHN0amYwcU1XSmNZWjF0NWJsLTFEUTNkajdNUkViSV9QNXoyZnBqY3RKZ2FHUDB0YlFIa0s5SjUxV21TRWFuVHNoa0dhdGMxQ0xmYllSazhVeW9YVUphY3ZuQlg3STU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN3JJMlFMdkx2Q2JHaDI5R0gxRWJXMngyeEFaUUlLXzBCRHUxTWQ5VWVKeElSbDkwcG1VSWFBeG9jLXZEbVVIbHZUemJXM0lsVmJsQWh6bUk1N1lseHJJcWh3MUZGMzZ6QzZ0Q0dEUnRkRXItOFFIRlhhbXVvZlZNOW5SZ09pNkxycXlRZWxzRm1GZDZTbjkxZHM1NjdZQmpHbWNTZ2wzN0tUZHN0amYwcU1XSmNZWjF0NWJsLTFEUTNkajdNUkViSV9QNXoyZnBqY3RKZ2FHUDB0YlFIa0s5SjUxV21TRWFuVHNoa0dhdGMxQ0xmYllSazhVeW9YVUphY3ZuQlg3STU",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789488000.0
+    },
+    {
+        "id": "efa2d8688a",
+        "title_fa": "گزارش مک‌کینزی از چشم‌انداز روندهای کلیدی فناوری تا ۲۰۲۶",
+        "title_en": "McKinsey Technology Trends Outlook 2026",
+        "summary": [
+            "موسسه مک‌کینزی پیش‌بینی جدید خود را درباره مسیر رشد فناوری‌های نوظهور و اتوماسیون تا سال ۲۰۲۶ منتشر کرد.",
+            "این گزارش اولویت‌های اصلی سرمایه‌گذاری غول‌های اقتصادی را در حوزه هوش مصنوعی و زیرساخت‌های دیجیتال مشخص می‌کند."
+        ],
+        "full_text": "McKinsey Technology Trends Outlook 2026  McKinsey & Company",
+        "impact": "تصمیم‌گیری‌های استراتژیک مدیران ارشد برای سرمایه‌گذاری در تکنولوژی‌های نوظهور را جهت‌دهی می‌کند.",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": 0.5,
+        "source": "McKinsey & Company",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+        "images": [
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "timestamp": 1789483831.0
+    },
+    {
+        "id": "a16a9d44f2",
+        "title_fa": "متا اشتراک پولی Meta One را با قابلیت‌های ویژه AI معرفی کرد",
+        "title_en": "Meta’s new One subscriptions put a price on social media and AI",
+        "summary": [
+            "متا با معرفی اشتراک‌های جدید Meta One از ۷.۹۹ تا ۴۹۹ دلار در ماه، سرویس‌های شبکه اجتماعی خود را با دسترسی بیشتر به مدل هوش مصنوعی Muse یکپارچه کرد.",
+            "این پلن‌ها علاوه بر نشان تایید و امکانات مدیریتی، سقف ابزارهای ساخت تصویر و ویرایش هوشمند را در اینستاگرام و واتس‌اپ بالا می‌برند.",
+            "ایجنت‌های هوش مصنوعی پاسخگویی ۲۴ ساعته نیز در بسته‌های گران‌تر برای کسب‌وکارها ارائه شده‌اند."
+        ],
+        "full_text": "Shortly after launching its new do-everything AI assistant Muse, Meta’s launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the “core experience” on its apps and Meta AI will still be free, and users can still get its subscriptions for Facebook, Instagram, and WhatsApp without a bundle. It also says it plans to expand the bundles to include “Edits, AI glasses, and more over time.” Meta’s new One subscriptions put a price on social media and AI Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. There are two bundles for individual users, Core for $7.99 per month and Premium for $19.99 per month. They include Instagram Plus, WhatsApp Plus, and Facebook Plus, with “more media generation with Meta AI,” like generating images with Muse or using in-app AI features like Instagram’s Restyle. That’s a few dollars cheaper than paying $11 per month for all three of the standalone subscriptions. The Meta One subscriptions aimed at creators and businesses range from $14.99 to $499 per month. They also include Meta’s individual app subscriptions, along with perks like a bold follow button, a verified badge, higher rankings in search results, and monitoring for fake impersonation accounts: - Essential ($14.99/month): Establish yourself and build confidence with new audiences. Get tools to manage your presence and more access to Meta Business Agent on WhatsApp to respond to customers 24/7. Plus, a verified badge, verified channel on WhatsApp Business app, and impersonation protection so people know you’re who you say you are (pending successful verification). - Advanced ($49.99/month): Invest in professional-grade tools. Advanced publishing features like scheduling stories up to 30 days in advance, links in organic posts and reels, exportable analytics, and deeper audience insights. Give team members access to your account without sharing your password and get more linked devices and business broadcast credits on WhatsApp. Plus, even more Meta Business Agent responses. - Expert ($149/month) and Max ($499/month): Scale and optimize. These plans include our highest levels of feature access and Meta Business Agent capacity for teams managing at scale. Most Popular - Apple releases iOS 27 with Siri AI overhaul - The Dell XPS 13 is the first real competitor to the MacBook Neo - The Steam Frame is made for irresponsible hardware nerds like me - Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world - Apple Home’s new security camera features cost as much as $60 a month",
+        "impact": "متا رسماً الگوی درآمدزایی از هوش مصنوعی را وارد پلن‌های اشتراکی شبکه‌های اجتماعی خود کرد.",
+        "tag": "هوش‌مصنوعی",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "clean_url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "image": "http://www.bing.com/th?id=ONUT.3QjKJWf_RoYrWZi9twYjog&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.3QjKJWf_RoYrWZi9twYjog&pid=News",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.063453493324&w=1200",
+            "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+            "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        ],
+        "timestamp": 1789459200.0
+    },
+    {
+        "id": "ccf2714a0e",
+        "title_fa": "جذب ۴۰ میلیون دلار سرمایه برای توسعه هوش مصنوعی سلامت زنان",
+        "title_en": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+        "summary": [
+            "استارتاپ Evvy با جذب ۴۰ میلیون دلار در دور سری B، قصد دارد بزرگ‌ترین پایگاه داده بیولوژیکی زنان را برای آموزش مدل‌های هوش مصنوعی دقیق‌تر ایجاد کند.",
+            "این شرکت با تحلیل داده‌های بیش از ۱۰۰ هزار کاربر و ارائه دستیار هوشمند EvvyAI، کمبود شدید داده‌های تخصصی زنان در مدل‌های عمومی را جبران می‌کند."
+        ],
+        "full_text": "Women’s health company Evvy on Tuesday said it has raised a $40 million Series B led by Catalio Capital Management. Launched in 2021 by Priyanka Jain, Laine Bruzek, and Pita Navarro, the company is best known for operating what it touts as the world’s only at-home CLIA-certified and CLEP-certified mNGS test to analyze vaginal microbes with one swab. The user mails their swab samples to Evvy’s lab, which then analyzes the results using its own mNGS sequencing, sends them to clinicians registered on its platform for review, and posts the results online in the patient’s health portal. “When a patient receives their results, they are presented alongside a diagnosis, clinical interpretation, and a clear path of next steps, including personalized prescription care when relevant,” CEO and co-founder Priyanka Jain told TechCrunch. Since its launch, Evvy says it now serves more than 100,000 patients across the United States, and works with 3,000 practitioners. “We’ve generated 15 peer-reviewed publications and abstracts, identified novel BV subtypes, and discovered hundreds of previously uncatalogued vaginal microbiome genomes,” Jain said. She added that clinicians on Evvy can now leverage the collected data to offer personalized treatment to patients. But treating patients is only one part of the company’s vision. Its bigger goal is to build a dataset that connects microbiome biology, symptoms, interventions, and health outcomes, “creating a continuous feedback loop that unlocks improvements to care and the discovery of entirely new biomarkers,” Jain said. There is a fundamental flaw right now with precision medicine: the lack of high-quality, representative data on female bodies. “You can’t build precision medicine for women on datasets that never adequately measured female biology in the first place,” Jain said, citing how leading AI models often struggle to answer questions about women’s health. “That’s why I believe AI for women’s health needs to be paired with new biological data at scale. AI can help us identify patterns across molecular signals, hormones, symptoms, treatments, fertility outcomes, and other biomarkers that traditional medicine has struggled to connect.” In May, the company started offering its own AI assistant called EvvyAI, which it bills as an advisor for vaginal health. It translates the microbiome data that Evvy has collected into real-time guidance for users, and directs patients to clinicians for questions that need expert opinions. When Evvy launched, Jain said it was with the belief that she and the team could leverage certain indicators in the vaginal biome to “predict and improve outcomes across the female lifespan,” she said. With that in mind, the startup is also now entering the fertility space, its first major foray beyond vaginal health. Right now, the company is still compiling data and science, specifically linking vaginal microbiomes to infertility, gynecological cancer, preterm birth, IVF success rates, and recurrent pregnancy loss. The company last year launched a prospective study leveraging its vaginal microbiome tests in IVF clinics. Hopefully, Jain said, collecting more data in women’s health can help the industry move away from the unexplained. “Women shouldn’t have to accept unexplained infertility, unexplained recurrence, or unexplained symptoms as answers when what they often mean is that medicine hasn’t caught up to the data yet.” But things are improving. Besides Evvy, others in the vaginal health space include Juno Bio, Tiny Health, and Daye. In the long term, Jain hopes that Evvy can create a new-age Pap smear. “An at-home, non-invasive sample that can provide women with more regular, data-rich insights across infections, inflammation, fertility, PCOC, endometriosis, premenopause, HPV progression, and more,” she said. “I don’t think we can wait for traditional research methods to catch up,” she said. “I believe women, as patients, can be part of pushing the industry forward.”",
+        "impact": "تامین داده‌های بیولوژیکی دقیق، مسیر توسعه هوش مصنوعی در پزشکی تخصصی زنان را هموارتر می‌کند.",
+        "tag": "استارتاپ",
+        "urgency": 7,
+        "sentiment": 0.8,
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+        "clean_url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data",
+        "image": "http://www.bing.com/th?id=ONUT.OXyik30QSABb-qlXjzRLLw&pid=News",
+        "images": [
+            "http://www.bing.com/th?id=ONUT.OXyik30QSABb-qlXjzRLLw&pid=News",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810",
+            "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?w=1024",
+            "https://techcrunch.com/wp-content/uploads/2024/04/Dominic-Madori-Davis.jpg?w=150"
+        ],
+        "timestamp": 1789456380.0
+    },
+    {
         "id": "af2483fe1b",
         "title_fa": "عرضه عمومی API پلتفرم مدیریت مالی Dispatch",
         "title_en": "Dispatch Opens Its Wealth Operations Platform to the Industry With Launch of the Dispatch API",
@@ -6905,118 +7022,5 @@
             "http://www.bing.com/th?id=ONUT.4L2YATTzD7JuXgAb-wh4CA&pid=News"
         ],
         "timestamp": 1788541200.0
-    },
-    {
-        "id": "c3f677821d",
-        "title_fa": "رکورد سرمایه‌گذاری خطرپذیر در کره جنوبی همزمان با قفل شدن بازار IPO",
-        "title_en": "Record Venture Funding Meets Frozen Exit Market in Korea",
-        "summary": [
-            "حجم سرمایه‌گذاری VC در کره جنوبی در نیمه اول سال به ۱۰ تریلیون وون رسید، اما ورود شرکت‌ها به بورس (IPO) با سقوط شدیدی مواجه شده است.",
-            "دولت کره قصد دارد تا سال ۲۰۳۰ بیش از ۲۰۰ تریلیون وون سرمایه به شرکت‌های خصوصی و استارتاپ‌های بومی تزریق کند.",
-            "تحلیل‌گران هشدار می‌دهند تزریق نقدینگی بدون وجود مسیر خروج سرمایه‌گذاران، موجب داغ شدن کاذب اکوسیستم خواهد شد."
-        ],
-        "full_text": "Record Venture Funding Meets Frozen Exit Market in Korea Short-Term Overheating in State Funds Such as the National Growth Fund IPOs, the Main Exit Route, Are Shrinking Secondary Funds Offer Some Relief Venture Firms Must Build Fundamental Competitiveness This article appeared on Signal, the capital markets compass, at 4:50 p.m. on September 4, 2026. Venture investment in South Korea has climbed to a record high, but the initial public offering market that serves as the main exit route has contracted sharply. The government plans to channel more than 200 trillion won into unlisted companies and other targets by 2030. Analysts say that to recover public money safely, the country must revive the exit market while concentrating support on promising companies with global potential, lifting the fundamental competitiveness of the ecosystem. Venture investment totaled 8.87 trillion won in the first half of this year, a record, according to the Ministry of SMEs and Startups and investment banking sources on the 4th. The figure counts only risk capital deployed by venture capital firms and excludes direct investments by state funds such as the National Growth Fund. Using National Growth Fund resources, the government this year made 1.12 trillion won in direct investments in five companies: Rebellions, Upstage, FuriosaAI, Ligachem Biosciences and Wonik Robotics. Including those, first-half venture investment is estimated to have exceeded 10 trillion won. While investment has boomed, the exit market has frozen. Only 27 companies have newly listed on the KOSDAQ market this year, excluding special purpose acquisition companies, according to the Korea Exchange. Twenty companies have won preliminary approval from the exchange, and given the remaining IPO steps — securities filings, demand forecasting and subscription schedules — the annual total is likely to fall below 50. Last year, 69 companies listed on KOSDAQ. For the 11 years since 2014, when there were 40, new KOSDAQ listings had topped 50 every year. Against that backdrop, the government is injecting public money on an unprecedented scale. The Financial Services Commission in July raised the National Growth Fund to 200 trillion won from an originally planned 150 trillion won. It plans to deploy 40 trillion won this year alone. The Ministry of SMEs and Startups and other agencies set this year's fund of funds, which invests in venture capital firms to spur venture investment, at 4.4 trillion won, and decided to put 2 trillion won into a regional growth fund for local venture firms over the next five years. Public money is flooding into the market even as exit routes remain blocked. Investment banking industry officials expect short-term overheating and difficulty recovering money over the medium to long term. FuriosaAI, which received 370 billion won in direct investment from the National Growth Fund in May at a valuation of about 3 trillion won, posted revenue of 5.74 billion won last year. Based on recent revenue and that valuation, its price-to-sales ratio works out to 522.6 times. Many say the valuation is high even allowing for the fact that it is a startup developing artificial intelligence chips, a field seen as promising, and that its business has yet to hit full stride. Other companies that received large public investments are in similar positions. The head of the IPO division at a large domestic securities firm said: \"If a company raises money at a 3 trillion won valuation before listing, it will have to target an even higher valuation when it goes public. If valuations are too high relative to earnings from the venture investment stage and the company cannot list, recovering public money could become a problem.\" Conditions are worse at companies that have gone years without earnings growth and cannot attempt an IPO. In March, U.S. venture capital firm Altos Ventures bought a 3% stake in Zigbang at a valuation of 300 billion won. That is far below the 2.5 trillion won valuation Zigbang received in its 2022 pre-IPO round. Yanolja, Ridi, Karrot and Kurly, whose investors are also struggling to exit, are in much the same position. Many of these companies took investment from venture capital funds seeded by the government's fund of funds. Solving the twin problems of short-term overheating and blocked exits requires both immediate steps and longer-term remedies, industry officials say. The securities industry has decided to pursue up to 1 trillion won in secondary fund investments over the next three years. Because secondary funds mainly buy stakes in unlisted companies held by existing venture funds, they can give breathing room to venture capital firms whose exit routes have narrowed with the IPO slowdown. The government also sees problems in the exit market and decided to use 200 billion won of this year's fund of funds resources to set up secondary funds. The longer-term remedy the industry proposes is a fundamental overhaul of the venture ecosystem. This year's IPO slowdown stems in part from regulators raising the bar for special listings by loss-making companies. That also means many companies were trying to list without the earnings strength to support it. If more venture firms generate solid profits, mergers and acquisitions could emerge as a main exit route for venture investment, as in the United States and other advanced capital markets. According to a Startup Alliance policy briefing for last year's parliamentary audit of government agencies, 94% of U.S. venture capital firms have recovered investments through M&A. With domestic M&A by large companies constrained by rules on affiliate designation and strict merger reviews, some argue that easing certain regulations would open exit routes. An investment banking industry official said: \"The existing approach of handing subsidies to most early-stage startups will only mass-produce marginal firms that keep losing money. Resources should go to promising companies with the potential",
-        "impact": "عدم تعادل شدید میان تزریق سرمایه دولتی و نقدشوندگی سرمایه‌گذاران در اکوسیستم استارتاپی شرق آسیا.",
-        "tag": "استارتاپ",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "en.sedaily",
-        "url": "https://en.sedaily.com/signal/article/record-venture-funding-meets-frozen-exit-market-in-korea",
-        "clean_url": "https://en.sedaily.com/signal/article/record-venture-funding-meets-frozen-exit-market-in-korea",
-        "image": "https://wimg.sedaily.com/news/cms/2026/09/04/news-p.v1.20260107.92ace0200575471faaf4f9dbeecaa9cd_P1.jpg",
-        "images": [
-            "https://wimg.sedaily.com/news/cms/2026/09/04/news-p.v1.20260107.92ace0200575471faaf4f9dbeecaa9cd_P1.jpg",
-            "https://en.sedaily.com/sedaily-og-image.png",
-            "https://wimg.sedaily.com/news/cms/2026/08/28/news-p.v1.20260827.a620c1c439b74661a0f071a90d4be5e7_P1.jpg",
-            "https://wimg.sedaily.com/news/cms/2026/09/03/news-p.v1.20260902.179cc5f43487481bb0b09d27aece43d8_P1.png"
-        ],
-        "timestamp": 1788540600.0
-    },
-    {
-        "id": "b5db844478",
-        "title_fa": "ورود اپلیکیشن اکس‌باکس کلود به تلویزیون‌های هوشمند TCL",
-        "title_en": "Microsoft brings Xbox Cloud Gaming to TCL Smart TVs ahead of streaming caps",
-        "summary": [
-            "مایکروسافت سرویس اجرای ابری بازی‌های اکس‌باکس را روی تلویزیون‌های هوشمند TCL راه‌اندازی کرد.",
-            "این اقدام در حالی صورت می‌گیرد که محدودیت‌های ساعتی جدیدی برای استفاده از سرویس‌های استریمینگ در حال اعمال است."
-        ],
-        "full_text": "Microsoft is expanding its Xbox Cloud Gaming system by bringing the Xbox app to TCL Smart TVs, even as new hourly streaming caps loom.",
-        "impact": "گسترش دسترسی به بازی‌های کنسولی بدون نیاز به خرید سخت‌افزار مجزا روی تلویزیون‌های اقتصادی.",
-        "tag": "گجت",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "Neowin",
-        "url": "https://www.neowin.net/news/microsoft-brings-xbox-cloud-gaming-to-tcl-smart-tvs-ahead-of-streaming-caps/",
-        "clean_url": "https://www.neowin.net/news/microsoft-brings-xbox-cloud-gaming-to-tcl-smart-tvs-ahead-of-streaming-caps",
-        "image": "https://cdn.neowin.com/news/images/uploaded/2026/09/1788537754_xgp_tcl-partner-a9a894bf85566ec68565-1536x864_story.webp",
-        "images": [
-            "https://cdn.neowin.com/news/images/uploaded/2026/09/1788537754_xgp_tcl-partner-a9a894bf85566ec68565-1536x864_story.webp"
-        ],
-        "timestamp": 1788540300.0
-    },
-    {
-        "id": "6fffaecd28",
-        "title_fa": "رونمایی یوگرین از سرورهای خانگی پردازش محلی AI با سخت‌افزار انویدیا",
-        "title_en": "UGREEN unveils HomeAgent local AI hubs with Linux and Nvidia hardware",
-        "summary": [
-            "یوگرین در نمایشگاه IFA از سری HomeAgent رونمایی کرد؛ هاب‌های پردازش محلی هوش مصنوعی مبتنی بر لینوکس و انویدیا.",
-            "این دستگاه‌ها پردازش‌های هوش مصنوعی را کاملاً آفلاین و بدون ارسال داده به ابر در خانه انجام می‌دهند."
-        ],
-        "full_text": "Unveiled at IFA 2026, the series opens pre-orders today with a 50% discount ahead of an October Kickstarter campaign.",
-        "impact": "گامی جدی به سوی حفظ حریم خصوصی کاربران با انتقال پردازش هوش مصنوعی از ابر به سخت‌افزارهای خانگی.",
-        "tag": "سخت‌افزار",
-        "urgency": 6,
-        "sentiment": 0.65,
-        "source": "Neowin",
-        "url": "https://www.neowin.net/news/ugreen-unveils-homeagent-local-ai-hubs-with-linux-and-nvidia-hardware/",
-        "clean_url": "https://www.neowin.net/news/ugreen-unveils-homeagent-local-ai-hubs-with-linux-and-nvidia-hardware",
-        "image": "https://cdn.neowin.com/news/images/uploaded/2026/09/1788530771_aiot-banner_3840x_story.webp",
-        "images": [
-            "https://cdn.neowin.com/news/images/uploaded/2026/09/1788530771_aiot-banner_3840x_story.webp"
-        ],
-        "timestamp": 1788539400.0
-    },
-    {
-        "id": "d9edb2fbb1",
-        "title_fa": "تخصیص بودجه ۱ میلیون دلاری برای آموزش نیروهای فنی فناوری",
-        "title_en": "Press Release: John Mannion Announces $1.03 Million for Onondaga Community College Workforce Training",
-        "summary": [
-            "کالج آنوندانگا برای ارتقای مهارت‌های نیروی کار و آماده‌سازی نیروی متخصص فناوری، بودجه‌ای ۱.۰۳ میلیون دلاری دریافت می‌کند."
-        ],
-        "full_text": "Press Release: John Mannion Announces $1.03 Million for Onondaga Community College Workforce Training  Quiver Quantitative",
-        "impact": "سرمایه‌گذاری در آموزش‌های فنی به کاهش شکاف نیروی متخصص در بخش‌های تکنولوژی کمک می‌کند.",
-        "tag": "آموزش",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FDNTk2bTBhdG03VGx6ZGdtcXItTmN6SGxqLTRqN1BVSHZDdU52YmNReEVEQmdNYXJZQmQwNlBZQm8ydlJsWWliUEE0YXFSY2lGTWF1UkxqQ0dKOFBTU0x0R3UyUE56Qk45dmRPelhBV1FaNmtuUEZwamJzRW5USElPYk1ZdThocmVlR2dHVzVFUmd0MjV2VHZXNXhrXy1WX0JZQXpVUzIyemRyZmRzNTdVU1Z6ZVdDcFg2QXdkNEtTTGtoMW9SWjMtR1RDSkhsREozaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3FDNTk2bTBhdG03VGx6ZGdtcXItTmN6SGxqLTRqN1BVSHZDdU52YmNReEVEQmdNYXJZQmQwNlBZQm8ydlJsWWliUEE0YXFSY2lGTWF1UkxqQ0dKOFBTU0x0R3UyUE56Qk45dmRPelhBV1FaNmtuUEZwamJzRW5USElPYk1ZdThocmVlR2dHVzVFUmd0MjV2VHZXNXhrXy1WX0JZQXpVUzIyemRyZmRzNTdVU1Z6ZVdDcFg2QXdkNEtTTGtoMW9SWjMtR1RDSkhsREozaw",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788538860.0
-    },
-    {
-        "id": "b41d42d0d7",
-        "title_fa": "شکست اکثر پروژه‌های آزمایشی هوش مصنوعی به‌رغم هزینه‌کرد سنگین",
-        "title_en": "Despite $4.25 Trillion in Tech Spending, Most AI Pilots Still Fail to Launch",
-        "summary": [
-            "گزارش‌های جدید نشان می‌دهد بخش اعظم پروژه‌های پایلوت هوش مصنوعی در سازمان‌ها هرگز به مرحله بهره‌برداری نهایی نمی‌رسند.",
-            "سرمایه‌گذاری ۴.۲۵ تریلیون دلاری در فناوری نیز نتوانسته موانع ادغام عملیاتی و بازگشت سرمایه را برطرف کند."
-        ],
-        "full_text": "Despite $4.25 Trillion in Tech Spending, Most AI Pilots Still Fail to Launch  inc.com",
-        "impact": "تغییر استراتژی مدیران ارشد از هزینه‌های هیجانی به سمت سناریوهای واقعی و سودآور.",
-        "tag": "استارتاپ",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "inc.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOellra2JfWVdOUWR2TmdaZkR0c21BMlROM0RqUnQyTUw1NEY3SFRuWkRPdjFiMW85U19UZ0NoQTMzaHJEX3BHMHdXekVPbjRWc1J4VGNHM0xXODhhLWlwUVlQejRGRFQ4anVGUDV2d2FZOVhEUzdsREw5YXhGcmF1NVNYdTVmbFF1ZDdXdHU2dzlyVWNobWpyXzRUYjBDcElnSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOellra2JfWVdOUWR2TmdaZkR0c21BMlROM0RqUnQyTUw1NEY3SFRuWkRPdjFiMW85U19UZ0NoQTMzaHJEX3BHMHdXekVPbjRWc1J4VGNHM0xXODhhLWlwUVlQejRGRFQ4anVGUDV2d2FZOVhEUzdsREw5YXhGcmF1NVNYdTVmbFF1ZDdXdHU2dzlyVWNobWpyXzRUYjBDcElnSWc",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-        "images": [
-            "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80"
-        ],
-        "timestamp": 1788537688.0
     }
 ]
